@@ -1,0 +1,3711 @@
+**********Common1805********** (ﾐﾆｴﾋﾟ　サラ)
+{N/A}
+#Message#
+\C[3]Email received.
+##
+
+{Voice}
+#Message#
+"Oh...? An email..."
+##
+
+{Email}
+#Message#
+\.\C[6]Hello hellooooo! (^^)/
+Didja know? Sara's going to a board game meetup!
+##
+
+#Message#
+\.\C[6]Wonder if she's goin alone....
+Papa's worried she might make sum bad friends....
+##
+
+{Voice}
+#Message#
+"...The usual, I see.
+ Well then, I shall reply..."
+##
+
+{Email}
+#Message#
+\.\C[3]Miss Sara is looking forward to the games.
+Surely her friend will also take part.
+##
+
+#Message#
+\.\C[3]I would encourage you exercise discretion and not
+complain that she should "spend days off with dad."
+##
+
+{Voice}
+#Message#
+\."...Perhaps that's saying too much."
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+{SE: Accent28-1}
+#Message#
+"*pant*...! *pant*...!"
+##
+
+[Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Ahh... I'm so utterly late...!"
+##
+
+[Sara: Casual, groan / cara0-48]
+#Message#
+\."And when I'm the one who invited him...
+ It's dad's fault..."
+##
+
+[Sara: Casual, glance to side, sad, mouth shut / cara0-56]
+#Message#
+\."Nah, it's not good to put blame on others..."
+##
+
+[Sara: Casual, yell / cara0-42]
+{SE: flash-of-light-3}
+#Message#
+\."Next time... I'll be sure to be on time,
+ even if I have to drag dad along!"
+##
+
+[Sara: Casual, surprise / cara0-44]
+#Message#
+\."...Hm?"
+##
+
+{Voice}
+#Message#
+"U-Um! I'm waiting for a friend, see...!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, clenched teeth / cara1-48]
+#Message#
+"S-So can I go now?!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+{SE: Accent41-1}
+#Message#
+"Hmm? And where is this friend of yours?"
+##
+
+{Playful Lady}
+#Message#
+\."You've just been here looking bored forever,
+ haven't you?"
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."I swear she exists!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+\."Oh, reeeally?"
+##
+
+{Playful Lady}
+{SE: Accent21-1}
+#Message#
+\."We can chat with you while you wait!"
+##
+
+{Sexy Lady}
+#Message#
+\."It's not some dubious offer or anything.
+ Just head with us to that cafe... 'kay?"
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Nope, I'm good! Got a soda and everything!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+{SE: Accent21-1}
+#Message#
+"What is Joe doing...?"
+##
+
+#Choice#
+Are they flirting...?
+I have to save him...!
+Try joining in
+##
+
+<ナンパ…？>
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+{SE: Accent40-1}
+#Message#
+"Could this be... flirting?"
+##
+
+[Sara: Casual, groan / cara0-48]
+#Message#
+\."A-Anyway...! Err, what to do..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: sceneswitch2}
+#Message#
+"!!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\C[4](Shoot, I made eye contact!)
+##
+
+{Joe} [Joe: Casual, worried, sweating / cara1-54]
+{SE: Accent24-1}
+#Message#
+\."..."
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+{SE: shrink1}
+#Message#
+\.\C[4](He's looking at me with puppy-dog eyes...)
+##
+
+[Sara: Casual, smirk / cara0-43]
+#Message#
+\.\C[4](Okay...)
+##
+
+[Sara: Casual, pointing / cara0-49]
+{SE: flash-of-light-3}
+#Message#
+\.\C[4](C'mere, boy...!)
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Sara! Why are you just watching?!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."Wah! Did I get it across...?!"
+##
+
+{Joe} [Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Get what across...?
+ I mean, you had this "c'mere, boy" look..."
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent28-1}
+#Message#
+\.\C[4](So he did understand...!)
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+{SE: stupid3}
+#Message#
+\."Well now... So she really showed up."
+##
+
+<助けないと…！>
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+"I have to save him...! Joe!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+"Heehee... You're fun to tease."
+##
+
+{Playful Lady}
+#Message#
+\."Here, I'll treat you to something. What do you like?"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."Stop right there, madams!!"
+##
+
+{Ladies} [Playful Lady / cara999-18]
+#Message#
+\."?!"
+##
+
+{Joe} [Joe: Casual, worried, sweating / cara1-54]
+#Message#
+\."S... Saraaa...!!"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That there is my friend! And you're bothering him,
+ so release him at once!!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+\."..."
+##
+
+{Playful Lady}
+{SE: flash-of-light-3}
+#Message#
+\."Eeeee! This one's cute, too!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Ehh...?!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+\."She's like some kind of warrior!"
+##
+
+{Playful Lady}
+#Message#
+\."Coming to his aid, huh? Good for you!"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."I-I'm a high-schooler...!
+ Don't treat me like a child!"
+##
+
+{Joe} [Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Yeah, yeah! And she's great at kendo too!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."When you say it like that,
+ don't I sound even more like a child?!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+{SE: Accent21-1}
+#Message#
+\."Heeheehee... You two are friendly, huh?"
+##
+
+<ノッてみよう>
+
+{Sara} [Sara: Casual, yell / cara0-42]
+{SE: Accent40-1}
+#Message#
+"Alright...!"
+##
+
+{Sexy Lady} [Silhouetted Sara / cara999-20]
+#Message#
+"Heehee... You're fun to tease."
+##
+
+{Playful Lady}
+#Message#
+\."Here, I'll treat you to something. What do you like?"
+##
+
+{Silhouetted Sara}
+#Message#
+\."No need to be shy, Joe."
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."W-Why do you know my na... wait..."
+##
+
+[Sara: Casual, smug smile / cara0-45]
+#Message#
+\."That you, Sara?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"You got me.
+ Good morning, Joe."
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Mornin'! You saved me, Sara!!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+{SE: stupid3}
+#Message#
+\."Oh dear... So she really showed up."
+##
+
+<Choice End>
+
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."Sorry to interfere with your date!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."It's really not like that..."
+##
+
+{Ladies} [Playful Lady / cara999-18]
+#Message#
+\."See yooou!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+{SE: Accent21-1}
+#Message#
+"...What was all that?"
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Beats me. They just came up all of a sudden..."
+##
+
+{Sara} [Sara: Casual, default / cara0-40]
+#Message#
+\."I see..."
+##
+
+#Choice#
+What an ordeal
+You're a hit, huh?
+Sure enough, you're flirty
+##
+
+<大変な目にあったな>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent40-1}
+#Message#
+"What an ordeal..."
+##
+
+{Joe} [Joe: Casual, folded arms groan / cara1-56]
+{SE: shrink1}
+#Message#
+\."...So you say, but you sure you're not
+ finding it a little amusing?"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."N-Not at all!"
+##
+
+<モテるんだな>
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+{SE: Accent40-1}
+#Message#
+"You're a hit with the ladies, huh, Joe?"
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."They were absolutely up to something sketchy!
+ I mean, really!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."A-Are you angry...?"
+##
+
+<やっぱりチャラいな>
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+{SE: Accent40-1}
+#Message#
+"Sure enough, you're flirty, Joe..."
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Were you even listening, Sara?!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+{SE: Onmtp-Surprise111-1}
+#Message#
+\."S-Sorry. I know."
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."It's my fault for being late anyway. Sorry..."
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+{SE: Accent21-1}
+#Message#
+\."Yeah, it's unusual of you to be late, actually..."
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."Urk... W-Well, I...!"
+##
+
+[Sara: Casual, outstretched open hand / cara0-51]
+#Message#
+\."I-It was all my fault! I overslept...!!"
+##
+
+{Joe} [Joe: Casual, folded arms curious / cara1-57]
+{SE: stupid3}
+#Message#
+\."You replied to me in the morning."
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."I've been sunk...!!"
+##
+
+{Joe} [Joe: Casual, folded arms smile / cara1-55]
+#Message#
+\."Be honest. It was your dad, right?"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\.\C[4](He's sharp...!)
+##
+
+[Sara: Casual, closed-eyes sigh / cara0-61]
+{SE: Accent21-1}
+#Message#
+\."You're right... The front door was defended.
+ "You must defeat dad before you can leave"...!"
+##
+
+[Sara: Casual, pointing / cara0-49]
+{SE: flash-of-light-3}
+#Message#
+\."But I managed to escape out the window
+ and leave without incident!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Hahaha! Your family sure is fun, huh?!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Urk..."
+##
+
+#Choice#
+I'm embarrassed...
+Well, anyway, sorry
+Don't laugh!
+##
+
+<恥ずかしいよ…>
+
+{Sara} [Sara: Casual, groan / cara0-48]
+{SE: Accent40-1}
+#Message#
+"It's embarrassing... living with such a family..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: Accent39-1}
+#Message#
+\."Ehh? Why's that?"
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."I like it, myself!
+ You, your dad, all that jazz!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."D-Do you really...?"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent28-1}
+#Message#
+\."Yeah! I don't think it's embarrassing one bit!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."Haha... I see."
+##
+
+<とにかくごめん>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+"Anyway, I'm sorry! And after inviting you...!"
+##
+
+{Joe} [Joe: Casual, folded arms groan / cara1-56]
+{SE: Accent39-1}
+#Message#
+\."I-Is being late that much of an offense...?"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Then... you aren't angry...?!"
+##
+
+{Joe} [Joe: Casual, serious look / cara1-45]
+{SE: Onmtp-Surprise112-1}
+#Message#
+\."No, I'm angry."
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Ahhh! Joe...! I'm sorry...!!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Jump2}
+#Message#
+\."Hahaha! Kidding! I was just teasing ya."
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."From now on... I'll aim to arrive 1 hour early!!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: shrink1}
+#Message#
+\."Yikes... Teased too much... My bad..."
+##
+
+<笑うな！>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+"Don't laugh at my father!!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Hwaaah?! Sara's snapped!!"
+##
+
+[Joe: Casual, wide-eyed surprise, clenched teeth / cara1-48]
+#Message#
+\."You got it wrong! I really like it, honest!
+ You, your dad, all that jazz!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."D-Do you really...?"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent28-1}
+#Message#
+\."Yeah! I don't think it's embarrassing one bit!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."Huh... I see!"
+##
+
+<Choice End>
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."Anyway, you're tired, right? Here."
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+"A soda.... Can I really have this?"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent11-1}
+#Message#
+\."Of course! It's your favorite flavor, y'know?"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."Thanks. I'm sure you're tired too..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."It's fine! I drank mine."
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+#Message#
+\."If you want it, I'll let you have a sip."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Well then, I'll take it all!!"
+##
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+\."Ah, give it back! Not fair, Joe!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hahaha! C'mon! I got it here!"
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent28-1}
+#Message#
+"We're here, Sara!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."So this is the town board game meetup..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."They've even got stands! It's like a festival!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."People who came with their family, too...
+ Huh, it's a lot more peaceful than I imagined..."
+##
+
+{Joe} [Joe: Casual, folded arms smile / cara1-55]
+{SE: Accent21-1}
+#Message#
+\."You did say you were scared to go alone."
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."D-Did I...?"
+##
+
+#Choice#
+That's why I invited you
+I didn't say that
+##
+
+<だから誘ったんだ>
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+{SE: Accent40-1}
+#Message#
+\."Well... That's why I invited you. 
+ I'm just fine with you here, Joe."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Right? Enjoy it to your heart's content!"
+##
+
+<言ってない>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."I didn't say that...!
+ I just... wanted you to come along, so..."
+##
+
+[Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Wait, that sounds weird too?!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent24-1}
+#Message#
+\."Hahaha! Well, guess I'll do my best
+ to make it a fun time for ya!"
+##
+
+<Choice End>
+
+{Joe} [Joe: Casual, folded arms smile / cara1-55]
+#Message#
+\."Board games use your noggin, right?
+ Seems like your kinda thing, Sara."
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: flash-of-light-3}
+#Message#
+\."If you get into it... you might get really entranced!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."..."
+##
+
+[Sara: Casual, smug smile / cara0-45]
+{SE: Accent21-1}
+#Message#
+\."...Yeah. That's right."
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+#Message#
+\."..."
+##
+
+[Joe: Casual, folded arms smile / cara1-55]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Alright! Let's have a contest, Sara!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."A contest?"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: sceneswitch2}
+#Message#
+\."To see who's the best player among us!
+ The winner gets to issue one order to the loser!
+ How about it?!
+##
+
+{Sara} [Sara: Casual, default / cara0-40]
+#Message#
+\."Hmmm..."
+##
+
+#Choice#
+Sounds like fun
+Sounds boring
+##
+
+<楽しそうだな>
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+{SE: Accent40-1}
+#Message#
+"Sounds like fun. Why not?"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: flash-of-light-3}
+#Message#
+\."Heheh! But I'm not gonna lose!"
+##
+
+<つまらないな>
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."Sounds boring..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: stupid3}
+#Message#
+\."H... Huh?"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+{SE: flash-of-light-3}
+#Message#
+\."When it's a battle I'm clearly going to win..."
+##
+
+{Joe} [Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Bold words, Sara!
+ Just you see, I'm lucky in times like these!"
+##
+
+<Choice End>
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Okay, let's get signed up! Hurry, hurry!"
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+#Message#
+\."Right!"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent21-1}
+#Message#
+"We're done signing up!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+{SE: Accent39-1}
+#Message#
+\."You didn't get flirted with this time..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."There BETTER not be a second time!"
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Right, so it seems we're a team of two..."
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."A team battle, huh..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."So for our little contest,
+ we'll compare our individual performances!"
+##
+
+[Joe: Casual, default / cara1-42]
+#Message#
+\."And as for the game we're taking part in..."
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."I chose a card game: "Animal Match"!"
+##
+
+{Sara} [Sara: Casual, default / cara0-40]
+#Message#
+\."Hm..."
+##
+
+#Choice#
+Never heard of it
+Ahh, that one...
+##
+
+<聞いたことが無いな>
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+{SE: Accent40-1}
+#Message#
+\."I've never heard of it."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Yep! Apparently all the games they have here
+ are custom-made originals."
+##
+
+<ああアレか…>
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."Ahh, that one... Interesting."
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Hey, hey! Sara, they said all the games
+ they have here are custom-made originals!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Ack! My bluff, called on the first move...?!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."As it happens, it does seem to be a game
+ that involves some bluffing, yeah!"
+##
+
+<Choice End>
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent21-1}
+#Message#
+\."They say if any of 'em draw a lot of excitement,
+ they might get sold in stores someday!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."Huh... Kind of exciting."
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+{SE: Accent28-1}
+#Message#
+\."It's two-on-two, and the table is..."
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."Looks like it's over there."
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+{SE: sceneswitch2}
+#Message#
+"Hey there! Here's to a fun game!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+{SE: sceneswitch2}
+#Message#
+"Hahaha... Let's make this a good match..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Awright! Same to you!"
+##
+
+{Chairman} [Chairman / cara999-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Well then, shall I explain the rules?"
+##
+
+#Choice#
+Please do
+Skip rule explanation
+##
+
+<お願いします>
+
+<ルール説明を飛ばす>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: Accent40-1}
+#Message#
+"Let's just try it!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Understood. Well, let's begin!"
+##
+
+<Choice End>
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: flash-of-light-3}
+#Message#
+"Way to go, Sara!"
+##
+
+{Sara} [Sara: Casual, wink / cara0-47]
+#Message#
+\."Yeah!"
+##
+
+#Choice#
+That was fun!
+Let's keep winning!
+Fist bump
+\C[10]Hug
+##
+
+<楽しかったな！>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent40-1}
+#Message#
+"This game's really fun!"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Heheh, your eyes are sparkling!
+ Think you're suited to it, Sara?"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."What, Joe, you're not having fun?"
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+#Message#
+\."Nothin' like that! I'm having more fun than you!!"
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."Feels like if I don't enjoy it with all I got,
+ I won't be able to win!"
+##
+
+<次も勝とう！>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+#Message#
+"Let's keep winning, Joe!"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Yep! And I won't lose to you in
+ individual results, either!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."Hahaha... What shall I order you to do?"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."M-Maybe I shouldn't have given you time to think...?"
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+#Message#
+\."...Look forward to it!"
+##
+
+<グータッチ>
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+"Gah!! A fist bump?!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Huh?! Sorry, Joe!
+ I just slammed a fist into your palm...!"
+##
+
+{Joe} [Joe: Casual, upset groan with grave look / cara1-52]
+#Message#
+\."Owww...! I thought it'd be a high five!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Want to drop out for Game 2...?"
+##
+
+[Sara: Casual, groan / cara0-48]
+{SE: Accent41-1}
+#Message#
+\."If you do that... alas, I would win..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."What do you mean "alas"?!
+ And hey, I'm not quittin'!"
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: flash-of-light-3}
+#Message#
+\."I'll get back for the pain in my hand
+ in our matches, Sara!!"
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+#Message#
+\."Right! That's the ticket!"
+##
+
+<\C[10]ハグ>
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent40-1}
+#Message#
+"Whoa now, that's a bit much for a single win!"
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Why not?! I'm happy, okay?!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent24-1}
+#Message#
+\."Guess so! Are we a good pair or what?!"
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent21-1}
+#Message#
+\."Ahaha!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Haha...
+ .........."
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\.".........."
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+#Message#
+\.".........."
+##
+
+[Sara: Casual, smirk / cara0-43]
+#Message#
+\."....."
+##
+
+[Sara: Casual, glance to side with blush / cara0-52]
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."Ah! L-Looks like Game 2's starting!
+ Let's take our seats!"
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+#Message#
+\."Y-Yeah, right! Let's go!"
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: sceneswitch2}
+#Message#
+"\C[2]Trio\C[0], \C[2]14\C[0]!!"
+##
+
+{Game 2 Dandy} [Game 2 Dandy / cara999-9]
+#Message#
+\."Gyaaaaah!!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Awright, Sara! Onto Game 3!"
+##
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+\."Yeah! Keep it up!"
+##
+
+[Sara: Casual, pointing / cara0-49]
+{SE: sceneswitch2}
+#Message#
+"\C[2]Trio\C[0], \C[2]16\C[0]!!"
+##
+
+{Game 3 Policeman} [Police Silhouette / cara999-2]
+#Message#
+\."Byaaaaah!!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."Dang...! That was a godly pull...!"
+##
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+\."Still more...!"
+##
+
+[Sara: Casual, pointing / cara0-49]
+{SE: sceneswitch2}
+#Message#
+"\C[2]Trio\C[0], \C[2]18\C[0]!!"
+##
+
+{Game 4 Student} [Friend / cara999-6]
+#Message#
+\."NooooOOOO!!"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: sceneswitch2}
+#Message#
+"Another \C[2]trio\C[0]!!"
+##
+
+{Game 5 Musician} [Game 5 Musician / cara999-21]
+#Message#
+\."...!!!!"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: sceneswitch2}
+#Message#
+"Nothing but \C[2]trios\C[0]!!"
+##
+
+{Game 6 Loner} [Game 6 Loner / cara999-22]
+#Message#
+\."Waaaaaugh!!"
+##
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+"We've won all the way to the finals!"
+##
+
+{Joe} [Joe: Casual, upset groan with grave look / cara1-52]
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\."*pant*... *pant*... Can we take a break...?"
+##
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+\."What are you saying, Joe?! After coming so far!"
+##
+
+[Sara: Casual, outstretched open hand / cara0-51]
+#Message#
+\.\{"Who's next?! Who's my opponent?!?"
+##
+
+{Local Child} [Local Child / cara999-25]
+#Message#
+\."Eep...! WAAAAAH!!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+{SE: sceneswitch2}
+#Message#
+\."Ah...!"
+##
+
+{Local Mother} [Woman in Audience / cara999-8]
+{SE: shrink1}
+#Message#
+\."Oh dear, I'm sorry... Come here..."
+##
+
+{Local Child} [Local Child / cara999-25]
+#Message#
+\."Mommyyyy!!"
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+{SE: Accent21-1}
+#Message#
+\."Ohh... I did it again..."
+##
+
+{Joe} [Joe: Casual, folded arms smile / cara1-55]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Haha, got a little too heated there, Sara!"
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\.".........."
+##
+
+#Choice#
+I guess so
+Should we leave?
+Sulk in the corner
+##
+
+<そうだな>
+
+{Sara} [Sara: Casual, glance to side, sad, mouth open / cara0-55]
+{SE: Accent40-1}
+#Message#
+"I guess so... I did a foolish thing..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: shrink1}
+#Message#
+\."Y... You look a little too dejected..."
+##
+
+<帰ろうか>
+
+{Sara} [Sara: Casual, glance to side, sad, mouth open / cara0-55]
+{SE: Accent40-1}
+#Message#
+"Maybe we should just leave..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, clenched teeth / cara1-48]
+#Message#
+\."Eh?! You're acting way too sullen, Sara!!"
+##
+
+<すみっこでいじける>
+
+{Sara} [Sara: Casual, glance to side, sad, mouth open / cara0-55]
+{SE: Accent40-1}
+#Message#
+"What am I doing... truly..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: stupid3}
+#Message#
+\."You're... drawing on the ground with your finger..."
+##
+
+[Joe: Casual, wide-eyed surprise, clenched teeth / cara1-48]
+#Message#
+\."Stop it, Sara! That's too sulky out of nowhere!"
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, glance to side, sad / cara0-54]
+#Message#
+\."I mean..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."C'mon, let's rest. Get somethin' to eat."
+##
+
+{Sara} [Sara: Casual, glance to side, sad / cara0-54]
+#Message#
+\."Right... okay."
+##
+
+[Sara: Casual, glance to side, sad, mouth shut / cara0-59]
+{SE: Accent21-1}
+#Message#
+\."A candy apple, please..."
+##
+
+{Joe} [Joe: Casual, folded arms groan / cara1-56]
+{SE: Accent39-1}
+#Message#
+\."Awfully particular of you..."
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+{SE: Accent21-1}
+#Message#
+\."Actually...
+ This kind of thing has happened before..."
+##
+
+{Joe} [Joe: Casual, folded arms curious / cara1-57]
+#Message#
+\."Before...?"
+##
+
+{Sara} [Sara: Casual, glance to side, sad, mouth shut / cara0-59]
+#Message#
+\."Yeah..."
+##
+
+[Sara: Casual, groan / cara0-48]
+#Message#
+\."It's... a bad habit of mine."
+##
+
+#Message#
+"I get too focused... and hurt those around me."
+##
+
+#Message#
+\."Back in middle school... I did kendo."
+##
+
+#Message#
+\."At first I just sort of joined because it was cool..."
+##
+
+#Message#
+\."But I got absorbed... and really came to
+ appreciate martial arts..."
+##
+
+[Middle Schooler / cara999-27]
+#Message#
+\."And also, my father taught me...
+ "It's rude to your opponent to ease up.""
+##
+
+#Message#
+"And then one day..."
+##
+
+{SE: Accent41-1}
+#Message#
+"I sent it flying... My opponent's mask..."
+##
+
+{Middle Schooler} [Middle Schooler / cara999-26]
+#Message#
+"W... WaaaAAAAaaaah!! No mooore!!"
+##
+
+{Sara} [Sara: Young, kendo gear / cara0-62]
+{SE: Accent21-1}
+#Message#
+\."What's wrong...? Are you hurt...?"
+##
+
+{Middle Schooler}
+#Message#
+\."I'm scared!! I don't wanna do this anymore!!"
+##
+
+#Message#
+\."I... I quit!!"
+##
+
+{Sara}
+#Message#
+\."H... Hold on...!"
+##
+
+[Sara: Casual, groan / cara0-48]
+#Message#
+"Afterward, that girl stayed away from kendo..."
+##
+
+{SE: Accent21-1}
+#Message#
+"It was honestly a shock... That's why my own kendo...
+ ended in middle school..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Hahaha!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Wh..."
+##
+
+[Sara: Casual, pointing / cara0-49]
+#Message#
+\."Why are you laughing?! Joe!!"
+##
+
+{Joe} [Joe: Casual, folded arms smile / cara1-55]
+{SE: Accent21-1}
+#Message#
+\."Ain't it fine to have a memory or two like that?"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."But...! I made a friend cry...!"
+##
+
+{Joe} [Joe: Casual, folded arms smile / cara1-55]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I bet it was memorable for that girl too, y'know?"
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent28-1}
+#Message#
+\."She can be like, "I had this wild friend back then"!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+{SE: sceneswitch2}
+#Message#
+\."Eh...?"
+##
+
+{Joe} [Joe: Casual, folded arms smile / cara1-55]
+#Message#
+\."Fact is, getting a chance to interact with
+ someone that serious is pretty uncommon, right?"
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent40-1}
+#Message#
+\."That kinda seriousness sticks in your memory!"
+##
+
+{Sara} [Sara: Casual, glance to side, sad, mouth open / cara0-55]
+#Message#
+\."Is that right...?"
+##
+
+{Joe} [Joe: Casual, folded arms curious / cara1-57]
+#Message#
+\."I'm sure she freaked out at the time, but..."
+##
+
+[Joe: Casual, folded arms smile / cara1-55]
+{SE: Accent28-1}
+#Message#
+\."Who knows, she might be working at something else
+ thinking "I'll try just as hard as her!""
+##
+
+{Sara} [Sara: Casual, sad, eyebrows lowered, teeth clenched / cara0-60]
+#Message#
+\.".........."
+##
+
+[Sara: Casual, sad, eyebrows lowered / cara0-58]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I never... thought of it like that."
+##
+
+[Sara: Casual, groan / cara0-48]
+#Message#
+\."Then, I..."
+##
+
+[Sara: Casual, smirk / cara0-43]
+{SE: Accent40-1}
+#Message#
+\."Is it okay... for me to get more serious?"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Yeah! If things get too scary, I'll stop ya!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."Heehee... You will, Joe?"
+##
+
+{Joe} [Joe: Casual, folded arms smile / cara1-55]
+{SE: Jump1}
+#Message#
+\."Yep! Hey now, Sara, beggars can't be choosers."
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."Joe..."
+##
+
+{Joe} [Joe: Casual, folded arms curious / cara1-57]
+{SE: Accent21-1}
+#Message#
+\."Come to think of it, is that why you don't
+ get involved with other people too much?"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."A-Are you calling me a loner...?!"
+##
+
+[Sara: Casual, pointing / cara0-49]
+#Message#
+\."That's wrong, Joe! There's other reasons for that...!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent28-1}
+#Message#
+\."Then all the more reason
+ you'll have to put up with me!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\.".........."
+##
+
+[Sara: Casual, smug smile / cara0-45]
+{SE: Accent21-1}
+#Message#
+\."Haha... Right."
+##
+
+{Voice}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Ahem... Are our opponents for the finals ready yet?"
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+{SE: Accent41-1}
+#Message#
+\."Huh...? You're..."
+##
+
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."No way! It's the guy from this morning!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."Waugh?! Why are you here?!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+\."Heehee... It must be fate we met again, isn't it?"
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."T-Too close, lady!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+{SE: Accent21-1}
+#Message#
+\."I was thinking of asking you to be our cameraman,
+ in place of my sister who's sick with a cold..."
+##
+
+{Playful Lady}
+{SE: Accent28-1}
+#Message#
+\."But if you're our opponent in the finals...
+ Nothing could be juicier!"
+##
+
+{Joe} [Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Cameraman...?"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+\."Heehee..."
+##
+
+{Playful Lady}
+{SE: sceneswitch2}
+#Message#
+\."Wherever there are prizes, we shall appear...!"
+##
+
+{Sexy Lady}
+#Message#
+\."We are the Treasure Sisters, hunters of prizes!!"
+##
+
+{Playful Lady}
+#Message#
+\."...That's the name of the channel we post videos on.
+ Thanks in advance!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."T-They turned out to be oddballs, huh...!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Just so you know... We're not losing, okay?"
+##
+
+{Playful Lady}
+#Message#
+\."If we win it all, it'll be great footage... Heehee."
+##
+
+{Joe} [Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."We're not losin' either!"
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+{SE: sceneswitch2}
+#Message#
+\."Let's show 'em our teamwork!"
+##
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+\."Right...!"
+##
+
+#Choice#
+Let's go, Joe!
+Get my good side!
+We're the Sonobeno Studious!
+##
+
+<やるぞジョー！>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."Let's go, Joe!!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Yep! Let's do this... seriously!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+\."If you win, we'll be asking permission
+ to leave your faces unblurred...!"
+##
+
+{Playful Lady}
+#Message#
+\."Your contact info too, please!"
+##
+
+<しっかり映るぞ！>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."Be sure to get me on video!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+\."I take it that means we can include your face...!"
+##
+
+{Playful Lady}
+#Message#
+\."Chairman, record this holy battle...!"
+##
+
+{Joe} [Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Don't really follow, but we're gonna win!!"
+##
+
+<園辺之高校スチューデンツ！>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."We're the Sonobeno Studious!!"
+##
+
+{Joe} [Joe: Casual, upset groan with grave look / cara1-52]
+#Message#
+\."We don't have to compete against
+ their team name too, y'know!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+\."How funny...! If you win,
+ we'll introduce you with that name!"
+##
+
+{Playful Lady}
+#Message#
+\."And get permission to use your faces!"
+##
+
+<Choice End>
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+"Well then, are you ready...?
+ This final game will go for 3 loops!"
+##
+
+#Message#
+"Let the finals... begin!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: flash-of-light-3}
+#Message#
+"All right, Sara! We're the champions!!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."Champions...!"
+##
+
+#Choice#
+We did it!
+High five
+Lift him up
+\C[10]Kiss
+##
+
+<やったな！>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent40-1}
+#Message#
+"We did it, Joe!!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent28-1}
+#Message#
+\."We're the strongest duo around!!"
+##
+
+<ハイタッチ>
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: flash-of-light-3}
+#Message#
+"Oooh! That was a good clap!"
+##
+
+<胴上げ>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent40-1}
+#Message#
+"Up, up and away!!"
+##
+
+[Sara: Casual, groan / cara0-48]
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\."Oof... heavy... can't..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, clenched teeth / cara1-48]
+#Message#
+\."Well, yeah!"
+##
+
+<\C[10]キス>
+
+{Joe} [Joe: Casual, worried, sweating / cara1-54]
+#Message#
+\."Sara?! What're you...!"
+##
+
+[Joe: Casual, default / cara1-42]
+{SE: sceneswitch2}
+#Message#
+\."Hryah!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Urk..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent39-1}
+#Message#
+\."Just a light headbutt. Calmed down?"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+{SE: Accent21-1}
+#Message#
+\."Y-Yeah... What was I even doing...?"
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."Champions...!"
+##
+
+#Choice#
+We did it!
+High five
+Lift him up
+##
+
+<やったな！>
+
+<ハイタッチ>
+
+<胴上げ>
+
+<Choice End>
+
+{Chubby Man} [Skinny Man / cara999-16]
+#Message#
+\."Amazin', you two!!"
+##
+
+{Skinny Man}
+#Message#
+\."Let's celebrate! A round of applause for the victors!"
+##
+
+{Sexy Lady} [Playful Lady / cara999-18]
+#Message#
+\."Too bad we lost, but congrats!"
+##
+
+{Playful Lady}
+#Message#
+\."Great job, great job!"
+##
+
+{Chairman} [Chairman / cara999-19]
+{SE: Accent28-1}
+#Message#
+\."And now, our grand prize... A pair of wristwatches!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Whoa! That's nicer than I expected!"
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent21-1}
+#Message#
+\."Ooh, it suits ya!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."Haha... You're not wearing yours, Joe?"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\."What, Sara, you wanna wear them as a pair?"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."T... True, it'd become a hassle
+ if an acquaintance saw us..."
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Oh yeah, and I haven't forgotten!
+ About our personal battle!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."The contest between you and me?
+ Whoever got the most coins, I suppose?"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent11-1}
+#Message#
+\."Announcing the results! Ahem..."
+##
+
+[Joe: Casual, default / cara1-42]
+{SE: Accent21-1}
+#Message#
+\."Sara: \V[1081] points!
+ Joe: \V[1082] points!
+ ...Which means..."
+##
+
+[Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: flash-of-light-3}
+#Message#
+\."Daaang! A perfect tie!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."I guess anything can happen..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."It's amazing, frankly!
+ We're totally equally matched, I guess?"
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent21-1}
+#Message#
+\."Maybe we're two peas in a pod!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Might as well date, huh!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\.".........."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: shrink1}
+#Message#
+\."Um... You're supposed to retort that I'm a flirt..."
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+{SE: Accent21-1}
+#Message#
+\."...What a flirt."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Haha!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."...Even if it came to a draw,
+ I was incredibly late today, so..."
+##
+
+[Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent28-1}
+#Message#
+\."I'm fine calling it my loss.
+ Joe, I'll obey your order."
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+{SE: Jump1}
+#Message#
+\."Ehh? That's unrelated, surely?"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."It's fine! I won't be satisfied otherwise!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."There's your dutiful side showing...
+ Let's see now..."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."Should've known! You win, Sara!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+{SE: Accent24-1}
+#Message#
+\."Hahaha... The natural result."
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+{SE: shrink1}
+#Message#
+\."So I couldn't win... What's your order?"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."Let's see..."
+##
+
+#Choice#
+Be my dog
+Carry my stuff home
+Treat me to dinner
+Exchange sake cups with me
+##
+
+<犬になってもらう>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent40-1}
+#Message#
+"Very well, I'll have you be my obedient dog."
+##
+
+{Joe} [Joe: Casual, folded arms smile / cara1-55]
+{SE: Accent08-1}
+#Message#
+\."You gonna look after me or what?"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+{SE: flash-of-light-3}
+#Message#
+\."If you learn some tricks, I'll give you food.
+ And I'll walk you twice a day."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Not too shabby! Haha!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."Heehee..."
+##
+
+<帰りの荷物持ち>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent40-1}
+#Message#
+"I'll have you carry my stuff home."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."That really all you want?! Piece of cake!"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Good idea! I'll buy castella cakes, takoyaki,
+ apricot candy... Everything I can get my hands on!"
+##
+
+{Joe} [Joe: Casual, upset groan with grave look / cara1-52]
+#Message#
+\."Shopping 'til I drop?!
+ Keep it to as much as you'll actually eat...!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."Heehee..."
+##
+
+<夕食をおごってもらう>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent40-1}
+#Message#
+"I'll have you treat me to dinner."
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Well, all right! Whaddya want to eat?"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hmm... cotton candy, castella cakes...
+ chocolate bananas... apricot candy..."
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."That's all sweet stuff! You'll get tired of it!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."Heehee..."
+##
+
+<盃を交わしてもらう>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent40-1}
+#Message#
+"Shall I have us exchange sake cups?"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."Are you a yakuza?!"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."That's an order! Make me a vow of eternal trust!"
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Uh, listen..."
+##
+
+[Joe: Casual, folded arms smile / cara1-55]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Is that really necessary?"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."...!"
+##
+
+[Sara: Casual, smirk / cara0-43]
+{SE: Accent21-1}
+#Message#
+\."...True, it's not necessary for us."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."So you get it, Sara."
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Well hey, I can treat you to dinner instead!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."Heehee... Very well."
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."...But also, I was extremely late today..."
+##
+
+[Sara: Casual, closed-eyes smile / cara0-46]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Joe, I'll accept an order from you too."
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+#Message#
+\."Huh? That's fine, really."
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."No it's not! I won't be satisfied otherwise!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."There's your dutiful side showing...
+ Let's see now..."
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: flash-of-light-3}
+#Message#
+\."Might come as a surprise, but... Looks like I win!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."What's that?! I can't believe it...!"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent42-1}
+#Message#
+\."Now, what should I order you to do?"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."J-Joe... Be kind..."
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Alrighty, this cool wristwatch here..."
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent28-1}
+#Message#
+\."I'll have you give this to your dad."
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."Eh?"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent21-1}
+#Message#
+\."He'll love it, getting something like this from ya!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."That's..."
+##
+
+#Choice#
+I can't accept this
+Score!
+I'll wrap it around your neck
+##
+
+<受け取れないよ>
+
+{Sara} [Sara: Casual, outstretched open hand / cara0-51]
+#Message#
+"I can't accept this! It's your prize, Joe!"
+##
+
+<ゲットだ！>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+"Score!!"
+##
+
+[Sara: Casual, groan / cara0-48]
+{SE: Accent39-1}
+#Message#
+\."...No, it's awkward to just shout that out..."
+##
+
+<ジョーの首に巻こう>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: Accent40-1}
+#Message#
+"I'll wrap it around your neck, Joe."
+##
+
+{Joe} [Joe: Casual, upset groan with grave look / cara1-52]
+#Message#
+\."Gwuh...?! Stop...! Can't breathe...!!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Don't die, Joe...!!"
+##
+
+{Joe} [Joe: Casual, upset groan with grave look / cara1-52]
+#Message#
+\."Then stop it, okay?!"
+##
+
+{Sara} [Sara: Casual, default / cara0-40]
+#Message#
+"Look, why won't you take it home yourself?"
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, groan / cara0-48]
+{SE: Accent21-1}
+#Message#
+\."Won't this, you know... remind you of today?"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Hey, don't make it sound so lonely!"
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Truth is... today was my old man's birthday."
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."You mean..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."Well, yeah... "if he were alive," y'know."
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+#Message#
+\."Hey, stop with that look!
+ Wasn't trying to bring things down."
+##
+
+[Joe: Casual, serious look / cara1-45]
+#Message#
+\."It's just... I dunno..."
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I wanna feel celebratory."
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Even if I put it on his altar...
+ it'd just be kinda lonely."
+##
+
+[Joe: Casual, serious look / cara1-45]
+#Message#
+\."Honestly, I barely have any memories of my old man..."
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."So I can't quite picture him overjoyed, y'know...?"
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+#Message#
+\."Bringing joy's the number one goal
+ of a present, ain't it?"
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."Joe..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent28-1}
+#Message#
+\."I want you to grant my wish instead."
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."..."
+##
+
+#Choice#
+All right
+But...
+##
+
+<わかった>
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+{SE: Accent40-1}
+#Message#
+\."...All right."
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Really?!"
+##
+
+<でも…>
+
+{Sara} [Sara: Casual, glance to side, sad, mouth open / cara0-55]
+{SE: Accent40-1}
+#Message#
+\."But..."
+##
+
+{Joe} [Joe: Casual, serious look / cara1-45]
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Sara... do you like your dad?"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\.".........."
+##
+
+[Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent28-1}
+#Message#
+\."Yeah... I love him."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Alright! Then stop nitpicking and take it.
+ It's an order, got it?
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."A-All right. I'll take it..."
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."But this is a "request"!
+ In exchange, give me another order!"
+##
+
+#Message#
+\."But this is a "request"!
+ In exchange, give me another order!"
+##
+
+[Sara: Casual, groan / cara0-48]
+{SE: Accent21-1}
+#Message#
+\."I'm embarrassed of myself...
+ I was plotting all sorts of things for if I won..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."What were you gonna have me do?!"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."But, that's right! This is a "request"!
+ In exchange, give me another order!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."Whaaa?! What the heck!"
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."I mean, it's just not satisfying!
+ Give me something else! Something more... vulgar!"
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."V-Vulgar...?! Urk..."
+##
+
+[Joe: Casual, upset groan with grave look / cara1-52]
+#Message#
+\."Then, uh... Let's see..."
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent28-1}
+#Message#
+\."How about you introduce me to a cutie?!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."Joe..."
+##
+
+#Choice#
+Flirty as ever
+How unlike you
+##
+
+<やっぱりチャラいな>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: flash-of-light-3}
+#Message#
+"Flirty as ever, I see!"
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."That's what you were leading up to?!"
+##
+
+<らしくないな>
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+{SE: Accent40-1}
+#Message#
+"Seems unlike you. Sure you're not forcing it?"
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Ngh...! You made me say it...!"
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."Well?! What is it?!"
+##
+
+{Joe} [Joe: Casual, upset groan with grave look / cara1-52]
+#Message#
+\."Fine! I want a girlfriend!!"
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent21-1}
+#Message#
+\."That's more like it, Joe! Now I'm satisfied!"
+##
+
+{Joe} [Joe: Casual, upset groan with grave look / cara1-52]
+#Message#
+\."Oof... Satisfied, huh..."
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."Finally, a vulgar request!
+ And I'd like to answer it, but..."
+##
+
+[Sara: Casual, groan / cara0-48]
+#Message#
+\."I don't have many friends to begin with..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: flash-of-light-3}
+#Message#
+\."That's fine! Any friend of yours
+ is bound to be a good one, Sara!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\."What're you saying...? Sheesh..."
+##
+
+[Sara: Casual, smirk / cara0-43]
+#Message#
+\."Well now, let's see..."
+##
+
+#Choice#
+Introduce Ryoko
+\C[10]How about me?
+##
+
+<リョーコを紹介する>
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent40-1}
+#Message#
+"I'll introduce you to Ryoko, my best friend."
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+#Message#
+\."Ryoko...
+ Is that Hirose in the other class...?"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."Huh...? You know her?!"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."I see you two together sometimes!"
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+{SE: Jump1}
+#Message#
+\."Hmph... Did you actually
+ have your eye on her already?"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."Nah... Was curious who she was, but...!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."...? I mean, she's just normal?"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."But she's your best friend, right?!"
+##
+
+[Joe: Casual, default / cara1-42]
+#Message#
+\."Ahh, I see... Hirose..."
+##
+
+[Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Your best friend... Above even me... Ngh..."
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Ahaha... Why so vexed, Joe?"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Well, fine! You gotta let me meet her, Sara!"
+##
+
+{Sara} [Sara: Casual, wink / cara0-47]
+#Message#
+\."Right, of course."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."It's a promise!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."Heehee..."
+##
+
+{N/A}
+#Message#
+\C[3]Maybe I'd realized it.
+##
+
+#Message#
+\.\C[3]If I had two of my precious best friends meet...
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]No doubt, they'd hit it off great...
+##
+
+#Message#
+\.\C[3]And what a wonderful thing that would be.
+##
+
+#Message#
+\.\C[3]..........
+##
+
+{SE: Accent40-1}
+#Message#
+\.\C[3]Get along with her, Joe.
+##
+
+<\C[10]私はどうだ？>
+
+<Choice End>
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."Well now, let's see..."
+##
+
+#Choice#
+Introduce Ryoko
+##
+
+<リョーコを紹介する>
+
+<Choice End>
+
+{Joe} [Joe: Casual, default / cara1-42]
+{SE: Accent21-1}
+#Message#
+\."Hm? What is it, Sara...?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\C[3]If... in this moment...
+##
+
+{SE: heart2}
+#Message#
+\.\C[3]I had really answered that way... what would happen?\|
+##
+
+#Message#
+\.\C[3]Would it be the same...?
+##
+
+#Message#
+\.\C[3]Or would it be different?
+##
+
+#Message#
+\.\C[3]That horrible future.
+##
+
+#Message#
+\.\C[3]And... that vote...
+##
+
+{Joe}
+#Message#
+"Stand up, Sara!!"
+##
+
+{Sara}
+#Message#
+"Waaaaaaaah!! Waaaah...!!"
+##
+
+{Joe}
+#Message#
+\."It's okay...! It'll be okay...!!"
+##
+
+{Sara}
+#Message#
+\."Everyone... is dead...!!"
+##
+
+#Message#
+"Ahh... haah... *sniff*..."
+##
+
+#Message#
+\."My... sniff..."
+##
+
+#Message#
+\."*cough*...! Ahhh...!!"
+##
+
+#Message#
+\."Because of... my vote...!!"
+##
+
+{Joe}
+#Message#
+"That's wrong...! That's wrong, Sara!!"
+##
+
+#Message#
+\."Let's leave this place!!"
+##
+
+{Sara}
+#Message#
+"But...!!"
+##
+
+{Joe}
+#Message#
+\."Don't look at anything! Don't...!!"
+##
+
+#Message#
+\."Just... look at me...!!"
+##
+
+#Message#
+\.\{"We're going home! Right, Sara...?!"
+##
+
+[Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Are you okay?! Sara! Sara...!!"
+##
+
+{Sara}
+#Message#
+\."*pant*... *pant*..."
+##
+
+[Sara: Casual, groan / cara0-48]
+{SE: Accent21-1}
+#Message#
+\."Joe..."
+##
+
+[Sara: Casual, closed-eyes sigh / cara0-61]
+#Message#
+\."I don't know... Suddenly, something just..."
+##
+
+{Joe} [Joe: Casual, serious look / cara1-45]
+#Message#
+\."At any rate, let's rest... Here, drink some water..."
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."Thank you..."
+##
+
+{Joe} [Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Sit down, Sara."
+##
+
+[Joe: Casual, serious look / cara1-45]
+#Message#
+\."...Let's stay here 'til you calm down."
+##
+
+{Sara} [Sara: Casual, sad / cara0-57]
+#Message#
+\."...Yeah."
+##
+
+[Sara: Casual, glance to side, sad, mouth shut / cara0-59]
+#Message#
+\.".........."
+##
+
+{Joe} [Joe: Casual, serious look / cara1-45]
+#Message#
+\."..."
+##
+
+{Sara} [Sara: Casual, glance to side, sad, mouth shut / cara0-56]
+#Message#
+\."Hey... Joe..."
+##
+
+[Sara: Casual, glance to side, sad, mouth open / cara0-55]
+#Message#
+\."You asked me earlier..."
+##
+
+[Sara: Casual, groan / cara0-48]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why I don't get involved with others..."
+##
+
+{Joe} [Joe: Casual, serious look / cara1-45]
+#Message#
+\."Y... Yeah."
+##
+
+{Sara} [Sara: Casual, glance to side, sad, mouth shut / cara0-56]
+#Message#
+\.".........."
+##
+
+{Joe} [Joe: Casual, serious look / cara1-45]
+#Message#
+\."..."
+##
+
+{Sara} [Sara: Casual, sad, eyebrows lowered, teeth clenched / cara0-60]
+#Message#
+\."..."
+##
+
+[Sara: Casual, closed-eyes sigh / cara0-61]
+#Message#
+\."...Sometimes I get scared."
+##
+
+[Sara: Casual, glance to side, sad, mouth shut / cara0-56]
+#Message#
+\."I don't really know why... but..."
+##
+
+[Sara: Casual, sad, eyebrows lowered, teeth clenched / cara0-60]
+#Message#
+\."I feel like... the more deeply
+ I get involved with someone..."
+##
+
+[Sara: Casual, closed-eyes sigh / cara0-61]
+{SE: sceneswitch2}
+#Message#
+\."I wonder... if I'm dragging that person
+ into a world of pitch darkness..."
+##
+
+{Joe} [Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Sara..."
+##
+
+{Sara} [Sara: Casual, sad / cara0-57]
+#Message#
+\."...Sorry. I'm saying... strange things..."
+##
+
+{Joe} [Joe: Casual, serious look / cara1-45]
+#Message#
+\."..."
+##
+
+{Sara} [Sara: Casual, glance to side, sad, mouth open / cara0-55]
+#Message#
+\."It's weird, right? A totally baseless worry..."
+##
+
+[Sara: Casual, glance to side, sad / cara0-54]
+{SE: Accent21-1}
+#Message#
+\."Forget it... It's just a nonsensical delusion..."
+##
+
+{Joe} [Joe: Casual, serious look / cara1-45]
+#Message#
+\."..."
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+{SE: Accent40-1}
+#Message#
+\."Even so... I'll be with you."
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."Eh...?"
+##
+
+{Joe} [Joe: Casual, folded arms curious / cara1-57]
+#Message#
+\."A world of pitch darkness, huh..."
+##
+
+[Joe: Casual, serious look / cara1-45]
+#Message#
+\."I mean... we're not family or anything."
+##
+
+[Joe: Casual, folded arms curious / cara1-57]
+#Message#
+\."It's not like I can fully understand you..."
+##
+
+[Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Maybe I'll never really get
+ what it is you're afraid of..."
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Even so... I feel like I wanna know."
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."Joe..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: sceneswitch2}
+#Message#
+\."So I wanna let you know about me, too."
+##
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."What... are you saying...?"
+##
+
+[Sara: Casual, glance to side, sad, mouth open / cara0-55]
+{SE: Accent21-1}
+#Message#
+\."Joe... you're a good guy..."
+##
+
+[Sara: Casual, groan / cara0-48]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."A weird guy, who likes being with someone like me..."
+##
+
+[Sara: Casual, smirk / cara0-43]
+{SE: Accent28-1}
+#Message#
+\."You're... my precious best friend..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Heheh! I see!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."...Haha."
+##
+
+[Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent21-1}
+#Message#
+\."Thank you... Joe."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."...Yeah."
+##
+
+[Joe: Casual, folded arms smile / cara1-55]
+{SE: Accent39-1}
+#Message#
+\."Oh, but sorry if we get split up
+ changing classes in third year."
+##
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."W-What the heck! Joe!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Jump1}
+#Message#
+\."Hahaha!"
+##
+
+[Joe: Casual, folded arms smile / cara1-55]
+{SE: Accent21-1}
+#Message#
+\."C'mon, let's head home.
+ You'll worry your parents, right?"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+#Message#
+\."Yeah, you're right."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent24-1}
+#Message#
+\."Ahh... What a pretty sunset!"
+##
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hey, Joe."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."Hm? Want a piggyback ride?"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."N-Not that!"
+##
+
+[Sara: Casual, smirk / cara0-43]
+{SE: Accent21-1}
+#Message#
+\."Listen, there's this girl
+ I want to introduce to you..."
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."N-Nah, we can drop that, okay?!
+ It was a joke..."
+##
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."No, I really do want to introduce you."
+##
+
+{SE: Accent40-1}
+#Message#
+"Because... she's my other precious best friend."
+##
+
+{N/A}
+#Message#
+
+
+     \C[3]Sara Chidouin Episode "Precious Best Friend" - End
+##
+
+{Voice}
+#Message#
+"Huh..."
+##
+
+{Student} [Ryoko: Smile, mouth open / cara24-2]
+{SE: Accent28-1}
+#Message#
+\."And so... that's why Sara introduced you, Tazuna?"
+##
+
+{Joe} [Joe: Folded arms smile / cara1-37]
+#Message#
+\."Joe is fine!"
+##
+
+{Ryoko} [Ryoko: Surprise / cara24-3]
+#Message#
+\."Then call me Ryoko.
+ We're going out, after all."
+##
+
+{Joe} [Joe: Wide-eyed surprise, mouth open / cara1-41]
+#Message#
+\."Ah, my bad... Err... Ryoko!"
+##
+
+{Ryoko} [Ryoko: Closed-eye smile / cara24-7]
+#Message#
+\."Heehee, that's good!"
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."Heheh..."
+##
+
+[Joe: Default (no collar) / cara1-1]
+#Message#
+\."..."
+##
+
+[Joe: Folded arms curious / cara1-38]
+{SE: Accent21-1}
+#Message#
+\."...Hey, Ryoko."
+##
+
+[Joe: Default (no collar) / cara1-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why... did you go out with me?"
+##
+
+{Ryoko} [Ryoko: Surprise / cara24-3]
+{SE: Accent39-1}
+#Message#
+\."Huh? What do you mean, "why"...?"
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."I mean, you didn't know me that much, yeah?"
+##
+
+{Ryoko} [Ryoko: Closed-eye smile / cara24-7]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ahaha, really?"
+##
+
+[Ryoko: Smile, mouth open / cara24-2]
+{SE: Accent28-1}
+#Message#
+\."Well, no friend of Sara's
+ could be a bad person... you know?"
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."..."
+##
+
+[Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."Pfff... hahaha!"
+##
+
+{Ryoko} [Ryoko: Surprise / cara24-3]
+{SE: Accent39-1}
+#Message#
+\."What, huh? What's the matter?"
+##
+
+{Joe} [Joe: Folded arms smile / cara1-35]
+#Message#
+\."It's just, I never would've thought
+ you were thinking the same thing I was..."
+##
+
+{Ryoko} [Ryoko: Closed-eye smile / cara24-7]
+#Message#
+\."Huh?! Oh, really? Ahaha!"
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."So you trust Sara, eh?"
+##
+
+{Ryoko} [Ryoko: Smile / cara24-4]
+{SE: Accent21-1}
+#Message#
+\."Yeah... Of course I do."
+##
+
+[Ryoko: Closed-eye smile / cara24-7]
+#Message#
+\."Sara is so upstanding... and diligent in all things."
+##
+
+[Ryoko: Smile, mouth open / cara24-2]
+#Message#
+\."She's especially amazing whenever she gets
+ enthusiastic about something!"
+##
+
+[Ryoko: Smile / cara24-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."One time, that seriousness overwhelmed me
+ and made me cry, but..."
+##
+
+[Ryoko: Closed-eye smile / cara24-7]
+{SE: Accent28-1}
+#Message#
+\."She was so cool...! Ever since then,
+ Sara's been like my number one!"
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\.".........."
+##
+
+[Joe: Wide-eyed surprise, mouth open / cara1-41]
+#Message#
+\."Could it be..."
+##
+
+{Ryoko} [Ryoko: Surprise / cara24-3]
+{SE: Jump1}
+#Message#
+\."Eh?"
+##
+
+{Joe} [Joe: Folded arms smile / cara1-37]
+{SE: Accent21-1}
+#Message#
+\."...Nah, it's nothing."
+##
+
+{Ryoko} [Ryoko: Smile, mouth open / cara24-2]
+#Message#
+\."Right now it seems she's in the midst of
+ finding something she can give her all..."
+##
+
+[Ryoko: Closed-eye smile / cara24-7]
+{SE: Accent28-1}
+#Message#
+\."But I want to stay by her side until she can find it."
+##
+
+[Ryoko: Smile / cara24-4]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."In part... it feels a little bit like my fault."
+##
+
+{Joe} [Joe: Folded arms smile / cara1-37]
+{SE: Accent21-1}
+#Message#
+\."I'll give my assistance too, Ryoko!"
+##
+
+{Ryoko} [Ryoko: Surprise / cara24-3]
+#Message#
+\."Joe..."
+##
+
+[Ryoko: Smile, mouth open / cara24-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then will you swear something for me?"
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+{SE: sceneswitch2}
+#Message#
+\."Ooh! Sure thing!"
+##
+
+{Ryoko} [Ryoko: Smile, mouth open / cara24-2]
+#Message#
+\."If anyone makes Sara cry..."
+##
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."We'll..."
+##
+
+{Ryoko & Joe} [Ryoko: Closed-eye smile / cara24-7]
+#Message#
+\."Make them cry!"
+##
+
+{Ryoko} [Ryoko: Smile / cara24-4]
+{SE: Accent21-1}
+#Message#
+\."Thanks for taking me home today."
+##
+
+{Joe} [Joe: Folded arms smile / cara1-35]
+#Message#
+\."It's fine! Times are scary lately."
+##
+
+{Ryoko} [Ryoko: Concerned, half-closed eyelids, glancing to side, lowered eyebrow / cara24-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yeah... I hear there's a stalker about..."
+##
+
+{Joe} [Joe: Serious look (no collar) / cara1-4]
+#Message#
+\.".........."
+##
+
+{Ryoko} [Ryoko: Default / cara24-1]
+#Message#
+\."...Hey, Joe."
+##
+
+[Ryoko: Concerned, mouth closed / cara24-20]
+{SE: sceneswitch2}
+#Message#
+\."You're... planning to head back to the school
+ after this, aren't you?"
+##
+
+{Joe} [Joe: Serious look (no collar) / cara1-4]
+#Message#
+\."...!"
+##
+
+{Ryoko} [Ryoko: Concerned, half-closed eyelids, glancing to side, lowered eyebrow / cara24-19]
+{SE: Accent41-1}
+#Message#
+\."I haven't gotten a reply from Sara either, so..."
+##
+
+{Joe} [Joe: Serious look (no collar) / cara1-4]
+#Message#
+\.".........."
+##
+
+{Ryoko} [Ryoko: Concerned, lowered eyelids / cara24-14]
+#Message#
+\."I'm sorry... I shouldn't have said that..."
+##
+
+[Ryoko: Concerned, half-closed eyelids, glancing to side, mouth closed / cara24-18]
+{SE: Accent21-1}
+#Message#
+\."Because of our date and all,
+ I was only thinking of myself today..."
+##
+
+{Joe} [Joe: Serious look (no collar) / cara1-4]
+#Message#
+\."Ryoko..."
+##
+
+{Ryoko} [Ryoko: Concerned, half-closed eyelids, glancing to side, lowered eyebrow / cara24-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But... I get kind of a bad feeling..."
+##
+
+[Ryoko: Concerned, slightly lowered brow / cara24-21]
+#Message#
+\."I should go back to the school with you...!"
+##
+
+{Joe} [Joe: Furrowed brow (no collar) / cara1-5]
+#Message#
+\."Wha... Ryoko! Watch out...!!"
+##
+
+{Ryoko} [Ryoko: Surprise / cara24-3]
+#Message#
+\."Wah...!"
+##
+
+[Ryoko: Concerned, lowered eyelids / cara24-14]
+#Message#
+\."Thank you, Joe!
+ For grabbing my hand..."
+##
+
+{Joe} [Joe: Upset groan (no collar) / cara1-6]
+#Message#
+\."Oww... You okay?"
+##
+
+{Ryoko} [Ryoko: Concerned, lowered eyelids / cara24-14]
+#Message#
+\."Ah, your foot's in a ditch...! I'm really sorry!"
+##
+
+{Joe} [Joe: Serious look (no collar) / cara1-4]
+{SE: Accent21-1}
+#Message#
+\."It's fine, just get back home."
+##
+
+{Ryoko} [Ryoko: Concerned, half-closed eyelids, glancing to side, mouth closed / cara24-18]
+#Message#
+\."Okay..."
+##
+
+{Joe} [Joe: Serious look (no collar) / cara1-4]
+#Message#
+\."Oh yeah, and I'll tell Sara tomorrow."
+##
+
+[Joe: Eyes-closed smile (no collar) / cara1-3]
+{SE: flash-of-light-3}
+#Message#
+\."About that time in kendo! She'll be glad, I know it!"
+##
+
+{Ryoko} [Ryoko: Surprise / cara24-3]
+#Message#
+\."Eh...?! Why do you know..."
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."See ya, Ryoko!"
+##
+
+{Ryoko} [Ryoko: Concerned, slightly lowered brow / cara24-21]
+#Message#
+\."J... Joe! Um..."
+##
+
+[Ryoko: Smile, mouth open / cara24-2]
+{SE: Accent28-1}
+#Message#
+\."See you... tomorrow!"
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+{SE: sceneswitch2}
+#Message#
+\."Yep, tomorrow! At school!"
+##
+
+{Ryoko} [Ryoko: Concerned, raised eyebrow / cara24-13]
+#Message#
+".........."
+##
+
+[Ryoko: Concerned, lowered eyelids / cara24-14]
+#Message#
+\."Sara... Joe..."
+##
+
+{SE: Accent43-1}
+#Message#
+"I will see you... tomorrow, right...?"
+##
+
+{N/A}
+#Message#
+
+
+     \C[3]Sara Chidouin Episode "Precious Best Friend" - End
+##
+

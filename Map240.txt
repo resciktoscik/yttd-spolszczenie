@@ -1,0 +1,167 @@
+=====Map240===== (★Mini-Episodes)
+
+**********Event1********** (kai) (2,3)
+-----Page1-----
+{N/A} [Kai: Default / cara8-1]
+#Message#
+\C[3]View Kai Satou's episode, "The Young Assassin"?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Kai} [Kai: Raised eyebrows (no collar/utensils) / cara8-17]
+#Message#
+"Oh my. You must be a strange one
+ to take an interest in me."
+##
+
+[Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\."Very well, I suppose. Although...
+ I cannot promise it will be a fun story."
+##
+
+
+**********Event2********** (annzu) (5,3)
+-----Page1-----
+{N/A} [Anzu: Worried / cara96-2]
+#Message#
+\C[3]View Anzu Kinashi's episode, "Clown Master"?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Anzu} [Anzu: Smile / cara96-6]
+#Message#
+"Whaaa! You want to hear my story?!"
+##
+
+[Anzu: Clown mask / cara96-1]
+#Message#
+\."Now it shall be revealed... the secret of my mask!
+ Go and bear witness!"
+##
+
+
+**********Event4********** (arisu) (12,3)
+-----Page1-----
+{N/A} [Alice: Default glare / cara11-1]
+#Message#
+\C[3]View Alice Yabusame's episode, "Unconverging Views"?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Hmph! You've taken a deep interest in me, have you...?"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Well fine, take a look, why don't you!
+ It's only an invasion of my privacy, y'know?!"
+##
+
+
+**********Event20********** (EV020) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Here, you can view some mini-episodes:
+bonus stories featuring various main characters.
+##
+
+#Message#
+\C[3]They contain spoilers regarding the characters,
+so it is recommended you only play these
+after completing the newest part of the story.
+##
+
+
+**********Event21********** (kurumada) (15,3)
+-----Page1-----
+{N/A} [Kurumada: Frown / cara95-2]
+#Message#
+\C[3]View Naomichi Kurumada's episode,
+"First-Rate and Second-Rate"?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+"Tch... Not my style to talk about myself..."
+##
+
+[Kurumada: Clenched teeth, closed fist / cara95-4]
+#Message#
+\."But if you wanna know that bad, I'll tell ya...
+ With my fists."
+##
+
+
+**********Event22********** (sara) (2,11)
+-----Page1-----
+{N/A} [Sara: Default / cara0-2]
+#Message#
+\C[3]View Sara Chidouin's episode, "Precious Best Friend"?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+"Thanks. Well then, here goes."
+##
+
+[Sara: Pointing / cara0-3]
+#Message#
+\."This is a story... concerning my dear best friend!!"
+##
+

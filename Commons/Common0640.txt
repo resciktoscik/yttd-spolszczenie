@@ -419,3 +419,9 @@
 \SP[8]Chapter 2, Part One                      End\.
 ##
 
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

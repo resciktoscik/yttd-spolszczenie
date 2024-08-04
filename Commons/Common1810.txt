@@ -1,0 +1,166 @@
+**********Common1810********** (Aさんのターン)
+{Sexy Lady} [Sexy Lady / cara999-17]
+#Message#
+\."Well, as for me..."
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."Well now..."
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+#Message#
+\."No good... I'm folding."
+##
+
+#Message#
+\."Too bad... I'm folding."
+##
+
+#Message#
+\."Feh... I'll fold..."
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."Uh-oh... Gonna have to fold here."
+##
+
+#Message#
+\."Shame... Gonna have to fold here."
+##
+
+#Message#
+\."Oh, that smarts! Gonna have to fold here!"
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+#Message#
+\."...Hmm, yes.
+ Shall I bet everything I have?"
+##
+
+#Message#
+\."...Hmm, yes.
+ Shall I bet everything I have?"
+##
+
+#Message#
+\."Haaah... I'm just not sure about this...
+ But I suppose I'll bet all I have."
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."There! That's all I've got!
+ Not too confident, but I'll wager it all!"
+##
+
+#Message#
+\."My pride won't let me back down!
+ I'll wager it all!"
+##
+
+#Message#
+\."I see a win in my future!
+ I'll wager it all!"
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+#Message#
+\."All right... I'll match the bet."
+##
+
+#Message#
+\."All right... I'll match the bet."
+##
+
+#Message#
+\."Oh dear... I'm just not confident...
+ But I suppose I'll match that bet."
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."Whoa...! Ain't sure, but I'll match it...!"
+##
+
+#Message#
+\."Sure thing! I'll match that bet!"
+##
+
+#Message#
+\."Here we go! I'll match that bet, I will!"
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+#Message#
+\."Should I bet it all...?
+ Raising to \C[2]\I[30]\V[1036] coins\C[0]."
+##
+
+#Message#
+\."Should I bet it all...?
+ Raising to \C[2]\I[30]\V[1036] coins\C[0]."
+##
+
+#Message#
+\."Ahh... It's hopeless... But I'll try betting it all.
+ Raising to \C[2]\I[30]\V[1036] coins\C[0]."
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."Hwoooh! I'll risk it and go all in!!
+ Raisin' to \C[2]\I[30]\V[1036] coins\C[0]!"
+##
+
+#Message#
+\."Hwoooh! Let's give it a shot! I'll go all in
+ and raise to \C[2]\I[30]\V[1036] coins\C[0]!"
+##
+
+#Message#
+\."I can't lose with this!! I'll go all in
+ and raise to \C[2]\I[30]\V[1036] coins\C[0]!"
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+#Message#
+\."Shall I raise...?
+ Taking it to \C[2]\I[30]\V[1036] coins\C[0]."
+##
+
+#Message#
+\."Shall I raise...?
+ Taking it to \C[2]\I[30]\V[1036] coins\C[0]."
+##
+
+#Message#
+\."It's no good... But I suppose I'll raise...
+ Taking it to \C[2]\I[30]\V[1036] coins\C[0]."
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."F-Fine, why not! I'll bet...
+ Raisin' to \C[2]\I[30]\V[1036] coins\C[0]!"
+##
+
+#Message#
+\."Alright, how about this?!
+ Raisin' to \C[2]\I[30]\V[1036] coins\C[0]!"
+##
+
+#Message#
+\."Bring it on, all of you!!
+ Raisin' to \C[2]\I[30]\V[1036] coins\C[0]!"
+##
+
+#Message#
+\."I have \V[1020] coins!
+I've wagered \V[1024] coins!
+There are \V[445] coins on the table!"
+##
+

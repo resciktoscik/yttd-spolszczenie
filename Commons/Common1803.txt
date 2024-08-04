@@ -1,0 +1,277 @@
+**********Common1803********** (グロイヤン戦)
+{N/A} [Gruusem: Frown / cara30-2]
+#Message#
+\.\C[3]Gruusem stands in your way!
+##
+
+#Message#
+\.\C[3]Kurumada's Health ... \V[422]
+Spirits ... \V[423]
+##
+
+#Choice#
+Attack
+Special Move
+Counter
+##
+
+<攻撃>
+
+<必殺技>
+
+#Choice#
+Uppercut (-30 Spirit)
+Cross-Counter (-40 Spirit)
+Convertible Rush (-60 Spirit)
+Back
+##
+
+<アッパーカット（30ﾉﾘﾉﾘ消費）>
+
+{Kurumada} [Gruusem: Frown / cara30-2]
+#Message#
+\C[4](I'm not in high enough spirits...)
+##
+
+<クロスカウンター（40ﾉﾘﾉﾘ消費）>
+
+{Kurumada} [Gruusem: Frown / cara30-2]
+#Message#
+\C[4](I'm not in high enough spirits...)
+##
+
+<オープンカーラッシュ（60ﾉﾘﾉﾘ消費）>
+
+{Kurumada} [Gruusem: Frown / cara30-2]
+#Message#
+\C[4](I'm not in high enough spirits...)
+##
+
+<もどる>
+
+<Choice End>
+
+<カウンター>
+
+<Choice End>
+
+{Kurumada} [Gruusem: Frown / cara30-2]
+#Message#
+\C[4](Take this!)
+##
+
+{N/A} [Gruusem: Angry / cara30-5]
+#Message#
+\C[3]Dealt \V[427] damage to Gruusem!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Alright...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada's spirits rose a bit!
+##
+
+{Kurumada} [Gruusem: Lowered brow smile / cara30-4]
+#Message#
+\C[4](Shit, he's planning something...!)
+##
+
+#Message#
+\C[4](Shit, he's planning something...!)
+##
+
+#Message#
+\C[4](What the...?! Was he acting?!)
+##
+
+#Message#
+\C[4](Damn! He moves fast...!)
+##
+
+#Message#
+\C[4](What the...?! Was he acting?!)
+##
+
+#Message#
+\C[4](Tch! I missed...?!)
+##
+
+#Message#
+\C[4](Counter!)
+##
+
+{N/A} [Gruusem: Angry / cara30-5]
+#Message#
+\C[3]Dealt \V[427] damage to Gruusem!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Hit it right on!!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada's spirits rose a bit!
+##
+
+{Kurumada} [Gruusem: Lowered brow smile / cara30-4]
+#Message#
+\C[4](I can't counter if he doesn't hit me...!)
+##
+
+#Message#
+\C[4](I can't counter if he doesn't hit me...!)
+##
+
+#Message#
+\C[4](Tch, he saw right through me...!)
+##
+
+#Message#
+\C[4](Uppercut!!)
+##
+
+{N/A} [Gruusem: Surprise / cara30-3]
+#Message#
+\C[3]Dealt \V[427] damage to Gruusem!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Hraaah!! Came out on top!)
+##
+
+[Gruusem: Smile / cara30-1]
+#Message#
+\C[4](Shit, can't clinch it if we both do big moves...!)
+##
+
+#Message#
+\C[4](C-Crap! This guy was acting...!)
+##
+
+#Message#
+\C[4](C-Crap! This guy was acting...!)
+##
+
+#Message#
+\C[4](Shit! That totally could've hit...!)
+##
+
+#Message#
+\C[4](Let's risk it...! Cross-counter!!)
+##
+
+{N/A} [Gruusem: Surprise / cara30-3]
+#Message#
+\C[3]Dealt \V[427] damage to Gruusem!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](U... urgh...)
+##
+
+[Gruusem: Smile / cara30-1]
+#Message#
+\C[4](I can't counter if he doesn't hit me...!)
+##
+
+#Message#
+\C[4](I can't counter if he doesn't hit me...!)
+##
+
+#Message#
+\C[4](Dammit! Did he sense that coming...?!)
+##
+
+#Message#
+\C[4](Hwoooh! I'll rush with all my might!!)
+##
+
+{N/A} [Gruusem: Surprise / cara30-3]
+#Message#
+\C[3]Dealt \V[427] damage to Gruusem!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](*pant*...! Don't underestimate me!!)
+##
+
+[Gruusem: Frown / cara30-2]
+#Message#
+\C[4](H-He parried them all?! My ace in the hole...!!)
+##
+
+#Message#
+\C[4](H-He parried them all?! My ace in the hole...!!)
+##
+
+[Gruusem: Smile / cara30-1]
+#Message#
+\C[4](Tch... How'd he dodge?!)
+##
+
+{N/A} [Gruusem: Surprise / cara30-3]
+#Message#
+\C[3]Defeated Gruusem!\|
+##
+
+[Gruusem: Frown / cara30-2]
+{SE: sceneswitch2}
+#Message#
+\C[3]Gruusem is silently observing.\|
+##
+
+[Gruusem: Lowered brow smile / cara30-4]
+#Message#
+\C[3]Kurumada took \V[427] damage!\|
+##
+
+#Message#
+\C[3]Kurumada took \V[427] damage!\|
+##
+
+#Message#
+\C[3]Gruusem recovered \V[427] health!\|
+##
+
+#Message#
+\C[3]Simultaneous strike! Kurumada took \V[427] damage!\|
+##
+
+{Kurumada}
+#Message#
+\.\C[4](T-This can't be...)
+##
+
+#Message#
+\.\C[4](Ugh...!)
+##
+
+{N/A} [Gruusem: Smile / cara30-1]
+#Message#
+\C[3]Kurumada lost...\|
+##
+
+#Message#
+\C[3]Rematch?
+##
+
+#Choice#
+Yes
+No (Back to Episode Select)
+##
+
+<はい>
+
+<いいえ（過去編選択に戻る）>
+
+<Choice End>
+

@@ -425,3 +425,23 @@ Cancel
 
 <Choice End>
 
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+

@@ -1,0 +1,44 @@
+=====Map241===== (Credits)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#ScrollingMessage#
+Developed by Nankidai
+
+Co-Developers: mt.saji
+               Alpha
+               HIJIKI
+               Tatsutori
+               Kouhei
+               Shigetoshi
+
+
+English Translation & Co-Development: vgperson
+
+
+"PRAYER" Theme: YASUHIRO
+                TOKYO LOGIC Ltd.
+                DWANGO Co., Ltd.
+
+
+Music Software: GarageBand
+                (with use of the included loops!)
+
+
+Resources: OtoLogic (https://otologic.jp)
+     On-Jin (https://on-jin.com/)
+     Sound Effect Lab (https://soundeffect-lab.info/)
+     Taira Komori (https://taira-komori.jpn.org/)
+     Sound Dictionary (https://sounddictionary.info/)
+     Maou Damashii (https://maou.audio)
+     Pocket Sound (https://pocket-se.info/)
+     Koukaon Koubou (https://umipla.com/)
+
+The above-listed sites have provided sound effects
+used in the game. Redistribution of these sounds
+and usage without permission is forbidden.
+
+
+Published by 0UP GAMES
+##
+

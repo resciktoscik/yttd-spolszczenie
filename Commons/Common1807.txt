@@ -1,0 +1,201 @@
+**********Common1807********** (動物ポーカー)
+{N/A}
+#Message#
+Final Game (\V[428]/\V[1040])  Starting ... \V[442]
+##
+
+#Message#
+Game 1 (\V[428]/\V[1040])  Starting ... \V[442]
+##
+
+{Joe} [Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Hweeeh... I lost all my coins..."
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+#Message#
+\."Yaaah! I'm all out of coins!
+ This can't beee!"
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."I'm all out of coins!
+ I'm bankrupt! Done for!!"
+##
+
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."No waaay?! You took all my coins?!
+ I can't believe it!!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."I... ran out... of coins...?!
+ I'm ruined!!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."Shoot...! I'm at zero coins!!"
+##
+
+[Sara: Casual, groan / cara0-48]
+#Message#
+\."I'm... blacking out..."
+##
+
+#Message#
+\.\C[4](If only... I could try one more time...!)
+##
+
+#Choice#
+Retry game
+Give up (Back to Episode Select)
+##
+
+<試合をやり直す>
+
+<もうやめる（過去編選択に戻る）>
+
+<Choice End>
+
+{N/A} [Sara: Casual, groan / cara0-48]
+{SE: GONG2}
+#Message#
+All matches complete! It's over!
+##
+
+{SE: sceneswitch2}
+#Message#
+★★★　  Final Scores  　★★★
+##
+
+#Message#
+\C[0]Sara         ... \C[2]\I[30]\V[444]
+\C[0]Joe          ... \C[2]\I[30]\V[1019]
+\C[0]Sexy Lady    ... \C[2]\I[30]\V[1020]
+\C[0]Playful Lady ... \C[2]\I[30]\V[1021]
+##
+
+#Message#
+\C[0]Sara       ... \C[2]\I[30]\V[444]
+\C[0]Joe        ... \C[2]\I[30]\V[1019]
+\C[0]Chubby Man ... \C[2]\I[30]\V[1020]
+\C[0]Skinny Man ... \C[2]\I[30]\V[1021]
+##
+
+#Message#
+\C[0]The Sonobeno Studious ... \C[2]\I[30]\V[1079]
+
+\C[0]The Treasure Sisters  ... \C[2]\I[30]\V[1080]
+##
+
+#Message#
+\C[0]Team Sara & Joe       ... \C[2]\I[30]\V[1079]
+
+\C[0]The Treasure Sisters  ... \C[2]\I[30]\V[1080]
+##
+
+#Message#
+\C[0]Team Sara & Joe          ... \C[2]\I[30]\V[1079]
+
+\C[0]Team Chubby & Skinny Man ... \C[2]\I[30]\V[1080]
+##
+
+{SE: SIN-Motion-Pop37-2}
+#Message#
+It's a draw!!\|
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."What do we do in this case...?"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Hmm... Ah, how about rock-paper-scissors...?"
+##
+
+{Sara} [Sara: Casual, default / cara0-40]
+#Message#
+\."Rock... paper..."
+##
+
+#Choice#
+Rock
+Paper
+Scissors
+##
+
+<グー>
+
+<チョキ>
+
+<パー>
+
+<Choice End>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+"\V[1062]!"
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+#Message#
+"\V[1063]! Oh nooo! We lost?!
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+"Shoot! \V[1063]! We lose!!"
+##
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+\."We won, Joe!!"
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Whoaaa! You're even the best at
+ rock-paper-scissors, Sara?!"
+##
+
+{N/A}
+#Message#
+The Sonobeno Studious win!!\|
+##
+
+#Message#
+Team Sara & Joe wins!!\|
+##
+
+{Chairman} [Chairman / cara999-19]
+{SE: Accent28-1}
+#Message#
+\."Congrats! You're the champions!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."Congrats! You'll advance to Game 2!"
+##
+
+{N/A}
+#Message#
+The Sonobeno Studious lose!!\|
+##
+
+#Message#
+Team Sara & Joe loses!!\|
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\."I-It can't be... We... lose...?"
+##
+

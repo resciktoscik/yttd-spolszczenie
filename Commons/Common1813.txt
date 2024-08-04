@@ -1,0 +1,99 @@
+**********Common1813********** (手札勝負！)
+{N/A}
+#Message#
+Starting over!
+##
+
+{SE: WON-Impact08}
+#Message#
+\{　　　　　　　　\C[2]Showdown
+##
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+\."My hand is a \C[2]\V[1039]\C[0]!
+ Its total value is \C[2]\V[1053]\C[0]!"
+##
+
+{Joe} [Joe: Casual, default / cara1-42]
+#Message#
+\."Here's my hand!
+ A \C[2]\V[1039]\C[0]! A total value of \C[2]\V[1054]\C[0]!"
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+#Message#
+\."Check out my hand!
+ A \C[2]\V[1039]\C[0]! With a total of \C[2]\V[1055]\C[0]!"
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."Behold, my hand!
+ A \C[2]\V[1039]\C[0]! Total value of \C[2]\V[1055]\C[0]!"
+##
+
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."Here's my cards!
+ It's a \C[2]\V[1039]\C[0]! With total value \C[2]\V[1056]\C[0]!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."Look at my hand here!
+ A \C[2]\V[1039]\C[0]! Total value: \C[2]\V[1056]\C[0]!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+[Payout To]  \V[1065] \V[1062] \V[1063] \V[1064]
+
+Total  \C[2]\I[30]\V[445] coins\C[0]
+##
+
+{Sara} [Sara: Casual, closed-eyes smile / cara0-46]
+{SE: Accent21-1}
+#Message#
+\."Alright! Doing good!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."Woohoo! I won!"
+##
+
+{Sexy Lady} [Sexy Lady / cara999-17]
+{SE: Accent21-1}
+#Message#
+\."Gotcha...! Just like I drew it up!"
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+{SE: Accent21-1}
+#Message#
+\."I won! I'm on a roll!"
+##
+
+{Playful Lady} [Playful Lady / cara999-18]
+{SE: Accent21-1}
+#Message#
+\."Way to go! That went great!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+{SE: Accent21-1}
+#Message#
+\."Ah, the taste of victory...!"
+##
+
+{Debug} [Botsun / cara999-1]
+#Message#
+\.Joe \V[1019]
+A \V[1020]
+B \V[1021]
+Sara \V[444]
+##
+

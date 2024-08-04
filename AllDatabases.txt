@@ -2823,6 +2823,759 @@ Cotton candy
 チビッ子は
 Shorty
 
+// Which body area is being attacked, for battles in Kai's mini-episode
+
+#V428#
+頭部
+head
+
+#V428#
+胴部
+torso
+
+#V428#
+脚部
+legs
+
+// Which body area is being protected, for battles in Kai's mini-episode
+
+#V428#
+頭
+head
+
+#V428#
+胴
+torso
+
+#V428#
+脚
+legs
+
+// Opponent thoughts in Kurumada's mini-episode
+
+// Policeman
+
+// Successful attack
+#V428#
+ぐわあ!!
+Gwaaah!
+
+// Failed attack
+#V428#
+おおっと！
+Whoa!
+
+#V428#
+へへへ…どうした！
+Heheh... How's that!
+
+// Failed counter
+#V428#
+なんか狙ってるな？
+He planning something?
+
+#V428#
+その手には乗らねえよ
+I won't fall for that!
+
+// Stunned after successful uppercut or counter
+#V428#
+ゲホッ…ゲホッ…
+*cough*... *cough*...
+
+// Tackle on failure
+#V428#
+タックルだ！
+Tackle!
+
+// Planning to tackle
+#V428#
+タックルで捕まえてやる…！
+I'll tackle and grab him...!
+
+// Planning to use baton
+#V428#
+警棒でぶん殴ってやる！
+I'll beat him with my baton!
+
+// Planning to charge
+#V428#
+よし…！突撃だ…!!
+Alright! Charge...!
+
+// Using baton on failure
+#V428#
+オレの警棒を食らえ！
+Get a taste of my baton!
+
+// Charging on failure
+#V428#
+突撃ー！
+Chaaarge!
+
+// Kurumada defeated
+#V428#
+よし！確保ぉ！
+Alright! Got him!
+
+// Policeman defeated
+#V428#
+つ…強すぎる…
+T... Too strong...
+
+// Kobushi
+
+// Successful attack
+#V428#
+やるねえ
+Not bad.
+
+// Failed attack
+#V428#
+遅いな…
+So slow...
+
+#V428#
+もっとマシなパンチは無いのか？
+Can't he punch any better?
+
+// Successful counter
+#V428#
+へえ　いいねえ
+Heh, pretty good.
+
+// Failed counter when Kobushi is planning to observe or counter
+#V428#
+ん？　どうした？
+Hm? What's wrong?
+
+#V428#
+なんだ…打ってこねえのか？
+Huh... Not gonna punch me?
+
+// Failed counter when Kobushi is planning jab or straight
+#V428#
+カウンター狙ってんだろ？
+Going for a counter, I bet?
+
+#V428#
+バレバレだぜ　もっとがんばりな
+Too obvious. Try harder.
+
+// Successful uppercut
+#V428#
+おっやるねぇ
+Ooh, not bad.
+
+// Failed uppercut
+#V428#
+そんな大振りな技じゃ…
+A flashy move like that...
+
+#V428#
+隙だらけになっちまうぞ？
+Leaves you wide open, y'know?
+
+// Observing
+#V428#
+ククク…
+Hahaha...
+
+// One-two jab on failure
+#V428#
+さあ見えるかな？
+Can you follow this?
+
+// Straight on failure
+#V428#
+ガード上げなきゃ気ぃ失うぜ
+Guard or you're gonna faint!
+
+// Counter on failure
+#V428#
+これが…カウンターだよ
+Time for a counter...
+
+// Planning to observe
+#V428#
+ほら打ってこいよ
+C'mon, punch me.
+
+// Planning to one-two jab
+#V428#
+ワンツージャブで行くかねぇ…
+Maybe a one-two jab...
+
+// Planning straight
+#V428#
+思いっきりストレート行くぞ
+I'll do a forceful straight.
+
+// Planning counter
+#V428#
+ここだよ　もっと打ってみな
+Punch me, I'm right here...
+
+// Kurumada defeated
+#V428#
+こんなもんか…
+Is that all...?
+
+// Kobushi defeated
+#V428#
+あれぇ？
+Huhhh?
+
+// Jose Urawa Jr.
+
+// First line
+#V428#
+まずは軽く行くか
+Let's start light...
+
+// Successful attack
+#V428#
+ひでぶっ!!
+Hawhoof!!
+
+// Failed attack (common line before the following)
+#V428#
+おおっと
+Whoops!
+
+// Failed attack when Jose is planning punch
+#V428#
+わかりやすいヤツだな
+So easy to read.
+
+// Failed attack when Jose is planning special
+#V428#
+くらえ！オレの必殺技！
+Taste my special move!
+
+// Failed attack when Jose is planning counter
+#V428#
+うまく合わせてっと…
+Now to work with this...
+
+// Failed attack otherwise
+#V428#
+危ねえ危ねえ
+Whoa, there.
+
+// Successful counter
+#V428#
+たわば!!
+Ywagh!!
+
+// Failed counter when Jose is planning punch or keeping distance
+#V428#
+おお？
+Ohh?
+
+#V428#
+危ねえ…カウンター狙いだったか
+Close one... Was he gonna counter?
+
+// Failed counter when Jose is planning counter
+#V428#
+…なんだお前もカウンター狙いか
+...Huh, you were thinking counter too?
+
+// Failed counter otherwise
+#V428#
+まさかカウンター狙いか…!?
+Was he hoping to counter...?!
+
+#V428#
+気付いてよかったぜ！
+Glad I realized!
+
+// Successful uppercut
+#V428#
+あべし!!
+Ablagh!!
+
+// Failed uppercut (common line before the following)
+#V428#
+うおお!!
+Whoaaa!!
+
+// Failed uppercut when Jose is planning special
+#V428#
+チッ!!　お互い必殺狙いだったか!!
+Tch! We both tried special moves?!
+
+// Failed uppercut when Jose is planning counter
+#V428#
+待ってたぜぇ!!その隙を!!
+I've waited! For this opening!!
+
+// Failed uppercut when Jose is keeping distance
+#V428#
+距離取っててよかった～！
+Glad I kept my distance!
+
+// Failed uppercut otherwise
+#V428#
+よけたぜ！
+Dodged it!
+
+// Successful cross-counter
+#V428#
+あわびゅ!!
+Awabyah!!
+
+// Failed cross-counter when Jose is planning counter or keeping distance
+#V428#
+な…なんて野郎だ…！
+W... What a rascal!
+
+// Successful rush
+#V428#
+うわらば!!
+Uwarah!!
+
+// Observing
+#V428#
+一旦落ち着こう…
+I'll relax for a sec...
+
+// Normal attack on failure
+#V428#
+おらぁ！
+Rahh!
+
+// Punch on failure
+#V428#
+こっちの番だぜ！
+It's my turn!
+
+// Special on failure
+#V428#
+ウラワスペシャル!!
+Urawa Special!!
+
+// Counter on failure
+#V428#
+カウンターチャンスだ!!
+My chance to counter!!
+
+// Keeping distance on failure
+#V428#
+ふぅ…一息つけたな
+Whew... Caught my breath.
+
+// Planning normal attack
+#V428#
+冷静に攻めねえとな…！
+Gotta attack calmly...!
+
+// Planning punch
+#V428#
+うまくさばいてやるぜ…
+I'll deck him good...
+
+// Planning special
+#V428#
+…ククク……
+...Heh heh heh...
+
+// Planning counter
+#V428#
+ほれほれここだぞ
+C'mon, I'm right here!
+
+// Planning to keep distance
+#V428#
+一旦距離を取るか…
+I'll move away for a bit...
+
+// Planning normal attack
+#V428#
+ピッピッパッッ!!
+Pi-pi-pah!!
+
+// Kurumada defeated
+#V428#
+負けから学ぶことだな新人
+Learn from defeat, newcomer.
+
+// Jose defeated
+#V428#
+つ…強えぇ…
+D... Dang, he's strong...
+
+// Gruusem
+
+// First line
+#V428#
+こんな相手でやる気出るかよ…
+Can he even get me motivated...?
+
+// Successful attack
+#V428#
+ぐおっ…！
+Gwoh...!
+
+// Failed attack (common line before the following)
+#V428#
+おいおい
+Whoa, now.
+
+// Failed attack when Gruusem is planning special
+#V428#
+見せてやるよ…これが本物の必殺技…!!
+I'll show you a real special move...!
+
+// Failed attack when Gruusem is planning special 2
+#V428#
+これがオレの必殺技だ!!
+Behold my special move!!
+
+// Failed attack when Gruusem is planning counter
+#V428#
+引っかかっちまったか
+Fell for it, eh?
+
+// Failed attack when Gruusem is planning footwork
+#V428#
+この動き…お前に見切れるワケねえだろ？
+No chance you can parse my moves...
+
+// Failed attack when Gruusem is planning to keep distance
+#V428#
+この程度で休むワケねえだろ
+As if I need a break so soon...
+
+// Failed attack otherwise
+#V428#
+そんなもん食らうかよ
+Think that's gonna get me?
+
+// Successful counter
+#V428#
+なに…!!
+What...?!
+
+// Failed counter when Gruusem is planning counter
+#V428#
+ん？
+Hm?
+
+#V428#
+おお…ラッキーだったな
+Ooh... Lucky me.
+
+// Failed counter when Gruusem is planning keeping distance
+#V428#
+なんだ　休んでいいのか？
+Huh, guess I can take a break?
+
+// Failed counter otherwise
+#V428#
+見え見えのカウンター狙いだな
+It's obvious you wanna counter...
+
+#V428#
+そんなもん引っかからねえよ
+I'm not fallin' for that one!
+
+// Successful uppercut
+#V428#
+ぬあっ…!!
+Nwah...!!
+
+// Failed uppercut (common line before the following)
+#V428#
+お…！
+Oh...!
+
+// Failed uppercut when Gruusem is planning special
+#V428#
+お前も必殺狙いか…
+You're going for that too, huh...
+
+// Failed uppercut when Gruusem is planning counter
+#V428#
+引っかかったな！バカめ!!
+Gotcha! What a fool!!
+
+// Failed uppercut when Gruusem is planning keeping distance
+#V428#
+疲れてると思ったか？バカめ!!
+Thought I was tired? Fool!!
+
+// Failed uppercut otherwise
+#V428#
+今のはちょっと危なかったな
+That was a little close there.
+
+// Successful cross-counter
+#V428#
+バカなっ…!!
+No way...!
+
+// Failed cross-counter (common line before the following)
+#V428#
+む…！
+Mm...!
+
+// Failed cross-counter when Gruusem is planning counter
+#V428#
+やれやれ…踏み込んでたらまずかったな
+Whew... Would be bad if I'd stepped in.
+
+// Failed cross-counter when Gruusem is planning keeping distance
+#V428#
+妙な事狙ってやがったな…
+Thought you had something, eh...?
+
+// Failed cross-counter otherwise
+#V428#
+ギリギリで見抜いたぜ…お前の狙い…！
+Just barely saw that coming...!
+
+// Successful rush
+#V428#
+ごああっ…!!
+Gwoooah...!!
+
+// Failed rush (common line before the following)
+#V428#
+ぐっ…!!
+Oof...!!
+
+// Failed rush when Gruusem is planning footwork or parrying punch
+#V428#
+なんてスピードだ…！こいつ…！
+This guy's got some speed...!
+
+// Observing
+#V428#
+仕方がねえ…やってやるよ
+Fine, fine... Here goes.
+
+// Observing after getting chance to recover
+#V428#
+あせるなよ…
+Don't rush it...
+
+// Normal attack on failure
+#V428#
+ザコらしく這いずってろ！
+On the ground, worm!
+
+// Special on failure
+#V428#
+ビッグバンヘッド!!
+Big Bang Headbutt!!
+
+// Counter on failure
+#V428#
+カウンタースマッシュ!!
+Counter Smash!!
+
+// Footwork on failure
+#V428#
+泣いて帰りな！
+Go home and cry!
+
+// Normal attack 2 on failure
+#V428#
+マットに沈んでろ！
+Taste the mat!
+
+// Special 2 on failure
+#V428#
+ローリングキャノン!!
+Rolling Cannon!!
+
+// Keep distance on failure
+#V428#
+カンタンに釣られるんだな
+So easy to bait...
+
+// Parrying punch on failure
+#V428#
+こっちの番だな
+My turn now!
+
+// Normal attack 3 on failure
+#V428#
+一番苦しいのはここか？
+What hurts most? Here?
+
+// Recovery (from picking counter against keeping distance)
+#V428#
+それじゃあお構いなく
+Don't mind if I do...
+
+// Planning normal attack
+#V428#
+センスが違うんだよ…！
+I'm on another level...!
+
+// Planning special
+#V428#
+チャンピオンをナメんなよ…!!
+Don't underestimate the champ!
+
+// Planning counter
+#V428#
+しまった…バランスが…
+Shoot... losing balance...
+
+// Planning footwork
+#V428#
+フットワークで翻弄する…！
+I'll dazzle him with footwork...!
+
+// Planning normal attack 2
+#V428#
+これはどうだ…！
+How about this?!
+
+// Planning special 2
+#V428#
+うおおぉぉぉ!!
+Hwoooooh!!
+
+// Planning keeping distance
+#V428#
+ちょっと離れて休むか…
+Might back off to rest...
+
+// Planning parrying punch
+#V428#
+お前の攻撃なんざ…全部いなして打つ…！
+I'll parry any attack to punch you...!
+
+// Planning normal attack 3
+#V428#
+顔と腹どっちを殴られたい？
+Want it in the face, or the gut?
+
+// Kurumada defeated
+#V428#
+このジムのヤツはザコしかいねえな
+Nothing but losers at this gym...
+
+// Gruusem defeated
+#V428#
+バカな…！　オレは…最…強の……
+No...! I'm the... strong... est...
+
+// Card game players in Sara's mini-episode
+
+#V442,V1062#
+ジョー
+Joe
+
+#V442,V1063#
+太い男
+Chubby Man
+
+#V442,V1064#
+細い男
+Skinny Man
+
+#V442,V1063#
+セクシーなお姉さん
+Sexy Lady
+
+#V442,V1064#
+やんちゃなお姉さん
+Playful Lady
+
+#V442,V1065#
+サラ
+Sara
+
+// Card game pair types in Sara's mini-episode
+
+#V1039#
+トリオ
+trio
+
+#V1039#
+コンビ
+pair
+
+#V1039#
+バラバラ
+no-pair
+
+// Sara's thoughts on current hand in Sara's mini-episode
+
+#V1066#
+おお！　ほぼ最強の手だ!!
+Whoa! That's practically the ultimate hand!!
+
+#V1066#
+凄いぞ！　ほとんど負けることは無いハズだ！
+Amazing! Hardly any chance I'll lose!
+
+#V1066#
+おお！　かなり強い手だろう！
+Ooh, this should be a strong hand!
+
+#V1066#
+うん　強力な手だな
+Yep, this is a powerful hand.
+
+#V1066#
+そこそこ強いんじゃないか
+Should be pretty strong, I think.
+
+#V1066#
+可もなく不可もなく…って感じだ
+Could be better, could be worse.
+
+#V1066#
+うーん…微妙な手だな
+Hmm... kind of an iffy hand.
+
+#V1066#
+なんとも弱い手だな…
+What a weak hand...
+
+#V1066#
+勝負になりそうな手ではないな…
+Doubt this hand will stand a chance...
+
+// Rock paper scissors tiebreaker in Sara's mini-episode:
+// 「\V[1062]！」
+// 「\V[1063]！　そんなぁ!!　私たちの負けー!?」
+// 「しもた！　\V[1063]や！　ワシらの負けやー!!」
+
+// First choice and opponent's (losing) throw
+#V1062#
+グー
+Rock
+
+#V1063#
+チョキ
+Scissors
+
+// Second choice and opponent's (losing) throw
+#V1062#
+チョキ
+Paper
+
+#V1063#
+パー
+Rock
+
+// Third choice and opponent's (losing) throw
+#V1062#
+パー
+Scissors
+
+#V1063#
+グー
+Paper
+
 
 
 =====Extra=====
@@ -3049,6 +3802,7 @@ Name_ホエミー？=Miley?
 Name_トト=Rio
 Name_ノエル=Ranger
 Name_ノエルの頭部=Ranger's Head
+Name_セイ=Sei
 
 Name_ハンナキー=Safalin
 
@@ -3250,6 +4004,61 @@ Name_取扱説明書=Instruction Manual
 // Note about Midori doll head
 Name_\C[3]メモ用紙=\C[3]Note Paper
 
+// Kai mini-episode characters
+Name_稽古の先生=Training Instructor
+Name_緑服の少年=Boy in Green
+Name_サラの父=Sara's Father
+
+// Anzu mini-episode characters
+Name_友達=Friend
+Name_ピエロ=Clown
+Name_観客=Audience
+
+// Alice mini-episode characters
+Name_牙城=Stronghold
+Name_ウニボーズ=Ursheen
+Name_散歩中のおじさん=Old Man on Walk
+
+// Kurumada mini-episode characters
+Name_なぞの格闘家=Mysterious Fighter
+Name_コブシ=Kobushi
+Name_他の選手=Other Fighter
+Name_会長=Gym President
+Name_実況=Commentator
+Name_ホセ・ウラワ・Jr 選手=Jose Urawa Jr.
+Name_ホセ・ウラワ・Jr=Jose Urawa Jr.
+Name_司会=Chairman
+Name_司会者=Chairman
+Name_太い観客=Chubby Spectator
+Name_細い観客=Skinny Spectator
+Name_チャンピオン=Champion
+Name_グロイヤン=Gruusem
+Name_運営団体=Administrator
+Name_実況アナウンサー=Announcer
+Name_解説者=Commentator
+Name_相手の会長=Opponent President
+Name_マスコミ=Media
+
+// Sara mini-episode characters
+Name_メール=Email
+Name_セクシーなお姉さん=Sexy Lady
+Name_やんちゃなお姉さん=Playful Lady
+Name_シルエットなサラさん=Silhouetted Sara
+Name_お姉さん達=Ladies
+Name_同席の男達=Men at Table
+Name_太い男=Chubby Man
+Name_細い男=Skinny Man
+Name_２回戦のダンディ=Game 2 Dandy
+Name_３回戦の警官=Game 3 Policeman
+Name_４回戦の女学生=Game 4 Student
+Name_５回戦のバンドマン=Game 5 Musician
+Name_６回戦の陰キャ=Game 6 Loner
+Name_近くのお子さん=Local Child
+Name_近くのお母さん=Local Mother
+Name_中学生=Middle Schooler
+Name_学生=Student
+Name_リョーコ・ジョー=Ryoko & Joe
+
 // Stand-ins for unused test scene
 Name_プレイヤー=Player
 Name_変なおっさん=Strange Man
@@ -3271,6 +4080,14 @@ Name_書き置き=Note
 
 // Unused scene
 Name_機械=Machine
+
+// Unused scene
+Name_偽やくざ=Fake Yakuza
+Name_ヒヨリ=Hiyori
+Name_手下=Underling
+
+// Debug event
+Name_でば=Debug
 
 
 // Additional item descriptions (shown when touching basic description)
@@ -3509,14 +4326,18 @@ Midori_アルジー=meister
 
 
 // Not used in-game, but used to describe character talk sprites for script export that don't match up with any Name_ definitions
-// Expression strings are English by default, but can be defined here ala TalkSpriteDescription_cara0-1=Default (no collar)
-TalkSpriteName_サラの父=Sara's Father
+// Expression strings are English by default, but can be defined here ala "TalkSpriteDescription_cara0-1 [equals sign] Default (no collar)"
 TalkSpriteName_少年ケイジ=Young Keiji
 TalkSpriteName_ソウの影=Sou Silhouette
 TalkSpriteName_人の影=Person Silhouette
 TalkSpriteName_ボッツン=Botsun
 TalkSpriteName_警察の影=Police Silhouette
 TalkSpriteName_男の影=Man Silhouette
+TalkSpriteName_ガシューの上司=Gashu's Superior
+TalkSpriteName_観客男=Man in Audience
+TalkSpriteName_観客女=Woman in Audience
+TalkSpriteName_劇団の女性=Troupe Woman
+TalkSpriteName_音楽教育の男=Visiting Music Instructor
 
 // Format for talk sprites in scripts; {0} is character name, {1} is expression description, {2} is picture name (caraX-X)
 TalkSpriteFormatWithExpression={0}: {1} / {2}

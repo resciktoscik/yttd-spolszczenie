@@ -1,0 +1,31 @@
+**********Common1812********** (手配分配)
+{Sara}
+#Message#
+\C[4](This is my hand...)
+##
+
+#Message#
+\C[4](And that's the table card...)
+##
+
+[Sara: Casual, groan / cara0-48]
+#Message#
+\.\C[4](My hand's a \C[2]\V[1039]\C[4], with a total value of \C[2]\V[1053]\C[4]...
+ \V[1066])
+##
+
+{Debug} [Botsun / cara999-1]
+#Message#
+Joe \V[1058] Card Power
+A \V[1059]
+B \V[1060]
+Sara \V[1057]
+##
+
+#Message#
+Joe \V[1019] Coins
+A \V[1020]
+B \V[1021]
+Sara \V[444]
+##
+

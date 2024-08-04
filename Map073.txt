@@ -8,17 +8,17 @@
 ##
 
 #Choice#
-\C[2]Final Chapter, Part One (B) (New!)
+Final Chapter, Part One (B)
 ##
 
-<\C[2]最終章　前編Bパートから（NEW）>
+<最終章　前編Bパートから>
 
 <Cancel>
 
 <Choice End>
 
 #Choice#
-Final Chapter, Part One
+Final Chapter, Part One (A)
 Chapter 2, Part Two
 Chapter 2, Part One
 Chapter 1, Part Two
@@ -26,7 +26,7 @@ Chapter 1, Part One
 Cancel
 ##
 
-<最終章　前編開始から>
+<最終章　前編Aパートから>
 
 <２章　後編から>
 

@@ -1,0 +1,2761 @@
+**********Common1800********** (ﾐﾆｴﾋﾟ　クルマダ)
+{N/A}
+#Message#
+\C[3]Arrest him...!
+##
+
+{SE: WON-police}
+#Message#
+\.\C[3]The culprit is a middle schooler!
+But watch out, he's gotten four of us!
+##
+
+#Message#
+\.\C[3]Dammit! Where'd he go?! Find him, now!!
+##
+
+{Kurumada} [Kurumada: Child, grin / cara95B-2]
+{SE: Accent28-1}
+#Message#
+"Heheh, dumbasses. I'm right here!"
+##
+
+[Kurumada: Child, mouth open / cara95B-1]
+#Message#
+"This the best the cops can do?
+ Bad guys must be gettin' loose all the time."
+##
+
+{Policeman} [Police Silhouette / cara999-2]
+{SE: Transceiver}
+#Message#
+\."There! I found him! Requesting backup!"
+##
+
+{Kurumada} [Kurumada: Child, wide grin / cara95B-5]
+{SE: Jump1}
+#Message#
+\."Backup? Great, good luck with that."
+##
+
+{Policeman} [Police Silhouette / cara999-2]
+#Message#
+\."Why, you...! You're mocking me?!"
+##
+
+{Kurumada} [Kurumada: Child, mouth open / cara95B-1]
+#Message#
+\."Bring 'em on. I feel like havin' some fun."
+##
+
+{Policeman} [Police Silhouette / cara999-2]
+#Message#
+\."I'm warning you... You're only tightening
+ the noose around your neck!"
+##
+
+{Kurumada} [Kurumada: Child, surprise / cara95B-8]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Then ya better catch me quick
+ to help loosen it, huh?"
+##
+
+{Policeman} [Police Silhouette / cara999-2]
+#Message#
+\."Y-You little punk!"
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."I'll show you what happens when you
+ mock the power of the state!!"\.
+##
+
+{N/A}
+#Message#
+\.\C[3]An angry Policeman stands in your way!
+##
+
+{Kurumada}
+#Message#
+\C[4](Hah, this guy's an open book.
+ I can tell just what he's thinking!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada's Health ... \V[422]
+Spirits ... \V[423]
+##
+
+#Choice#
+Attack
+Special Move
+Counter
+##
+
+<攻撃>
+
+<必殺技>
+
+#Choice#
+Uppercut (-30 Spirit)
+Back
+##
+
+<アッパーカット（30ﾉﾘﾉﾘ消費）>
+
+{Kurumada} [Police Silhouette / cara999-2]
+#Message#
+\C[4](I'm not in high enough spirits...)
+##
+
+<もどる>
+
+<Choice End>
+
+<カウンター>
+
+<Choice End>
+
+{Kurumada} [Police Silhouette / cara999-2]
+#Message#
+\C[4](Take this!)
+##
+
+{N/A}
+#Message#
+\C[3]Dealt \V[427] damage to the Policeman!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Bwaha... Seems that worked well.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada's spirits rose a bit!
+##
+
+{Kurumada}
+#Message#
+\C[4](Tch, dodged it?)
+##
+
+#Message#
+\C[4](Counter!)
+##
+
+{N/A}
+#Message#
+\C[3]Dealt \V[427] damage to the Policeman!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](I've read you completely...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada's spirits rose a bit!
+##
+
+{Kurumada}
+#Message#
+\C[4](Tch, he read that one...!)
+##
+
+#Message#
+\C[4](Uppercut!!)
+##
+
+{N/A}
+#Message#
+\C[3]Dealt \V[427] damage to the Policeman!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](That was a satisfyin' one...!)
+##
+
+#Message#
+\C[4](Whoa...! You serious?!)
+##
+
+{N/A}
+#Message#
+\C[3]Defeated the Policeman!\|
+##
+
+{SE: sceneswitch2}
+#Message#
+\C[3]The Policeman is stumbling and can't act!\|
+##
+
+#Message#
+\C[3]Kurumada took \V[427] damage!\|
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Hwuh?!)
+##
+
+#Message#
+\.\C[4](Oww, man! Shit!)
+##
+
+{N/A}
+#Message#
+\C[3]Kurumada lost...\|
+##
+
+#Message#
+\C[3]Rematch?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Kurumada} [Kurumada: Child, wide grin / cara95B-5]
+{SE: Accent21-1}
+#Message#
+"Better bring ten next time!"
+##
+
+[Kurumada: Child, mouth open / cara95B-1]
+#Message#
+\."Whoops, gotta go. It's gettin' noisy.
+ Smell ya later, officer."
+##
+
+{Policeman} [Police Silhouette / cara999-2]
+#Message#
+\."Y-You... hold... on..."
+##
+
+{Kurumada} [Kurumada: Child, grin / cara95B-2]
+{SE: Accent21-1}
+#Message#
+"Heh... Pretty sure I've lost 'em."
+##
+
+{Voice}
+#Message#
+"It's best not to cause adults
+ too much trouble, y'know."
+##
+
+{???} [Kobushi: Default / cara29-1]
+{SE: Accent41-1}
+#Message#
+\."The police are meant to be good guys
+ who keep the peace, after all..."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open / cara95B-6]
+#Message#
+\."Who the hell're you?"
+##
+
+{Mysterious Fighter} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Nobody worth mentioning... Just an ordinary fighter."
+##
+
+{Kurumada} [Kurumada: Child, surprise / cara95B-8]
+#Message#
+\."A fighter? A weird old man like you
+ ain't exactly the kinda fighter I know."
+##
+
+{Mysterious Fighter} [Kobushi: Default / cara29-1]
+#Message#
+\."Oh yeah?"
+##
+
+{Kurumada} [Kurumada: Child, grin / cara95B-2]
+#Message#
+\."You're just some second-rate loser, I bet.
+ Whaddya want with me?"
+##
+
+{Mysterious Fighter} [Kobushi: Default / cara29-1]
+#Message#
+\."What do I "want," eh? Hmm..."
+##
+
+[Kobushi: Hand out, mouth open / cara29-10]
+{SE: Accent21-1}
+#Message#
+\."...To train an unfortunate little brat?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big / cara95B-7]
+#Message#
+\."The hell?! Don't get cocky, you second-rate punk!"
+##
+
+{Mysterious Fighter} [Kobushi: Default / cara29-1]
+#Message#
+\."Again with "second-rate"... Insults do tend
+ to be things you're concerned with yourself..."
+##
+
+[Kobushi: Mouth open / cara29-2]
+{SE: sceneswitch2}
+#Message#
+\."Sure you aren't feeling self-conscious
+ that YOU'RE second-rate?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."H... Huhhh?!"
+##
+
+{Mysterious Fighter} [Kobushi: Slight grin / cara29-3]
+{SE: shrink1}
+#Message#
+\."I mean hey, you sure did enjoy teasing
+ a cop who couldn't go full force against a kid."
+##
+
+[Kobushi: Wide grin, lowered eyelids / cara29-6]
+{SE: Accent21-1}
+#Message#
+\."Yep... Second-rate, without a doubt."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."That's enough, asshole...!
+ How about I kick your butt right here?!"
+##
+
+{Mysterious Fighter} [Kobushi: Hand out, mouth open / cara29-10]
+#Message#
+\."Oh? You wanna go?"
+##
+
+[Kobushi: Hand out, wide grin, lowered eyelids / cara29-14]
+#Message#
+\."Then I guess I'll teach you
+ that some adults aren't so kind, boy."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."...!!"
+##
+
+{Mysterious Fighter} [Kobushi: Hand out / cara29-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Bring it."
+##
+
+{N/A}
+#Message#
+\.\C[3]A Mysterious Fighter stands in your way!
+##
+
+#Message#
+\.\C[3]Kurumada's Health ... \V[422]
+Spirits ... \V[423]
+##
+
+#Choice#
+Attack
+Special Move
+Counter
+##
+
+<攻撃>
+
+<必殺技>
+
+#Choice#
+Uppercut (-30 Spirit)
+Back
+##
+
+<アッパーカット（30ﾉﾘﾉﾘ消費）>
+
+{Kurumada} [Kobushi: Hand out / cara29-9]
+#Message#
+\C[4](I'm not in high enough spirits...)
+##
+
+<もどる>
+
+<Choice End>
+
+<カウンター>
+
+<Choice End>
+
+{Kurumada} [Kobushi: Hand out / cara29-9]
+#Message#
+\C[4](Take this!)
+##
+
+{N/A} [Kobushi: Mouth open / cara29-2]
+#Message#
+\C[3]Dealt \V[427] damage to the Mysterious Fighter!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](That hardly did a thing...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada's spirits rose a bit!
+##
+
+{Kurumada}
+#Message#
+\C[4](Tch, dodged it?)
+##
+
+#Message#
+\C[4](Counter!)
+##
+
+{N/A}
+#Message#
+\C[3]Dealt \V[427] damage to the Mysterious Fighter!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Dammit...! I swear I hit him dead on!!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada's spirits rose a bit!
+##
+
+{Kurumada} [Kobushi: Slight grin / cara29-3]
+#Message#
+\C[4](I can't counter if he doesn't hit me...!)
+##
+
+#Message#
+\C[4](I can't counter if he doesn't hit me...!)
+##
+
+#Message#
+\C[4](Tch, he read that one...!)
+##
+
+#Message#
+\C[4](Uppercut!!)
+##
+
+{N/A} [Kobushi: Mouth open / cara29-2]
+#Message#
+\C[3]Dealt \V[427] damage to the Mysterious Fighter!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](W-Why's it feel like I'm not doing anything?!)
+##
+
+[Kobushi: Hand out, wide grin, lowered eyelids / cara29-14]
+#Message#
+\C[4](C-Crap! My balance...!)
+##
+
+{N/A} [Kobushi: Hand out, mouth open / cara29-10]
+#Message#
+\C[3]Defeated the Mysterious Fighter!\|
+##
+
+[Kobushi: Slight grin / cara29-3]
+{SE: sceneswitch2}
+#Message#
+\C[3]The Mysterious Fighter observes with a grin.\|
+##
+
+[Kobushi: Hand out, lowered eyebrows / cara29-16]
+#Message#
+\C[3]Kurumada took \V[427] damage!\|
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Graaah...!)
+##
+
+#Message#
+\.\C[4](S-Shit...!)
+##
+
+{N/A} [Kobushi: Default / cara29-1]
+#Message#
+\C[3]Kurumada lost...\|
+##
+
+{Mysterious Fighter}
+{SE: Accent21-1}
+#Message#
+\."How'd you like the punches of a pro, boy?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Th... the hell... is your name...?"
+##
+
+{Mysterious Fighter} [Kobushi: Default / cara29-1]
+#Message#
+\."I could give you my name...
+ or I could tell you something even better."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."...Ehh...?"
+##
+
+{Mysterious Fighter} [Kobushi: Mouth open / cara29-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The difference between a first-rate fighter
+ and a second-rate fighter."
+##
+
+[Kobushi: Default / cara29-1]
+#Message#
+\."When you're second-rate, you go looking
+ for people crappier than you to beat..."
+##
+
+[Kobushi: Hand out, mouth open / cara29-10]
+{SE: sceneswitch2}
+#Message#
+\."But when you're first-rate, you go looking
+ for people stronger than you to beat."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."What're you... saying...?"
+##
+
+{Mysterious Fighter} [Kobushi: Hand out, mouth open / cara29-10]
+#Message#
+\."Just keep that in mind, and you're already
+ on the road to betterment."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Hold... up...!!"
+##
+
+{Mysterious Fighter} [Kobushi: Surprise / cara29-26]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."Oh, and don't snitch to the cops. See ya."
+##
+
+{Kurumada}
+#Message#
+\C[4](Hold up, dammit... Ugh!)
+##
+
+#Message#
+\C[4](I ain't... gonna forget this...)
+##
+
+{Mysterious Fighter} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: Accent21-1}
+#Message#
+\."Whew... That's morning practice done."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."Good work! That was some intense practice today!"
+##
+
+{Mysterious Fighter} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."No duh, 'cause I wanna win matches."
+##
+
+[Kobushi: Slight grin / cara29-3]
+#Message#
+\."You wanna join me?"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."N-No, uh...!
+ I'm still recovering from an injury, so...!"
+##
+
+{Mysterious Fighter} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."Well, shucks. Tell me when you recover, okay?"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."I-It won't be anytime soon...!"
+##
+
+{Kurumada} [Kurumada: Child, mouth open / cara95B-1]
+{SE: Accent41-1}
+#Message#
+\."...Uh, heya..."
+##
+
+{Mysterious Fighter} [Kobushi: Surprise / cara29-26]
+#Message#
+\."Hm... You're..."
+##
+
+{Kurumada} [Kurumada: Child, mouth closed / cara95B-4]
+#Message#
+\.".........."
+##
+
+{Mysterious Fighter} [Kobushi: Default / cara29-1]
+#Message#
+\."Heh... heh heh..."
+##
+
+[Kobushi: Hand out, mouth open / cara29-10]
+#Message#
+\."Hahaha! So you came to the gym, boy!"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."S-Shut your trap! Don't laugh!"
+##
+
+{Mysterious Fighter} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."Wahah... Didn't like constantly losing, eh?"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+{SE: Accent21-1}
+#Message#
+\."Oh, is that the kid you were talking about, Kobushi?"
+##
+
+{Kobushi} [Kobushi: Slight grin / cara29-3]
+#Message#
+\."That's right.
+ Thought he'd be here sooner, though."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."I was stuck in the slammer, dammit!
+ I swear that cop cheated or something!"
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."Hahaha, I see! My bad, my bad!"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open / cara95B-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But more importantly...!"
+##
+
+{Kobushi} [Kobushi: Default / cara29-1]
+{SE: Accent39-1}
+#Message#
+\."Hm? What's up?"
+##
+
+{Kurumada} [Kurumada: Child, mouth closed / cara95B-4]
+#Message#
+\.".........."
+##
+
+#Choice#
+Fight me again!
+Teach me to fight
+Just came to see you, bye
+##
+
+<もう一回勝負しろ！>
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big / cara95B-7]
+#Message#
+"Fight me again!"
+##
+
+{Kobushi} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: Jump1}
+#Message#
+\."Alrighty! Bring it on!"
+##
+
+{Kurumada}
+#Message#
+"Gyaaaaaaah!!"
+##
+
+{Kobushi}
+#Message#
+"Yep, another loss for you."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Gotta be shittin' me! There's no way I can win!!"
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+{SE: Accent21-1}
+#Message#
+\."Uh-huh? And you came knowing that?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."Ngh...!"
+##
+
+{Kobushi} [Kobushi: Wide grin, lowered eyelids / cara29-6]
+#Message#
+\."So? If you're done here, gonna leave?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."...I mean..."
+##
+
+[Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\.".........."
+##
+
+{Kobushi} [Kobushi: Small-mouth frown / cara29-5]
+#Message#
+\."..."
+##
+
+[Kobushi: Default / cara29-1]
+#Message#
+\."Incidentally, boy..."
+##
+
+[Kobushi: Wide grin, lowered eyelids / cara29-6]
+{SE: Accent28-1}
+#Message#
+\."Even a second-rate punk should have enough pride
+ to say what he means, and not make a guy guess."
+##
+
+<格闘を教えてくれよ>
+
+{Kurumada} [Kurumada: Child, clenched teeth / cara95B-3]
+{SE: Accent40-1}
+#Message#
+"...Look, you gotta have guessed as much, right?
+ Why I came here..."
+##
+
+{Kobushi} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Who can say... I'm slow on the uptake."
+##
+
+{Kurumada} [Kurumada: Child, clenched teeth / cara95B-3]
+#Message#
+\."Grr...!"
+##
+
+[Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I hate to say it...)
+##
+
+#Message#
+\.\C[4](Like... it really pisses me off...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](But I've never met an adult this strong...!)
+##
+
+<顔見たから帰るわ>
+
+{Kurumada} [Kurumada: Child, surprise / cara95B-8]
+{SE: Accent40-1}
+#Message#
+"Seeing you's enough. I'm out."
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."Whoa?! That's a cruel joke, boy!"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open / cara95B-6]
+#Message#
+\."What is?"
+##
+
+{Kobushi} [Kobushi: Hand out, slight frown / cara29-12]
+#Message#
+\."I did catch your interest, didn't I?
+ Curious about my fighting, aren't ya?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."...Tch... well..."
+##
+
+{Kobushi} [Kobushi: Hand out, slight frown / cara29-12]
+{SE: stupid3}
+#Message#
+\."Hoo, boy... I don't get how kids these days think..."
+##
+
+{Kurumada} [Kurumada: Child, grin / cara95B-2]
+{SE: Jump1}
+#Message#
+\."What, so you want me to join your gym?"
+##
+
+{Kobushi} [Kobushi: Hand out, small-mouth frown / cara29-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Eh...?"
+##
+
+{Kurumada} [Kurumada: Child, wide grin / cara95B-5]
+#Message#
+\."If you invited me... then sure, I might join..."
+##
+
+{Kobushi} [Kobushi: Small-mouth frown / cara29-5]
+{SE: sceneswitch2}
+#Message#
+\."...Don't need people with that kinda attitude."
+##
+
+{Kurumada} [Kurumada: Child, surprise / cara95B-8]
+#Message#
+\."What...?!"
+##
+
+{Kobushi} [Kobushi: Small-mouth frown / cara29-5]
+#Message#
+\."Follow your own will, and you can cut paths open."
+##
+
+[Kobushi: Mouth open / cara29-2]
+{SE: sceneswitch2}
+#Message#
+\."...What'd you come here for, boy?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."...!!"
+##
+
+<Choice End>
+
+{Kurumada} [Kurumada: Child, mouth closed / cara95B-4]
+#Message#
+\."..."
+##
+
+[Kurumada: Child, lowered brow, mouth open big / cara95B-7]
+{SE: sceneswitch2}
+#Message#
+\."I'm... Naomichi Kurumada."
+##
+
+[Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Teach me... how to fight...!"
+##
+
+{Kobushi} [Kobushi: Default / cara29-1]
+#Message#
+\."..."
+##
+
+[Kobushi: Mouth open / cara29-2]
+{SE: Accent40-1}
+#Message#
+\."Sure thing.
+ What we do here is boxing."
+##
+
+[Kobushi: Wide grin, lowered eyelids / cara29-6]
+{SE: sceneswitch2}
+#Message#
+\."Just throwing punches at close range...
+ a fighting style where there's no running or hiding."
+##
+
+{Kurumada} [Kurumada: Child, wide grin / cara95B-5]
+{SE: Accent28-1}
+#Message#
+\."Got it...!"
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."Alrighty. Well then..."
+##
+
+[Kobushi: Wide grin, lowered eyelids / cara29-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If I'm teaching you, you better aim to be a pro."
+##
+
+{Kurumada} [Kurumada: Child, surprise / cara95B-8]
+#Message#
+\."A pro?!
+ No prob! Sounds great to me!!"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\.\C[4](Oof... He's got no idea...
+ Kobushi's stricter than strict...)
+##
+
+{Kobushi} [Kobushi: Hand out, lowered eyebrows / cara29-16]
+{SE: Accent21-1}
+#Message#
+"Hey!! I'm tracking all your break time!
+ Don't go sleeping!"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."H... Hurrrgh...! I'm gonna... barf..."
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."Haven't even barfed once yet?! Not bad!
+ Barf away!!"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."W... Who the hell...! I'll kick your ass...!"
+##
+
+{Kobushi} [Kobushi: Hand out, lowered eyebrows / cara29-16]
+#Message#
+\."Hey! How you gonna dodge with that posture?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Ggh...!! *cough*...! Shit, that hurts!!"
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."Aaand the stomach! You really suck, huh?!"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Hrrruugh!! Dammit... I'm gonna...! Oogh...!"
+##
+
+{Kobushi} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Hey, you've gotten better at barfing!"
+##
+
+[Kobushi: Hand out, lowered eyebrows / cara29-16]
+{SE: Accent21-1}
+#Message#
+\."Your body sure is stiff, huh?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."Gaaaaaggghhh...!!
+ What's this got to do with boxing?!"
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Oh, you know. It'll improve your
+ locking techniques and such..."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."There ain't locking techniques in boxing!!"
+##
+
+{Kobushi} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: Accent28-1}
+#Message#
+\."Correct! And there isn't this, either!"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Gyaaahahahaha! Dammit, don't tickle meeeee!!"
+##
+
+[Kurumada: Child, mouth open / cara95B-1]
+{SE: Accent28-1}
+#Message#
+\."...So I'm gonna take a break for a while..."
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."Gotcha."
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."What the?! You quittin'?!
+ Guess I worked you too hard..."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Wrong! I got exams! For middle school!"
+##
+
+{Kobushi} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: Jump1}
+#Message#
+\."Huh, so you actually go to school..."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."D-Don't mock me...!"
+##
+
+{Kobushi} [Kobushi: Hand out / cara29-9]
+#Message#
+\."Well, better at least give your attention
+ for exam season. When do the exams start?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Tomorrow..."
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."T-Tomorrow?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."I'm confident in my cramming skill!
+ And I'm a pro at all-nighters...!"
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+{SE: stupid3}
+#Message#
+\."But won't it keep up for like a week straight?
+ You're gonna die."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Then I'll just accept the KO!!"
+##
+
+{Kobushi} [Kobushi: Hand out, slight frown / cara29-12]
+#Message#
+\."Sheesh..."
+##
+
+[Kobushi: Surprise / cara29-26]
+{SE: Accent41-1}
+#Message#
+\."Hm? But then why aren't you able to
+ come right back the week after exams?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+[Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Retakes..."
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."Hm...?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."If I fail... I'm gonna have retakes, right?!"
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."You...! You're accounting for days of retakes too?!"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."Leave me alone! I know I'm stupid, okay?! Dumbass!!"
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+"H-Hey!!"
+##
+
+[Kobushi: Hand out, mouth open / cara29-10]
+{SE: Accent28-1}
+#Message#
+\."Yo! You got back sooner than I thought."
+##
+
+{Kurumada} [Kurumada: Child, clenched teeth / cara95B-3]
+#Message#
+\."Tch... You being sarcastic?"
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+{SE: shrink1}
+#Message#
+\."Hey, cheer up. I didn't know squat
+ when I was in middle school either, y'know?"
+##
+
+{Kurumada} [Kurumada: Child, wide grin / cara95B-5]
+{SE: Accent21-1}
+#Message#
+\."R-Really?! Like division and stuff...?!"
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."Divis...
+ Now, settle down there."
+##
+
+[Kobushi: Slight grin / cara29-3]
+{SE: sceneswitch2}
+#Message#
+\."What's important is whether
+ you can think on your feet in the ring."
+##
+
+{Kurumada} [Kurumada: Child, surprise / cara95B-8]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Kobushi} [Kobushi: Hand out, slight grin / cara29-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When you're in the ring... even you can be a genius."
+##
+
+{Kurumada} [Kurumada: Child, surprise / cara95B-8]
+{SE: stupid3}
+#Message#
+\."I mean, I haven't even gotten in there yet..."
+##
+
+{Kobushi} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: Accent28-1}
+#Message#
+\."Nah, I can just tell."
+##
+
+{Kurumada} [Kurumada: Child, surprise / cara95B-8]
+#Message#
+\.".........."
+##
+
+[Kurumada: Child, mouth closed / cara95B-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hey, about the training regimen...
+ Could you put in some more weight lifting?"
+##
+
+{Kobushi} [Kobushi: Slight frown / cara29-4]
+#Message#
+\."Hmm?"
+##
+
+[Kobushi: Slight grin / cara29-3]
+{SE: Accent21-1}
+#Message#
+\."You can just do that sorta thing in moderation."
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big / cara95B-7]
+#Message#
+\."Why?! I wanna get more bulky..."
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+{SE: sceneswitch2}
+#Message#
+\."Your growth spurt's still to come, ain't it?"
+##
+
+[Kobushi: Hand out, slight frown / cara29-12]
+#Message#
+\."Wait 'til you're tall before you try to get buff.
+ Don't rush it."
+##
+
+{Kurumada} [Kurumada: Child, mouth open / cara95B-1]
+#Message#
+\."...And what if I don't get tall?"
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+{SE: Accent21-1}
+#Message#
+\."Hmm...?"
+##
+
+{Kurumada} [Kurumada: Child, mouth closed / cara95B-4]
+#Message#
+\."...Dammit..."
+##
+
+[Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\."..."
+##
+
+[Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Your weight class... is way up there, right...?"
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\.".........."
+##
+
+{Kobushi} [Kobushi: Hand out / cara29-9]
+#Message#
+\."...You wanna have a go, do ya?"
+##
+
+[Kobushi: Hand out, wide grin, lowered eyelids / cara29-14]
+{SE: sceneswitch2}
+#Message#
+\.\C[4](A real match with me, in the same class...!)
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, clenched teeth, sweating / cara95B-10]
+#Message#
+\.".........."
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+{SE: Accent28-1}
+#Message#
+\."Then let's have a title match someday, Naomichi."
+##
+
+{Kurumada} [Kurumada: Child, surprise / cara95B-8]
+#Message#
+\."...!!"
+##
+
+{Kobushi} [Kobushi: Slight grin / cara29-3]
+#Message#
+\."A decisive fight with no holds barred...
+ throwing our very lives behind our punches."
+##
+
+[Kobushi: Hand out, mouth open / cara29-10]
+{SE: shrink1}
+#Message#
+\."But if you're dissatisfied with the regimen I gave,
+ maybe that's too much to hope for?"
+##
+
+{Kurumada} [Kurumada: Child, lowered brow, mouth open big, sweating / cara95B-9]
+#Message#
+\."S-Say what?!
+ I only complained 'cause it was too easy!"
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."Hahaha! I see!"
+##
+
+{Kurumada}
+#Message#
+\.\C[4](A title match...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Just you wait, old man.)
+##
+
+#Message#
+\.\C[4](When I beat you... will you admit it?)
+##
+
+{SE: Accent40-1}
+#Message#
+\.\C[4](That I'm first-rate, too...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+{SE: Accent39-1}
+#Message#
+\.\C[4](I'd better sleep well and grow tall, huh...)
+##
+
+{Commentator}
+{SE: Applause1}
+#Message#
+"A ten-round knockout victory!!
+ The winner is Kobushi!!"
+##
+
+{Kobushi} [Kobushi: Hand out / cara29-9]
+{SE: Accent28-1}
+#Message#
+\."Heeey, morning! Everybody doing well?"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."Whoaaa! Welcome back, Japan champ!
+ Have your injuries healed?!"
+##
+
+{Kobushi} [Kobushi: Hand out, slight grin / cara29-11]
+{SE: Accent21-1}
+#Message#
+\."Yep! Pretty long vacation by my standards."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."Man, though, that was an amazing title match!"
+##
+
+{Kobushi} [Kobushi: Slight frown / cara29-4]
+#Message#
+\."Sure, sure. More importantly, where is he?"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Oh, right! He's been looking for you!
+ Kurumada!"
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, lowered brow / cara95-62]
+{SE: Accent28-1}
+#Message#
+"You came back, eh?!"
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."What's up? You're grinning all cheeky-like..."
+##
+
+{Kurumada} [Kurumada: Brown hair, closed-eyes smile / cara95-63]
+#Message#
+\."Listen to this! I passed the pro license exam!"
+##
+
+{Kobushi} [Kobushi: Hand out / cara29-9]
+{SE: Accent39-1}
+#Message#
+\."Hey, congrats."
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."The hell's that weak reaction?!"
+##
+
+[Kurumada: Brown hair, shouting mouth / cara95-52]
+#Message#
+\."I got it in one!! Aren't I amazin'?!"
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."True enough! That's nothing to sneeze at!"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+{SE: stupid3}
+#Message#
+\.\C[4](Haha... Like 90% of people pass, though...)
+##
+
+{Kobushi} [Kobushi: Wide grin, lowered eyebrows / cara29-8]
+{SE: sceneswitch2}
+#Message#
+\."But see here, Naomichi! While you were doing that, 
+ I became Japan's champ, y'know?"
+##
+
+{Kurumada} [Kurumada: Brown hair, grin, lowered brow / cara95-61]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I don't intend on chasing you there..."
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."What's that?"
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, lowered brow / cara95-62]
+{SE: sceneswitch2}
+#Message#
+\."You're gonna be world champ, right?
+ Go right ahead. I'll come to challenge ya."
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."Now... that's a bold claim."
+##
+
+[Kobushi: Wide grin, lowered eyebrows / cara29-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Right then, I'll go grab it..."
+##
+
+[Kobushi: Hand out, mouth open / cara29-10]
+{SE: sceneswitch2}
+#Message#
+\."And I'll defend it as many times as it takes
+ 'til you arrive."
+##
+
+{Kurumada} [Kurumada: Brown hair, closed-eyes smile / cara95-63]
+#Message#
+\."Heh! It's a promise!"
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."Don't you lose your debut match either!"
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, lowered brow / cara95-62]
+{SE: flash-of-light-3}
+#Message#
+\."Right!!"
+##
+
+{Kobushi} [Kobushi: Slight frown / cara29-4]
+{SE: Accent21-1}
+#Message#
+\."Yo... You nervous?"
+##
+
+{Kurumada} [Kurumada: Boxing, mouth open, furrowed brow / cara95-57]
+#Message#
+\."..."
+##
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+#Message#
+\."It's finally here. Your first match as a pro."
+##
+
+{Kurumada} [Kurumada: Boxing, clenched teeth, furrowed brow / cara95-59]
+#Message#
+\."Tch..."
+##
+
+#Choice#
+I wanna get to it
+Makes me nervous
+I'm trembling with excitement
+##
+
+<早くやりてえ>
+
+{Kurumada} [Kurumada: Boxing, shouting mouth / cara95-60]
+#Message#
+\."I wanna get it started already!"
+##
+
+{Kobushi} [Kobushi: Slight grin / cara29-3]
+#Message#
+\."Don't be hasty, now."
+##
+
+<緊張する>
+
+{Kurumada} [Kurumada: Boxing, mouth open, furrowed brow / cara95-57]
+{SE: Accent40-1}
+#Message#
+\."Makes me nervous... So this is how it feels..."
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."Whoa now, that's uncharacteristically honest.
+ You really gonna be okay...?"
+##
+
+<武者震いがする>
+
+{Kurumada} [Kurumada: Boxing, grin / cara95-58]
+#Message#
+\."I'm trembling with excitement... Bwahaha..."
+##
+
+{Kobushi} [Kobushi: Default / cara29-1]
+#Message#
+\."Seems you'll do just fine, then."
+##
+
+<Choice End>
+
+{Kobushi} [Kobushi: Mouth open / cara29-2]
+{SE: Accent21-1}
+#Message#
+\."Listen, remember what I taught you."
+##
+
+[Kobushi: Wide grin, lowered eyebrows / cara29-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Stay in control with jabs! If it looks like
+ your opponent's about to hit hard, counter it!"
+##
+
+[Kobushi: Mouth open / cara29-2]
+{SE: sceneswitch2}
+#Message#
+\."Likewise, when you use a big move of your own,
+ careful it won't be countered!!"
+##
+
+{Kurumada} [Kurumada: Boxing, shouting mouth / cara95-60]
+#Message#
+\."R-Right...!"
+##
+
+{Kobushi} [Kobushi: Wide grin, lowered eyebrows / cara29-8]
+{SE: Accent28-1}
+#Message#
+\."Okay, go for it!"
+##
+
+{Jose Urawa Jr.} [Jose Urawa Jr. / cara999-14]
+{SE: Accent42-1}
+#Message#
+\."Hahaha...
+ Sorry, but I'll be scoring a victory off you."
+##
+
+{Kurumada} [Kurumada: Boxing, grin / cara95-58]
+#Message#
+\."Y'know, I was thinking the same thing!"
+##
+
+{Jose Urawa Jr.} [Jose Urawa Jr. / cara999-14]
+#Message#
+\."Haha, perfect...!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."An energetic newcomer... I can admire that!"
+##
+
+{Kurumada} [Kurumada: Boxing, mouth open, furrowed brow / cara95-57]
+{SE: Accent21-1}
+#Message#
+\."*pant*... *pant*..."
+##
+
+[Kurumada: Boxing, slight surprise / cara95-53]
+#Message#
+\."I... I won...?"
+##
+
+[Kurumada: Boxing, grin / cara95-55]
+#Message#
+\."I won! Hahah! I won, Kobushi!!"
+##
+
+{Kobushi} [Kobushi: Hand out, mouth open / cara29-10]
+#Message#
+\."Whoaaa! Way to go, Naomichi!!"
+##
+
+{Chairman} [Chairman / cara999-19]
+{SE: Accent21-1}
+#Message#
+\."The winner is Kurumada!
+ How's your first victory feel?!"
+##
+
+{Kurumada} [Kurumada: Boxing, mouth open, furrowed brow / cara95-57]
+#Message#
+\."Eh...?"
+##
+
+#Choice#
+It's the best!
+It's only just begun!
+I'm retiring
+##
+
+<最高だ！>
+
+{Kurumada} [Kurumada: Boxing, grin / cara95-58]
+#Message#
+\."It's the best!! Winning feels crazy good!!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Can we look forward to more satisfying
+ KO victories from you?!"
+##
+
+{Kurumada} [Kurumada: Boxing, grin / cara95-58]
+#Message#
+\."Bwahaha... Count on it!"
+##
+
+[Kurumada: Boxing, mouth open, furrowed brow / cara95-57]
+{SE: Accent21-1}
+#Message#
+\."'Course, that doesn't mean
+ I'm lookin' to fight just anybody."
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Which is to say... you're seeking strong opponents?!"
+##
+
+{Kurumada} [Kurumada: Boxing, grin / cara95-58]
+#Message#
+\."Obviously!"
+##
+
+<まだまだだ！>
+
+{Kurumada} [Kurumada: Boxing, shouting mouth / cara95-60]
+#Message#
+\."I'm only gettin' started!
+ This ain't enough to satisfy me!!"
+##
+
+[Kurumada: Boxing, grin / cara95-58]
+{SE: flash-of-light-3}
+#Message#
+\."I'm gonna beat the strongest of opponents
+ and come out on top!!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Ohhhh!! And who might that be...?!"
+##
+
+{Kurumada} [Kurumada: Boxing, grin / cara95-58]
+#Message#
+\."Bwahaha... Isn't that obvious?!"
+##
+
+<引退します>
+
+{Kurumada} [Kurumada: Boxing, mouth open / cara95-56]
+#Message#
+\."Ahem... I'm retiring."
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Whaaaaat?!"
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+#Message#
+\."Haaaaah?!"
+##
+
+{Kurumada} [Kurumada: Boxing, grin / cara95-58]
+{SE: flash-of-light-3}
+#Message#
+\."...From the second-rate practice
+ of hunting weaklings, that is."
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Ohhhh!! So you'll only fight strong opponents?!"
+##
+
+{Kurumada} [Kurumada: Boxing, grin / cara95-58]
+#Message#
+\."Yep, that's right."
+##
+
+<Choice End>
+
+{Kurumada} [Kurumada: Boxing, shouting mouth / cara95-60]
+#Message#
+\."My target is Kobushi!!
+ I'm here to beat you down!!"
+##
+
+{Chairman} [Chairman / cara999-19]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."Eh...?"
+##
+
+{Kobushi} [Kobushi: Surprise / cara29-26]
+{SE: SIN-Onmtp-Pop01-1}
+#Message#
+\."Ack! Uh..."
+##
+
+{Chubby Spectator} [Skinny Man / cara999-16]
+#Message#
+\."Wahaha! Going up against a fellow student?!"
+##
+
+{Skinny Spectator}
+#Message#
+\."What an idiot...! Haha... I'll cheer for him!"
+##
+
+{Kurumada} [Kurumada: Boxing, mouth open / cara95-56]
+{SE: Accent41-1}
+#Message#
+\."Uhh...?"
+##
+
+{Kobushi} [Kobushi: Slight frown / cara29-4]
+#Message#
+\."Ahh... Guess the cat's outta the bag..."
+##
+
+[Kobushi: Hand out, mouth open / cara29-10]
+{SE: stupid3}
+#Message#
+\."Right, suppose I'll run away..."
+##
+
+[Kobushi: Mouth open / cara29-2]
+{SE: Accent21-1}
+#Message#
+\."...Thanks for sending me off, everybody."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."Be sure to bring that belt back with you!"
+##
+
+{Kobushi} [Kobushi: Wide grin, lowered eyebrows / cara29-8]
+{SE: flash-of-light-3}
+#Message#
+\."You got it. In a few days' time, I'll be world champ!"
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\.".........."
+##
+
+{Kobushi} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: Jump1}
+#Message#
+\."What's up, Naomichi?
+ Still angry?"
+##
+
+{Kurumada} [Kurumada: Brown hair, shouting mouth / cara95-52]
+#Message#
+\."'Course I'm angry!! You've been fooling me!!"
+##
+
+[Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."You never told me you can't go head to head
+ if you're in the same gym!!"
+##
+
+{Kobushi} [Kobushi: Hand out, slight grin / cara29-11]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Hey, not necessarily.
+ If the president approves, that's different."
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: Accent21-1}
+#Message#
+\."We can discuss that later.
+ For now, just think about that title match!"
+##
+
+{Kobushi} [Kobushi: Hand out, mouth open / cara29-10]
+{SE: Accent39-1}
+#Message#
+\."You heard the man. Sorry, Naomichi."
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."Tch..."
+##
+
+#Choice#
+Good luck out there
+Don't you dare lose
+I'll be here to console you
+##
+
+<がんばって来いよ>
+
+{Kurumada} [Kurumada: Brown hair, grin, furrowed brow / cara95-50]
+{SE: Accent40-1}
+#Message#
+\."...Good luck with that title match."
+##
+
+{Kobushi} [Kobushi: Hand out, lowered eyebrows / cara29-16]
+{SE: sceneswitch2}
+#Message#
+\."I've got it for sure! Trust me!"
+##
+
+<負けんじゃねーぞ>
+
+{Kurumada} [Kurumada: Brown hair, grin, furrowed brow / cara95-50]
+{SE: Accent40-1}
+#Message#
+\."Don't you dare lose!"
+##
+
+{Kobushi} [Kobushi: Hand out, lowered eyebrows / cara29-16]
+{SE: sceneswitch2}
+#Message#
+\."Yep!! See ya!"
+##
+
+<慰めてやるからな>
+
+{Kurumada} [Kurumada: Brown hair, grin, furrowed brow / cara95-50]
+{SE: Accent40-1}
+#Message#
+\."Don't worry, we'll all be here to console you."
+##
+
+{Kobushi} [Kobushi: Wide grin, lowered eyelids / cara29-6]
+#Message#
+\."What a guy, talking assuming I'm gonna lose...
+ Just watch the match, Naomichi!"
+##
+
+{Kurumada} [Kurumada: Brown hair, grin, furrowed brow / cara95-50]
+#Message#
+\."Hah, of course!"
+##
+
+<Choice End>
+
+{Gym President} [Gym President / cara999-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Alright, we're off. Don't go slacking on training!"
+##
+
+{Kurumada} [Kurumada: Brown hair, slight frown / cara95-46]
+#Message#
+".........."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."It's all right, Kurumada.
+ Kobushi can definitely do it."
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open / cara95-48]
+#Message#
+\."...I know that."
+##
+
+[Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Besides, that "champion" he's up against
+ is just a second-rate punk who plays rough..."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."C'mon, let's get back for practice!"
+##
+
+{Kurumada} [Kurumada: Brown hair, slight frown / cara95-46]
+#Message#
+\.".........."
+##
+
+[Kurumada: Brown hair, slight surprise / cara95-45]
+{SE: Accent21-1}
+#Message#
+\."...Yeah, he'll be fine..."
+##
+
+{Kobushi} [Kobushi: Boxing, surprise / cara29-25]
+{SE: sceneswitch2}
+#Message#
+"...Huh?"
+##
+
+{Champion} [Gruusem: Frown / cara30-2]
+#Message#
+\."..."
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."Y-You must be joking...!"
+##
+
+#Message#
+\."He's a whole 3 kilograms overweight...
+ What's going on here?!"
+##
+
+{Champion} [Gruusem: Frown / cara30-2]
+#Message#
+\."..."
+##
+
+{Administrator} [Chairman / cara999-19]
+#Message#
+\."A-At any rate, we're done measuring! I'll contact
+ the respective managers, so please leave for now...!"
+##
+
+{Kobushi} [Kobushi: Boxing, small-mouth frown / cara29-21]
+#Message#
+\."Gotta be kidding me..."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+{SE: Accent41-1}
+#Message#
+"Did you hear?!
+ Kobushi... agreed to the match...!"
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."Dammit...! You serious?!"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."You can't blame him... He prepared so much.
+ He was completely ready to go and win..."
+##
+
+#Message#
+\."If he forwent the match, it'd be quite a while
+ until he could make another challenge..."
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."Still, there's a huge weight disparity!!
+ It's goddamn nonsense...!"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."That champion... Win or lose, he'll be deprived of
+ his title. Why break the rules like that...?"
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."Why should I care?!
+ At any rate... I gotta watch the match!!"
+##
+
+{Announcer} [Gruusem: Smile / cara30-1]
+{SE: Accent21-1}
+#Message#
+\C[3]"Our main match for today
+ sees Kobushi pit against our champion..."
+##
+
+{SE: Accent42-1}
+#Message#
+\.\C[3]"But the crowd is booing nonstop!"
+##
+
+{Commentator}
+#Message#
+\C[3]\."No surprise there. This title match is built upon
+ the champion paying off a rule violation!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]\."It's a match where only the challenger Kobushi
+ can earn the title, should he win."
+##
+
+{Kurumada} [Kurumada: Brown hair, shouting mouth / cara95-52]
+#Message#
+"Please, Kobushi!
+ You gotta beat down this second-rate punk...!"
+##
+
+{Announcer} [Gruusem: Frown / cara30-2]
+#Message#
+\C[3]"And it's begun! The champion steps forward!"
+##
+
+#Message#
+\C[3]"Whaaat?!\.\. What was that all of a sudden...?!"
+##
+
+{Kobushi} [Kobushi: Boxing, surprise / cara29-25]
+#Message#
+\."...!!"
+##
+
+{Announcer}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]"It looked like the champion just did a headbutt...
+ But the ref isn't saying a thing!"
+##
+
+[Gruusem: Lowered brow smile / cara30-4]
+#Message#
+\.\C[3]"He's following into a flurry of punches...!!"
+##
+
+{Kobushi} [Kobushi: Boxing, small-mouth frown / cara29-21]
+#Message#
+\."...!!"
+##
+
+{Announcer}
+#Message#
+\C[3]"Kobushi can't take it! He's on his knees!
+ He's down!!"
+##
+
+{Commentator}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]"This is looking to be a brutal match..."
+##
+
+{Kurumada} [Kurumada: Brown hair, shouting mouth / cara95-52]
+#Message#
+"Ko... bushi...!!"
+##
+
+{Announcer}
+#Message#
+\C[3]"The match is over! Kobushi can't get back up!!"
+##
+
+{Commentator}
+{SE: Accent21-1}
+#Message#
+\.\C[3]"It was all too one-sided...
+ Maybe it'd be better not to have had this match..."
+##
+
+{Announcer}
+#Message#
+\.\C[3]"Is Kobushi all right?!
+ They're taking him out on a stretcher...!"
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+{SE: se_maoudamashii_magical14}
+#Message#
+".........."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."...Kurumada! Hey! Where are you...?!"
+##
+
+{N/A}
+#Message#
+\C[3]He lost.
+##
+
+#Message#
+\.\C[3]In a blink, Kobushi lost to that second-rate punk.
+##
+
+#Message#
+\.\C[3]With this defeat, Kobushi was badly injured...
+##
+
+{SE: shock1}
+#Message#
+\.\C[3]...and soon retired.
+##
+
+{Other Fighter}
+{SE: Accent21-1}
+#Message#
+"Kobushi's... gone missing...?"
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yeah... He might not come back here..."
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\.".........."
+##
+
+#Choice#
+I'm quitting too
+I'll bring him back
+They'll pay for this
+##
+
+<オレも辞めるよ>
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+{SE: Accent40-1}
+#Message#
+\."...I'm quitting too. Got no more reason to be here."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."What the...?!"
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\.".........."
+##
+
+<連れ戻してやる>
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+{SE: Accent40-1}
+#Message#
+\."I'll bring Kobushi back...!"
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."...Give it up."
+##
+
+{Kurumada} [Kurumada: Brown hair, shouting mouth / cara95-52]
+#Message#
+\."Don't gimme that shit! You're responsible, too..."
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\.".........."
+##
+
+<許せねえ>
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+{SE: Accent40-1}
+#Message#
+\."They'll pay... I'll tear into that damn champion!!"
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."...How?"
+##
+
+{Kurumada} [Kurumada: Brown hair, shouting mouth / cara95-52]
+#Message#
+\."Why don't YOU tell me, huh?!
+ Don't look so damn nonchalant!!"
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Gym President} [Gym President / cara999-12]
+{SE: Accent21-1}
+#Message#
+\."...Do you despise me for not stopping the match?"
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+#Message#
+\.".........."
+##
+
+[Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."...Tch..."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Do you have a moment, President...?"
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\.".........."
+##
+
+{Other Fighter}
+{SE: sceneswitch2}
+#Message#
+"It's bad news!"
+##
+
+[Other Fighter / cara999-13]
+#Message#
+"That ex-champion's asking us for
+ a sparring opponent!!"
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: Accent21-1}
+#Message#
+\."You guys have good ears, huh?"
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."P-President...!"
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Apparently he's looking to have a title match
+ to get back the belt he was stripped of."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."And to that end... he wants a training partner."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."But why us, with our history with him...?!"
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: Accent28-1}
+#Message#
+\."Hmph... Wants to put on a show of "making up," maybe?"
+##
+
+#Message#
+\."Bet that loathsome ex-champ's struggling
+ to find anybody who'll give him the time of day."
+##
+
+{Other Fighter} [Other Fighter / cara999-13]
+#Message#
+\."But... if it has to be someone in his weight class..."
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+#Message#
+\."Let me do it..."
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kurumada... I didn't see you there..."
+##
+
+#Message#
+\.".........."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."...Alright."
+##
+
+{Opponent President} [Opponent President / cara999-23]
+{SE: flash-of-light-3}
+#Message#
+"Hahaha! I'm grateful for your cooperation
+ in this public sparring match!"
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."...Right, well."
+##
+
+{Opponent President} [Opponent President / cara999-23]
+#Message#
+\."Now, now, I understand..."
+##
+
+{SE: shrink1}
+#Message#
+\."That fight was an unlucky one for us both..."
+##
+
+{SE: Accent24-1}
+#Message#
+\."Soon, we'll finally be able to reclaim
+ the belt that was so unfairly stolen from us...
+ Yes, we must both move on! Hahaha!"
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: Accent42-1}
+#Message#
+\.\C[4](U... "Unfairly" stolen from you...?)
+##
+
+{Media} [Media / cara999-24]
+{SE: camera-shutter1}
+#Message#
+\."Two teams overcoming tragedy to join hands...!
+ A peace that reaches across national borders!"
+##
+
+{Opponent President} [Opponent President / cara999-23]
+#Message#
+\."Precisely, my good audience!
+ Now watch the sparring attentively!"
+##
+
+{Media} [Media / cara999-24]
+{SE: Accent21-1}
+#Message#
+\."Former champ Gruusem!
+ I'd like to hear your feelings at the moment!"
+##
+
+{Gruusem} [Gruusem: Frown / cara30-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Worthless..."
+##
+
+{Media} [Media / cara999-24]
+#Message#
+\."Huh? What did you just..."
+##
+
+{Opponent President} [Opponent President / cara999-23]
+#Message#
+\."Hahaha! He said "I never fight a worthless match,
+ even during training"!"
+##
+
+{Kurumada} [Kurumada: Boxing, slight frown / cara95-54]
+#Message#
+\.".........."
+##
+
+{Gruusem} [Gruusem: Frown / cara30-2]
+{SE: Accent21-1}
+#Message#
+\."Well, I'll play with you, young'n. You can brag
+ to your friends you got to train with a champ."
+##
+
+{Kurumada} [Kurumada: Boxing, grin / cara95-55]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Sure."
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: sceneswitch2}
+#Message#
+\."Well then, let's begin sparring!"
+##
+
+#Message#
+\.\C[4](...Give him your all, Kurumada.)
+##
+
+{Gruusem} [Gruusem: Smile / cara30-1]
+#Message#
+\."Harumph..."
+##
+
+[Gruusem: Frown / cara30-2]
+{SE: sceneswitch2}
+#Message#
+\."I'll get a workout... then end this quick-like."
+##
+
+{Kurumada} [Kurumada: Boxing, shouting mouth / cara95-60]
+{SE: Accent21-1}
+#Message#
+"*pant*...! *pant*...! *gasp*...!"
+##
+
+{Opponent President} [Opponent President / cara999-23]
+#Message#
+\."You're kidding...?! It can't be!!
+ Our most valuable asset, bested by this novice?!"
+##
+
+{Kurumada} [Kurumada: Boxing, clenched teeth, furrowed brow / cara95-59]
+#Message#
+\."Whew...! Haah...!"
+##
+
+[Kurumada: Boxing, angry / cara95-66]
+{SE: heart2}
+#Message#
+\.\C[4](Kobushi lost... to this dumbass...
+ that even I could beat...?!)
+##
+
+{Gruusem} [Gruusem: Angry / cara30-5]
+#Message#
+\."S-Stop the cameras... I'm done... for today..."
+##
+
+{Kurumada} [Kurumada: Boxing, angry / cara95-66]
+#Message#
+\.\{"It ain't over, asshole!!"
+##
+
+{Gruusem} [Gruusem: Surprise / cara30-3]
+#Message#
+\."Wh...?!"
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."S-Stop! Kurumada!!"
+##
+
+{N/A}
+#Message#
+\C[3]Ha... haha...
+##
+
+#Message#
+\.\C[3]First-rate... second-rate...
+##
+
+#Message#
+\.\C[3]It's all bullshit...
+##
+
+#Message#
+\.\C[3]The strong... eat the weak...
+##
+
+#Message#
+\.\C[3]It's as simple as that...
+##
+
+#Message#
+\.\C[3]No one can stop me now...
+##
+
+#Message#
+\.\C[10]A weakling's fate... is mine to decide.
+##
+
+{Gym President}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Now we're done for, too..."
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+#Message#
+\.".........."
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: Accent21-1}
+#Message#
+\."Gruusem retired because of you..."
+##
+
+#Message#
+\."Dunno if he'll even be able to walk again..."
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+#Message#
+\.".........."
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: sceneswitch2}
+#Message#
+\."Get the hell out of here, you punk..."
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+#Message#
+\."Hmph..."
+##
+
+#Choice#
+Might just retire myself
+I'll hit up another gym
+##
+
+<オレも引退すっかな>
+
+{Kurumada} [Kurumada: Brown hair, grin, furrowed brow / cara95-50]
+{SE: Accent40-1}
+#Message#
+"Ahh, maybe I should retire too..."
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."Sure, do whatever the hell you want."
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+#Message#
+\."Heh... So that's it, huh?"
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."...What?"
+##
+
+#Message#
+\."You think I'm gonna say I'll forget all about it
+ and keep working with you?!"
+##
+
+<別のジムでがんばるわ>
+
+{Kurumada} [Kurumada: Brown hair, grin, furrowed brow / cara95-50]
+{SE: Accent40-1}
+#Message#
+"Well then, I'll keep it up at another gym."
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."Idiot... After this, you think you'll get to
+ see the light of day in the boxing world?"
+##
+
+<Choice End>
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."You're a violent, uncontrollable criminal
+ with a screw loose...!!"
+##
+
+#Message#
+\."Nobody's gonna train you or root for you!!"
+##
+
+#Message#
+\."Even Kobushi... wherever he is, I bet he's crying!!"
+##
+
+{Kurumada} [Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+#Message#
+\."..."
+##
+
+[Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."...Shaddup."
+##
+
+[Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+{SE: Accent21-1}
+#Message#
+\."Part of you was kinda expecting this might happen
+ when you offered me up, wasn't it?"
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\."...!!"
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."Both of us just weren't gonna stand
+ for that irrational crap."
+##
+
+[Kurumada: Brown hair, shouting mouth / cara95-52]
+#Message#
+\."That's why... I'm not quittin'..."
+##
+
+[Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm gonna be... the champion."
+##
+
+[Kurumada: Brown hair, clenched teeth / cara95-51]
+{SE: sceneswitch2}
+#Message#
+\."I'll realize the dream Kobushi couldn't..."
+##
+
+{Gym President} [Gym President / cara999-12]
+#Message#
+\.".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Go do it on your own."
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+\."Hey now..."
+##
+
+{Gym President} [Gym President / cara999-12]
+{SE: Accent21-1}
+#Message#
+\."I don't wanna have to look after you."
+##
+
+{Kurumada} [Kurumada: Brown hair, clenched teeth / cara95-51]
+#Message#
+".........."
+##
+
+[Kurumada: Brown hair, mouth open, furrowed brow / cara95-49]
+#Message#
+\."I can't give up..."
+##
+
+[Kurumada: Brown hair, shouting mouth / cara95-52]
+{SE: sceneswitch2}
+#Message#
+\."I ain't giving up, Kobushi...!!"
+##
+
+{N/A}
+#Message#
+
+
+                              \C[3]Naomichi Kurumada Episode
+\>                     \<"First-Rate and Second-Rate" - End
+##
+

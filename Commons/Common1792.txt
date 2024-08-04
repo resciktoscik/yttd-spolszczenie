@@ -1,0 +1,1867 @@
+**********Common1792********** (ﾐﾆｴﾋﾟ　アンズ)
+{N/A}
+#Message#
+"Hey..."
+##
+
+#Message#
+\."Hey, Anzu."
+##
+
+#Message#
+\."So, like... have you decided on a club yet?"
+##
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: Accent28-1}
+#Message#
+"A club?"
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."Yeah, a school club.
+ You've gotta join something right away
+ now that you're in high school, right?"
+##
+
+{Anzu} [Anzu: School uniform, surprised / cara96-19]
+{SE: Accent39-1}
+#Message#
+\."Oh yeah, I guess so..."
+##
+
+[Anzu: School uniform, raised eyebrows / cara96-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I'd really better think it over, huh.
+ It'll decide my heading for these next three years...
+ A crucial choice to make my days of youth bloom!)
+##
+
+[Anzu: School uniform, worried / cara96-16]
+{SE: heart2}
+#Message#
+\."Let's see now... I'm thinking..."
+##
+
+#Choice#
+Drama club
+Volleyball
+Manga study club
+English club
+Tennis
+Computer club
+##
+
+<演劇部>
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: Accent40-1}
+#Message#
+\."Maybe drama club! Like, then I could
+ go out on stage for the culture festival and stuff!
+ And be the starring role who makes everyone weep!"
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: flash-of-light-3}
+#Message#
+\."I consider myself a pretty good actor, y'know!"
+##
+
+<バレー部>
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: Accent40-1}
+#Message#
+\."Maybe I'll join volleyball! Hitting a piercing serve
+ that slams through their defenses while everyone
+ cheers me on... How cool would that be?!"
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: flash-of-light-3}
+#Message#
+\."And my height might shoot way up once I get into it!"
+##
+
+<漫画研究部>
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: Accent40-1}
+#Message#
+\."Maybe manga club! I could sneakily submit something,
+ and it gets an anime or a movie, and the class'd
+ be all like "who drew this manga?"!"
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: flash-of-light-3}
+#Message#
+\."Then I'd be like "So you found me out...",
+ and I'd be the talk of the school!"
+##
+
+<英会話部>
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: Accent40-1}
+#Message#
+\."Maybe English conversation club!
+ When people are lost and asking foreigners for help,
+ I'll be able to talk to them in fluent English!"
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: flash-of-light-3}
+#Message#
+\."And having learned to speak English in high school,
+ I might end up mastering like five more languages!"
+##
+
+<テニス部>
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: Accent40-1}
+#Message#
+\."Maybe I'll join tennis! I'll send the ball
+ flying off somewhere my opponent'll never get it, and
+ the boys' captain will notice and be like "daaang"!"
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: flash-of-light-3}
+#Message#
+\."And I'll break his heart all like,
+ "I can't date someone weaker than me..."!"
+##
+
+<パソコン部>
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: Accent40-1}
+#Message#
+\."Maybe computer club!
+ I'll use the computer to, uh... program? I think?
+ To like... start a company or something!"
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: flash-of-light-3}
+#Message#
+\."I'll buy... stocks?
+ And live the rest of my life in leisure!"
+##
+
+<Choice End>
+
+{Friend} [Friend / cara999-6]
+{SE: Jump2}
+#Message#
+\."Ooh, nice! I'll do that too!"
+##
+
+{N/A}
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\C[3]A few days later...
+##
+
+{Anzu} [Anzu: School uniform, horrified look, mouth open / cara96-27]
+#Message#
+\."I can't do thiiiiis!!"
+##
+
+[Anzu: School uniform, concerned / cara96-18]
+{SE: Accent21-1}
+#Message#
+"Aaah... it shouldn't have been like this..."
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."Gave up right away after all, huh..."
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."I mean, it's such strenuous activity!
+ I can't handle it!"
+##
+
+[Anzu: School uniform, worried / cara96-16]
+{SE: shrink1}
+#Message#
+\."Why do I have to run laps around the campus
+ and work out just for acting? I'm pooped every day!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: stupid3}
+#Message#
+\."Our arms'd get beefy at that rate..."
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."I mean for starters, I don't have the height for it!
+ It's impossible!"
+##
+
+[Anzu: School uniform, worried / cara96-16]
+{SE: shrink1}
+#Message#
+\."I can't reach over the net... the ball's too fast...
+ all the older members are goril... I mean, strong..."
+##
+
+{Friend} [Friend / cara999-6]
+{SE: stupid3}
+#Message#
+\."I doubt we'd ever see a real game..."
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."I mean, drawing on and on and on like that?
+ There's just no way!"
+##
+
+[Anzu: School uniform, worried / cara96-16]
+{SE: shrink1}
+#Message#
+\."It gets boring... And sitting too long's gonna
+ hurt my back for sure and turn me into a granny!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: stupid3}
+#Message#
+\."It's hard to think of ideas for stories, too..."
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."I mean, I have no clue what anybody's saying!
+ It's impossible!"
+##
+
+[Anzu: School uniform, worried / cara96-16]
+{SE: shrink1}
+#Message#
+\."Even just for chatting, there's too many words...
+ And I can never tell what's a "-th" sound
+ and what's a "-s" sound!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: stupid3}
+#Message#
+\."Even our grasp on Japanese is kinda dicey..."
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."I mean, I didn't think I'd have to
+ run around THAT much! I can't handle it!"
+##
+
+[Anzu: School uniform, worried / cara96-16]
+{SE: shrink1}
+#Message#
+\."Games are super long... the court's gigantic...
+ holding a racket the whole time tires me out..."
+##
+
+{Friend} [Friend / cara999-6]
+{SE: stupid3}
+#Message#
+\."Not to mention we couldn't even hit the ball..."
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."I mean, there's too many technical terms!
+ It's impossible!"
+##
+
+[Anzu: School uniform, worried / cara96-16]
+{SE: shrink1}
+#Message#
+\."They tell me to look up anything I don't know,
+ but I dunno how... And the computer keeps breaking
+ even though I didn't do anything..."
+##
+
+{Friend} [Friend / cara999-6]
+{SE: stupid3}
+#Message#
+\."And I mean, phones are more convenient..."
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."Yeah, that!"
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."But still, you sure that's a good reason
+ to just stay clubless?"
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+{SE: Jump2}
+#Message#
+\."I-It's fine! Means we can go home early anyway,
+ like we are now..."
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."Well, yeah. Free time's the best."
+##
+
+{SE: Accent21-1}
+#Message#
+\."So hey, want to get some ice cream on the way home?"
+##
+
+{Anzu} [Anzu: School uniform, surprised / cara96-19]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Wha! Ice cream, huh...?"
+##
+
+#Choice#
+I want it!
+Treat me!
+Shall I treat you?
+##
+
+<食べたい！>
+
+{Anzu} [Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: Accent40-1}
+#Message#
+"I want it! Let's go buy some!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."That's the ticket! Let's grow fat together!"
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."M-Maybe we should use moderation, huh?!"
+##
+
+<おごって！>
+
+{Anzu} [Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: Accent40-1}
+#Message#
+"I want it! Treat me!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Sure, I'll treat you, Anzu. Out of your wallet."
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."Huaagh...! At least split the bill, please!"
+##
+
+<おごろうか？>
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: flash-of-light-3}
+#Message#
+"Shall I treat you?"
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."Wha...! Now when'd you get so dreamy?
+ Can I fall for you?"
+##
+
+{Anzu} [Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: Accent28-1}
+#Message#
+\."Just take my hand, madam..."
+##
+
+<Choice End>
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."Okay, there's a plaza nearby, so we'll eat there!"
+##
+
+{Anzu} [Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: Accent24-1}
+#Message#
+\."Sounds like a plan! To the ice cream shop!"
+##
+
+[Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+{SE: Accent21-1}
+#Message#
+"Someone... bought up all the ice cream, huh..."
+##
+
+{Friend} [Kugie: Default / cara13-1]
+{SE: stupid3}
+#Message#
+\."I've never seen an empty ice cream case before..."
+##
+
+[Friend / cara999-6]
+#Message#
+\."I asked the clerk 'cause I was like "really?", but..."
+##
+
+#Message#
+\."Apparently a girl about our age bought it all up..."
+##
+
+{Anzu} [Anzu: School uniform, worried / cara96-16]
+#Message#
+\."A girl our age...?"
+##
+
+#Choice#
+Will she really eat it all...?
+Let's search for her
+Tearfully give up
+##
+
+<食べきれるのかな…？>
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+{SE: Accent40-1}
+#Message#
+\."Do you think she'll actually eat it all?
+ There's no way, right...?"
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."I made the same comment, actually..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."And the clerk just... smirked at me."
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth closed / cara96-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."She must be a girl with a record... *gulp*..."
+##
+
+{Friend} [Friend / cara999-6]
+{SE: shrink1}
+#Message#
+\."Oh well, what can you do.
+ Let's check some other shops..."
+##
+
+<その子を探しだそう>
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+{SE: Accent40-1}
+#Message#
+\."Let's find that girl, if that's what it's come to!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent08-1}
+#Message#
+\."Oh? And beat her down?"
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."I'm not gonna use violence!!"
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: Accent28-1}
+#Message#
+\."We'll buy from her!
+ She should offer us a cone or two, at least!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: sceneswitch2}
+#Message#
+\."From a girl who resolved to buy out the whole store?
+ I don't think that's happening..."
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+{SE: shrink1}
+#Message#
+\."M-Merciless... Well, okay.
+ Let's look around for some other shops..."
+##
+
+<泣く泣く諦めよう>
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth closed / cara96-21]
+{SE: Accent40-1}
+#Message#
+\."It pains me, but let's give up on it.
+ It's just not our day..."
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."Yeah..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Want to go get kebabs instead?"
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth closed / cara96-21]
+#Message#
+\."Whaaa?! That won't fill
+ the ice-cream-shaped hole in my stomach!!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: shrink1}
+#Message#
+\."Well, then let's check some other shops..."
+##
+
+<Choice End>
+
+{N/A} [Man in Audience / cara999-7]
+#Message#
+\C[3]*murmur*                *murmur*
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent21-1}
+#Message#
+\."Huh? Is that a crowd forming there?"
+##
+
+{Anzu} [Anzu: School uniform, surprised / cara96-19]
+{SE: Jump1}
+#Message#
+\."Hm! Sure is. Wonder what's up?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: flash-of-light-3}
+#Message#
+"...So then! Could someone in the audience
+ provide me their assistance?!"
+##
+
+{Anzu} [Anzu: School uniform, surprised / cara96-19]
+{SE: Jump2}
+#Message#
+\."Ooh, is that a street performer?
+ Didn't know there was something like this here..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Hmm...?!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."You there, the cute girl!
+ Couldja come over here for me?"
+##
+
+{Anzu} [Anzu: School uniform, raised eyebrows / cara96-17]
+#Message#
+\.".........."
+##
+
+[Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."Wha! Me?!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Yes, that's right! A middle-schooler, are you?"
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."Ruuude! I'm in high school...!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Wahah!
+ Alrighty, now sit yourself down..."
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."What, huh?! This is seeming kinda scary...!"
+##
+
+#Choice#
+What're you gonna do?
+Will it hurt?
+Is this a perverted thing?
+##
+
+<なにするんですか？>
+
+{Anzu} [Anzu: School uniform, scared look, mouth open / cara96-25]
+#Message#
+"What're you gonna dooo?! At least tell me first!!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: stupid3}
+#Message#
+\."Seems you can't contain your excitement!
+ Now I'm getting riled up too!"
+##
+
+{Anzu} [Anzu: School uniform, horrified look, mouth open / cara96-27]
+#Message#
+\."Hyeeeee!!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent21-1}
+#Message#
+\.\C[4](She's a scaredy-cat, so I bet she really is afraid...)
+##
+
+<痛い事ですか？>
+
+{Anzu} [Anzu: School uniform, scared look, mouth open / cara96-25]
+#Message#
+"Will it hurt?! I'll think about what I did,
+ so please, anything but thaaat!!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: stupid3}
+#Message#
+\."D-Did you do something wrong...?"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Well, she did quit her club without a word...!)
+##
+
+<エッチなヤツですか？>
+
+{Anzu} [Anzu: School uniform, scared look, mouth open / cara96-25]
+#Message#
+"Is this a perverted thing?!
+ Because if it is, uh, I don't...!!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."No, no!! In front of an audience?! That'd be nuts!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Tch, so he's just a proper clown...!)
+##
+
+<Choice End>
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Jump2}
+#Message#
+\."Now, now, never fear! You'll do just fine!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."I'm going to be stacking bowling pins...
+ on top of that radiant forehead of yours!"
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."Whaaa?! Stacking... wait..."
+##
+
+[Anzu: School uniform, sweating bullets, mouth closed / cara96-21]
+#Message#
+\."Did you pick me for the quality of my forehead?!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent21-1}
+#Message#
+\."Hold still, pleeease!"
+##
+
+{Anzu} [Anzu: School uniform, scared look, mouth open / cara96-25]
+#Message#
+\."W-Wahhh, how many are you gonna stack?!
+ They're all gonna faaaaall!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Don't try to support them with your hand!
+ You're tickling my side!"
+##
+
+{Anzu} [Anzu: School uniform, scared look, mouth open / cara96-25]
+#Message#
+\."Wa-wa-wa-wa-wa-wa...!!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent28-1}
+#Message#
+\."Alrighty! It's a success!"
+##
+
+{Anzu} [Anzu: School uniform, surprised / cara96-19]
+#Message#
+\."Whoaaaaa!! How?! Amaaazing!!"
+##
+
+{Audience} [Man in Audience / cara999-7]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Daaang... Glad I got that on camera!"
+##
+
+{N/A}
+{SE: Applause1}
+#Message#
+\C[3]*clap clap clap clap!*
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+"Thank yooou! You strike a pose too, missy!"
+##
+
+{Anzu} [Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: Accent24-1}
+#Message#
+\."E-Ehehe...!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent28-1}
+#Message#
+\."Well then, thanks for coming to today's show!"
+##
+
+{Audience} [Man in Audience / cara999-7]
+#Message#
+\."Ahh, I'm glad I got to record that..."
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent21-1}
+#Message#
+\."Good work, Anzu. Now let's get home!"
+##
+
+{Anzu} [Anzu: School uniform, raised eyebrows / cara96-17]
+#Message#
+\.".........."
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent41-1}
+#Message#
+\."Anzu?"
+##
+
+{Anzu} [Anzu: School uniform, surprised / cara96-19]
+{SE: Accent21-1}
+#Message#
+\."Umm..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent39-1}
+#Message#
+\."Ohh, it's miss forehead from earlier."
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."My forehead isn't prominent enough to call me that!"
+##
+
+[Anzu: School uniform, raised eyebrows / cara96-17]
+#Message#
+\."Hey, how exactly did you do that?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Wahaha! You're curious?"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."There's actually a trick to it. But it's a secret!"
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."Eh?! Mr. Clown, are you some kind of magician?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Jump2}
+#Message#
+\."Sleight of hand is just part of my repertoire.
+ My forte is pure street performing, though!"
+##
+
+{Anzu} [Anzu: School uniform, raised eyebrows / cara96-17]
+#Message#
+\."Huh!
+ Do you perform here all the time?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Lately, sure do. I'm training, y'see.
+ I'll be here tomorrow too."
+##
+
+{Anzu} [Anzu: School uniform, raised eyebrows / cara96-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Tomorrow, huh...?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."...Considering coming to watch?"
+##
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+#Message#
+\."H-Hm, I wonder..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: sceneswitch2}
+#Message#
+\."Tomorrow won't be a magic trick, but the real deal!
+ It'll be a great time! I'm confident!"
+##
+
+{Anzu} [Anzu: School uniform, worried / cara96-16]
+#Message#
+\."Hrmmm..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Please, come waaatch!
+ I...! I'll make it an unforgettable afternoon!!"
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\.\C[4](Urk! As much he feels like a pervy old guy,
+ his words carry such intensity...!)
+##
+
+[Anzu: School uniform, sweating bullets, mouth closed / cara96-21]
+#Message#
+\.\C[4](Ahh... Why did I have to stop?!
+ I should have just gone home...!)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](It must be... because deep down...
+ part of me is curious... isn't it?!)
+##
+
+[Anzu: School uniform, worried / cara96-16]
+{SE: heart2}
+#Message#
+\.\C[4](In which case...)
+##
+
+#Choice#
+I'll come watch
+##
+
+<来てあげる>
+
+<Choice End>
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."Alright! I'll come watch!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent28-1}
+#Message#
+\."Hooray! Thank you, miss forehead!"
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."It's Anzu, actually!!"
+##
+
+{N/A}
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\C[3]The next day...\|
+##
+
+{Audience} [Man in Audience / cara999-7]
+#Message#
+\."Ohhhh! What a performance!!"
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."D... Daaang..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: flash-of-light-3}
+#Message#
+\."Well then, thanks for coming to today's show!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."How was I, miss fore... Anzu?"
+##
+
+{Anzu} [Anzu: School uniform, worried / cara96-16]
+#Message#
+\."Mr. Clown..."
+##
+
+[Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."That was the greatest, to put it lightly!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Wahaha! All right!"
+##
+
+{Audience} [Woman in Audience / cara999-8]
+{SE: Accent21-1}
+#Message#
+\."Umm, are you the person from that video
+ that went a bit viral yesterday?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Jump1}
+#Message#
+\."Yes I... wait, wha?
+ Is that true?"
+##
+
+{Audience} [Woman in Audience / cara999-8]
+#Message#
+\."Yes. Seeing as you were in my area,
+ I decided to come by today... and, um..."
+##
+
+#Message#
+\."Today's show... was even more amazing!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Jump2}
+#Message#
+\."Ohh! I'm glad! Thank you very much!"
+##
+
+{Audience} [Woman in Audience / cara999-8]
+#Message#
+\."Don't mention it. Good luck!"
+##
+
+{Anzu} [Anzu: School uniform, worried / cara96-16]
+#Message#
+"..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Whoops! Sorry about that, Anzu."
+##
+
+{Anzu} [Anzu: School uniform, worried / cara96-16]
+#Message#
+\."...Hey, mister."
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Yes, yes?"
+##
+
+{Anzu} [Anzu: School uniform, worried / cara96-16]
+#Message#
+\."...I want..."
+##
+
+[Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."I want to try these sorts of weird performances, too!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent11-1}
+#Message#
+\."Eh...?!"
+##
+
+{Anzu} [Anzu: School uniform, concerned / cara96-18]
+#Message#
+\."Please... teach me your art!"
+##
+
+#Message#
+\."O clown master!!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."M-Master, huh...?"
+##
+
+#Message#
+\."Hmmm..."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."Alright! Sure thing!
+ I'll teach ya some real out-there tricks!!"
+##
+
+{Anzu} [Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: Accent28-1}
+#Message#
+\."Hooraaay!! Thank you, master!!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent21-1}
+#Message#
+\."Anzuuu, let's go home!"
+##
+
+{Anzu} [Anzu: School uniform, surprised / cara96-19]
+#Message#
+\."Sorry, going to the plaza again todaaay!"
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+"...Anzu hasn't been hanging out with me lately..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."...Don't tell me, is it a guy?"
+##
+
+#Message#
+"*pant*...! *pant*...! Where'd she go?!"
+##
+
+#Message#
+\."You traitor... I'll make you pay... *pant*, *gasp*..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent28-1}
+#Message#
+\."Yes, yes! You're really improving!
+ Gettin' better at controlling your hands and body!"
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."This is haaard! I feel like
+ I'm gonna get muscle pain in my hand here!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Jump2}
+#Message#
+\."So there's still a place where you can
+ get muscle pain, eh... Let's go harsher, then!"
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."Bwaaaah?! You're a demon!!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent21-1}
+#Message#
+\."W-What're you doing, Anzu...?"
+##
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+#Message#
+\."Ah! You came to visit?!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Oh, is this a friend of yours, Anzu?"
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."A-Anzu... Don't tell me you became his pupil...?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Jump2}
+#Message#
+\."Anzu has amazing talent! She might be a natural!"
+##
+
+{Anzu} [Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Dehehe...!"
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."Please, don't drag Anzu down your weird path!!"
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."Whoa, whoa! Watch what you say to Master, okay?!"
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: sceneswitch2}
+#Message#
+\."Look at this! I learned some amazing tricks!"
+##
+
+{Friend}
+#Message#
+"Wh..."
+##
+
+[Friend / cara999-6]
+#Message#
+"Whoaaaaa!!"
+##
+
+{Anzu} [Anzu: School uniform, closed-eyes smile / cara96-23]
+#Message#
+\."See, see?!"
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."You're amazing...
+ That forehead trick is somethin' else..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent21-1}
+#Message#
+\."Thanks kindly, friend of Anzu.
+ You're her first audience, you know!"
+##
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+#Message#
+\."Whoa, I guess so! Ehehe, I'm so glad!"
+##
+
+{Friend} [Friend / cara999-6]
+#Message#
+\."..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Anzu... this time... you're actually serious..."
+##
+
+#Message#
+\."How long have you had an interest
+ in this kind of thing...?"
+##
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: Accent21-1}
+#Message#
+\."Wha? Well, until I saw Master's performance,
+ I didn't care one teensy little bit!"
+##
+
+[Anzu: School uniform, raised eyebrows / cara96-17]
+#Message#
+\."It's just like... when I saw Master then..."
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: sceneswitch2}
+#Message#
+\."I thought, "This weird old guy's a pro! So cool!""
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Oh...?!"
+##
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+{SE: flash-of-light-3}
+#Message#
+\."I was like, shaken to my core, y'know?
+ It was deeply moving! Honest!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."And here I thought you'd started calling me Master
+ just on a whim..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I'm glad... really glad!"
+##
+
+{Anzu} [Anzu: School uniform, closed-eyes smile / cara96-23]
+#Message#
+\."Oh, I see... You're used to people saying that,
+ so you thought I wasn't serious!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."N-Not at all! The opposite!
+ It was a first, so I couldn't believe it...!"
+##
+
+{Anzu} [Anzu: School uniform, raised eyebrows / cara96-17]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."Huh, really...?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent21-1}
+#Message#
+\."Ah, I know... Anzu, I have a present for you
+ to commemorate your first show for an audience."
+##
+
+{Anzu} [Anzu: School uniform, smile / cara96-20]
+#Message#
+\."Wha! What is it, what is it?!"
+##
+
+[Anzu: Clown mask (no collar) / cara96-28]
+{SE: Accent28-1}
+#Message#
+"Master! This is...!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: flash-of-light-3}
+#Message#
+\."It suits you real well, Anzu!!"
+##
+
+{Anzu} [Anzu: Clown mask (no collar) / cara96-28]
+#Message#
+\."Thank you so much, Masteeeeer!!"
+##
+
+{Friend} [Friend / cara999-6]
+{SE: Accent21-1}
+#Message#
+\."Good for you...!\! Just don't wear that to school!"
+##
+
+{Anzu} [Anzu: Closed-eyes smile (no collar) / cara96-38]
+#Message#
+\."Dehehe!"
+##
+
+[Anzu: Smile (no collar) / cara96-33]
+#Message#
+\.\C[4](I'm so happy... but...)
+##
+
+[Anzu: Worried (no collar) / cara96-29]
+{SE: Accent41-1}
+#Message#
+\.\C[4](I've seen this outfit before, in Master's case...)
+##
+
+[Anzu: Raised eyebrows (no collar) / cara96-30]
+{SE: Accent21-1}
+#Message#
+\.\C[4](And it's just the right size for me...
+ Why did he have such a small outfit?)
+##
+
+[Anzu: Smile (no collar) / cara96-33]
+#Message#
+\.\C[4](Well... whatever, I guess...)
+##
+
+[Anzu: School uniform, smile / cara96-20]
+{SE: Accent28-1}
+#Message#
+\."Heh heh heh! I'm here pretty early today...
+ Maybe Master will praise me!"
+##
+
+[Anzu: School uniform, closed-eyes smile / cara96-23]
+{SE: Accent08-1}
+#Message#
+\."Heehee! The dressing room's over there, right?
+ I'd better change into my outfit!"
+##
+
+{Man} [Clown: Costumeless, mouth closed / cara25-8]
+{SE: Accent21-1}
+#Message#
+\."..."
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."Wah?!"
+##
+
+{Man} [Clown: Costumeless, wide-eyed sweatdrop / cara25-9]
+#Message#
+\."?!"
+##
+
+{Anzu} [Anzu: School uniform, sweating bullets, mouth open / cara96-22]
+#Message#
+\."P-Pardon me! I got the wrong changing room...!"
+##
+
+[Anzu: Concerned (no collar) / cara96-31]
+{SE: Accent21-1}
+#Message#
+\."...and that's what happened!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Wahaha! Even I don't peek on people changing!"
+##
+
+{Anzu} [Anzu: Concerned (no collar) / cara96-31]
+{SE: shrink1}
+#Message#
+\."But who could that have been? I've never seen
+ someone like that among the performers here..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Who knows. Could be a newbie."
+##
+
+{Anzu} [Anzu: Smile (no collar) / cara96-33]
+{SE: flash-of-light-3}
+#Message#
+\."And also, listen to this!
+ He was a total hottie!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."A-A hottie?"
+##
+
+{Anzu} [Anzu: Worried (no collar) / cara96-29]
+#Message#
+\."I bet he'll be popular for sure... Dang it..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."What do you mean, "dang it"...?"
+##
+
+{Anzu} [Anzu: Concerned (no collar) / cara96-31]
+#Message#
+\."I mean, he might steal away our audience, won't he?!"
+##
+
+[Anzu: Closed-eyes smile (no collar) / cara96-38]
+{SE: Accent24-1}
+#Message#
+\."Even I'd definitely go see him, after all!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: stupid3}
+#Message#
+\."Taking even my pupil...? That'd be no good..."
+##
+
+{Anzu} [Anzu: Closed-eyes smile (no collar) / cara96-38]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Just getting a glimpse, that's all! I'm more like
+ a grandchild than your pupil, right, Master?!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Jump2}
+#Message#
+\."Since when did we become that familiar...?"
+##
+
+{Anzu} [Anzu: Raised eyebrows (no collar) / cara96-30]
+#Message#
+\.".........."
+##
+
+[Anzu: Surprised (no collar) / cara96-32]
+{SE: Accent21-1}
+#Message#
+\."...Come to think of it,
+ do you have a kid or anything, Master?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Eh...?"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I don't."
+##
+
+{Anzu} [Anzu: Raised eyebrows (no collar) / cara96-30]
+#Message#
+\."Hmm..."
+##
+
+[Anzu: Concerned (no collar) / cara96-31]
+{SE: Accent21-1}
+#Message#
+\."That hottie never showed up in the plaza, huh..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: stupid3}
+#Message#
+\."Oughta forget about it. You were glancing around
+ for him even during the show, weren't you?"
+##
+
+{Anzu} [Anzu: Closed-eyes smile (no collar) / cara96-38]
+#Message#
+\."I-I wasn't doing anything like that!"
+##
+
+{Woman} [Troupe Woman: Default / cara26-1]
+{SE: Accent28-1}
+#Message#
+\."Erm..."
+##
+
+{Anzu} [Anzu: Clown mask (no collar) / cara96-28]
+{SE: Accent39-1}
+#Message#
+\."Ooh, a visitor?
+ Master, someone's asking for you!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."Yes, yes..."
+##
+
+{Woman} [Troupe Woman: Default / cara26-1]
+#Message#
+\."..."
+##
+
+{Clown} [Clown: Default / cara25-1]
+{SE: Accent21-1}
+#Message#
+\."...Ack."
+##
+
+{Woman} [Troupe Woman: Mouth open / cara26-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sure enough, here you were."
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\.".........."
+##
+
+{Woman} [Troupe Woman: Mouth open / cara26-2]
+#Message#
+\."Wait...!"
+##
+
+[Troupe Woman: Angry eyebrows / cara26-5]
+#Message#
+\."Please, I want you to come back! To us...!"
+##
+
+{Anzu} [Anzu: Concerned (no collar) / cara96-31]
+#Message#
+\."U-Um... Do you know her, Master...?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."This girl is... my..."
+##
+
+{Anzu} [Anzu: Concerned (no collar) / cara96-31]
+#Message#
+\."Eh?!"
+##
+
+#Choice#
+Friend?
+Family?
+Enemy?
+##
+
+<友達？>
+
+{Anzu} [Anzu: Surprised (no collar) / cara96-32]
+{SE: Accent40-1}
+#Message#
+\."Your friend...?!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."No... Something more than that..."
+##
+
+<家族？>
+
+{Anzu} [Anzu: Surprised (no collar) / cara96-32]
+{SE: Accent40-1}
+#Message#
+\."A family member...?!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."No, that's not it..."
+##
+
+<敵？>
+
+{Anzu} [Anzu: Surprised (no collar) / cara96-32]
+{SE: Accent40-1}
+#Message#
+\."Your enemy, I take it...?!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\."E-Enemy...?! How do you figure?!"
+##
+
+<Choice End>
+
+{Woman} [Troupe Woman: Default / cara26-1]
+{SE: sceneswitch2}
+#Message#
+\."We... were colleagues."
+##
+
+{Anzu} [Anzu: Concerned (no collar) / cara96-31]
+#Message#
+\."Colleagues...?"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\.".........."
+##
+
+{Woman} [Troupe Woman: Angry eyebrows / cara26-5]
+#Message#
+\."Please! Come back to the troupe!!"
+##
+
+{Clown} [Clown: Default / cara25-1]
+#Message#
+\.".........."
+##
+
+[Clown: Maskless, sad look / cara25-4]
+{SE: Accent28-1}
+#Message#
+"...I..."
+##
+
+{Anzu} [Anzu: Scared look, mouth open (no collar) / cara96-35]
+#Message#
+\."M-Master...?!"
+##
+
+{Clown} [Clown: Maskless, sad look / cara25-4]
+{SE: Accent21-1}
+#Message#
+\."...I wanted to get away from that troupe."
+##
+
+[Clown: Maskless, furrowed brow / cara25-3]
+#Message#
+\."I was the biggest klutz there! So...!"
+##
+
+{Woman} [Troupe Woman: Angry eyebrows / cara26-5]
+#Message#
+\."That's not true...!"
+##
+
+{Clown} [Clown: Maskless, sad look / cara25-4]
+#Message#
+\."No one blamed me, though...
+ Everyone stood up for me..."
+##
+
+[Clown: Maskless, furrowed brow / cara25-3]
+#Message#
+\."For someone like me, who could never put on
+ a performance worthy of taking center stage...!"
+##
+
+{Woman} [Troupe Woman: Angry eyebrows / cara26-5]
+#Message#
+\."No, Ryuu... You gave it your absolute best...!"
+##
+
+{Anzu} [Anzu: Worried (no collar) / cara96-29]
+{SE: Accent41-1}
+#Message#
+\.\C[4](Ryuu...?)
+##
+
+{Clown} [Clown: Maskless, sad look / cara25-4]
+{SE: Accent21-1}
+#Message#
+\."That's why... I decided to polish my skills
+ while concealing my identity..."
+##
+
+[Clown: Maskless, furrowed brow / cara25-3]
+{SE: sceneswitch2}
+#Message#
+\."Because I wanted my real abilities to be judged...
+ without being influenced by things like appearance!"
+##
+
+{Anzu} [Anzu: Worried (no collar) / cara96-29]
+#Message#
+\."I... I see..."
+##
+
+{Clown} [Clown: Maskless, furrowed brow / cara25-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But... Anzu helped me realize."
+##
+
+{Anzu} [Anzu: Concerned (no collar) / cara96-31]
+#Message#
+\."Huh?!"
+##
+
+{Clown} [Clown: Maskless, furrowed brow / cara25-3]
+#Message#
+\."If I can move someone deeply... I want to try again!
+ With my current skills, on a grand stage...!"
+##
+
+{Woman} [Troupe Woman: Slight blush / cara26-4]
+#Message#
+\."Ryuu...!"
+##
+
+{Clown} [Clown: Maskless, sad look / cara25-4]
+{SE: Accent24-1}
+#Message#
+\."Despite everything...
+ would you accept me as your colleague again?"
+##
+
+{Woman} [Troupe Woman: Slight blush / cara26-4]
+#Message#
+\."Yeah...!"
+##
+
+{Clown} [Clown: Maskless, closed-eyes smile / cara25-6]
+#Message#
+\."Thank you..."
+##
+
+{Anzu} [Anzu: Concerned (no collar) / cara96-31]
+#Message#
+\."...Err... um, then..."
+##
+
+{Clown} [Clown: Maskless, closed-eyes smile / cara25-6]
+{SE: Accent28-1}
+#Message#
+\."Anzu... thank you too.
+ It was great fortune to be able to learn with you.
+ I'll never forget it."
+##
+
+{Anzu} [Anzu: Scared look, mouth open (no collar) / cara96-35]
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\."E... Ehhh...?"
+##
+
+{Woman} [Troupe Woman: Glancing to side / cara26-3]
+#Message#
+\."Hey, let's get a move on, Ryuu."
+##
+
+{Clown} [Clown: Maskless, furrowed brow / cara25-3]
+#Message#
+\."Right! I'll go greet the ringleader,
+ and all the others!"
+##
+
+[Clown: Maskless, sad look / cara25-4]
+#Message#
+\."And to help look the part...
+ do you think I should get a buzz cut?"
+##
+
+{Woman} [Troupe Woman: Angry eyebrows / cara26-5]
+#Message#
+\."Absolutely not!! Look, let's just go!"
+##
+
+{Clown} [Clown: Maskless, surprised / cara25-5]
+#Message#
+\."R... Right..."
+##
+
+{Woman} [Troupe Woman: Glancing to side / cara26-3]
+{SE: Accent21-1}
+#Message#
+"Err... Anzu, was it?"
+##
+
+{Anzu} [Anzu: Concerned (no collar) / cara96-31]
+#Message#
+\."Y-Yeah...?"
+##
+
+{Woman} [Troupe Woman: Mouth open / cara26-2]
+{SE: horror_piano chord3}
+#Message#
+\."He's going to get busy soon,
+ so no calling him or anything, got it?"
+##
+
+{Anzu} [Anzu: Worried (no collar) / cara96-29]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+[Anzu: Scared look, mouth open (no collar) / cara96-35]
+#Message#
+\."What in the heck..."
+##
+
+[Anzu: Concerned (no collar) / cara96-31]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That woman's absolutely after Master's looks..."
+##
+
+[Anzu: Worried (no collar) / cara96-29]
+#Message#
+\."Even though... I fell for his talents...!"
+##
+
+[Anzu: Scared look, mouth closed (no collar) / cara96-34]
+#Message#
+\."Now... now who's going to teach me?!"
+##
+
+[Anzu: Scared look, mouth open (no collar) / cara96-35]
+#Message#
+\."Come baaaaack! Masteeeeer!!"
+##
+
+{SE: Damage4}
+#Message#
+"Weeeeeeeeeehhhhh!!"
+##
+
+{N/A}
+#Message#
+
+
+              \C[3]Anzu Kinashi Episode "Clown Master" - End
+##
+

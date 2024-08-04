@@ -268,3 +268,168 @@ I felt like staying in this dream as long as I could.
 \.\C[3]And so we had the most wonderful time.
 ##
 
+#Message#
+\C[3]..........
+##
+
+#Message#
+\.\C[3]Suddenly, my attention was caught by
+the rock wall across from me.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Do I hear... voices coming through...?)
+##
+
+#Message#
+\.\C[4](Don't tell me...)
+##
+
+{Reko}
+#Message#
+"Something up, Sara?"
+##
+
+{Sara}
+{SE: feed1}
+#Message#
+"N-Nothing...!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](There's a tiny hole in this rock wall...
+ the size of one of my fingers!)
+##
+
+#Message#
+\.\C[4](You don't suppose... the men's bath is through here?)
+##
+
+#Message#
+\.\C[4](What do I do? It's pure luck I even noticed this...)
+##
+
+#Message#
+\.\C[4](It... might be wise not to let the others know.)
+##
+
+#Choice#
+Try looking through
+Don't peek
+##
+
+<のぞいてみよう>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: feed1}
+#Message#
+\.\C[4](Y-Yes, that's it... One of them might have been
+ peeking at us! I should inspect to make sure!)
+##
+
+#Message#
+\.\C[4](It's not like I want to peek at them, of course!
+ This is just... to uphold justice!)
+##
+
+#Choice#
+Just peek already
+Actually, never mind
+Now this is exciting...
+##
+
+<早くのぞこう>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: Accent28-1}
+#Message#
+\.\C[4](A-All right, here goes..! Urk...)
+##
+
+{N/A}
+#Message#
+\C[3]I peeped through the hole with unclouded eyes,
+so as to ascertain the truth.
+##
+
+{SE: Damage4}
+#Message#
+\{"Hwooooohhh!!"
+##
+
+{Q-taro}
+#Message#
+\."I ain't gonna lose this race, y'hear?!"
+##
+
+{Alice}
+#Message#
+\."Don't be ridiculous! I'm the fastest, yooooou!!"
+##
+
+{Keiji}
+{SE: sceneswitch2}
+#Message#
+\."Hah... Don't tucker yourself out early, now."
+##
+
+{Gin}
+#Message#
+\."Muscle gorilla! And the rest of you!
+ You're grown-ups, so hold back a little, woof!!"
+##
+
+{Sou}
+#Message#
+\SP[10]"...I feel dizzy..."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{N/A}
+#Message#
+\.\C[3]I pretended I didn't see anything.
+##
+
+<やっぱりやめよう>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: feed1}
+#Message#
+\.\C[4](A-Aah... no, I just shouldn't!
+ I couldn't do such a thing...!)
+##
+
+<楽しくなってきたな>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: feed1}
+#Message#
+\.\C[4](I-I'm not enjoying this at all!
+ Don't do this for wicked reasons, me...!!)
+##
+
+<Choice End>
+
+<のぞかない>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: feed1}
+#Message#
+\.\C[4](N-No, I couldn't do such a thing!
+ It's no good to peep on other people...)
+##
+
+#Message#
+\.\C[4](I'm sure no one else has seen this hole.
+ It's best to just feign ignorance...!)
+##
+
+<Choice End>
+

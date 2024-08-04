@@ -1,0 +1,345 @@
+**********Common1808********** (サラのターン)
+{Sara} [Sara: Casual, default / cara0-40]
+#Message#
+\C[4](Now, what should I do...?
+ I currently have \C[2]\I[30]\V[444] coins\C[4].
+ I need to put up \C[2]\I[30]\V[1017] coins\C[4] to match the bet.)
+##
+
+#Choice#
+Raise the bet
+Match bet
+Fold
+Observe others
+##
+
+<かけ金を上げる>
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\.\C[4](How much should I add?)
+##
+
+[Sara: Casual, wink / cara0-47]
+#Message#
+@if V[443] == 1
+\.\C[4](Alright, I'll add \C[2]\I[30]\V[443] coin\C[4]...!)
+@else
+\.\C[4](Alright, I'll add \C[2]\I[30]\V[443] coins\C[4]...!)
+##
+
+[Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\.\C[4](No, wait! I don't have that many!)
+##
+
+#Message#
+\.\C[4](I need more than \C[2]\I[30]\V[1017] coins\C[4] to raise the bet...)
+##
+
+[Sara: Casual, wink / cara0-47]
+#Message#
+@if V[443] == 1
+\.\C[4](Alright, I'll add \C[2]\I[30]\V[443] coin\C[4]...!)
+@else
+\.\C[4](Alright, I'll add \C[2]\I[30]\V[443] coins\C[4]...!)
+##
+
+#Choice#
+Bet!
+Cancel
+##
+
+<かける！>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+#Message#
+\."This is everything I've got!"
+##
+
+#Message#
+\."I'll raise the bet!"
+##
+
+<やめる>
+
+<Choice End>
+
+<勝負に乗る>
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+\C[4](I don't have enough, so I'm betting all I have...!)
+##
+
+[Sara: Casual, pointing / cara0-49]
+#Message#
+\."Alright, I'll match! Betting \C[2]\I[30]\V[443] coins\C[0]!"
+##
+
+#Message#
+\."Alright, I'll match! Betting \C[2]\I[30]\V[443] coins\C[0]!"
+##
+
+<勝負を降りる>
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\C[4](I'll lose the \C[2]\I[30]\V[1029] coins\C[4] I already bet...
+ Am I fine with that?)
+##
+
+#Choice#
+Fold!
+Rethink it
+##
+
+<降りる！>
+
+<考え直す>
+
+<Choice End>
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+"I'm backing out."
+##
+
+<様子を観察>
+
+{Sara} [Sara: Casual, smug smile / cara0-45]
+#Message#
+\C[4](Before I decide, I'll observe the others...)
+##
+
+[Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\C[4](No good... I've worn out my concentration...)
+##
+
+[Joe: Casual, upset groan / cara1-47]
+#Message#
+\.\C[4](Joe's slumping his shoulders...)
+##
+
+#Message#
+\.\C[4](Joe seems to be sighing...)
+##
+
+#Message#
+\.\C[4](Joe looks kinda disappointed...)
+##
+
+[Joe: Casual, wide-eyed surprise, clenched teeth / cara1-48]
+#Message#
+\.\C[4](Joe seems pretty antsy.
+ Doesn't seem very confident...)
+##
+
+[Joe: Casual, serious look / cara1-45]
+#Message#
+\.\C[4](Joe's eyes look serious...
+ Seems he's pretty confident.)
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\.\C[4](Joe is grinning!
+ He seems pretty confident...)
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\.\C[4](Joe's looking at his hand with a big smile...!
+ He seems really confident!)
+##
+
+[Joe: Casual, embarrassed closed-eyes wide smile / cara1-53]
+#Message#
+\.\C[4](Joe's grinning like crazy...!
+ He might have a pretty good hand!)
+##
+
+[Joe: Casual, blank eyes, mouth open / cara1-51]
+#Message#
+\.\C[4](Joe is... huh?! His eyes are white...
+ Is his hand that shocking?!)
+##
+
+[Sexy Lady / cara999-17]
+#Message#
+\.\C[4](I can't read anything from
+ that sexy lady's expression...)
+##
+
+#Message#
+\.\C[4](I can't read anything from
+ that sexy lady's expression...)
+##
+
+#Message#
+\.\C[4](I can't read anything from
+ that sexy lady's expression...)
+##
+
+#Message#
+\.\C[4](I can't read anything from
+ that sexy lady's expression...)
+##
+
+#Message#
+\.\C[4](I can't read anything from
+ that sexy lady's expression...)
+##
+
+#Message#
+\.\C[4](I can't read anything from
+ that sexy lady's expression...)
+##
+
+#Message#
+\.\C[4](For a moment, that sexy lady had an expression
+ like a tiger about to pounce.)
+##
+
+#Message#
+\.\C[4](For a moment, that sexy lady had an expression
+ like a tiger about to pounce.)
+##
+
+#Message#
+\.\C[4](For a moment, that sexy lady had an expression
+ like a tiger about to pounce.)
+##
+
+[Chubby Man / cara999-15]
+#Message#
+\.\C[4](The chubby man seems to have an unhappy look...)
+##
+
+#Message#
+\.\C[4](The chubby man seems to have an unhappy look...)
+##
+
+#Message#
+\.\C[4](The chubby man seems to have an unhappy look...)
+##
+
+#Message#
+\.\C[4](The chubby man looks uncertain about betting...)
+##
+
+#Message#
+\.\C[4](The chubby man looks uncertain about
+ whether to bet or not...)
+##
+
+#Message#
+\.\C[4](The chubby man seems itching to bet...)
+##
+
+#Message#
+\.\C[4](Feels like the chubby man is trying
+ to hide his excitement...)
+##
+
+#Message#
+\.\C[4](The chubby man seems restless,
+ unable to control his excitement...)
+##
+
+#Message#
+\.\C[4](The chubby man seems restless,
+ unable to control his excitement...)
+##
+
+[Playful Lady / cara999-18]
+#Message#
+\.\C[4](The playful lady is sulking...)
+##
+
+#Message#
+\.\C[4](The playful lady is sighing...)
+##
+
+#Message#
+\.\C[4](The playful lady is yawning drowsily...)
+##
+
+#Message#
+\.\C[4](The playful lady is muttering to herself...)
+##
+
+#Message#
+\.\C[4](The playful lady has an expression
+ I can't quite pin down either way...)
+##
+
+#Message#
+\.\C[4](I hear the playful lady humming...)
+##
+
+#Message#
+\.\C[4](The playful lady is whistling carefree...)
+##
+
+#Message#
+\.\C[4](The playful lady's gazing at her hand absentmindedly.)
+##
+
+#Message#
+\.\C[4](The playful lady can't conceal her elation...)
+##
+
+[Skinny Man / cara999-16]
+#Message#
+\.\C[4](The skinny man seems unamused...)
+##
+
+#Message#
+\.\C[4](The skinny man seems unamused...)
+##
+
+#Message#
+\.\C[4](The skinny man seems unamused...)
+##
+
+#Message#
+\.\C[4](The skinny man is looking at his cards
+ with a furrowed brow...)
+##
+
+#Message#
+\.\C[4](The skinny man is looking around with a grin...)
+##
+
+#Message#
+\.\C[4](The skinny man is looking around with a grin...)
+##
+
+#Message#
+\.\C[4](The skinny man is surveying us with rapid breaths...)
+##
+
+#Message#
+\.\C[4](The skinny man is surveying us with rapid breaths...)
+##
+
+#Message#
+\.\C[4](The skinny man is surveying us with rapid breaths...)
+##
+
+[Sara: Casual, groan / cara0-48]
+#Message#
+\C[4](Whew... That took some concentration.)
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, groan / cara0-48]
+#Message#
+\."I have \V[444] coins!
+I've wagered \V[443] coins!
+There are \V[445] coins on the table!"
+##
+

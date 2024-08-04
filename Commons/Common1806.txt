@@ -1,0 +1,473 @@
+**********Common1806********** (ルー説)
+{Chairman}
+{SE: Accent40-1}
+#Message#
+\."Yessiree! Over here then, everyone!"
+##
+
+[Chairman / cara999-19]
+{SE: Accent21-1}
+#Message#
+\."The game uses four types of cards:
+ \C[4]\I[32]Dog\C[0], \C[3]\I[33]Cat\C[0], \C[2]\I[34]Bird\C[0], and \C[5]\I[35]Sheep\C[0]."
+##
+
+#Message#
+\."First, two cards are distributed to each player,
+ which serves as their hand."
+##
+
+#Message#
+\."And also... one card is placed face up on the table."
+##
+
+#Message#
+"Now, the match begins!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Sara, you start this round!
+ First of all, try raising the bet!"
+##
+
+#Choice#
+Raise the bet
+Fold
+##
+
+<かけ金を上げる>
+
+<勝負を降りる>
+
+{Sara} [Sara: Casual, outstretched open hand / cara0-51]
+{SE: Accent40-1}
+#Message#
+"All right...! I fold!"
+##
+
+{Joe} [Joe: Casual, wide-eyed surprise, mouth open / cara1-49]
+#Message#
+\."Catching 'em off guard out of the gate...!
+ That's our Sara!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Please don't try playing mind games
+ before I've even explained the rules!"
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: Accent40-1}
+#Message#
+"I'll raise the bet...! 1000 yen!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Ah, no real money, please! I'll distribute
+ \I[30]\C[2]200 coins\C[0] to each player for use in the game!"
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."Y-Yes, of course... Well then..."
+##
+
+{Sara} [Sara: Casual, surprise / cara0-44]
+#Message#
+\."I'll raise the bet! \I[30]0 coins!"
+##
+
+{Chairman} [Chairman / cara999-19]
+{SE: feed1}
+#Message#
+\."Don't be stingy, now!
+ Please, bet at least 1 coin!"
+##
+
+[Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\.\C[4](I don't have that much...!)
+##
+
+[Sara: Casual, pointing / cara0-49]
+{SE: sceneswitch2}
+#Message#
+@if V[443] == 1
+\."I'll raise the bet! \I[30]\V[443] coin!"
+@else
+\."I'll raise the bet! \I[30]\V[443] coins!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Now, the rest of you can choose whether to
+ match that bet, fold, or raise the bet further."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: sceneswitch2}
+#Message#
+\."I'll match the bet!"
+##
+
+{Men at Table} [Skinny Man / cara999-16]
+{SE: sceneswitch2}
+#Message#
+\."We'll match too!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."So, those matching the bet have wagered
+ \C[2]the same number of coins\C[0]!"
+##
+
+#Message#
+\."This gives us a total pool of \I[30]\V[445] coins!"
+##
+
+{SE: WON-Impact08}
+#Message#
+\."Now for the showdown!"
+##
+
+#Message#
+\."Whoever has the most of \C[2]the same animal\C[0],
+ when combining their hand with the table card, wins!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."Huh! Well that's simple!"
+##
+
+{Chairman} [Chairman / cara999-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sara's hand combined with the table card is \I[32]\I[32]\I[33],
+ which contains a \I[32]\I[32]\C[2] pair\C[0]!!"
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."In that case, I..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Well, shoot... If I combine my hand with
+ the table card, they're just all different."
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Then Sara wins!"
+##
+
+{Chubby Man} [Chubby Man / cara999-15]
+#Message#
+\."Gyaaaaah!!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Not so loud, please!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."Hey, you got a second?"
+##
+
+{SE: Accent41-1}
+#Message#
+"I've got two \I[33]s!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."I see. Your hand plus the table card is \I[32]\I[33]\I[33]\C[0],
+ which is a \I[33]\I[33]\C[3] pair\C[0]."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."A \I[32]\I[32]\C[4] pair\C[0] and a \I[33]\I[33]\C[3] pair\C[0]!
+ They have equal strength!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."So is it a tie?"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."In that case, check the corner of the cards!"
+##
+
+#Message#
+"See the numbers etched into them?"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."O-Oh yeah, huh! The numbers...! Yiiiiikes!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."No, it's really nothing "yikes"-worthy.
+ The cards have numbers from 1 to 9."
+##
+
+{SE: Accent21-1}
+#Message#
+\."When hands are of equal strength,
+ the one with the \C[2]higher number total wins\C[0].
+ Do you know who wins in this case?"
+##
+
+#Choice#
+Sara
+Skinny Man
+##
+
+<サラ>
+
+<細い男>
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+{SE: Accent40-1}
+#Message#
+"The skinny one there?"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Ah, no. Think about it a little more."
+##
+
+#Message#
+\."Compare your numbers against his numbers!"
+##
+
+<Choice End>
+
+{Sara} [Sara: Casual, pointing / cara0-49]
+{SE: Accent28-1}
+#Message#
+"That means I win!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+"You startled me... Well, correct.
+ Sara has the higher total, so she wins!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."Yiiiiikes!!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Please, keep it down..."
+##
+
+{Joe} [Joe: Casual, eyes-open smile / cara1-43]
+{SE: sceneswitch2}
+#Message#
+\."Heh, heh, heh... Sara!
+ Looks like my turn's come up!"
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+{SE: flash-of-light-3}
+#Message#
+\."How do you like this hand?!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+"Wh...! That's...!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Ohh!! A hand of \I[32]\I[32] plus table card \I[32]
+ forms a \I[32]\I[32]\I[32]\C[2] trio\C[0]!!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."A \C[2]trio\C[0] is stronger than a \C[2]pair\C[0]!!
+ Joe wins this round!!"
+##
+
+{Sara} [Sara: Casual, nervous sweat / cara0-41]
+#Message#
+\.".........."
+##
+
+#Choice#
+I concede
+Hyeeeeek!
+I get it...
+##
+
+<参った>
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+{SE: Accent40-1}
+#Message#
+"I concede... It's my defeat..."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."You were strong, Sara...!"
+##
+
+{Chairman} [Chairman / cara999-19]
+{SE: stupid3}
+#Message#
+\."Um... Keep handshakes for after the game, please..."
+##
+
+<きゃー！>
+
+{Sara} [Sara: Casual, yell / cara0-42]
+#Message#
+"Hyeeeeek!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."What is with you people?!"
+##
+
+<なるほど>
+
+{Sara} [Sara: Casual, smirk / cara0-43]
+{SE: Accent40-1}
+#Message#
+"I see... So these are the rules."
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Yes, you get the idea!"
+##
+
+<Choice End>
+
+{Chairman} [Chairman / cara999-19]
+{SE: Accent21-1}
+#Message#
+\."Well, since Joe won this round,
+ he receives \C[2]\I[30]\V[445] coins\C[0]."
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Heheh! If only this were the real thing!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Afterward, the role of starting player is passed
+ around the table. And whoever has the most coins
+ after all rounds is the winner!"
+##
+
+#Message#
+\."Oh yes, and when first making a bet,
+ please bet a minimum of \C[2]at least 5 coins\C[0]."
+##
+
+#Message#
+\."Those are the rules.
+ Do you have any questions?"
+##
+
+{Sara} [Sara: Casual, default / cara0-40]
+#Message#
+\."Hm..."
+##
+
+#Choice#
+Go over the rules again
+Let's try it
+##
+
+<もう一度ルールを教えて>
+
+{Sara} [Sara: Casual, outstretched open hand / cara0-51]
+{SE: Accent40-1}
+#Message#
+\."Please go over the rules again."
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."First, a table card is drawn, and a hand of two cards
+ is distributed to each player."
+##
+
+#Message#
+\."Beginning with the starting player, all players
+ choose to raise the bet, match the bet, or fold."
+##
+
+#Message#
+\."Those who choose to match the current bet
+ must wager the same number of coins."
+##
+
+#Message#
+\."Victory goes to the hand which has the most of
+ the same animal when combined with the table card.
+ A \I[32]\I[32]\I[32] trio is stronger than a \I[32]\I[32] pair."
+##
+
+#Message#
+\."However, when hands are of the same strength,
+ the one with the highest number total wins."
+##
+
+<とりあえずやってみよう>
+
+<Choice End>
+
+{Sara} [Sara: Casual, wink / cara0-47]
+{SE: Accent40-1}
+#Message#
+\."Let's give it a try!"
+##
+
+{Joe} [Joe: Casual, eyes-closed smile / cara1-44]
+{SE: Accent21-1}
+#Message#
+\."That's the spirit, Sara!
+ I wanna get playing!"
+##
+
+{Chairman} [Chairman / cara999-19]
+#Message#
+\."Well then, let's move to the real thing."
+##
+
+#Message#
+\."We'll have Joe start, and go for two loops
+ around the table!"
+##
+

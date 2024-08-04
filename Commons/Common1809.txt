@@ -1,0 +1,88 @@
+**********Common1809********** (ジョーのターン)
+{Joe} [Joe: Casual, serious look / cara1-45]
+#Message#
+\."Hmm... Let's see..."
+##
+
+[Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Hmm... Nah, I'll pass..."
+##
+
+#Message#
+\."Urgh... I'm backing out!"
+##
+
+#Message#
+\."Ggh...! No choice! I'm folding...!"
+##
+
+#Message#
+\."Urk... I'll match the bet with all I have...!"
+##
+
+[Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Alright! I'll match the bet with all I have!"
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Heheh...! I'll bet all I have to match!"
+##
+
+[Joe: Casual, upset groan / cara1-47]
+#Message#
+\."Urk... I'll match the bet...!"
+##
+
+[Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Alright! I'll match the bet!"
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Heheh...! I'll match the bet!"
+##
+
+[Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."Gaaah...! I'm going for broke! I'll bet it all!
+ Raising to \C[2]\I[30]\V[1035] coins\C[0]!"
+##
+
+#Message#
+\."Gotta do it! I'll bet it all!
+ Raising to \C[2]\I[30]\V[1035] coins\C[0]!"
+##
+
+[Joe: Casual, eyes-open smile / cara1-43]
+#Message#
+\."Now's the time! I'll bet it all!
+ Raising to \C[2]\I[30]\V[1035] coins\C[0]!"
+##
+
+[Joe: Casual, furrowed brow / cara1-46]
+#Message#
+\."A-Alright! Raising the bet!
+ Up to \C[2]\I[30]\V[1035] coins\C[0]!"
+##
+
+#Message#
+\."Okay! Raising the bet!
+ Up to \C[2]\I[30]\V[1035] coins\C[0]!"
+##
+
+[Joe: Casual, eyes-closed smile / cara1-44]
+#Message#
+\."I'm raising the bet!
+ Up to \C[2]\I[30]\V[1035] coins\C[0]!"
+##
+
+#Message#
+\."I have \V[1019] coins!
+I've wagered \V[1023] coins!
+There are \V[445] coins on the table!"
+##
+

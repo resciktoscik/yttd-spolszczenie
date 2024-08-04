@@ -1,0 +1,1793 @@
+**********Common1797********** (ﾐﾆｴﾋﾟ　アリス)
+{N/A}
+#Message#
+\C[3]...Hey...
+##
+
+#Message#
+\.\C[3]What would you say...
+##
+
+#Message#
+\.\C[3]...is your dream...?
+##
+
+{Reko} [Reko: Band getup, mouth open / cara6C-2]
+{SE: Accent21-1}
+#Message#
+"Ehh...?"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows / cara11C-3]
+{SE: Accent28-1}
+#Message#
+".........."
+##
+
+{Reko} [Reko: Band getup, default / cara6C-3]
+#Message#
+\.".........."
+##
+
+[Reko: Band getup, glare / cara6C-6]
+#Message#
+\."...Tch. Finally open your yap again,
+ and that's what you got to say...?"
+##
+
+[Reko: Band getup, scowl / cara6C-4]
+#Message#
+\."Don't go askin' dumbass questions
+ right before a show, dammit!"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows / cara11C-3]
+#Message#
+".........."
+##
+
+[Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: Accent21-1}
+#Message#
+\."Reko..."
+##
+
+{???}
+#Message#
+"Now that's a rare sight..."
+##
+
+{Stronghold} [Stronghold: Slightly-widened eye / cara27-3]
+{SE: Accent28-1}
+#Message#
+"Seein' Reko give Alice a scoldin'...
+ That's gotta be a first for me!"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth open / cara11C-4]
+#Message#
+\."Stronghold... It's not like it was a scolding..."
+##
+
+{Stronghold} [Stronghold: Default / cara27-2]
+#Message#
+\."Don't sweat it, man! Ain't nobody on the planet
+ can live up to Reko's demands, y'get me?"
+##
+
+[Stronghold: Slightly-widened eye, raised eyebrows / cara27-4]
+#Message#
+\."Like, not even Ursheen can! Right?!"
+##
+
+{Ursheen} [Ursheen: Default / cara28-1]
+{SE: Accent28-1}
+#Message#
+".........."
+##
+
+{Stronghold} [Stronghold: Slightly-widened eye / cara27-3]
+#Message#
+\."You said it, Ursheen!"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows / cara11C-3]
+#Message#
+\."...I think you misunderstand."
+##
+
+[Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: Accent21-1}
+#Message#
+\."I'm just here to round things out at any rate.
+ I don't so much as enter Reko's consideration..."
+##
+
+{Ursheen} [Ursheen: Sweating / cara28-6]
+{SE: sceneswitch2}
+#Message#
+".........."
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+#Message#
+\."...I know. Don't worry about it."
+##
+
+{Stronghold} [Stronghold: Slightly-widened eye / cara27-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."\rb[Sa,3]\rb[mu,6-]\rb[rai,Rai] \rb[Ya,8]\rb[i,1]\rb[ba,8] exists thanks to you,
+ right, Alice? So quit lookin' so gloomy!"
+##
+
+[Stronghold: Eyes looking to side / cara27-1]
+{SE: shrink1}
+#Message#
+\."'Sides, fans only got their eyes on Reko anyway!"
+##
+
+{Ursheen} [Ursheen: Blush / cara28-2]
+{SE: Accent24-1}
+#Message#
+".........."
+##
+
+{Stronghold} [Stronghold: Slightly-widened eye, raised eyebrows, surprised mouth / cara27-5]
+{SE: stupid3}
+#Message#
+\."...Yeah, 'course Ursheen's a fan of Reko too."
+##
+
+{Alice} [Alice: Band getup, default / cara11C-2]
+#Message#
+\.".........."
+##
+
+#Choice#
+What are your dreams?
+Do you enjoy Samurai Yaiba?
+What about Reko do you like?
+##
+
+<お前達の夢ってなんだ？>
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: Accent40-1}
+#Message#
+"Hey, you guys... What are your dreams...?"
+##
+
+{Ursheen} [Ursheen: Blush / cara28-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+".........."
+##
+
+{Stronghold} [Stronghold: Wide-eyed shocked shout / cara27-8]
+#Message#
+\."Just gettin' to be with Reko...
+ That's a dream come true right there, ain't it?!"
+##
+
+[Stronghold: Eyes looking to side / cara27-1]
+{SE: flash-of-light-3}
+#Message#
+\."But always dream bigger, yeah?
+ We could get enough lady fans for a harem!"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."...Does that strike you as feasible?"
+##
+
+{Stronghold} [Stronghold: Eyes looking to side / cara27-1]
+#Message#
+\."A dream that could happen ain't a dream!"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: stupid3}
+#Message#
+\."Right... Well, at any rate, it's clear you two
+ are actually finding it enjoyable here."
+##
+
+<３６雷８１８は楽しいか？>
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: Accent40-1}
+#Message#
+"Do you two enjoy being in Samurai Yaiba...?"
+##
+
+{Ursheen} [Ursheen: Blush / cara28-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+".........."
+##
+
+{Stronghold} [Stronghold: Wide-eyed shocked shout / cara27-8]
+#Message#
+\."Whoa, Ursheen! You're soundin' like
+ a real Reko stalker over here!"
+##
+
+[Stronghold: Slightly-widened eye / cara27-3]
+#Message#
+\."I mean yeah, her talent's somethin' else!
+ How much can ya learn even seein' it up close?"
+##
+
+[Stronghold: Eyes looking to side / cara27-1]
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\."But I'm fine takin' it easy, y'know?
+ For now it's not like I wanna quit, y'know?"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: stupid3}
+#Message#
+\."I see... You two seem to be enjoying yourselves,
+ surprisingly enough..."
+##
+
+<レコのどこが好きだ？>
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: Accent40-1}
+#Message#
+"What do you two like about Reko...?"
+##
+
+{Ursheen} [Ursheen: Blush / cara28-2]
+{SE: sceneswitch2}
+#Message#
+"....................................................."
+##
+
+{Stronghold} [Stronghold: Wide-eyed shocked shout / cara27-8]
+#Message#
+\."Careful with the love overload, Ursheen!"
+##
+
+[Stronghold: Slightly-widened eye / cara27-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Me, I see her a li'l more objectively?
+ She's got a pretty cool look, y'know?"
+##
+
+[Stronghold: Eyes looking to side / cara27-1]
+{SE: Jump2}
+#Message#
+\."Thought about kissin' her while she slept once,
+ but she broke my nose... Bled like crazy, man!"
+##
+
+{Ursheen} [Ursheen: Deathly glare / cara28-5]
+{SE: warning2}
+#Message#
+\.".........."
+##
+
+{Stronghold} [Stronghold: Wide-eyed shocked shout, sweating / cara27-9]
+#Message#
+\."K-Kiddin'! I'm joshin' ya!"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: stupid3}
+#Message#
+\."You should well expect a broken nose for that...
+ Anyway, it's clear to me you two are having
+ a surprisingly enjoyable time."
+##
+
+<Choice End>
+
+{Stronghold} [Stronghold: Slightly-widened eye, worried look / cara27-7]
+{SE: Accent21-1}
+#Message#
+\."Hmm? You mean you're not havin' fun, Alice?"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows / cara11C-3]
+#Message#
+\."..."
+##
+
+{Stronghold} [Stronghold: Slightly-widened eye, raised eyebrows, surprised mouth / cara27-5]
+#Message#
+\."...Well, yeah, I get it."
+##
+
+[Stronghold: Eyes looking to side / cara27-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When you're next to a prodigy like Reko,
+ you start to lose sight of who ya even are."
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+#Message#
+\."..."Who you are," hm..."
+##
+
+{Stronghold} [Stronghold: Slightly-widened eye, raised eyebrows / cara27-4]
+#Message#
+\."Bein' connected by blood,
+ bein' raised in the same house..."
+##
+
+[Stronghold: Slightly-widened eye / cara27-3]
+{SE: sceneswitch2}
+#Message#
+\."Though to turn that 'round...
+ ain't that all that bein' siblings gets ya?"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+#Message#
+\."...!"
+##
+
+{Stronghold} [Stronghold: Eyes looking to side / cara27-1]
+#Message#
+\."When it comes to your points of view,
+ what you can see... you ain't the same, are you?"
+##
+
+[Stronghold: Slightly-widened eye, big grin / cara27-6]
+{SE: Accent21-1}
+#Message#
+\."Feel like ya shouldn't beat yourself up about it."
+##
+
+{Alice} [Alice: Band getup, default / cara11C-2]
+#Message#
+\."..."
+##
+
+[Alice: Band getup, lowered eyebrows, mouth open / cara11C-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do you think it's a mistake
+ for me to be at Reko's side?"
+##
+
+{Stronghold} [Stronghold: Eyes looking to side / cara27-1]
+{SE: Accent40-1}
+#Message#
+\."Well, if it were me, I'd run."
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows / cara11C-3]
+#Message#
+\."..."
+##
+
+{Ursheen} [Ursheen: Blush / cara28-2]
+{SE: sceneswitch2}
+#Message#
+\.".........."
+##
+
+{Stronghold} [Stronghold: Wide-eyed shocked shout, sweating / cara27-9]
+#Message#
+\."You'd take his place, Ursheen...?!
+ What lengths wouldn't ya go to for Reko?!"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows / cara11C-3]
+#Message#
+\.\C[4](Reko...)
+##
+
+#Message#
+\.\C[4](Once... I asked you the same question...)
+##
+
+#Message#
+\.\C[4](Back when we were...
+ still close as brother and sister...)
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]Hey, Reko... what's your dream?
+##
+
+{Reko} [Reko: Child, mouth open / cara6B-2]
+{SE: Accent28-1}
+#Message#
+"Huh? What're you asking embarrassing crap for?"
+##
+
+{Alice} [Alice: Child, mouth open / cara11B-2]
+{SE: Accent21-1}
+#Message#
+"It's fine, you can tell me!
+ See, mine is..."
+##
+
+{Reko} [Reko: Child, grin / cara6B-3]
+#Message#
+\."Ugh, I know yours, bro!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open / cara11B-7]
+{SE: Jump2}
+#Message#
+\."Eh? Do you really?"
+##
+
+[Alice: Child, closed-eyes smile, raised eyebrows / cara11B-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Oh! Could it be... your dream is the same as mine...?"
+##
+
+{Reko} [Reko: Child, shout, sweatdrop / cara6B-8]
+#Message#
+\."Ah, shaddup! Just get climbin' already!
+ We're almost to the secret base!"
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+{SE: Equip2}
+#Message#
+\."Ah, wait for meee!"
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+{SE: Accent21-1}
+#Message#
+"We're heeere! Nobody saw us, right?!"
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+\."Yeesh, I'm exhausted...! This is no park!
+ It's like a mountain! A mountain, I tell you!"
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Quit your whining! We're here now, so who cares."
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+\."Ugh..."
+##
+
+[Alice: Child, small-mouth surprise / cara11B-8]
+{SE: Accent41-1}
+#Message#
+\."Huh? What's that drum thingy over there, Reko?"
+##
+
+{Reko} [Reko: Child, grin / cara6B-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Heheh... oh, this?"
+##
+
+[Reko: Child, raised eyebrows, mouth closed / cara6B-7]
+{SE: Accent28-1}
+#Message#
+\."I cobbled it together from some good-lookin'
+ wood I gathered and some tools I bought!"
+##
+
+{Alice} [Alice: Child, mouth open / cara11B-2]
+#Message#
+\."Wha?! You made this, Reko?! That's amazing!"
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+{SE: flash-of-light-3}
+#Message#
+\."Heheheh! You think so?!"
+##
+
+{Alice} [Alice: Child, closed-eyes smile / cara11B-3]
+{SE: Accent21-1}
+#Message#
+\."Yeah! I'm suuuper impressed!"
+##
+
+#Choice#
+What's it sound like?
+Let me have it
+So we came here because...
+##
+
+<どんな音がするの？>
+
+{Alice} [Alice: Child, mouth open / cara11B-2]
+{SE: Accent40-1}
+#Message#
+"Hey, Reko, what's it sound like?"
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+#Message#
+\."You that curious, huh? Well, fine by me!"
+##
+
+{Alice} [Alice: Child, closed-eyes smile, raised eyebrows / cara11B-4]
+#Message#
+\."Hooray! Let me hear it!"
+##
+
+[Alice: Child, default / cara11B-1]
+{SE: Accent21-1}
+#Message#
+\.\C[4](I wonder... did Reko want to show me this?)
+##
+
+<アタシに頂戴>
+
+{Alice} [Alice: Child, mouth open / cara11B-2]
+{SE: Accent40-1}
+#Message#
+"Hey, Reko, let me have it!"
+##
+
+{Reko} [Reko: Child, shout, sweatdrop / cara6B-8]
+#Message#
+\."Wha?! I ain't giving it to you!
+ Not after my hard work makin' it!"
+##
+
+{Alice} [Alice: Child, closed-eyes smile / cara11B-3]
+{SE: flash-of-light-3}
+#Message#
+\."But I wanna try playing it!"
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+{SE: Accent28-1}
+#Message#
+\."I'll play it for ya, then. Be happy with that!"
+##
+
+{Alice} [Alice: Child, closed-eyes smile, raised eyebrows / cara11B-4]
+#Message#
+\."Hooray! Let me hear, let me hear!"
+##
+
+[Alice: Child, default / cara11B-1]
+{SE: Accent21-1}
+#Message#
+\.\C[4](I wonder... did Reko want to show me this?)
+##
+
+<秘密基地に来た理由って…>
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open / cara11B-7]
+{SE: Accent40-1}
+#Message#
+"Could it be the reason you had me
+ come to the secret base was to show me this...?"
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."H-Huhhhhh?! What're you on about?!"
+##
+
+[Reko: Child, shout, sweatdrop / cara6B-8]
+#Message#
+\."I-It's nothin' like that!! Don't be a dummy, bro!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+#Message#
+\."I-I'm sorry! Yeah... I must be wrong..."
+##
+
+[Alice: Child, closed-eyes smile / cara11B-3]
+{SE: Accent21-1}
+#Message#
+\."Hey, let me hear that drum, Reko!"
+##
+
+{Reko} [Reko: Child, mouth open / cara6B-2]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Oh? Well geez, if you wanted to hear it,
+ you should've just said so!"
+##
+
+{Alice} [Alice: Child, closed-eyes smile, raised eyebrows / cara11B-4]
+#Message#
+\."Hooray!"
+##
+
+<Choice End>
+
+{N/A} [Alice: Child, closed-eyes smile, raised eyebrows / cara11B-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]The cheerful sound of Reko's drum
+echoed through the park.
+##
+
+{Old Man on Walk} [Old Man on Walk / cara999-10]
+{SE: Accent21-1}
+#Message#
+"...Oh? The sound of a drum..."
+##
+
+#Message#
+\."Because it's a day off, perhaps?
+ Maybe they're preparing for the festival..."
+##
+
+{Alice} [Alice: Child, mouth open / cara11B-2]
+{SE: Accent28-1}
+#Message#
+\."Heehee! Thanks, Reko!"
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Child, mouth open / cara11B-2]
+#Message#
+\."...What's wrong?"
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."Nah, uh..."
+##
+
+[Reko: Child, raised eyebrows, mouth closed / cara6B-7]
+#Message#
+\."How was it? What'd you think, bro?"
+##
+
+{Alice} [Alice: Child, small-mouth surprise / cara11B-8]
+#Message#
+\."Eh...?"
+##
+
+#Choice#
+It actually works
+It has a good timbre
+This won't do!
+No real opinion...
+##
+
+<ちゃんと鳴ってる>
+
+{Alice} [Alice: Child, mouth open / cara11B-2]
+{SE: Accent40-1}
+#Message#
+"It worked! It actually sounded like a drum!"
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."Not that, dammit!"
+##
+
+[Reko: Child, shout, sweatdrop / cara6B-8]
+#Message#
+\."Don't you get this feeling?
+ Like there's something off about the sound..."
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+#Message#
+\."Something? Like what...?"
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."So you dunno either, bro? Hrmm..."
+##
+
+<良い音色>
+
+{Alice} [Alice: Child, mouth open / cara11B-2]
+{SE: Accent40-1}
+#Message#
+"That had a great timbre, Reko!"
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."For real?! What about it...?!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: shrink1}
+#Message#
+\."Um... what about it? Err..."
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."What the hell! Don't give me a half-hearted remark!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: stupid3}
+#Message#
+\."I-I'm sorry... It just sort of felt that way to me..."
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."Tch..."
+##
+
+<こんなんじゃダメ！>
+
+{Alice} [Alice: Child, angry yell / cara11B-11]
+#Message#
+"This won't do at all, Reko!"
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."W-What? What part...?!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: shrink1}
+#Message#
+\."Err... you know, like..."
+##
+
+[Alice: Child, closed-eyes smile, raised eyebrows / cara11B-4]
+{SE: stupid3}
+#Message#
+\."Your... posture?"
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."The hell?! Don't just say whatever!"
+##
+
+[Reko: Child, shout, sweatdrop / cara6B-8]
+{SE: Accent21-1}
+#Message#
+\."Guess I got my hopes up a little.
+ Thought you might be thinkin' the same thing I was..."
+##
+
+{Alice} [Alice: Child, surprise / cara11B-5]
+#Message#
+\."Huh? What do you mean...?"
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."Well... it's just..."
+##
+
+<特に何も…>
+
+{Alice} [Alice: Child, surprise, worried eyebrows / cara11B-6]
+{SE: Accent40-1}
+#Message#
+"I didn't really feel much of anything..."
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."W-What the...?! After I played it for you?!"
+##
+
+[Reko: Child, shout, sweatdrop / cara6B-8]
+#Message#
+\."C'mon, bro... You've gotta give me
+ a "good" or a "bad" at least!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: stupid3}
+#Message#
+\."S-Sorry..."
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."Tch... Well, fine."
+##
+
+<Choice End>
+
+{Reko} [Reko: Child, mouth open / cara6B-16]
+{SE: Accent21-1}
+#Message#
+\."This sound kinda... doesn't feel good to me..."
+##
+
+[Reko: Child, sad / cara6B-14]
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+\.\C[4](My... Reko feels there's something off, does she?)
+##
+
+[Alice: Child, surprise, worried eyebrows / cara11B-6]
+#Message#
+\.\C[4](She must have worked hard to make it...)
+##
+
+[Alice: Child, surprise, worried eyebrows, mouth open / cara11B-7]
+{SE: heart2}
+#Message#
+\.\C[4](In that case, I have to help her...!)
+##
+
+[Alice: Child, default / cara11B-1]
+#Message#
+\."All right! Let's try to improve it together, Reko!"
+##
+
+{Reko} [Reko: Child, mouth open / cara6B-2]
+#Message#
+\."Wha?! You mean it, bro?!"
+##
+
+{Alice} [Alice: Child, closed-eyes smile / cara11B-3]
+{SE: Accent21-1}
+#Message#
+\."You can count on me for anything with instruments!
+ I mean, I'm always teaching you piano, right?"
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+#Message#
+\."Good point! Guess I'll trust ya!"
+##
+
+{Alice} [Alice: Child, mouth open / cara11B-2]
+{SE: Accent24-1}
+#Message#
+\."But let's go home for today, okay?
+ Our parents will get worried."
+##
+
+{Reko} [Reko: Child, shout, sweatdrop / cara6B-8]
+#Message#
+\."Huh?! Man, fine..."
+##
+
+[Reko: Child, closed-eyes smile / cara6B-4]
+{SE: Accent28-1}
+#Message#
+\."But next time we're here... you just gotta!"
+##
+
+{Alice} [Alice: Child, surprise / cara11B-5]
+{SE: Accent21-1}
+#Message#
+"...*yawn*..."
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."Brrr... It's cold today..."
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open / cara11B-7]
+#Message#
+\."Look out the window. It's really pouring..."
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+#Message#
+\."..."
+##
+
+[Reko: Child, angry / cara6B-6]
+#Message#
+\."Ah...!!"
+##
+
+[Reko: Child, shout, sweatdrop / cara6B-8]
+#Message#
+\."Shoot! I gotta go!!"
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+"Reko...?! Ah, hold on!"
+##
+
+#Message#
+"*pant*...! *pant*...! Reko...!"
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+{SE: Accent21-1}
+#Message#
+".........."
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+\.\C[4](Sure enough, she was here...)
+##
+
+#Choice#
+Don't worry me like that
+Let's get home already
+Why are you at the base?
+##
+
+<心配させないで>
+
+{Alice} [Alice: Child, angry yell / cara11B-11]
+#Message#
+\."Sheesh! Don't worry me like that, Reko!"
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Child, angry yell / cara11B-11]
+#Message#
+\."A-Are you listening?! Hey!"
+##
+
+<早く帰りましょう>
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: Accent40-1}
+#Message#
+\."Let's get home, Reko...
+ I brought you an umbrella..."
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+\."H-Hey, Reko... what's wrong...?"
+##
+
+<なんで秘密基地に？>
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: Accent40-1}
+#Message#
+\."Why'd you come to the secret base, Reko?
+ You're not, um, running away from home, right...?"
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+\."H-Hey... At least tell me why..."
+##
+
+<Choice End>
+
+{Reko} [Reko: Child, grin / cara6B-3]
+#Message#
+\."Heh... heheh..."
+##
+
+[Reko: Child, mouth open / cara6B-2]
+#Message#
+\."Hey, bro! Look at this!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows / cara11B-6]
+#Message#
+\."Eh...?"
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+#Message#
+\."I thought I was in deep crap
+ 'cause this base doesn't have a roof, see!"
+##
+
+[Reko: Child, mouth open / cara6B-2]
+{SE: flash-of-light-3}
+#Message#
+\."But the drum got all moist, and... see?!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+#Message#
+\."W-What're you talking about...?"
+##
+
+{Reko} [Reko: Child, mouth open / cara6B-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Just listen and you'll hear it! Here goes!"
+##
+
+{N/A}
+#Message#
+\C[3]Reko happily played the drum.
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+#Message#
+\."See, see?! It sounds super good now, right?!"
+##
+
+[Reko: Child, mouth open / cara6B-2]
+{SE: flash-of-light-3}
+#Message#
+\."Bro!! This must be what they call a miracle, yeah?!"
+##
+
+{Alice} [Alice: Child, surprise / cara11B-5]
+#Message#
+\.".........."
+##
+
+[Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: Accent41-1}
+#Message#
+\.\C[4](Eh...?)
+##
+
+[Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+{SE: Accent21-1}
+#Message#
+\.\C[4](I can't tell... Did it actually sound different...?)
+##
+
+[Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+#Message#
+\.\C[4](Reko... you're out here in the cold rain...)
+##
+
+[Reko: Child, mouth open / cara6B-2]
+#Message#
+\.\C[4](And yet you look entranced...
+ What exactly are you enjoying so much...?)
+##
+
+[Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I don't... have a clue...
+ About the sound, or about Reko...)
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+{SE: Accent28-1}
+#Message#
+"Hey! Bro! Look at the sky!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: shrink1}
+#Message#
+\."Urgh... I'm still sleepy, Reko..."
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+#Message#
+\."See?! It's sunny!"
+##
+
+[Reko: Child, mouth open / cara6B-2]
+{SE: flash-of-light-3}
+#Message#
+\."Today's our day to go to the secret base!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+#Message#
+\.\C[4](Reko sure is energetic...)
+##
+
+[Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+{SE: Accent21-1}
+#Message#
+"*pant*, *pant*...
+ It really is rough climbing up here..."
+##
+
+{Reko} [Reko: Child, closed-eyes smile / cara6B-4]
+#Message#
+\."Hurry it up, bro!
+ You promised we'd improve the drum together, right?!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: Accent39-1}
+#Message#
+\."Ah... so that's why you were so excited..."
+##
+
+[Alice: Child, default / cara11B-1]
+#Message#
+\."..."
+##
+
+[Alice: Child, surprise, worried eyebrows / cara11B-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hang on a second...
+ I don't see that drum anywhere, do you?"
+##
+
+{Reko} [Reko: Child, shout, sweatdrop / cara6B-8]
+#Message#
+\."...Wha?! Can't be...!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows / cara11B-6]
+#Message#
+\."It was right here, wasn't it?"
+##
+
+{Reko} [Reko: Child, angry / cara6B-6]
+#Message#
+\."It's gone! Gone!! Why...?!"
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+\."L-Let's look around for it!
+ Perhaps someone took it away...?!"
+##
+
+{Reko} [Reko: Child, serious, gritted teeth / cara6B-11]
+#Message#
+\."You gotta be jokin'! I'm gonna look over there!"
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+"*pant*... *pant*...
+ I wonder if it rolled down below?"
+##
+
+[Alice: Child, surprise, worried eyebrows / cara11B-6]
+#Message#
+\."If so, it would be around here..."
+##
+
+[Alice: Child, surprise / cara11B-5]
+{SE: sceneswitch2}
+#Message#
+\."Ah..."\|
+##
+
+[Alice: Child, surprise, worried eyebrows / cara11B-6]
+#Message#
+\."I found it..."
+##
+
+[Alice: Child, sad, mouth closed / cara11B-12]
+#Message#
+\."So it was... here..."
+##
+
+{Reko} [Reko: Child, shout, sweatdrop / cara6B-8]
+#Message#
+"*pant*! *pant*...!"
+##
+
+[Reko: Child, sad, gritted teeth / cara6B-15]
+#Message#
+\."Hey! You find it...?!"
+##
+
+{Alice} [Alice: Child, surprise / cara11B-5]
+#Message#
+\.".........."
+##
+
+[Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Nah... it wasn't anywhere..."
+##
+
+{Reko} [Reko: Child, sad, gritted teeth / cara6B-15]
+#Message#
+\."..."
+##
+
+[Reko: Child, mouth open / cara6B-16]
+#Message#
+\."...Let's go look again..."
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows / cara11B-6]
+{SE: Accent21-1}
+#Message#
+\."Come on... we won't find it..."
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+#Message#
+\."...?!"
+##
+
+[Reko: Child, unamused, gritted teeth / cara6B-13]
+#Message#
+\."T-The hell's that? You givin' up that quick?!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+#Message#
+\."I mean, we searched the whole park, didn't we?
+ It's nowhere..."
+##
+
+{Reko} [Reko: Child, serious, gritted teeth / cara6B-11]
+#Message#
+\."Don't gimme that! There's gotta be
+ somewhere we haven't checked yet...!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+{SE: Accent28-1}
+#Message#
+\."Why don't we go home, Reko...?
+ If you want... I can teach you piano..."
+##
+
+{Reko} [Reko: Child, unamused / cara6B-12]
+#Message#
+\."...!!"
+##
+
+[Reko: Child, serious, gritted teeth / cara6B-11]
+#Message#
+\."...So it's like that, huh?"
+##
+
+[Reko: Child, shout / cara6B-17]
+#Message#
+\."You big dummy! I can play piano
+ without you teaching me, dammit!!"
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows / cara11B-6]
+{SE: Accent21-1}
+#Message#
+\C[4](I'm sorry, Reko...)
+##
+
+[Alice: Child, sad, mouth closed / cara11B-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](The drum... was in pieces, in the trash...)
+##
+
+#Message#
+\.\C[4](I'm sure the people cleaning the park...
+ mistook it for garbage someone left...)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Follow Reko home
+Go back to pick up drum
+##
+
+<レコを追って帰る>
+
+{Alice} [Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+#Message#
+\.\C[4](...She'll forget about it quick, I'm sure.)
+##
+
+[Alice: Child, mouth open / cara11B-2]
+{SE: Accent21-1}
+#Message#
+\.\C[4](I'll teach her some more fun songs on piano...)
+##
+
+[Alice: Child, surprise, worried eyebrows, mouth open / cara11B-7]
+{SE: Accent28-1}
+#Message#
+\.\C[4](We'll work together to find
+ a sound Reko finds pleasing... yeah.)
+##
+
+<太鼓を拾いに戻る>
+
+{Alice} [Alice: Child, angry yell / cara11B-11]
+#Message#
+\.\C[4](...I should at least get it back to how it was...!)
+##
+
+[Alice: Child, default / cara11B-1]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Hold on just a moment, Reko...!)
+##
+
+[Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+{SE: sceneswitch2}
+#Message#
+"It can't be... why...?"
+##
+
+[Alice: Child, sad, mouth closed / cara11B-12]
+#Message#
+\."It was just in this trash can earlier...!"
+##
+
+{Old Man on Walk} [Old Man on Walk / cara999-10]
+{SE: Accent41-1}
+#Message#
+\."You all right? If you're looking for something
+ in there, the trash collector just came for it."
+##
+
+{Alice} [Alice: Child, sad, mouth closed / cara11B-12]
+#Message#
+\."N-No...!"
+##
+
+<Choice End>
+
+{N/A} [Alice: Child, sad, mouth closed / cara11B-12]
+#Message#
+\C[3]...If I'd been able to protect that drum then...
+##
+
+#Message#
+\.\C[3]Would it have changed our fates...?
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+"R-Reko..."
+##
+
+{Reko} [Reko: Child, unamused / cara6B-12]
+{SE: sceneswitch2}
+#Message#
+\.".........."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Reko was playing the piano with intensity.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]And using techniques far more difficult
+than what I'd taught her.
+##
+
+{Alice} [Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+\.\C[4](Wh... What the...)
+##
+
+[Alice: Child, surprise, worried eyebrows, mouth open, sweatdrop / cara11B-9]
+#Message#
+\.\C[4](When did she learn to play like this...?)
+##
+
+[Alice: Child, small-mouth surprise, sweatdrop / cara11B-10]
+#Message#
+\.\C[4](I can't... do anything as advanced as that...)
+##
+
+[Alice: Child, sad, mouth closed / cara11B-12]
+#Message#
+\.\C[4](Hey... stop it, Reko...)
+##
+
+{SE: Accent43-1}
+#Message#
+\C[4](I'm... not going to have
+ anything I can teach you anymore...)
+##
+
+{Reko} [Reko: Child, unamused / cara6B-12]
+{SE: Accent21-1}
+#Message#
+"...Whew..."
+##
+
+[Reko: Child, closed-eyes smile / cara6B-4]
+{SE: flash-of-light-3}
+#Message#
+\."Ahh... I feel kinda refreshed!"
+##
+
+[Reko: Child, mouth open / cara6B-2]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Sorry about before, bro.
+ I just wanted to try harder songs..."
+##
+
+{Alice} [Alice: Child, sad, mouth closed / cara11B-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+#Message#
+"..."
+##
+
+[Reko: Child, serious, gritted teeth / cara6B-11]
+#Message#
+\."...Where the hell you going?! Ugh...!"
+##
+
+{Man} [Visiting Music Instructor / cara999-11]
+{SE: Accent28-1}
+#Message#
+"...At any rate, just give me a call
+ if you ever change your mind."
+##
+
+{Reko} [Reko: Child, sad / cara6B-14]
+{SE: Accent21-1}
+#Message#
+"...Phew. Finally gone..."
+##
+
+{Alice} [Alice: Child, surprise, worried eyebrows / cara11B-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Reko."
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+#Message#
+\."..."
+##
+
+{Alice} [Alice: Child, closed-eyes smile / cara11B-3]
+{SE: Accent21-1}
+#Message#
+\."Who was that visitor...?"
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+#Message#
+\."..."
+##
+
+[Reko: Child, mouth open / cara6B-16]
+{SE: Accent40-1}
+#Message#
+\."...I dunno. Came to offer me some kinda invitation.
+ To get some famous musical education, I guess...?"
+##
+
+{Alice} [Alice: Child, sad, mouth closed / cara11B-12]
+{SE: sceneswitch2}
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Child, unamused, gritted teeth / cara6B-13]
+#Message#
+\."It's just boring junk! I don't wanna!"
+##
+
+[Reko: Child, unamused / cara6B-12]
+#Message#
+\."Dad's sure insistent I rethink it, though..."
+##
+
+{Alice} [Alice: Child, sad, mouth closed / cara11B-12]
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Why not accept?"
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+#Message#
+\."...Huh?"
+##
+
+[Reko: Child, mouth open / cara6B-2]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."I-In that case, you do it with me..."
+##
+
+{Alice} [Alice: Child, sad, mouth closed / cara11B-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I haven't been invited, though."
+##
+
+{Reko} [Reko: Child, surprise / cara6B-5]
+#Message#
+\."..."
+##
+
+{Alice} [Alice: Child, sad, mouth closed / cara11B-12]
+{SE: Accent40-1}
+#Message#
+\."Reko... you and I are different."
+##
+
+{Reko} [Reko: Child, unamused, gritted teeth / cara6B-13]
+#Message#
+\."Huh? Whoa, bro..."
+##
+
+{Alice} [Alice: Child, sad, mouth closed / cara11B-12]
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Child, serious, gritted teeth / cara6B-11]
+#Message#
+"Alice...!"
+##
+
+[Reko: Child, shout / cara6B-17]
+#Message#
+\."Tell me... what's your dream, Alice?!"
+##
+
+{Alice} [Alice: Child, sad, mouth closed / cara11B-12]
+{SE: Accent43-1}
+#Message#
+"...I don't have one of those."
+##
+
+{Reko} [Reko: Child, shout / cara6B-17]
+#Message#
+"Alice...!!"
+##
+
+[Reko: Child, unamused, gritted teeth / cara6B-13]
+#Message#
+\.".........."
+##
+
+[Reko: Child, sad, gritted teeth / cara6B-15]
+#Message#
+\."..."
+##
+
+[Reko: Child, mouth open / cara6B-16]
+#Message#
+\."...You said you would, didn't you...?"
+##
+
+[Reko: Child, sad / cara6B-14]
+{SE: Accent21-1}
+#Message#
+\."Someday... together... we'd form a..."
+##
+
+[Reko: Band getup, scowl / cara6C-4]
+{SE: Accent28-1}
+#Message#
+"Tch...! That was the worst anniversary concert ever..."
+##
+
+{Stronghold} [Stronghold: Wide-eyed shocked shout, sweating / cara27-9]
+#Message#
+\."Sorry 'bout the mess-ups!
+ But look, the audience was goin' wild, Reko!"
+##
+
+{Ursheen} [Ursheen: Ominous shadowing, sweating / cara28-7]
+{SE: receiving-a-shock-1}
+#Message#
+\."..."
+##
+
+{Reko} [Reko: Band getup, irritated glare / cara6C-7]
+#Message#
+\."You goddamn... If you aren't willin' to take this
+ seriously, then get the hell out of the band!"
+##
+
+{Stronghold} [Stronghold: Wide-eyed shocked shout, sweating / cara27-9]
+#Message#
+\."Ooogh..."
+##
+
+{Alice} [Alice: Band getup, default / cara11C-2]
+#Message#
+\."..."
+##
+
+[Alice: Band getup, lowered eyebrows, mouth open / cara11C-4]
+{SE: Accent21-1}
+#Message#
+\."Reko... do you have a moment?"
+##
+
+{Reko} [Reko: Band getup, irritated glare / cara6C-7]
+#Message#
+\."Eh...?"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows, mouth open / cara11C-4]
+#Message#
+\."Today IS the anniversary of our band, is it not?"
+##
+
+{Stronghold} [Stronghold: Slightly-widened eye, raised eyebrows / cara27-4]
+#Message#
+\."Ohh! A gift for Reko, our leader?!"
+ Bet you're happy, huh?!"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows / cara11C-3]
+{SE: Equip2}
+#Message#
+\.".........."
+##
+
+{N/A} [Alice: Band getup, default / cara11C-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]I handed Reko the bongos from my bag.
+##
+
+{Ursheen} [Ursheen: Ominous shadowing, sweating / cara28-7]
+#Message#
+\."...?!"
+##
+
+{Stronghold} [Stronghold: Wide-eyed shocked shout, sweating / cara27-9]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."...Wait, are those drums or somethin'?!
+ Ain't she gonna be mad?! Alice?!"
+##
+
+{Reko} [Reko: Band getup, glare / cara6C-6]
+#Message#
+\.".........."
+##
+
+[Reko: Band getup, irritated glare / cara6C-7]
+#Message#
+\."...Tch..."
+##
+
+[Reko: Band getup, scowl / cara6C-4]
+#Message#
+\."Listen! Next time you screw up that bad,
+ you're fired, I mean it!"
+##
+
+[Reko: Band getup, irritated glare / cara6C-7]
+#Message#
+\."So Stronghold, Ursheen, get some damn practice in!"
+##
+
+{Alice} [Alice: Band getup, lowered eyebrows / cara11C-3]
+#Message#
+".........."
+##
+
+[Alice: Band getup, lowered eyebrows, mouth slightly open / cara11C-5]
+{SE: Accent21-1}
+#Message#
+\."...Indifference, hm..."
+##
+
+[Alice: Band getup, lowered eyebrows / cara11C-3]
+#Message#
+\."...Though... I expected as much."
+##
+
+{Reko} [Reko: Band getup, glare / cara6C-6]
+#Message#
+".........."
+##
+
+[Reko: Band getup, irritated glare / cara6C-7]
+#Message#
+\."...Tch..."
+##
+
+[Reko: Band getup, glare / cara6C-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Should I toss these out?"
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."..............."
+##
+
+[Reko: Band getup, irritated glare / cara6C-7]
+{SE: Accent21-1}
+#Message#
+\."Shit... This is irritating..."
+##
+
+[Reko: Band getup, glare / cara6C-6]
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\C[3]In a hallway with no one around...
+##
+
+#Message#
+\.\C[3]A large trash can sat beside a vending machine.
+##
+
+#Message#
+\.\C[3]Standing before it, Reko held the bongos reluctantly...
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]And, giving them a light tap...
+##
+
+{SE: Accent40-1}
+#Message#
+\.\C[3]For just a moment... she closed her eyes.
+##
+
+#Message#
+
+
+      \C[3]Alice Yabusame Episode "Unconverging Views" - End
+##
+

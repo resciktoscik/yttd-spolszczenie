@@ -1,0 +1,282 @@
+**********Common1802********** (ホセウラワ戦)
+{N/A} [Jose Urawa Jr. / cara999-14]
+#Message#
+\.\C[3]Jose Urawa Jr. stands in your way!
+##
+
+#Message#
+\.\C[3]Kurumada's Health ... \V[422]
+Spirits ... \V[423]
+##
+
+#Choice#
+Attack
+Special Move
+Counter
+##
+
+<攻撃>
+
+<必殺技>
+
+#Choice#
+Uppercut (-30 Spirit)
+Cross-Counter (-40 Spirit)
+Convertible Rush (-60 Spirit)
+Back
+##
+
+<アッパーカット（30ﾉﾘﾉﾘ消費）>
+
+{Kurumada} [Jose Urawa Jr. / cara999-14]
+#Message#
+\C[4](I'm not in high enough spirits...)
+##
+
+<クロスカウンター（40ﾉﾘﾉﾘ消費）>
+
+{Kurumada} [Jose Urawa Jr. / cara999-14]
+#Message#
+\C[4](I'm not in high enough spirits...)
+##
+
+<オープンカーラッシュ（60ﾉﾘﾉﾘ消費）>
+
+{Kurumada} [Jose Urawa Jr. / cara999-14]
+#Message#
+\C[4](I'm not in high enough spirits...)
+##
+
+<もどる>
+
+<Choice End>
+
+<カウンター>
+
+<Choice End>
+
+{Kurumada} [Jose Urawa Jr. / cara999-14]
+#Message#
+\C[4](Take this!)
+##
+
+{N/A}
+#Message#
+\C[3]Dealt \V[427] damage to Jose Urawa Jr.!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Alright!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada's spirits rose a bit!
+##
+
+{Kurumada}
+#Message#
+\C[4](Crap! I'm playing into his hand...!)
+##
+
+#Message#
+\C[4](Shit, he's planning something...!)
+##
+
+#Message#
+\C[4](Wha...?! He dodged?!)
+##
+
+#Message#
+\C[4](Shit...! That was some slick movement!)
+##
+
+#Message#
+\C[4](Counter!)
+##
+
+{N/A}
+#Message#
+\C[3]Dealt \V[427] damage to Jose Urawa Jr.!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Hah! How do you like that?!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada's spirits rose a bit!
+##
+
+{Kurumada}
+#Message#
+\C[4](Tch! Hard to go for a counter
+ when the opponent's being passive...)
+##
+
+#Message#
+\C[4](I can't counter if he doesn't hit me...!)
+##
+
+#Message#
+\C[4](I can't counter if he doesn't hit me...!)
+##
+
+#Message#
+\C[4](Tch, he saw through me...?!)
+##
+
+#Message#
+\C[4](Uppercut!!)
+##
+
+{N/A}
+#Message#
+\C[3]Dealt \V[427] damage to Jose Urawa Jr.!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Hraaah! How's that?!)
+##
+
+#Message#
+\C[4](Shit! Couldn't hit him...!)
+##
+
+#Message#
+\C[4](C-Crap! My balance...!)
+##
+
+#Message#
+\C[4](Shit! Couldn't hit him...!)
+##
+
+#Message#
+\C[4](Tch... How'd he dodge?!)
+##
+
+#Message#
+\C[4](Let's risk it...! Cross-counter!!)
+##
+
+{N/A}
+#Message#
+\C[3]Dealt \V[427] damage to Jose Urawa Jr.!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](U... urgh...)
+##
+
+#Message#
+\C[4](He drew back! Lucky bastard...!)
+##
+
+#Message#
+\C[4](He drew back! Lucky bastard...!)
+##
+
+#Message#
+\C[4](Tch... How'd he dodge?!)
+##
+
+#Message#
+\C[4](Hwoooh! I'll rush with all my might!!)
+##
+
+{N/A}
+#Message#
+\C[3]Dealt \V[427] damage to Jose Urawa Jr.!
+##
+
+{Kurumada}
+#Message#
+\.\C[4](Tch! He was going for a counter?!
+ It didn't do much...!)
+##
+
+#Message#
+\.\C[4](Tch! He was at a distance,
+ so it didn't do much...!)
+##
+
+#Message#
+\.\C[4](*pant*...! How's that...?!)
+##
+
+#Message#
+\C[4](Shit! Couldn't hit him...!)
+##
+
+#Message#
+\C[4](C-Crap! My balance...!)
+##
+
+#Message#
+\C[4](Shit! Couldn't hit him...!)
+##
+
+#Message#
+\C[4](Tch... How'd he dodge?!)
+##
+
+{N/A}
+#Message#
+\C[3]Defeated Jose Urawa Jr.!\|
+##
+
+{SE: sceneswitch2}
+#Message#
+\C[3]Jose Urawa Jr. is silently observing.\|
+##
+
+#Message#
+\C[3]Kurumada took \V[427] damage!\|
+##
+
+#Message#
+\C[3]Kurumada took \V[427] damage!\|
+##
+
+#Message#
+\C[3]Jose Urawa Jr. recovered \V[427] health!\|
+##
+
+#Message#
+\C[3]Simultaneous strike! Kurumada took \V[427] damage!\|
+##
+
+{Kurumada}
+#Message#
+\.\C[4](T-This can't be...)
+##
+
+#Message#
+\.\C[4](Ugh...!)
+##
+
+{N/A}
+#Message#
+\C[3]Kurumada lost...\|
+##
+
+#Message#
+\C[3]Rematch?
+##
+
+#Choice#
+Yes
+No (Back to Episode Select)
+##
+
+<はい>
+
+<いいえ（過去編選択に戻る）>
+
+<Choice End>
+

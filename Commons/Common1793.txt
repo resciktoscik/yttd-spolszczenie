@@ -1,0 +1,3448 @@
+**********Common1793********** (ﾐﾆｴﾋﾟ　カイ)
+{N/A}
+#Message#
+\C[3]...Failure?
+##
+
+#Message#
+\.\C[3]You mean you...?
+##
+
+{SE: Accent21-1}
+#Message#
+\.Correct... I failed in my mission.
+##
+
+#Message#
+"Mind if I ask you for the details?"
+##
+
+[Sara's Father: Neutral / cara17-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+"You can tell me, Kai."
+##
+
+{Kai} [Kai: Blue apron, default (no collar/utensils) / cara8-18]
+#Message#
+\."Understood..."
+##
+
+{N/A}
+#Message#
+It was... when I was young still.
+##
+
+#Message#
+".........."
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids / cara8-49]
+{SE: Accent21-1}
+#Message#
+"*pant*... *gasp*..."
+##
+
+[Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."*cough*...! *hack*...!!"
+##
+
+[Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."Ugh..."
+##
+
+{N/A}
+#Message#
+"It appears you withstood it."
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+{SE: Accent28-1}
+#Message#
+"Well done, Kai."
+##
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."F... Father..."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Well, I'd hope as much... from a test such as this."
+##
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+#Message#
+\."E-Erm...! Be careful, Father! If you stay here,
+ you'll breathe in the gas yourself!"
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+#Message#
+\."...Are you belittling me?"
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: sceneswitch2}
+#Message#
+\."I am your father, don't forget."
+##
+
+{Kai} [Kai: Young, sad / cara8-43]
+#Message#
+\."You are, but...!"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."...You need only think about your own self."
+##
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+#Message#
+\."Y-Yes, sir..."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent21-1}
+#Message#
+\."After poison resistance training, we move onto
+ shock resistance training. Master it."
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+#Message#
+\."R... Right away, Father...?"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We've no need for breaks."
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+#Message#
+\."..."
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+#Message#
+\."...What?"
+##
+
+{Kai} [Kai: Young, default / cara8-36]
+#Message#
+\.\C[4](I...)
+##
+
+#Choice#
+I understand
+Please let me rest
+I don't want to do it
+##
+
+<わかりました>
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+{SE: Accent40-1}
+#Message#
+"I understand. Right away...!"
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\."That's what I like to hear."
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+#Message#
+\.\C[4](I... mustn't complain.)
+##
+
+[Kai: Young, default / cara8-36]
+{SE: Accent21-1}
+#Message#
+\.\C[4](I have to do it... for Father's sake!)
+##
+
+<休憩を下さい>
+
+{Kai} [Kai: Young, sad / cara8-43]
+{SE: Accent40-1}
+#Message#
+"Erm... could I be given a break, though...?"
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+#Message#
+\."..."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: Accent42-1}
+#Message#
+\."You can't mean to say...
+ such a trifling thing as this has exhausted you?"
+##
+
+{Kai} [Kai: Young, sad / cara8-43]
+#Message#
+\."Ah...! N-No, sir, that's not...!"
+##
+
+{Gashu} [Gashu: Young, furrowed brow / cara16-21]
+#Message#
+\."Then do it."
+##
+
+{Kai} [Kai: Young, sad / cara8-43]
+#Message#
+\."Yes, sir..."
+##
+
+<やりたくないです>
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+{SE: Accent40-1}
+#Message#
+"I... don't want to do it."
+##
+
+[Kai: Young, eyes shut, mouth open / cara8-44]
+{SE: sceneswitch2}
+#Message#
+\."I've had enough of this training..."
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+#Message#
+\."..."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do you think you get the choice, Kai?"
+##
+
+{Kai} [Kai: Young, sad / cara8-43]
+#Message#
+\."Fa... ther..."
+##
+
+{Gashu} [Gashu: Young, furrowed brow / cara16-21]
+#Message#
+\."This is an order."
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+{SE: heart2}
+#Message#
+\."..."
+##
+
+[Kai: Young, lowered eyelids / cara8-45]
+{SE: Accent21-1}
+#Message#
+\."...Apologies. I should not have complained."
+##
+
+[Kai: Young, default / cara8-36]
+#Message#
+\."Please, let me do the next round of training."
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+{SE: Accent42-1}
+#Message#
+\."Very well. Never speak something so spineless again."
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+#Message#
+\."Yes..."
+##
+
+<Choice End>
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\."..."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And once you've completed your tasks,
+ there is someone I shall introduce to you."
+##
+
+{Kai} [Kai: Young, surprise / cara8-38]
+#Message#
+\."Oh...? Who could that be...?"
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\."..."
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+#Message#
+\."...Sorry, I said nothing."
+##
+
+[Kai: Young, default / cara8-36]
+{SE: Accent21-1}
+#Message#
+\."I will proceed with my training."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Indeed..."
+##
+
+[Gashu: Young, default / cara16-17]
+#Message#
+\."..."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: Accent28-1}
+#Message#
+\."...There will also be cake."
+##
+
+{Kai} [Kai: Young, surprise / cara8-38]
+#Message#
+\."Cake...?"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."You wouldn't be able to taste it properly
+ if it followed poison training, yes?"
+##
+
+[Gashu: Young, default / cara16-17]
+{SE: Accent21-1}
+#Message#
+\."So give this next training your all."
+##
+
+{Kai} [Kai: Young, smile / cara8-40]
+#Message#
+\."Y... Yes, Father!"
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\."Hm."
+##
+
+{Kai} [Kai: Young, default / cara8-36]
+#Message#
+\C[4](...)
+##
+
+#Choice#
+I wonder who I'll be meeting?
+I wonder what kind of cake?
+##
+
+<誰を紹介するんだろう？>
+
+{Kai} [Kai: Young, surprise / cara8-38]
+{SE: Accent40-1}
+#Message#
+\C[4](Who will he be introducing to me, I wonder...)
+##
+
+[Kai: Young, default / cara8-36]
+#Message#
+\C[4](Another new instructor, perhaps? *sigh*...)
+##
+
+<何の種類のケーキだろう？>
+
+{Kai} [Kai: Young, closed-eyes smile / cara8-41]
+{SE: Accent40-1}
+#Message#
+\C[4](Haha, I wonder what kind of cake it'll be?)
+##
+
+[Kai: Young, smile / cara8-40]
+#Message#
+\C[4](Chocolate cake? A Mont Blanc...? Ooh...
+ I'll have to get my sense of taste back to normal!)
+##
+
+<Choice End>
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent28-1}
+#Message#
+"It appears you've finished."
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids / cara8-49]
+#Message#
+\."*pant*... *pant*... Yes..."
+##
+
+[Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."Urk..."
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+{SE: Equip2}
+#Message#
+\."..."
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+{SE: Accent21-1}
+#Message#
+\."Th... Thank you so much, Father..."
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\."...Stand on your own two feet."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You're being watched.
+ Don't show such miserable weakness."
+##
+
+{Kai} [Kai: Young, surprise / cara8-38]
+#Message#
+\."Eh...?"
+##
+
+{???} [Sei: Default grin / cara18-11]
+{SE: Accent28-1}
+#Message#
+"Suckin' up, huh? That's a riot."
+##
+
+{Kai} [Kai: Young, surprise / cara8-38]
+#Message#
+\."Who are you...?"
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+{SE: Accent21-1}
+#Message#
+\."His name is \C[2]Sei\C[0]."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+#Message#
+\."He has similarly undergone training by
+ the organization, at the same age as you...
+ and is similarly excellent."
+##
+
+{Sei} [Sei: Surprise / cara18-14]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."This guy, excellent? You for real?"
+##
+
+{Kai} [Kai: Young, lowered eyelids, closed mouth / cara8-46]
+#Message#
+\."What was that...?!"
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\."Calm down, you two."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Certain circumstances have left Sei
+ with nowhere to stay at present."
+##
+
+[Gashu: Young, default / cara16-17]
+{SE: sceneswitch2}
+#Message#
+\."So from today forth, I have arranged for him
+ to become part of our family."
+##
+
+{Kai} [Kai: Young, surprise / cara8-38]
+#Message#
+\."What do you mean by that...?!"
+##
+
+{Sei} [Sei: Surprise / cara18-14]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Whoa, really slow on the uptake, aren'tcha?
+ Didn't you just hear him?"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent21-1}
+#Message#
+\."I mean that Sei will be your sibling, Kai."
+##
+
+{Kai} [Kai: Young, surprise / cara8-38]
+{SE: Jump1}
+#Message#
+\."You mean..."
+##
+
+#Choice#
+My little brother...?
+My little sister...?
+##
+
+<弟ってこと…？>
+
+{Kai} [Kai: Young, default / cara8-36]
+{SE: Accent40-1}
+#Message#
+\."My... little brother?"
+##
+
+{Sei} [Sei: Angry / cara18-15]
+#Message#
+\."Don't goof with me!
+ Why the hell would I be below you, huh?"
+##
+
+<妹ってこと…？>
+
+{Kai} [Kai: Young, default / cara8-36]
+{SE: Accent40-1}
+#Message#
+\."My... little sister?"
+##
+
+{Sei} [Sei: Angry / cara18-15]
+#Message#
+\."S-Shaddup! You tryin' to rile me up?!"
+##
+
+[Sei: Half-closed eyes / cara18-16B]
+#Message#
+\."Listen here, punk, I'm not your little ANYTHING."
+##
+
+<Choice End>
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: flash-of-light-3}
+#Message#
+\."The superior one must be called "big brudder"!
+ Got that, bastard?"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Ah... that's most amusing."
+##
+
+{Kai} [Kai: Young, lowered eyelids / cara8-45]
+#Message#
+\."F-Father! I'm not amused!"
+##
+
+{Gashu} [Gashu: Young, eyes closed / cara16-22]
+#Message#
+\."No, the eldest son must be the superior one."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Become a person worthy of carrying the Satou family."
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Yessiree! You can count on me!"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Indeed. Have you anything else to say, Kai?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\.\C[4](What... is going on?!)
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."At any rate, you two will undergo the same training.
+ It is a settled matter."
+##
+
+{Kai} [Kai: Young, lowered eyelids, closed mouth / cara8-46]
+#Message#
+\."You want us to... compete, then?"
+##
+
+{Gashu} [Gashu: Young, open-mouth smile / cara16-19]
+{SE: Accent21-1}
+#Message#
+\."Both of you, show me your capabilities
+ to their fullest extent. I expect much of you."
+##
+
+{Sei} [Sei: Default grin / cara18-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Gotcha, pops.
+ ...Err, old man Gashu, I guess."
+##
+
+{Kai} [Kai: Young, lowered eyelids, closed mouth / cara8-46]
+{SE: Accent42-1}
+#Message#
+\.\C[4](Y... You...!)
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Well, that's enough introduction.
+ Let us eat the cake."
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+\."Blech... It's all tiramisu, dad?"
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+{SE: shine3}
+#Message#
+\."...?
+ Well, tiramisu is the most delicious."
+##
+
+{Sei} [Sei: Half-closed eyes, looking straight ahead / cara18-16]
+{SE: shrink1}
+#Message#
+\."Yeah, yeah..."
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+#Message#
+\.\C[4](...)
+##
+
+{SE: Accent21-1}
+#Message#
+"Why... has this happened...?"
+##
+
+[Kai: Young, sad / cara8-43]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\c[4](Did Father bring in that crude boy...
+ because he considered me a disappointment...?)
+##
+
+[Kai: Young, horrified, sad / cara8-47]
+#Message#
+\.\c[4](Has he given up on me...?)
+##
+
+{Sei} [Sei: Surprise / cara18-14]
+{SE: Jump2}
+#Message#
+\."Oh? Whatcha mopin' about now?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."Waugh...! Sei!"
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+#Message#
+\."Do I freak you out that much, bastard?"
+##
+
+{Kai} [Kai: Young, lowered eyelids / cara8-45]
+#Message#
+\."Shut up! I'm Kai! Call me by my name!"
+##
+
+{Sei} [Sei: Half-closed eyes, raised eyebrows / cara18-25]
+{SE: stupid3}
+#Message#
+\."...Haaah?"
+##
+
+[Sei: Half-closed eyes, looking straight ahead / cara18-16]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Hmm, maybe if you call me "big brudder"...?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+{SE: Accent42-1}
+#Message#
+\."..."
+##
+
+#Choice#
+I'm taller, you know
+I'm stronger, you know
+I'm smarter, you know
+Okay, big brudder
+##
+
+<ボクの方が背が高い>
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+{SE: Accent40-1}
+#Message#
+\."I'm taller, you know."
+##
+
+{Sei} [Sei: Half-closed eyes, looking straight ahead / cara18-16]
+{SE: shrink1}
+#Message#
+\."Nuh-uh, you're definitely a shorty next to me."
+##
+
+{Kai} [Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."D-Don't pet me! How rude can you be?!"
+##
+
+<ボクの方が強い>
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+{SE: Accent40-1}
+#Message#
+\."I'm stronger, you know."
+##
+
+{Sei} [Sei: Angry / cara18-15]
+{SE: SIN-Motion-Grab01-1}
+#Message#
+\."Oh yeah? Wanna find out, bastard?"
+##
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+{SE: Accent21-1}
+#Message#
+\."Let go of me, Sei."
+##
+
+{Sei} [Sei: Angry / cara18-15]
+#Message#
+\."Don't get cocky, dammit!"
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+{SE: Accent42-1}
+#Message#
+\."..."
+##
+
+<ボクの方が賢い>
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+{SE: Accent40-1}
+#Message#
+\."I'm smarter, you know."
+##
+
+{Sei} [Sei: Half-closed eyes, looking straight ahead / cara18-16]
+{SE: shrink1}
+#Message#
+\."Ain't that a thing dumbasses say?"
+##
+
+{Kai} [Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."I was taught by Father!
+ I won't stand for you disparaging him!"
+##
+
+{Sei} [Sei: Half-closed eyes, looking straight ahead / cara18-16]
+#Message#
+\."Your pops has gotta shave that stubble."
+##
+
+{Kai} [Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."What stubble?!"
+##
+
+<おにいちゃん>
+
+{Kai} [Kai: Young, lowered eyelids, closed mouth / cara8-46]
+{SE: Accent40-1}
+#Message#
+\."A... All right... big brudder..."
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ooh, what a good little listener you are, Kai!"
+##
+
+{Kai} [Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."D-Don't pet me! How rude can you be?!"
+##
+
+<Choice End>
+
+{Sei} [Sei: Surprise, raised eyebrows / cara18-24]
+#Message#
+\."Whoa!"
+##
+
+[Sei: Angry / cara18-15]
+#Message#
+"Bastard...! You gonna lash out at me?!"
+##
+
+{Kai} [Kai: Young, eyes shut, mouth open / cara8-44]
+#Message#
+\."Enough! Don't come near me!"
+##
+
+{Sei} [Sei: Angry / cara18-15]
+{SE: sceneswitch2}
+#Message#
+\."Cheeky little squirt...
+ This calls for some discipline!"
+##
+
+{N/A}
+{SE: WON-robo2}
+#Message#
+\C[3]It's a battle with Sei!\|
+##
+
+#Message#
+\C[3]Kai: Attack ... \V[422]   Health ... \V[423]
+Sei: Attack ... \V[424]   Health ... \V[425]
+##
+
+#Choice#
+Attack head
+Attack torso
+Attack legs
+Do nothing
+##
+
+<頭部へ攻撃>
+
+{N/A} [Sei: Angry / cara18-15]
+#Message#
+\C[3]Your attack on his \V[428] was blocked!
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+#Message#
+\."Hah, too easy."
+##
+
+{N/A} [Sei: Angry / cara18-15]
+#Message#
+\C[3]You landed an attack on his \V[428]!
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+\."You little..."
+##
+
+[Sei: Half-closed eyes, looking straight ahead / cara18-16]
+#Message#
+\."N-Not too shabby, bastard..."
+##
+
+[Sei: Lowered eyebrows, mouth open / cara18-20]
+#Message#
+\."Urgh..."
+##
+
+<胴部へ攻撃>
+
+<脚部へ攻撃>
+
+<なにもしない>
+
+{N/A} [Sei: Lowered eyebrows, mouth open / cara18-20]
+{SE: Accent39-1}
+#Message#
+\C[3]You did nothing.
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+\."You mockin' me, bastard?"
+##
+
+<Choice End>
+
+{Sei} [Sei: Angry / cara18-15]
+{SE: Attack1}
+#Message#
+\."My turn."
+##
+
+{N/A}
+#Message#
+\C[3]Kai: Attack ... \V[422]   Health ... \V[423]
+Sei: Attack ... \V[424]   Health ... \V[425]
+##
+
+#Choice#
+Protect head
+Protect torso
+Protect legs
+Do nothing
+##
+
+<頭を守る>
+
+{N/A} [Sei: Angry / cara18-15]
+{SE: Sword2}
+#Message#
+\C[3]Parried an attack to your \V[428]!
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+\."Huh, not bad..."
+##
+
+{N/A} [Sei: Angry / cara18-15]
+#Message#
+\C[3]Took an attack to the \V[428]!
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."Ggh... Agh...!"
+##
+
+<胴を守る>
+
+<脚を守る>
+
+<なにもしない>
+
+<Choice End>
+
+{Kai} [Kai: Young, closed-eyes smile, mouth open / cara8-42]
+#Message#
+"I did it...! I won..."
+##
+
+{Sei} [Sei: Angry / cara18-15]
+{SE: Attack2}
+#Message#
+\."...You're wide open!"
+##
+
+{Kai} [Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."Augh...!!"
+##
+
+{Sei} [Sei: Default grin / cara18-11]
+#Message#
+\."Such a shame, little bro."
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids / cara8-49]
+#Message#
+\."T... That's unfair...!"
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+#Message#
+\."We're gonna be killers, aren't we?
+ What's "fairness" mean there?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."Guh...!"
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: Accent21-1}
+#Message#
+\."Might makes right - end of story.
+ Smell ya."
+##
+
+[Sei: Default grin / cara18-11]
+#Message#
+"Guess that's all you got, huh, little bro?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."...!!"
+##
+
+{Sei} [Sei: Surprise / cara18-14]
+#Message#
+\."Gonna reply? Gonna call me big brudder?"
+##
+
+{Kai} [Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."...Who would...?!"
+##
+
+{Sei} [Sei: Half-closed eyes, looking straight ahead / cara18-16]
+#Message#
+\."The hell, man, you promised!"
+##
+
+[Sei: Closed-eyes smile / cara18-13]
+{SE: Accent21-1}
+#Message#
+\."We're gonna be killers, aren't we?
+ Oughta learn that might makes right, yeah?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Sei... damn you..."
+##
+
+[Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."I can't lose... to someone like him...!"
+##
+
+[Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."Next time, I'll...!"
+##
+
+#Message#
+\."..."
+##
+
+[Kai: Young, horrified, crying, closed mouth / cara8-53]
+{SE: Accent21-1}
+#Message#
+\."...urgh... *sniff*..."
+##
+
+{N/A}
+#Message#
+"Oho..."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent21-1}
+#Message#
+"So then, Sei won the battle?"
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: shrink1}
+#Message#
+\."He was a total pushover, dad."
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+#Message#
+\.".........."
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\.".........."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kai. I'm disappointed in you."
+##
+
+{Kai} [Kai: Young, sad / cara8-43]
+#Message#
+\."...My apologies."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: sceneswitch2}
+#Message#
+\."You must at least maintain your promise."
+##
+
+[Gashu: Young, default / cara16-17]
+#Message#
+\."You did promise in front of me, did you not?"
+##
+
+{Kai} [Kai: Young, sad / cara8-43]
+#Message#
+\."..."
+##
+
+{Sei} [Sei: Default grin / cara18-11]
+{SE: Jump2}
+#Message#
+\."Hmm? What's wrooong?
+ Something stuck in your ears, Kai?"
+##
+
+{Kai} [Kai: Young, sad / cara8-43]
+#Message#
+\."..."
+##
+
+[Kai: Young, lowered eyelids, closed mouth / cara8-46]
+#Message#
+\."...I ad..."
+##
+
+[Kai: Young, lowered eyelids / cara8-45]
+#Message#
+\."I admit... defeat..."
+##
+
+[Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...big... brudder."
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Ha ha ha, sure thing! I'll forgive you!"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\.\C[4](Ugh...!!)
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent21-1}
+#Message#
+\."...Do you feel vexed, Kai?"
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."Father..."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: sceneswitch2}
+#Message#
+\."If you're regretful, then crawl your way up.
+ ...For that was not yet a real battle."
+##
+
+{Kai} [Kai: Young, sad / cara8-43]
+#Message#
+\."..."
+##
+
+{Sei} [Sei: Default grin / cara18-11]
+#Message#
+\."Hey dad, you got anything for me?"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent28-1}
+#Message#
+\."Right. You did well, Sei."
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+#Message#
+\."...Heh heh! Right?! Aren't I the greatest?!"
+##
+
+{Gashu} [Gashu: Young, open-mouth smile / cara16-19]
+{SE: shine3}
+#Message#
+\."I shall prepare you tiramisu."
+##
+
+{Sei} [Sei: Half-closed eyes, looking straight ahead / cara18-16]
+{SE: stupid3}
+#Message#
+\."...Ahh, hmph. Tiramisu resistance training
+ might be the toughest of all..."
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+#Message#
+\.".........."
+##
+
+[Kai: Young, lowered eyelids, closed mouth / cara8-46]
+{SE: heart2}
+#Message#
+\.\C[4](Father... He hasn't forsaken me, I'm sure of it!)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I need... I need to be stronger...!)
+##
+
+{N/A}
+#Message#
+"*cough*...! *cough*...!"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+"Please... please train me more, teacher!"
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\."H-Hey, take a little break.
+ Any more than this would just be..."
+##
+
+{Sei} [Sei: Angry / cara18-15]
+#Message#
+\."*gasp*... *pant*...!
+ H-Hey, me too!"
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\."Alright, alright...!
+ I'll teach you if you stop glaring like that!"
+##
+
+#Message#
+\.\C[4](What's gotten into these kids...?)
+##
+
+{SE: Accent21-1}
+#Message#
+\."Okay, I'll let you pick. What do you want to train?"
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I want to learn..."
+##
+
+#Choice#
+Offensive techniques
+Stamina building
+Actually, I'll sleep
+##
+
+<攻撃の技術>
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+{SE: Accent40-1}
+#Message#
+"Offensive techniques!"
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\."Alright! Attack training it is! Pay close attention!"
+##
+
+{N/A} [Kai: Young, furrowed brow / cara8-39]
+{SE: heal01}
+#Message#
+\.\C[3]Kai's Attack went up by 1!
+##
+
+<体力作り>
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+{SE: Accent40-1}
+#Message#
+"Stamina building!"
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\."Okay! Stamina building! Follow my lead!"
+##
+
+{N/A} [Kai: Young, furrowed brow / cara8-39]
+{SE: heal01}
+#Message#
+\.\C[3]Kai's Health went up by 2!
+##
+
+<やっぱり寝ます>
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+#Message#
+"Actually, I'll sleep!"
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+\."Augh, that's dirty! You sent me into a trap, bastard!"
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\.\C[4](Phew, good...)
+##
+
+<Choice End>
+
+{Training Instructor} [Training Instructor / cara999-4]
+{SE: Accent28-1}
+#Message#
+\."Well then, that's all for today!"
+##
+
+{Kai} [Kai: Young, lowered eyelids / cara8-45]
+{SE: down3}
+#Message#
+\."*pant*... *pant*..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Just you wait, Sei...!)
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+"How is that child doing?"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent21-1}
+#Message#
+"...Do you mean Kai?"
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: Accent41-1}
+#Message#
+\."Incorrect, Gashu.
+ The one you took in."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent21-1}
+#Message#
+\."...Sei? He's absolutely stellar."
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."You don't look too happy about it, considering."
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+#Message#
+\."No, that's not..."
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The biased affection of a parent... creates tragedy."
+##
+
+#Message#
+\."Children are delicate creatures, Gashu."
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+{SE: Accent21-1}
+#Message#
+\."..."
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."Ah, it seems those two are training outside."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\.".........."
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+"*gasp*... *pant*... Teacher, what's the next task?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."I... I'll undergo it too... teacher."
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\."You're still at it...?!
+ You two... you're going to die like that, I mean it!"
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Heh heh... Then let's bring him an early death, huh?"
+##
+
+{Kai} [Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."As if I'd die before you, big brudder...!"
+##
+
+{Sei} [Sei: Angry / cara18-15]
+#Message#
+\."What was that, bastard?!"
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\."Stop it already!
+ Fine, what do you want to learn next?"
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I want to learn..."
+##
+
+#Choice#
+Offensive techniques
+Stamina building
+Actually, I'll sleep
+##
+
+<攻撃の技術>
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+{SE: Accent40-1}
+#Message#
+"Offensive techniques!"
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\."Alright! Attack training it is! Ready yourself!"
+##
+
+{N/A} [Kai: Young, furrowed brow / cara8-39]
+{SE: heal01}
+#Message#
+\.\C[3]Kai's Attack went up by 1!
+##
+
+<体力作り>
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+{SE: Accent40-1}
+#Message#
+"Stamina building!"
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\."Okay! Stamina building! Start running!"
+##
+
+{N/A} [Kai: Young, furrowed brow / cara8-39]
+{SE: heal01}
+#Message#
+\.\C[3]Kai's Health went up by 2!
+##
+
+<やっぱり寝ます>
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+#Message#
+"Actually, I'll sleep!"
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+\."Huh?! If you're sleeping, so am I!"
+##
+
+{Training Instructor} [Training Instructor / cara999-4]
+#Message#
+\.\C[4](Whew...)
+##
+
+<Choice End>
+
+{Training Instructor} [Training Instructor / cara999-4]
+{SE: Accent28-1}
+#Message#
+\."Well then, that's all for today!"
+##
+
+{Kai} [Kai: Young, lowered eyelids / cara8-45]
+{SE: down3}
+#Message#
+\."Thank... you... very much..."
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+{SE: Accent21-1}
+#Message#
+"...You two."
+##
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+#Message#
+\."Ah! Father!"
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Did you come to watch us train, dad?"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Right."
+##
+
+[Gashu: Young, default / cara16-17]
+{SE: Accent21-1}
+#Message#
+\."An executive came to visit today.
+ And offered the greatest of praise for you."
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Heh heh! Really? Awright!"
+##
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+#Message#
+\."..."
+##
+
+[Kai: Young, narrowed eyes / cara8-37]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...What did you think, Father?"
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\.".........."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+#Message#
+\."This will not cut it... you can grow further still."
+##
+
+[Gashu: Young, default / cara16-17]
+{SE: Accent21-1}
+#Message#
+\."Rather... both of you can."
+##
+
+{Sei} [Sei: Closed-eyes grin / cara18-12]
+#Message#
+\."..."
+##
+
+[Sei: Closed-eyes smile / cara18-13]
+#Message#
+\."Heh! That's right! I'm gonna be way more amazing
+ than somebody like Kai, for sure!"
+##
+
+{Kai} [Kai: Young, lowered eyelids / cara8-45]
+#Message#
+\."I-I'm not letting you beat me either! ...Uh, sir!"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent28-1}
+#Message#
+\."I have high hopes for you, Kai, Sei."
+##
+
+{Kai} [Kai: Young, default / cara8-36]
+#Message#
+\."..."
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I definitely did the better job
+ showing my stuff today, don'tcha think?"
+##
+
+{Kai} [Kai: Young, narrowed eyes / cara8-37]
+#Message#
+\."Ahem..."
+##
+
+[Kai: Young, lowered eyelids / cara8-45]
+{SE: Accent21-1}
+#Message#
+\."Big brudder... you haven't been
+ speaking to Father with respect."
+##
+
+{Sei} [Sei: Surprise / cara18-14]
+#Message#
+\."Hwah...?"
+##
+
+{Kai} [Kai: Young, lowered eyelids / cara8-45]
+{SE: sceneswitch2}
+#Message#
+\."Call him Father. Use proper language."
+##
+
+{Sei} [Sei: Half-closed eyes, raised eyebrows / cara18-25]
+{SE: Jump1}
+#Message#
+\."He never tells me I gotta do that."
+##
+
+[Sei: Closed-eyes smile / cara18-13]
+{SE: shrink1}
+#Message#
+\."Geez, that's a weakling for ya. Scrambling for ways
+ to score points even where it doesn't matter..."
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."What...?!"
+##
+
+{Sei} [Sei: Default grin / cara18-11]
+#Message#
+\."Whaaat?
+ I gotta beat you senseless again for you to get it?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."Ugh...!!"
+##
+
+[Kai: Young, horrified, lowered eyelids / cara8-49]
+#Message#
+\."You're just..."
+##
+
+[Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+{SE: horror_piano chord3}
+#Message#
+\."You were always just... an outsider, and yet...!"
+##
+
+{Sei} [Sei: Default grin / cara18-11]
+#Message#
+\.".........."
+##
+
+[Sei: Half-closed eyes, raised eyebrows / cara18-25]
+{SE: Accent21-1}
+#Message#
+\."Fine, I get you. You really want a butt-kicking, huh?"
+##
+
+[Sei: Angry / cara18-15]
+#Message#
+\."I'll spoil you rotten, my useless little brother!"
+##
+
+{N/A}
+{SE: WON-robo2}
+#Message#
+\C[3]It's the second battle with Sei!\|
+##
+
+#Message#
+\C[3]Kai: Attack ... \V[422]   Health ... \V[423]
+Sei: Attack ... \V[424]   Health ... \V[425]
+##
+
+#Choice#
+Attack head
+Attack torso
+Attack legs
+Do nothing
+##
+
+<頭部へ攻撃>
+
+{N/A} [Sei: Angry / cara18-15]
+#Message#
+\C[3]Your attack on his \V[428] was blocked!
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+#Message#
+\."Hah, too easy."
+##
+
+{N/A} [Sei: Angry / cara18-15]
+#Message#
+\C[3]You landed an attack on his \V[428]!
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+\."You little..."
+##
+
+[Sei: Lowered eyebrows, mouth open / cara18-20]
+#Message#
+\."N-Not too shabby, bastard..."
+##
+
+[Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\."Urgh..."
+##
+
+<胴部へ攻撃>
+
+<脚部へ攻撃>
+
+<なにもしない>
+
+{N/A} [Sei: Closed eyes, gritted teeth / cara18-18]
+{SE: Accent39-1}
+#Message#
+\C[3]You did nothing.
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+\."You mockin' me, bastard?"
+##
+
+<Choice End>
+
+{Sei} [Sei: Angry / cara18-15]
+{SE: Attack1}
+#Message#
+\."My turn."
+##
+
+{N/A}
+#Message#
+\C[3]Kai: Attack ... \V[422]   Health ... \V[423]
+Sei: Attack ... \V[424]   Health ... \V[425]
+##
+
+#Choice#
+Protect head
+Protect torso
+Protect legs
+Do nothing
+##
+
+<頭を守る>
+
+{N/A} [Sei: Angry / cara18-15]
+{SE: Sword2}
+#Message#
+\C[3]Parried an attack to your \V[428]!
+##
+
+{Sei} [Sei: Surprise, sweatdrop / cara18-17]
+#Message#
+\."Huh, not bad..."
+##
+
+{N/A} [Sei: Angry / cara18-15]
+#Message#
+\C[3]Took an attack to the \V[428]!
+##
+
+{Kai} [Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."Ggh... Agh...!"
+##
+
+[Kai: Young, horrified, lowered eyelids / cara8-49]
+#Message#
+\."N-Not yet...!"
+##
+
+<胴を守る>
+
+<脚を守る>
+
+<なにもしない>
+
+<Choice End>
+
+{Kai} [Kai: Young, horrified, lowered eyelids / cara8-49]
+#Message#
+"*pant*...! *pant*...!"
+##
+
+[Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\.\C[4](I...! I'm...!!)
+##
+
+{Sei} [Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\."..."
+##
+
+{Kai} [Kai: Young, surprise / cara8-38]
+{SE: sceneswitch2}
+#Message#
+\."Huh...?!"
+##
+
+[Kai: Young, horrified, sad / cara8-47]
+#Message#
+\C[4](What am I doing...?!)
+##
+
+[Kai: Young, horrified, lowered eyelids / cara8-49]
+#Message#
+\.\C[4](I was... about to...)
+##
+
+[Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\.\C[4](Deal the killing blow... on Sei...!!)
+##
+
+{Sei} [Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\."..."
+##
+
+[Sei: Lowered eyebrows, mouth open / cara18-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kill me, dummy..."
+##
+
+[Sei: Closed eyes, gritted teeth / cara18-18]
+{SE: Accent21-1}
+#Message#
+\."If you're... gonna be a killer... y'know?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+#Message#
+\."W... What are you saying..."
+##
+
+{Sei} [Sei: Lowered eyebrows, mouth open / cara18-20]
+#Message#
+"*pant*... *pant*..."
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."Again... ughh..."
+##
+
+{Sei} [Sei: Sad eyebrows, mouth closed / cara18-20B]
+{SE: Accent21-1}
+#Message#
+\."Such a weakling..."
+##
+
+[Sei: Lowered eyebrows, mouth open / cara18-20]
+#Message#
+\."You're weak... you're weak, and yet..."
+##
+
+[Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\.".........."
+##
+
+[Sei: Closed eyes, mouth open / cara18-18B]
+{SE: Accent41-1}
+#Message#
+\."...At least... be strong, would ya..."
+##
+
+[Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\."If it's gonna be this way... then what even am I...?!"
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."...?"
+##
+
+{Sei} [Sei: Lowered eyebrows, mouth open / cara18-20]
+#Message#
+\."I'm just... At any rate, I'm just...!"
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth closed / cara18-21]
+#Message#
+\."A tool for you to use...!!"
+##
+
+[Sei: Closed eyes, gritted teeth, worried eyebrows / cara18-19]
+#Message#
+\."No matter how hard I try... I'll just be a pawn...!!"
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."S... Sei...?"
+##
+
+{Sei} [Sei: Closed eyes, gritted teeth, worried eyebrows / cara18-19]
+#Message#
+\."I'm a rival, brought in to raise you up...!"
+##
+
+[Sei: Crying, mouth closed / cara18-26]
+{SE: Accent21-1}
+#Message#
+\."I knew that... from the start..."
+##
+
+[Sei: Crying, mouth open / cara18-27]
+#Message#
+\."I-It's not like, like he...
+ invited me into the family because he wanted to..."
+##
+
+[Sei: Crying, mouth closed / cara18-26]
+#Message#
+\."No one's s-seriously looking at the likes of me..."
+##
+
+[Sei: Crying, mouth open / cara18-27]
+#Message#
+\."Some... some "dad" he is..."
+##
+
+[Sei: Crying, mouth closed / cara18-26]
+#Message#
+\."He... he's dead. My pops... my real dad..."
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."..."
+##
+
+{Sei} [Sei: Crying, mouth open / cara18-27]
+#Message#
+\."All this shady organization crap... it's so stupid..."
+##
+
+[Sei: Crying, mouth closed / cara18-26]
+#Message#
+\."Pops... you should've died sooner..."
+##
+
+[Sei: Crying, mouth open / cara18-27]
+#Message#
+\."If we can't meet anymore... then you should've
+ died before I was born, you bastard...!!"
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."Sei..."
+##
+
+{Sei} [Sei: Crying, mouth closed / cara18-26]
+#Message#
+\.".........."
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."..."
+##
+
+[Kai: Young, horrified, crying / cara8-51]
+{SE: Accent40-1}
+#Message#
+\."Sorry..."
+##
+
+{Sei} [Sei: Crying, mouth closed / cara18-26]
+#Message#
+\.".........."
+##
+
+[Sei: Crying, mouth open / cara18-27]
+#Message#
+\."...W... Why you gotta apologize...?"
+##
+
+{Kai} [Kai: Young, horrified, crying / cara8-51]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm sorry... I'm sorry, Sei..."
+##
+
+{Sei} [Sei: Crying, mouth open / cara18-27]
+#Message#
+\."...*sniff*... Oooogh...!!"
+##
+
+{N/A}
+#Message#
+\C[3]I felt like I was hearing Sei's real voice
+for the first time.
+##
+
+#Message#
+\.\C[3]You... could do nothing but fight.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]You wanted recognition for never losing.
+##
+
+#Message#
+\.\C[3]I get it. Because.. I wanted recognition for winning.
+##
+
+#Message#
+\.\C[3]…
+##
+
+{Kai}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Hey... Sei."
+##
+
+{Sei}
+#Message#
+"What... the hell is it..."
+##
+
+{Kai}
+#Message#
+"Father... he's strict..."
+##
+
+{Sei}
+#Message#
+"...Yeah..."
+##
+
+{Kai}
+#Message#
+"So his moments of kindness... are very few."
+##
+
+{Sei}
+#Message#
+"..."
+##
+
+{Kai}
+#Message#
+"...That's why..."
+##
+
+{SE: Accent40-1}
+#Message#
+"I didn't want even those short moments...
+ to go to someone else..."
+##
+
+{Sei}
+#Message#
+"..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Yeah..."
+##
+
+{N/A}
+#Message#
+\C[3]Affection...
+##
+
+#Message#
+\C[3]A thing with no physical form.
+##
+
+#Message#
+\C[3]And yet, perhaps we were both starved for it...
+##
+
+{Kai} [Kai: Young, smile / cara8-40]
+{SE: Accent28-1}
+#Message#
+"*pant*, *pant*... Looks like I win today!"
+##
+
+{Sei} [Sei: Angry / cara18-15]
+#Message#
+\."D-Don't be stupid! We've still got two tasks left...!"
+##
+
+{Kai} [Kai: Young, smile / cara8-40]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Hmm... Won't you give in, Sei?"
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+#Message#
+\."I'm gonna make you weep, Kai!"
+##
+
+{Kai} [Kai: Young, closed-eyes smile, mouth open / cara8-42]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Ahaha! Then let's give this next one our all!"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent21-1}
+#Message#
+\."You two look energetic."
+##
+
+{Kai} [Kai: Young, furrowed brow / cara8-39]
+#Message#
+\."Father! Y-Yes!"
+##
+
+{Sei} [Sei: Surprise / cara18-14]
+{SE: Jump2}
+#Message#
+\."Yeah, well."
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\."Hm..."
+##
+
+#Message#
+\.".........."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: Accent28-1}
+#Message#
+\."Sei, have you gotten a bit taller?"
+##
+
+{Sei} [Sei: Surprise / cara18-14]
+#Message#
+\."Huh...?! G-Good eye..."
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\."...But of course."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: Accent40-1}
+#Message#
+\."I'm always watching you, after all."
+##
+
+{Sei} [Sei: Half-closed eyes surprise, raised eyebrows / cara18-29]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...!"
+##
+
+[Sei: Closed-eyes smile / cara18-13]
+#Message#
+\."D-Don't be embarrassing! Let's go, Kai!"
+##
+
+{Kai} [Kai: Young, smile / cara8-40]
+#Message#
+\."Yeah!"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Right. Take care."
+##
+
+[Gashu: Young, default / cara16-17]
+#Message#
+\.".........."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Hm... hold on, you two."
+##
+
+{Kai} [Kai: Young, surprise / cara8-38]
+#Message#
+\."Yes...?"
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+#Message#
+\."E-Erm..."
+##
+
+[Gashu: Young, looking to side / cara16-29]
+{SE: Accent21-1}
+#Message#
+\."It seems... I may be able to get a rare holiday.
+ Only for one day, but..."
+##
+
+{Sei} [Sei: Surprise, raised eyebrows / cara18-24]
+#Message#
+\."Wha...?"
+##
+
+{Gashu} [Gashu: Young, open-mouth smile / cara16-19]
+{SE: Accent28-1}
+#Message#
+\."Let us go on an outing somewhere. ...As a family."
+##
+
+{Kai} [Kai: Young, surprise / cara8-38]
+#Message#
+\."R-Really?!"
+##
+
+{Sei} [Sei: Closed-eyes smile / cara18-13]
+{SE: flash-of-light-3}
+#Message#
+\."Alright! I'm so pumped!"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Ahem. Very well then, that's enough talk.
+ Get to your training now."
+##
+
+{Kai} [Kai: Young, closed-eyes smile, mouth open / cara8-42]
+{SE: Accent24-1}
+#Message#
+\."Yes, sir!!"
+##
+
+{Gashu} [Gashu: Young, default / cara16-17]
+#Message#
+\."Hah..."
+##
+
+[Gashu: Young, closed-mouth smile / cara16-34]
+{SE: Accent21-1}
+#Message#
+\."Perhaps I'll re-examine my schedule..."
+##
+
+[Gashu: Young, mouth open / cara16-18]
+{SE: Accent21-1}
+#Message#
+"...So you see, Kai and Sei have undeniably
+ grown to be essential assets to the organization."
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Wonderful work."
+##
+
+#Message#
+\."These results exceed those of any other house.
+ Those two may just..."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: sceneswitch2}
+#Message#
+\."I don't doubt they'll be first-class assassins."
+##
+
+[Gashu: Young, default / cara16-17]
+#Message#
+\."...So. Regarding the matter of our holiday..."
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: Accent21-1}
+#Message#
+\."...Gashu."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+#Message#
+\."Yes...?"
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: Accent41-1}
+#Message#
+\."When someone is first-class... you don't need two."
+##
+
+{Gashu} [Gashu: Young, raised eyebrow / cara16-20]
+#Message#
+\."...?"
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There may come a time...
+ for a trial meant to test assassins."
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: Accent21-1}
+#Message#
+\."...A trial... like what?"
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."My... are you not familiar?"
+##
+
+#Message#
+\."Why do you think we began raising assassins
+ from a variety of houses at all once?"
+##
+
+{Gashu} [Gashu: Young, mouth open / cara16-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Was it not... to form a powerful group with which
+ to take root in the underworld...?"
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: shrink1}
+#Message#
+\."Surely you jest. We've long since taken root."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."What we require is a powerful right-hand man."
+##
+
+{SE: Accent42-1}
+#Message#
+\."And indeed, one needs only one right hand."
+##
+
+{Gashu} [Gashu: Young, eyes closed, sweating / cara16-32]
+#Message#
+\."...I don't understand what you're saying."
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."Oh, but I'm sure you do, Gashu."
+##
+
+{Gashu} [Gashu: Young, furrowed brow, sweating / cara16-31]
+#Message#
+\."...!"
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."There should be no cause for fear, you know..."
+##
+
+{Gashu} [Gashu: Young, tired eyes, sweating / cara16-33]
+#Message#
+\."You...!!"
+##
+
+[Gashu: Young, tired eyes, shouting / cara16-28]
+#Message#
+\."Do you plan to have my sons... kill each other...?!"
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: Accent21-1}
+#Message#
+\."Not me. The organization does."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Gathering assassin candidates from each family,
+ a single assassin shall be decided upon."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Whether they're able to kill another human...
+ That is the final, and most essential quality we need."
+##
+
+{Gashu} [Gashu: Young, tired eyes, teeth angrily clenched / cara16-30]
+#Message#
+\."I can't support this...!"
+##
+
+[Gashu: Young, tired eyes, shouting / cara16-28]
+#Message#
+\."Surely the more talented assets you have,
+ the better...?!"
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."Oh, Gashu..."
+##
+
+{SE: shrink1}
+#Message#
+\."Don't tell me... you would defy the organization?"
+##
+
+{SE: shock1}
+#Message#
+\."It would seem you've raised them
+ with considerable affection..."
+##
+
+{Gashu} [Gashu: Young, tired eyes, teeth angrily clenched / cara16-30]
+#Message#
+\."...!!"
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."...Your true loyalty is now being tested."
+##
+
+{SE: Accent41-1}
+#Message#
+\."The organization is God.
+ Yes? Isn't that right?"
+##
+
+{Gashu} [Gashu: Young, tormented / cara16-24]
+#Message#
+\."..."
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."God is preparing to offer you a fantastic seat...
+ You, and your family..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."However, should you defy God...
+ their blood will surely spill."
+##
+
+{Gashu} [Gashu: Young, tormented / cara16-24]
+#Message#
+\."...!!"
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: Accent42-1}
+#Message#
+\."Go on, make your choice.
+ Will you perish in fear of God's power..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Or devote yourself to him, and become a hero?"
+##
+
+#Message#
+\."Choose, Gashu...!"
+##
+
+{Gashu} [Gashu: Young, tormented / cara16-24]
+{SE: heart2}
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Gashu: Young, tormented, mouth open / cara16-25]
+#Message#
+\."I... I..."
+##
+
+{Voice}
+{SE: Damage4}
+#Message#
+"Aaaaaaggghhh!!"
+##
+
+{SE: feed1}
+#Message#
+"S-Stop!! Urk...!"
+##
+
+{SE: feed1}
+#Message#
+"Dammit... I'll kill... you...!!"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids / cara8-49]
+{SE: Accent28-1}
+#Message#
+\."*pant*...! *pant*...! Sei!! Where...?!"
+##
+
+{Sei} [Sei: Surprise, raised eyebrows / cara18-24]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...I'm here."
+##
+
+{Kai} [Kai: Young, smile / cara8-40]
+{SE: Accent21-1}
+#Message#
+\."Thank goodness!! You're... alive...?!"
+##
+
+[Kai: Young, lowered eyelids / cara8-45]
+#Message#
+\."Let's run, Sei! Let's get off this island...!!"
+##
+
+{Sei} [Sei: Surprise / cara18-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why?"
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."What do you mean, why?! You don't know?!
+ They... they've all gone insane!!"
+##
+
+[Kai: Young, horrified, lowered eyelids / cara8-49]
+#Message#
+\."That one in the green clothes back there...
+ He killed someone! The others... killed each other...!"
+##
+
+{Sei} [Sei: Surprise, raised eyebrows / cara18-24]
+{SE: Accent41-1}
+#Message#
+\."...I've killed two people already."
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."Sei...!!"
+##
+
+{Sei} [Sei: Half-closed eyes, raised eyebrows / cara18-25]
+#Message#
+\."The hell, man... This ain't the time
+ to suggest fighting together, is it?"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids / cara8-49]
+#Message#
+\."Idiot! Assassins don't need to
+ murder each other like this!"
+##
+
+[Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."There's no reason to take part in this...!"
+##
+
+{Sei} [Sei: Sad eyebrows, mouth closed / cara18-20B]
+{SE: Accent21-1}
+#Message#
+\."Then where are you gonna live?"
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."Where am I...?"
+##
+
+{Sei} [Sei: Lowered eyebrows, mouth open / cara18-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We were... trained to kill people."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+{SE: sceneswitch2}
+#Message#
+\."If we aren't able to kill... our life has no value..."
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."That's..."
+##
+
+{Sei} [Sei: Sad eyebrows, mouth closed / cara18-20B]
+#Message#
+\."..."
+##
+
+[Sei: Lowered eyebrows, mouth open / cara18-20]
+{SE: Accent21-1}
+#Message#
+\."I'll kill you."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth closed / cara18-21]
+{SE: Accent42-1}
+#Message#
+\."If you're that torn up over it,
+ then I'll take you out, ya bastard."
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."Sei... don't spout such foolish things..."
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+#Message#
+\."What's the problem? You're worthless right now."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth closed / cara18-21]
+#Message#
+\."...Get ready to die."
+##
+
+{N/A} [Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+{SE: sceneswitch2}
+#Message#
+\C[3]It's a real battle with Sei.\|
+##
+
+#Message#
+\C[3]Kai: Attack ... \V[422]   Health ... \V[423]
+Sei: Attack ... \V[424]   Health ... \V[425]
+##
+
+#Choice#
+Attack head
+Attack torso
+Attack legs
+Do nothing
+##
+
+<頭部へ攻撃>
+
+{N/A} [Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+#Message#
+\C[3]Your attack on his \V[428] was blocked.
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth closed, sweating / cara18-23]
+#Message#
+\."...!"
+##
+
+{N/A} [Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+#Message#
+\C[3]You landed an attack on his \V[428].
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth closed, sweating / cara18-23]
+#Message#
+\."...Urk..."
+##
+
+#Message#
+\."Guh...!"
+##
+
+<胴部へ攻撃>
+
+<脚部へ攻撃>
+
+<なにもしない>
+
+{N/A} [Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+#Message#
+\C[3]You did nothing.
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."I don't... want this..."
+##
+
+<Choice End>
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+{SE: Attack1}
+#Message#
+\."My turn."
+##
+
+{N/A}
+#Message#
+\C[3]Kai: Attack ... \V[422]   Health ... \V[423]
+Sei: Attack ... \V[424]   Health ... \V[425]
+##
+
+#Choice#
+Protect head
+Protect torso
+Protect legs
+##
+
+<頭を守る>
+
+{N/A} [Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+{SE: Sword2}
+#Message#
+\C[3]Parried an attack to your \V[428].
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth closed, sweating / cara18-23]
+#Message#
+\."..."
+##
+
+{N/A} [Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+{SE: Sword2}
+#Message#
+\C[3]Parried an attack to your \V[428].
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth open, sweating / cara18-22]
+#Message#
+\."Huh...?"
+##
+
+<胴を守る>
+
+<脚を守る>
+
+<Choice End>
+
+{Kai} [Kai: Young, horrified, lowered eyelids / cara8-49]
+#Message#
+"*pant*...! *pant*...!"
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth open, sweating / cara18-22]
+#Message#
+\."I'm not done yet...!"
+##
+
+{Kai} [Kai: Young, horrified, lowered eyelids, closed mouth / cara8-50]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Stop it already..."
+##
+
+[Kai: Young, horrified, sad / cara8-47]
+#Message#
+\."I... you..."
+##
+
+[Kai: Young, horrified, crying / cara8-51]
+#Message#
+\."I don't want... to kill you, Sei...!!"
+##
+
+{Sei} [Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Sei: Closed eyes, mouth open / cara18-18B]
+{SE: Accent21-1}
+#Message#
+\."Lately... you've always been like that.."
+##
+
+[Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\."You... and dad, too..."
+##
+
+{Kai} [Kai: Young, horrified, crying / cara8-51]
+#Message#
+\."..."
+##
+
+{Sei} [Sei: Closed eyes, mouth open / cara18-18B]
+#Message#
+\."Ever since... those holiday plans he promised...
+ fell through..."
+##
+
+[Sei: Closed eyes, gritted teeth, worried eyebrows / cara18-19]
+{SE: Accent40-1}
+#Message#
+\."Dad... became cold all of a sudden..."
+##
+
+[Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\."He had us do the most hellish training..."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."He stopped... treating us like humans."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth closed / cara18-21]
+{SE: Accent21-1}
+#Message#
+\."Even though, not too long ago...
+ he was the kinda guy to give us cake..."
+##
+
+{Kai} [Kai: Young, horrified, crying / cara8-51]
+#Message#
+\."..."
+##
+
+[Kai: Young, horrified, crying, eyes closed / cara8-52]
+#Message#
+\."Please... don't speak ill of Father...!"
+##
+
+[Kai: Young, horrified, crying / cara8-51]
+#Message#
+\."He simply... imposed a higher level
+ of training on us, that's all..."
+##
+
+{Sei} [Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\."That's wrong..."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+#Message#
+\."He started... earnestly teaching you alone...!"
+##
+
+{Kai} [Kai: Young, horrified, crying / cara8-51]
+#Message#
+\."...?!"
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth open, sweating / cara18-22]
+#Message#
+\."We were doing... the same training! But..."
+##
+
+[Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\."It was different... it definitely was!
+ When he was teaching you... dad... dad...!!"
+##
+
+{Kai} [Kai: Young, horrified, crying / cara8-51]
+#Message#
+\."That's not...!"
+##
+
+{Sei} [Sei: Closed eyes, mouth open / cara18-18B]
+#Message#
+\."Well, fine! So that's why...!
+ That's why I can't beat you anymore, Kai!"
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth closed / cara18-21]
+#Message#
+\."But in talent... in effort..."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+#Message#
+\."I'm not inferior to you, Kai! I haven't been bested!!"
+##
+
+{Kai} [Kai: Young, horrified, crying / cara8-51]
+#Message#
+\."Sei...!"
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth open / cara18-21B]
+#Message#
+\."Stop... stop looking down on me...!!"
+##
+
+[Sei: Closed eyes, gritted teeth / cara18-18]
+#Message#
+\."Don't you dare go easy on me!!"
+##
+
+[Sei: Closed eyes, mouth open / cara18-18B]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Kai... I thought you...
+ at least you would actually look at me...!"
+##
+
+{Kai} [Kai: Young, horrified, crying / cara8-51]
+#Message#
+\."..."
+##
+
+{Sei} [Sei: Closed eyes, gritted teeth, worried eyebrows / cara18-19]
+#Message#
+\."Take this seriously... I... I don't really..."
+##
+
+[Sei: Closed eyes, mouth open / cara18-18B]
+{SE: Accent21-1}
+#Message#
+\."My life... doesn't matter..."
+##
+
+{Kai} [Kai: Young, horrified, crying / cara8-51]
+#Message#
+\."..."
+##
+
+[Kai: Young, horrified, sad / cara8-47]
+{SE: Accent42-1}
+#Message#
+\."...?!"
+##
+
+[Kai: Young, horrified, eyes shut, mouth open / cara8-48]
+#Message#
+\."Sei! Watch out...!"
+##
+
+#Message#
+"Sei...!!"
+##
+
+{Sei}
+#Message#
+\.".........."
+##
+
+{Boy in Green}
+#Message#
+\."Gah...!!"
+##
+
+{Sei}
+#Message#
+"...Don't mock me..."
+##
+
+{Boy in Green}
+#Message#
+"Dammit... if I'd just offed you two..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I... would've... been... the...
+ ...winner..."
+##
+
+#Message#
+\."...Mom... I'm... sor... ry..."
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+"Sei...! Sei!!"
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth open, sweating / cara18-22]
+#Message#
+\."Gah...! Ugh... hh..."
+##
+
+{Kai} [Kai: Young, horrified, sad / cara8-47]
+#Message#
+\.\C[4](No!! A wound like this is...! Ahhh...!)
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth closed, sweating / cara18-23]
+#Message#
+\."..."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth open, sweating / cara18-22]
+#Message#
+\."Ahh, man..."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth closed, sweating / cara18-23]
+{SE: Accent21-1}
+#Message#
+\."I always... thought it'd end up like this..."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth open, sweating / cara18-22]
+#Message#
+\."Dying a damn miserable death...
+ Still without anybody's recognition..."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, mouth closed, sweating / cara18-23]
+#Message#
+\."Still inferior... to you..."
+##
+
+{Kai} [Kai: Young, horrified, crying, closed mouth / cara8-53]
+#Message#
+\."Don't speak!
+ I'll... I'll find a way to treat this!"
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth open, sweating / cara18-22]
+#Message#
+\."Hey... Kai..."
+##
+
+{SE: Accent43-1}
+#Message#
+"Could ya... kill me yourself...?"
+##
+
+{Kai} [Kai: Young, horrified, crying / cara8-51]
+#Message#
+"...?!"
+##
+
+{Sei} [Sei: Baggy eyes, lowered eyebrows, mouth open, sweating / cara18-22]
+#Message#
+\."Just... kinda... feels like..."
+##
+
+[Sei: Baggy eyes, lowered eyebrows, grin, sweating / cara18-30]
+{SE: Accent21-1}
+#Message#
+\."It wouldn't... feel... as lonely... that way..."
+##
+
+{Kai} [Kai: Young, horrified, crying, closed mouth / cara8-53]
+#Message#
+\."..."
+##
+
+#Choice#
+I...
+##
+
+<ボクは…>
+
+<Choice End>
+
+{N/A} [Kai: Young, horrified, crying, closed mouth / cara8-53]
+#Message#
+\C[3]I...
+##
+
+{SE: Accent40-1}
+#Message#
+\C[3]I embraced Sei in my arms.
+##
+
+{Sei}
+{SE: Accent21-1}
+#Message#
+"Huh...?"
+##
+
+{Kai}
+#Message#
+"..."
+##
+
+{Sei}
+#Message#
+"..."
+##
+
+#Message#
+\."...Kai..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Am I really... gonna die...?"
+##
+
+#Message#
+\."I'm scared..."
+##
+
+#Message#
+\."It's scary... Kai..."
+##
+
+#Message#
+\."Ka... i..."
+##
+
+#Message#
+\."..."
+##
+
+{N/A}
+#Message#
+\C[3]Soon, his voice faded.
+##
+
+#Message#
+\.\C[3]Just barely... I could still hear his breathing.
+##
+
+#Message#
+\.\C[3]A quiet sound, nearly erased by the wind.
+##
+
+#Message#
+\.\C[3]And that breath, too...
+##
+
+#Message#
+\.\C[3]After a swell that sent leaves into the air...
+##
+
+#Message#
+\.\C[3]I found it had vanished...
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: Accent28-1}
+#Message#
+"You've done it, Gashu."
+##
+
+#Message#
+\."With this... you will be able to conduct a duty
+ that is close to God indeed."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."How does it feel, having served your God?"
+##
+
+{Gashu} [Gashu: Young, tired eyes, frazzled / cara16-23]
+{SE: Accent21-1}
+#Message#
+"..."
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: Jump1}
+#Message#
+\."...You're happy, aren't you?"
+##
+
+{Gashu} [Gashu: Young, tired eyes, frazzled / cara16-23]
+#Message#
+\.\SP[20]"..........Yes..."
+##
+
+#Message#
+\.\SP[20]"...This is... the will... of God..."
+##
+
+#Message#
+\.\SP[20]"...I..."
+##
+
+#Message#
+\.\SP[20]"...have done... the right thing..."
+##
+
+{???} [Gashu's Superior / cara999-5]
+{SE: Accent21-1}
+#Message#
+\."...Exactly."
+##
+
+#Message#
+\."You have done well. Believe..."
+##
+
+{Gashu} [Gashu: Young, tired eyes, frazzled / cara16-23]
+#Message#
+\.\SP[20]"...Yes..."
+##
+
+#Message#
+\.\SP[20]"My heart... is with Asunaro..."
+##
+
+{???} [Gashu's Superior / cara999-5]
+#Message#
+\."Haha..."
+##
+
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Right, then. You ought to get your appearance
+ in proper order, Gashu."
+##
+
+{Gashu}
+#Message#
+"Kai..."
+##
+
+[Gashu: Young, short-haired, mouth open / cara16-27]
+{SE: Accent21-1}
+#Message#
+"Think only of your duty.
+ Discard all unnecessary feelings."
+##
+
+{Kai} [Kai: Past appearance as assassin / cara8-24]
+{SE: sceneswitch2}
+#Message#
+\."Yes."
+##
+
+{Gashu} [Gashu: Young, short-haired / cara16-26]
+#Message#
+\."Obey the organization, and be honored
+ to devote yourself to it."
+##
+
+[Gashu: Young, short-haired, mouth open / cara16-27]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Your life exists for the organization."
+##
+
+{Kai} [Kai: Past appearance as assassin / cara8-24]
+#Message#
+\."I understand."
+##
+
+{Gashu} [Gashu: Young, short-haired / cara16-26]
+#Message#
+\."All right, Kai..."
+##
+
+[Gashu: Young, short-haired, mouth open / cara16-27]
+#Message#
+\."I shall present you your first duty."
+##
+
+{Kai} [Kai: Blue apron, default (no collar/utensils) / cara8-18]
+{SE: Accent21-1}
+#Message#
+".........."
+##
+
+[Kai: Blue apron, hand on chin, looking to side (no collar/utensils) / cara8-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ultimately... I made it to the present day
+ still being unable to kill anyone."
+##
+
+[Kai: Blue apron, default (no collar/utensils) / cara8-18]
+#Message#
+\."As hard as I tried...
+ I kept remembering the sight of Sei's death."
+##
+
+{Sara's Father} [Sara's Father: Neutral / cara17-3]
+#Message#
+\."...I see."
+##
+
+{Kai} [Kai: Blue apron, default (no collar/utensils) / cara8-18]
+{SE: Accent21-1}
+#Message#
+\."A coward and a weakling... That is what I am."
+##
+
+[Kai: Blue apron, hand on chin, looking to side (no collar/utensils) / cara8-21]
+#Message#
+\."If I had been aware of my own foolishness
+ from the beginning..."
+##
+
+[Kai: Blue apron, default (no collar/utensils) / cara8-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Perhaps such tragedy would not have unfolded...
+ nor would I have aimed to be a first-class killer."
+##
+
+{Sara's Father} [Sara's Father: Neutral / cara17-3]
+#Message#
+\."...That's wrong."
+##
+
+[Sara's Father: Default smile / cara17-1]
+{SE: sceneswitch2}
+#Message#
+\."Sei protected you."
+##
+
+{SE: Accent28-1}
+#Message#
+\."So you didn't have to stain your hands with blood..."
+##
+
+{Kai} [Kai: Blue apron, raised eyebrows (no collar/utensils) / cara8-19]
+{SE: sceneswitch2}
+#Message#
+\."...!"
+##
+
+{Sara's Father} [Sara's Father: Toothy grin / cara17-2]
+{SE: Accent21-1}
+#Message#
+\."It's the reason you're here now, being so kind."
+##
+
+{Kai} [Kai: Blue apron, default (no collar/utensils) / cara8-18]
+#Message#
+\."..."
+##
+
+[Kai: Blue apron, hand on chin, looking to side (no collar/utensils) / cara8-21]
+#Message#
+\.".........."
+##
+
+[Kai: Lowering head and eyes slightly, smile (blue apron) / cara8-30B]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's... true, yes."
+##
+
+{Sara's Father} [Sara's Father: Default smile / cara17-1]
+#Message#
+\.".........."
+##
+
+[Sara's Father: Toothy grin / cara17-2]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Well... Sara's gonna be coming home soon."
+##
+
+{Kai} [Kai: Blue apron, raised eyebrows (no collar/utensils) / cara8-19]
+{SE: Accent21-1}
+#Message#
+\."Oh my. I shall hurry to make dinner, then."
+##
+
+{Sara's Father} [Sara's Father: Default smile / cara17-1]
+#Message#
+\."Yep, please do."
+##
+
+[Sara's Father: Neutral / cara17-3]
+#Message#
+\."..."
+##
+
+[Sara's Father: Default smile / cara17-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Thanks for talking to me, Kai."
+##
+
+{Kai} [Kai: Blue apron, default (no collar/utensils) / cara8-18]
+#Message#
+\."..."
+##
+
+[Kai: Lowering head and eyes slightly, smile (blue apron) / cara8-30B]
+{SE: Accent40-1}
+#Message#
+\."...Perhaps I should make a cake on occasion."
+##
+
+{N/A}
+#Message#
+
+
+           \C[3]Kai Satou Episode "The Young Assassin" - End
+##
+

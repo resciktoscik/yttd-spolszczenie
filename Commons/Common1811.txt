@@ -1,0 +1,162 @@
+**********Common1811********** (Bさんのターン)
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."Alright, let me think..."
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."Hmm... I think..."
+##
+
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."I've got nothing! I fold!"
+##
+
+#Message#
+\."I'm backing out! I fold!"
+##
+
+#Message#
+\."Ooof...! I felt confident, but...! I fold!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."Hmm... Think I'll fold."
+##
+
+#Message#
+\."Mm... I'll fold."
+##
+
+#Message#
+\."It hurts, but...! I'll fold!"
+##
+
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."What the heck, let's go all in! Go, go!"
+##
+
+#Message#
+\."What the heck, let's go all in! Go, go!"
+##
+
+#Message#
+\."...Heehee, let's go all in! Go, go!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."It's iffy, but... Oh well...
+ I'll match the bet with all I have...!"
+##
+
+#Message#
+\."Hmm... Well, all right...
+ I'll match the bet with all I have...!"
+##
+
+#Message#
+\."Ahaha! Very well!
+ I'll match the bet with all I have...!"
+##
+
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."I'll match the bet! Wonder if I can win?"
+##
+
+#Message#
+\."I'll match the bet! I won't lose!"
+##
+
+#Message#
+\."...Heehee. I'll match the bet! I won't lose!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."Oof... Very well, I'll match the bet...!"
+##
+
+#Message#
+\."Interesting... Suppose I'll match."
+##
+
+#Message#
+\."I'll match the bet. Bring it on..."
+##
+
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."I'll bet it all and break through!
+ Raising to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+#Message#
+\."I'll bet it all and break through!
+ Raising to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+#Message#
+\."...Heehee. I'll bet it all and break through!
+ Raising to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."I'm on the brink...! I'll bet all I have
+ to raise to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+#Message#
+\."Life's a neverending test of guts...!
+ I'll bet all I have to raise to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+#Message#
+\."My life's in my hands! I'll bet all I have
+ to raise to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+{Playful Lady} [Playful Lady / cara999-18]
+#Message#
+\."Let's up the stakes!
+ Raising to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+#Message#
+\."Let's up the stakes!
+ Raising to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+#Message#
+\."...Heehee, let's up the stakes!
+ Raising to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+{Skinny Man} [Skinny Man / cara999-16]
+#Message#
+\."...Let's raise the bet.
+ Raising to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+#Message#
+\."...Interesting. Let's raise the bet.
+ Raising to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+#Message#
+\."Ahahahaha! Let's raise the bet!
+ Raising to \C[2]\I[30]\V[1037] coins\C[0]!"
+##
+
+#Message#
+\."I have \V[1021] coins!
+I've wagered \V[1025] coins!
+There are \V[445] coins on the table!"
+##
+

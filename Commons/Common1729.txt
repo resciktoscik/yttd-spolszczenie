@@ -394,24 +394,24 @@
 "Ahhh... Guess I have to admit it."
 ##
 
-[Midori / cara19-a7]
+[Midori: Head 7 for spin / cara19-a7]
 {SE: Accent28-1}
 #Message#
 "...As a reward, I'll tell you.
  Like you worked out, I gave Mai my \C[12]living hands\C[0]..."
 ##
 
-[Midori / cara19-a1]
+[Midori: Head 1 for spin (forward) / cara19-a1]
 #Message#
 \."But... even so..."
 ##
 
-[Midori / cara19-a2]
+[Midori: Head 2 for spin / cara19-a2]
 #Message#
 \."That's not to say it's \C[2]only my hands\C[0]..."
 ##
 
-[Midori / cara19-a4]
+[Midori: Head 4 for spin / cara19-a4]
 #Message#
 \{"That I gave awaaaaay!!"
 ##
