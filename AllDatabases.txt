@@ -1,0 +1,3523 @@
+=====Actors=====
+
+**********Entry1**********
+#Name#
+Sara Chidouin
+##
+
+#Title#
+
+##
+
+#Profile#
+A high-schooler with a composed air.
+##
+
+
+**********Entry2**********
+#Name#
+Sara
+##
+
+#Title#
+
+##
+
+#Profile#
+
+##
+
+
+**********Entry3**********
+#Name#
+Keiji
+##
+
+#Title#
+
+##
+
+#Profile#
+
+##
+
+
+**********Entry4**********
+#Name#
+Midori
+##
+
+#Title#
+
+##
+
+#Profile#
+
+##
+
+
+**********Entry5**********
+#Name#
+
+##
+
+#Title#
+
+##
+
+#Profile#
+
+##
+
+
+**********Entry6**********
+#Name#
+
+##
+
+#Title#
+
+##
+
+#Profile#
+
+##
+
+
+**********Entry7**********
+#Name#
+
+##
+
+#Title#
+
+##
+
+#Profile#
+
+##
+
+
+**********Entry8**********
+#Name#
+
+##
+
+#Title#
+
+##
+
+#Profile#
+
+##
+
+
+**********Entry9**********
+#Name#
+
+##
+
+#Title#
+
+##
+
+#Profile#
+
+##
+
+
+**********Entry10**********
+#Name#
+
+##
+
+#Title#
+
+##
+
+#Profile#
+
+##
+
+
+
+=====Classes=====
+%ignore
+
+
+
+=====Items=====
+
+**********Entry1**********
+#Name#
+Inside House
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry2**********
+#Name#
+Hallway
+##
+
+#Description#
+The lights aren't on. A plant's fallen over.
+##
+
+
+**********Entry3**********
+#Name#
+Living Room
+##
+
+#Description#
+The living room.
+Normally, my parents would welcome me home here.
+##
+
+
+**********Entry4**********
+#Name#
+2nd Floor Room
+##
+
+#Description#
+My room.
+##
+
+
+**********Entry5**********
+#Name#
+Path Home
+##
+
+#Description#
+The path I take to school.
+##
+
+
+**********Entry6**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry7**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry8**********
+#Name#
+Central Hall
+##
+
+#Description#
+For sorting.
+##
+
+
+**********Entry9**********
+#Name#
+Hidden Room
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry10**********
+#Name#
+Red Room
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry11**********
+#Name#
+Blue Room
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry12**********
+#Name#
+Bar
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry13**********
+#Name#
+Back of Cafeteria
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry14**********
+#Name#
+Pink Room
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry15**********
+#Name#
+Game Room
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry16**********
+#Name#
+??????????????
+##
+
+#Description#
+The passage leading to the bar.
+##
+
+
+**********Entry17**********
+#Name#
+Passage to Bar
+##
+
+#Description#
+The passage leading to the bar.
+##
+
+
+**********Entry18**********
+#Name#
+????????????????????
+##
+
+#Description#
+A hallway with a smoking area.
+##
+
+
+**********Entry19**********
+#Name#
+Smoking Area Hallway
+##
+
+#Description#
+A hallway with a smoking area.
+##
+
+
+**********Entry20**********
+#Name#
+?????????
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry21**********
+#Name#
+Cafeteria
+##
+
+#Description#
+My home. The lights aren't on, so it's pitch black.
+##
+
+
+**********Entry22**********
+#Name#
+Central Hall
+##
+
+#Description#
+The hall where everyone met.
+##
+
+
+**********Entry23**********
+#Name#
+Kitchen
+##
+
+#Description#
+The hall where everyone met.
+##
+
+
+**********Entry24**********
+#Name#
+Miley's Room
+##
+
+#Description#
+The hall where everyone met.
+##
+
+
+**********Entry25**********
+#Name#
+Pink Room
+##
+
+#Description#
+For rearranging.
+##
+
+
+**********Entry26**********
+#Name#
+Hidden Room
+##
+
+#Description#
+For sorting.
+##
+
+
+**********Entry27**********
+#Name#
+Black Room
+##
+
+#Description#
+The hall where everyone met.
+##
+
+
+**********Entry28**********
+#Name#
+White Room
+##
+
+#Description#
+The hall where everyone met.
+##
+
+
+**********Entry29**********
+#Name#
+2F Back Hallway
+##
+
+#Description#
+The hall where everyone met.
+##
+
+
+**********Entry30**********
+#Name#
+Down Ladder
+##
+
+#Description#
+
+##
+
+
+**********Entry31**********
+#Name#
+"Sp" Room (Red)
+##
+
+#Description#
+
+##
+
+
+**********Entry32**********
+#Name#
+"Ro" Room
+##
+
+#Description#
+
+##
+
+
+**********Entry33**********
+#Name#
+"Mir" Room
+##
+
+#Description#
+
+##
+
+
+**********Entry34**********
+#Name#
+"Sp" Room (Yellow)
+##
+
+#Description#
+
+##
+
+
+**********Entry35**********
+#Name#
+2F Landing
+##
+
+#Description#
+
+##
+
+
+**********Entry36**********
+#Name#
+Main Game Grounds
+##
+
+#Description#
+
+##
+
+
+**********Entry37**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry38**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry39**********
+#Name#
+Rulebook 1
+##
+
+#Description#
+4 people are nominated by preliminary vote.
+In the final vote, one victim must be chosen.
+##
+
+
+**********Entry40**********
+#Name#
+Cancel
+##
+
+#Description#
+Cancel choice.
+##
+
+
+**********Entry41**********
+#Name#
+Rulebook 1
+##
+
+#Description#
+5 people are nominated by preliminary vote.
+In the final vote, one victim must be chosen.
+##
+
+
+**********Entry42**********
+#Name#
+Rulebook 2
+##
+
+#Description#
+Commoner: No powers. Keymaster: All die if chosen.
+Sacrifice: Has two votes, but lives only if chosen.
+##
+
+
+**********Entry43**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry44**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry45**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry46**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry47**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry48**********
+#Name#
+Long Narrow Box
+##
+
+#Description#
+A box with a note saying "Please use as you wish."
+There are numbers resembling a code inside.
+##
+
+
+**********Entry49**********
+#Name#
+Long Narrow Box
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry50**********
+#Name#
+Kitchen Key
+##
+
+#Description#
+The key to the kitchen.
+##
+
+
+**********Entry51**********
+#Name#
+Kitchen Key
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry52**********
+#Name#
+Sara Doll
+##
+
+#Description#
+A doll that looks remarkably like me.
+##
+
+
+**********Entry53**********
+#Name#
+Sara Doll
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry54**********
+#Name#
+Bath Stopper
+##
+
+#Description#
+A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Entry55**********
+#Name#
+Bath Stopper
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry56**********
+#Name#
+Left Gun Painting
+##
+
+#Description#
+A painting of someone holding a gun.
+##
+
+
+**********Entry57**********
+#Name#
+Left Gun Painting
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry58**********
+#Name#
+Right Gun Painting
+##
+
+#Description#
+A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Entry59**********
+#Name#
+Right Gun Painting
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry60**********
+#Name#
+Spray
+##
+
+#Description#
+A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Entry61**********
+#Name#
+Spray
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry62**********
+#Name#
+Light Bulb
+##
+
+#Description#
+A light bulb for illuminating a room.
+##
+
+
+**********Entry63**********
+#Name#
+Light Bulb
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry64**********
+#Name#
+Flower
+##
+
+#Description#
+A flower from a vase.
+##
+
+
+**********Entry65**********
+#Name#
+Flower
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry66**********
+#Name#
+Two Needles
+##
+
+#Description#
+A long needle and short needle.
+Not sharp enough to pierce anything.
+##
+
+
+**********Entry67**********
+#Name#
+Two Needles
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry68**********
+#Name#
+Bottle
+##
+
+#Description#
+A bottle for carrying liquid.
+##
+
+
+**********Entry69**********
+#Name#
+Bottle
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry70**********
+#Name#
+Keymaster Card
+##
+
+#Description#
+A card reading "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Entry71**********
+#Name#
+Keymaster Card
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry72**********
+#Name#
+Painting
+##
+
+#Description#
+A painting of a man in profile.
+##
+
+
+**********Entry73**********
+#Name#
+Painting
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry74**********
+#Name#
+Tools
+##
+
+#Description#
+Tools for removing screws and more.
+##
+
+
+**********Entry75**********
+#Name#
+Tools
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry76**********
+#Name#
+Torn Paper
+##
+
+#Description#
+A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Entry77**********
+#Name#
+Torn Paper
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry78**********
+#Name#
+??? From Kitchen
+##
+
+#Description#
+Paper money not usable in Japan.
+##
+
+
+**********Entry79**********
+#Name#
+??? From Kitchen
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry80**********
+#Name#
+1000-Yen Bill
+##
+
+#Description#
+Paper money usable in Japan.
+##
+
+
+**********Entry81**********
+#Name#
+1000-Yen Bill
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry82**********
+#Name#
+Dart
+##
+
+#Description#
+A fancy dart. It's extremely solidly-made.
+##
+
+
+**********Entry83**********
+#Name#
+Dart
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry84**********
+#Name#
+Revolver
+##
+
+#Description#
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Entry85**********
+#Name#
+Revolver
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry86**********
+#Name#
+Dummy Bullets
+##
+
+#Description#
+Fake bullets. If you pull the trigger with these,
+all it does is make a sound.
+##
+
+
+**********Entry87**********
+#Name#
+Dummy Bullets
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry88**********
+#Name#
+Live Bullets
+##
+
+#Description#
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Entry89**********
+#Name#
+Live Bullets
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry90**********
+#Name#
+Cigar Cutter
+##
+
+#Description#
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Entry91**********
+#Name#
+Cigar Cutter
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry92**********
+#Name#
+Cigar
+##
+
+#Description#
+A cigar with high-quality wrapping.
+##
+
+
+**********Entry93**********
+#Name#
+Cigar
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry94**********
+#Name#
+Lighter
+##
+
+#Description#
+A stylish Zippo lighter.
+##
+
+
+**********Entry95**********
+#Name#
+Lighter
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry96**********
+#Name#
+Red Key
+##
+
+#Description#
+A red-colored key.
+##
+
+
+**********Entry97**********
+#Name#
+Red Key
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry98**********
+#Name#
+Room Key
+##
+
+#Description#
+The key to Sara's room.
+##
+
+
+**********Entry99**********
+#Name#
+Room Key
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry100**********
+#Name#
+Cancel
+##
+
+#Description#
+Cancel choice.
+##
+
+
+**********Entry101**********
+#Name#
+----Redivision-------
+##
+
+#Description#
+
+##
+
+
+**********Entry102**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry103**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry104**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry105**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry106**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry107**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry108**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry109**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry110**********
+#Name#
+Lobby
+##
+
+#Description#
+
+##
+
+
+**********Entry111**********
+#Name#
+Ruined Corridor
+##
+
+#Description#
+
+##
+
+
+**********Entry112**********
+#Name#
+Relaxation Room
+##
+
+#Description#
+
+##
+
+
+**********Entry113**********
+#Name#
+Your Bedroom
+##
+
+#Description#
+
+##
+
+
+**********Entry114**********
+#Name#
+Monitor Room
+##
+
+#Description#
+
+##
+
+
+**********Entry115**********
+#Name#
+Medical Office
+##
+
+#Description#
+
+##
+
+
+**********Entry116**********
+#Name#
+Long Stairs
+##
+
+#Description#
+
+##
+
+
+**********Entry117**********
+#Name#
+Prize Exchange
+##
+
+#Description#
+
+##
+
+
+**********Entry118**********
+#Name#
+Sou's Bedroom
+##
+
+#Description#
+
+##
+
+
+**********Entry119**********
+#Name#
+Room of Rubble
+##
+
+#Description#
+
+##
+
+
+**********Entry120**********
+#Name#
+Kanna's Trial Room
+##
+
+#Description#
+
+##
+
+
+**********Entry121**********
+#Name#
+Run
+##
+
+#Description#
+
+##
+
+
+**********Entry122**********
+#Name#
+Room of Lies
+##
+
+#Description#
+
+##
+
+
+**********Entry123**********
+#Name#
+Doll Storage
+##
+
+#Description#
+
+##
+
+
+**********Entry124**********
+#Name#
+Nao's Bedroom
+##
+
+#Description#
+
+##
+
+
+**********Entry125**********
+#Name#
+Doll Storage Depths
+##
+
+#Description#
+
+##
+
+
+**********Entry126**********
+#Name#
+Winner's Room
+##
+
+#Description#
+
+##
+
+
+**********Entry127**********
+#Name#
+Facility Exit
+##
+
+#Description#
+
+##
+
+
+**********Entry128**********
+#Name#
+Stairs
+##
+
+#Description#
+
+##
+
+
+**********Entry129**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry130**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry131**********
+#Name#
+★Memory Dance
+##
+
+#Description#
+
+##
+
+
+**********Entry132**********
+#Name#
+★Charge Card Battle
+##
+
+#Description#
+
+##
+
+
+**********Entry133**********
+#Name#
+★Arm-Wrestling
+##
+
+#Description#
+
+##
+
+
+**********Entry134**********
+#Name#
+★Fly Swatter
+##
+
+#Description#
+
+##
+
+
+**********Entry135**********
+#Name#
+★Quick Draw
+##
+
+#Description#
+
+##
+
+
+**********Entry136**********
+#Name#
+★Runaway Minecart
+##
+
+#Description#
+
+##
+
+
+**********Entry137**********
+#Name#
+★Hide and Seek
+##
+
+#Description#
+
+##
+
+
+**********Entry138**********
+#Name#
+★Spirit Shutter
+##
+
+#Description#
+
+##
+
+
+**********Entry139**********
+#Name#
+★Stay On Target
+##
+
+#Description#
+
+##
+
+
+**********Entry140**********
+#Name#
+Stop Viewing
+##
+
+#Description#
+Stop viewing personal info or victim death videos
+in the Monitor Room.
+##
+
+
+**********Entry141**********
+#Name#
+Go to Hell
+##
+
+#Description#
+
+##
+
+
+**********Entry142**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry143**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry144**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry145**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry146**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry147**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry148**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry149**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry150**********
+#Name#
+Cancel
+##
+
+#Description#
+Cancel choice.
+##
+
+
+**********Entry151**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry152**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry153**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry154**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry155**********
+#Name#
+Web of Happiness
+##
+
+#Description#
+A long white rope.
+...Not sure what the "happiness" part means.
+##
+
+
+**********Entry156**********
+#Name#
+Web of Happiness
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry157**********
+#Name#
+Band Breakup Article
+##
+
+#Description#
+An article on 36-Rai 818 (Samurai Yaiba)'s breakup.
+Vocalist: "I can't sing this band's songs anymore."
+##
+
+
+**********Entry158**********
+#Name#
+Band Breakup Article
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry159**********
+#Name#
+\I[19]Four Papers
+##
+
+#Description#
+Papers listing participants in the Death Game.
+There are only 16 names here.
+##
+
+
+**********Entry160**********
+#Name#
+Four Papers
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry161**********
+#Name#
+Email Log
+##
+
+#Description#
+A log of emails sent and received on Kai's computer.
+...Not an actual item, just remembered in my head.
+##
+
+
+**********Entry162**********
+#Name#
+Email Log
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry163**********
+#Name#
+Material Pack (20)
+##
+
+#Description#
+
+##
+
+
+**********Entry164**********
+#Name#
+Nibblin Cookies (Food)
+##
+
+#Description#
+
+##
+
+
+**********Entry165**********
+#Name#
+100 Base Points
+##
+
+#Description#
+
+##
+
+
+**********Entry166**********
+#Name#
+Fuel
+##
+
+#Description#
+
+##
+
+
+**********Entry167**********
+#Name#
+Laizer's Chip
+##
+
+#Description#
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+
+
+**********Entry168**********
+#Name#
+Laizer's Chip
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry169**********
+#Name#
+1F Security Footage
+##
+
+#Description#
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Entry170**********
+#Name#
+1F Security Footage
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry171**********
+#Name#
+Key With Tag
+##
+
+#Description#
+A mysterious key found in the kitchen on 1F.
+##
+
+
+**********Entry172**********
+#Name#
+Key With Tag
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry173**********
+#Name#
+Tablet
+##
+
+#Description#
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Entry174**********
+#Name#
+Tablet
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry175**********
+#Name#
+Stun Gun
+##
+
+#Description#
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Entry176**********
+#Name#
+Stun Gun
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry177**********
+#Name#
+Victim Video
+##
+
+#Description#
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Entry178**********
+#Name#
+Victim Video
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry179**********
+#Name#
+Red Book
+##
+
+#Description#
+A red book from the Discussion Room.
+On the back, it says "Please return on time."
+##
+
+
+**********Entry180**********
+#Name#
+Red Book
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry181**********
+#Name#
+\I[17]Transceiver
+##
+
+#Description#
+A battery-powered communicator.
+Should work if they're within close enough range.
+##
+
+
+**********Entry182**********
+#Name#
+Transceiver
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry183**********
+#Name#
+\I[18]Voice Recorder
+##
+
+#Description#
+A voice recorder seemingly used in a First Trial.
+It gives instructions to cooperate with a partner.
+##
+
+
+**********Entry184**********
+#Name#
+Voice Recorder
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry185**********
+#Name#
+\I[16]Green Book
+##
+
+#Description#
+A green book from the classroom.
+On the back, it says "Please return on time."
+##
+
+
+**********Entry186**********
+#Name#
+Green Book
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry187**********
+#Name#
+Yellow Book
+##
+
+#Description#
+A yellow book from the office.
+On the back, it says "Please return on time."
+##
+
+
+**********Entry188**********
+#Name#
+Yellow Book
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry189**********
+#Name#
+Blue Book
+##
+
+#Description#
+A blue book Kurumada found.
+On the back, it says "Please return on time."
+##
+
+
+**********Entry190**********
+#Name#
+Blue Book
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry191**********
+#Name#
+\I[13]Lantern
+##
+
+#Description#
+A small lantern with a switch.
+What might happen when you turn it on?
+##
+
+
+**********Entry192**********
+#Name#
+Lantern
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry193**********
+#Name#
+\I[15]Note
+##
+
+#Description#
+A printed note.
+It reads: "Game Start: Blue 1, Red 6, Yellow 0"
+##
+
+
+**********Entry194**********
+#Name#
+Note
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry195**********
+#Name#
+\I[20]ID Card
+##
+
+#Description#
+An ID card with \N[4]
+(real name Sou Hiyori)'s face on it.
+##
+
+
+**********Entry196**********
+#Name#
+ID Card
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry197**********
+#Name#
+\I[21]ID Card
+##
+
+#Description#
+An ID card with \N[4]
+(real name Sou Hiyori)'s face on it.
+##
+
+
+**********Entry198**********
+#Name#
+\I[22]First-Aid Kit
+##
+
+#Description#
+Stocked with implements for treating wounds.
+##
+
+
+**********Entry199**********
+#Name#
+First-Aid Kit
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry200**********
+#Name#
+Cancel
+##
+
+#Description#
+Cancel choice.
+##
+
+
+**********Entry201**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry202**********
+#Name#
+\I[22]Paintbrush & Paints
+##
+
+#Description#
+Tools for doing watercolor painting,
+found in the Discussion Room.
+##
+
+
+**********Entry203**********
+#Name#
+Paintbrush & Paints
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry204**********
+#Name#
+\I[24]Upgrade Parts
+##
+
+#Description#
+Replacement body parts the Dummies can attach.
+They can give special abilities.
+##
+
+
+**********Entry205**********
+#Name#
+Upgrade Parts
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry206**********
+#Name#
+\I[26]\N[4]'s Head
+##
+
+#Description#
+A doll head found in a box. Will function if charged.
+A letter noted its left eye was repaired.
+##
+
+
+**********Entry207**********
+#Name#
+\N[4]'s Head
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry208**********
+#Name#
+\I[25]Small Key
+##
+
+#Description#
+A small key Maple had on her.
+##
+
+
+**********Entry209**********
+#Name#
+Small Key
+##
+
+#Description# %ignorethis
+辞典用
+##
+
+
+**********Entry210**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry211**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry212**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry213**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry214**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry215**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry216**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry217**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry218**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry219**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry220**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry221**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry222**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry223**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry224**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry225**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry226**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry227**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry228**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry229**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+**********Entry230**********
+#Name#
+
+##
+
+#Description#
+
+##
+
+
+
+=====System=====
+#Title#
+Your Turn To Die
+##
+
+#Currency#
+Yen
+##
+
+
+
+=====Types=====
+%ignore
+
+
+
+=====Terms=====
+%ignore
+
+#ItemMenu#
+Items
+##
+
+#Save#
+Save
+##
+
+#GameEnd#
+Quit Game
+##
+
+#Options#
+Options
+##
+
+#ToTitle#
+To Title
+##
+
+#Cancel#
+Cancel
+##
+
+#AlwaysDash#
+Auto-Dash
+##
+
+#CommandRemember#
+Cursor Memory
+##
+
+#BGMVolume#
+BGM Volume
+##
+
+#BGSVolume#
+BGS Volume
+##
+
+#MEVolume#
+ME Volume
+##
+
+#SEVolume#
+SE Volume
+##
+
+#SaveMessage#
+Save to which file?
+##
+
+#LoadMessage#
+Load from which file?
+##
+
+#File#
+File
+##
+
+
+
+=====Variables=====
+
+// Status of shutters in control room, used in this Shin AI line before asking if you want to open/close them:
+// シャッターは現在　\C[2]\V[999]\C[0]よ
+
+#V999#
+閉じてる
+closed
+
+#V999#
+開いてる
+open
+
+// Items in locker room puzzle
+
+#V854#
+おしゃれなカップ
+Fancy Cup
+
+#V854#
+ボクシンググローブ
+Boxing Glove
+
+#V854#
+ドクロ
+Skull
+
+#V854#
+パレット
+Palette
+
+#V854#
+スクールバッグ
+School Bag
+
+#V854#
+放送マイク
+Broadcast Mic
+
+#V854#
+本
+Book
+
+#V854#
+赤いランプ
+Red Siren
+
+#V854#
+パソコン
+Laptop Computer
+
+#V854#
+パンダのぬいぐるみ
+Stuffed Panda
+
+#V854#
+大きな王将のコマ
+Big Shogi King
+
+#V854#
+虫捕り網
+Bug-Catching Net
+
+#V854#
+ベル
+Bell
+
+#V854#
+フランスパン
+Baguette
+
+#V854#
+消火器
+Fire Extinguisher
+
+#V854#
+テニスボール
+Tennis Ball
+
+#V854#
+トランプカード
+Playing Cards
+
+#V854#
+トロフィー
+Trophy
+
+#V854#
+魚の剥製
+Taxidermied Fish
+
+#V854#
+錠前
+Padlock
+
+// Characters randomly targeted by Ranmaru in second Maple battle
+
+#V921#
+カンナ
+Kanna
+
+#V921#
+ソウ
+Sou
+
+#V921#
+Qタロウ
+Q-taro
+
+#V921#
+レコ
+Reko
+
+#V921#
+アリス
+Alice
+
+#V921#
+ギン
+Gin
+
+#V921#
+ヒナコ
+Hinako
+
+#V921#
+クルマダ
+Kurumada
+
+#V921#
+マイ
+Mai
+
+#V921#
+アンズ
+Anzu
+
+#V921#
+ハヤサカ
+Hayasaka
+
+// Actions for second Maple battle
+
+#V922# // Kanna/Sou
+【説得】
+Persuasion
+
+#V922# // Q-taro
+【勧誘】
+Invitation
+
+#V922# // Reko/Alice
+【挑発】
+Provocation
+
+#V922# // Gin
+【放水】
+Splash
+
+#V922# // Ranmaru
+【理解】
+Understanding
+
+#V922# // Hinako
+【威圧】
+Intimidation
+
+#V922# // Kurumada
+【鉄拳】
+Fists
+
+#V922# // Mai
+【投刃】
+Knife Throw
+
+#V922# // Anzu
+【冗談】
+Jokes
+
+#V922# // Hayasaka
+【謝罪】
+Apology
+
+// Item names for discussions starting from 3-1 Russian Roulette
+// (V3 holds selected item name, displayed for use prompt; V177 holds name of correct item to present, which V3 is checked against, but it's never displayed anywhere)
+
+#V3#
+４枚組の紙
+Four Papers
+
+#V3#
+トランシーバー
+Transceiver
+
+#V3#
+ボイスレコーダー
+Voice Recorder
+
+#V3#
+緑の本
+Green Book
+
+#V3#
+灯ろう
+Lantern
+
+#V3#
+何かのメモ
+Note
+
+#V3#
+IDカード
+ID Card
+
+#V3#
+救急キット
+First-Aid Kit
+
+#V3#
+ランクアップパーツ
+Upgrade Parts
+
+// Names of variable Dummy victims based on choices in Russian Roulette
+
+#V983,V988# // Victim 1, Victim 3
+ハヤサカ
+Hayasaka
+
+#V983# // Victim 1
+クルマダ
+Kurumada
+
+#V988# // Victim 3
+マイ
+Mai
+
+// References for interchangeable lines in Russian Roulette hot cocoa discussion (Common 1652)
+
+#V921# // Kurumada referring to non-evil Ranmaru: 「\V[921]　ココアなんか　関係ねえっつったが…」
+ランマルは
+Ranmaru
+
+#V921# // Kurumada referring to evil Ranmaru: 「\V[921]　ココアなんか　関係ねえっつったが…」
+テメー
+You
+
+#V921# // Kurumada referring to Hinako (replacing dead Ranmaru): 「\V[921]　ココアなんか　関係ねえっつったが…」
+ヒナコは
+Hinako
+
+#V921# // Gin (replacing dead Kurumada) referring to Ranmaru: 「\V[921]　ココアなんか関係ないって言うけど…」
+わたあめは
+Cotton candy
+
+#V921# // Gin (replacing dead Kurumada) referring to Hinako (replacing dead Ranmaru): 「\V[921]　ココアなんか関係ないって言うけど…」
+チビッ子は
+Shorty
+
+
+
+=====Extra=====
+
+// CORE LANGUAGE SETTINGS //
+
+// The name of the language, as displayed in the options menu.
+LanguageDisplayName=English
+
+// The name of the "Language" option in the options menu.
+LanguageOptionName=Language
+
+// The default font for the language. (Usually GameFont. Will use standard font of base game if not defined.)
+DefaultFont=GameFont
+
+// The standard typing speed of messages. (Default 1x. Will use 1x if not defined.)
+// Any speed factor in a format like "0.5x" can be be used. ("x" and leading "0" can be omitted.)
+MessageSpeed=1.33x
+
+
+// NUMBERS //
+
+// Animation IDs that should be changed to another animation ID for this language
+// Can also assign a JSON string, copied from Animations.json (starting with {"id": and ending with } without comma), to be loaded as a custom animation
+AnimationConvert_4=45
+AnimationConvert_8=46
+AnimationConvert_9=47
+AnimationConvert_10=48
+AnimationConvert_12=49
+AnimationConvert_13=50
+AnimationConvert_14=51
+AnimationConvert_15=52
+AnimationConvert_16=53
+AnimationConvert_18=54
+AnimationConvert_19=55
+AnimationConvert_22=56
+
+
+// Whether or not to force vertical Balance Battles into a horizontal format (0 or 1; Japanese default: 0)
+MakeBalanceBattlesHorizontal=1
+
+
+// X and Y position of total token count picture (medaru-menyu10~100) in Prize Exchange trade menu (Common 505) (Japanese default: 752,380)
+TotalTokensDisplayX=764
+TotalTokensDisplayY=372
+
+
+// X and Y positions of blackboard names (koku1-1 to koku4-3, center origin, overlaid on kokuban + kokuban-1/2) when comparing the roster names to them (Common 802)
+// Keiji / Japanese position: (274,194)
+BlackboardName_koku1-1_X=269
+BlackboardName_koku1-1_Y=196
+
+// Naomichi / Japanese position: (375,227)
+BlackboardName_koku1-2_X=369
+BlackboardName_koku1-2_Y=228
+
+// Q-taro / Japanese position: (488,262)
+BlackboardName_koku1-3_X=464
+BlackboardName_koku1-3_Y=266
+
+// Sara / Japanese position: (373,433)
+BlackboardName_koku1-4_X=355
+BlackboardName_koku1-4_Y=435
+
+// Shunsuke / Japanese position: (421,184)
+BlackboardName_koku2-1_X=386
+BlackboardName_koku2-1_Y=187
+
+// Mai / Japanese position: (494,219)
+BlackboardName_koku2-2_X=469
+BlackboardName_koku2-2_Y=221
+
+// Reko / Japanese position: (374,271)
+BlackboardName_koku2-3_X=370
+BlackboardName_koku2-3_Y=269
+
+// Anzu / Japanese position: (274,395)
+BlackboardName_koku2-4_X=263
+BlackboardName_koku2-4_Y=399
+
+// Alice / Japanese position: (273,155)
+BlackboardName_koku3-1_X=271
+BlackboardName_koku3-1_Y=157
+
+// Kazumi / Japanese position: (477,137)
+BlackboardName_koku3-2_X=431
+BlackboardName_koku3-2_Y=143
+
+// Megumi / Japanese position: (269,274)
+BlackboardName_koku3-3_X=277
+BlackboardName_koku3-3_Y=276
+
+// Ranmaru / Japanese position: (497,472)
+BlackboardName_koku3-4_X=456
+BlackboardName_koku3-4_Y=474
+
+// Kanna / Japanese position: (389,391)
+BlackboardName_koku4-1_X=348
+BlackboardName_koku4-1_Y=395
+
+// Gin / Japanese position: (496,387)
+BlackboardName_koku4-2_X=426
+BlackboardName_koku4-2_Y=391
+
+// Hinako / Japanese position: (359,475)
+BlackboardName_koku4-3_X=338
+BlackboardName_koku4-3_Y=476
+
+
+// X position for shutter closed/open status picture (monitaA-1/A-2) on coffin control monitor (Map 199 (Control Room), Common 1762) (Japanese default: 503)
+ShutterStatusX=495
+
+
+// Character width of names when displaying fake text boxes (Common 975, Common 1739) (decides which serihu_waku to display; currently supports 3, 4, 5, or 6)
+// 1 English letter is 1 width unit, 1 Japanese character is 2 width units; so for example, "ソウ" is 4 wide and "Sou" is 3 wide
+NameBoxWidth_Sou=3
+NameBoxWidth_Reko=4
+NameBoxWidth_Alice=5
+NameBoxWidth_Hinako=6
+
+
+// Character tables to use for Midori name entry; simply entering JP (Japanese), EN (Latin), or RU (Russian) will use predefined tables
+// However, you can also define a custom page array, or array of arrays for multiple pages; pages are exactly 90 elements long, displayed 10 per row (with separation in middle) in 9 rows
+// With only one page, last two elements are designated as Backspace and OK; with multiple pages, the last three elements are Backspace, Switch Page, and OK
+// A single-page definition should look like [ "A","B","C", (...) ,"Back","OK" ] - a multiple-page definition should look like [[ "A","B","C", (...) ,"Back","Page","OK" ], [ "X","Y","Z", (...) ,"Back","Page","OK" ]]
+NameEntryTables=EN
+
+
+// Pixel width of name entry window (default 480)
+NameEntryWidth=520
+
+
+// Maximum character length for name entry; currently supports 8 (Japanese default) or 16 (absolute maximum)
+NameEntryMax=16
+
+
+// STRINGS //
+
+// Touchpad option name
+OptionTouchpadMode=Minigame Auto-Click
+
+
+// Backlog page header ({0} replaced by page number)
+BacklogPageNumber=##Log Page {0}##
+
+
+// Four-digit First Trial code (originally 1374, for "iminashi" - background images should also be modified)
+FirstTrialCode=3141
+
+
+// D_TEXT replacements
+DText_発言力：=Clout: 
+DText_精神：=Mind: 
+
+
+// Speaker names
+Name_サラ=Sara
+Name_サラ（モニター）=Sara (Monitor)
+Name_\C[10]サラ=\C[10]Sara
+
+Name_ジョー=Joe
+Name_ジョー？=Joe?
+
+Name_リョーコ=Ryoko
+
+Name_スーツ姿の男=Man in Suit
+Name_スーツの男=Man in Suit
+Name_ミシマ=Mishima
+Name_ミシマ？=Mishima?
+Name_ミシマの声=Mishima's Voice
+
+Name_パンクな女=Punk Lady
+Name_レコ=Reko
+Name_レコの声=Reko's Voice
+Name_左のレコ=Left Reko
+Name_右のレコ=Right Reko
+
+Name_エプロンの男=Man in Apron
+Name_カイ=Kai
+
+Name_金髪の男=Blond Man
+Name_ケイジ=Keiji
+Name_ケイジ？=Keiji?
+Name_ケイジの声=Keiji's Voice
+
+Name_メグミ=Megumi
+
+Name_怯えた女の子=Frightened Girl
+Name_怯えた女=Frightened Girl
+Name_カンナ=Kanna
+Name_カンナのAI=Kanna AI
+
+Name_クギエ=Kugie
+
+Name_ニット帽の男=Beanie Man
+Name_ソウ=Sou
+Name_ソウ？=Sou?
+
+Name_作業着の女=Woman in Overalls
+Name_ナオ=Nao
+
+Name_赤髪の巨漢=Red-Haired Giant
+Name_巨漢=Giant
+Name_Qタロウ=Q-taro
+Name_Qタロウさん=Q-taro
+Name_Qタロウの声=Q-taro's Voice
+Name_QタロウのAI=Q-taro AI
+
+Name_変わった子供=Strange Child
+Name_ギン=Gin
+
+Name_シマシマの男=Man in Stripes
+Name_ゴンベエ=Gonbee
+Name_ゴンゾウ=Gonbee
+Name_アリス=Alice
+Name_アリスの声=Alice's Voice
+Name_アリスのAI=Alice AI
+Name_\C[2]アリス=\C[2]Alice
+
+Name_人形=Doll
+Name_ホエミー=Miley
+Name_ホエミー？=Miley?
+
+Name_トト=Rio
+Name_ノエル=Ranger
+Name_ノエルの頭部=Ranger's Head
+
+Name_ハンナキー=Safalin
+
+Name_受付人形=Reception Doll
+Name_ガシュー=Gashu
+Name_カニヒゲジジイ=Uncle Crabstache
+
+Name_緑髪の男性=Green-Haired Man
+Name_緑髪の男=Green-Haired Man
+Name_ヒヨリソウ=Sou Hiyori
+Name_\N[4]=\N[4]
+Name_\N[4]の声=\N[4]'s Voice
+
+Name_フードの女の子=Hooded Girl
+Name_フードの女子=Hooded Girl
+Name_アンズ=Anzu
+
+Name_学ランの男の子=Boy in Uniform
+Name_学ランの男子=Boy in Uniform
+Name_ランマル=Ranmaru
+
+Name_青髪の男性=Blue-Haired Man
+Name_クルマダ=Kurumada
+Name_クルマダの声=Kurumada's Voice
+
+Name_大きな帽子の女性=Woman With Big Hat
+Name_マイ=Mai
+
+Name_メガネの男性=Man With Glasses
+Name_ハヤサカ=Hayasaka
+
+Name_ピンク髪の女子=Pink-Haired Girl
+Name_ヒナコ=Hinako
+
+Name_シン=Shin
+Name_シンのAI=Shin AI
+
+Name_怪物？=Monster?
+Name_メイプル=Maple
+
+Name_変な男=Strange Man
+Name_アルジー=Meister
+
+Name_漂流者=Castaway
+Name_トウコ=Touko
+
+Name_ジン=Jin
+
+Name_？？？=???
+Name_？？=??
+Name_声=Voice
+Name_男性の声=Man's Voice
+Name_女性の声=Woman's Voice
+Name_男の声=Man's Voice
+Name_女の声=Woman's Voice
+Name_男性=Man
+Name_女性=Woman
+Name_女の人=Woman
+Name_男=Man
+Name_女=Woman
+Name_少年=Boy
+Name_女の子=Girl
+Name_女の子？=Girl?
+
+// Hypothetical people in intro
+Name_青い人=Mr. Blue
+Name_赤い人=Ms. Red
+
+// Not-a-penguin statue in baths
+Name_像=Statue
+
+// All the others reacting to Sara also claiming Keymaster after Sou does in Main Game 1
+Name_みんな=All
+
+// Mishima AI in 2-1 before identification
+Name_モニターの男=Man on Monitor
+
+// Safalin on monitor before identification
+Name_モニターの女=Woman on Monitor
+
+// Kanna and Kugie's parents in 2-1 Kanna negotiation flashback
+Name_母=Mom
+Name_父=Dad
+
+// Kid in 2-1 Kanna negotiation flashback
+Name_ガキ=Brat
+
+// Memory of Joe showing Sara magazine with Reko's band
+Name_記憶の声=Memory
+
+// Sou's shadow in Main Game 2 flashback when Sou reveals his identity
+Name_自分の影=Own Shadow
+
+// Malicious Mishima AI after being exposed
+Name_人工知能=AI
+
+// Hayasaka in his victim video
+Name_映像の男性=Man in Video
+
+// First monster battle in 3-1
+Name_怪物=Monster
+
+// Flashback at 3-1 police station
+Name_おまわりさん=Mr. Policeman
+
+// Various police in Keiji flashbacks when Midori reveals his involvement
+Name_警察官=Policeman
+
+// Person Keiji shoots in last flashback
+Name_犯人=Criminal
+
+// Shadow of Keiji when finding him in classroom in 3-1
+Name_影=Shadow
+
+// Maple EX AIs
+Name_怒りのAI=Angry AI
+Name_あざ笑うAI=Sneering AI
+Name_あざ笑うAI（ニセミシマ）=Sneering AI
+Name_悲しむAI=Sorrowful AI
+Name_怯えたAI=Frightened AI
+Name_怯えたAI（シン）=Frightened AI
+
+// Midori in Q-taro lantern memory
+Name_看護師=Nurse
+
+// Miley in Island Existence intro
+Name_案内人=Guide
+
+// Bird in Island Existence
+Name_怪鳥=Strange Bird
+
+// Island inhabitants in Island Existence
+Name_原住民=Inhabitant
+
+// Nao's purchasable personal info in 2-1
+Name_資料=Documents
+
+// Kai's laptop when attempting to enter password in 2-1
+Name_パソコン=Computer
+
+// Emails on Kai's laptop
+Name_１通目のメール=1st Email
+Name_２通目のメール=2nd Email
+Name_３通目のメール=3rd Email
+Name_４通目のメール=4th Email
+Name_送信メール①=Sent Email 1
+Name_送信メール②=Sent Email 2
+Name_送信メール③=Sent Email 3
+Name_送信メール④=Sent Email 4
+Name_受信メール=Received Email
+Name_送信メール=Sent Email
+
+// Sou approaching from behind when returning to Kanna's First Trial room for phone
+Name_背後の声=Voice From Behind
+
+// Tablet announcing trades in 2-2
+Name_タブレット=Tablet
+
+// Keiji talking to Sara through door in 2-2
+Name_ドアからの声=Voice From Door
+
+// Files on Kai's laptop
+Name_ファイル=File
+
+// Floor Master rules in Gashu's room
+Name_規約=Rules
+
+// Memorandum about past Death Game in Gashu's room
+Name_手記=Memorandum
+
+// Talking Midori painting in gallery
+Name_絵画？=Painting?
+
+// Various monitors in 3-1 control room
+Name_モニター=Monitor
+
+// First Trial voice on voice recorder
+Name_音声=Voice
+Name_ボイスデータ=Voice Data
+
+// Letter from Midori alongside 5F map
+Name_紙=Paper
+
+// Books about Maple and her weakness
+Name_緑の本=Green Book
+
+// Message from Shinobu Gokujo on debris
+Name_ガレキの文字=Writing on Debris
+
+// Computer detailing recruitment of Miley and Safalin
+Name_引き抜きリスト=Recruitment List
+
+// Shinobu Gokujo wanted poster
+Name_張り紙=Poster
+
+// Maple's instruction manual in first battle
+Name_取扱説明書=Instruction Manual
+
+// Note about Midori doll head
+Name_\C[3]メモ用紙=\C[3]Note Paper
+
+// Stand-ins for unused test scene
+Name_プレイヤー=Player
+Name_変なおっさん=Strange Man
+
+// Unused Sara and Joe classroom flashback
+Name_先生=Teacher
+
+// Botsun in now-unused Chapter 3 demo summary
+Name_ヘンなヤツ=Weird Guy
+
+// Unused Chapter 3 intro scene
+Name_スピーカー音=Speaker
+
+// Unused scene of Keiji being tormented by hallucination
+Name_赤い男=Red Man
+
+// Unused scene
+Name_書き置き=Note
+
+// Unused scene
+Name_機械=Machine
+
+
+// Additional item descriptions (shown when touching basic description)
+
+// Rulebook 1 (unused version)
+ItemExtraDesc39=If fewer than 4 in prelims, final vote uses that many.\nIf only one, victim is chosen with no final vote.
+
+// Rulebook 1
+ItemExtraDesc41=If fewer than 5 in prelims, final vote uses that many.\nIf only one, victim is chosen with no final vote.
+
+// Rulebook 2
+ItemExtraDesc42=Sage: Knows who the Keymaster is via divination,\nbut cannot lie about the results of divination.
+
+// Revolver
+ItemExtraDesc84=What's the large hole in the center for...?
+
+
+// Item glossary (descriptions should match those in Items tab, but must be formatted for glossary screen)
+GlossaryCommand=Items
+GlossaryHelp=Select an item.
+
+// Long Narrow Box
+ItemDesc49=A box with a note saying "Please use\nas you wish." There are numbers resembling\na code inside.
+
+// Kitchen Key
+ItemDesc51=The key to the kitchen.
+
+// Sara Doll
+ItemDesc53=A doll that looks remarkably like me.
+
+// Bath Stopper
+ItemDesc55=A stopper at the bottom of the bath.\nSmall and heavy.
+
+// Left Gun Painting
+ItemDesc57=A painting of someone holding a gun.
+
+// Right Gun Painting
+ItemDesc59=A painting of someone holding a gun.\nHas another painting on the back.
+
+// Spray
+ItemDesc61=A tool for spraying the liquid inside.\nDroplets of water stick to it.
+
+// Light Bulb
+ItemDesc63=A light bulb for illuminating a room.
+
+// Flower
+ItemDesc65=A flower from a vase.
+
+// Two Needles
+ItemDesc67=A long needle and short needle. Not sharp enough\nto pierce anything.
+
+// Bottle
+ItemDesc69=A bottle for carrying liquid.
+
+// Keymaster Card
+ItemDesc71=A card reading "This is a key to the exit.\nYou will die if someone learns of this card."
+
+// Painting
+ItemDesc73=A painting of a man in profile.
+
+// Tools
+ItemDesc75=Tools for removing screws and more.
+
+// Torn Paper
+ItemDesc77=A note with some names, including Prof. Mishima.\nThere's also the name Alice Yabusame.
+
+// ??? From Kitchen
+ItemDesc79=Paper money not usable in Japan.
+
+// 1000-Yen Bill
+ItemDesc81=Paper money usable in Japan.
+
+// Dart
+ItemDesc83=A fancy dart. It's extremely solidly-made.
+
+// Revolver
+ItemDesc85=A weapon that fires bullets. Can be charged with\nup to 9 bullets in its circular chamber.
+
+// Dummy Bullets
+ItemDesc87=Fake bullets. If you pull the trigger with these,\nall it does is make a sound.
+
+// Live Bullets
+ItemDesc89=Can be loaded into a gun and fired.\nExtremely lethal.
+
+// Cigar Cutter
+ItemDesc91=A tool for cutting a cigar to smoke it.
+
+// Cigar
+ItemDesc93=A cigar with high-quality wrapping.
+
+// Lighter
+ItemDesc95=A stylish Zippo lighter.
+
+// Red Key
+ItemDesc97=A red-colored key.
+
+// Room Key
+ItemDesc99=The key to Sara's room.
+
+// Web of Happiness
+ItemDesc156=A long white rope.\n...Not sure what the "happiness" part means.
+
+// Band Breakup Article
+ItemDesc158=An article on 36-Rai 818\n(Samurai Yaiba)'s breakup. Vocalist:\n"I can't sing this band's songs anymore."
+
+// Four Papers
+ItemDesc160=Papers listing participants in the Death Game.\nThere are only 16 names here.
+
+// Email Log
+ItemDesc162=A log of emails sent and received\non Kai's computer. ...Not an actual item,\njust remembered in my head.
+
+// Laizer's Chip
+ItemDesc168=A small chip removed from Rio Laizer's head.\nCapable of nullifying the facility's security.
+
+// 1F Security Footage
+ItemDesc170=Filmed by 1F security cameras.\nShows our past actions.\nSou witnessed Q-taro placing the cards.
+
+// Key With Tag
+ItemDesc172=A mysterious key found in the kitchen on 1F.
+
+// Tablet
+ItemDesc174=A tablet you can use to check your role card.\nFound it next to passed-out Q-taro\nin the Rubble Room.
+
+// Stun Gun
+ItemDesc176=A disposable stun gun that can immobilize\na person. It's dangerous, so Gin and I\ntook it in secret.
+
+// Victim Video
+ItemDesc178=The victim video Nao had.\nIt shows a policewoman dying in the First Trial.\nIs the man in front Keiji?
+
+// Red Book
+ItemDesc180=A red book from the Discussion Room.\nOn the back, it says "Please return on time."
+
+// Transceiver
+ItemDesc182=A battery-powered communicator.\nShould work if they're within close enough range.
+
+// Voice Recorder
+ItemDesc184=A voice recorder seemingly used in a First Trial.\nIt gives instructions to cooperate\nwith a partner.
+
+// Green Book
+ItemDesc186=A green book from the classroom.\nOn the back, it says "Please return on time."
+
+// Yellow Book
+ItemDesc188=A yellow book from the office.\nOn the back, it says "Please return on time."
+
+// Blue Book
+ItemDesc190=A blue book Kurumada found.\nOn the back, it says "Please return on time."
+
+// Lantern
+ItemDesc192=A small lantern with a switch.\nWhat might happen when you turn it on?
+
+// Note
+ItemDesc194=A printed note.\nIt reads: "Game Start: Blue 1, Red 6, Yellow 0"
+
+// ID Card
+ItemDesc196=An ID card with \N[4]\n(real name Sou Hiyori)'s face on it.
+
+// First-Aid Kit
+ItemDesc199=Stocked with implements for treating wounds.
+
+// Paintbrush & Paints
+ItemDesc203=Tools for doing watercolor painting,\nfound in the Discussion Room.
+
+// Upgrade Parts
+ItemDesc205=Replacement body parts the Dummies can attach.\nThey can give special abilities.
+
+// Midori's Head
+ItemDesc207=A doll head found in a box.\nWill function if charged.\nA letter noted its left eye was repaired.
+
+// Small Key
+ItemDesc209=A small key Maple had on her.
+
+
+// Midori default name and name overlap checks (name checks are case-insensitive and ignore spaces/hyphens)
+MidoriDefaultName=Midori
+
+Midori_ヒヨリソウ=souhiyori
+Midori_ヒヨリ=hiyori
+Midori_ソウ=sou
+
+Midori_サラ=sara
+Midori_チドウイン=chidouin
+Midori_チドウインサラ=sarachidouin
+
+Midori_ジョー=joe
+Midori_ジョー_Other=jou
+Midori_タヅナ=tazuna
+Midori_タヅナジョー=joetazuna
+Midori_タヅナジョー_Other=joutazuna
+
+Midori_ケイジ=keiji
+Midori_シノギ=shinogi
+Midori_シノギケイジ=keijishinogi
+
+Midori_カンナ=kanna
+Midori_キヅチ=kizuchi
+Midori_キヅチカンナ=kannakizuchi
+
+Midori_qタロウ=qtaro
+Midori_バーガーバーグ=burgerberg
+Midori_バーガーバーグqタロウ=qtaroburgerberg
+
+Midori_レコ=reko
+Midori_ヤブサメ=yabusame
+Midori_ヤブサメレコ=rekoyabusame
+
+Midori_カイ=kai
+Midori_サトウ=satou
+Midori_サトウカイ=kaisatou
+
+Midori_ナオ=nao
+Midori_エゴコロ=egokoro
+Midori_エゴコロナオ=naoegokoro
+
+Midori_ギン=gin
+Midori_イブシ=ibushi
+Midori_イブシギン=ginibushi
+
+Midori_アリス=alice
+Midori_ヤブサメアリス=aliceyabusame
+
+Midori_ホエミー=miley
+Midori_ホエミー_Other=suemiley
+
+Midori_ガシュー=gashu
+Midori_サトウガシュー=gashusatou
+
+Midori_ノエル=ranger
+Midori_ロエル=laizer
+Midori_トトノエル=rioranger
+Midori_ココロエル=riolaizer
+
+Midori_ハンナキー=safalin
+Midori_ハンナキー_Other=tiasafalin
+
+Midori_アルジー=meister
+
+
+// Not used in-game, but used to describe character talk sprites for script export that don't match up with any Name_ definitions
+// Expression strings are English by default, but can be defined here ala TalkSpriteDescription_cara0-1=Default (no collar)
+TalkSpriteName_サラの父=Sara's Father
+TalkSpriteName_少年ケイジ=Young Keiji
+TalkSpriteName_ソウの影=Sou Silhouette
+TalkSpriteName_人の影=Person Silhouette
+TalkSpriteName_ボッツン=Botsun
+TalkSpriteName_警察の影=Police Silhouette
+TalkSpriteName_男の影=Man Silhouette
+
+// Format for talk sprites in scripts; {0} is character name, {1} is expression description, {2} is picture name (caraX-X)
+TalkSpriteFormatWithExpression={0}: {1} / {2}
+TalkSpriteFormatWithoutExpression={0} / {2}

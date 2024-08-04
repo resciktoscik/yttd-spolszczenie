@@ -1,0 +1,102 @@
+=====Map145===== (❹Hidden Room)
+
+**********Event1********** (EV001) (11,3)
+-----Page1-----
+#Message#
+\.\C[3]There's something on the bookshelf...
+##
+
+{SE: button17}
+#Message#
+\.\C[3]Obtained Victim Disk F.
+##
+
+
+**********Event2********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event3********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event5********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event6********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event7********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event8********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event10********** (hon) (10,5)
+-----Page1-----
+#Message#
+\C[3]Bookshelves.
+##
+
+
+**********Event16********** (akari) (6,5)
+-----Page1-----
+#Message#
+\C[3]A lamp lights up the top of the desk.
+##
+
+
+**********Event21********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

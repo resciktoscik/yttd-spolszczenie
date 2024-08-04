@@ -1,0 +1,182 @@
+**********Common49********** (ｿｳ・自己紹介)
+{Beanie Man}
+#Message#
+"Well then, should I introduce myself too?"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"I'm \C[2]Sou Hiyori\C[0].
+ I don't remember anything major..."
+##
+
+{Beanie Man}
+#Message#
+"My name's \C[2]Sou Hiyori\C[0].
+ Err... well. Just a job-hopper. Ahaha..."
+##
+
+{Strange Child} [Gin: Default / cara9-1]
+#Message#
+\."So living hand-to-mouth, meow?"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."H... Hey, don't put it like that...
+ It's not a ton, but I've got savings."
+##
+
+{Sara}
+#Message#
+\."Why wouldn't you introduce yourself at first?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Naturally, I was wary like Joe was..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."Plus, saying I'm a job-hopper...
+ is a little embarrassing. Ahaha..."
+##
+
+{Strange Child} [Gin: Default / cara9-1]
+#Message#
+\."Just make up some lie, meow!
+ You're honest to a fault, woof!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."H... Hey now, I dunno about that...
+ You can't trust people like that, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's always smiling...
+ He seems kind... or maybe more timid.)
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Ahaha... C-Come on now...
+ Don't look me so pitifully..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Miss Sara, you seem steadfast and strong.
+ I'm jealous."
+##
+
+{Sara}
+#Message#
+\."Actually, I wanted to ask something..."
+##
+
+#Choice#
+Ideas about this incident
+Memories before arriving
+##
+
+<この事件の心当たり>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Gosh... Feels like you're asking
+ in such a "first things first" way."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."Ideas, huh... I've got none."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."I apologize for arguments right away, so not that...
+ Haven't even left enough impression on anyone
+ to be hated by someone."
+##
+
+#Message#
+\."Some days I think that I don't show
+ enough gratitude to my parents, but..."
+##
+
+#Message#
+\."They just spoil me so much...
+ Man... I've gotta become independent already..."
+##
+
+<ここへ来るまでの記憶>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Gosh... Feels like you're asking
+ in such a "first things first" way."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."I was on the way to my usual
+ part-time job at a convenience store."
+##
+
+#Message#
+\."It's a bad part of town... and I was aware
+ of how dangerous it can be out at night..."
+##
+
+#Message#
+\."But the night shift wages are good... so."
+##
+
+#Message#
+\."Suddenly, someone attacked me.
+ I can't remember what else happened then."
+##
+
+<Choice End>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Uh, sorry... I can't remember anything much."
+##
+
+{Sara}
+#Message#
+\."...Well, neither can we."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...Right."
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."Don't sweat it!"
+##
+
+{Strange Child} [Gin: Default / cara9-1]
+#Message#
+\."Once you get home, go find a job, meow!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Urgh... Job hunting... Steady work..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Looks like he's being crushed under not only
+ the immediate fear, but an uncertain future...)
+##
+

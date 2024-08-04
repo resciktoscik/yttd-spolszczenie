@@ -1,0 +1,101 @@
+**********Common736********** (▽ｿｳ…肯定)
+{Sara}
+#Message#
+"That's right! He didn't seem to be feeling well!"
+##
+
+{Sou}
+#Message#
+"Thanks, miss Sara."
+##
+
+#Message#
+\."...Then is this discussion over?"
+##
+
+{Sara}
+#Message#
+\C[4](Wrong...! This won't move things forward!)
+##
+
+#Message#
+"Precisely! You saw it directly!"
+##
+
+#Message#
+\."Q-taro's intent was to negotiate with Sou..."
+##
+
+#Message#
+\."And as a condition for his trade,
+ he showed Sou his \C[10]Sacrifice\C[0] card...
+ It's natural to think that!"
+##
+
+{Sou}
+#Message#
+"Such an active imagination, miss Sara."
+##
+
+{Keiji}
+#Message#
+"How about you use that imagination
+ to consider what their negotiation was like?"
+##
+
+{Sara}
+#Message#
+"Exactly!! We watched you do it!!"
+##
+
+{Sou}
+#Message#
+\."Are you talking about some fake video again?"
+##
+
+#Message#
+\."Find some more solid evidence, miss Sara."
+##
+
+{Sara}
+#Message#
+\C[4](Urk...! I don't have video proof!)
+##
+
+#Message#
+"Exactly! You're frail, Sou...!!"
+##
+
+#Message#
+\."You surely wouldn't have that courage!!"
+##
+
+{Sou}
+#Message#
+"Ahaha, is that meant to be a provocation?
+ It's not working."
+##
+
+{Sara}
+#Message#
+\C[4](Urk...!! Adults are too cool-headed!)
+##
+
+#Message#
+"Of course he must have considered betrayal!!"
+##
+
+{Sou}
+#Message#
+"...Then he wouldn't risk it, would he?"
+##
+
+{Sara}
+#Message#
+"Urgh...!!"
+##
+
+#Message#
+\C[4](That wasn't right...?!)
+##
+

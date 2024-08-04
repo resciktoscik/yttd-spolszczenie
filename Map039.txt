@@ -1,0 +1,246 @@
+=====Map39===== (②●Game Room)
+
+**********Event1********** (EV001) (3,6)
+-----Page1-----
+#Message#
+\C[3]The red door is shut fast.
+##
+
+-----Page3-----
+#Message#
+\C[3]The seemingly-locked red door is now open.
+##
+
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\C[4](...?!)
+##
+
+#Message#
+\.\C[4](Was there just a figure there...?)
+##
+
+-----Page3-----
+{Joe} [Joe: Serious look / cara1-14]
+{SE: Accent28-1}
+#Message#
+"Ah... Sara."
+##
+
+[Joe: Upset groan / cara1-16]
+#Message#
+\."Wait, what the?! What's that?!"
+##
+
+{Sara}
+#Message#
+\."He suddenly fainted as soon as he saw me!
+ Joe, give me a hand!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Got it! Let's carry him to the others!"
+##
+
+{Sara}
+#Message#
+\."That was the plan!"
+##
+
+-----Page5-----
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."She didn't fall down this large hole, surely?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Come to think, where's this hole even go to?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."...I would like to believe she's safe."
+##
+
+
+**********Event3********** (nin4) (3,5)
+-----Page1-----
+#Message#
+\C[3]The red door is shut fast.
+##
+
+-----Page2-----
+#Message#
+\C[3]The seemingly-locked red door is now open.
+##
+
+
+**********Event5********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event6********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event7********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event8********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event9********** (nin4) (3,4)
+-----Page1-----
+#Message#
+\C[3]The red door is shut fast.
+##
+
+-----Page2-----
+#Message#
+\C[3]The seemingly-locked red door is now open.
+##
+
+
+**********Event10********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event11********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event12********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event13********** (EV013) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event14********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event15********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event16********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event17********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event18********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event19********** (da-tu) (7,4)
+-----Page1-----
+#Message#
+\C[3]The dartboard sits there suspiciously.
+##
+
+
+**********Event31********** (kannki) (7,2)
+-----Page1-----
+#Message#
+\C[3]A strange vent that blows wind downward.
+##
+
+
+**********Event66********** (ao) (1,5)
+-----Page1-----
+#Message#
+\C[3]The blue door seems to open easily.
+##
+
+
+**********Event68********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

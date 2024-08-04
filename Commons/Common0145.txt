@@ -1,0 +1,611 @@
+**********Common145********** (⑥進展●「アリスはレコ」)
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Reko, as I recall...
+ You're \C[2]Reko Yabusame\C[0], aren't you?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent21-1}
+#Message#
+\."Urgh...!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Y... Yeah...
+ I'm Reko Yabusame..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."And so what? J... Just coincidence, right?
+ I dunno... anybody with that name."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Uh-huh..."
+##
+
+#Message#
+\."Sara, what do you think?"
+##
+
+#Choice#
+"Reko" is an alias
+Reko and Alice are different
+##
+
+<『レコ』は偽名>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."Reko... might be an alias..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."H-Hold on a sec!"
+##
+
+[Joe: Folded arms wondering / cara1-17]
+#Message#
+\."In the bar, on the blackboard...
+ I saw a list of people who could drink and couldn't!"
+##
+
+[Joe: Furrowed brow / cara1-15]
+{SE: Accent28-1}
+#Message#
+\."And it said both "Reko" and "Alice"!"
+##
+
+<レコとありすは別人>
+
+{Sara} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Like Reko says... I think there's
+ a separate person called Alice."
+##
+
+{Keiji}
+#Message#
+\."...Why's that?"
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+\."The blackboard in the bar...!"
+##
+
+[Joe: Folded arms wondering / cara1-17]
+#Message#
+\."That blackboard had a list of
+ people who could and couldn't drink!"
+##
+
+[Joe: Furrowed brow / cara1-15]
+{SE: Accent21-1}
+#Message#
+\."And it said both "Reko" and "Alice"!"
+##
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."...Ummm..."
+##
+
+[Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Come to think of it, when I was searching...
+ I found some \C[2]chalk\C[0] on the floor..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+\."So... it's not impossible it was changed."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Y-You got it wrong! It's not me!!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Besides, handwritten pieces of paper?!
+ Anybody could make those, right?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."If they had a pen, sure."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Oof...!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."B... Big sis Reko can't be a murderer, woof!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Then... should we call it a relative's name?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent28-1}
+#Message#
+\."I... I remembered...!
+ M... My brother! It's my brother's name!"
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."Alice is... your brother, not your sister?
+ Even your excuses are becoming illogical."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."It ain't an excuse...!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Reko, tell the truth...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Believe me!! I'm... I mean... I...!!"
+##
+
+{Sara}
+#Message#
+\."...Reko...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Sara! Help me!"
+##
+
+#Choice#
+That paper's bogus!
+Say nothing
+##
+
+<その紙はインチキだ！>
+
+{Sara} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent21-1}
+#Message#
+"Um... It's not wise to trust these scraps of paper."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Somebody was trying to dispose of these scraps."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Maybe 'cause they were too "inconvenient"...?"
+##
+
+<何も言わない>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+".........."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Sara..."
+##
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Dammit...! I... I..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+{???} [Alice: Confused shout, grim look / cara11-12]
+{SE: Thunder6}
+#Message#
+\."WAAAAAAAAAAAAAAAIT!!"
+##
+
+{Gonbee}
+#Message#
+\{\{"It's me! I'm \C[2]Alice\C[0], okay?!?!"\.\.
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\.".........."
+##
+
+[Keiji: Right hand under face, sweating / cara2-9]
+{SE: Accent21-1}
+#Message#
+\."Huh?"
+##
+
+{Gonbee} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."I'm Alice, I'm telling you!!
+ Reko did nothing wrong!! It's a misunderstanding!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Listen, we're in the middle of
+ a serious discussion right now..."
+##
+
+{Gonbee} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."And I'm being serious too!!"
+##
+
+[Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."Reko... Reko is my little sister...!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Y-You for real?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Couldn't hide it, huh..."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."This guy's real name is Alice Yabusame.
+ He's... my older brother."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Then... the "murderer"..."
+##
+
+{\C[2]Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Is me!"
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."I lied about being a thief...
+ I went to prison for killing someone..."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+{SE: Accent21-1}
+#Message#
+\."Isn't this guy some serious bad news...?!"
+##
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Yes, that's right!
+ Indeed, I am... a damned criminal!!"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."And Reko cut me off as well,
+ saying to never show her my mug again!"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."And yet... It's not even funny!!
+ To think we'd reunite in this place...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Me and him are total strangers at this point."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I didn't want Kanna and the rest
+ being scared of me 'cause of this guy..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."So when he woke up,
+ I told him to hide our relation."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent21-1}
+#Message#
+\."Right after you went to look for Nao...!"
+##
+
+{Sara}
+#Message#
+\."...So that's it..."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."...Hmph.
+ I'm a simple murderer."
+##
+
+[Alice: Angry shout / cara11-8]
+#Message#
+\."But Reko is different.
+ She's a good and proper person."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."...That's all I wanted to say...
+ ...Dammit all."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."So you deny any connection with the kidnappers?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Right..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+{SE: Accent21-1}
+#Message#
+\."Why I was brought here... I still don't know."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Mwahaha... Suppose I can't expect
+ trust or anything else, can I...?"
+##
+
+#Message#
+\."It's just the ramblings of a killer... Hahahahaha..."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Despite us talking about Gin,
+ we got some unexpected information there."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."There are still many more points of interest...
+ But there's no time."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+\."I want to hear Nao's justification soon enough.
+ What do you think?"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."Eh...?!
+ M-Me...?!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."That's fine, right, miss Sara?"
+##
+
+#Choice#
+There's still something
+I agree
+##
+
+<まだ気になる点がある>
+
+{Sara} [Sou: Mouth open / cara5-1]
+#Message#
+\C[4](We don't have time to resolve every question.)
+##
+
+#Message#
+\.\C[4](Other than Reko and Alice,
+ what has me curious is...)
+##
+
+#Choice#
+The names and occupations
+Where I found the paper
+##
+
+<紙に書かれた名前と職業>
+
+{Sara} [Sou: Mouth open / cara5-1]
+#Message#
+"..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...Megumi Sasahara... \C[2]Detective\C[0]..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."What a surprise. Didn't think there'd be
+ another detective here, besides everyone's favorite."
+##
+
+{Sara}
+#Message#
+\.\C[4](As always, Keiji seems to be insisting
+ that he's a detective, too.)
+##
+
+#Message#
+\.\C[4](And I have no proof to deny it...)
+##
+
+<紙が見つかった場所>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+"...I wonder why I found my scrap of paper
+ in the Red Room?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."I honestly... don't remember."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Was that in the room to start with?
+ Or did I bring it there while in a panic...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I doubt Alice would lie at this point...)
+##
+
+<Choice End>
+
+<同意する>
+
+<Choice End>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+\.\C[4](No helping it... We should move to the next topic.)
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Well then, miss Nao.
+ Please... give us your justification."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."...!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"I see a lot that's illogical about Nao's actions."
+##
+
+{Joe} [Joe: Folded arms wondering / cara1-17]
+#Message#
+\."...Illogical, eh?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Aren't you curious what she was up to
+ in the kitchen, holding the box with Mishima?"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Tell me what you were doing then, miss Nao."
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."...Because of the body collection announcement...
+ I went into a panic..."
+##
+
+[Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I took the box...
+ and just sat and hid in the kitchen.
+ I didn't even touch anything in the room..."
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."I know I troubled you all a lot..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."But I... didn't want to lose him...!"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"After everyone else, I inspected the kitchen,
+ and found no signs of any trickery."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Perhaps she truly was just hiding?"
+##
+

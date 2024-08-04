@@ -1,0 +1,1199 @@
+=====Map239===== (◆⑤Cemetery Final 2)
+
+**********Event6********** (EV006) (1,0)
+-----Page1-----
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+{SE: Accent21-1}
+#Message#
+"I'm sure everybody knows, but..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: sceneswitch2}
+#Message#
+\."Now... we're gonna hafta choose
+ \C[2]who goes into the seven coffins\C[0]."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent21-1}
+#Message#
+\."Doesn't matter if they're alive or dead.
+ Somebody's gotta go in, human or doll..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Feels bad, but...
+ Guess we gotta start with the ones we lost."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: sceneswitch2}
+#Message#
+\."Dunno if it counts as a proper burial...
+ But they are coffins, at least."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hmph... Considering the risks, we ought to first
+ place the bodies of the Dummies who died."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+#Message#
+\."I doubt whether they'll rest in peace...
+ But they are coffins, at least..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](What to do about the rest...?)
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We don't know what'll happen...
+ We should put the dead Dummies' bodies in first."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: sceneswitch2}
+#Message#
+\."What do we do about the rest...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+\.".........."
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\.".........."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.".........."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: Accent41-1}
+#Message#
+\."Haha... Want to do rock-paper-scissors, perhaps?"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent41-1}
+#Message#
+\."To decide it fairly... draw lots, maybe?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent41-1}
+#Message#
+\."How to decide...? Indeed, perhaps Roshambo..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent41-1}
+#Message#
+\."I don't wanna draw lots... I've got awful luck."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent43-1}
+#Message#
+\."We'll go in... That's fine, right?"
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."By "we"... you mean the Dummies?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yeah..."
+##
+
+{N/A}
+#Message#
+\C[3]Ranmaru got in the coffin.
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."...Well, why not? If we're just getting in..."
+##
+
+{N/A}
+#Message#
+\C[3]Hinako got in the coffin.
+##
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+{SE: Accent21-1}
+#Message#
+\."Scared of the dark? Hah, go in with your mommy!"
+##
+
+{N/A}
+#Message#
+\C[3]Kurumada got in the coffin.
+##
+
+{Anzu} [Anzu: Scared look, mouth closed / cara96-7]
+#Message#
+\."Nghhhh...!! Geeeeez!!"
+##
+
+{N/A}
+#Message#
+\C[3]Anzu forced herself into the coffin.
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Now's as good a time as any to show some backbone.
+ I can't be burdening Gin and everyone forever..."
+##
+
+{N/A}
+#Message#
+\C[3]Hayasaka got in the coffin.
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent21-1}
+#Message#
+\."I wanna learn from
+ the determination of the Dummies..."
+##
+
+{N/A}
+#Message#
+\C[3]Ranmaru got in the coffin.
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."...Well, why not? If we're just getting in..."
+##
+
+{N/A}
+#Message#
+\C[3]Hinako got in the coffin.
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."Right... Let's do this..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Hayasaka got in the coffin.
+##
+
+{Anzu} [Anzu: Scared look, mouth closed / cara96-7]
+#Message#
+\."Nghhhh...!! Geeeeez!!"
+##
+
+{N/A}
+#Message#
+\C[3]Anzu forced herself into the coffin.
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent28-1}
+#Message#
+\."If anything happens... Count on me!"
+##
+
+{N/A}
+#Message#
+\C[3]Mai got in the coffin.
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent43-1}
+#Message#
+\."All the Dummies go in... That'll do, right...?"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."Whaa... Don't decide on your own!!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+#Message#
+\."Ehh...?! Kurumada?!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Mya...?!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."...Well, why not? If we're just getting in..."
+##
+
+{N/A}
+#Message#
+\C[3]Hinako got in the coffin.
+##
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."No objections..."
+##
+
+{N/A}
+#Message#
+\C[3]Ranmaru got in the coffin.
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+{SE: Accent21-1}
+#Message#
+\."Seems stupid to take our sweet time about it..."
+##
+
+{N/A}
+#Message#
+\C[3]Kurumada got in the coffin.
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth closed / cara96-7]
+#Message#
+\."Nghhhh...!! Geeeeez!!"
+##
+
+{N/A}
+#Message#
+\C[3]Anzu forced herself into the coffin.
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Now's as good a time as any to show some backbone..."
+##
+
+{N/A}
+#Message#
+\C[3]Hayasaka got in the coffin.
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent28-1}
+#Message#
+\."If anything happens... Count on me!"
+##
+
+{N/A}
+#Message#
+\C[3]Mai got in the coffin.
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is OFF>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."Alright..."
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent21-1}
+#Message#
+\."...Well, why not? If we're just getting in..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: sceneswitch2}
+#Message#
+\."You get your ass in there too... Ranmaru."
+##
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, closed mouth / cara91-48]
+{SE: Accent42-1}
+#Message#
+\."...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."You try to resist, I'll stuff you in that coffin
+ even if I gotta smash you apart..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."That's the last stand we Dummies are gonna take...!"
+##
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, closed mouth / cara91-48]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Evil, hands out, mouth open / cara91-42]
+{SE: Accent21-1}
+#Message#
+\."...Don't get so heated. I'll get in."
+##
+
+{N/A}
+#Message#
+\.\C[3]Ranmaru got in the coffin.
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."Guess I'll get in before I change my mind..."
+##
+
+{N/A}
+#Message#
+\C[3]Hinako got in the coffin.
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+{SE: Accent28-1}
+#Message#
+\."It's decided..."
+##
+
+{N/A}
+#Message#
+\C[3]Mai got in the coffin.
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."No choice, huh..."
+##
+
+{N/A}
+#Message#
+\C[3]Hayasaka got in the coffin.
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth closed / cara96-7]
+#Message#
+\."Oooogh... Alrighttt..."
+##
+
+{N/A}
+#Message#
+\C[3]Anzu forced herself into the coffin.
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+#Message#
+\."Right..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Kurumada got in the coffin.
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."Right..."
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."Don't want my pride to sink even lower...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."If you resist... I'll sock ya!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."Eeeeek!!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent21-1}
+#Message#
+\."...It's fine, right? If we're just getting in..."
+##
+
+{N/A}
+#Message#
+\C[3]Hinako got in the coffin.
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+{SE: Accent40-1}
+#Message#
+\."I'm feeling timid... So I'll go in..."
+##
+
+{N/A}
+#Message#
+\C[3]Hayasaka got in the coffin.
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+{SE: Accent28-1}
+#Message#
+\."It's settled..."
+##
+
+{N/A}
+#Message#
+\C[3]Mai got in the coffin.
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth closed / cara96-7]
+#Message#
+\."Oooogh... Alrighttt..."
+##
+
+{N/A}
+#Message#
+\C[3]Anzu forced herself into the coffin.
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+#Message#
+\."Right..."
+##
+
+{N/A}
+#Message#
+\C[3]Kurumada got in the coffin.
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."Right..."
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Thank you, everyone...)
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent21-1}
+#Message#
+"Alright, now we'll put the bodies in!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is OFF>
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Well, but I guess Anzu's body is already there..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is OFF>
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+"Last one's you, Kurumada!"
+##
+
+{SE: Accent28-1}
+#Message#
+"Last one's you, Kurumada!"
+##
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."..."
+##
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent41-1}
+#Message#
+\."...?"
+##
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."...Eh? My legs feel weak..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](Huh...?)
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{N/A}
+{SE: Accent40-1}
+#Message#
+\C[3]We put the Dummies' bodies into the coffins.
+##
+
+<If Switch #23 (★クルマダ生存ルート) is OFF>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is OFF>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: sceneswitch2}
+#Message#
+\."All that's left is... that one, meow..."
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]The last coffin...
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll inspect it...)
+##
+
+
+**********Event9********** (rannmaru-EV) (7,12)
+%ignore
+
+
+**********Event15********** (keihitu-EV) (8,12)
+-----Page1-----
+{Sara}
+#Message#
+\C[4](It's the coffin Keiji was in...)
+##
+
+#Message#
+\.\C[4](Though, \N[4] was in it originally...)
+##
+
+-----Page2-----
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](It's the coffin Keiji was in...)
+##
+
+#Choice#
+Try to open it
+Cancel
+##
+
+<開けてみる>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: heart2}
+#Message#
+\C[4](...I'll open it...)
+##
+
+#Message#
+"No good... It won't open."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"We have to think of a way to pry it open, meow!"
+##
+
+{Sara}
+#Message#
+\."Yeah..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."But..."
+##
+
+[Kanna: Looking down to side, eyes looking back curiously / cara3-17]
+{SE: Accent28-1}
+#Message#
+\."Since the banquet isn't starting...
+ Does that mean it's \C[2]empty\C[0]...?"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."But y'know..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."The banquet isn't starting...
+ So isn't this coffin \C[2]empty\C[0]?"
+##
+
+<Condition End>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."T-Then...!"
+##
+
+[Gin: Smile, hands in front / cara9-5]
+{SE: flash-of-light-3}
+#Message#
+\."Mr. Policeman really did escape, meow!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+{SE: Accent24-1}
+#Message#
+\."Well... Then let's discuss who should go in the..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."But thanks to that, now we need to discuss
+ who should go in the..."
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Whoaaa...?! The coffins!!"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\C[4](They completely buried themselves...!!)
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"N-No way...!!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."The gate! Hurry to the gate!!"
+##
+
+
+**********Event35********** (annzu-EV) (15,12)
+%ignore
+
+
+**********Event36********** (rekoari-EV) (14,12)
+%ignore
+
+
+**********Event37********** (hayasaka-EV) (12,12)
+%ignore
+
+
+**********Event38********** (kannna-EV) (11,12)
+%ignore
+
+
+**********Event39********** (kurumada-EV) (9,12)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"What's the matter?! Kurumada...?!"
+##
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent21-1}
+#Message#
+\.\SP[15]"It's... weird..."
+##
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\SP[9]"My body's..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."Kurumada!!"
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Hey!! Hang on!!"
+##
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, powered off / cara95-43]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\SP[7]".........."
+##
+
+{Sara}
+#Message#
+\."Kurumada...!!"
+##
+
+#Message#
+\."No...! We're going to do the banquet together!"
+##
+
+{SE: Accent40-1}
+#Message#
+"Ah..."
+##
+
+{Kurumada}
+#Message#
+\.".........."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]He's completely stopped moving.
+##
+
+{Sara}
+#Message#
+\.\C[4](It can't be...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna}
+#Message#
+"No... way..."
+##
+
+<Else>
+
+{Q-taro}
+#Message#
+"H-Hey...!!"
+##
+
+<Condition End>
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]He's dead...
+##
+
+#Message#
+\.\C[3]No, he had long since hit his limit.
+##
+
+#Message#
+\.\C[3]In this state...
+he was only living by a continued miracle.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look / cara3-27]
+{SE: Accent40-1}
+#Message#
+"No... Why...?"
+##
+
+[Kanna: Upset look, horrified face, mouth closed / cara3-28]
+{SE: Accent21-1}
+#Message#
+\."Was he... enduring all this time...?!"
+##
+
+[Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."We're almost there...! Please wake up!!
+ Hey...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Just... stop it, Kanna."
+##
+
+{Kanna} [Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+\."But..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+{SE: Accent28-1}
+#Message#
+\."...Kurumada didn't die from runnin' out of battery.
+ He died form his wounds."
+##
+
+[Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."So his collar ain't gonna activate."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Then...!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: Accent43-1}
+#Message#
+\."...We can bring him back. Sure of it."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: sceneswitch2}
+#Message#
+\."We'll save him...! Definitely!"
+##
+
+[Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent21-1}
+#Message#
+\."So... please hold on..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent40-1}
+#Message#
+"Petering out at the very last moment... How unlucky."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Why, you...! Don't say it like that!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Well, but what is lucky..."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent28-1}
+#Message#
+\."Is that he didn't run out of battery...
+ he died of external wounds."
+##
+
+{Q-taro} [Q-taro: Arms lowered, eyes clearing up / cara4-14]
+{SE: Accent21-1}
+#Message#
+\."Ah...! So his collar ain't gonna activate?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Means we might be able to bring him back."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+\."We'll definitely save him, meow...!"
+##
+
+[Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+\."So just wait, woof... Muscle punk..."
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]We placed Kurumada's body in the coffin.
+##
+
+{Gin}
+{SE: Accent21-1}
+#Message#
+"All that's left is..."
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]The last coffin...
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll inspect it...)
+##
+
+
+**********Event40********** (gin-EV) (7,11)
+%ignore
+
+
+**********Event41********** (hinako-EV) (4,12)
+%ignore
+
+
+**********Event42********** (sou-EV) (2,12)
+%ignore
+
+
+**********Event43********** (mai-EV) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Maple's burnt-out body.
+##
+
+-----Page2-----
+%ignore
+
+-----Page3-----
+%ignore
+
+-----Page4-----
+%ignore
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]Maple's burnt-out body.
+##
+
+
+**********Event44********** (Qtaro-EV) (8,11)
+%ignore
+
+
+**********Event45********** (midomei-EV) (8,10)
+%ignore
+

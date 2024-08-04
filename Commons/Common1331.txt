@@ -1,0 +1,291 @@
+**********Common1331********** (11、間違いどす)
+{Keiji}
+#Message#
+\C[4](This light attached to the wall...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Hardly remember anything about it.
+ Was just some built-in equipment."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Might've stared at it absentmindedly sometimes...
+ It's just a regular light."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."It didn't glow rainbow colors or anything?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Why would it?! That'd be one wild hospital!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](Well... Nothing suspicious here.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](This food the worker is holding...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Pretty sure it was just regular food."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."It was a nice place, with good service..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Was she a regular there...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This chair Sou is sitting in...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."You're curious about that?
+ It's just a chair, right?"
+##
+
+{Sara} [Sara: Hands on hips, surprise / cara0-15]
+#Message#
+\."Yes, but... it's a pretty nice one..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."I'm not giving it to you."
+##
+
+{Sara} [Sara: Hands on hips, nervous sweat / cara0-20]
+#Message#
+\."I didn't want it!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Hands on hips, nervous sweat / cara0-20]
+#Message#
+\C[4](This laptop...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."That's the laptop teacher always brought, meow!"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Apparently he'd write down things he wanted to ask
+ and bring it with him, woof."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."Were there any strange questions?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."He asked what kind of girl I liked, meow!
+ You can't invade on a kid's privacy, woof!!"
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."That sure is rude."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Yeah! I bet he wouldn't like it
+ if I asked him the same question, meow!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\C[4](These souvenir sweets in boxes...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ There were just some sweets lined up."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."I've never bought any of these...
+ But I'm sure they must be delicious!"
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."You trust that shop, huh?"
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Yes! It's the Sara of the sweets world!"
+##
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\.\C[4](Guess I'll take that as a compliment...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\C[4](Alice's head...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Don't you think this part's a little strange?"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Yooou...!
+ Are you trying to call me strange in the head?!"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."Your memories have been twisted...
+ So I can't exactly say it's normal."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...!!"
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."Tch... My apologies, then.
+ To think we must suspect even ourselves..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Whew, managed to talk my way out of it...!)
+##
+
+<やめる>
+
+<Choice End>
+

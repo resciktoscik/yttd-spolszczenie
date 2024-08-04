@@ -1,0 +1,89 @@
+**********Common1706********** (★Q「人形やろ！」)
+{Q-taro}
+#Message#
+"It showed it clear as day! Legs danglin' in midair,
+ probably hung from something... she was dyin'!"
+##
+
+#Message#
+"What's the deal?!
+ There was a victim video for Hinako, too!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"No way I can imagine she was playin' dead there!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+"It was playin' in the control room, yeah...?"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It showed it clear as day! Legs danglin' in midair,
+ probably hung from something... she was dyin'!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."So then... how's Hinako \C[12]human\C[0]?!"
+##
+

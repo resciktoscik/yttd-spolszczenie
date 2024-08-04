@@ -1,0 +1,212 @@
+**********Common1639********** (◆ｱﾝｽﾞ「光いくつ？」)
+{Anzu}
+#Message#
+"So there are \C[2]five\C[0] glowing coffins...
+ What can we gleam from that?!"
+##
+
+#Message#
+"Hey, hey! What's it look like?!
+ How many glowing coffins are there?! Tell me!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"Nwah? Whatcha mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"Hweh? What's that?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+"That's gotta tell you something, right?!"
+##
+
+[Anzu: Concerned / cara96-4]
+{SE: Accent21-1}
+#Message#
+"W-Well? Do you know...?"
+##
+
+{Sara}
+#Message#
+\."Yeah. The number of glowing coffins is..."
+##
+
+#Choice#
+Three
+Five
+Seven
+All of them
+Don't know yet
+##
+
+<３つ>
+
+{Sara} [Anzu: Concerned / cara96-4]
+{SE: Accent40-1}
+#Message#
+"Three."
+##
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+\."Three... Hmm... Why would three be glowing?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: shrink1}
+#Message#
+\."It... might not be three."
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."Wha?! Really?!
+ Then how many are there?!"
+##
+
+<５つ>
+
+{Sara} [Anzu: Scared look, mouth open / cara96-8]
+{SE: Accent40-1}
+#Message#
+"Five."
+##
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+\."Really...? Hmm... I see..."
+##
+
+[Anzu: Scared look, mouth open / cara96-8]
+{SE: Accent28-1}
+#Message#
+\."...So?"
+##
+
+[Anzu: Scared look, mouth closed / cara96-7]
+#Message#
+\."If there are \C[2]five\C[0] glowing coffins,
+ then, like... what?!"
+##
+
+{Sara}
+#Message#
+\C[4](This has to be a lead... Let me think about it.)
+##
+
+<７つ>
+
+{Sara} [Anzu: Scared look, mouth closed / cara96-7]
+{SE: Accent40-1}
+#Message#
+"Seven."
+##
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+\."Seven... I see...
+ The same number that were in the cemetery..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: shrink1}
+#Message#
+\."...No, actually, it might not be seven...!"
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."Wha?! Really?!
+ Then how many are there?!"
+##
+
+<全部>
+
+{Sara} [Anzu: Scared look, mouth open / cara96-8]
+{SE: Accent40-1}
+#Message#
+"It's all of them."
+##
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+\."Ehh? Wait, how many coffins are there in total?"
+##
+
+{Sara}
+{SE: shrink1}
+#Message#
+\."Dunno..."
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."H-Hey! Stop guessing and actually check!"
+##
+
+<まだわからない>
+
+{Sara} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\C[4](I should go count them...)
+##
+
+<Choice End>
+

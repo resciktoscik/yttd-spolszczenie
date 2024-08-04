@@ -1,0 +1,911 @@
+**********Common1746********** (３前進展⑰ヒナコ入替)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent28-1}
+#Message#
+"What did you just say...?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Hmm?! Uhh..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."I said "This... c...""
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\.".........."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent40-1}
+#Message#
+\."U-Um... This might sound strange, but..."
+##
+
+[Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Maybe Hinako didn't mean to say
+ "this can't be happening"..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."But rather... "this \C[2]coffin\C[0]"..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Coffin...?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Coffin, you say...?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Yes... Hinako was working with \N[4]."
+##
+
+[Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+{SE: Accent28-1}
+#Message#
+\."Maybe her coffin \C[2]wasn't planned to be selected\C[0]...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."But then... it was!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."And yet... it was!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+{SE: Accent42-1}
+#Message#
+\."She was betrayed...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What does this mean?!)
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent41-1}
+#Message#
+\."The reason she thought she wouldn't be selected...
+ Do you know it, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Because...)
+##
+
+#Choice#
+It was marked
+She was told the number
+It was an non-glowing coffin
+##
+
+<目印が付いていた>
+
+{Sara} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent40-1}
+#Message#
+"It was marked somehow! With something special
+ that only \N[4] could see...!"
+##
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."U-Um, \N[4] is in a coffin!
+ How would he see the marking?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Am I wrong?! Let me rethink this...)
+##
+
+<番号を知らせていた>
+
+{Sara} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+{SE: Accent40-1}
+#Message#
+"She was told the number of her coffin!"
+##
+
+{Kanna}
+#Message#
+\."But she would've noticed when the hint was used.
+ Wouldn't she get really angry...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Am I wrong?! Let me rethink this...)
+##
+
+<光らないヒツギだったから>
+
+<Choice End>
+
+{Sara} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+{SE: Accent40-1}
+#Message#
+"Because it was a non-glowing coffin! That would
+ take her out of the selection from the start!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."But... Hinako's coffin WAS glowing!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."But Hinako's coffin WAS glowing, was it not?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+#Message#
+\."H-Huh...?"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Grave glare / cara5-5]
+{SE: Accent28-1}
+#Message#
+"What'd you just say...?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Hmm?! Uhh..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."I said "This... c...""
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\.".........."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent40-1}
+#Message#
+\."Maybe I'm reading a bit too much into this..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."But I wonder if, rather than Hinako
+ saying "this can't be happening"..."
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: Accent41-1}
+#Message#
+\."She wanted to say "this \C[2]coffin\C[0]"...?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Coffin...?!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Hinako was cooperating with \N[4]..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+\."So maybe her coffin was \C[2]intended not to be picked\C[0]?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."But it was...!!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent42-1}
+#Message#
+\."So she was betrayed."
+##
+
+{Sara}
+#Message#
+\.\C[4](What does this mean?!)
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: Accent41-1}
+#Message#
+\."Miss Sara, do you know why she thought
+ she wouldn't get picked?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Because...)
+##
+
+#Choice#
+It was marked
+She was told the number
+It was an non-glowing coffin
+##
+
+<目印が付いていた>
+
+{Sara} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: Accent40-1}
+#Message#
+"It was marked somehow! With something special
+ that only \N[4] could see...!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...\N[4]'s in a coffin, isn't he?
+ How would he see it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Am I wrong?! Let me rethink this...)
+##
+
+<番号を知らせていた>
+
+{Sara} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent40-1}
+#Message#
+"She was told the number of her coffin
+ so it wouldn't be picked!"
+##
+
+{Sou}
+#Message#
+\."Wouldn't she catch on when the hint was used?
+ Why didn't she get angry at that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Am I wrong?! Let me rethink this...)
+##
+
+<光らないヒツギだったから>
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent40-1}
+#Message#
+"Because it was \C[2]a non-glowing coffin\C[0]!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then she'd have no worry of being picked!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."But Hinako's coffin \C[2]was glowing\C[0], wasn't it?!"
+##
+
+{Sara}
+#Message#
+\."H-Huh...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\."Then that idea is... wrong..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."Is it wrong...?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Big sis Sara...?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Hinako had \C[2]hot cocoa\C[0], right...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."Yeah... And she splashed it on my coffin..."
+##
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Y-Yeah... And she spilled it
+ on cotton candy's coffin, meow..."
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\."Y-Yeah... And she spilled it
+ on cotton candy's coffin, meow..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\."What if the reason Hinako had that hot cocoa..."
+##
+
+{SE: heart2}
+#Message#
+\."Was \C[2]to pour it on her own coffin\C[0]...?!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Mya...?!"
+##
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."Then she splashed mine as a distraction?!"
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."No wonder... I was thinking,
+ how many cups of cocoa does she need?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Myooow?! That's shady, woof!!
+ You should've mentioned that earlier, meowwwww!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."M... My bad..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, thin mouth / cara91-41]
+{SE: Accent21-1}
+#Message#
+\."Hmph... So she splashed it on mine as a distraction?"
+##
+
+[Ranmaru: Evil, hands out, mouth open / cara91-42]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."No wonder she got so many cups of cocoa."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Myooow?! That's shady, woof!!
+ You should've mentioned that earlier, meowwwww!!"
+##
+
+{Ranmaru} [Ranmaru: Evil, mouth open / cara91-40]
+#Message#
+\."My bad, my bad."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Then she poured it on cotton candy's coffin
+ to cover up what she was doing?!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yeah... She carried out her plan in the confusion!"
+##
+
+#Message#
+\.\C[4](If this is true...!!)
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Meister... Tell me something."
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent21-1}
+#Message#
+\."What is it?"
+##
+
+{Sara}
+#Message#
+\."While this device was \C[2]being set up\C[0]..."
+##
+
+{SE: Thunder10}
+#Message#
+\."Was it possible to \C[2]trade\C[0] coffins?"
+##
+
+{Meister}
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: Accent28-1}
+#Message#
+\."Well now... I suppose you could..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."S-Say whaaaaat?!"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent21-1}
+#Message#
+\."I locked them \C[2]when starting\C[0], yes?"
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: Accent28-1}
+#Message#
+\."Until then, everyone could do as they wished."
+##
+
+{Sara}
+#Message#
+\.\C[4](Then maybe...!)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The incident happened \C[2]just before the banquet began\C[0]!"
+##
+
+#Message#
+\."While all the coffins were \C[2]buried underground\C[0]...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, shouting / cara95-23]
+#Message#
+\."While they were what?!"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Hwhaaaa...?!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."Ehhhhh?!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+\."Outrageous...!!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+"At that time, \N[4] came out of
+ his \C[2]new coffin\C[0] and called Hinako!"
+##
+
+#Message#
+\."To trade coffins with her...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."He what...?! That's gotta be cheating!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Would you stop messing with me?!
+ What an outrageous triiiiick!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Huhhh?! Ain't that outright cheating?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."But why did Hinako make the trade...?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent21-1}
+#Message#
+\."But why did Hinako trade with him...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."I'm sure she didn't necessarily know
+ everything about how it worked..."
+##
+
+#Message#
+\."And she didn't even consider
+ that she would actually be betrayed!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."Well? How about it, \N[4]...?!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."...Hm?"
+##
+
+{Sara}
+#Message#
+\."This trade thing \C[2]wasn't in your plan\C[0], right?!"
+##
+
+#Message#
+\."At first, you wanted to simply enjoy the game!"
+##
+
+#Message#
+\."But you \C[2]started to fear you'd die\C[0]...!"
+##
+
+#Message#
+\."So you called Hinako and swapped with her!!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\.".........."
+##
+
+#Message#
+\."....."
+##
+
+#Message#
+\."..."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+{SE: Accent41-1}
+#Message#
+\."...So what?"
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open / cara19-22]
+#Message#
+\."You're acting all proud like you've won..."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+{SE: Accent21-1}
+#Message#
+\."But... what does knowing that do for you?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh...?)
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Y-You swapped with Hinako...
+ so you must be in a \C[2]non-glowing coffin\C[0]...!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: horror_piano chord3}
+#Message#
+\."...There's three of those, right?"
+##
+
+{Sara}
+#Message#
+\."...!!!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+#Message#
+\."Just take a look..."
+##
+
+{SE: Accent21-1}
+#Message#
+"You have to pick me from among
+ the three non-glowing coffins."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open / cara19-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+"And you have no more clues."
+##
+
+{Sara}
+#Message#
+\."T-That can't be...!!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+{SE: Accent21-1}
+#Message#
+\."Oh, yes... You could use your last hint."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+{SE: horror_piano chord3}
+#Message#
+\."But whatever you pick... \C[2]it'll just be red\C[0]."
+##
+
+{Sara}
+#Message#
+\."What...?!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent28-1}
+#Message#
+\."Go ahead and discuss it all you like..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](That's exactly what I intend to do...!)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+{SE: WON-machine_check3-1}
+#Message#
+
+　　　　　　 \C[3]The Three Non-Glowing Coffins
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+".........."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\."G-Guys...! Don't just be silent!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"Well... from what we've worked out, \N[4]
+ is in one of the three non-glowing coffins!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"\N[4] is in the coffin that
+ Hinako was originally in, right?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"\N[4] should be in the coffin that
+ Hinako was originally in!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Keiji's coffin is also one of
+ the unglowing coffins, isn't it?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Keiji's coffin is also one of the unglowing ones...!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"I think we have to use our hint, meow...!"
+##
+

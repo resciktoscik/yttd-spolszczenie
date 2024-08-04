@@ -1,0 +1,497 @@
+**********Common651********** (③進展●ﾌｪｲｸﾑｰﾋﾞｰ)
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent28-1}
+#Message#
+\."Q-taro, was there really
+ no opportunity for blackmail?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."W-Whatcha sayin'?!"
+##
+
+{Sara}
+#Message#
+\."We acquired a certain video..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Footage from the first floor's security cameras."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."I-I didn't know there was such a thing!!"
+##
+
+{Sara}
+#Message#
+\."It was all clearly pictured."
+##
+
+#Message#
+\."Q-taro placing the role cards..."
+##
+
+#Message#
+\."And Sou seeing him do it..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."If this isn't blackmail material, what is?!"
+##
+
+{Nao} [Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."No way...!!
+ Q-taro was the one who placed the cards?!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Muscle gorilla... was a traitor, meow...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](A traitor...?)
+##
+
+#Message#
+\.\C[4](Is that really the case?)
+##
+
+{N/A}
+#Message#
+\.\C[3]Or was there some other circumstance...?
+##
+
+#Message#
+\.\C[3]Ironically, it's because of my improved intuition
+that I don't understand.
+##
+
+#Message#
+\.\C[3]How could someone like Q-taro be a traitor...?
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why'd you do a thing like that?"
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."...Where did you get the cards, Q-taro?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Please say something... Q-taro...!!"
+##
+
+{Q-taro} [Q-taro: Holding cap in hand, mouth open / cara4-17]
+#Message#
+\."..."
+##
+
+#Message#
+\."Security cameras... What d'ya mean?"\.
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+{Q-taro} [Q-taro: Holding cap in hand / cara4-16]
+#Message#
+\."We shoulda searched every inch of the first floor."
+##
+
+[Q-taro: Holding cap in hand, grinning, eyes shut / cara4-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Did anybody find any security cameras?"
+##
+
+{Sara}
+#Message#
+\."I mean...!"
+##
+
+#Choice#
+We found them
+We didn't find any
+The footage is proof
+##
+
+<見つけた>
+
+{Sara} [Q-taro: Holding cap in hand, grinning, eyes shut / cara4-19]
+#Message#
+\."O-Of course we did...!!"
+##
+
+{Q-taro} [Q-taro: Holding cap in hand, mouth open / cara4-17]
+{SE: Accent21-1}
+#Message#
+\."...Think you'd better be honest.
+ Or you're gonna lose people's trust in what you say."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk...!!)
+##
+
+#Message#
+\."Sure, no one was able to discover cameras!
+ But still..."
+##
+
+<見つけてない>
+
+{Sara} [Q-taro: Holding cap in hand, mouth open / cara4-17]
+#Message#
+"S-Sure, we didn't directly find any cameras..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."But they must have been hidden cameras!
+ Concealed in places we didn't see...!!"
+##
+
+<映像が証拠>
+
+{Sara} [Q-taro: Holding cap in hand, mouth open / cara4-17]
+#Message#
+"W-Whether we discovered any cameras
+ isn't what's important here...!"
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Holding cap in hand, mouth open / cara4-17]
+{SE: Thunder10}
+#Message#
+\."You were caught on camera...
+ That's the only proof we need!!"
+##
+
+{Q-taro} [Q-taro: Holding cap in hand, grinning / cara4-18]
+{SE: Accent28-1}
+#Message#
+\."...Must be a puppet show."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Q-taro} [Q-taro: Holding cap in hand, mouth open / cara4-17]
+#Message#
+\."If ya think about it,
+ we've been gettin' tricked left an' right."
+##
+
+[Q-taro: Holding cap in hand / cara4-16]
+#Message#
+\."A fake Reko... a fake Mishima AI..."
+##
+
+[Q-taro: Holding cap in hand, mouth open / cara4-17]
+#Message#
+\."The kidnappers can move around \C[2]fakes\C[0] of us
+ whenever and however they like."
+##
+
+{Sara}
+#Message#
+\."You mean...!"
+##
+
+{Q-taro} [Q-taro: Holding cap in hand, grinning, eyes shut / cara4-19]
+#Message#
+\."Looks like you got tricked, Sara."
+##
+
+[Q-taro: Holding cap in hand, grinning / cara4-18]
+#Message#
+\."Script by the kidnappers, actors, our fakes!
+ You fell for a fake movie put on by dolls!!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Q-taro} [Q-taro: Holding cap in hand, mouth open / cara4-17]
+#Message#
+\."I dunno what you guys saw..."
+##
+
+[Q-taro: Holding cap in hand, grinning, eyes shut / cara4-19]
+{SE: Accent28-1}
+#Message#
+\."But it was all a trap, I tell ya. Learn yer lesson."
+##
+
+{Sara}
+#Message#
+\."But...!!"
+##
+
+{Keiji} [Keiji: Right hand under face, sweating / cara2-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Talk about a disadvantage..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Preparing fakes to trick us with
+ was a stellar move by our enemies, huh?"
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."And can't take Q-taro lightly, either."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Looks like you've been
+ talked down for once, miss Sara."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Anyway, I told ya 'bout the deal between me and Sou!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."And I mean, after we all looked at the laptop,
+ I was passed out the whole time."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."There's gotta be somebody more 'spicious than me."
+##
+
+{Sara}
+#Message#
+\."Ugh..."
+##
+
+#Choice#
+Double down
+Give up
+##
+
+<食い下がる>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Hold on! Why did you pass out in the Room of Rubble
+ in the first place, Q-taro?!"
+##
+
+<あきらめる>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I understand..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Wait, meow! Why was muscle gorilla passed out
+ in the Room of Rubble in the first place, woof?!"
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Well, I..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent21-1}
+#Message#
+\."Don't... remember..."
+##
+
+{Sara}
+#Message#
+\."No way...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."It's true.
+ Got no memory from the moment I entered that room!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."When I woke up, it was the Main Game!!
+ Now that's a rude awakenin'!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."So surely someone else knocked him out...?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+\."Then we should find who did it, meow!
+ They've gotta be a villain, woof!!"
+##
+
+{Sara}
+#Message#
+\C[4](The last time I saw Q-taro healthy...)
+##
+
+#Message#
+\.\C[4](Wasn't it when we were looking at the laptop?
+ Then, after the \C[10]Sacrifice\C[4] was passed to me...)
+##
+
+#Message#
+\.\C[4](I started to panic, and ran off to get tokens.)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Right... I didn't see Q-taro after that.)
+##
+
+#Message#
+\.\C[4](If I can determine everyone's actions at the time...!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Alright, then we gotta talk about
+ \C[2]what each of us was doing then\C[0]...!"
+##
+
+<Else>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Mwahaha... Interesting.
+ Why don't we all give \C[2]our alibis at that time\C[0]...?"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"When we shared the laptop, there was six of us
+ in the lobby: Me, Sou, Kanna, Sara, Keiji, an' Reko."
+##
+
+<Else>
+
+#Message#
+"When we shared the laptop, there was six of us
+ in the lobby: Me, Sou, Kanna, Sara, Keiji, an' Alice."
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+"After Sara suddenly took off running, we stayed and
+ looked at the laptop, but there wasn't much else."
+##
+
+<Else>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+"Sara Chidouin... We continued to look at the laptop
+ after you took off running. Though there wasn't much."
+##
+
+<Condition End>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"After we were done looking at it...
+ Kanna went to deliver the laptop to Sou."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Your friendly policeman stayed in the lobby
+ for a little while."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"I wasn't feeling well and ran to the bathroom...
+ I talked with miss Nao on the way back."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Right. I talked with Sou about
+ our plan to hack the fake Professor Mishima."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"I was searching the pitch black first floor, meow..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

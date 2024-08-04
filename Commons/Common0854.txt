@@ -1,0 +1,204 @@
+**********Common854********** (アリレコ会話)
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff sniff*...
+##
+
+[Gin: Looking up, wide eyes / cara9-16]
+{SE: Accent28-1}
+#Message#
+\."Meow! Smells fresh! Like just waking up, woof!"
+##
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+\."Good smell, right? Want to wear it too, Gin?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."I-I'll think about it, meow."
+##
+
+{Reko} [Reko: No makeup, fists out, angry sad eyes / cara6-26]
+#Message#
+"Is this escape thing for real?!"
+##
+
+[Reko: No makeup, fists out, angry eyes / cara6-28]
+#Message#
+\."...I gotta say, I can't believe it..."
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+#Choice#
+It's the truth
+It's a joke
+##
+
+<本当の話です>
+
+{Sara} [Reko: No makeup, fists out, angry eyes / cara6-28]
+{SE: Accent21-1}
+#Message#
+"It's true... We found a lead toward escaping."
+##
+
+{Reko} [Reko: No makeup, angry eyes, closed teeth / cara6-30]
+#Message#
+\."Damn, dude...!
+ You really can do anything, Sara..."
+##
+
+[Reko: No makeup, angry eyes, closed teeth / cara6-25]
+{SE: Accent28-1}
+#Message#
+\."And now we just gotta reel it in... yeah?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I get the feeling it won't be so easy...)
+##
+
+<冗談です>
+
+{Sara} [Reko: No makeup, angry eyes, closed teeth / cara6-25]
+{SE: Accent21-1}
+#Message#
+"Sorry. It's all a joke."
+##
+
+{Reko} [Reko: No makeup, somber face / cara6-20]
+#Message#
+\."..............."
+##
+
+[Reko: No makeup, sad eyes, mouth open / cara6-23]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Huh, so you can afford to mess around?
+ Must be a damn good clue you found."
+##
+
+{Sara}
+#Message#
+\.\C[4](She saw right through my lie...!)
+##
+
+<Choice End>
+
+<Else>
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff sniff*...
+##
+
+[Gin: Worried / cara9-3]
+{SE: Accent28-1}
+#Message#
+\."Whaaa... It's a wastefully good smell, meow..."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... Cleanliness is crucial for a man."
+##
+
+[Alice: Look to side, glare / cara11-14]
+{SE: Accent28-1}
+#Message#
+"You there, Sara Chidouin."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."I heard we can escape... Is it true?"
+##
+
+{Sara}
+#Message#
+\."...Alice."
+##
+
+#Choice#
+It's the truth
+It's a joke
+##
+
+<本当の話です>
+
+{Sara} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent21-1}
+#Message#
+"It's true... We found a lead toward escaping."
+##
+
+{Alice}
+#Message#
+\."...!!"
+##
+
+[Alice: Look to side, sad look / cara11-17]
+{SE: Accent28-1}
+#Message#
+\."I see...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{Alice} [Alice: Surprised face / cara11-2]
+#Message#
+\."...What? Aren't you happy?"
+##
+
+{Sara}
+#Message#
+\."Oh, sure..."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](I hardly feel any vengeful thoughts
+ coming from Alice now....)
+##
+
+<冗談です>
+
+{Sara} [Alice: Surprised face / cara11-2]
+{SE: Accent21-1}
+#Message#
+"Sorry. It's all a joke."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\.\{"HUUUHHHHH?! What are you even?!"
+##
+
+{Sara}
+#Message#
+\."N-Not so loud...!
+ Look, of course I wouldn't do that, right?!"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."As if my shouting isn't your fault!
+ No jokes at a time like this, please and thank you!!"
+##
+
+<Choice End>
+
+<Condition End>
+

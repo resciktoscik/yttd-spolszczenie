@@ -1,0 +1,110 @@
+**********Common798********** (ｿｳ「４人載ってない」)
+{Sou}
+#Message#
+"...There are four of us participants
+ whose names aren't listed here."
+##
+
+#Message#
+"Hold on a sec... There are participants
+ whose names aren't on this, huh?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"...I don't think that's relevant."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"...No, I think it's something else..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"Exactly one sheet's worth, huh..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+"Joe isn't on this, either..."
+##
+
+{Sara}
+#Message#
+\."...What are you trying to say?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."S-Sorry, no ill will meant.
+ I'm just laying out the facts to reason from."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."Counting them now... There are four of
+ us participants whose names aren't listed here."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Four of us...?)
+##
+

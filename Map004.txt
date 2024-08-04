@@ -1,0 +1,265 @@
+=====Map4===== (OP4)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+"And then, Ryoko and I finally..."
+##
+
+{Sara}
+#Message#
+\.\C[4](How long even is this story...)
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."You listening?! We made huge progress!"
+##
+
+{Sara}
+#Message#
+\.\C[4](This guy's such a pain...)
+##
+
+#Choice#
+I don't care
+Did you kiss or what?
+##
+
+<興味がない>
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+{SE: flash-of-light-3}
+#Message#
+"Drumroll... We held hands...!
+ Isn't that great?"
+##
+
+<キスでもしたのか？>
+
+{Joe} [Joe: Upset groan (no collar) / cara1-6]
+#Message#
+"Ki...?! Don't be stupid!"
+##
+
+#Message#
+\."Doing that on the first date...
+ That'd just be monstrous!"
+##
+
+[Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."We held hands!
+ Outrageous progress, right?!"
+##
+
+<Choice End>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."I mean... It was mostly that I fell in a ditch
+ and she was helping me out, but...!"
+##
+
+{Sara}
+#Message#
+\."For looking like such a flirt, you're awfully shy..."
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."Huh?! What about me says "flirt"?!"
+##
+
+[Joe: Upset groan (no collar) / cara1-6]
+#Message#
+\."I'm hurt, man... That seriously gets to me..."
+##
+
+#Message#
+\."Dammit... Maybe I should go back to
+ the crew cut I had in middle school..."
+##
+
+{Sara}
+{SE: powerdown07}
+#Message#
+\.\C[4](And now he's started moping.)
+##
+
+-----Page3-----
+{Sara}
+#Message#
+\.\C[4](I've rarely ever walked home at this hour...
+ It feels really dark...)
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+"What's up? Wanna hold hands?"
+##
+
+{Sara}
+#Message#
+\."Ehh...?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+"On second thought, you'd probably crush me
+ with that amazing grip of yours.
+ Nah, forget it, Sara!"
+##
+
+{Sara}
+#Message#
+\.\C[4](It's not like I'm boasting about it...)
+##
+
+<いいえ>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+"I'm just kidding! Don't actually get mad at me."
+##
+
+<Choice End>
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."But real talk...
+ Wouldn't it help things if you got a boyfriend?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Serious look (no collar) / cara1-4]
+#Message#
+\."..."
+##
+
+#Message#
+\."...You can't sleep, right?
+ 'Cause of your \C[2]stalker\C[0]..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Is that... why you always go home with me?"
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."D... Dummy... I just wanted to brag..."
+##
+
+#Choice#
+Sorry
+Thank you
+It's a bother
+##
+
+<すまない>
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."...Nothin' to apologize for.
+ 'Cause I told you, it's not like that!"
+##
+
+{Sara}
+#Message#
+\."I didn't mean it like an apology..."
+##
+
+<ありがとう>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."For what, man?! Well, if you just
+ feel like bein' grateful, I won't stop ya!"
+##
+
+{Sara}
+#Message#
+\."Heehee..."
+##
+
+<邪魔だ>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."Heheh! Prepare yourself to be bothered,
+ day after day!"
+##
+
+{Sara}
+#Message#
+\."Heehee..."
+##
+
+<Choice End>
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."Alright... Let's mosey along now."
+##
+
+#Message#
+\."Your parents'll be worried if you're late."
+##
+
+{Sara}
+#Message#
+\."Right..."
+##
+
+
+**********Event2********** (hari) (15,5)
+-----Page1-----
+#Message#
+\C[3]A poster warning to watch out for strangers.
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+"..."
+##
+
+
+**********Event3********** (gai) (9,2)
+-----Page1-----
+#Message#
+\C[3]A faint streetlight illuminates the area.
+##
+
+
+**********Event4********** (kage) (9,6)
+-----Page1-----
+#Message#
+        \fs[60]\C[10]I have to run...!\|\^
+##
+
+{Sara} [Joe: Default (no collar) / cara1-1]
+#Message#
+"Joe! Run!"
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+\."Huh...?!"
+##
+

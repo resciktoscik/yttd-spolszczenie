@@ -1,0 +1,911 @@
+=====Map232===== (⑤AI-Ceiver)
+
+**********Event2********** (tamago-EV) (8,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a large machine in the center.
+##
+
+{Keiji}
+#Message#
+\.\C[4](What's this? It's like a capsule...)
+##
+
+#Message#
+\.\C[4](Doesn't budge when I touch it...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's the torso of a doll \N[4]
+inside the AI-Ceiver.
+##
+
+{Keiji}
+#Message#
+\.\C[4](We did have the head...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](What to do...?)
+##
+
+#Choice#
+Attach the head
+Cancel
+##
+
+<頭を取り付ける>
+
+<やめる>
+
+<Choice End>
+
+{Keiji}
+{SE: Accent40-1}
+#Message#
+\."Will this do?"
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+{SE: Accent21-1}
+#Message#
+"I suppose it wouldn't move, huh..."
+##
+
+{Keiji}
+#Message#
+\C[4](Glad it's just a doll.)
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+"But... What does this have to do with the banquet?"
+##
+
+{Keiji}
+#Message#
+\."My guess is..."
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+#Message#
+"To fill the seven coffins..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The coffin \N[4] was in
+ can't be left empty, either."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent28-1}
+#Message#
+"Oh! So this doll will be his substitute!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](That's right, but...)
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[4](Maybe even without this thing...
+ we can have somebody substitute...)
+##
+
+{Safalin}
+{SE: sceneswitch2}
+#Message#
+"What are you doing...?"
+##
+
+[Safalin: Mouth open / cara15-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"So you all... really intend to do the banquet..."
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth, grim look / cara92-12]
+#Message#
+\."Eh? I mean..."
+##
+
+[Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+{SE: Accent21-1}
+#Message#
+\."Isn't the banquet the only way
+ we can clear the game with everyone alive?"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."It's nothing so kind...!!"
+##
+
+[Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."It's the most awful game!
+ You'll be killed! Someone will... absolutely...!!"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."N-No way...!"
+##
+
+[Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."That's not what we heard! Maple said..."
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."At any rate, don't get in the coffins...!!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](..........)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."...There any other way, Safalin?"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."Well..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."If we do nothin'...
+ The Dummies' collars will explode."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: sceneswitch2}
+#Message#
+\."If it helps the odds of savin' 'em even a little...
+ We gotta do it!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\.".........."
+##
+
+[Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."In that case, please at least do this..."
+##
+
+[Safalin: Mouth open / cara15-2]
+{SE: Accent41-1}
+#Message#
+\."As much as possible...
+ try to keep it a secret \C[2]who's in the coffins\C[0]."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."The surveillance system is disabled currently..."
+##
+
+[Safalin: Mouth open / cara15-2]
+#Message#
+\."Now is your chance!
+ Even obscuring just one person will help...!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](That's a tough request...)
+##
+
+#Choice#
+Let's use the \N[4] doll
+Let's disguise ourselves
+##
+
+<\N[4]の人形を使おう>
+
+{Keiji} [Safalin: Mouth open / cara15-2]
+{SE: Accent40-1}
+#Message#
+"How about this, then?"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+#Message#
+"We put the \N[4] doll in the coffin..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+"...And I'll hide in a room somewhere."
+##
+
+[Midori: Open-mouth frown / cara19-3]
+{SE: Accent41-1}
+#Message#
+"Then \N[4] won't see me anywhere,
+ so he'll think \C[2]"Keiji's inside"\C[0]... right?"
+##
+
+{Mai}
+{SE: flash-of-light-3}
+#Message#
+\."I see! A deceptive maneuver!"
+##
+
+<変装しよう>
+
+{Keiji} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent28-1}
+#Message#
+"Let's dress up and enter the coffins.
+ I'll be Gin."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Yer ideas are messed up, man!!"
+##
+
+{Mai} [Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+{SE: Accent40-1}
+#Message#
+\."Never mind him, how about this?!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+#Message#
+"We put the \N[4] doll in a coffin..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+"...And Keiji will hide in a room somewhere."
+##
+
+[Midori: Open-mouth frown / cara19-3]
+{SE: Accent41-1}
+#Message#
+"Then \N[4], not seeing him anywhere,
+ will think \C[2]"Keiji is inside"\C[0]! Right?!"
+##
+
+{Q-taro}
+{SE: flash-of-light-3}
+#Message#
+\."I getcha! A diversion tactic!"
+##
+
+<Choice End>
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+"H-How interesting...! But, but..."
+##
+
+[Safalin: Raised eyebrows / cara15-3]
+{SE: Accent21-1}
+#Message#
+\."There's \C[2]one more thing you need\C[0]."
+##
+
+#Message#
+\."It's..."
+##
+
+{N/A}
+#Message#
+\SP[15]"..............."
+##
+
+{Keiji} [Safalin: Default frown / cara15-1]
+{SE: Accent21-1}
+#Message#
+"Ah, I see..."
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."Yes... I imagine it'll be diffi..."
+##
+
+{Keiji}
+{SE: flash-of-light-3}
+#Message#
+\."No worries, I can arrange for that."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."R-Really...?!"
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."Yep... Now, let's assemble everything we need."
+##
+
+#Message#
+\."And if we give the \N[4] doll
+ a personality with the AI-Ceiver..."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."We'll have a perfect substitute ready to go."
+##
+
+{Mai} [Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+#Message#
+\."Our deception plan should work! Right, Safalin?!"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Err..."
+##
+
+[Safalin: Wide smile / cara15-4]
+#Message#
+\."Ah! There's one other important thing!"
+##
+
+[Safalin: Mouth open / cara15-2]
+{SE: Accent28-1}
+#Message#
+\."That doll head is \C[2]out of battery\C[0]."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Nghh...! It's gotta have power too?!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+{SE: shrink1}
+#Message#
+\."Talk about short-lived celebration..."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But if you use the charger on Floor 5..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."For real?! You got one of those?!"
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."Alright... I'm sure the others
+ will bring us the ID card."
+##
+
+#Message#
+\."So if we can just charge this head..."
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+\."...Let's do it."
+##
+
+[Mai: Looking down at hand, eyes closed / cara92-18]
+#Message#
+\."There's no more reason to suspect everything..."
+##
+
+[Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+{SE: Accent40-1}
+#Message#
+\."It's scary... But I've never felt such optimism!"
+##
+
+[Mai: Closed-eyes smile / cara92-3]
+{SE: Accent28-1}
+#Message#
+\."Hope... sure is important!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."Please be careful...
+ If you need treatment, come back here..."
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]There's the torso of a doll \N[4]
+inside the AI-Ceiver.
+##
+
+
+**********Event3********** (kikai-EV) (4,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A confusing machine.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Naturally, I have no clue how to work this...)
+##
+
+#Choice#
+Just touch stuff
+Try hitting it
+##
+
+<とりあえずさわる>
+
+{Keiji}
+{SE: WON-kinko_kagi01}
+#Message#
+"Hmmm..."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+"A... Ahhh..."
+##
+
+{Keiji}
+{SE: WON-sikake_bane01}
+#Message#
+\."Okay... Let's try pressing this."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Oogh... oohhh...!"
+##
+
+{Keiji}
+{SE: WON-PCccc}
+#Message#
+\."Some wild stuff happening here..."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Please stop ittt!!"
+##
+
+<叩いてみる>
+
+{Keiji} [Safalin: Mouth open / cara15-2]
+#Message#
+"Hah...!"
+##
+
+{Safalin}
+#Message#
+\."A-Aaah! Please don't be rough with it!"
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Then tell us 'bout it already!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: Accent21-1}
+#Message#
+\."Understood... Please watch..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"T... The hell's this?!"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."There's a headless \N[4] inside...!!"
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+"A doll body...?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+"That's right..."
+##
+
+#Message#
+"It was in my room..."
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\C[4](Is that room connected to this one...?)
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."C-Could this machine be..."
+##
+
+[Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The machine... that birthed us...?"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: sceneswitch2}
+#Message#
+\."Yes... It's called the \C[2]AI-Ceiver.\C[0]"
+##
+
+{Keiji}
+#Message#
+\."AI-Ceiver...?"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You just put a doll inside and select an AI..."
+##
+
+[Safalin: Default frown / cara15-1]
+{SE: Accent21-1}
+#Message#
+\."Wait about 3 minutes, it'll ding, and it's done..."
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+#Choice#
+In that short a time...
+Ah, like a microwave
+##
+
+<そんな短時間で…>
+
+{Keiji} [Safalin: Default frown / cara15-1]
+{SE: Accent40-1}
+#Message#
+"Three minutes... In that short a time...?"
+##
+
+<電子レンジみたいだね>
+
+{Keiji} [Safalin: Default frown / cara15-1]
+{SE: Accent40-1}
+#Message#
+"Sounds just like a microwave..."
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."That's not funnyyy!"
+##
+
+<Choice End>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."What are our lives...?!
+ Are they that trivial?!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent41-1}
+#Message#
+\."...Hey, Safalin.
+ Why were you doin' maintenance on this?"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."Because..."
+##
+
+[Safalin: Default frown / cara15-1]
+{SE: Accent28-1}
+#Message#
+\."I heard... it'll be used in the \C[2]banquet\C[0]."
+##
+
+[Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."I suppose you intend to go through with
+ that terrifying thing...?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Terrifying...?)
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+{SE: Accent24-1}
+#Message#
+\."B... But, but! Please be at ease!"
+##
+
+[Safalin: Raised eyebrows / cara15-3]
+{SE: Accent28-1}
+#Message#
+\."I don't have the \C[2]doll's head\C[0] or the \C[2]ID card\C[0],
+ so I can't do any more than this!"
+##
+
+[Safalin: Mouth open / cara15-2]
+#Message#
+\."So... Please don't bully meee!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Hmm...)
+##
+
+#Message#
+\C[4](Well, we know where the head is...)
+##
+
+#Message#
+\.\C[4](Maybe I'll talk to Safalin instead for now...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The machine to activate the AI-Ceiver.
+##
+
+{Keiji}
+#Message#
+\.\C[4](She said we could use it if we had the ID card...)
+##
+
+
+**********Event5********** (Qtyan-EV) (2,12)
+-----Page1-----
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Owww... Feels like stayin' put hurts more."
+##
+
+{Keiji}
+#Message#
+\."Look, I know how you feel..."
+##
+
+
+**********Event8********** (EV008) (1,0)
+-----Page1-----
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Huh...? Q-taro and Safalin aren't here!)
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth, grim look / cara92-12]
+#Message#
+"Where'd you go?! Q-taro!!"
+##
+
+{Keiji}
+#Message#
+\C[4](Are they in the back...?)
+##
+
+
+**********Event22********** (hannnaA-EV) (5,12)
+-----Page1-----
+{N/A}
+{SE: horror_piano chord3}
+#Message#
+\C[3]I see a person's silhouette.
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"W-Who's there...?!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+{SE: Accent28-1}
+#Message#
+"Aaah...! Oh nooo...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."You...! If it ain't Safalin!!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+"Aaaah!! I'm not your enemy this time!
+ Please don't hit meee...!"
+##
+
+{Keiji}
+#Message#
+\."...I won't. Just gonna ask a few questions..."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."A-Awahh...!"
+##
+
+-----Page2-----
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+"I-I won't say aaanything...!"
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+"W-What do you want from meee...?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](She's on guard...)
+##
+
+#Choice#
+Why are you here?
+Loosen the mood
+##
+
+<なぜここに？>
+
+{Keiji} [Safalin: Default frown / cara15-1]
+{SE: Accent40-1}
+#Message#
+"Why are you here...?"
+##
+
+<雰囲気を和らげる>
+
+{Keiji} [Safalin: Mouth open / cara15-2]
+{SE: Accent40-1}
+#Message#
+"It's alright... We aren't gonna do a thing..."
+##
+
+{Safalin}
+#Message#
+\."Y-You're so suspiciousss!!"
+##
+
+{Keiji}
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\.\C[4](I get that a lot...)
+##
+
+<Choice End>
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I-I was just asked to do maintenance
+ by someone, that's all..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout with sweat / cara4-25]
+#Message#
+\."\N[4], I bet?!"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+{SE: Accent21-1}
+#Message#
+\."\N[4]...
+ So that's what you call him."
+##
+
+{Keiji}
+#Message#
+\."Maintenance... for this machine in the center?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Ah...?! W-Wah...!"
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."I-I won't tell you!
+ I won't show respect to the enemyyy!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Bingo...)
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: flash-of-light-3}
+#Message#
+\."How dubious... Let's check this machine out!"
+##
+
+-----Page4-----
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+"I-I'm harmlesssss...!"
+##
+
+-----Page5-----
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+"Aah... That looks like it hurts..."
+##
+
+[Safalin: Mouth open / cara15-2]
+#Message#
+\."That's quite a deep wound... Who did that?"
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth, grim look / cara92-12]
+#Message#
+\.".........."
+##
+
+-----Page6-----
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+"Please... do be careful.
+ I'll be here for a while, so..."
+##
+

@@ -1,0 +1,156 @@
+**********Common553********** (ｹｲｼﾞ「ｱｯﾌﾟﾃﾞｰﾄは？」)
+{Keiji}
+#Message#
+"The AIs were being updated regularly. Memories
+ every 6 months, and personality every 3 years..."
+##
+
+#Message#
+"Real humans change in personality and gain memories.
+ The AIs should need updating, too..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Nope, that's not it. It's okay, Sara.
+ Stay cool and be quick."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+#Message#
+"Not that, Sara.
+ Onto the next one. There's no time."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"And for memory, they can be
+ brought up to date in just a day."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."So then... There should be a possibility
+ of the personality being 3 years out of date."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Reko from... 3 years ago...?"
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](That would be... before Alice was arrested!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Of course, depending on the update timing,
+ it's possible it got updated last year or this year."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+"When did the kidnappers do updates, I wonder?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Come to think of it...)
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Ranger told me. They update memories every 6 months,
+ and personalities every 3 years..."
+##
+
+{Keiji}
+#Message#
+\."I see..."
+##
+
+{Sara}
+#Message#
+\."But for memories, he said,
+ they could update in just a day if they wanted."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."In one day..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."So she doesn't remember destroying the monitor...
+ because she got swapped out in the Room of Lies
+ less than a day after destroying it."
+##
+
+{Sara}
+#Message#
+\.\C[4](Aha... That would make sense...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Still... That alone isn't definitive enough."
+##
+

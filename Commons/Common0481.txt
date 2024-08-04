@@ -1,0 +1,210 @@
+**********Common481********** (時限イベント２)
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Oh, man... What're you bastards even doing?"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Time's way up. Dumbasses."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."S-Say what?!"
+##
+
+{N/A}
+{SE: shock1}
+#Message#
+\C[10]"The dart will be fired shortly."
+##
+
+{Q-taro}
+#Message#
+\."H... Hold on...!"
+##
+
+{N/A}
+#Message#
+\.\C[10]"5."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."No, woof!! Spare me, meow!!"
+##
+
+{Sara}
+#Message#
+\."Ahh... No way... Gin!!"
+##
+
+{N/A}
+#Message#
+\.\C[10]"4."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."H-Hey!! You're kiddin' me... Hold on...!!"
+##
+
+{Sara}
+#Message#
+\."Q-taro...!"
+##
+
+#Choice#
+Push the switch!
+..........
+##
+
+<スイッチを押して！>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\.\sp[15]"D... Don't be stupid... if I do that, I'll..."
+##
+
+<………>
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Big sis Saraaa..."
+##
+
+<Choice End>
+
+{N/A} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\.\C[10]"3."
+##
+
+{Gin}
+#Message#
+\."Heeeeelp! Help meeeee!!
+ Big sis Sara!! Mr. Policeman!!"
+##
+
+{N/A}
+#Message#
+\.\C[10]"2."
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[12]"Q... Q-taro...
+ Help meee..."
+##
+
+{N/A}
+#Message#
+\.\C[10]"1."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\.\sp[12]"...Aaaaa... aaaaa..."
+##
+
+{N/A}
+#Message#
+\.\C[10]"0."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\.\{"Stop...!! STOOOOOP!!!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\sp[12]"It huuurts... I don't... wanna dieee..."
+##
+
+#Message#
+\.\sp[12]"*sniff*... ooogh..."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Whoa, he got pricked!
+ Couldn't save him, eh, Q-taro...?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\.\sp[12]".........."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\.\C[10]"Hey, it's fine! I'd say it's natural
+ to pick your own hide over a cheeky brat!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Shaddup!! Shut your goddamn mouth!!
+ You cure Gin right now!!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[10]"Heeelp..."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: Accent28-1}
+#Message#
+\."Don't give up yet, ya bastards!
+ There's still a chance left!"
+##
+
+{Kanna} [Kanna: Angry shout with tears (lightless eyes) / cara3-15]
+#Message#
+\."W-What do you mean?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."There's five poison stingers in all!
+ And it's set up to fire one every so often..."
+##
+
+#Message#
+\."But one stinger's worth of venom isn't that strong!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: Accent21-1}
+#Message#
+\."So there's still a chance he can be saved...!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."'Course, it was made so the maximum amount
+ would be able to kill a grown man if need be..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So whether a kiddo like this can survive two...?
+ That's a mystery yet to be answered."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Dammit...! You son of a bitch!!
+ Go to hell!!"
+##
+
+{Sara}
+#Message#
+\."Let's continue our discussion!
+ We don't have time to take out our anger!!"
+##
+

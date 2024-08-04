@@ -1,0 +1,103 @@
+**********Common1478********** (戦⑤ｹｲｼﾞ行動不能時)
+{Keiji} [Keiji: Gripping shadowed face, sweating / cara2-35]
+#Message#
+"*pant*... *pant*... Thank you...
+ I can still do this!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]But Keiji couldn't get back up.
+##
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+"No! Keiji isn't getting up...!
+ We have to do something!!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]But Keiji couldn't get back up.
+##
+
+{Kanna}
+#Message#
+"No! Keiji isn't getting up...!
+ We have to do something!!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]But Keiji couldn't get back up.
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+"What're you doing, Keiji?!
+ Stand up...!!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]But Keiji couldn't get back up.
+##
+
+{Sou}
+#Message#
+"What're you doing, Keiji?!
+ Stand up...!!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]But Keiji couldn't get back up.
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"Stand the hell up, Keiji!!
+ You're gettin' revenge, right?!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]But Keiji couldn't get back up.
+##
+
+{Reko}
+#Message#
+"Stand the hell up, Keiji!!
+ You're gettin' revenge, right?!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]But Keiji couldn't get back up.
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Won't you stand up, Keiji Shinogi?!
+ Give him a requiem by your own hand!!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]But Keiji couldn't get back up.
+##
+
+{Alice}
+#Message#
+"Won't you stand up, Keiji Shinogi?!
+ Give him a requiem by your own hand!!"
+##
+

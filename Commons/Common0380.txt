@@ -1,0 +1,160 @@
+**********Common380********** (ギンの撫でて！イベント)
+[Gin: Default / cara9-1]
+#Message#
+\."W... Well, then..."
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."Um... mumble mumble..."
+##
+
+{Sara}
+#Message#
+\."What is it?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+\."\}I want you to cradle m...\{
+ I-I mean, I want you to pet me, meow!"
+##
+
+{Sara}
+#Message#
+\."Hmm... Gin..."
+##
+
+#Choice#
+Pet his head
+Cradle him
+Pet his throat
+##
+
+<頭をなでる>
+
+{Sara} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Haha... You're pretty spoiled, aren't you."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I'm not that spoiled, meow!
+ I just wanted to be pet, woof!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]I gently patted Gin on the head.
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Meow..."
+##
+
+<抱っこする>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Haha... I see!
+ So you want me to cradle you!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."M... Meow?! I didn't say that, meow!!"
+##
+
+{Sara}
+#Message#
+\."Heave...! Oof...
+ You're surprisingly heavy... Oh well."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]I couldn't lift him up, so I just hugged him.
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Meow..."
+##
+
+<喉をなでる>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Haha... How about that?!"
+##
+
+{Gin}
+#Message#
+\."*purrrrr*, *purrrrr*..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I'm not a cat, meow!!"
+##
+
+{Sara}
+#Message#
+\."Ahaha... Sorry, Gin."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]I gently patted Gin on the head.
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Meow..."
+##
+
+<Choice End>
+
+{N/A} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\.\C[3]He closed his eyes and wore a very relaxed expression.
+##
+
+#Message#
+\.\C[3]But that wasn't all.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]I couldn't be sure because of his mask,
+but I heard a quiet sound like sniffling.
+##
+
+#Message#
+\.\C[3]All of this was scary for Gin, a grade-schooler.
+##
+
+#Message#
+\.\C[3]He'd endured it all. People's deaths. Repulsive malice.
+##
+
+#Message#
+\.\C[3]He's not spoiled at all.
+##
+
+#Message#
+\.\C[3]Even now, he won't show his face
+so that I don't pick up on his tears.
+##
+
+#Message#
+\.\C[3]I chose not to notice.
+...Because I wanted to protect Gin's obstinance.
+##
+

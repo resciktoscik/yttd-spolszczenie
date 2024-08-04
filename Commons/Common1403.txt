@@ -1,0 +1,22 @@
+**********Common1403********** (呼・灯ろう)
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](Huh? It won't turn on... Is it broken?)
+##
+
+{SE: Accent21-1}
+#Message#
+\C[4](Huh? It won't turn on... Is it broken?)
+##
+
+{SE: Accent21-1}
+#Message#
+\C[4](Huh? It won't turn on... Is it broken?)
+##
+
+{SE: Accent21-1}
+#Message#
+\C[4](Huh? It won't turn on... Is it broken?)
+##
+

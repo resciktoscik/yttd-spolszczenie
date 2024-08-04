@@ -1,0 +1,430 @@
+**********Common520********** (ﾅｵ「ﾐｼﾏﾓﾆﾀの犯人はﾚｺ」)
+{Nao}
+#Message#
+"Reko is the one who broke
+ Professor Mishima's monitor...! I saw it...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I... don't really understand!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Nao}
+#Message#
+"I... don't really understand!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I'm telling you I don't remember that, Nao!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."I'm telling the truth!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Their statements are just going around in circles!)
+##
+
+#Message#
+\.\C[4](To break this down...
+ I want someone else's statement...!)
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"I can't trust Reko right now...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](To confirm Nao's claim...
+ Maybe I should ask a certain someone.)
+##
+
+#Choice#
+Ask Keiji
+Ask Kanna
+Ask Sou
+##
+
+<ケイジさんに話を聞く>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Err... I already said, didn't I?
+ ...Deep breaths, Sara."
+##
+
+{Sara}
+#Message#
+"Keiji, you did an investigation
+ into the monitor, didn't you?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+".........."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Whew..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."If you think that's what's important, Sara...
+ Guess I'll talk."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...Reko broke the monitor.
+ Your friendly policeman saw it too."
+##
+
+{Sara}
+#Message#
+\C[4](What...?!)
+##
+
+<カンナに話を聞く>
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+"A-As many times as you ask...
+ I really don't know...!"
+##
+
+{Sara}
+#Message#
+"Kanna... Honestly tell me everything you know!"
+##
+
+{Kanna}
+#Message#
+"K... Kanna doesn't know anything!
+ It's true, Sara...!"
+##
+
+{Sara}
+#Message#
+\C[4](This statement isn't any use...!)
+##
+
+<ソウに話を聞く>
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+"Hmm... Fruitlessly wasting time like this...
+ Are you confused, miss Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's right... Maybe I should calm down...)
+##
+
+#Message#
+"Sou... Naturally, you would know..."
+##
+
+{Sou}
+#Message#
+"Eh...?! Sorry, but at the time,
+ I was just sleeping, remember...?"
+##
+
+{Sara}
+#Message#
+\C[4](Right... He had an alibi...)
+##
+
+<Choice End>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"I thought there must be some reason...!
+ So I kept it all to myself...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I ask her to elaborate on this?!)
+##
+
+#Choice#
+Ask for details
+We should discuss saving Gin
+##
+
+<話を詳しく聞く>
+
+<ギンの救助について話し合うべき>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."This isn't the time for that, Nao!!"
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."I think... it's relevant...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](No good... Nao's not changing her mind!)
+##
+
+<Choice End>
+
+{Sara} [Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent28-1}
+#Message#
+"Please, continue...!"
+##
+
+{Nao}
+#Message#
+\."Once I finishing talking to Professor Mishima,
+ I left the Monitor Room... and I vowed
+ I would never go back there!"
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."But... but...!!"
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."I just couldn't bear it...!
+ I wanted to talk to the professor again!!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Even knowing I shouldn't...
+ My legs carried me to the Monitor Room..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."But I wasn't able to enter..."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+\."A sound like shattering rang out!
+ So I immediately hid myself in the lobby."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And I saw... Reko leaving the Monitor Room,
+ with blood dripping from her hand..."
+##
+
+#Message#
+\."Her fist... it looked like there were
+ fragments stuck in it...!"
+##
+
+#Message#
+\."I froze up with fear,
+ and Reko passed by without noticing me..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent21-1}
+#Message#
+\."When I entered the Monitor Room afterward,
+ Professor Mishima... was..."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Reko must have punched with all her might
+ and destroyed it!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."But Reko just went on keeping it a secret...!"
+##
+
+[Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\."Thinking about it... it was about then...
+ that she started acting strange...!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Just what is she hiding?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Is Nao telling the truth...?
+ What in the world...)
+##
+
+#Message#
+\.\C[4](To confirm if she is...
+ Maybe I should ask a certain someone.)
+##
+
+#Choice#
+Ask Keiji
+Ask Kanna
+Ask Sou
+##
+
+<ケイジさんに話を聞く>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Keiji, you did an investigation
+ into the monitor, didn't you?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+".........."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Whew..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."If you think that's what's important, Sara...
+ Guess I'll talk."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...Reko broke the monitor.
+ Your friendly policeman saw it too."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](What...?!)
+##
+
+<カンナに話を聞く>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+"Kanna... Honestly tell me everything you know!"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+"K... Kanna doesn't know anything!
+ It's true, Sara...!"
+##
+
+{Sara}
+#Message#
+\C[4](This statement isn't any use...!)
+##
+
+<ソウに話を聞く>
+
+{Sara} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+"Sou... Naturally, you would know..."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+"Eh...?! Sorry, but at the time,
+ I was just sleeping, remember...?"
+##
+
+{Sara}
+#Message#
+\C[4](Right... He had an alibi...)
+##
+
+<Choice End>
+

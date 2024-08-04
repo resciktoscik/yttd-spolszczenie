@@ -1,0 +1,137 @@
+**********Common1634********** (●ｿｳ「ﾋﾂｷﾞ見分け」)
+{Sou}
+#Message#
+"...Can you think of anything, miss Sara?
+ A way to \C[2]see what the eye can't see\C[0]..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...Wrong, miss Sara."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...Sara, you idiot."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+"Well? Thought of anything, miss Sara?"
+##
+
+#Choice#
+Use our ears or noses
+Use an item
+Trust in luck
+##
+
+<耳や鼻を使う>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+{SE: Accent40-1}
+#Message#
+"How about we judge by using our ears or noses...
+ in other words, by smell or sound?"
+##
+
+{Sou} [Sou: Sarcastic eyes / cara5-10]
+{SE: Accent21-1}
+#Message#
+\."...What are you, a dog? Or a honeycomb moth?
+ Go ahead, huff it in all you like."
+##
+
+{Sara}
+#Message#
+\.\C[4](What a cruel remark...!)
+##
+
+<道具を使う>
+
+{Sara} [Sou: Sarcastic eyes / cara5-10]
+{SE: Accent40-1}
+#Message#
+"How about we use an item?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent21-1}
+#Message#
+\."Guess you thought of something...
+ Well? Show me what this item is..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll present it to him...)
+##
+
+<運を信じる>
+
+{Sara} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent40-1}
+#Message#
+"Let's bet on the 1-in-8 chance.
+ Don't worry, I'm a lucky girl."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: shrink1}
+#Message#
+\."...From an entirely objective standpoint,
+ you're a very unlucky girl, actually."
+##
+
+{Sara}
+#Message#
+\."W-Well, maybe not, then...!"
+##
+
+<Choice End>
+

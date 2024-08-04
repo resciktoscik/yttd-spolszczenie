@@ -1,0 +1,22 @@
+**********Common1104********** (呼・タヅナの幻影)
+{Keiji}
+{SE: heart2}
+#Message#
+\C[4](...!)
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"What's the matter?"
+##
+
+{Keiji}
+#Message#
+\."Oh, nothing..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Wahah... Business as usual."
+##
+

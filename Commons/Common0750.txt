@@ -1,0 +1,118 @@
+**********Common750********** (Q「ｿｳ賢者無理」)
+{Q-taro}
+#Message#
+"I kept my tablet on me at all times!!
+ Sou didn't have a chance to do tomfoolery!"
+##
+
+#Message#
+"Sou was convinced the whole time
+ that Sara traded away the \C[10]Sacrifice\C[0]."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"W... What's the big idea...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"I ain't backin' down!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+"Lookit! See, I got my tablet right here!
+ Proof it wasn't stolen!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."That's to say, Sou fell for Keiji's trick!"
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."The location of the \C[10]Sacrifice\C[0], or any other card...
+ He didn't know one lick 'bout the truth!!"
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."If he'd stolen my tablet when he knocked me out,
+ maybe he could've learned my card..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+\."But I kept it on me at all times to avoid just that!!
+ Kept it tucked beneath my clothes!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Sou didn't have a chance to do tomfoolery!
+ He's a \C[5]Commoner\C[0]!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](His tablet, huh...)
+##
+

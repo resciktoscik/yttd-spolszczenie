@@ -1,0 +1,23 @@
+**********Common1516********** (⑦レコB選択)
+{N/A}
+#Message#
+"I'll \C[2]provoke\C[0] them!
+ Let 'em rampage as much as they like!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

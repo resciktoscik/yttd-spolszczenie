@@ -1,0 +1,187 @@
+**********Common172********** (ｶﾝﾅ「私は…」)
+{Kanna}
+#Message#
+"Even if... Kanna's chosen... it's fine."
+##
+
+#Message#
+"K... Kanna..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"W... What is it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"Kanna... doesn't really understand..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Kanna}
+#Message#
+"Kanna... doesn't really understand..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+"All of it... it doesn't matter anymore..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What are you saying...?
+ Kanna...)
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"..."
+##
+
+#Message#
+\."...Sara..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Sara}
+#Message#
+\."What's the matter, Kanna?"
+##
+
+#Choice#
+You want to say something, right?
+Are you afraid?
+##
+
+<言いたいことがあるんだろ？>
+
+{Sara} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Come out and say it."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Kanna..."
+##
+
+<怯えているのか？>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."Are you afraid?"
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."...No..."
+##
+
+#Message#
+\."...Kanna..."
+##
+
+<Choice End>
+
+{Sara} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."...?"
+##
+
+{Kanna}
+#Message#
+\."...Kanna..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...doesn't... care what happens anymore."
+##
+
+{Sara}
+#Message#
+\."Kan... na...?"
+##
+
+{Kanna}
+{SE: Accent21-1}
+#Message#
+\."Even if she's chosen... it's fine."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+

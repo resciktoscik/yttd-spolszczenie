@@ -1,0 +1,34 @@
+**********Common1485********** (⑥前・ランマルB選択)
+{N/A}
+#Message#
+"Maple's going to attack...!
+ I'll be a decoy!! You do something in the meantime!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+"I'll be a decoy as many times as it takes...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

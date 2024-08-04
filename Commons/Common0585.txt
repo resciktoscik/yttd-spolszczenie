@@ -1,0 +1,413 @@
+**********Common585********** (交渉２－夜　ケイジ)
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"...Sara, no token trades.
+ Can we talk?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Wonder if you don't even wanna spare a word
+ for this here policeman..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+\."C'mon, sit down.
+ I'll get some coffee."
+##
+
+{Sara}
+#Message#
+\."No... I'm fine..."
+##
+
+{Keiji}
+#Message#
+\."Right then..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Kinda awkward, huh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji...)
+##
+
+#Message#
+\.\C[4](He doesn't want me knowing his personal info...)
+##
+
+#Message#
+\.\C[4](I'm sure of it...
+ Keiji has secrets he hasn't told anyone...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."...Trust, huh..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."What do you have to do to earn it, eh...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Not lie
+Act with sincerity
+Trust others yourself
+##
+
+<ウソをつかない>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."Don't keep secrets...
+ and always speak the truth, right?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Hmm... Sounds tough."
+##
+
+{Sara}
+#Message#
+\."For people who don't do guilty things...
+ it should be easy."
+##
+
+<誠意ある行動>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."It's about the way you've acted... right?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Ahh, so I see..."
+##
+
+#Message#
+\."...No wonder you're trusted, Sara."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."If they're always clouded in smoke...
+ You can't get a grasp on a person's humanity."
+##
+
+<自分から信用する>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\."When you want to earn trust from someone..."
+##
+
+#Message#
+\."You have to trust that person, too."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Ahh, so I see..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Could you be mad at me, Sara...?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Don't mess up that cute face."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."I... want to trust you, Keiji..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."I don't want to distrust anyone..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Because... we're allies."
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."Allies..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."But, Keiji..."
+##
+
+#Message#
+\."You never show what you're really thinking..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."What in the world are you hiding...?"
+##
+
+#Message#
+\."Please, tell me..."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."..."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."...Hoo boy."
+##
+
+[Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."Hurts to see you make that face, Sara..."
+##
+
+#Message#
+\."..."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."Sara..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: Accent28-1}
+#Message#
+\."Do you remember our talk
+ in the Blue Room on the first floor?"
+##
+
+{Sara}
+#Message#
+\."What are you referring to...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."How I said... I shot a person."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."They're traumatic memories... Things I don't wanna
+ tell others about if I can help it."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."The person I shot... was a criminal..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: sceneswitch2}
+#Message#
+\."And died."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Keiji} [Keiji: Left arm down, stern / cara2-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And that person was someone precious to me."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...?!"
+##
+
+#Message#
+\."You were acquainted with them...?!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I'm a killer."
+##
+
+#Message#
+\."Not even permitted... to be judged by the law..."
+##
+
+[Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."...A true piece of shit,
+ burdened with my sin for life."
+##
+
+{Sara}
+#Message#
+\."Keiji...?"
+##
+
+{Keiji}
+#Message#
+\."...Gh..."
+##
+
+[Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."...gh..........\| Guh...!!"
+##
+
+#Message#
+\.".........."
+##
+
+[Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."..."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."Well... so that's the kind of guy I am..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Sara, your friendly policeman..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."Can't even trust himself."
+##
+
+#Message#
+\."Not ever... since that day."
+##
+
+{Sara}
+#Message#
+\."...Keiji..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Sure ran my mouth there."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Truth is... maybe you're better off
+ not trusting me after all... huh."
+##
+
+{Sara}
+#Message#
+\C[4](He left...)
+##
+
+#Message#
+\.\C[4](Well... I guess that's it for discussions...)
+##
+

@@ -1,0 +1,594 @@
+=====Map34===== (②■Pink Room)
+
+**********Event1********** (nao) (10,5)
+-----Page1-----
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]Nao is sitting by the professor, dumbfounded.
+##
+
+
+**********Event2********** (misima) (9,6)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Professor Mishima... in a pool of blood.
+##
+
+#Message#
+\.\C[3]...I'm afraid to come any closer.
+##
+
+
+**********Event3********** (keizi) (1,0)
+-----Page1-----
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji seems to be in thought...)
+##
+
+#Choice#
+Everyone went outside, huh
+Stand silently
+##
+
+<みんな外へ出てしまいましたね>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\.".........."
+##
+
+#Message#
+\."They all need time to think right now."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."So do you, Sara...
+ And me too, 'course."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...I'm sure everybody'll come back."
+##
+
+<黙って立ち去る>
+
+<Choice End>
+
+
+**********Event4********** (gin) (7,5)
+-----Page1-----
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"..."
+##
+
+{Sara}
+#Message#
+\."Gin, I know how you feel,
+ but you shouldn't be here..."
+##
+
+{Gin}
+#Message#
+\."...J-Just a little longer, meow..."
+##
+
+#Message#
+\."It was just for a little bit... but...
+ We did go searching together, woof..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin...)
+##
+
+
+**********Event6********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event7********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event8********** (EV008) (8,0)
+-----Page1-----
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Hm...? Sara... Is that..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."H-Hwahhhhh...?!"
+##
+
+#Message#
+\."T-The hell is this about?
+ That guy on your shoulder...?!"
+##
+
+{Sara}
+#Message#
+\."Lend me a hand, please!
+ You see...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I told them what happened in the Red Room.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Relax. He's just fainted."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Who in the world is this guy..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...He's got a collar."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](A collar...!)
+##
+
+#Choice#
+Aha! He's on our side!
+Let's tie him up
+##
+
+<そうか！　彼は仲間です！>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...Would be nice.
+ As the friendly neighborhood policeman, though,
+ I'm wary about how we haven't seen him before."
+##
+
+{Sara}
+#Message#
+\.\C[4](That's true...
+ Was he in the Red Room this whole time?)
+##
+
+<縄で縛りましょう>
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Ahh, you don't miss a beat, Sara."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."...We'll tie him with whatever we got available."
+##
+
+<Choice End>
+
+{Sara} [Reko: Mouth open / cara6-2]
+#Message#
+\.\C[4](It'll be hard to figure out
+ his situation until he wakes up...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."As long as he doesn't move, should be fine.
+ Once he's up, let's leisurely question him."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{N/A}
+#Message#
+\.\C[3]As I felt a bit of relief, my attention
+unavoidably turned toward the situation in the room.
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."Uhh... Keiji.
+ Are Nao and Gin still..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Yeah.
+ Still the same as ever."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."They haven't moved an inch.
+ ...Hurts me to see, too."
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+#Choice#
+Shouldn't you leave?
+Might you want to investigate?
+##
+
+<部屋から出ればいいじゃないですか>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."No thanks."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."Listen, somebody's gotta investigate Mishima.
+ Am I right?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."And even I'm not some kinda drill sergeant
+ who'd ask someone else to do it."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."...No need for somebody to wear themselves down.
+ Since we happen to have a pro here."
+##
+
+<もしかして調査したいんですか？>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Well, yeah."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."It's hard, but somebody's gotta do it...
+ And I just so happen to be a pro."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."...Though this is my first time
+ investigating a body I once talked to."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+{SE: Accent28-1}
+#Message#
+\."It... is hard for you after all, huh?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Dummy.
+ Nao's got it a million times worse."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Losing somebody she respects... Man..."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Default / cara1-11]
+#Message#
+\."...U-Um!
+ Is there someone you respect, Keiji?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...Maybe there was."
+##
+
+{N/A}
+#Message#
+\."A message for those in the room."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+{N/A}
+#Message#
+\."Please exit the room quickly
+ to allow for retrieval of the corpse."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Retrieval... of the corpse?"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...D..."
+##
+
+[Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."Don't be ridiculous!!"
+##
+
+#Message#
+\."I won't... I won't give the professor to anyone!!"
+##
+
+{N/A}
+#Message#
+\."Defiance will not be tolerated."
+##
+
+#Message#
+\."Beginning fog dissemination."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."That... gas again...!"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."No...!\.\. Stop!!\.\. Please, stop!!"
+##
+
+#Message#
+\."The professor... isn't dead at all...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]With that, Nao took part of Mishima...
+##
+
+#Message#
+\.\C[3]and put it...\.\. in the box Q-taro had brought.
+##
+
+{Gin}
+#Message#
+\."W-What're you doing, meow?!
+ You shouldn't do that, woof!!"
+##
+
+{Nao}
+#Message#
+\."Please get out of my way!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Nao brushed the others aside and took off running.
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Hold on, meow!!"
+##
+
+{Sara}
+#Message#
+\."Gin, don't!! Wait!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Now this is no good...
+ Sara, Joe, let's give chase."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Please! Nao's lost her cool!
+ So treat her carefully!!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+"Huh?! Where'd she go?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](No way... Did she go \C[2]up the stairs\C[4]?!)
+##
+
+-----Page3-----
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."...What an eye-searing color."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... If you want to search, do as you please.
+ I won't assist, but I won't impede either..."
+##
+
+
+**********Event9********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event10********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event44********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event45********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event46********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event47********** (EV047) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event48********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event49********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event50********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event51********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event52********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event53********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

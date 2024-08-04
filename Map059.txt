@@ -1,0 +1,517 @@
+=====Map59===== (Waiting Room)
+
+**********Event1********** (heomi-) (8,2)
+-----Page1-----
+#Message#
+\C[3]Miley is pictured on the screen.
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+"Eheehee... Everyone... How are you feeling?"
+##
+
+{Sara}
+#Message#
+\."Miley...!"
+##
+
+#Choice#
+What did you do to me?!
+Where are the others?!
+##
+
+<私に何をした！>
+
+<他のみんなはどこだ！>
+
+<Choice End>
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+"This is a pre-recorded video.
+ ...So I'm afraid I can't answer any questions."
+##
+
+[Miley: Default smile / cara14-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Allow me to thank you, truly,
+ for taking part in the \C[2]Main Game\C[0]."
+##
+
+{Sara}
+#Message#
+\.\C[4](Main Game...?!)
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."This is a waiting room prepared for participants...
+ The \C[2]Last Supper Room\C[0]."
+##
+
+#Message#
+\."You may fill yourself with food before the game,
+ or form a strategy. Use it however you please."
+##
+
+{Sara}
+#Message#
+\.\C[4](W... What is she saying...)
+##
+
+{Miley}
+#Message#
+\."Those who successfully beat the Main Game
+ can proceed to the next floor! Hooray!"
+##
+
+#Message#
+\."Note that those who do not exit their waiting rooms
+ once the Main Game starts will die as a penalty."
+##
+
+#Message#
+\."Do keep that in mind... Eheehee."
+##
+
+{Sara}
+#Message#
+\.\C[4](The next... floor...)
+##
+
+{Miley}
+#Message#
+\."I will now explain the rules of the Main Game.
+ Everyone, please take the \C[2]card\C[0] you obtained
+ while exploring and touch it to this screen."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...Card...?)
+##
+
+-----Page2-----
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+"You have your card, yes?
+ Now, I will begin to explain."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."The basic rules are profoundly simple.
+ One person will be selected by majority vote,
+ and that person will die. That is all."
+##
+
+{Sara}
+#Message#
+\.\C[4](What are you calling "simple"...?!)
+##
+
+{Miley}
+#Message#
+\."The vote will be split into two parts."
+##
+
+#Message#
+\."Through the first round, the \C[2]preliminary vote\C[0],
+ half the total will be chosen as candidates."
+##
+
+#Message#
+\."Currently 11 are alive, so this will be \C[2]5\C[0]."
+##
+
+#Message#
+\."A \C[2]final vote\C[0] will be held using these,
+ deciding the ultimate \C[2]victim\C[0]."
+##
+
+[Miley: Default smile / cara14-1]
+#Message#
+\."In short, the victim is decided by gradually
+ narrowing it down from 11 people, to 5, to 1!"
+##
+
+[Miley: Smug smile / cara14-6]
+{SE: Accent21-1}
+#Message#
+\."Of course, even those not chosen as candidates
+ will participate in the vote itself!
+ Please, do kill of your own volitions!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Stop it...! Stop this...!)
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+{SE: Accent28-1}
+#Message#
+\."However, there are holes in this game."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."We do not care for intentless games of luck."
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+\."Such worthless acts as using rock-paper-scissors
+ to fairly decide the victim are forbidden!"
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."And so, everyone, please take out your cards!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Cards...)
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."There are four \C[2]roles\C[0] given by the cards."
+##
+
+#Message#
+\."The first is the \C[4]Commoner\C[0]."
+##
+
+#Message#
+\."This is a meaningless card with no power at all."
+##
+
+#Message#
+\."The second is the \C[2]Keymaster\C[0]."
+##
+
+#Message#
+\."And oh my! It's a terrifying role indeed,
+ for if chosen as the victim, everyone will perish!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](\C[2]Keymaster\C[4]... That's my card!)
+##
+
+{Miley}
+#Message#
+\."Third is the \C[3]Sage\C[0]."
+##
+
+#Message#
+\."By holy divination, they know who the \C[2]Keymaster\C[0] is.
+ A very lucky role! Congratulations to its owner!"
+##
+
+#Message#
+\."Fourth is the \C[10]Sacrifice\C[0]."
+##
+
+#Message#
+\."Amazingly, this curious card allows the person
+ to survive only if chosen as the victim!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Wha...?!)
+##
+
+{Miley}
+#Message#
+\."Which means if they're not chosen, they die!
+ However, there are positives as well!"
+##
+
+#Message#
+\."The \C[10]Sacrifice\C[0] alone gets 2 votes, and also..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."If they win, they can escape alive
+ with a person of their choice!"
+##
+
+#Message#
+\."Well, but in that case... all the others will perish.
+ So good luck!"
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There is one \C[2]Keymaster\C[0], \C[3]Sage\C[0], and \C[10]Sacrifice\C[0] each.
+ All the rest are \C[4]Commoners\C[0].
+ Committed it to memory, yes?"
+##
+
+{Sara}
+#Message#
+\.\C[4](H... Hold on...)
+##
+
+#Message#
+\.\C[4](Does this mean... Could it be...)
+##
+
+{Miley}
+{SE: shock1}
+#Message#
+\."So at minimum, two people will die.
+\! Everyone, do your best not to be one of them!"
+##
+
+{Sara}
+#Message#
+\.\C[4](No way...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I felt like... I heard something at that moment.
+##
+
+#Message#
+\.\C[3]The loud sound of someone fainting in the room over.
+##
+
+-----Page3-----
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+"There is still time until the Main Game begins.
+ Please spend your time freely here."
+##
+
+-----Page4-----
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+"If you wait 10 minutes without leaving,
+ you will be killed as penalty. Please hurry."
+##
+
+#Choice#
+..........
+Don't leave
+##
+
+<………>
+
+<出て行かない>
+
+{Sara} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\.\C[4](Sure enough...
+ Maybe I'd be happier not leaving here...)
+##
+
+#Choice#
+Leave
+Stay here
+##
+
+<出ていく>
+
+<ここに残る>
+
+{N/A} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\C[3]If only it were all a dream...
+##
+
+#Message#
+\.\C[3]When I woke up... mom would make me delicious food...
+##
+
+#Message#
+\.\C[3]I'd talk to dad, and meet Joe and Ryoko
+at school like usual...
+##
+
+#Message#
+\.\C[3]And just have an aimless chat...
+##
+
+#Message#
+\.\C[3]..........
+##
+
+<Choice End>
+
+<Choice End>
+
+
+**********Event2********** (ryouri) (8,5)
+-----Page1-----
+#Message#
+\C[3]An extravagant feast.
+##
+
+-----Page2-----
+#Message#
+\C[3]An extravagant feast.
+##
+
+{Sara}
+#Message#
+\.\C[4](How could I have any appetite right now...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]In the end, we're being held in
+the palms of the kidnappers' hands.
+##
+
+#Message#
+\.\C[3]Our heads can fly off at their single whim.
+##
+
+#Message#
+\.\C[3]There might not be any exit.
+We'll just be toyed with and killed
+until they're satisfied.
+##
+
+{Sara}
+#Message#
+\.\C[4](In that case... then we're just going to...)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{N/A}
+#Message#
+\.\C[3]It's a strange thing.
+##
+
+#Message#
+\.\C[3]I'd felt death was near again and again.
+##
+
+#Message#
+\.\C[3]Maybe there was no chance left to be afraid.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]I... don't want to die.
+##
+
+#Message#
+\.\C[3]Even at this point... I want to keep going.
+##
+
+{Sara}
+#Message#
+\.\C[4](Haha... I'm coming to hate my own positivity.)
+##
+
+#Message#
+\.\C[4](I'll do whatever I can...
+ If I mess up, everyone will die.)
+##
+
+#Message#
+\.\C[4](This worst of cards... seems to me pushing me on.)
+##
+
+{N/A}
+#Message#
+\.\C[3]I only drank a little water...
+##
+
+#Message#
+\.\C[3]And the time... arrived.
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+"It's now time. Please head to the grounds
+ via the door near the screen, everyone."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."I wish you luck. Eheehee... Ahaha..."
+##
+
+-----Page3-----
+#Message#
+\C[3]An extravagant feast.
+##
+
+
+**********Event4********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event37********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event38********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event39********** (EV039) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event40********** (りぼるばー) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

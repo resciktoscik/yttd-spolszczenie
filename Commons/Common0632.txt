@@ -1,0 +1,174 @@
+**********Common632********** (犠牲者ﾋﾞﾃﾞｵ３再生)
+{Voice}
+#Message#
+".........."
+##
+
+{Girl?}
+#Message#
+".........."
+##
+
+#Message#
+\.".........."
+##
+
+{Voice}
+#Message#
+\.\C[10]"Ahhh, worthless...
+ You had to die so easily..."
+##
+
+{Ranger}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]"Struggle some more...
+ Cling to life... Put up a miserable resistance...!"
+##
+
+#Message#
+\.\C[10]"A boring human... a worthless life..."
+##
+
+#Message#
+\.\C[10]"...I don't need your damn clothes."
+##
+
+{Girl?}
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\sp[12]"...haha..."
+##
+
+{Ranger}
+#Message#
+\.\C[10]"...Ehh?"
+##
+
+{Girl}
+#Message#
+\.\sp[12]"...you... did this...?"
+##
+
+{Ranger}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]"...Eheehee. Sure did.
+ You mortified? Regretful?"
+##
+
+{Girl?}
+#Message#
+\.\sp[12]"...I was just..."
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sp[12]"...wanting to die..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\sp[10]"...thank... you..."
+##
+
+{Ranger}
+#Message#
+\.\C[10]".........."
+##
+
+#Message#
+\.\C[10]"...Huh?"
+##
+
+#Message#
+\.\C[10]"Huhhh? Hwahhh?"
+##
+
+#Message#
+\.\C[10]"You should be MISERABLE...!!
+ Disgusting... disgusting!!"
+##
+
+#Message#
+\.\C[10]"This is pissing me off!! I'm pissed off!!"
+##
+
+{SE: feed1}
+#Message#
+\.\C[10]"SUFFER!!"
+##
+
+{SE: feed1}
+#Message#
+\.\C[10]"Go to hell!! GO TO HELL!!"
+##
+
+{SE: Damage4}
+#Message#
+\.\C[10]"You're gonna REGRET thanking me!!"
+##
+
+{Sara}
+#Message#
+\C[4](How can he...?!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Again and again, he torments the life already lost.
+##
+
+{Sara}
+#Message#
+\.\C[4](Just what is this intense hate...?!)
+##
+
+#Message#
+\.\C[4](Why... would Ranger hate someone so much?)
+##
+
+#Message#
+\.\C[4](Even though he toys with people's lives...?
+ It doesn't make sense!)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](...Jealousy?)
+##
+
+{N/A}
+#Message#
+\.\C[3]Even I don't know why I thought that.
+##
+
+#Message#
+\.\C[3]But something intuitively struck me.
+##
+
+#Message#
+\.\C[3]I sensed... a kind of jealousy from Ranger.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I wonder...
+ Is it jealousy toward humans...?)
+##
+
+#Message#
+\.\C[4](...I should stop,
+ Just thinking about someone like him...
+ is making my heart hurt.)
+##
+

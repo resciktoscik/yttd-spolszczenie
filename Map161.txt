@@ -1,0 +1,71 @@
+=====Map161===== (❹OP Sou 2)
+
+**********Event2********** (soukun) (10,5)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[10]I'm collapsed on the floor.
+##
+
+-----Page2-----
+{N/A}
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]I'm dead.
+##
+
+{Sou}
+#Message#
+\."..."
+##
+
+#Message#
+\."I see. That time miss Nao attacked me..."
+##
+
+#Message#
+\."Every remaining trace... all of it..."
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\.\C[10]I'm dead.
+##
+
+
+**********Event4********** (pasopaso) (6,5)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[10]An important laptop.
+##
+
+{Sou}
+#Message#
+\.\C[4](This...)
+##
+
+#Message#
+\.\C[4](I remember.
+ It's Kai's laptop that I found on the first floor.)
+##
+
+#Message#
+\.\C[4](It's gone...)
+##
+
+#Message#
+\.\C[4](It was stolen...)
+##
+
+#Message#
+\.\C[4](By miss Nao, when she...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[10]The laptop was stolen.
+##
+

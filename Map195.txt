@@ -1,0 +1,551 @@
+=====Map195===== (⑤Outside Gate)
+
+**********Event1********** (紙) (4,6)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a piece of paper stuck into the gate.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's got some drawings on it...)
+##
+
+{SE: Accent28-1}
+#Message#
+\."Is this a floor map...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."How generous.
+ Never gotten anything like this before..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."That \N[4] must feel really confident
+ we're not gonna win..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Hmph... He must be quite confident
+ that we won't be able to kill him..."
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Where are we now, I wonder...?"
+##
+
+{Sara}
+#Message#
+\."Hmm..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...That's not it."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."He wants to enjoy this... \N[4]..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Incidentally... Where are we right now?"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."Looking at the map..."
+##
+
+#Message#
+\."It looks like this is our current location."
+##
+
+{Q-taro}
+#Message#
+\."Man, though... Some dicey-lookin' rooms here."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Accent21-1}
+#Message#
+\."But if we use this, we won't get lost!
+ Think positive, Q-taro!"
+##
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\."Hm... Yeah, guess so!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+\."No point in getting scared.
+ Let's make good use of this info."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."R... Right!"
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Floor Map.
+##
+
+
+**********Event3********** (mon) (8,12)
+-----Page1-----
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](The gate is open...!)
+##
+
+#Choice#
+Go inside
+Cancel
+##
+
+<中に入る>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]The large gate is shut fast.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is it locked, maybe...?)
+##
+
+
+**********Event4********** (kannbann) (8,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]It reads:
+"When the dead assemble, the banquet shall begin."
+##
+
+{Sara}
+#Message#
+\C[4](Banquet...?)
+##
+
+
+**********Event27********** (dennki) (14,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The yellow posts are electrified.
+##
+
+{Sara}
+#Message#
+\.\C[4](Can't even try to hop over...)
+##
+
+
+**********Event65********** (自動) (1,0)
+-----Page1-----
+{Voice}
+#Message#
+"Heyyy!"
+##
+
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Accent28-1}
+#Message#
+"Sara! I'm glad to see yooou!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Mai!"
+##
+
+#Choice#
+I'm glad you're okay
+Where's Q-taro?
+Where's Keiji?
+##
+
+<無事でよかった>
+
+{Sara} [Mai: Mouth open / cara92-1]
+{SE: Accent40-1}
+#Message#
+"I'm glad you're okay... Really glad..."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent21-1}
+#Message#
+\."Eheheh, thanks!"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Hey! Where's muscle gorilla?!
+ Why aren't you together, meow?!"
+##
+
+{Mai} [Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+{SE: Accent24-1}
+#Message#
+\."Relax! Since he's injured, I'm having him hide!"
+##
+
+<Qタロウさんは？>
+
+{Sara} [Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+{SE: Accent40-1}
+#Message#
+"Where's Q-taro...?
+ You aren't with him?"
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent21-1}
+#Message#
+\."Oh, we're together!"
+##
+
+[Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+#Message#
+\."I'm just having him hide, since he's injured!"
+##
+
+<ケイジさんは？>
+
+{Sara} [Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+#Message#
+"Where's Keiji...?! Have you seen him?!"
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+"I-I haven't! Calm down...!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."T-Then what about muscle gorilla?!
+ Why isn't he with you, meow?!"
+##
+
+{Mai} [Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+{SE: Accent24-1}
+#Message#
+\."Relax! Since he's injured, I'm having him hide!"
+##
+
+<Choice End>
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: flash-of-light-3}
+#Message#
+\."Really, woof?! I'm so glad, meowww!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry we couldn't have come quicker..."
+##
+
+<Else>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... It seems we've avoided the worst..."
+##
+
+<Condition End>
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+#Message#
+\."But, tell me... How's Kurumada...?"
+##
+
+{Sara}
+#Message#
+\."Kurumada's safe, too.
+ He's charging up in the charging room."
+##
+
+{Mai} [Mai: Smile / cara92-2]
+{SE: Accent42-1}
+#Message#
+\.".........."
+##
+
+[Mai: Closed-eyes smile / cara92-3]
+{SE: Accent21-1}
+#Message#
+\."...I see! That's great!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+\."Hey, everyone... I found out something huge...!"
+##
+
+[Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: sceneswitch2}
+#Message#
+\."A way we can beat \N[4]
+ with the Dummies still alive!"
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+#Message#
+\."Is that true?!"
+##
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Smile / cara96-6]
+#Message#
+\."No waaay!! That's amazing, Mai!!"
+##
+
+<Condition End>
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+#Message#
+\."Err... so you see..."
+##
+
+[Mai: Mouth open / cara92-1]
+{SE: Accent41-1}
+#Message#
+\."We need the ID card for it."
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\."..."
+##
+
+#Choice#
+I have it
+I don't have it
+##
+
+<持ってます>
+
+{Sara} [Mai: Mouth open / cara92-1]
+{SE: Accent40-1}
+#Message#
+"...I have it, of course, but..."
+##
+
+<持ってません>
+
+{Sara} [Mai: Mouth open / cara92-1]
+{SE: Accent40-1}
+#Message#
+"...Oh, I don't have it."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Big sis Sara! You shouldn't lie, meow!"
+##
+
+<Choice End>
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent42-1}
+#Message#
+\."Oh, good! Hand it over, pretty please!"
+##
+
+[Mai: Mouth open / cara92-1]
+{SE: Accent21-1}
+#Message#
+\."I'll go give it to Q-taro!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Huh? You won't let us meet him...?"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."...Let's all go together to give it to him."
+##
+
+<Condition End>
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent28-1}
+#Message#
+\."You can't! He's concentrating really hard!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent21-1}
+#Message#
+\."I dunno what Q-taro's thinkin', but it's fine, right?"
+##
+
+[Reko: Default / cara6-1]
+#Message#
+\."We meant to give this back to Maple anyhow..."
+##
+
+<Else>
+
+{Alice} [Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\."...I say give it to her."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."We intended to return it to Maple at any rate..."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](I guess so...)
+##
+
+{SE: Accent40-1}
+#Message#
+\."Understood."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Handed Mai the ID card.
+##
+
+{Mai} [Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+{SE: Accent24-1}
+#Message#
+\."Thank yooou, Sara! Muah! Muah!"
+##
+
+{Sara}
+#Message#
+\."U-Um...!
+ At any rate, please look after Q-taro for us!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+"...We can believe her, right...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\C[4](Maybe... we should try following her...)
+##
+
+<Else>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+"...Well then, let's follow."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."She's hiding something. It's obvious, right?"
+##
+
+{Sara}
+#Message#
+"..."
+##
+
+<Condition End>
+

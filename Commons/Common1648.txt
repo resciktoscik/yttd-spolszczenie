@@ -1,0 +1,140 @@
+**********Common1648********** (■ﾋﾅｺ「ﾎｯﾄｺｺｱ」)
+{Hinako}
+#Message#
+"True, I spilled \C[2]hot cocoa\C[0] on Ranmaru's coffin...
+ But surely that's irrelevant!"
+##
+
+#Message#
+"Nothing abnormal happened to my coffin..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"What're you on about?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"I do feel bad about it, you know..."
+##
+
+#Message#
+"Nothing unusual happened at all..."
+##
+
+{Sara}
+#Message#
+\."Really...?"
+##
+
+#Choice#
+Press further
+Cancel
+##
+
+<もっと追求する>
+
+{Sara} [Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent40-1}
+#Message#
+"I'm not just asking about your coffin.
+ Maybe a nearby coffin..."
+##
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+#Message#
+\."So stubborn..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Are you hiding something?"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Huh?! How do you figure that?!"
+##
+
+[Hinako: Grave look / cara93-11]
+#Message#
+\."I-If I had to say..."
+##
+
+[Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent41-1}
+#Message#
+\."I did pour some hot cocoa on Ranmaru's coffin..."
+##
+
+[Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."But as if something like that is relevant!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](That's a new statement...)
+##
+
+<やめる>
+
+{Sara} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\C[4](No... I'll believe her.)
+##
+
+<Choice End>
+

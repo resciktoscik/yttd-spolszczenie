@@ -1,0 +1,670 @@
+**********Common1731********** (３前進展⑭２人目の犠牲)
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+"Ohh...! Well? Is it the right one?!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent41-1}
+#Message#
+"...!"
+##
+
+[Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+\."...No way...!!"
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+\."...!!"
+##
+
+#Message#
+\."M-Miss Sara..."
+##
+
+[Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."Win for me!! Gin... protect hi..."
+##
+
+<Else>
+
+<Condition End>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+{SE: Accent41-1}
+#Message#
+"...Ah..."
+##
+
+[Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."Ahhh... ahhhhhh...."
+##
+
+#Message#
+\."S-Sa... ra... Q-taro..."
+##
+
+[Mai: Worried eyebrows, crying, closed teeth, grim look / cara92-16]
+#Message#
+\."\N[4]... you have to stop hi..."
+##
+
+<Else>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+"...A... Ahh..."
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent28-1}
+#Message#
+"Too bad! You hit \V[988]!"
+##
+
+<Else>
+
+{Sara}
+#Message#
+\C[4](...!!)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](What... happened...?)
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: horror_piano chord3}
+#Message#
+"I told you... it's impossible."
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent28-1}
+#Message#
+\."Too bad! You hit \V[988]!"
+##
+
+<Condition End>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+"...A... Ahh..."
+##
+
+{Meister}
+{SE: Accent28-1}
+#Message#
+"Too bad! You hit \V[988]!"
+##
+
+<Else>
+
+{Sara}
+#Message#
+\C[4](...!!)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](What... happened...?)
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: horror_piano chord3}
+#Message#
+"I told you... it's impossible."
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent28-1}
+#Message#
+\."Too bad! You hit \V[988]!"
+##
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."It can't beeeee! Hayasakaaaaa...!!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."A... Ahh... It wasn't me... but Hayasaka..."
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."What's goin' on?! Ahh!! Hayasaka...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, hands out, furrowed brow, angry mouth / cara91-47]
+#Message#
+\."The hell's goin' on...?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."Ahh...! Hayasaka's body...!!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."No way... This time... Hayasaka..."
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Hayasaka!! Why's this have to happen
+ even after he died...?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, hands out, furrowed brow, angry mouth / cara91-47]
+#Message#
+\."The hell's goin' on...?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."Nooooo!! Maaaaai...!!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."Shit...! Why Mai?!
+ Why not me...?!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."Urgh...! Mai!! This can't be...!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."What's goin' on?! Ahh...! Mai!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, hands out, furrowed brow, angry mouth / cara91-47]
+#Message#
+\."The hell's goin' on...?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."Ahh! Mai's body...!!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."Shit...! She's already dead!!
+ What's the need for this?!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."Urk...! She's in pieces...!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Mai...! Why's this have to happen after you died?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, hands out, furrowed brow, angry mouth / cara91-47]
+#Message#
+\."The hell's goin' on...?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+#Message#
+\."A-Again..."
+##
+
+#Message#
+\."I missed again...?!"
+##
+
+{\N[4]} [Midori: Mouth open, swirly eyes / cara19-6]
+#Message#
+\."Ahaha! See? You drilled through an ally!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+\."I-I can't handle this...!"
+##
+
+[Kanna: Angry shout with tears (lightless eyes) / cara3-15]
+#Message#
+\."They're all going to be killed!
+ Gin... and the Dummies...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Hands out, mouth open, eyes with bags / cara5-31]
+#Message#
+\."W... Why'd we miss...?!"
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."At this rate... they're just gonna...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\."E-Everyone! Be calm!!"
+##
+
+#Message#
+\."This match hasn't been decided yet...!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent41-1}
+#Message#
+\."Oh, but hasn't it?"
+##
+
+{Sara}
+#Message#
+\."W-What's that...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."You're the ones who aren't calm."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."Here, let me summarize."
+##
+
+#Message#
+\."How many glowing coffins are there in total?"
+##
+
+{Sara}
+#Message#
+\."What are you saying..."
+##
+
+#Choice#
+Three
+Five
+Seven
+Nine
+##
+
+<３台>
+
+{Sara} [Midori: Default grin / cara19-2]
+{SE: Accent40-1}
+#Message#
+"Three...?"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Oh dear, miss Sara, you really have been broken!"
+##
+
+[Midori: Open-mouth frown / cara19-3]
+#Message#
+\."It's not a difficult question."
+##
+
+<５台>
+
+{Sara} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent40-1}
+#Message#
+"Five...!"
+##
+
+<７台>
+
+{Sara} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent40-1}
+#Message#
+"Seven...?"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Oh dear, miss Sara, you really have been broken!"
+##
+
+[Midori: Open-mouth frown / cara19-3]
+#Message#
+\."It's not a difficult question."
+##
+
+<９台>
+
+{Sara} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent40-1}
+#Message#
+"Nine...?"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Oh dear, miss Sara, you really have been broken!"
+##
+
+[Midori: Open-mouth frown / cara19-3]
+#Message#
+\."Come on, answer seriously, won't you?"
+##
+
+<Choice End>
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Correct! There are five glowing coffins!"
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: Accent21-1}
+#Message#
+\."And you've hit \C[10]\V[983]\C[0], \C[12]Hinako\C[0], and \C[10]\V[988]\C[0]."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent40-1}
+#Message#
+\."I'll use a hint on one of the remaining two coffins."
+##
+
+{Sara}
+#Message#
+\."I-If you do that, then...!!"
+##
+
+{\N[4]} [Midori: Mouth open, swirly eyes / cara19-6]
+{SE: shock1}
+#Message#
+\."Whether it comes up \C[12]blue\C[0] or \C[10]red\C[0],
+ I'll know the answer with 100% certainty."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent40-1}
+#Message#
+\."Furthermore, you've used a hint
+ on the \C[10]#\V[981] coffin\C[0], so..."
+##
+
+{Sara}
+#Message#
+\."...Ah...!!"
+##
+
+{\N[4]} [Midori: Mouth open, swirly eyes / cara19-6]
+{SE: shock1}
+#Message#
+\."There's only one coffin left, isn't there?"
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](...This is... absurd...)
+##
+
+{N/A}
+#Message#
+\C[3]There's no strength left in my legs.
+##
+
+#Message#
+\.\C[3]\N[4]'s explanation is correct.
+##
+
+#Message#
+\.\C[3]I was thinking only about if we hit him,
+not what would happen if we missed.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]He'll be able to select Gin with certainty next.
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]Meaning he'll definitely... be killed.
+##
+
+#Message#
+\.\C[3]That choice we just made... was our final choice...
+##
+
+{Sara}
+#Message#
+\."...Have... I..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...lost...?"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Ahaha... That's right..."
+##
+
+[Midori: Open-mouth frown / cara19-3]
+{SE: shrink1}
+#Message#
+\."Come on, stand up, miss Sara.
+ You still have a role, don't you?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."A role...?"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."To finish this out..."
+##
+
+[Midori: Mouth open, swirly eyes / cara19-6]
+{SE: sceneswitch2}
+#Message#
+\."Use a hint in my stead...
+ and let me know where Gin is."
+##
+
+[Midori: Smug smirk with grave look / cara19-31]
+{SE: Accent41-1}
+#Message#
+\."I'll let you say your goodbyes too, yes...?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{N/A}
+{SE: heart2}
+#Message#
+\.\C[3]Goodbyes...?
+##
+
+#Message#
+\.\C[3]Is this... our last moment with Gin?
+##
+
+#Message#
+\.\C[3]That can't be...
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+\."I see, so you feel too bad to show him your face..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Alright, Meister! I'll just have you do it..."
+##
+
+{Sara}
+#Message#
+\."W... Wait..."
+##
+
+#Message#
+\."...I'll do it...! I'll do it, so... stop it...!!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."Well then, chop chop!"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."Will it be \C[12]blue\C[0]? Or will it be \C[10]red\C[0]?
+ I'm so exciteeed!"
+##
+
+{Sara}
+#Message#
+\C[4](My mind... isn't working...)
+##
+

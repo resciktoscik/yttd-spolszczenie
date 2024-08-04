@@ -1,0 +1,362 @@
+**********Common53********** (カギボックス)
+#Message#
+\C[3]A large box, big enough to fit a watermelon.
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+#Message#
+\C[3]The key fits perfectly in the hole.
+##
+
+{Sara}
+#Message#
+\.\C[4](There are 3 keyholes. Which means...)
+##
+
+{Nao} [Nao: Raised finger / cara7-4]
+#Message#
+"Can we use our key, too?!"
+##
+
+{Sara}
+#Message#
+\."Let's try it!"
+##
+
+#Message#
+\."Oh... And I wonder if Kanna..."
+##
+
+{N/A}
+{SE: button13}
+#Message#
+\C[3]Took a red key from Kanna's clothes.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's not whittled down, but I'll give it a shot!)
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]The other two keys also fit perfectly.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Alright, this might be dangerous,
+ so leave it to the policeman."
+##
+
+#Message#
+\."And it's open."
+##
+
+{Sara}
+#Message#
+\."What's inside?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Ahh... You might not wanna look."
+##
+
+{N/A}
+#Message#
+\.\C[3]Unfortunately, I saw it before Keiji could speak.
+##
+
+#Message#
+\.\C[3]Inside was...
+##
+
+#Message#
+\.\C[10]A person's... \|\se[warning2,90,100,0]head...\|\|
+##
+
+{Sara}
+#Message#
+\."Waaah!!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"Noooooo!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."F-For real...?!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."...!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Wait... Isn't it just a doll?"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Huh...?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Oh, you're right."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Hm? A letter?"
+##
+
+{N/A}
+{SE: Book2}
+#Message#
+\.Find my body
+Bring me back
+For I don't have arms or legs
+##
+
+{Keiji}
+#Message#
+\."Find her \C[2]body\C[0]...?"
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."Where could the body be?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Do we even need to find it, meow?
+ This could be a trap, woof!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."That's true. I don't think there's
+ any need to do what the letter says..."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Think it's about time
+ we search outside of this room?"
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."I... Isn't that dangerous?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."I wanna get back home...
+ Can't stand to jus' sit still here."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."L-Let's move in groups!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."So that no one does anything suspicious...
+ Right?"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."*sniff*... I'm scared... If there's some other
+ horrible device like the First Trial..."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Me and Nao can look after Kanna.
+ If you guys're in danger, haul ass back here."
+##
+
+{Sara}
+#Message#
+\.\C[4](Well then... Who should I go with?)
+##
+
+#Choice#
+Joe
+Someone trustworthy
+Someone to keep an eye on
+Act alone
+##
+
+<ジョー>
+
+{Sara} [Joe: Serious look / cara1-14]
+#Message#
+"Joe, come search with me."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+{SE: Accent28-1}
+#Message#
+\."Sorry, man! I'm goin' with Keiji."
+##
+
+{Sara}
+#Message#
+\."Huh?
+ I-I see..."
+##
+
+#Message#
+\.\C[4](Why with Keiji...?)
+##
+
+<信用できそうな人>
+
+{Sara} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\.\C[4](Let's see... Q-taro is powerful...
+ And Nao can vouch for Professor Mishima...
+ Maybe Gin, since he's just a kid...?)
+##
+
+#Message#
+\.\C[4](...They all look so suspicious, though.)
+##
+
+<見張るべき怪しい人>
+
+{Sara} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\.\C[4](Let's see... Kai acts so strangely...
+ And I can't fully find myself trusting Keiji...
+ And Q-taro doesn't seem like a bad person, but...)
+##
+
+#Message#
+\.\C[4](...Thinking like this is just
+ going to make me suspect everything.)
+##
+
+<単独行動>
+
+{Sara} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\.\C[4](I'm no good at acting in groups...
+ I just want to explore alone...)
+##
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."Hey, miss Sara, could we search together?"
+##
+
+{Sara}
+#Message#
+\."Eh?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."S-Sorry!
+ If you can't trust me... That's fine..."
+##
+
+{Sara}
+#Message#
+\."It's not anything like that, just..."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Oh, I'm glad to hear that.
+ I trust you too, miss Sara."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."...But throwing around a word like "trust"
+ just makes you look suspicious, huh..."
+##
+
+{Sara}
+#Message#
+\."No, no... It's not like I really distrust you, Sou."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Alright, let's get searching around.
+ Don't have any big spills, guys."
+##
+
+#Message#
+\."...And be sure to share any info you find."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Alright, miss Sara, should we go?"
+##
+
+{Sara}
+#Message#
+\.\C[4](The First Trial... A doll head... and a body...)
+##
+
+#Message#
+\.\C[4](Let's try to find some kind of clue...!)
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+"What the hell is that?! That won't work on me!"
+##
+
+{Player}
+#Message#
+(Shoot...! That was a mistake!)
+
+
+* HP decreased
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Joe: Default (no collar) / cara1-1]
+#Message#
+\.\C[4](It's pretty heavy... Maybe 20 to 30 pounds?)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](And there are 3 keyholes...!)
+##
+

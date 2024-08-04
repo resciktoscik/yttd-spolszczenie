@@ -1,0 +1,134 @@
+**********Common788********** (ｶﾝﾅ「ｱｲﾃﾑ全使用？」)
+{Kanna}
+#Message#
+"Of course there wouldn't be any new evidence
+ that we haven't discussed yet..."
+##
+
+#Message#
+"Is there an answer in the clues we have left...?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+"That clue... doesn't seem to say anything..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"Sorry... Did Kanna say something strange...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"Oogh... What do we do..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Out of all the evidence we've seen so far,
+ is there anything related to this transgression?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Is there something like that?)
+##
+
+#Choice#
+I think there is
+There isn't
+##
+
+<あると思う>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+{SE: Accent28-1}
+#Message#
+\.\C[4](If there is, I should show it to Kanna...
+ If there isn't, I should tell her \C[2]"there isn't"\C[4]!)
+##
+
+<ない>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+#Message#
+\."No... None of the evidence..."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."That's what I thought...
+ We've discussed all of the evidence already..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+{SE: sceneswitch2}
+#Message#
+\."Unless there's some new evidence that \C[2]hasn't come up
+ in discussion\C[0], I don't see any leads..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Some \C[2]yet unused\C[4] evidence...)
+##
+

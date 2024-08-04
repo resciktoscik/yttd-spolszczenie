@@ -1,0 +1,39 @@
+**********Common620********** (犠牲者ﾋﾞﾃﾞｵ１使用)
+{N/A}
+#Message#
+\C[3]Victim Video 1
+
+Recording of one of the victims in the Death Game.
+Can only be viewed in the Monitor Room.
+##
+
+#Message#
+\.\C[3]Watch the video?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara}
+#Message#
+\.\C[4](I should find a time when no one's looking...)
+##
+
+#Message#
+\.\C[4](Okay, I should be good now...
+ I'll play it on the center monitor.)
+##
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](I can't use this here...)
+##
+

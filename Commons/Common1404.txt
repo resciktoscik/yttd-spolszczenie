@@ -1,0 +1,35 @@
+**********Common1404********** (呼・４枚組の紙)
+{N/A}
+#Message#
+\C[3]Papers that list 16 names
+out of the 20 participants of the Death Game.
+##
+
+#Choice#
+Examine
+Cancel
+##
+
+<詳しく見る>
+
+{N/A}
+#Message#
+
+##
+
+#Message#
+
+##
+
+#Message#
+
+##
+
+#Message#
+
+##
+
+<やめる>
+
+<Choice End>
+

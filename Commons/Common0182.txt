@@ -1,0 +1,147 @@
+**********Common182********** (④ギンの自白（新）)
+{Gin}
+#Message#
+"I didn't wanna show that thing...
+ and make everyone worry, meow..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Make us worry...?)
+##
+
+#Choice#
+Are you defending someone?
+Don't brood over it alone
+##
+
+<誰かをかばっているのか？>
+
+{Sara}
+#Message#
+"Gin, are you trying to protect someone?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent28-1}
+#Message#
+\."Mya...?! H... How'd you know, woof?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I thought so...)
+##
+
+<１人で思い悩むな>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Gin, you shouldn't worry about it all alone."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent28-1}
+#Message#
+\."Mya...
+ Big sis Sara..."
+##
+
+<Choice End>
+
+{Sara} [Gin: Worried / cara9-3]
+#Message#
+\."I believe you, Gin.
+ Whatever strange thing you present, I'll handle it."
+##
+
+{Gin}
+#Message#
+\."...!"
+##
+
+#Message#
+\."..."
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\."Okay, meow...!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Seeing big sis Reko getting yelled at
+ by the muscle gorilla really ticked me off, meow!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Jus' so ya know, I take "gorilla" as a compliment!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+\."...Woof! I believe you too, big sis Sara!"
+##
+
+{Sara}
+#Message#
+\."Yeah!"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."So... I was trying to put together the paper scraps
+ from the shredder thingy on the second floor, meow."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."But then, woof! Taking a look in there...
+ I noticed some hand-torn paper too, meow."
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."A... and there, woof... it said..."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent28-1}
+#Message#
+\."That big sis Sara was... \C[2]a murderer\C[0]..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Huh?"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."WHAAAAAAAAAAAAAAAT?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What're you on about?!"
+##
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+\."Q-taro!
+ Please, don't shout!!"
+##
+
+#Message#
+\.\C[4](But what's the meaning of this?
+\! I need to get more details...!)
+##
+

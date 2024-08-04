@@ -1,0 +1,7 @@
+**********Common729********** (ｱﾘｽ「Q場で交換」１)
+{N/A}
+#Message#
+"Despite Cubetaro Hamburger being with us, he traded
+ with you - his \C[10]Sacrifice\C[0] for your \C[2]Keymaster\C[0]...!"\^
+##
+

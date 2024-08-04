@@ -1,0 +1,173 @@
+=====Map148===== (❹Bar)
+
+**********Event2********** (zyo-) (8,8)
+-----Page1-----
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."What's up, Sara?"
+##
+
+{Sara}
+#Message#
+\."Oh, it's nothing."
+##
+
+#Message#
+\.\C[4](I'm fine... I...)
+##
+
+
+**********Event24********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event25********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event26********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event27********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event28********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event29********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event31********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+
+
+**********Event33********** (koku) (3,1)
+-----Page1-----
+#Message#
+\C[3]It appears to be a blackboard.
+Something's written on it.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's no good... It's too dark to see.)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Maybe I can be of use..."
+##
+
+-----Page2-----
+#Message#
+\C[3]It appears to be a blackboard. There's a list of names.
+##
+
+#Message#
+\.\C[3][Can Drink]
+Alice, Kai, Kazumi, Keiji, Shunsuke,
+Sou, Naomichi, Mai, Megumi, Reko, Q-taro
+##
+
+#Message#
+\.\C[3][Can't Drink]
+Anzu, Kanna, Gin, Kugie, Sara, Joe,
+Nao, Hinako, Ranmaru
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Could these be the names of
+ all the participants in the Death Game?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Huh... Now that I think about it,
+ this could be pretty important info."
+##
+
+{Sara}
+#Message#
+\."Might want to commit it to memory."
+##
+
+{Keiji}
+#Message#
+\."...Yeah. Bet there are people
+ waiting for 'em to come back..."
+##
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\.\C[4](...Right. This... isn't just our tragedy.)
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."Well... At any rate, we should be able to
+ open the Pink Room door with this info."
+##
+
+[Keiji: Turned to side, slight smile / cara2-14]
+#Message#
+\."Dunno if Gin's there, but want to go check?"
+##
+

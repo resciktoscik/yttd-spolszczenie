@@ -1,0 +1,42 @@
+**********Common178********** (▽Qﾀﾛｳ…肯定)
+{Sara}
+#Message#
+"Q-taro is right!
+ Gin, please say something! It doesn't matter what!"
+##
+
+{Gin}
+#Message#
+\."But... but I mean..."
+##
+
+{Sara}
+#Message#
+"Right! Age is irrelevant here!"
+##
+
+{Gin}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin is just shrinking away even further...!)
+##
+
+#Message#
+"Absolutely! Gin, tell the truth!"
+##
+
+{Gin}
+#Message#
+\."...You're mean, meow...
+ Always attacking me..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin's on the verge of tears...!)
+##
+

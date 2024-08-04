@@ -1,0 +1,139 @@
+=====Map101===== (Runaway Minecart)
+
+**********Event1********** (hantei) (3,0)
+-----Page11-----
+{N/A}
+{SE: Applause1}
+#Message#
+\C[3]Won the battle.
+##
+
+
+**********Event5********** (sara) (1,12)
+-----Page1-----
+{Sara}
+#Message#
+"Let's be sure to hit the speed-up and danger symbols!"
+##
+
+#Message#
+"I... am the wind...!"
+##
+
+#Message#
+"No matter what... must reach the goal...!"
+##
+
+
+**********Event8********** (aibo) (15,12)
+-----Page1-----
+{Q-taro}
+#Message#
+"Leave it ta me to bust down walls!
+ You'll see my power ain't for show!"
+##
+
+#Message#
+"Oughta get as many speed-ups as ya can!"
+##
+
+#Message#
+"The wind feels good, eh?!
+ Puts ya in a high!"
+##
+
+-----Page2-----
+{Sou}
+#Message#
+"Sorry if it's a tight squeeze, miss Sara."
+##
+
+#Message#
+"Be sure to respond to the warnings and speed-ups."
+##
+
+#Message#
+"Just a little more. Good luck, miss Sara!"
+##
+
+-----Page3-----
+{Gin}
+#Message#
+"Meooow! This is fun, woof!"
+##
+
+#Message#
+"Big sis Sara!
+ I'll find lots of speed-ups, meow!"
+##
+
+#Message#
+"Just a little more, meow! Good luck, wooooof!!"
+##
+
+
+**********Event20********** (hantei) (16,7)
+-----Page11-----
+{N/A}
+#Message#
+\C[3]Won the battle.
+##
+
+
+**********Event21********** (EV021) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."We'll get through this together...!"
+##
+
+{Q-taro}
+#Message#
+\."Let's do it! I'll break through by force!"
+##
+
+{Sou}
+#Message#
+\."I'll do my best not to drag you down..."
+##
+
+{Gin}
+#Message#
+\."I'll protect big sis Sara, meow!!"
+##
+
+{N/A}
+#Message#
+Runaway Minecart ~Rules~
+##
+
+#Message#
+\.Ride in the minecart toward the goal.
+Deal with the obstacles that appear on the way,
+and reach the goal within the time limit.
+##
+
+#Message#
+\.Wooden Wall ... Rapidly touch to destroy!
+Iron Wall ..... Mash on the screws to destroy!
+Bats .......... Touch the \C[2]danger sign\C[0] to evade!
+Speed Up ...... Touch the \C[2]speed symbol\C[0] to accelerate!
+##
+
+#Choice#
+Hear it again
+Just try it
+##
+
+<もう一度説明を聞く>
+
+<とりあえずやってみる>
+
+{N/A}
+#Message#
+\.Touching your ally's icon will give you
+advice and the like, so... Good luck.
+##
+
+<Choice End>
+

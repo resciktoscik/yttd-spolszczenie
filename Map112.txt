@@ -1,0 +1,1114 @@
+=====Map112===== (③Room of Rubble)
+
+**********Event1********** (pasokon) (5,4)
+-----Page1-----
+#Message#
+\.\C[3]A machine emitting red light.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is this a computer...?)
+##
+
+#Message#
+\.\C[4](No good... It doesn't seem to boot up.)
+##
+
+{Voice}
+#Message#
+\."Huh, you're late."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."This way, this way."
+##
+
+{Sara}
+#Message#
+\."Keiji...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Quiet...
+ Try not to alert anyone to this place, just in case."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Q-taro finally found it..."
+##
+
+{Sara}
+#Message#
+\."Found... what?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kai's laptop, 'course."
+##
+
+{Sara}
+#Message#
+\."...What?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Q-taro produced a laptop computer
+from behind the rubble.
+##
+
+#Message#
+\.\C[3]It was unquestionably Kai's laptop...
+The one we found on the first floor.
+##
+
+{Sara}
+#Message#
+\."You... found this here?!"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Yeah, sure did."
+##
+
+{Sara}
+#Message#
+\."But this laptop should have vanished
+ from the first floor after Kai retrieved it..."
+##
+
+#Message#
+\."Why is it here on the third?!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Beats me...
+ But there's no mistake, this is Kai's laptop."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."The possibilities I can think of are,
+ either someone collected this and put it here..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Or... Kai put it here."
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Hold it, guys. Seek the truth later, alright?"
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Sara, Keiji, I called ya over
+ so you could break into this laptop!"
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."I can't use a computer fer beans."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Wahaha... Investigate what's on it?
+ Let's give it a shot, Sara."
+##
+
+{Sara}
+#Message#
+\."...Alright!"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Okay, it's on!
+\! Please... Get us some good info! Anything!"
+##
+
+{Sara}
+#Message#
+\."W-Wait a second!! We should come up with a plan first
+ for what data to look for...!"
+##
+
+{N/A}
+{SE: Magic1}
+#Message#
+\.\C[3]The laptop quietly booted up
+and displayed a password entry screen.
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hm? Not good... The battery indicator..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."W... Whaaaaat?!
+ Shoot...! It's still nearly drained!!"
+##
+
+{Sara}
+#Message#
+\."I-It's okay!
+ I know the password...!!"
+##
+
+#Message#
+\.\C[4](Sou mentioned it in the Main Game...!)
+##
+
+#Message#
+\.\C[4](The password is \C[2]Chidouin\C[4]... My family's name!)
+##
+
+{N/A}
+#Message#
+\.\C[3]I entered the password.
+##
+
+{Computer}
+#Message#
+\.\C[5]..........
+##
+
+#Message#
+\.\C[5]Password is incorrect.
+##
+
+{Sara}
+#Message#
+\."Wha...?"
+##
+
+#Message#
+\."The password's... wrong!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."What the...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."You kiddin'?! What's goin' on?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Why?!)
+##
+
+#Choice#
+Sou lied to us
+Kai changed the password
+##
+
+<ソウがウソをついた>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\.\C[4](Was Sou's explanation... a lie...?)
+##
+
+#Message#
+\.\C[4](No, calm down... That can't be right!)
+##
+
+#Message#
+\.\C[4](It's because he hit upon the password that
+ he discovered Kai was the owner of the laptop.)
+##
+
+<カイがパスワードを変えた>
+
+<Choice End>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kai... changed the password!
+ That's the only explanation!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."What do we do?! The battery's at 4 percent!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Sara...!
+ Type in something only you would know!"
+##
+
+{Sara}
+#Message#
+\."Only I...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."If Kai really had a connection to your family...
+ I bet he'd use a password we couldn't guess."
+##
+
+{Sara}
+#Message#
+\."That doesn't really narrow it down...!"
+##
+
+#Message#
+\.\C[4](I don't know! My family... is just normal!
+ There's nothing special to try...!)
+##
+
+#Message#
+\.\C[4](Kai... Just what were you thinking...?!)
+##
+
+#Message#
+\.\C[4](A connection to me...)
+##
+
+{N/A} [Sara's Father: Toothy grin / cara17-2]
+#Message#
+\."Our family's got a hero in the shadows, Sara."
+##
+
+{Sara}
+#Message#
+\."F... Father...?"
+##
+
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]I entered another password.
+##
+
+{Computer}
+#Message#
+\.\C[5]..........
+##
+
+#Message#
+\.\C[5]Starting up. Welcome.
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Hwoaaaaah!! Nice work, Sara!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Alright...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Dad...)
+##
+
+#Message#
+\.\C[4](I just... typed in dad's name.)
+##
+
+#Message#
+\.\C[4](Did you... know Kai...?!)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The battery's on 3 percent!! What do we do?!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: Accent21-1}
+#Message#
+\."Emails...!
+ Let's check the emails Sou talked about."
+##
+
+{Sara}
+#Message#
+\."Okay!!"
+##
+
+{N/A}
+#Message#
+\.\C[4](The email log...
+ Sou suspected Kai after reading those.)
+##
+
+#Message#
+\.\C[4](We need to confirm
+ whether those were real or all lies...!)
+##
+
+#Message#
+\.\C[3]I opened Kai's sent emails.
+##
+
+{Sent Email 1}
+#Message#
+\.As planned, 17 people have been secured. Just in case,
+is there no error in the date of the Death Game?
+
+Everything is proceeding smoothly.
+##
+
+{Sent Email 2}
+#Message#
+\.I feel a deep affection for miss Sara as well.
+I will certainly protect her.
+
+I am prepared to offer myself up for the Chidouins.
+##
+
+{Sent Email 3}
+#Message#
+\.It's about time.
+
+If any harm comes to Sara Chidouin,
+I will stand against even you as an enemy.
+##
+
+{Sent Email 4}
+#Message#
+\.Miss Sara is looking forward to the games.
+Surely her \C[2]friend\C[0] will also take part.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."There they are...!"
+##
+
+{Keiji}
+#Message#
+\."Yep... Exactly what Sou said they were."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Then Sou wasn't lying?!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Hm? Wait, these emails..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: Accent28-1}
+#Message#
+\."We just read them \C[2]in reverse order\C[0]...!
+ From the newest to the oldest!"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Sara, there must be \C[2]received emails\C[0]
+ corresponding to these too."
+##
+
+{Sara}
+#Message#
+\."Right...! I'll check!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I opened Kai's list of \C[2]received emails\C[3].
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."There...!
+ Sure enough, there were conversations over email!"
+##
+
+{Q-taro}
+#Message#
+\."Sort 'em out! Rearrange 'em in the proper order!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I sorted the emails and began reading.
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](This should tell us Kai's actions...!)
+##
+
+{N/A}
+#Message#
+\.Grouped Emails #1
+##
+
+{Received Email}
+#Message#
+\.\C[4]Hello hellooooo! (^^)/
+Didja know? Sara's going to a board game meetup!
+##
+
+#Message#
+\.\C[4]Wonder if she's goin alone....
+Papa's worried she might make sum bad friends....
+##
+
+{Sent Email}
+#Message#
+\.Miss Sara is looking forward to the games.
+Surely her friend will also take part.
+##
+
+{Received Email}
+#Message#
+\.\C[4]Kaiii~? I never told you, so when'd you find out?
+##
+
+#Message#
+\.\C[4]I swear, about the only time I have
+any idea what you're up to is when you're
+there at home replyin from your computer,,,,
+##
+
+#Message#
+\.\C[4]Aw well, keep up the guard work!
+
+
+Thankies a million!
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."T... This insipid message...!!"
+##
+
+#Message#
+\."That's exactly how my dad types!!"
+##
+
+{Q-taro}
+#Message#
+\."So... yer pops and Kai... were in communication?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Guard work... What's that about?!)
+##
+
+{N/A}
+#Message#
+\.Grouped Emails #2
+##
+
+{Received Email}
+#Message#
+\.\C[10]Kai. You betrayed us?
+
+Betrayed the organization. Betrayed me.
+##
+
+{Sent Email}
+#Message#
+\.It's about time.
+
+If any harm comes to Sara Chidouin,
+I will stand against even you as an enemy.
+##
+
+{Received Email}
+#Message#
+\.\C[10]Unforgivable. It's all come to nothing.
+
+Just try and struggle. With your puny arms.
+##
+
+{Q-taro}
+#Message#
+\."H... Hey, the guy in this email...!"
+##
+
+{Sara}
+#Message#
+\."It's... not my father!"
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."From the context, maybe \C[2]one of Kai's parents\C[0]...?
+\! And it says \C[2]Kai betrayed the organization\C[0]."
+##
+
+{Sara}
+#Message#
+\.\C[4](Organization? Kai... just what were you doing...?)
+##
+
+{N/A}
+#Message#
+\.Grouped Emails #3
+##
+
+{Received Email}
+#Message#
+\.\C[4]Hello hellooooo! (^^)/
+Feelin kinda in danger lately....
+##
+
+#Message#
+\.\C[4]Well ok, its Sara they're after.
+She's being targeted.
+##
+
+#Message#
+\.\C[4]I'm attached to this house,
+but I guess I gotta discard it and run.
+
+...Will you come with, Kai?
+##
+
+{Sent Email}
+#Message#
+\.I feel a deep affection for miss Sara as well.
+I will certainly protect her.
+
+I am prepared to offer myself up for the Chidouins.
+##
+
+{Received Email}
+#Message#
+\.\C[4]Oh Kai.... u really are the greatest hero ever.
+
+
+Thankies a million!
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Another conversation with my father...!"
+##
+
+#Message#
+\."Dad knew that something would happen!"
+##
+
+{Keiji}
+#Message#
+\."Discard the house and run...
+ Sara, were you making plans to move soon, say?"
+##
+
+{Sara}
+#Message#
+\."I didn't hear about that...
+ I didn't hear anything...!"
+##
+
+{Q-taro}
+#Message#
+\."Settle down! Keep reading...!"
+##
+
+{N/A}
+#Message#
+\.Grouped Emails #4
+##
+
+{Received Email}
+#Message#
+\.\C[10]Are you the contact?
+You should know not to use this address.
+I'll hear the report, but follow the rules from now on.
+##
+
+{Sent Email}
+#Message#
+\.As planned, 17 people have been secured. Just in case,
+is there no error in the date of the Death Game?
+
+Everything is proceeding smoothly.
+##
+
+{Received Email}
+#Message#
+\.\C[10]I see. You've done well.
+##
+
+#Message#
+\.\C[10]...On a most futile effort.
+##
+
+#Message#
+\.\C[10]Thought you could pretend to be my contact
+and disrupt things, Kai?
+##
+
+#Message#
+\.\C[10]You're at home right now,
+away from the Chidouin house. Aren't you?
+##
+
+#Message#
+\.\C[10]I've got a tip for you.
+The phrase you just sent, "X people have been secured,"
+is the trigger that sets the plan into motion.
+##
+
+#Message#
+\.\C[10]You fell for the trap, Kai.
+##
+
+#Message#
+\.\C[10]Sara Chidouin will be captured soon.
+##
+
+#Message#
+\.\sp[10]\C[10]Thankies a million.
+##
+
+{Sara}
+#Message#
+\."This one is...!"
+##
+
+#Message#
+\."From the day of the kidnapping...!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What's the big idea?!
+ I'm not followin' at all!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I'll sum it up.
+ Kai was in correspondence with two people..."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."One was \C[2]Sara's father\C[0].
+ And the other was... \C[2]one of Kai's parents,
+ who belonged to the kidnappers' organization\C[0]."
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."It seems Kai \C[2]betrayed the organization\C[0]...
+ He chose to instead \C[2]protect Sara\C[0]."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."And to do that, on the day of the kidnapping...
+ \C[2]Kai sent a fake email to the organization\C[0]."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Maybe the idea was that it'd disrupt
+ the organization, letting Sara escape..."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."But... his ruse was fully exposed.
+\! He just got used instead."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."'Cause \C[2]"thankies a million"\C[0]...
+ was the signoff used between Kai and Sara's dad."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The emails were going straight through.
+ All of their exchanges... went to the organization..."
+##
+
+{Sara}
+#Message#
+\."No way...!!"
+##
+
+#Message#
+\."Then... then...!!"
+##
+
+#Message#
+\."Kai wasn't a stalker at all...!"
+##
+
+#Message#
+\."He guarded me in secret... to protect me...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: sceneswitch2}
+#Message#
+\."An' the only time Kai left his guard duty...
+\! It was when he sent emails from home!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."That's one crafty trick."
+##
+
+{Sara}
+#Message#
+\.\C[4](Even after his cover was blown,
+ I'm sure Kai was still trying to warn me...!)
+##
+
+#Message#
+\.\C[4](That night, coming home with Joe...
+ That's why he stood in our way!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Then I remembered.
+##
+
+#Message#
+\.\C[3]What the stalker... had been saying.
+##
+
+#Message#
+\{\sp[20]\>         \<"Don't go home...!!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."...The battery's gone dead."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Couldn't get any info related to escape after all."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."But still... Sure enough,
+ Kai wasn't a good-fer-nothin' villain!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: horror_piano chord3}
+#Message#
+\."Is that information really... beneficial?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."...There are still things we could check."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."If we can just get it charged...
+ We'll boot this laptop back up."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."You hold on to it, Q-taro."
+##
+
+{Q-taro}
+#Message#
+\."Me...?"
+##
+
+{Sara}
+#Message#
+\."Yes..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+[Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."...For the time being,
+ let's not tell everyone else about this."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."It's a secret weapon just for us three...
+ Make sure you don't spill the beans."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."I gotcha."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."That's settled, then.
+ We should act just the same as yesterday."
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Y-Yeah! I'll hide the laptop in my bedroom
+ and go do an attraction or somethin'!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."We should get going too."
+##
+
+{Sara}
+#Message#
+\."Yes..."
+##
+
+{N/A}
+#Message#
+\.\C[3]We left the rubble-filled room.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Huh...? Kanna is alone!)
+##
+
+#Message#
+\.\C[4](What happened, I wonder...?)
+##
+
+-----Page2-----
+#Message#
+\.\C[3]A machine emitting red light.
+##
+
+#Message#
+\.\C[3]There doesn't seem to be a plug nor a cord
+that would be needed to power a computer.
+##
+
+-----Page3-----
+#Message#
+\.\C[3]A machine emitting red light.
+##
+
+#Message#
+\.\C[3]There doesn't seem to be a plug nor a cord
+that would be needed to power a computer.
+##
+
+{Voice}
+#Message#
+\."...Whatcha doing?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Came to meet with Mr. Policeman, maybe...?"
+##
+
+{Sara}
+#Message#
+\."K-Keiji! Where were you...?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Just idly thinking in the dark...
+\! Mmm, feels terrible."
+##
+
+{Sara}
+#Message#
+\."Thinking, you say?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Yep... Thinking about any common points
+ between us that we've yet to see."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Common points..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."If we could see that, I think we'd know."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Who the real mastermind is."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...Lemme be alone for a little longer, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji... isn't the mastermind, right...?)
+##
+
+
+**********Event7********** (monita) (5,1)
+-----Page1-----
+#Message#
+\.\C[3]A monitor without power.
+##
+
+{Voice}
+#Message#
+\."...Whatcha doing?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Came to meet with Mr. Policeman, maybe...?"
+##
+
+{Sara}
+#Message#
+\."K-Keiji! Where were you...?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Just idly thinking in the dark...
+\! Mmm, feels terrible."
+##
+
+{Sara}
+#Message#
+\."Thinking, you say?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Yep... Thinking about any common points
+ between us that we've yet to see."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Common points..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."If we could see that, I think we'd know."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Who the real mastermind is."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...Lemme be alone for a little longer, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji... isn't the mastermind, right...?)
+##
+

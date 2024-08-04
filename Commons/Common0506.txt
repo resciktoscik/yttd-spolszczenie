@@ -1,0 +1,16 @@
+**********Common506********** (交換所やめる)
+#Message#
+\C[3]Cancel the trade?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

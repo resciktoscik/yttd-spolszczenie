@@ -1,0 +1,835 @@
+=====Map18===== (Bar)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"This looks like... a bar."
+##
+
+#Message#
+\."Seems to be a lot of alcohol present...
+ But you're underage, so keep away, miss Sara."
+##
+
+{Sara}
+#Message#
+\."You'd better not drink
+ at a time like this either, Sou."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."On the other hand, some might say
+ there's no better time to drink."
+##
+
+
+**********Event3********** (misima) (11,5)
+-----Page1-----
+#Message#
+\C[3]Professor Mishima's inspecting every inch of the room.
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Please tell me if you need anything, miss Sara."
+##
+
+#Message#
+\C[3]Professor Mishima's inspecting every inch of the room.
+##
+
+#Message#
+"Oh... miss Sara."
+##
+
+#Message#
+\."Have you encountered any dangers?
+ Please take utmost caution... Yes..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Hmm! What is that?!"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Mishima}
+{SE: Accent21-1}
+#Message#
+\."That cigar!
+ A minor can't be carrying around such a thing!"
+##
+
+{Sara}
+#Message#
+\."I wasn't going to smoke it!
+ I thought it might be a clue..."
+##
+
+{Mishima}
+#Message#
+\."Is that so... Apologies for my suspicion."
+##
+
+#Message#
+\."Hm... It seems I slip into teaching mode
+ whenever I see a student."
+##
+
+#Message#
+\."However... Err, well... Let's see...
+ Yes, could you let me hold onto that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm telling you I won't smoke it...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Handed the Cigar over to Professor Mishima.
+##
+
+{SE: Accent28-1}
+#Message#
+\."Oh, oh? What is that?"
+##
+
+{Sara}
+#Message#
+\."Huh...? You mean the cigar cutter?"
+##
+
+{Mishima}
+#Message#
+\."Precisely. It's a tool used for smoking cigars."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...You won't be smoking, will you, miss Sara?"
+##
+
+{Sara}
+#Message#
+\."O-Of course not! Obviously...!"
+##
+
+{Mishima}
+#Message#
+\."Ah, well... Then... err... Could I take it?"
+##
+
+{Sara}
+#Message#
+\."Uh... Professor Mishima,
+ are you going to smoke a cigar?"
+##
+
+{Mishima}
+#Message#
+\."O-O-Out of the question!
+ For a teacher to smoke...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](As long as you're an adult, I think it's fine...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Handed the Cigar Cutter over to Professor Mishima.
+##
+
+{SE: Accent28-1}
+#Message#
+\."Hm... What is that?"
+##
+
+{Sara}
+#Message#
+\."Eh...? This lighter?"
+##
+
+{Mishima}
+#Message#
+\."Indeed. Did you find it somewhere?"
+##
+
+{Sara}
+#Message#
+\."Yes, in the cafeteria."
+##
+
+{Mishima}
+{SE: Accent21-1}
+#Message#
+\."Perhaps... you mean to light up a..."
+##
+
+{Sara}
+#Message#
+\."...Whaaa?! I'm not going to smoke!"
+##
+
+{Mishima}
+#Message#
+\."Hm... Then... Err... Could I hang on to it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's bizarrely wary of underage smoking...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Handed the Lighter over to Professor Mishima.
+##
+
+-----Page2-----
+#Message#
+\C[3]Professor Mishima is grinning.
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+"Oh... miss Sara."
+##
+
+{Sara}
+#Message#
+\."Professor Mishima, did something good happen?"
+##
+
+{Mishima}
+#Message#
+\."W-W-W-What are you speaking of?!
+ There's nothing...! Indeed...!"
+##
+
+{Sara}
+#Message#
+\."Like, maybe... You're happy about the cigar?"
+##
+
+{Mishima}
+#Message#
+\."Ooghhh...!
+ A teacher like myself would not smoke...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...He really wants to.)
+##
+
+#Choice#
+Incite him
+I want to inspect the cigar
+##
+
+<誘導してみる>
+
+{Sara} [Mishima: Default smile / cara12-1]
+#Message#
+"That cigar looks really expensive, huh?"
+##
+
+{Mishima}
+#Message#
+\."Yes..."
+##
+
+{Sara}
+#Message#
+\."Might not be something you can buy in Japan..."
+##
+
+{Mishima}
+#Message#
+\."Hrmmm..."
+##
+
+{Sara}
+#Message#
+\."Should someone put it back where it was?"
+##
+
+{Mishima}
+#Message#
+\."What in the world are you saying?!
+ ...Ah, err... well..."
+##
+
+#Message#
+\."I know! Perhaps it would be good
+ to inspect the cigar first! Yes!"
+##
+
+<葉巻を調べてほしい>
+
+{Sara} [Mishima: Default smile / cara12-1]
+#Message#
+\."I wonder... Is that cigar really just
+ a luxury item being provided to us?"
+##
+
+{Mishima}
+#Message#
+\."What do you mean to say?"
+##
+
+{Sara}
+#Message#
+\."Maybe there's some meaning to it."
+##
+
+#Message#
+\."Would you let me inspect it a little?"
+##
+
+{Mishima}
+#Message#
+\."I get it... That's true.
+ We should investigate it closely."
+##
+
+<Choice End>
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Hmm... Let us try using the cutter on this cigar."
+##
+
+{N/A}
+#Message#
+\.\C[3]Professor Mishima cuts it with a practiced hand.
+##
+
+{Mishima}
+#Message#
+\."Oh...?
+ What is this?"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Amazingly, there was a bill inside the cigar.
+##
+
+#Message#
+\.\C[3]Obtained a 1000-Yen Bill.
+##
+
+{Mishima}
+#Message#
+\."Aha...! It seems it wasn't a real cigar!"
+##
+
+#Message#
+\."What a relief. Smoking is bad for you, after all."
+##
+
+#Message#
+\."Ahh, thank goodness, thank goodness..."
+##
+
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's visibly disappointed...)
+##
+
+{Mishima}
+#Message#
+\."Miss Sara, please take the unused lighter
+ and this 1000-yen bill."
+##
+
+#Message#
+\."When I really think about it,
+ you will likely find more use for them."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Lighter.
+##
+
+{Sara}
+#Message#
+\.\C[4](...So he did intend to use the lighter.)
+##
+
+-----Page3-----
+#Message#
+\C[3]Professor Mishima looks dejected.
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+"Please depend on me anytime, miss Sara."
+##
+
+
+**********Event4********** (gin) (8,5)
+-----Page1-----
+#Message#
+\C[3]Gin is searching at a low eye-level.
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"Bars are just full of alcohol, meow."
+##
+
+#Message#
+\."I hate alcohol, woof!
+ And I hate my drunkard dad more, meow!"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."What...? You've got a quiet look, woof."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."...Nah, it's nothin'!"
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Hey, once we get out of here,
+ let's play together, Gin!"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Huh! Then I'll beat you up in video games
+ 'til you're crying, woof!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Your dad has a bad drinking habit?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."He's an annoyance, woof!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."When you drink, you gotta be sure
+ not to get swallowed up yourself."
+##
+
+#Message#
+\."I'm drinking age, too... I ought to be careful."
+##
+
+-----Page2-----
+#Message#
+\C[3]Gin is searching at a low eye-level.
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"I hate alcohol, woof!
+ And I hate my drunkard dad more, meow!"
+##
+
+#Message#
+\."Oh yeah, big sis Sara.
+ Have you tried combining items, meow?"
+##
+
+{Sara}
+#Message#
+\."Combining?"
+##
+
+{Gin}
+#Message#
+\."I mean putting together the items
+ you've got and using them, woof!"
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Come to think of it, I had to take
+ a close look at the red key in the First Trial.
+ Maybe you'll make a breakthrough!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I check my items...?)
+##
+
+
+**********Event5********** (ダーツ) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fancy dart.
+It's extremely solidly-made.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event6********** (シガーカッター) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar cutter.
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Event7********** (はまき) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar with high-quality wrapping.
+##
+
+
+**********Event8********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event9********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event10********** (ダミー団) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Dummy bullets. I have 6. If you pull the trigger
+with these, it'll only make a sound.
+##
+
+
+**********Event11********** (あたり) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Live bullets. I have 3.
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Event12********** (１０００) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A 1000-yen bill.
+Paper money usable in Japan.
+##
+
+
+**********Event13********** (koku) (2,1)
+-----Page1-----
+#Message#
+\C[3]There's a bunch of names on the blackboard.
+##
+
+#Message#
+\.\C[3][Can Drink]
+Alice, Kai, Kazumi, Keiji, Shunsuke,
+Sou, Naomichi, Mai, Megumi, Reko, Q-taro
+##
+
+#Message#
+\.\C[3][Can't Drink]
+Anzu, Kanna, Gin, Kugie, Sara, Joe,
+Nao, Hinako, Ranmaru
+##
+
+{Sara}
+#Message#
+\.\C[4](Our names...! And some strangers' names, too!)
+##
+
+#Message#
+\.\C[4](Don't tell me...
+ The people who we haven't seen are...)
+##
+
+-----Page2-----
+#Message#
+\C[3]There's a bunch of names on the blackboard.
+##
+
+#Message#
+\.\C[3][Can Drink]
+Alice, Kai, Kazumi, Keiji, Shunsuke,
+Sou, Naomichi, Mai, Megumi, Reko, Q-taro
+##
+
+#Message#
+\.\C[3][Can't Drink]
+Anzu, Kanna, Gin, Kugie, Sara, Joe,
+Nao, Hinako, Ranmaru
+##
+
+
+**********Event21********** (sake) (4,0)
+-----Page1-----
+#Message#
+\C[3]A variety of alcoholic drinks.
+##
+
+{Sara}
+#Message#
+\.\C[4](None of the drinks seem especially notable.)
+##
+
+
+**********Event65********** (hikido) (9,6)
+-----Page1-----
+#Message#
+\C[3]I feel there's something on the side of the counter...
+##
+
+#Choice#
+Move stool out of the way
+Cancel
+##
+
+<邪魔なイスをどける>
+
+{SE: Accent28-1}
+#Message#
+\C[3]...A sliding door!
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+#Message#
+\C[3]There's a sliding door on the side of the counter.
+##
+
+#Choice#
+Open sliding door
+Cancel
+##
+
+<引き戸を開ける>
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Alright, let's open it up!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]The sliding door opened!
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Whew... That was one stiff door!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Let's open it, I guess."
+##
+
+#Message#
+\."...Huah!"
+##
+
+#Message#
+\."...Yah!"
+##
+
+#Message#
+\."...Won't open!"
+##
+
+#Message#
+\."*pant*, *pant*... Urgh... I'm too weak...
+ I really doubt I can open this..."
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+#Message#
+\C[3]It's dark behind the sliding door.
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Maybe there's some clue in there!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Joe stuck his hand into the darkness.
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Hm... What's this?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Cigar Cutter!
+##
+
+{Sara}
+#Message#
+\."I think I saw this online once...
+ It's a tool for cutting cigars to smoke them."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."...Why were you looking that up online?
+ Don't smoke, Sara!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Do I look like I would...?)
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."...Oh! More importantly, there's something
+ bigger in the back! Alright, what's this?"
+##
+
+{N/A}
+{SE: warning2}
+#Message#
+\.\C[3]Obtained a \C[10]Right Leg\C[3].
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Weeeaaagh?!"
+##
+
+{Sara}
+#Message#
+\."Looks like this one's a doll limb too.
+ Take it, Joe."
+##
+
+{Joe}
+#Message#
+\."Wh... Why are you so calm..."
+##
+
+-----Page4-----
+#Message#
+\C[3]The cabinet is empty.
+##
+

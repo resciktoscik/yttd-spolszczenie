@@ -1,0 +1,538 @@
+=====Map132===== (❹Long Stairs, Door of Hope)
+
+**********Event4********** (EV004) (0,0)
+-----Page1-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"For now, where are we headed, meow?"
+##
+
+{Sara}
+#Message#
+\."Let's see..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+\."Ah! How about we question melon soda lady
+ about an exit, meow?!"
+##
+
+[Gin: Smile / cara9-2]
+#Message#
+\."We'll make her cry for real
+ with your coerciveness, wooooof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Come to think of it...)
+##
+
+#Message#
+\.\C[4](Didn't Safalin retrieve Rio Ranger's body?)
+##
+
+#Message#
+\.\C[4](If she found the chip, we should probably hurry.)
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Huh...? Are we really off to make her cry, meow?"
+##
+
+-----Page3-----
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+"Haha... So you all came."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Is there a way to escape over here...?"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."If you doubt me, check whatever looks suspicious!"
+##
+
+
+**********Event5********** (usonoma) (11,6)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]This way leads to the Room of Lies.
+##
+
+#Choice#
+Go to Room of Lies
+Cancel
+##
+
+<嘘の間へ行く>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]This way leads to the Room of Lies.
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't see this being an exit...)
+##
+
+
+**********Event6********** (hannaki) (10,7)
+-----Page1-----
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+"Aaah... We'll at least get the bodies
+ moved out of there quickly, so..."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]I... still can't read anything from Safalin.
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"...Intuition won't work when
+ you haven't known each other for very long."
+##
+
+-----Page3-----
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+"Aaah... We'll at least get the bodies
+ moved out of there quickly, so..."
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]I feel... a fighting spirit from Safalin.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Seems she's resolute not to let us in."
+##
+
+
+**********Event7********** (hanbai) (8,2)
+-----Page1-----
+#Message#
+\C[3]A suspicious vending machine
+sits at the top of the stairs.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A suspicious vending machine
+sits at the top of the stairs.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Ah! This vending machine... opens!)
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]A passage appeared behind the vending machine.
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+{SE: sceneswitch2}
+#Message#
+\."...!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."You got it, miss Sara."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: Accent28-1}
+#Message#
+\."As far as I can see from the map data...
+ The exit is straight ahead from here."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."The only doors keeping us from it
+ are this vending machine, and the last exit door."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: sceneswitch2}
+#Message#
+\."And both of those use the exact same security."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."So then...!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There's no reason it shouldn't open..."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Let's go!
+ Before the Floor Masters interfere...!"
+##
+
+-----Page3-----
+#Message#
+\C[3]There's a large passage behind the vending machine.
+##
+
+{Sara}
+#Message#
+\.\C[4](Beyond here... might be a ray of hope.)
+##
+
+#Choice#
+Head into the passage
+Prepare myself
+##
+
+<通路へ進む>
+
+<心の準備をする>
+
+<Choice End>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Now... we just have to grab that hope...!)
+##
+
+
+**********Event8********** (EV008) (9,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's something on the ground.
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+"What's this, meow? A video...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](This seems familiar...)
+##
+
+#Message#
+"A video from the Prize Exchange...?"
+##
+
+#Message#
+\.\C[4](Ah...!)
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent28-1}
+#Message#
+\."This is the \C[2]victim video\C[0] that Nao bought...!"
+##
+
+#Message#
+\.\C[4](As I recall...)
+##
+
+{SE: horror_piano chord3}
+#Message#
+"It showed a woman in a police uniform
+ tied up with chains..."
+##
+
+[Gin: Worried / cara9-3]
+{SE: shock1}
+#Message#
+"And in front of a man looking on...
+ a deathtrap was activated...!!"
+##
+
+#Message#
+\.\C[4](From behind, the man looked just like Keiji, but...)
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"Did big sis Nao drop this, woof?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Why here...?)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained the Victim Video.
+##
+
+
+**********Event16********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event17********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event18********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event19********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event20********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event21********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event23********** (rekoari) (13,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Alice is gazing toward the Room of Lies.
+##
+
+{Alice} [Alice: Tired face / cara11-22]
+#Message#
+".........."
+##
+
+#Message#
+"...You need something?"
+##
+
+{Sara}
+#Message#
+\."Err..."
+##
+
+#Choice#
+Are you okay?
+What are you doing?
+It's nothing
+##
+
+<大丈夫ですか？>
+
+{Sara} [Alice: Tired face / cara11-22]
+{SE: Accent28-1}
+#Message#
+"Um... Are you okay?"
+##
+
+{Alice} [Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."Hmph... Don't worry about it, Sara Chidouin."
+##
+
+[Alice: Tired face, fist to palm, closed teeth / cara11-29]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."My feet just naturally came here...
+ I won't go any further than this."
+##
+
+<何をしてるんですか？>
+
+{Sara} [Alice: Tired face, fist to palm, closed teeth / cara11-29]
+{SE: Accent28-1}
+#Message#
+"What are you doing here...?"
+##
+
+{Alice} [Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."...Nothing."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Tired face, fist to palm, closed teeth / cara11-29]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."My feet just naturally came here...
+ I won't go any further than this."
+##
+
+<なんでもないです>
+
+{Sara} [Alice: Tired face, fist to palm, closed teeth / cara11-29]
+{SE: Accent21-1}
+#Message#
+"...It's nothing."
+##
+
+{Alice} [Alice: Tired face / cara11-22]
+#Message#
+\."..."
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."Hmph... Did you talk to me out of pity?"
+##
+
+[Alice: Tired face / cara11-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If you just abandon me, you... and I...
+ will have it easier."
+##
+
+<Choice End>
+
+{Sara} [Alice: Tired face / cara11-22]
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Tired face, eyes open / cara11-26]
+#Message#
+\."More importantly, Sara Chidouin."
+##
+
+[Alice: Tired face, mouth open / cara11-23]
+{SE: Accent21-1}
+#Message#
+\."Nao... went into the Room of Lies earlier."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Alice} [Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."She said brave things around me...
+ But her wounds may be deep after all..."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{Alice} [Alice: Tired face / cara11-22]
+{SE: Accent21-1}
+#Message#
+\."...Check on her if you have the time.
+ I don't want to return there anymore..."
+##
+
+[Alice: Tired face, clutching chest / cara11-31]
+#Message#
+\."If I did go back... I'd surely also..."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]I feel... a quiet anger from Alice...
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+"That's no good... Feels like he's up to something."
+##
+
+
+**********Event32********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

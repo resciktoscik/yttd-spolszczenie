@@ -1,0 +1,118 @@
+**********Common1727********** (◆ｱﾘｽ「気がかり」)
+{Alice}
+#Message#
+"I said: "A speaker said something about a trial,
+ but it was foolish; I committed myself to hiding"..."
+##
+
+#Message#
+"I feel this sensation,
+ as if there's a thorn stuck deep in my heart..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Your intentions aren't clear at all!!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+"Do you perhaps have something on you
+ that comes to mind...?"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+{SE: Accent21-1}
+#Message#
+"Well... er..."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do you recall when you first met me...?"
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."When we met...?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+"You were asking me questions..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."And... I believe I said something like this."
+##
+
+{SE: Accent28-1}
+#Message#
+\.""A speaker said something about a trial,
+ but it was foolish; I committed myself to hiding"..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Hey... Sara Chidouin..."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do you perhaps have something on you
+ that comes to mind...?"
+##
+

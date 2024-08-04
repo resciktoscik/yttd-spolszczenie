@@ -1,0 +1,18 @@
+**********Common1494********** (⑥QタロウB選択)
+{N/A}
+#Message#
+"I got it! Baseball player impersonations!
+ I'mma hit a home run on her funny bone!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

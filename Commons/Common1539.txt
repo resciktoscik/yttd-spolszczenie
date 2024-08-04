@@ -1,0 +1,17 @@
+**********Common1539********** (⑧QタロウB選択)
+{N/A}
+#Message#
+"Leave it to me! I'll absorb some charge!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

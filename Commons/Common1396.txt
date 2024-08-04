@@ -1,0 +1,67 @@
+**********Common1396********** (呼・マイ映像)
+{Voice}
+#Message#
+\{"Help...!!"
+##
+
+{Mai}
+#Message#
+\."No no no...!!"
+##
+
+#Message#
+\."Whyyy...!!
+ Why does this have to happennn...?!"
+##
+
+#Message#
+\."How could I possibly know which one's right?!"
+##
+
+#Message#
+\."I can't do ittt!! I can't fire these things!!"
+##
+
+#Message#
+\."*sniff*..."
+##
+
+{SE: Paralyze1}
+#Message#
+\."...?!
+ Oww...!!"
+##
+
+#Message#
+\."W-What?! The collar's... tightening...!!"
+##
+
+#Message#
+\."Stop ittt! I can't breathe...!!"
+##
+
+#Message#
+\."I'll fire...!! So stop it!!"
+##
+
+#Message#
+\."Oo..."
+##
+
+#Message#
+\."Oooo...!"
+##
+
+#Message#
+\."Ooogh... oooghhh!!"
+##
+
+#Message#
+"AAAAAAAAAAAAAaaaaa...!!!!"\|\^
+##
+
+{N/A}
+#Message#
+\.\C[3]The video ends here.
+##
+

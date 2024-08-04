@@ -1,0 +1,130 @@
+**********Common248********** (ｶｲ「特になし」)
+{Kai}
+#Message#
+"Am I on the side of the kidnappers...?
+ The answer... is yet hidden in darkness."
+##
+
+#Message#
+"I have rather little to say.
+ You are free to imagine what you wish."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"Oh? What about it, I wonder?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"I see no point in refuting me, personally..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kai} [Kai: Looking down and to side / cara8-6]
+#Message#
+"Confirming it is simply impossible, surely."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+"I have zero trust after the incident with Sou,
+ so anything I say..."
+##
+
+{Sara}
+#Message#
+\."Do you admit you're with the kidnappers?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."If I denied it, would you believe me?"
+##
+
+{Sara}
+#Message#
+\."...I'll check anyway. Do you deny it?"
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+{SE: Accent21-1}
+#Message#
+\."Well now... I wonder."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's playing dumb...)
+##
+
+#Choice#
+Have him add the statement
+Cancel
+##
+
+<発言に加えてもらう>
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+{SE: Accent28-1}
+#Message#
+\."Hrm... What meaning could this have...?"
+##
+
+<やめる>
+
+<Choice End>
+

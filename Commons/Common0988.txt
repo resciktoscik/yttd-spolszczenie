@@ -1,0 +1,89 @@
+**********Common988********** (ｿｳ「カンナ邪魔」２)
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+"Ahaha, is something the matter?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+"...Does that refute anything?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+"I've been getting fed up with
+ having a useless helper, too."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Just now, I felt like Sou's \C[2]first statement\C[4]
+ caused someone's \C[2]expression\C[4] to change...!!)
+##
+
+#Message#
+\C[4](\C[2]While their expression's changed\C[4],
+ I should \C[2]check\C[4] on them!)
+##
+

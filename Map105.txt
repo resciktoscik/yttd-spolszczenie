@@ -1,0 +1,128 @@
+=====Map105===== (Ghost Shutter Game)
+
+**********Event5********** (sara) (1,12)
+-----Page1-----
+{Sara}
+#Message#
+"Let's collect lots of the blue flames!"
+##
+
+#Message#
+"When a ghost shows up, hit the shutter right away!"
+##
+
+#Message#
+"I wonder if we'll get the developed photos..."
+##
+
+-----Page2-----
+{Sara}
+#Message#
+"All I can do... is cheer on...!"
+##
+
+
+**********Event8********** (aibo) (15,12)
+-----Page1-----
+{Keiji}
+#Message#
+"...Hallucinations, huh..."
+##
+
+#Message#
+"Not scared or anything...
+ but I can't look 'em in the eye."
+##
+
+#Message#
+"Just a little more... Gotta keep it up."
+##
+
+-----Page2-----
+{Reko}
+#Message#
+"H-Hold up... I'm bad with ghosts... for real...!"
+##
+
+#Message#
+"Dammit... Stay away, ghosts!
+ I want outta here...!"
+##
+
+#Message#
+"Just a little more!
+ Hurry... Hurry..."
+##
+
+-----Page3-----
+{Nao}
+#Message#
+"S-Spirits...? What an amazing illusion..."
+##
+
+#Message#
+"It's like I'm really seeing ghosts...!
+ *sniffle*... I'm just a little bit moved!"
+##
+
+#Message#
+"*pant*... *pant*... Urgh... Almost there!"
+##
+
+
+**********Event23********** (EV023) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."We'll start with me...!"
+##
+
+{Reko}
+#Message#
+\."Y-Yikes... Enthusiastic
+ even in the face of ghosts, huh..."
+##
+
+{Nao}
+#Message#
+\."It's scary but... Ghosts...
+ I'm curious how they're being shown...!"
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+Spirit Shutter ~Rules~
+##
+
+#Message#
+\.Touch many blue spirits to collect them.
+Don't touch the red spirits.
+##
+
+#Message#
+\.When ghosts appear on the screen, quickly press
+the red shutter button to drive them away.
+##
+
+#Choice#
+Hear it again
+Just try it
+##
+
+<もう一度説明を聞く>
+
+<とりあえずやってみる>
+
+{N/A}
+#Message#
+\.Touching your ally's icon will give you
+advice and the like, so... Good luck.
+##
+
+<Choice End>
+

@@ -1,0 +1,106 @@
+**********Common1770********** (◆ﾏｲ「腹穴」)
+{Mai}
+#Message#
+"But... getting a hole that big in your stomach...
+ Kurumada's gotta be a doll, huh..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"What do you mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"What do you mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"If he were human, that'd be
+ way too big of a tummyache! He'd die!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm...)
+##
+
+#Choice#
+That's true
+Is that really true?
+##
+
+<そうですね>
+
+{Sara} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent21-1}
+#Message#
+"That's true... We can be pretty sure he's a doll."
+##
+
+{Mai} [Mai: Looking down at hand, eyes closed / cara92-18]
+#Message#
+\."Then... who in the world could it be?"
+##
+
+<そうでしょうか>
+
+{Sara} [Mai: Looking down at hand, eyes closed / cara92-18]
+{SE: Accent21-1}
+#Message#
+"Is that really true...?
+ He doesn't have a tummy to ache..."
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."Quit it with the dark comedy, Sara!"
+##
+
+<Choice End>
+

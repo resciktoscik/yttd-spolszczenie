@@ -1,0 +1,46 @@
+**********Common834********** (★選択用ナオ)
+#Message#
+\C[5]Vote for \C[2]Nao\C[5]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+#Message#
+\C[5]Is \C[2]Nao\C[5] the person who's not a candidate?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+#Message#
+\C[5]Vote for \C[2]Nao\C[5]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

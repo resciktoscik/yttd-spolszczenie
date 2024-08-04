@@ -1,0 +1,483 @@
+=====Map220===== (3-1 Discussion)
+
+**********Event1********** (EV001) (3,0)
+-----Page1-----
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\C[4](I have to pick the statements of \N[4]'s
+ that seem most \C[2]refutable\C[4]...!)
+##
+
+#Message#
+\.\C[4](I'll make him unable to think this over properly!!)
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]An extremely heavy air dominates the space.
+##
+
+{Sara}
+#Message#
+\.\C[4](From what we heard... the rules are simple.)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Nine coffins... If Gin is picked, we lose.
+ If \N[4] is hit, we win.)
+##
+
+#Message#
+\.\C[4](But...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: sceneswitch2}
+#Message#
+"Is it really... that simple...?"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+"Of course, I can't imagine it's that simple."
+##
+
+<Condition End>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Above all... It's strange that \N[4],
+ who should be in a coffin, isn't saying anything...)
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](But...)
+##
+
+{SE: Accent43-1}
+#Message#
+\.\C[4](It doesn't change what we have to do!
+ We'll discuss it together and find an answer...!!)
+##
+
+{Meister}
+#Message#
+"By the way, you can \C[2]rotate\C[0] the coffins during
+ your discussions if you want. Make good use of it!"
+##
+
+
+**********Event4********** (EV004) (4,0)
+-----Page1-----
+{Sara}
+#Message#
+"What's wrong?! You're looking pretty rattled!"
+##
+
+{\N[4]}
+#Message#
+\sw[324]"Be quiet!
+ Stop trying to just rile me up."\sw[325]
+##
+
+#Message#
+\.\sw[324]"I want some time to think about this!"\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](It's better to refute him with logic...)
+##
+
+#Message#
+"\C[2]No way Keiji's inside\C[0]...?
+ Why are you able to say that?!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."We saw \C[2]the cremation system being activated\C[0]!"
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."Shouldn't it be most natural for you
+ to think that Keiji is inside?!"
+##
+
+{\N[4]}
+#Message#
+\sw[324]"Urgh..."\sw[325]
+##
+
+{SE: Accent21-1}
+#Message#
+\.\sw[324]"Foolish... It must have been a \C[2]deception\C[0]!"\sw[325]
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sw[324]"Keiji \C[2]escaped from the coffin\C[0]!"\sw[325]
+##
+
+{Sara}
+#Message#
+"Gin is inconceivable...?
+ It's a \C[12]blue\C[0] coffin! It's possible!"
+##
+
+{\N[4]}
+#Message#
+\sw[324]"No it's not! Because Gin's coffin is \C[2]new\C[0]!
+ It'd be \C[2]a glowing coffin\C[0]!"\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](Urk... That's a failure!)
+##
+
+-----Page3-----
+{Sara}
+#Message#
+"Did the Coffin Control System really work?!"
+##
+
+{\N[4]}
+{SE: Accent24-1}
+#Message#
+\sw[324]"Naturally."\sw[325]
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\sw[324]"I'll explain it to you, so listen up..."\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](Wha...! He gave me a warning!)
+##
+
+#Message#
+"I'm sure you weren't watching
+ whether the videos played or not!"
+##
+
+{\N[4]}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\sw[324]"Ehh? Anyone could watch them
+ if you went to the control room later."\sw[325]
+##
+
+#Message#
+\.\sw[324]"And you brought up the videos
+ during your discussions, didn't you?"\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](Ack! That's right...!)
+##
+
+#Message#
+"\C[2]The dying moments of the six Dummies\C[0]...?
+ That's wrong, \N[4]!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."\C[2]Hinako's video\C[0] showed the death of the real Hinako!
+ Someone separate from the Dummies Hinako!"
+##
+
+{\N[4]}
+#Message#
+\sw[324]"B-Be quiet! What do those details matter now?!"\sw[325]
+##
+
+#Message#
+\.\sw[324]"What's important is...
+ The Coffin Control System \C[2]functioned properly\C[0]."\sw[325]
+##
+
+{SE: Accent24-1}
+#Message#
+\.\sw[324]"Because the victim videos were set to play
+ as a \C[2]reward\C[0] for activating it!"\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](What about that is a reward?!)
+##
+
+{\N[4]}
+{SE: sceneswitch2}
+#Message#
+\sw[324]"At any rate, the real question
+ is \C[2]Keiji's actions afterward\C[0]...!"\sw[325]
+##
+
+-----Page5-----
+{Sara}
+#Message#
+"No, Keiji didn't know anything!"
+##
+
+{\N[4]}
+#Message#
+\sw[324]"Why...? Do you have evidence?"\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](No good! I'll back off...!)
+##
+
+#Message#
+"Maple didn't tell him!"
+##
+
+{\N[4]}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\sw[324]"Ahaha. Where's your proof?"\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](I have none, but...)
+##
+
+#Message#
+"The \C[2]Shin\C[0] AI was only in the control room on Floor 5!"
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."There's no way Keiji could've talked to him
+ while he was \C[2]stuck on Floor 4\C[0]!"
+##
+
+{\N[4]}
+#Message#
+\sw[324]"T-Then he heard it from Maple!
+ That settles it!"\sw[325]
+##
+
+#Message#
+\.\sw[324]"Having learned about the banquet,
+ Keiji began his \C[2]scheme\C[0] to ensnare me...!"\sw[325]
+##
+
+-----Page7-----
+{Sara}
+#Message#
+"Put something else in...
+ How would you know that?!"
+##
+
+{\N[4]}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\sw[324]"Because \C[2]the banquet won't start\C[0]
+ if any of the coffins are empty."\sw[325]
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sw[324]"These coffins can \C[2]detect their contents\C[0], you see."\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](He doesn't seem to be lying...)
+##
+
+#Message#
+"A doll of you, \N[4]...?!
+ Where would he acquire something like that?!"
+##
+
+{\N[4]}
+{SE: sceneswitch2}
+#Message#
+\sw[324]"You didn't see it, but one was on that floor!"\sw[325]
+##
+
+{Sara}
+#Message#
+"W-What the...?!"
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+\sw[324]"I'd prefer if you didn't blame
+ your deficient searching efforts on me."\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](I can't respond to that...!)
+##
+
+#Message#
+"The contents are identified by the \C[2]type of collar\C[0]...?
+ That's the first I'm hearing this!"
+##
+
+{\N[4]}
+#Message#
+\.\sw[324]"Right, because it's the first I'm telling you."\sw[325]
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sw[324]"After all, both \C[2]humans and dolls\C[0] would be
+ reduced to \C[2]cinders\C[0] by the \C[2]cremation system\C[0], right?"\sw[325]
+##
+
+{SE: Accent41-1}
+#Message#
+\.\sw[324]"So only \C[2]things that can withstand the heat\C[0]
+ would \C[2]remain in the coffin\C[0]..."\sw[325]
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sw[324]"Namely... the \C[2]collar\C[0]..."\sw[325]\.
+##
+
+{Sara}
+#Message#
+\C[4](What?!)
+##
+
+{\N[4]}
+{SE: se_maoudamashii_magical14}
+#Message#
+\sw[324]"And Keiji must have thought like so...!"\sw[325]
+##
+
+-----Page9-----
+{Sara}
+#Message#
+"No, I'm sure he thought of another way!"
+##
+
+{\N[4]}
+#Message#
+\sw[324]"Then by all means, tell me what that way is...!"\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](I can't answer that, but...!)
+##
+
+#Message#
+"He \C[2]used your collar\C[0], \N[4]...?
+ That's impossible!"
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."Your collar would show
+ the same thing as the Dummies... \C[10]red\C[0]!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But what actually came up was \C[12]blue\C[0]!!"
+##
+
+#Message#
+\."How do you intend to explain that contradiction?!"
+##
+
+{\N[4]}
+#Message#
+\sw[324]"...Why, you...!!"\sw[325]
+##
+
+#Message#
+\.\sw[324]"You're being so annoying right now!!"\sw[325]
+##
+
+#Message#
+\.\sw[324]"I don't know, so I'm thinking about it!!"\sw[325]
+##
+
+#Message#
+\.\sw[324]"And you're getting in the way...!"\sw[325]
+##
+
+{Sara}
+{SE: Accent42-1}
+#Message#
+"\N[4]..."
+##
+
+{SE: heart2}
+#Message#
+\."There's only one answer that makes sense."
+##
+
+{\N[4]}
+#Message#
+\sw[324]"W... What?"\sw[325]
+##
+
+{Sara}
+#Message#
+"It's simple..."
+##
+
+#Message#
+\."Your reasoning... has all been \C[2]way off the mark\C[0]!!"
+##
+
+#Message#
+\C[4](I did it... I refuted them all...)
+##
+
+#Message#
+"What you wanted...?! What do you mean?!"
+##
+
+{\N[4]}
+#Message#
+\sw[324]"I had it purposefully prepared
+ as a gimmick for the banquet."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Knowing someone would use it for deception!"\sw[325]
+##
+
+{Sara}
+#Message#
+\C[4](How far has he planned this out...?!)
+##
+

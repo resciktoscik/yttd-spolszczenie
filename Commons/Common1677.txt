@@ -1,0 +1,71 @@
+**********Common1677********** (▲ﾏｲ「指紋認証」)
+{Mai}
+#Message#
+"I don't know if it's relevant, but...
+ There was a colored glow for my \C[2]fingerprint scan\C[0]!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"What do you mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"What do you mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Mai} [Mai: Looking down at hand, mouth open / cara92-20]
+#Message#
+"Err... and that color was..."
+##
+
+[Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+\."H-Huh? Sorry... I forgot...!"
+##
+

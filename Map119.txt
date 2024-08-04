@@ -1,0 +1,242 @@
+=====Map119===== (★All Assemble)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]There's not a single person in the lobby.
+##
+
+{Sara}
+#Message#
+\."No way..."
+##
+
+#Message#
+\."Guys...! Where are you?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Looking to the windows,
+the morning sun shone radiantly into my eyes.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Today is the fourth day...!
+ The time limit's up!)
+##
+
+{Voice}
+#Message#
+\."Hmph... That wasn't so bad, was it?"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."This worthless Sub-Game is over already?"
+##
+
+{Sara}
+#Message#
+\."Alice...!"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."What is it, Sara Chidouin?
+ You seem surprised..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...Morning.
+ Pretty refreshing one, eh?"
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The hell's refreshing about this...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Dammit...! In the end...
+ We've still got no means of escape!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."Now, now... Maybe we should be glad
+ we're still alive, huh?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."The loner's a loner, but still stubborn, woof!
+ What a world, meow!"
+##
+
+{Nao} [Nao: Raised finger / cara7-4]
+{SE: flash-of-light-3}
+#Message#
+\."But I'm glad no one had to be sacrificed!
+ Truly...!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Everyone...!!"
+##
+
+#Message#
+\.\C[4](Not a single one of us is missing!)
+##
+
+#Message#
+\.\C[4](This isn't a dream...!)
+##
+
+{SE: Thunder10}
+#Message#
+\.\C[4](This won't go how the kidnappers expect!!)
+##
+
+{Voice}
+#Message#
+\."Huh, didn't count on this..."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Y'all bastards are cockroach-level stubborn!"
+##
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+\."Don't make light of us!!
+ We're MORE stubborn than roaches!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Yeah, yeah. Guess I underestimated that.
+\! Honestly, figured at least one of y'all'd die."
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."Well, whatever.
+ There's a place I wantcha all to come to."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What?! Don't tell me... The Main Game already?!"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"Not just yet...
+ Gotta save the most fun for last..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Grr! Asshole...!"
+##
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+#Message#
+\.\C[10]"C'mon, just look behind ya!"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Eh...?"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."A door...!!"
+##
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+#Message#
+\.\C[10]"Great design, right?
+ I want you to go through there."
+##
+
+#Message#
+\.\C[10]"Scratch that - you ARE gonna come through
+ if you don't wanna get killed!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."W-What should we do...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Don't worry. We won all within the rules.
+ Shouldn't be anything too absurd..."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Guess we gotta, meow. Let's go, woof..."
+##
+
+
+**********Event2********** (saitei) (8,5)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The room is dark; I can hardly see anything.
+##
+
+{Sara}
+#Message#
+\.\C[4](Ranger is probably planning something.)
+##
+
+#Message#
+\.\C[4](I need to steel myself first...)
+##
+
+#Choice#
+Proceed ahead
+Cancel
+##
+
+<先へ進む>
+
+<やめる>
+
+{Sara}
+#Message#
+\.\C[4](I should be prepared for anything...)
+##
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](Let's go...!)
+##
+

@@ -1,0 +1,172 @@
+**********Common617********** (追加進展●左右の液晶)
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Wait a second! Reko!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Y-Yeah, what?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Isn't the timer for the venomous stinger
+ on the \C[2]left LCD\C[0]...?!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."But... the \C[2]right LCD\C[0] says "Left: 35.5"!
+ Ain't this one the timer?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."It's not moving..."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."That's true...!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."The "Left: 35.5" display on the right LCD
+ isn't changing at all!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Wha...?!
+ You're right, it ain't goin' down!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."But if it's not a timer,
+ what's the right LCD supposed to be showing...?"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Um..."
+##
+
+{Sara}
+#Message#
+\."I don't know, but I can think of one thing..."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."It might be key to solving
+ the trick behind this attraction...!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."R-Really?!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...You really wanna claim
+ there's a way to save Gin, huh..."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent21-1}
+#Message#
+\."Then like hell I'm gonna run!
+ Let's figure this shit out!!"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."First, we need to think about
+ what "Left: 35.5" is talking about, right?!"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."It's probably "left" as in "remaining," huh...
+ Maybe we have to lower the number
+ or do something to free those two...?"
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."In which case..."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"What's important is the units on "Left: 35.5"...!"
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Length, weight, volume...
+ If we know the units, will we solve the mystery...?!"
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."But... Even if we narrow it down to "length,"
+ it could be meters, inches, yards..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."If we just figure out what it's related to,
+ that should give us a hint!
+ A person, an object, an action...?"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Like... Say it's a number related to Nao, then..."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Erm... for instance... If we cut 35.5 centimeters
+ off of Nao's hair, Gin will be saved...?"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."If changing up my style will save Gin,
+ I'll cut off as much as I need to!!"
+##
+
+{Sara}
+#Message#
+\."I really don't think it's that...
+\! But all we can do is say what pops into mind!"
+##
+
+#Message#
+\.\C[4](Honestly, this battle is more about
+ intuition than logic...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](But I have no doubt this number
+ has to do with something present here...!!)
+##
+
+#Message#
+\.\C[4](We'll find an escape,
+ even if we have to brute force it!!)
+##
+

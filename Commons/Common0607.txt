@@ -1,0 +1,94 @@
+**********Common607********** (ジョー⑤崩壊「心死」)
+{N/A}
+#Message#
+\C[3]Darkness spreads before me.
+##
+
+#Message#
+\C[3]It's dyed red.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"Is that... me...?"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"Joe...!"
+##
+
+#Message#
+\."Again... that moment again...!!"
+##
+
+#Message#
+\."Spare me already...! At least in my dreams...
+ Please... save Joe...!!"
+##
+
+#Message#
+"What... are you doing...?"
+##
+
+#Message#
+\."No...! Stop! That's...!!"
+##
+
+#Message#
+\.\{"Stop...!!"
+##
+
+#Message#
+\."Aaaaah... ahhh..."
+##
+
+{N/A}
+#Message#
+\.\C[10]Well, Sara? This is my pain.
+##
+
+{Sara}
+#Message#
+\."That's wrong... I mean... I didn't...!"
+##
+
+{N/A}
+#Message#
+\.\C[10]What's wrong about it? You killed me.
+##
+
+{Sara}
+#Message#
+\."I killed Joe..."
+##
+
+#Message#
+\."I... killed..."
+##
+
+{N/A} [Joe: Hallucination (visible face) / cara1-25]
+#Message#
+\{\sp[20]\C[10]WAAAAAAAAAAAAAAAAAAAAAAAAAHHH...!!!!\|\^
+##
+
+{Gin}
+#Message#
+\sp[10]"Big sis... Sara..."
+##
+
+{Sara}
+#Message#
+\sp[7]"Ahahahahaha... hahaha..."
+##
+
+{Keiji}
+#Message#
+"...It's too late..."
+##
+
+#Message#
+\."Sara's..."
+##
+

@@ -1,0 +1,238 @@
+**********Common953********** (３回目の交換)
+{N/A}
+#Message#
+\>[Third Trade]\<
+\>Performed By: Sou\<
+
+\>Q-taro (\C[10]Sacrifice\C[0]) ⇔ Sara (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Third Trade]
+Cancel
+##
+
+<考察【３回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Time-wise...
+ It happened when we were sharing the laptop.)
+##
+
+#Message#
+\.\C[4](It was Sou who sent me Q-taro's \C[10]Sacrifice\C[4].)
+##
+
+#Message#
+\.\C[4](Even still, I'll believe in Sou...!!)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Third Trade]\<
+\>Performed By: Sou\<
+
+\>Q-taro (\C[10]Sacrifice\C[0]) ⇔ Sara (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Third Trade]
+Cancel
+##
+
+<考察【３回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Time-wise...
+ It happened when we were sharing the laptop.)
+##
+
+#Message#
+\.\C[4](It was Sou who sent me Q-taro's \C[10]Sacrifice\C[4]...
+ Urgh...)
+##
+
+#Message#
+\.\C[4](That means Sou received 100 of Q-taro's tokens
+ and used 50 of them...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Third Trade]\<
+\>Performed By: Sou\<
+
+\>Q-taro (\C[10]Sacrifice\C[0]) ⇔ Sara (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Third Trade]
+Cancel
+##
+
+<考察【３回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Time-wise...
+ It happened when we were sharing the laptop.)
+##
+
+#Message#
+\.\C[4](It was Sou who sent me Q-taro's \C[10]Sacrifice\C[4]...
+ Urgh...)
+##
+
+#Message#
+\.\C[4](That means Sou received 100 of Q-taro's tokens
+ and used 50 of them...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Third Trade]\<
+\>Performed By: Sou\<
+
+\>Q-taro (\C[10]Sacrifice\C[0]) ⇔ Sara (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Third Trade]
+Cancel
+##
+
+<考察【３回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Time-wise...
+ It happened when we were sharing the laptop.)
+##
+
+#Message#
+\.\C[4](It was Sou who sent me Q-taro's \C[10]Sacrifice\C[4]...
+ Urgh...)
+##
+
+#Message#
+\.\C[4](That means Sou received 100 of Q-taro's tokens
+ and used 50 of them...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Third Trade]\<
+\>Performed By: Sou\<
+
+\>Q-taro (\C[10]Sacrifice\C[0]) ⇔ Sara (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Third Trade]
+Cancel
+##
+
+<考察【３回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Time-wise...
+ It happened when we were sharing the laptop.)
+##
+
+#Message#
+\.\C[4](It was Sou who sent me Q-taro's \C[10]Sacrifice\C[4]...
+ Urgh...)
+##
+
+#Message#
+\.\C[4](That means Sou received 100 of Q-taro's tokens
+ and used 50 of them...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Third Trade]\<
+\>Performed By: Sou\<
+
+\>Q-taro (\C[10]Sacrifice\C[0]) ⇔ Sara (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Third Trade]
+Cancel
+##
+
+<考察【３回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Time-wise...
+ It happened when we were sharing the laptop.)
+##
+
+#Message#
+\.\C[4](It was Sou who sent me Q-taro's \C[10]Sacrifice\C[4]...
+ Urgh...)
+##
+
+#Message#
+\.\C[4](That means Sou received 100 of Q-taro's tokens
+ and used 50 of them...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Third Trade]\<
+\>Performed By: Q-taro\<
+
+\>Q-taro (\C[10]Sacrifice\C[0]) ⇔ Sara (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Third Trade]
+Cancel
+##
+
+<考察【３回目の交換】>
+
+{Sara}
+#Message#
+\C[4](I can't believe Q-taro would send me the \C[10]Sacrifice\C[4]...)
+##
+
+#Message#
+\.\C[4](Time-wise...
+ It happened when we were sharing the laptop.)
+##
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,106 @@
+**********Common797********** (Q「こいつら誰」)
+{Q-taro}
+#Message#
+"'Sides our names, there's a buncha names
+ I've never even heard...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"You noticed somethin'?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"...Think yer on the wrong track."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Whether they're dead or alive,
+ they're listed on the roster regardless..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Kurumada... Hayasaka... Kinashi... Tsurugi...
+ And tons of other peeps I dunno!!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Were these people who died in the First Trial
+ before they could meet us?!"
+##
+
+{Sara}
+#Message#
+\."That might be it..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."How many people these kidnappers gotta kill
+ 'til they're satisfied?!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...Nah, now's not the time to get emotional..."
+##
+

@@ -1,0 +1,325 @@
+**********Common1036********** (戦①意味のない行動)
+{Hinako} [Hinako: Eyes closed / cara93-4]
+#Message#
+"...No good. Fire doesn't seem to work on that armor."
+##
+
+{Sara}
+#Message#
+\.\C[4](Have to do something about the armor...)
+##
+
+{Hinako}
+#Message#
+"Ahem... Sara-senpai?
+ We don't have the all-important weapon...
+ You know that, right?"
+##
+
+{Sara}
+#Message#
+\."S-Sorry...!"
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+\."Forget apologizing, find a solution.
+ ...This isn't some game."
+##
+
+{N/A}
+#Message#
+\C[3]Keiji looked over the opponent head to toe.
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+"You already know this, but...
+ The red parts of its body are electrified."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Guess we're gonna have to try destroying
+ the safe-to-touch armor first..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Sorry, meow... I couldn't find anything, woof..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+\."We just need to manage with what we have..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+\."...Gotta manage with what we have, I guess."
+##
+
+<Condition End>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"Umm...
+ Doesn't seem to be any other weapons around..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Figures... We just gotta
+ make use of what we got already!"
+##
+
+<Else>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Hmph... How useless.
+ We must make good use of what we have, yes?"
+##
+
+<Condition End>
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+"Dammit!! This armor...
+ My fists ain't gonna break this!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."A... Are you okay?
+ Did you hurt yourself...?"
+##
+
+{Kurumada} [Kurumada: Frown / cara95-2]
+#Message#
+\."Hah, acting like my buddy already?
+ I'm not weak enough for a kiddo
+ to be worrying about me."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."A little rash, aren't you?
+ That'll hurt your wrists..."
+##
+
+{Kurumada} [Kurumada: Frown / cara95-2]
+#Message#
+\."Hey now, you being serious?
+ I've got a mechanical body, y'know?"
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Keiji looked over the opponent head to toe.
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"...Ahh, I got it."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Those bandages look like they burn easy.
+ Might do some good damage if we can light 'em up."
+##
+
+{N/A}
+#Message#
+\.\C[3]The monster is unfazed.
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"Wha...! You gonna act like nothin' happened?!"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Does it not feel pain or what?
+ Gotta find a weak spot... This ain't good."
+##
+
+{N/A}
+#Message#
+\.\C[3]The monster is unfazed.
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"What's your deal, monster?!
+ Didn't I hit you clean in the head?!"
+##
+
+[Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."Does it not feel pain?!
+ Where could its weak spot be?!"
+##
+
+{N/A}
+#Message#
+\C[3]The monster is wary of the fire.
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+"Hard to find an opening..."
+##
+
+[Hinako: Small grin / cara93-3]
+#Message#
+\."Hey, somebody grab its attention.
+ Then I'll burn it from behind..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The monster is unfazed.
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+"Huh? Didn't do any damage..."
+##
+
+[Hinako: Small grin / cara93-3]
+#Message#
+\."Huh... Maybe this monster can't feel pain.
+ Might've been better to burn it."
+##
+
+[Hinako: Eyes closed / cara93-4]
+#Message#
+"Ahem... Sara-senpai?
+ We don't have the all-important weapon...
+ You know that, right?"
+##
+
+{Sara}
+#Message#
+\."S-Sorry...!"
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+\."Forget apologizing, find a solution.
+ ...This isn't some game."
+##
+
+{N/A}
+#Message#
+\.\C[3]The monster is unfazed.
+##
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+"Wha...?! You not even gonna flinch
+ after gettin' a faceful of my right straight?!"
+##
+
+#Message#
+\."Tch, what kinda badly-made doll...
+ Ain't the time to be hurting it, I guess."
+##
+
+{N/A}
+#Message#
+\C[3]The monster is wary of the fire.
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Aaah... I can't approach like this..."
+##
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+\."Hey, ain't gonna get results forcin' it.
+ Use your pieces right, Sara."
+##
+
+{Sara}
+#Message#
+\."Please don't call them "pieces"...!"
+##
+
+{N/A}
+#Message#
+\C[3]The monster is wary of the fire.
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"No openings... Hard to even take a risk
+ when there's no chance of victory."
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."C'mon, can't you just charge in there?
+ You're such a weakling."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...I don't intend to argue with you."
+##
+
+{N/A}
+#Message#
+\C[3]Keiji looked over the opponent head to toe.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"That red thing on its chest's got my attention..."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."If that's a weak point... It might stop moving
+ if we can destroy it with some weapon."
+##
+
+{N/A}
+#Message#
+\.\C[3]The monster quickly turned around.
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+"No dice... Figures it'd take notice
+ when you try to burn its face."
+##
+
+[Hinako: Small grin / cara93-3]
+#Message#
+\."Wouldn't it be better to deal a sharp blow
+ to that red thing on its chest?"
+##
+

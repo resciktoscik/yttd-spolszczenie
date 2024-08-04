@@ -1,0 +1,102 @@
+**********Common1714********** (◆ｱﾘｽ「別人説」)
+{Alice}
+#Message#
+"Simply wear a middle-school blazer, gaudy socks,
+ and dye your hair pink, and presto, it's Hinako!"
+##
+
+#Message#
+"The Hinako in the victim video and the Hinako
+ with the Dummies are entirely different peopleeeee!!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Your intentions aren't clear at all!!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"What...?! What are you trying to say?!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"She had an intimidation factor quite unlike
+ a middle-schooler! Much like you...!"
+##
+
+#Message#
+"I suspect the real Hinako died as in the video!"
+##
+
+[Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+{SE: sceneswitch2}
+#Message#
+\."However... a mystery person took Hinako's place
+ to blend in with the Dummies!!"
+##
+
+[Alice: Angry shout / cara11-8]
+#Message#
+\."And surely they'd disguise their appearance
+ to make sure they weren't found out, right?!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent28-1}
+#Message#
+\."Simply wear a middle-school blazer, gaudy socks,
+ and dye your hair pink, and presto, it's Hinako!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](Is that plausible...?)
+##
+

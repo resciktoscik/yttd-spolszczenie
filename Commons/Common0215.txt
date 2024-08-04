@@ -1,0 +1,74 @@
+**********Common215********** (▽ｶｲ…否定)
+{Sara}
+#Message#
+"Nao is speaking truthfully!"
+##
+
+{Kai}
+#Message#
+\."Her timing is rather late for that to be the case."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk... No good...!)
+##
+
+#Message#
+"Inconceivable!
+ Kai, can you pick a lock?!"
+##
+
+{Kai}
+#Message#
+\."I cannot, so it would be impossible."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gah... He can't?!)
+##
+
+#Message#
+"No! If you \C[2]had the kitchen knife\C[0],
+ you would be able to threaten her!"
+##
+
+{Kai}
+#Message#
+\."Then let us suppose I could indeed.
+ Why would I have miss Nao attack Sou?"
+##
+
+{Sara}
+#Message#
+"Wrong! You had Nao do it because
+ there was a chance Sou would see your face."
+##
+
+{Kai}
+#Message#
+\."And that is why I am being suspected now.
+ If I had done it, I would surely be most prudent
+ and not let my face be seen."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is he just saying that in hindsight...?!)
+##
+
+#Message#
+"No, it was something else!"
+##
+
+{Kai}
+#Message#
+\."I haven't the foggiest idea what. Please tell me."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sara... Think of something...!)
+##
+

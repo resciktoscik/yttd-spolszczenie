@@ -1,0 +1,16 @@
+**********Common350********** (ダンス敵変わるか？)
+{Gin}
+#Message#
+"Big sis Sara!! You're amazing, meow!!"
+##
+
+#Message#
+"The final enemy, meow!! Good luck, big sis Sara!!"
+##
+
+{N/A}
+{SE: Applause1}
+#Message#
+\C[3]Won the battle.
+##
+

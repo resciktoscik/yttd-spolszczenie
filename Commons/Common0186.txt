@@ -1,0 +1,24 @@
+**********Common186********** (ｶﾝﾅ 八分雨？)
+[Kanna: Arms crossed, default look / cara3-1]
+#Message#
+\C[3]Select Kanna as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Kanna: Arms crossed, default look / cara3-1]
+#Message#
+\.\C[4](No! Kanna is Kanna Kizuchi!
+ It uses a lot of kanji, so it kind of
+ sticks out in my mind...)
+##
+
+<いいえ>
+
+<Choice End>
+

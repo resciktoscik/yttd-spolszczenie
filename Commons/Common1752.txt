@@ -1,0 +1,119 @@
+**********Common1752********** (◆ｷﾞﾝ)
+{Gin}
+#Message#
+"I think we have to use our hint, meow...!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"The hint won't necessarily be \C[10]red\C[0], meow!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](But... for some reason,
+ \N[4] doesn't think Keiji is in there...)
+##
+
+{Gin}
+#Message#
+"Seaweed head's a liar, meow!
+ It's not guaranteed it'll be \C[10]red\C[0], meow!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."That's true... there's \C[2]Keiji's coffin\C[0]."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Y-Yeah..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](I don't want to think about it, but...
+ If Keiji is really in there, after being executed...)
+##
+
+{SE: Accent40-1}
+#Message#
+\.\C[4](It'll show... blue.)
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[4](But \N[4] isn't considering that at all...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Why... is that?)
+##
+

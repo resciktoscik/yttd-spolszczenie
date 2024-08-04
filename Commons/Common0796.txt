@@ -1,0 +1,109 @@
+**********Common796********** (ｶﾝﾅ「４枚つづり」)
+{Kanna}
+#Message#
+"There are four bound sheets...
+ And four names on each sheet!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"Um...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+"Erm... hmm..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"I wonder if these four sheets are everything..."
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+"Who would have made this roster, I wonder..."
+##
+
+{Sara}
+#Message#
+\."Probably Miley...
+ It's what Gashu's reaction seemed to indicate, too."
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\.".........."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent28-1}
+#Message#
+\."Um... Is there no followup to these sheets?"
+##
+
+{Sara}
+#Message#
+\."Followup...?
+ No, there wasn't anything else..."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."I-Is that so... Sorry."
+##
+

@@ -1,0 +1,178 @@
+**********Common357********** (●メモリーダンスゲーム)
+#Message#
+\C[3]Now's not the time for attractions.
+##
+
+#Message#
+\C[3]I've already cleared this attraction.
+##
+
+{N/A}
+#Message#
+\C[3][Memory Dance]
+Participants: 2
+Clear Chip Reward: \C[2]★★★★\C[3]
+Difficulty: \C[2]Very Hard\C[3]
+##
+
+#Message#
+\.\C[3]A game of memorizing your opponent's dance
+and repeating the proper moves.
+Defeat the three dolls to win.
+##
+
+#Choice#
+Select partner
+Cancel
+##
+
+<相棒を選ぶ>
+
+#Choice#
+Kanna
+Reko
+Gin
+Cancel
+##
+
+<カンナ>
+
+{N/A} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\.Kanna Kizuchi
+As Kanna, you partially remember the moves.
+
+Difficulty: Hard
+##
+
+#Choice#
+Partner with Kanna
+Reselect
+##
+
+<カンナを相棒にする>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\.".........."
+##
+
+<選びなおす>
+
+<Choice End>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\.Kanna Kizuchi
+As Kanna, you partially remember the moves.
+
+Difficulty: Hard
+##
+
+#Choice#
+Partner with Kanna
+Reselect
+##
+
+<カンナを相棒にする>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Y... Yes...! I'll definitely try to be useful...!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.Kanna Kizuchi
+As Kanna, you partially remember the moves.
+
+Difficulty: Hard
+##
+
+#Choice#
+Partner with Kanna
+Reselect
+##
+
+<カンナを相棒にする>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Y... Yes...! I'll definitely try to be useful...!"
+##
+
+[Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...I'll do my best."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<レコ>
+
+{Kanna} [Reko: Default / cara6-1]
+#Message#
+\.Reko Yabusame
+As Reko, you memorize the back half of the moves.
+Touching her icon makes you remember all of them.
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Reko
+Reselect
+##
+
+<レコを相棒にする>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Hell yeah! This is my strong suit!
+ You're in good hands, Sara!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<ギン>
+
+{Reko} [Gin: Default / cara9-1]
+#Message#
+\.Gin Ibushi
+As Sara, Gin sometimes cheers to recover health.
+He'll also recover health if you touch his icon.
+Difficulty: Hard
+##
+
+#Choice#
+Partner with Gin
+Reselect
+##
+
+<ギンを相棒にする>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I... It's scary, but I'll try, woof!
+ I'll definitely protect big sis Sara, meow!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

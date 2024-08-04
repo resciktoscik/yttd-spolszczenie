@@ -1,0 +1,149 @@
+**********Common1440********** (戦③ちゃんと効果あり)
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]On Keiji's signal, everyone stopped.
+##
+
+#Message#
+\C[3]The books returned to their original shelves.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+"Be quiet in the library... I suppose."
+##
+
+{N/A}
+#Message#
+\C[10]Silence returned to the library.
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: sceneswitch2}
+#Message#
+"I found it...! Here it is!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Kanna took an alarm clock from the back of a bookshelf.
+##
+
+{SE: button17}
+#Message#
+\.\C[3]Obtained an alarm clock.
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Huh?! How do we stop the noise...?!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: sceneswitch2}
+#Message#
+"...Here it is."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Sou took an alarm clock from the back of a bookshelf.
+##
+
+{SE: button17}
+#Message#
+\.\C[3]Obtained an alarm clock.
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"It's noisy, so I'll give it to you, miss Sara..."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: sceneswitch2}
+#Message#
+"Just heard it...! There!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Reko took a smartphone from a gap below a bookshelf.
+##
+
+{SE: button17}
+#Message#
+\.\C[3]Obtained a noisy smartphone.
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Tch! As usual, it's unusable...!"
+##
+
+{Alice} [Alice: Angry shout / cara11-8]
+{SE: sceneswitch2}
+#Message#
+"There...!!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Alice took a smartphone from a gap below a bookshelf.
+##
+
+{SE: button17}
+#Message#
+\.\C[3]Obtained a noisy smartphone.
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: flash-of-light-3}
+#Message#
+"Mwahaha... How many times do you think I've searched
+ for my lost smartphone via notification sounds?!
+ I am beyond compare...!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Yet, it can't be used...!
+ Is this a prank?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The smartphone broke and stopped making noise.
+##
+
+#Message#
+\.\C[3]The alarm clock broke and stopped making noise.
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent28-1}
+#Message#
+"How's that? It's in pieces now..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The smartphone broke and stopped making noise.
+##
+
+#Message#
+\.\C[3]The alarm clock broke and stopped making noise.
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: Accent28-1}
+#Message#
+"I feel a little refreshed now..."
+##
+

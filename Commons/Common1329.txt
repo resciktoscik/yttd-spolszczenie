@@ -1,0 +1,361 @@
+**********Common1329********** (９、間違いどす)
+{Keiji}
+#Message#
+\C[4](Q-taro's outfit...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I was hospitalized, so it was a light outfit...
+ Don't think there was nothin' too strange."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."They are some pretty big clothes, though."
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent21-1}
+#Message#
+\."Don't I know it!
+ Wish they'd sell more for big guys like me!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](He seems pretty proud of it...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](This cafe worker...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this person a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ It was just a regular employee."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."They didn't change any staff after the incident."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Glad the place didn't go under, but also feels like
+ they were trying to let it all blow over..."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\."That's almost kind of unsettling..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](This robot-looking toy...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Huh? What exactly...?"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."Um, you know... the robot thing up on the shelf?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...Was there something like that?"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."There is! Please look at it!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."H-Huh... I guess \N[4] was into
+ this kind of thing? What a bizarre hobby..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."Is that it...?"
+##
+
+#Choice#
+Seems like a fun hobby
+Yeah, it's a stupid hobby
+##
+
+<良い趣味ですね>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+"That's a surprisingly fun hobby
+ for \N[4] to have, honestly..."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."O-Oh...? Well, I wouldn't really know about it."
+##
+
+<嫌な趣味ですね>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+"Yes, I suppose that's in line with
+ the poor taste I'd expect from \N[4]."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\.\C[4](...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\C[4](This curtain in the back of the room...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm...
+ I think it was just a curtain like I remember, meow."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."They'd close the curtain if somebody was there, meow.
+ Otherwise they'd leave it open, woof."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](They chose a time no one else was there...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](These many flavors of ice cream...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."...No matter what, all I can remember
+ is delicious ice cream that makes me hungry."
+##
+
+#Message#
+\."Vanilla, chocolate, rum raisin, caramel...!"
+##
+
+[Kanna: Hands in front smile / cara3-18]
+{SE: Accent21-1}
+#Message#
+\."Oh yeah... I used to dislike chocolate mint,
+ but it's tasty to me now."
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."Really...?"
+##
+
+#Choice#
+Good for you
+Be serious with me
+That toothpaste-y stuff?
+##
+
+<良かったな>
+
+{Sara} [Sara: Hands on hips, wink / cara0-21]
+{SE: Accent28-1}
+#Message#
+"Good for you. Guess you've grown up?"
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."You think so? Eheheh!"
+##
+
+<まじめに話してくれ>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Thunder10}
+#Message#
+"Be serious right now, Kanna."
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."S-Sorry... I got sidetracked..."
+##
+
+<歯磨き粉みたいなヤツか？>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Thunder10}
+#Message#
+"That toothpaste-y stuff?"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Please, don't say the same thing Sou did!"
+##
+
+<Choice End>
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\.\C[4](Well... No mystery here, it seems.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\C[4](This upper bed...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's just a stiff bed."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."When something good happened, I slept in the top bed.
+ Having no roommate, it was my room's pinnacle..."
+##
+
+{Sara} [Sara: Hands on hips, nervous sweat / cara0-20]
+#Message#
+\.\C[4](He sounds so happy about it...)
+##
+
+<やめる>
+
+<Choice End>
+

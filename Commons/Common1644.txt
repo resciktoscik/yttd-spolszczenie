@@ -1,0 +1,68 @@
+**********Common1644********** (●ｸﾙﾏﾀﾞ「爆熱溶けた」)
+{Kurumada}
+#Message#
+"It's gotta be the explosion's fault, yeah?
+ \C[2]The heat of the blast\C[0], say..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+{SE: Accent21-1}
+#Message#
+"The impact of the explosion, or the heat...
+ There's a lot that could've done it, ain't there?"
+##
+

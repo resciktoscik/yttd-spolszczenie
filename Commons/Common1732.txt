@@ -1,0 +1,709 @@
+**********Common1732********** (３前進展⑮ギンの青)
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Ahaha, well done!
+ It seems you found \C[12]Gin\C[0]!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."No... way..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Big sis Sara...!!"
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\."I...!! I..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Gin..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+\."Please, stop...!!"
+##
+
+[Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."This is just... meaningless...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."\N[4]!! You had your fun now, right?!
+ Rethink it!!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: Accent40-1}
+#Message#
+\."Gin's just a little kid...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."Stop it, \N[4]!!
+ You've had your fun, surely!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent40-1}
+#Message#
+\."You intend to harm a child such as him?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."Stop it, Hiyori!! There's no need for this...!"
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."You've had your fun, right?!
+ Just call it your victory...!!"
+##
+
+[Sou: Hands out, mouth open, angry eyes with bags, grim face / cara5-33]
+{SE: Accent40-1}
+#Message#
+\."Gin's still just a little kid!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Mouth open, swirly eyes / cara19-6]
+#Message#
+\."\{Ahahahahahaha!!\} I've hardly begun having fun!!"
+##
+
+[Midori: Swirly eyes, evil dark overlay / cara19-7]
+#Message#
+\."I wish I could play more, more, more!! Ahahahahaha!!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Gin}
+{SE: Accent40-1}
+#Message#
+\."I'm sorry... meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin...)
+##
+
+#Message#
+\."Why are... you apologizing, Gin...?"
+##
+
+{SE: Accent21-1}
+#Message#
+\."...I'm sorry..."
+##
+
+#Message#
+\."I'm sorry! Gin...!!"
+##
+
+#Message#
+\."I... couldn't... protect...!!"
+##
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."That's not true!!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...!!"
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: sceneswitch2}
+#Message#
+\."Because... you were there, big sis Sara..."
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."I wasn't... scared... even now... I'm not..."
+##
+
+{Sara}
+#Message#
+\."...No..."
+##
+
+#Message#
+\."I can't do this!! This is...!!"
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent21-1}
+#Message#
+\."Take care... of everyone... meow..."
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."And... find Mr. Policeman, woof...!!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+
+　　　　　　　　　　　　\C[15]Keiji...?
+##
+
+#Message#
+
+##
+
+#Message#
+
+##
+
+#Message#
+
+##
+
+{Sara}
+#Message#
+\."\N[4]..."
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."What? Still pleading for life...?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...You haven't... granted it..."
+##
+
+#Message#
+\."The \C[2]consent form wish\C[0]... I still haven't...!!"
+##
+
+{\N[4]}
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+{SE: Accent41-1}
+#Message#
+\."...Huhh?"
+##
+
+{Sara}
+#Message#
+\."You're obligated to listen to my wish...!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, mouth open / cara19-22]
+#Message#
+\."What're you saying...?"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Invalidating the results of the Death Game
+ is off-limits, miss Sara."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."We haven't come to any result yet..."
+##
+
+{SE: Accent43-1}
+#Message#
+\."Because this lamp is just a hint...!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, mouth open / cara19-22]
+#Message#
+\."You're truly ridiculous..."
+##
+
+{Sara}
+#Message#
+\."I'm making a demand...!!"
+##
+
+#Message#
+\."Just this once...
+ \C[2]Change your selection\C[0], \N[4]!!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, mouth open in confusion / cara19-23]
+#Message#
+\."This isn't like you..."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open / cara19-22]
+#Message#
+\."It's much too lame... mere hair-splitting...!"
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open in confusion / cara19-23]
+#Message#
+\."I'm the Floor Master...
+ The rules are all up to..."
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent41-1}
+#Message#
+\."That's some interestin' hair-splitting..."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, mouth open in confusion / cara19-23]
+#Message#
+\."M... Meister...?"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent21-1}
+#Message#
+\."She's got a point, \N[4]. It's not altering
+ the outcome, just changing the process a tad."
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: Accent24-1}
+#Message#
+\."...And didn't you say you wanted to play more?"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, mouth open in confusion / cara19-23]
+#Message#
+\."Don't be absurd...
+ That isn't for you to decide."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Let me out! I'll manage the controls."
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: shrink1}
+#Message#
+\."We're still in the game...
+ That'd be a rule violation."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, mouth open in confusion / cara19-23]
+#Message#
+\."Meister...!"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+\."Haha..."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](...What's with this person?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Why is he judging in our favor...?)
+##
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+{SE: sceneswitch2}
+#Message#
+\."Hold on, ain't that strange?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Ranmaru...!)
+##
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, angry mouth / cara91-45]
+#Message#
+\."Listen, there's only two glowing coffins left..."
+##
+
+[Ranmaru: Evil, furrowed brow, closed mouth / cara91-48]
+#Message#
+\."If he doesn't pick Gin here..."
+##
+
+[Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then we'd be able to pick \N[4]
+ with certainty next turn!"
+##
+
+[Ranmaru: Evil, hands out, furrowed brow, angry mouth / cara91-47]
+#Message#
+\."Wouldn't that mean completely changing
+ the outcome of the Death Game?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."You...! Whose side're you on?!"
+##
+
+<Else (Switch #822 (★ソウ生存ルート))>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](...He says it's changing the process, but...)
+##
+
+#Message#
+\.\C[4](If \N[4] accepts my wish here...)
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[4](Then we'll definitely be able
+ to hit him next turn, won't we?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](So doesn't it amount to changing the outcome...?)
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."..."
+##
+
+[Meister: Hat in hand / cara17-10]
+{SE: horror_piano chord3}
+#Message#
+\."\C[2]It ain't gonna end\C[0]..."
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."\N[4]...
+ Hurry up and pick a coffin to target."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+\.".........."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent41-1}
+#Message#
+\."\C[2]#2\C[0]..."
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What... #2...?!"
+##
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+\."#2 is..."
+##
+
+[Anzu: Horrified look, mouth closed / cara96-9]
+#Message#
+\."Wha...?!"
+##
+
+[Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."W... Wait!! Why me...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent42-1}
+#Message#
+\."Just hurry up and pick #2."
+##
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."No...! Hold on!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Anzu..."
+##
+
+{Anzu} [Anzu: Horrified look, mouth closed / cara96-9]
+#Message#
+\."Spare me! Please...!! I don't wanna die!!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."\N[4]...! Anything but #2!
+ Pick a non-glowing coffin besides Anzu's!!"
+##
+
+{Anzu} [Anzu: Horrified look, mouth closed / cara96-9]
+{SE: Accent21-1}
+#Message#
+\."R... Ranmaruuu..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+#Message#
+\."You sure...? We might get chosen..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent28-1}
+#Message#
+\."But Keiji's coffin might get picked...!"
+##
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+{SE: Accent21-1}
+#Message#
+\."...That's a good bet."
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Sara} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I see... If Keiji's coffin or \V[981]'s coffin
+ gets chosen... no one will have to die...)
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+\."Are you sure...? We might get chosen..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent28-1}
+#Message#
+\."But Keiji's coffin might get picked...!"
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent21-1}
+#Message#
+\."...Ah, in which case..."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+#Message#
+\."Are you sure? We may get selected..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent28-1}
+#Message#
+\."But Keiji's coffin might get picked...!"
+##
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: Accent21-1}
+#Message#
+\."...I see. It's worth betting on..."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Anzu} [Anzu: Horrified look, mouth closed / cara96-9]
+#Message#
+\."Spare me...! Please!! I don't wanna die...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."Oh, shut up. #2, and that's final.
+ Do it already, Meister."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Accent21-1}
+#Message#
+\."Your wish is my command."
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](#2...?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Isn't that Anzu's coffin? Why...)
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."No need to belabor the point.
+ Do it already, Meister."
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: Accent21-1}
+#Message#
+\."Alrighty, as you command."
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+"Stooooooooooppp!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Anzu...!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."A... Anzu!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\."Anzu...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...!!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{N/A}
+{SE: WON-baratto01}
+#Message#
+\.\C[3]Meister selected the coffin.
+##
+

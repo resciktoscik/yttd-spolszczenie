@@ -1,0 +1,113 @@
+**********Common534********** (ｿｳ「ﾚｺ独りいつ？」)
+{Sou}
+#Message#
+"Someone could only have taken Reko's place
+ when she was alone... Was there any such time?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"I don't follow your advanced logic, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"Err... Not really ringing a bell..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"For a fake to switch places with Reko,
+ it'd have to happen when she was alone."
+##
+
+#Message#
+"But is there proof of such a time?"
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](I wonder if... I have that proof here...?)
+##
+
+#Message#
+"I imagine Reko would have been alone
+ when it was bedtime, but..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Like Kanna said earlier, Reko was wary
+ even in her own room. Her clothes are important..."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."So the question is if she was ever alone
+ while up and about..."
+##
+
+#Message#
+\."Hey, miss Sara. Do you have any ideas?"
+##
+
+{Sara}
+#Message#
+\.\C[4](If I can prove Reko was ever alone
+ for even the slightest moment...)
+##
+

@@ -1,0 +1,16 @@
+**********Common435********** (ゲームオーバー処理)
+{Sou}
+#Message#
+"W-What's going on...?"
+##
+
+{Q-taro}
+#Message#
+"Dammit...! What's happenin'...?!"
+##
+
+{Gin}
+#Message#
+"What, woof?! I'm scared, meow!"
+##
+

@@ -1,0 +1,141 @@
+**********Common510********** (ﾅｵ「………」)
+{Nao}
+#Message#
+"One of us... has to fall..."
+##
+
+#Message#
+".........."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"U-Um, I think we should discuss right now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+{Nao}
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+"To think this line of thought...
+ would arrive at such a conclusion..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+"...Sara..."
+##
+
+#Message#
+\."You've noticed, haven't you...?
+ The only way..."
+##
+
+{Sara}
+#Message#
+\."...You mean..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I understand now why the people
+ who placed high aren't here..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."Clearly, this is an unwanted duty..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."And there'll be a dispute in this place..."
+##
+
+#Message#
+\.".........."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."...I have an answer..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."One of us... has to fall, don't we..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No...!! Is there no other option...?!)
+##
+

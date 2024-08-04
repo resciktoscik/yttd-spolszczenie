@@ -1,0 +1,72 @@
+**********Common1669********** (◆ﾚｺ「赤い血は人間」)
+{Reko}
+#Message#
+"It's indicating what's inside! \C[2]Red is... red blood\C[0]!
+ Which means there's a \C[2]human\C[0] in there!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+"Sara! Think about it some more!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"W-What?! What do you mean by that?!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"I know it's kind of a stretch..."
+##
+
+[Reko: Fists out, angry eyes, mouth open / cara6-40]
+#Message#
+\."But, look! Whether or not they've got blood in 'em
+ is a big difference to identify dolls by, right?!"
+##
+

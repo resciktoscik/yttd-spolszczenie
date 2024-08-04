@@ -1,0 +1,97 @@
+**********Common742********** (ｿｳ「不可能だ」)
+{Sou}
+#Message#
+"Seeing through to who the \C[2]Keymaster\C[0] is...
+ Isn't the only way to do that during the Main Game,
+ with the \C[3]Sage\C[0]'s power of \C[2]clairvoyance\C[0]?!"
+##
+
+#Message#
+"Hold on! Q-taro, weren't you passed out
+ during the \C[6]fourth trade\C[0]?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"I don't need that garbage..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+"...That's not even a rebuttal."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+"Ugh!! Grgh...!!"
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"I mean... Keiji could do the trade himself...
+ But... but..."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Uhh... ergh..."
+##
+
+#Message#
+\C[4](Is he panicking? He hasn't worked out his logic...)
+##
+

@@ -1,0 +1,82 @@
+**********Common783********** (ｷﾞﾝ「バケツ女嘘つき」)
+{Gin}
+#Message#
+"I can't believe bucket girl, woof!
+ She's lying to try and confuse us, meow!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Big sis Sara! Calm down, meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"That's not a good objection, woof!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"She's been betraying us over and over, meow..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."She's even less trustworthy than the loner, woof!
+ Don't trust bucket girl, big sis Sara!"
+##
+

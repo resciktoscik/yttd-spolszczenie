@@ -1,0 +1,79 @@
+**********Common851********** (ケイジQ会話)
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff sniff*...
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+\."Smells like a gorilla, meow!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...That's 'cause I've got a gorilla on my shoulder."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Seems Q-taro still hasn't woken up."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."It's like he's in a deep sleep."
+##
+
+{Sara}
+#Message#
+\."Oh..."
+##
+
+#Choice#
+I'm worried
+Let's escape before he wakes
+##
+
+<心配です>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I'm worried whether he'll wake up..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."It's fine. If it comes down to it,
+ we can try splashing water on him."
+##
+
+{Sara}
+#Message#
+\.\C[4](What is this, gym class?)
+##
+
+<起きる前に脱出しましょう>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+"How about we escape before Q-taro wakes up?"
+##
+
+{Keiji}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."That'd be a hoot.
+ Like pranking someone while they're asleep."
+##
+
+{Sara}
+#Message#
+\.\C[4](It would be one joyful prank...)
+##
+
+<Choice End>
+

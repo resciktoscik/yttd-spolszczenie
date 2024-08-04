@@ -1,0 +1,221 @@
+**********Common1529********** (戦⑦悲しむAIへ)
+{N/A}
+#Message#
+\C[3]But it was already destroyed, so there's no response.
+##
+
+{Sara}
+#Message#
+\.\C[4](That's on me for giving the order...!)
+##
+
+{Sorrowful AI}
+{SE: sceneswitch2}
+#Message#
+"Stop... Gin..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The water went inside the body, consuming energy.
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent40-1}
+#Message#
+"I had no other choice, meow..."
+##
+
+{Sorrowful AI}
+{SE: sceneswitch2}
+#Message#
+"Stop... Kurumada..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+"Sorry 'bout that...
+ Had to get you back for my stomach."
+##
+
+{Sorrowful AI}
+{SE: sceneswitch2}
+#Message#
+"Stop... Mai..."
+##
+
+{Mai} [Mai: Looking down at hand, mouth open, teary eyes / cara92-23]
+{SE: Accent40-1}
+#Message#
+"I'm sorry, Maple..."
+##
+
+{Sorrowful AI}
+#Message#
+"I'm sorry...! I just can't do it...!!"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"Maple...!"
+##
+
+{Sorrowful AI}
+{SE: Accent21-1}
+#Message#
+"Kanna... You're right...
+ I need to stop this..."
+##
+
+#Message#
+\."But... urghhh...! Hiyori...!
+ Hiyori needs me...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Sorrowful AI responded strongly, consuming energy.
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent40-1}
+#Message#
+"Do your best, Maple...!
+ Overcome this...!"
+##
+
+{Sorrowful AI}
+#Message#
+"I'm sorry...! I just can't do it...!!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+"Dammit... Both you and me..."
+##
+
+{Sorrowful AI}
+{SE: Accent21-1}
+#Message#
+"Shin... You're right...
+ I need to stop this..."
+##
+
+#Message#
+\."But... urghhh...! Hiyori...!
+ Hiyori needs me...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Sorrowful AI responded strongly, consuming energy.
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+{SE: Accent40-1}
+#Message#
+"..."
+##
+
+{Sorrowful AI}
+#Message#
+"No... Just... stay away, everyone..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Maple...!!"
+##
+
+{Sorrowful AI}
+{SE: Accent21-1}
+#Message#
+"You think of me... as an ally...?"
+##
+
+#Message#
+\."But... I can't! I'll hurt all of you!!
+ I can't control my movements...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Sorrowful AI responded strongly, consuming energy.
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent40-1}
+#Message#
+"Gah...! We gotta save her somehow!!"
+##
+
+{Sorrowful AI}
+#Message#
+"Stop it... I don't want to hurt you all..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"Provocation's pointless... What do we do?!"
+##
+
+{Sorrowful AI}
+#Message#
+"Stop it... I don't want to hurt you all..."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"H-Hey...! Did you make a mistake in who to provoke?!"
+##
+
+{Sorrowful AI}
+#Message#
+"If you understand how I feel... then run away...!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"It's no use! She's acting agaisnt her will...
+ So understanding her won't change a thing..."
+##
+
+{Sorrowful AI}
+#Message#
+"I'm sorry... I don't want to do this either..."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"She's crying as she approaches us...
+ There's nothing we can do!"
+##
+
+{Sorrowful AI}
+#Message#
+"I'm sorry, Anzu... I can't laugh right now..."
+##
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+#Message#
+"G-Guess that figures! Pardon meee!"
+##
+
+{Sorrowful AI}
+#Message#
+"I'm sorry, Hayasaka... I'm sorry..."
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+"We're just apologizing at each other!
+ There's no point to it...!"
+##
+

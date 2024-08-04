@@ -1,0 +1,18 @@
+**********Common1409********** (②ケイジB選択)
+{N/A}
+#Message#
+"A knife on the ceiling...
+ Might be able to reach if I jump off the ropes."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

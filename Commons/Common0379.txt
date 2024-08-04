@@ -1,0 +1,21 @@
+**********Common379********** (１－朝後イベント)
+{N/A}
+#Message#
+\C[3]Suddenly, I remembered something.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is Nao still there, I wonder...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]The AI of Professor Mishima...
+##
+
+{Sara}
+#Message#
+\.\C[4](I should go check on her...)
+##
+

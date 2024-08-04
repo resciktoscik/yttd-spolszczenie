@@ -1,0 +1,25 @@
+**********Common839********** (★2章後編候補者失敗)
+{Sara}
+#Message#
+\C[4](No, that's wrong!!)
+##
+
+#Message#
+\.\C[4](Think... Who's not a candidate?
+ In other words, someone who's left out!)
+##
+
+#Message#
+\.\C[4](These rosters show the chances of victory
+ for the candidates... So anyone not on it is...?)
+##
+
+#Message#
+\.\C[4](Whoever's name isn't on the roster...
+ That's someone who's not a candidate!)
+##
+
+#Message#
+\.\C[4](The one not on the roster... is Nao!!)
+##
+

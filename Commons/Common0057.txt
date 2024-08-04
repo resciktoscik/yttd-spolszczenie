@@ -1,0 +1,119 @@
+**********Common57********** (議題②)
+{Q-taro}
+#Message#
+"We gotta have the one we can trust most
+ be the Challenger, I'm thinkin'."
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"No objections there, right?
+ So let's talk it out."
+##
+
+#Message#
+"Straight to the point: I got experience handlin' guns.
+ So leave bein' the Challenger to me."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Is that true?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Yep, I hate lies. I got real acquainted
+ with shootin' when I went to the US!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."So you're saying you've had training?"
+##
+
+#Message#
+"I'll keep it simple too. Q-taro, even if you do
+ have experience, I can't trust you."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."..."
+##
+
+#Message#
+\."...Really now?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sorry."
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."The mood has become tense..."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+"...Hrm... I am undecided.
+ It pains me to put the responsibility on miss Sara."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."She'll be fine!
+ Sara's got a mind of steel! Just call her Steelmind!"
+##
+
+{Kai} [Kai: Default / cara8-1]
+{SE: Accent28-1}
+#Message#
+\."...\C[2]Steelmind\C[0]...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't get caught up on that part...)
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"Well, Sara?
+ Can you think of any rebuttals?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Rebuttals...
+ There isn't a lot I can say myself, is there?)
+##
+
+#Message#
+\."...I'll think about it."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Ask me if you're not sure!
+\! We'll stress about it together!"
+##
+
+{Sara}
+#Message#
+\.\C[4](But won't necessarily "settle" it...)
+##
+

@@ -1,0 +1,110 @@
+**********Common1715********** (◆ｷﾞﾝ「別人説」)
+{Gin}
+#Message#
+"With just a middle-school uniform, fancy socks,
+ and pink hair... you'd look like Shorty, woof!"
+##
+
+#Message#
+"The Shorty in the victim video and the Shorty
+ in the Dummies were just different people, meow!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"I didn't dislike Shorty that much, meow..."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+"I'm sure the real Hinako died
+ like in the video, meow..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+\."But the Shorty we know took the real one's place
+ to infiltrate the Dummies, woof!!"
+##
+
+[Gin: Looking to side, raised eyebrows / cara9-22]
+#Message#
+\."And she probably disguised herself to blend in
+ so \N[4] wouldn't find her out, meow!!"
+##
+
+[Gin: Looking to side / cara9-21]
+{SE: Accent28-1}
+#Message#
+\."With just a middle-school uniform, fancy socks,
+ and pink hair... you'd look like Shorty, woof!"
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."I dunno what her goal was... but it's not good
+ to assume she was our enemy, meow..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](Is that plausible...?)
+##
+

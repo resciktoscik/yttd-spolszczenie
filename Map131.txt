@@ -1,0 +1,200 @@
+=====Map131===== (❹Prize Exchange)
+
+**********Event2********** (gasyusyu) (3,5)
+-----Page1-----
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+"I'm terribly sorry...
+ You may not use the Prize Exchange anymore."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."I am cleaning up the prizes,
+ so apologies if it gets dusty."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]I can't tell anything about Gashu's heart.
+##
+
+{Sara}
+#Message#
+\.\C[4](Since I've hardly even talked to him...)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"...The time you spent together's important for this."
+##
+
+
+**********Event3********** (sara) (6,2)
+-----Page1-----
+#Message#
+\C[3]A photo of me.
+##
+
+
+**********Event4********** (keizi) (8,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Keiji.
+##
+
+
+**********Event5********** (kannna) (10,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Kanna.
+##
+
+
+**********Event6********** (Qtarou) (12,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Q-taro.
+##
+
+
+**********Event7********** (sou) (14,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Sou.
+##
+
+
+**********Event8********** (reko) (7,4)
+-----Page1-----
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\C[3]A photo of Reko.
+##
+
+<Else>
+
+#Message#
+\C[3]A skull label has been put over Reko's photo.
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko...)
+##
+
+<Condition End>
+
+
+**********Event9********** (nao) (9,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Nao.
+##
+
+
+**********Event10********** (gin) (11,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Gin.
+##
+
+
+**********Event11********** (arice) (13,4)
+-----Page1-----
+<If Switch #641 (★アリス生存ルート) is ON>
+
+#Message#
+\C[3]A photo of Alice.
+##
+
+<Else>
+
+#Message#
+\C[3]A skull label has been put over Alice's photo.
+##
+
+{Sara}
+#Message#
+\.\C[4](Alice...)
+##
+
+<Condition End>
+
+
+**********Event50********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event52********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event53********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event54********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event55********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event56********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event60********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

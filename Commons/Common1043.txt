@@ -1,0 +1,53 @@
+**********Common1043********** (戦①ひるませる系)
+{N/A}
+#Message#
+\C[3]The monster lost its balance and fell over.
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+{SE: Accent28-1}
+#Message#
+"Whoa! It actually worked out?!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Hah! Don't be startled by somethin' you did yourself."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."S-Shaddup... What matters is I was useful, right?"
+##
+
+{N/A}
+#Message#
+\C[3]Sara grabbed at the monster.
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"N-No good!
+ It's too strong... It'll just throw me off!"
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."Please! Hang onnn...!!"
+##
+
+{N/A}
+#Message#
+\C[3]Q-taro forcefully tossed the monster.
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Right! Let's get on it before it gets back up!"
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."Please! Hang onnn...!!"
+##
+

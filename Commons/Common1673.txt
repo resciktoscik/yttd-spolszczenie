@@ -1,0 +1,95 @@
+**********Common1673********** (●ﾋﾅｺ「赤は怒り」)
+{Hinako}
+#Message#
+"\C[2]Red is anger\C[0], blue is sadness, yellow is joy...
+ Well? Think that can give us an answer?"
+##
+
+#Message#
+"Color, huh? Weren't there those three buttons
+ on \C[2]Maple's back\C[0]? Red, blue, and yellow..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Hinako} [Hinako: Sad eyes, mouth open / cara93-8]
+#Message#
+"Anger... No, I can't think of anything..."
+##
+
+[Hinako: Sad eyes / cara93-7]
+{SE: Accent21-1}
+#Message#
+"Those buttons made a link between
+ emotions and the colors, didn't they...?"
+##
+
+[Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+"\C[2]Red is anger\C[0], blue is sadness, yellow is joy..."
+##
+
+[Hinako: Furrowed brow / cara93-9]
+#Message#
+\."Suppose that has anything to do with the answer?"
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\C[4](Emotions and colors...)
+##
+

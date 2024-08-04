@@ -1,0 +1,472 @@
+=====Map36===== (②■Cafeteria)
+
+**********Event1********** (kai) (9,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Kai is staring directly at the kitchen.
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+"It is locked...
+ Perhaps there's nothing to be done."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kai...?)
+##
+
+#Choice#
+What are you doing?
+What are you plotting?
+##
+
+<何をしてるんですか？>
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."I was thinking of ways to enter the kitchen.
+ It has not yet been checked, you see."
+##
+
+{Sara}
+#Message#
+\."...You're so calm."
+##
+
+{Kai}
+#Message#
+\."..."
+##
+
+<何を企んでるんですか？>
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Ah, now that isn't very nice.
+ I just want to cook for everyone, that's all."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Granted... I doubt there are
+ any ingredients in the kitchen."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\."How stingy."
+##
+
+<Choice End>
+
+{Sara} [Kai: Default / cara8-1]
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\.\C[4](Is this person... really my stalker...?)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](I thought, if he was the stalker...
+ he'd be with the kidnappers.)
+##
+
+#Message#
+\.\C[4](But... When he hit Miley,
+ I sensed undeniable hostility.)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](Kai was... angry...)
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."Miss Sara...?"
+##
+
+{Sara}
+#Message#
+\."Err, Kai... Are you..."
+##
+
+#Message#
+\."Ah...!"
+##
+
+#Message#
+\.\C[4](The lights...!)
+##
+
+{Kai}
+#Message#
+\."Miss Sara, are you all right?"
+##
+
+{Sara}
+#Message#
+\."I'm fine."
+##
+
+{Kai}
+#Message#
+\."It may be a trap.
+ Let us look for the switch."
+##
+
+-----Page3-----
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"Oh, miss Sara and company."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."K... Kai!"
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."Yes, I am Kai.
+\! ...Is something the matter?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."We were just talking about all meeting up."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Come to think of it,
+ Joe was saying to come gather in the bar."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Huh..."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."The lights are restored, so at last I can move.
+ Shall we all go together?"
+##
+
+
+**********Event2********** (ka-do) (10,8)
+-----Page1-----
+#Message#
+\C[3]Something's glowing...
+##
+
+#Choice#
+Pick it up
+Look closely at it
+Don't touch
+##
+
+<手に取る>
+
+{Sara}
+#Message#
+\.\C[4](It's... a \C[2]card\C[4]?)
+##
+
+#Message#
+\.\C[4](The letters on it are glowing.)
+##
+
+<よく見て確認する>
+
+{Sara}
+#Message#
+\.\C[4](There are glowing letters using fluorescent paint.
+ ...They're on some sort of paper...)
+##
+
+#Message#
+\.\C[4](It's... a \C[2]card\C[4]?)
+##
+
+<さわらない>
+
+<Choice End>
+
+{N/A}
+{SE: ghost_sigh}
+#Message#
+\.\C[3]The one who claims this:
+##
+
+#Message#
+\.\C[3]This now belongs to you. Keep it on you always.
+This is a key to the exit.
+##
+
+#Message#
+\.\C[3]Let \C[2]no one else know the existence of this card\C[3].
+Otherwise, you will \C[2]die\C[3].
+##
+
+{Sara}
+#Message#
+\.\C[4](What... is this...?)
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Miss Sara, are you unharmed?"
+##
+
+{N/A}
+#Message#
+\.\C[3]I hid the card before I could even think.
+##
+
+{Sara}
+#Message#
+\."I-I'm okay. Looks like the lights came on."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Let us look at the other rooms
+ to see if anything occurred in that moment."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Look at the card text
+Look on the back
+##
+
+<カードの文字を見る>
+
+{N/A} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[3]When I looked at the card again,
+the text could no longer be seen.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is it invisible in the light...?)
+##
+
+#Message#
+\.\C[4](I'd better check the back, too...)
+##
+
+<カードの裏を見る>
+
+<Choice End>
+
+{N/A} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[3]On the back of the card was a strange image.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](\C[2]Keymaster\C[4]...?)
+##
+
+#Message#
+\.\C[4](The other text seemed to disappear, so...
+ What does "Keymaster" mean?)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](If I don't follow those rules... I'll die?)
+##
+
+#Message#
+\.\C[4](...I feel like I'm being led by them again...)
+##
+
+
+**********Event5********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event6********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event7********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event8********** (doa) (6,3)
+-----Page1-----
+#Message#
+\C[3]The door to the kitchen is shut fast.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll use this key...!)
+##
+
+{N/A}
+{SE: Key}
+#Message#
+\.\C[3]Can now enter the kitchen.
+##
+
+
+**********Event9********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event21********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event22********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event23********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event24********** (EV024) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event25********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event26********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event27********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event28********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event29********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event30********** (situ) (1,2)
+-----Page1-----
+#Message#
+\C[3]I can see the kitchen through the glass.
+##
+
+
+**********Event40********** (oku) (14,3)
+-----Page1-----
+#Message#
+\C[3]There's a pitch black area
+in the back of the cafeteria.
+##
+
+
+**********Event51********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

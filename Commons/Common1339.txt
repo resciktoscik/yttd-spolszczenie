@@ -1,0 +1,224 @@
+**********Common1339********** (19、間違いどす)
+{Sara}
+#Message#
+\C[4](The book in his hand...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Probably just a regular book."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."Some people read, some go on phones, some use laptops.
+ I ain't gonna tell 'em how to spend their time."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."But if you don't buy nothin' and just hog the seat,
+ THEN you've pissed me off!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](It does seem like Reko would be strict about that...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This jacket on a hanger...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."You're curious about that?
+ It's just a jacket, right?"
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."It's really warm and comfortable.
+ Must be the materials."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."Is it the same one you're wearing now?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."H-Hey... Are you trying to tell me
+ "don't wear the same clothes forever"...?"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](I'm not thinking that...!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\C[4](This teacher's outfit...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Meow...? It wasn't really an "outfit,"
+ just a regular suit like grown-ups wear, meow."
+##
+
+[Gin: Smile / cara9-2]
+#Message#
+\."But the doctor lady had a white gown,
+ so it's weird how teacher wore a suit, woof."
+##
+
+{Sara} [Sara: Hands on hips, smug smile / cara0-17]
+#Message#
+\.\C[4](Maybe because he didn't work in the infirmary...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Hands on hips, smug smile / cara0-17]
+#Message#
+\C[4](These bottles of coffee on the shelves...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ They just looked like fancy decorations."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Apparently bitter coffee goes well with sweets...
+ But Kanna can't drink it, so she isn't sure."
+##
+
+[Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."But coffee jelly is delicious!
+ And sweet!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](That's not much of a clue...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This machine attached to the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Right, that's just a radio.
+ Nothing odd about it."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."Furthermore, it was broken by the time I arrived.
+ All my info came from newspapers or the guards."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](It's possible they intentionally made it unusable...)
+##
+
+<やめる>
+
+<Choice End>
+

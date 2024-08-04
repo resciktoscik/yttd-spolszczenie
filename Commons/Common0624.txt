@@ -1,0 +1,38 @@
+**********Common624********** (レコの個人情報使用)
+{N/A}
+#Message#
+\C[3]Reko Yabusame's Personal Information
+
+
+Can only be viewed in the Monitor Room.
+##
+
+#Message#
+\.\C[3]View personal information?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara}
+#Message#
+\.\C[4](I should find a time when no one's looking...)
+##
+
+#Message#
+\.\C[4](It looks like an AI of Reko will answer me.)
+##
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](I can't use this here...)
+##
+

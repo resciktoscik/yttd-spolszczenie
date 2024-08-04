@@ -1,0 +1,75 @@
+**********Common212********** (ｶｲ「細工痕跡無し」)
+{Kai}
+#Message#
+".........."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kai... won't respond at all.)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kai... won't respond at all.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+".........."
+##
+

@@ -1,0 +1,18 @@
+**********Common1466********** (⑤ソウB選択　１)
+{N/A}
+#Message#
+"\N[4]...
+ I'm gonna catch you myself...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

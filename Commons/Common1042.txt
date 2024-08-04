@@ -1,0 +1,24 @@
+**********Common1042********** (戦①Qタロウ再利用)
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Accent28-1}
+#Message#
+"Q-taro, please! We need your strength!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Awright, I got it! Leave it to me!!"
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Eeeee! How coooool!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Yer bummin' me out!
+ Take this more serious, wouldja?!"
+##
+

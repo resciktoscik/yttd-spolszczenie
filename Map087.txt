@@ -1,0 +1,8 @@
+=====Map87===== (Actual Bedroom)
+
+**********Event1********** (akari) (11,4)
+-----Page1-----
+#Message#
+\C[3]A bright light illuminates the room.
+##
+

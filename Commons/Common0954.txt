@@ -1,0 +1,218 @@
+**********Common954********** (４回目の交換)
+{N/A}
+#Message#
+\>[Fourth Trade]\<
+\>Performed By: Keiji\<
+
+\>Keiji (\C[3]Sage\C[0]) ⇔ Q-taro (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Fourth Trade]
+Cancel
+##
+
+<考察【４回目の交換】>
+
+{Sara}
+#Message#
+\C[4](It happened when we were in Safalin's doll room,
+ looking for Ranger's chip...)
+##
+
+#Message#
+\.\C[4](Keiji took custody of all Q-taro's remaining tokens
+ and used them to trade their cards.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fourth Trade]\<
+\>Performed By: Keiji\<
+
+\>Keiji (\C[3]Sage\C[0]) ⇔ Q-taro (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Fourth Trade]
+Cancel
+##
+
+<考察【４回目の交換】>
+
+{Sara}
+#Message#
+\C[4](It happened when we were in Safalin's doll room,
+ looking for Ranger's chip...)
+##
+
+#Message#
+\.\C[4](Keiji took custody of all Q-taro's remaining tokens
+ and used them to trade their cards.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fourth Trade]\<
+\>Performed By: Keiji\<
+
+\>Keiji (\C[3]Sage\C[0]) ⇔ Q-taro (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Fourth Trade]
+Cancel
+##
+
+<考察【４回目の交換】>
+
+{Sara}
+#Message#
+\C[4](It happened when we were in Safalin's doll room,
+ looking for Ranger's chip...)
+##
+
+#Message#
+\.\C[4](Keiji took custody of all Q-taro's remaining tokens
+ and used them to trade their cards.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fourth Trade]\<
+\>Performed By: Keiji\<
+
+\>Keiji (\C[3]Sage\C[0]) ⇔ Q-taro (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Fourth Trade]
+Cancel
+##
+
+<考察【４回目の交換】>
+
+{Sara}
+#Message#
+\C[4](It happened when we were in Safalin's doll room,
+ looking for Ranger's chip...)
+##
+
+#Message#
+\.\C[4](Keiji took custody of all Q-taro's remaining tokens
+ and used them to trade their cards.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fourth Trade]\<
+\>Performed By: Keiji\<
+
+\>Keiji (\C[3]Sage\C[0]) ⇔ Q-taro (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Fourth Trade]
+Cancel
+##
+
+<考察【４回目の交換】>
+
+{Sara}
+#Message#
+\C[4](It happened when we were in Safalin's doll room,
+ looking for Ranger's chip...)
+##
+
+#Message#
+\.\C[4](Keiji took custody of all Q-taro's remaining tokens
+ and used them to trade their cards.)
+##
+
+#Message#
+\.\C[4](I don't know what the intent there was...
+ But it ended up trapping Sou.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fourth Trade]\<
+\>Performed By: Keiji or Q-taro\<
+
+\>Keiji (\C[3]Sage\C[0]) ⇔ Q-taro (\C[2]Keymaster\C[0])\<
+##
+
+#Choice#
+Ponder [Fourth Trade]
+Cancel
+##
+
+<考察【４回目の交換】>
+
+{Sara}
+#Message#
+\C[4](It happened when we were in Safalin's doll room,
+ looking for Ranger's chip...)
+##
+
+#Message#
+\.\C[4](Did Keiji and Q-taro become accomplices
+ and make this trade...?)
+##
+
+#Message#
+\.\C[4](For now, if I want to piece this together,
+ I need to extract info from them on the \C[6]fourth trade\C[4].)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fourth Trade]\<
+\>Performed By: ???\<
+##
+
+#Choice#
+Ponder [Fourth Trade]
+Cancel
+##
+
+<考察【４回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Not much information... We don't know anything yet.)
+##
+
+#Message#
+\.\C[4](It happened when we were in Safalin's doll room,
+ looking for Ranger's chip...)
+##
+
+<やめる>
+
+<Choice End>
+

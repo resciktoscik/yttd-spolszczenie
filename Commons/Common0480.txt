@@ -1,0 +1,37 @@
+**********Common480********** (時限イベント１)
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+"Got any epiphanies on the whole rescue thing yet?"
+##
+
+{SE: Accent28-1}
+#Message#
+\."Sorry to bother while you're hunkered down talking,
+ but the venomous stinger's gonna fire real soon!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."N... No way, meow!!
+ Stop it, woof!!"
+##
+
+{Ranger} [Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."Ahaha, I keep my promises!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."Sara!! You... you still ain't got a plan?!"
+##
+
+{Sara}
+#Message#
+\."G-Give us a little more time...!!"
+##
+
+#Message#
+\.\C[4](Not good! We have less time than I thought...!)
+##
+

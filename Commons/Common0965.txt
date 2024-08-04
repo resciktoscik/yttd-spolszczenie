@@ -1,0 +1,11 @@
+**********Common965********** (相棒・ケイジ助言)
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."We're aiming for the Ruined Hallway."
+##
+
+{Sara}
+#Message#
+\.\C[4](Let's head to the Room of Rubble.)
+##
+

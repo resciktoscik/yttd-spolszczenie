@@ -1,0 +1,322 @@
+**********Common1334********** (14、間違いどす)
+{Keiji}
+#Message#
+\C[4](This blue sky...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."That's right...
+ It was a super clear day. Perfect baseball weather."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."'Cept... I couldn't move...
+ First time I ever hated a blue sky."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Like, "you dumbass sky!", right...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What kinda line is that?!
+ It's like a page outta some kid's youth!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](Guess I shouldn't just say what I'm thinking...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](This grass on the building...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Probably just decorative grass."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."But in a place packed with buildings,
+ havin' plants sure helps the atmosphere."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."You gotta go someplace with good style
+ if you wanna polish your own style."
+##
+
+{Sara} [Sara: Yell / cara0-26]
+#Message#
+\."I'll keep that in mind!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."'Course, maybe it's the sorta men you pick
+ that need their style polished, Sara..."
+##
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\."Wh...! Cut that out!!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\C[4](This small bag hanging by the table...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."You're curious about that?
+ It's my bag. Just a normal one."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."I hardly go out, but... I don't like heavy bags.
+ They make my shoulders stiff."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."You hardly go out, huh?"
+##
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\."...Miss Sara, focus on finding suspicious parts."
+##
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\."S... Sorry."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\C[4](This left picture on the whiteboard...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."Heheh! That's a picture I drew, meow!"
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."It's when I went to the beach with mom and dad, woof.
+ We picked up lots of pretty shells, meow!"
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."That must be a fun memory."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."I didn't like it when we went,
+ but I'm glad we went now, woof!"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Big sis Sara, do you like the beach, meow?"
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."W-Well, I mostly just splash in the shallows...
+ But sure, I like it."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."The beach is fun even if you can't swim, meow!"
+##
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\."Urgh... You caught on..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\C[4](This lineup of cakes...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."Oh? Are you curious about the shop's lineup?"
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."From shortcakes, mont blancs, tiramisu...
+ to roll cakes and Yule logs..."
+##
+
+[Kanna: Angry shout / cara3-23]
+{SE: Accent21-1}
+#Message#
+\."From the standard to the fancy, they have it all!"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: flash-of-light-3}
+#Message#
+\."A perfect battle formation, then...!"
+##
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+{SE: Thunder10}
+#Message#
+\."Yes!"
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](Wait... Why in the world am I getting fired up?!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](This red poster on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's a poster I put up."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."It's depressing to stare at a drab wall all day.
+ If given the right to put up a good poster, take it!"
+##
+
+{Sara} [Sara: Hands on hips, nervous sweat / cara0-20]
+#Message#
+\.\C[4](I-I don't intend on going to prison myself...)
+##
+
+<やめる>
+
+<Choice End>
+

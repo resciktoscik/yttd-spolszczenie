@@ -1,0 +1,86 @@
+**********Common1400********** (呼・ハヤサカ映像)
+{Voice}
+#Message#
+"Hey! Help me!!"
+##
+
+{Hayasaka}
+#Message#
+"Please!!"
+##
+
+#Message#
+"I didn't know!! I didn't know anything!!"
+##
+
+#Message#
+\."You're listening there, aren't you?!
+ Help meeeee...!!"
+##
+
+#Message#
+\."Hey! Say something back!!
+ I won't tell anyone...!! I promise!!"
+##
+
+#Message#
+\."Why... why is all this necessary?!"
+##
+
+#Message#
+\."I thought it was decided!! She...!!"
+##
+
+#Message#
+\."I've got no qualms!!
+ I just want to live in peace...!!"
+##
+
+#Message#
+\."...Ooghhh..."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."Don't tell me..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Were we all gathered for her sake...?"
+##
+
+#Message#
+\."..."
+##
+
+{SE: shock1}
+#Message#
+\."Sara... Chidouin..."
+##
+
+#Message#
+\."Damn yooou...!! I'll kill you!!"
+##
+
+#Message#
+\."All you organization members...
+ And Sara Chidouin..."
+##
+
+#Message#
+\."I'll curse your name from hellllllllll!!"
+##
+
+#Message#
+\."\sp[15]AAAAAAAAAAAAAAAaaaaaaaaaahhh!!!!"\|\^
+##
+
+{N/A}
+#Message#
+\.\C[3]The video ends here.
+##
+

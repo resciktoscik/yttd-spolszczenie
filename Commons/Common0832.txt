@@ -1,0 +1,46 @@
+**********Common832********** (★選択用ソウ)
+#Message#
+\C[5]Vote for \C[2]Sou\C[5]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+#Message#
+\C[5]Is \C[2]Sou\C[5] the person who's not a candidate?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+#Message#
+\C[5]Vote for \C[2]Sou\C[5]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

@@ -1,0 +1,124 @@
+**********Common529********** (ﾅｵ「ﾆｾﾓﾉありえない」)
+{Nao}
+#Message#
+"But... Was there any reason for someone to
+ pretend to be Reko and visit Professor Mishima?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I... don't really understand!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Nao}
+#Message#
+"I... don't really understand!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Is that related to something...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Nao}
+#Message#
+"Is that related to something...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"It was the professor who asked
+ for the monitor to be destroyed, right?"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Don't tell me... Did the fake go there
+ intending to destroy it from the start?!"
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."*sniff*... Professor...!"
+##
+
+{Sara}
+#Message#
+\."...You can cry later, Nao."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."R-Right!
+ This discussion will surely relate to saving Gin...!!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](That it will... Even if we have to force it...!)
+##
+

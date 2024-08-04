@@ -1,0 +1,914 @@
+=====Map204===== (⑤Alice Trial)
+
+**********Event2********** (EV002) (8,5)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Something's lying here.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+\."A transceiver..."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained a Transceiver.
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."If we had the other one,
+ we could probably use it to keep contact."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."This is Mai! Do you copy?!
+ ...Maybe a little bit like that!"
+##
+
+{\N[4]'s Voice}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[6]"Yeees, this is \N[4]!
+ Thought of a way to kill me?"
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open / cara92-11]
+#Message#
+\."Hwah...?!"
+##
+
+{\N[4]'s Voice}
+#Message#
+\.\C[6]"Heeheehe... See you laaater."
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth, grim look / cara92-12]
+#Message#
+\."That made my heart stop..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: Accent21-1}
+#Message#
+\."Looks like the other transceiver
+ is with \N[4], then."
+##
+
+
+**********Event3********** (EV003) (8,3)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]A small speaker is installed here.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."It can be removed..."
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Hm? Wait, isn't that a voice recorder?
+ I've seen that somewhere!"
+##
+
+<Else>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Ain't this a voice recorder?"
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Huh...? Might've got a voice recorded on it, then."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."There's a switch on the back... I'll press it."
+##
+
+<Else>
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent28-1}
+#Message#
+\."There's a switch on the back...
+ Should I press it?"
+##
+
+{Sara}
+#Message#
+\."Sure..."
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Pressed the switch on the speaker.
+##
+
+{Voice Data}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[5]"...This is the First Trial."
+##
+
+{Sara}
+#Message#
+"...!!"
+##
+
+{Voice Data}
+#Message#
+\C[5]"You have 5 minutes.
+ If you cannot escape in time, you lose your life."
+##
+
+#Message#
+\.\C[5]"You are not alone.
+ Your fate is tied to someone you cannot see."
+##
+
+#Message#
+\.\C[5]"However, if you refuse this connection
+ and are willing to betray them, you can leave safely."
+##
+
+#Message#
+\.\C[5]"Follow the voice in your heart."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+"...That's the whole thing."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](As I suspected,
+ this room was used for a First Trial...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+#Message#
+\.\C[4](The first game we were made to do
+ after being brought here...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."A cooperation-based trial...
+ Haven't heard anything about this type before."
+##
+
+<Else>
+
+{Sara}
+#Message#
+\."Urgh...!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Sara...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]What is it? When I try to remember, my head hurts.
+##
+
+#Message#
+\.\C[4](I can't just run away...
+ I... need to... someone else...)
+##
+
+#Message#
+\.\C[4](No! My head... hurts...!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Don't force it, Sara."
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+#Message#
+\.\C[4](It's no good... leaving it this hazy...)
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent28-1}
+#Message#
+\."...Excuse me, Dummies!
+ Does this recording sound familiar...?!"
+##
+
+<Else>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Hey, Dummies... Have any of you guys
+ heard this recording before?"
+##
+
+<Condition End>
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Nope, not at all.
+ We only saw the moment of our deaths, see?"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."Yeah, the start of our trial was cut from the video."
+##
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."Can't remember anything just before we died..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Is that so..."
+##
+
+<Else>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Ah, I see..."
+##
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Somethin' up, Alice?"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...No, it's nothing.
+ Likely just my imagination..."
+##
+
+<Condition End>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](If this is also a hint related to our memories...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Then we might need to
+ have a discussion of our First Trials again...)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained a Voice Recorder.
+##
+
+
+**********Event4********** (EV004) (1,0)
+-----Page1-----
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+#Message#
+\."Eek...! Not again...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent28-1}
+#Message#
+\."Huh...? This room's just like the other one."
+##
+
+<Else>
+
+{Alice} [Alice: Surprised face / cara11-2]
+{SE: Accent28-1}
+#Message#
+\."Mm...? There was the same room below as well..."
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."...Careful, everybody."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Seems a bit cleaner 'n the one downstairs."
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah... It almost feels like an unused room.)
+##
+
+
+**********Event10********** (EV010) (1,1)
+-----Page1-----
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+"S-So the lockers here open with the ID card, meow...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Kanna and Kurumada ain't here..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Kanna Kizuchi and that man haven't come here, hm..."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](They'd clearly be on this floor, but...)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Let's look around for that charger."
+##
+
+<Else>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Let us try to look for that charger."
+##
+
+<Condition End>
+
+
+**********Event11********** (灯ろう) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Lantern]
+A small lantern with a switch.
+What might happen when you turn it on?
+##
+
+#Choice#
+Turn on
+Cancel
+##
+
+<スイッチを入れる>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: Accent42-1}
+#Message#
+\C[4](I have kind of a bad feeling...
+ Should I really turn this on?)
+##
+
+#Choice#
+Turn on
+Prepare myself
+##
+
+<スイッチを入れる>
+
+<心の準備をする>
+
+<Choice End>
+
+{Sara}
+#Message#
+\C[4](I'll flip this switch...)
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"Big sis Sara... Do you hear a noise, woof?"
+##
+
+{Sara}
+#Message#
+\."A noise...?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Mya...?! The door closed, woof!!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."Hang on!! Another trap?!
+ That's too dang manyyy!!"
+##
+
+<Else>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Another trap?! Gimme a break already...!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](Not good...!)
+##
+
+{SE: shock1}
+#Message#
+\.\C[4](At this rate... it'll go like before...!!)
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"I... I don't like this, meow!! Not again...!"
+##
+
+
+**********Event13********** (rokka-yami) (7,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a dark passage beyond the lockers.
+##
+
+{Sara}
+#Message#
+\.\C[4](Alright...)
+##
+
+#Choice#
+Go inside
+Cancel
+##
+
+<入ってみる>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Let's check it out...!)
+##
+
+{SE: Accent21-1}
+#Message#
+"This place..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent40-1}
+#Message#
+"...Not seein' any real traps.
+ Let's search around."
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: Accent40-1}
+#Message#
+"Hmph... I've deemed it safe.
+ Why don't we have a look around?"
+##
+
+<Condition End>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent40-1}
+#Message#
+"Feels shady, meow..."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Beyond the lockers is a way to the charging room.
+##
+
+#Choice#
+Enter
+Cancel
+##
+
+<入る>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]There's a dark passage beyond the lockers.
+##
+
+#Choice#
+Go inside
+Cancel
+##
+
+<入ってみる>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event29********** (arisu-EV) (1,10)
+-----Page1-----
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Alice... He seems somehow despondent...)
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Sara} [Alice: Look to side, sad look / cara11-17]
+{SE: Accent21-1}
+#Message#
+"...Alice?"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...A transceiver, and a voice recorder..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He seems deep in thought...)
+##
+
+{SE: Accent21-1}
+#Message#
+"...Is something the matter, Alice?"
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Hnh?! Don't speak up so suddenly...!"
+##
+
+{Sara}
+#Message#
+\."...Did I?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\.".........."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Hey... Sara Chidouin..."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There was a transceiver
+ and a voice recorder here, yes...?"
+##
+
+{Sara}
+#Message#
+\."Um...? Yes, that's right."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder what's the matter...)
+##
+
+<灯ろうを使う>
+
+{Sara} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\C[4](I shouldn't make him push himself any more...)
+##
+
+#Message#
+"Alice.
+ Can we talk about your lost memories...?"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... My capability to remember surely isn't
+ strong enough to recall any more than I have..."
+##
+
+{Sara}
+#Message#
+\."Even if it's difficult to do alone,
+ you might remember something while we talk."
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Foolish... That couldn't possibly..."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\.".........."
+##
+
+[Alice: Default glare / cara11-1]
+{SE: Accent28-1}
+#Message#
+\."...Well, I suppose it's worth a try, hm?"
+##
+
+[Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Thinking on it, I never have
+ opened up about it to someone else."
+##
+
+{Sara}
+#Message#
+\."You'll just have to put up with it being me."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent09-1}
+#Message#
+\."Hah... Be sure to fully carry out your listener's role
+ so I can speak at leisure."
+##
+
+#Message#
+\."Hmph... Again? You're as stubborn as stepped-in gum...
+ Yes, that describes you to a T!"
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Hey...! Ranmaru Kageyama just went into that room
+ wearing a grim expression..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](The charging room...!)
+##
+
+
+**********Event30********** (reko-EV) (10,12)
+-----Page1-----
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+"Sara... Hey."
+##
+
+{Sara}
+#Message#
+\.\C[4](She's surveying the room with a serious look...)
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Sara} [Reko: Looking to side with frown / cara6-5]
+{SE: Accent21-1}
+#Message#
+"...Um, Reko?"
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Sorry... Still ain't got an answer..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder what's wrong...)
+##
+
+{SE: Accent21-1}
+#Message#
+"Have you found anything, Reko?"
+##
+
+{Reko}
+#Message#
+\."Nah... Nothin'..."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But... I'm kinda curious about this room."
+##
+
+{Sara}
+#Message#
+\."Curious...?"
+##
+
+{Reko} [Reko: Fists out, angry sad eyes / cara6-38]
+{SE: Accent40-1}
+#Message#
+\."There was a transceiver
+ and a voice recorder here, right?"
+##
+
+{Sara}
+#Message#
+\."Y-Yes..."
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."I'll tell you if I figure it out...
+ Just hold on 'til then, Sara."
+##
+
+<灯ろうを使う>
+
+{Sara} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\C[4](I shouldn't make her push herself any more...)
+##
+
+#Message#
+"Reko...
+ Can we talk about your lost memories?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Sara...! You mean..."
+##
+
+{Sara}
+#Message#
+\."We have to remember them...
+ So we can stand against \N[4]!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Yeah... Guess you're right..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Gotta say, it's scary... Like,
+ maybe I did somethin' irredeemable in the past..."
+##
+
+[Reko: Fists out, shocked eyes, mouth open / cara6-41]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But dammit, I wanna know!
+ I wanna clear this fog clouding up my mind...!"
+##
+
+{Sara}
+#Message#
+\."I'll assist you. You'll work with me, right?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: sceneswitch2}
+#Message#
+\."'Course! Do your thing, Sara!"
+##
+
+#Message#
+\."Right! Would hate to just give up partway!"
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"H-Hey! Ranmaru just went in that room
+ with this dour look on his face..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](The charging room...!)
+##
+

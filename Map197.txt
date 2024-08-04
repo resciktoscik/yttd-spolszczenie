@@ -1,0 +1,2936 @@
+=====Map197===== (⑤Gallery)
+
+**********Event1********** (midorie) (11,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of \N[4].
+##
+
+{Painting?}
+{SE: Onmtp-Surprise05-1}
+#Message#
+\.\sw[324]"I'm not a paintinggg!"\sw[325]
+##
+
+{Sara}
+#Message#
+\."\N[4]...!!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{\N[4]}
+#Message#
+\.\sw[324]"How are you feeling? Anybody die?"\sw[325]
+##
+
+<Else>
+
+#Message#
+\.\sw[324]"How are you feeling, miss Sara?"\sw[325]
+##
+
+{SE: Accent21-1}
+#Message#
+\.\sw[324]"Huh? I don't see Anzu around.
+ Don't tell me she died?"\sw[325]
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Another AI, I bet?"
+##
+
+{\N[4]}
+{SE: Accent28-1}
+#Message#
+\.\sw[324]"Nooope! Just a video call!"\sw[325]
+##
+
+#Message#
+\.\sw[324]"I observe all the floors!"\sw[325]
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."You damn coward! Show yourself!"
+##
+
+{\N[4]}
+#Message#
+\.\sw[324]"Just as dumb as your brother, Reko...
+ I wanna win too, you know?"\sw[325]
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."B-Bastard!! You're really pissin' me off...!"
+##
+
+<Else>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph, how cheap...
+ Why don't you come see us fair and square, coward?"
+##
+
+{\N[4]}
+#Message#
+\.\sw[324]"Just as dumb as your sister, Alice...
+ I wanna win too, you know?"\sw[325]
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."You...!! Don't you dare say that again!"
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+\."A-Anyway, do you want something with us...?"
+##
+
+{\N[4]}
+#Message#
+\.\sw[324]"Ah, right, right!
+ I thought I'd give you some advice."\sw[325]
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+\."\N[4]... Tell me just one thing..."
+##
+
+{\N[4]}
+#Message#
+\.\sw[324]"...Hm?"\sw[325]
+##
+
+{Sou} [Sou: Grave glare / cara5-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Are you the mastermind of this Death Game...?"
+##
+
+{\N[4]}
+#Message#
+\.\sw[324]"Shin..."\sw[325]
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\sw[324]"Ahaha. Grab the truth with your own hands...
+ Didn't you learn that...?"\sw[325]
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."..."
+##
+
+{\N[4]}
+#Message#
+\.\sw[324]"Ahh... Don't look so down.
+ I don't intend to hide it..."\sw[325]
+##
+
+<Condition End>
+
+{SE: sceneswitch2}
+#Message#
+\."Soon enough... I want you all to know."
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."K... Know what?!"
+##
+
+<Else>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Know what...?!"
+##
+
+<Condition End>
+
+{\N[4]}
+#Message#
+\.\sw[324]"Oh, just everything."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Your lost memories with me, and..."\sw[325]
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sw[324]"The reason Asunaro is
+ having you kill each other, too..."\sw[325]
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Hmph...! Then spit it all out already!
+ I want a good explanation!!"
+##
+
+<Else>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Then say it already!
+ I want a good explanation!!"
+##
+
+<Condition End>
+
+{\N[4]}
+#Message#
+\.\sw[324]"Ahaha, it'd be a waste for me to say it."\sw[325]
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Meooow?! Which one is it, woof?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{\N[4]}
+#Message#
+\.\sw[324]"Didn't I tell you?
+ Discover it on your own power..."\sw[325]
+##
+
+<Else>
+
+#Message#
+\.\sw[324]"What have I been telling you?
+ Discover it on your own power..."\sw[325]
+##
+
+<Condition End>
+
+{SE: Accent21-1}
+#Message#
+\.\sw[324]"It's all right... I've prepared hints."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Within the floor, I've made a few places
+ that are rich with memories for you all."\sw[325]
+##
+
+#Message#
+\.\sw[324]"The key is remembering your past..."\sw[325]
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Mmmgh...!"
+##
+
+{\N[4]}
+#Message#
+\.\sw[324]"Ah, yes. And this Murderer Game
+ of course has a time limit, as well."\sw[325]
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."MeoooWWW?!"
+##
+
+{\N[4]}
+{SE: sceneswitch2}
+#Message#
+\.\sw[324]"It's until the Dummies run out of battery!
+ In other words, it's their lifespan!"\sw[325]
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."H-How many hours do we have...?
+ If it runs out, will our lives..."
+##
+
+{\N[4]}
+#Message#
+\.\sw[324]"I've got high hopes for you. Good luck!"\sw[325]
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."N-Now see here!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The painting went motionless.
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Tch!! Such absurdity...!"
+##
+
+<Else>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Dammit!! He's screwin' with us...!"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."Still... that confirms it."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The organization that kidnapped us... was Asunaro."
+##
+
+{Sara}
+#Message#
+\."Asunaro..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."My orphanage was named Asunaro, too.
+ Is there a connection after all...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Who knows... Was there anything dubious about it?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."Dunno... Everybody was real friendly.
+ I mean it..."
+##
+
+{Sara}
+#Message#
+\.\C[4](You wouldn't want to think about it...
+ That the good people around you might have
+ been involved in this Death Game...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Let's search...!
+ There are hints somewhere on this floor!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."That's right... It's time for action, not worrying."
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Accent28-1}
+#Message#
+\."Kanna wants to know, too...
+ \N[4] seemed to know Sou, after all..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Yeah..."
+##
+
+<Else>
+
+#Message#
+\."Hey, Sou! Tell me!
+ Is \N[4] with Asunaro?!
+ You guys know each other, right?!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."I'm eager to learn what your relationship was..."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When he was alive... we were often together."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."But that's irrelevant now."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Didn't I say? He's just an enemy.
+ He's not going to go easy on us, not even me."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+{SE: Accent21-1}
+#Message#
+\."In fact, maybe he'll get more fired up..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."I see..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou... seems to know
+ how scary \N[4] can be...)
+##
+
+<Condition End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]\N[4]'s painting isn't moving.
+##
+
+
+**********Event3********** (nurie) (3,5)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting with an unpainted section.
+##
+
+{Sara}
+#Message#
+\."These dark lines...
+ Looks almost like a coloring book picture."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A painting with an unpainted section.
+##
+
+{Sara}
+#Message#
+\."These dark lines...
+ Looks almost like a coloring book picture."
+##
+
+#Choice#
+Use the paints
+Cancel
+##
+
+<絵の具を使ってみる>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+#Message#
+\."Okay, let's try painting it."
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Alright! It turned out great...!)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+\."...Whoa..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](The part I painted... opened like a door!)
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+"Not bad! There must've been a device
+ that reacted to the paint!"
+##
+
+{Sara}
+#Message#
+\.\C[4](My efforts painting, wasted...)
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]There's a device like a circuit breaker.
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent21-1}
+#Message#
+"Think this could be the power for the elevator?"
+##
+
+{Sara}
+#Message#
+\."Okay, let's switch it on."
+##
+
+{Ranmaru}
+#Message#
+"...Doesn't seem to have been a trap."
+##
+
+{Sara}
+#Message#
+\.\C[4](Let's check the elevator...)
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]The breaker is on.
+##
+
+-----Page7-----
+{N/A}
+#Message#
+\C[3]The breaker is off.
+##
+
+
+**********Event4********** (sou1) (13,7)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Sou is looking right at \N[4].
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."..."
+##
+
+-----Page2-----
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent21-1}
+#Message#
+\."I see... You got the elevator working..."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."...I'll be there once I'm done looking around."
+##
+
+
+**********Event5********** (kannna) (12,7)
+-----Page1-----
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"\N[4] told us to get
+ our memories back, didn't he?"
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."Were our memories erased, I wonder...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Normally, that'd be inconceivable...)
+##
+
+#Message#
+\.\C[4](But... Safalin did have that machine.)
+##
+
+#Message#
+\.\C[4](So I guess it's not impossible...)
+##
+
+-----Page2-----
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"If her memories were erased...
+ Kanna wants to get them back..."
+##
+
+-----Page3-----
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Accent21-1}
+#Message#
+"Eh?! You got the elevator working?!"
+##
+
+{Sara}
+#Message#
+\."Yeah. Once you're done looking here, let's assemble."
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Okay!"
+##
+
+
+**********Event6********** (kurumada1) (4,8)
+-----Page1-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+"Makes me sleepy,
+ lookin' after a kid in an art gallery."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Go ahead, snooze. We'll leave you behind."
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Ohh, scary."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Hmph... You can't even enjoy art?"
+##
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+\."We're not havin' fun here. Go search."
+##
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."Ngh...!! Your crassness is so artful!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Kurumada}
+#Message#
+"Hey, that Sou guy seems
+ pretty obsessed with \N[4]."
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah... He just keeps staring at it...)
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+-----Page2-----
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+"Huh, the elevator's been fixed?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+[Kurumada: Mouth open / cara95-1]
+#Message#
+\."I'm tired of watching the brat,
+ so I wanna get lookin' for \N[4]."
+##
+
+<Else>
+
+#Message#
+\."Well, it's up to him. Can't move on my own..."
+##
+
+<Condition End>
+
+
+**********Event7********** (arireko) (7,5)
+-----Page1-----
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"When I think about Nao...
+ I feel like I could become a demon...!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."I'm gonna have revenge...!
+ We gotta do this!!"
+##
+
+-----Page2-----
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"Looking at this painting makes my heart ache..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I'll become a true murderer if I must..."
+##
+
+-----Page3-----
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent21-1}
+#Message#
+"What...? The elevator?"
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Gotcha... The battle's nearing."
+##
+
+-----Page4-----
+{Alice} [Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+"What...! The elevator?!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Hmph... Our battle may start surprisingly soon..."
+##
+
+
+**********Event14********** (naoe) (4,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of Nao.
+##
+
+{Sara}
+#Message#
+\.\C[4](This is an edited photo...
+ What would you make this for...?!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"Dammit...!!"
+##
+
+{Sara}
+#Message#
+\."Reko, don't look...
+ It's just trying to provoke us!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...I know that.
+ But... I can't let it stand...!!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Hangin' this up for shits and giggles?! I'll make you
+ apologize to her in the afterlife, dammit!!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+"What an outrageous thing to do...!"
+##
+
+{Sara}
+#Message#
+\."Alice..."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent21-1}
+#Message#
+\."I've always regretted my murder..."
+##
+
+[Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Yet...!! Someone who would think of this
+ should have been left to die!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."I'll bury you again and again!!
+ \N[4]...!!"
+##
+
+<Condition End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A painting of Nao.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+{SE: Accent21-1}
+#Message#
+"...She was an ally of yours too, right...?"
+##
+
+{Sara}
+#Message#
+\."Yeah... That's why... I don't want to look..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."My bad...
+ No chance you could be used to it, huh..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+
+**********Event15********** (EV015) (0,10)
+-----Page1-----
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Urk...!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...!!"
+##
+
+<Condition End>
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Bah, it's one thing after another...
+ Some real poor taste here."
+##
+
+
+**********Event19********** (joee) (11,12)
+-----Page1-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[3]A painting of Joe.
+##
+
+<Else>
+
+#Message#
+\C[3]A painting of a boy with his body being pierced.
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"...Sara, don't look..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+#Message#
+\."I'm... all right."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I won't be led astray by things like this anymore."
+##
+
+{Keiji} [Keiji: Turned to side tousling hair, slight smile / cara2-21]
+#Message#
+\."Even so... I don't want you to look..."
+##
+
+<Else>
+
+{Sara}
+#Message#
+\."O... Okay."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](The face is in shadow...
+ Who could this be, I wonder...?)
+##
+
+<Condition End>
+
+-----Page2-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[3]A painting of Joe.
+##
+
+<Else>
+
+#Message#
+\C[3]A painting of a boy with his body being pierced.
+##
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+"...Let's go."
+##
+
+{Sara}
+#Message#
+\."Right..."
+##
+
+-----Page3-----
+{Sara}
+{SE: Accent41-1}
+#Message#
+\.\C[4](Huh? That empty space...
+ Was there always nothing there?)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[3]A painting of Joe.
+##
+
+<Else>
+
+#Message#
+\C[3]A painting of a boy with his body being pierced.
+##
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+"..."
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]A painting of Joe.
+##
+
+{Keiji}
+#Message#
+\.\C[4](...)
+##
+
+
+**********Event20********** (soue) (13,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of Sou with a wide smile.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+#Message#
+\.\C[4](Sou...)
+##
+
+<Else>
+
+#Message#
+\.\C[4](What's with this painting...?)
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\."I wonder... why this painting is here..."
+##
+
+{Sara}
+#Message#
+\."Kanna..."
+##
+
+{Kanna}
+{SE: Accent21-1}
+#Message#
+\."...Kanna wishes she could've seen him like this..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Disgusting... Why'd they put this up?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Condition End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A painting of Sou with a wide smile.
+##
+
+
+**********Event21********** (megumie) (10,2)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a woman collapsed in a pool of blood.
+##
+
+{Sara}
+#Message#
+\.\C[4](This seems somehow familiar...)
+##
+
+
+**********Event22********** (hinakoe) (8,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A pitiful painting of someone fallen to the ground.
+##
+
+
+**********Event23********** (huukeie) (7,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of some scenery.
+##
+
+
+**********Event24********** (kaie) (10,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a hand with blood pouring from it.
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+
+**********Event25********** (kugiee) (2,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of an execution.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+#Message#
+\.\C[4](This is the same device that was used
+ for my and Kanna's First Trial...!)
+##
+
+<Else>
+
+#Message#
+\.\C[4](This is the same device used for my First Trial...!)
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+".........."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...Don't, Kanna.
+ Over here..."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."Y... Yes..."
+##
+
+<Else>
+
+{Sara}
+#Message#
+\.\C[4](Come to think of it...
+ Back then, how did I...?)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](...Well, no reason to think about it now...)
+##
+
+<Condition End>
+
+
+**********Event72********** (himiro-EV) (5,2)
+-----Page4-----
+{N/A}
+#Message#
+\C[3]Behind the painting is a switch
+labeled "Secret Locker."
+##
+
+#Message#
+\C[3]There's some kind of switch behind the painting.
+##
+
+-----Page7-----
+{N/A}
+#Message#
+\C[3]Behind the painting is a switch
+labeled "Secret Locker."
+##
+
+
+**********Event89********** (gakko) (5,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of some scenery.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](There seemed to be a picture of a school
+ in the locker room, too...)
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+#Message#
+"Too high up to check... What do we do?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm...)
+##
+
+#Choice#
+Look for a stepstool
+Piggyback
+Human pyramid
+##
+
+<乗れる台を探す>
+
+{Sara} [Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+{SE: Accent40-1}
+#Message#
+"Let's find some kind of stepstool...
+ There's these sofas here, for instance."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, mouth open / cara91-15]
+#Message#
+\."But they're fixed in place, right?"
+##
+
+{Sara}
+#Message#
+\."Hrm..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If Keiji were here to piggyback off of,
+ I could probably reach..."
+##
+
+<肩車>
+
+{Sara} [Ranmaru: Hands in pockets, mouth open / cara91-15]
+{SE: Accent40-1}
+#Message#
+"Could we reach by piggybacking?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+\."P-Piggybacking?!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If Keiji were here, it might be possible, but..."
+##
+
+<ピラミッド>
+
+{Sara} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+{SE: Accent40-1}
+#Message#
+"A human pyramid!
+ Can we treat it like a group gymnastics exercise?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."H-How many of us are you planning on roping in?!"
+##
+
+{Sara}
+#Message#
+\."Hrm... No dice, huh..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If Keiji were here,
+ I could probably reach by piggybacking off him..."
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\."..."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."I-I'll put my hands on the wall...
+ Get on my shoulders."
+##
+
+{Sara}
+#Message#
+\C[4](Let's give it a try...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Behind the painting is
+a switch labeled "Secret Locker."
+##
+
+#Message#
+\C[3]There's a switch behind the painting.
+##
+
+
+**********Event91********** (自動) (1,10)
+-----Page1-----
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent28-1}
+#Message#
+"Oh, Sara! There you are."
+##
+
+{Sara}
+#Message#
+\."Ranmaru..."
+##
+
+#Choice#
+You rested up?
+What were you doing?
+##
+
+<休めたか？>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent40-1}
+#Message#
+"You get some good rest?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth closed / cara91-2]
+#Message#
+\."Yep, as you can see, I'm doin' great."
+##
+
+<何をしてたんだ？>
+
+{Sara} [Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: Accent40-1}
+#Message#
+"What were you doing...?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+\."...Like I said, resting."
+##
+
+<Choice End>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+\."I see... That's good, then..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, mouth open / cara91-15]
+#Message#
+\."Alright, now let's look for Keiji."
+##
+
+-----Page3-----
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](What...? Maple's gone?!)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Wha...?! It can't be... Did she start up again?!"
+##
+
+<Else>
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+"You don't mean... Has she started up again...?"
+##
+
+<Condition End>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](No way! Recovering from that state...?!)
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."This is bad, meow!
+ The ID card's still with baker lady, woof!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](If we meet her now... it'll be bad...!)
+##
+
+
+**********Event92********** (bureika-EV) (3,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The breaker is off.
+##
+
+{Mai} [Mai: Smile / cara92-2]
+{SE: Accent28-1}
+#Message#
+\."You sure we shouldn't turn this on?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Fine for now if we're exploring this floor, yeah?
+ If \N[4] comes down, he'll get in the way."
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open / cara92-11]
+#Message#
+\."That's true! A huge pain in the behind!"
+##
+
+{N/A}
+#Message#
+\C[3]The breaker is off.
+##
+
+#Message#
+\C[3]The breaker is on.
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."This is the power for the elevator..."
+##
+
+#Choice#
+Turn it off
+Cancel
+##
+
+<オフにする>
+
+<やめる>
+
+<Choice End>
+
+{N/A} [Mai: Worried eyebrows, mouth open / cara92-11]
+#Message#
+\C[3]Turned the breaker off.
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent21-1}
+#Message#
+"That oughta keep Maple from goin' upstairs!"
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+#Message#
+\."Should we return to the cemetery?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Right... Before she finds us...)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Wait...! Somebody's comin'! Hide!!"
+##
+
+{N/A}
+#Message#
+"*pant*... *pant*..."
+##
+
+#Message#
+\."Urgh..."
+##
+
+{Keiji}
+{SE: Accent41-1}
+#Message#
+"Is that... Maple...?"
+##
+
+{Q-taro}
+#Message#
+"W-What're we gonna do...?"
+##
+
+
+**********Event94********** (EV094) (11,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Something fell to the floor.
+##
+
+#Message#
+\.\C[3]Obtained a Small Key.
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent21-1}
+#Message#
+"Was Maple holding this?"
+##
+
+
+**********Event102********** (rannmaru-EV) (5,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Ranmaru's hands are on the wall.
+##
+
+{Sara}
+#Message#
+\."Squat down for me, then I'll get on."
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Heavy..."
+##
+
+{Sara}
+#Message#
+\."W-What...?!"
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+#Message#
+\."I mean...! Light! Oh-so-light!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Calm down... Don't get agitated...)
+##
+
+#Choice#
+Inspect the painting
+Make excuses
+##
+
+<絵を調べる>
+
+{Sara} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+{SE: Accent21-1}
+#Message#
+\C[4](Let's see here...)
+##
+
+<弁明する>
+
+{Sara} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+{SE: Accent21-1}
+#Message#
+"...It's my shoes that're heavy. And my uniform..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"Sara! The painting, please...?!"
+##
+
+{Sara}
+#Message#
+\C[4](Okay...)
+##
+
+<Choice End>
+
+{Sara} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](The painting... opened...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Inside is a switch labeled "Secret Locker."
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Press the switch
+Don't press it
+##
+
+<スイッチを押す>
+
+<押さない>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"What's the matter, Sara?!"
+##
+
+#Message#
+"You hesitating?! Wanna get down for now?!"
+##
+
+#Message#
+"You can always just give up, y'know!"
+##
+
+[Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+"I can't see up there, so I dunno, but...
+ Is this gonna take long?!"
+##
+
+[Ranmaru: Hands in pockets, wide eyes, mouth open / cara91-28]
+#Message#
+"Nwooooohhh...!!"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"I can't take it!
+ My arms're trembling... like, seriously...!"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+{SE: Accent21-1}
+#Message#
+"Sara! Hurry...!"
+##
+
+<Choice End>
+
+{N/A} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+{SE: Switch2}
+#Message#
+\C[3]Pressed the switch.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](Nothing's changed...)
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+"Is it for a different room...?"
+##
+
+
+**********Event106********** (suwamepuru-EV) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Maple isn't moving at all.
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\C[4](That's... Maple?!)
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"S-Stay away, Sara...!"
+##
+
+{Sara}
+#Message#
+\C[4](She doesn't seem to have noticed us...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+"Is she... sitting and resting?"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+"Wonder if she's sitting down to rest..."
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Nah... She ain't movin', is she?"
+##
+
+<Else>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."No... She isn't moving at all..."
+##
+
+<Condition End>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](She's completely stopped...)
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+"...Did she run out of battery, meow?"
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden, sweating fearfully / cara91-36]
+#Message#
+\."Or in other words..."
+##
+
+{Sara}
+#Message#
+\.\C[4](She's dead...)
+##
+
+#Message#
+\.\C[4](She went on a rampage... and exhausted her energy.)
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."...Never got to give her back that ID card."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...We could never return the ID card to her."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](Maple...)
+##
+
+#Message#
+\.\C[4](Is this... our fault, too...?)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](I'm sorry...)
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+-----Page3-----
+{Maple}
+#Message#
+"The locker room... the center one on the left side...
+ The password is 3141..."
+##
+
+#Message#
+\."Once you have what's inside... come back here..."
+##
+
+#Message#
+"I did terrible things to everyone..."
+##
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+#Message#
+"It's because we stole
+ \N[4]'s ID card from you, right...?"
+##
+
+[Mai: Worried eyebrows, closed teeth / cara92-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hey... Do you...
+ really like \N[4] that much...?"
+##
+
+{Maple}
+{SE: Accent40-1}
+#Message#
+"Yeah..."
+##
+
+#Message#
+\."But..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."I have to... kill him."
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+"Huh?"
+##
+
+{Maple}
+#Message#
+"The Obstructors are tasked with
+ killing everyone other than the human survivors."
+##
+
+#Message#
+\."My target... was the one in the number 4 coffin."
+##
+
+{SE: Accent28-1}
+#Message#
+"Which was... Hiyori."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"So then... You're actually on our side?"
+##
+
+{Maple}
+#Message#
+"Right... I am."
+##
+
+#Message#
+\."But... Hiyori put an obstacle in the way."
+##
+
+#Message#
+"A love program..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."I was... configured to love Hiyori..."
+##
+
+{Keiji}
+#Message#
+\C[4](Configured...?)
+##
+
+{Maple}
+#Message#
+"That's why I can't kill Hiyori..."
+##
+
+#Message#
+\."But..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If... you all can end this love..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."I could become... a weapon to kill Hiyori."
+##
+
+#Message#
+"That is... my gimmick..."
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+"W-What's that nonsense?! Your feelings...
+ are being treated like some game mechanic?!"
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+"Yeah..."
+##
+
+#Message#
+\."...But this feeling was a happy one..."
+##
+
+#Message#
+\."Far moreso than Hiyori anticipated..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"An' that's why you went on a rampage...?"
+##
+
+{Maple}
+#Message#
+"I'm sorry..."
+##
+
+#Message#
+\.\SP[12]"Ugh..."
+##
+
+#Message#
+\.\SP[15]"There's no... time..."
+##
+
+{Q-taro}
+#Message#
+"H-Hey, stay with us...!"
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"In the locker room...
+ check... \C[2]the center one on the left side\C[0]..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."The password... is 3141..."
+##
+
+#Message#
+\."Once you have what's inside... come back here..."
+##
+
+#Message#
+\.\SP[12]".........."
+##
+
+{Keiji}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Thank you
+Tell us more
+We'll be back
+##
+
+<ありがとう>
+
+{Keiji} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"...Thank you. We'll be back."
+##
+
+{Maple}
+#Message#
+\."..."
+##
+
+<もっと教えて欲しい>
+
+{Keiji} [Mai: Looking down at hand / cara92-17]
+{SE: Accent21-1}
+#Message#
+"...Do you have any more information, Maple?"
+##
+
+{Maple}
+#Message#
+\."..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+"She's at her limit, Keiji..."
+##
+
+<また来る>
+
+{Keiji} [Mai: Looking down at hand / cara92-17]
+{SE: Accent21-1}
+#Message#
+"...We'll come back to check on you."
+##
+
+{Maple}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Let's go... to the locker room.
+ We have to find something!"
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]Maple keeps muttering "Hiyori" to herself.
+##
+
+{Mai} [Mai: Looking down at hand, eyes closed / cara92-18]
+#Message#
+"..."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Hey, Maple..."
+##
+
+{Maple}
+#Message#
+\SP[10]"Hiyo... ri..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"W-Whoa?! Easy now!"
+##
+
+{Maple}
+#Message#
+\SP[10]"Hi... yori..."
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."No use... She doesn't notice us."
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+"Is she broken...?"
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Maple told us to come back
+ once we obtained this lantern..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent41-1}
+#Message#
+\."Maybe she wanted us to inspect this room?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Let's try using the lantern...)
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]Maple holds \N[4]'s head unmoving,
+her face frozen in a happy expression.
+##
+
+#Message#
+\C[3]Maple keeps muttering "Hiyori" to herself.
+##
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+{SE: Accent28-1}
+#Message#
+"Hey, Maple... Here, it's Hiyori."
+##
+
+{Maple}
+#Message#
+\SP[10]"Ah..."
+##
+
+{SE: Accent21-1}
+#Message#
+\SP[15]"Hi... yori's... here... I'm glad..."
+##
+
+{SE: Accent40-1}
+#Message#
+"Thank you... So you found... the lantern..."
+##
+
+{Keiji}
+#Message#
+\."Maple..."
+##
+
+#Choice#
+Tell us what you know
+How can we fix you?
+##
+
+<知ってることを教えて>
+
+{Keiji} [Mai: Looking down at hand / cara92-17]
+{SE: Accent40-1}
+#Message#
+"Please... Tell us whatever info you know."
+##
+
+{Maple}
+#Message#
+\."...Okay."
+##
+
+<キミを直す方法は？>
+
+{Keiji} [Mai: Looking down at hand / cara92-17]
+{SE: Accent40-1}
+#Message#
+"How can we fix you...?"
+##
+
+{Maple}
+#Message#
+\."It's impossible..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Never mind that... Listen..."
+##
+
+<Choice End>
+
+{Maple} [Mai: Looking down at hand / cara92-17]
+{SE: Accent41-1}
+#Message#
+\."I'll tell you... about the \C[2]banquet\C[0]..."
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."Banquet?"
+##
+
+{Maple}
+{SE: sceneswitch2}
+#Message#
+\."The banquet... is the last resort of this Sub-Game.
+ It's the only way to clear it..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"Whazzat?!"
+##
+
+{Maple}
+#Message#
+"It was written... on that big gate..."
+##
+
+#Message#
+"\C[2]When the dead assemble, the banquet shall begin\C[0]..."
+##
+
+{Keiji}
+#Message#
+"Does that have to do with..."
+##
+
+#Choice#
+The Dummies?
+The coffins?
+Dead bodies?
+##
+
+<ダミーズが関係ある？>
+
+{Keiji} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: Accent21-1}
+#Message#
+"The Dummies, maybe?"
+##
+
+{Maple}
+{SE: Accent40-1}
+#Message#
+\."You're half right... But no..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's... the coffins."
+##
+
+<ヒツギが関係ある？>
+
+{Keiji} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: Accent21-1}
+#Message#
+"The coffins, maybe?"
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+\."Correct..."
+##
+
+{Q-taro}
+#Message#
+"W-Whaddya mean by that?!"
+##
+
+<死体が関係ある？>
+
+{Keiji} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: Accent21-1}
+#Message#
+"Dead bodies, maybe?"
+##
+
+{Maple}
+#Message#
+\."No... That's not it..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."But... I can't say you're entirely wrong."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's... the coffins."
+##
+
+<Choice End>
+
+{Maple} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."What normally goes inside coffins... are the \C[2]dead\C[0]..."
+##
+
+#Message#
+"And there are seven coffins in the cemetery."
+##
+
+{SE: Accent28-1}
+#Message#
+\."When there are \C[2]seven people\C[0] in them once more...
+ The banquet will be held."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"By doing that... even the Dummies can be saved..."
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+"How's that work?!
+ I mean, we have to kill our partners..."
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+"Did you really hear that...?"
+##
+
+{Mai}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Wha...?"
+##
+
+{\N[4]} [Midori: Mouth open (no collar) / cara19-10]
+#Message#
+\C[6]"Haha... And if you don't want
+ to go back to being a corpse..."
+##
+
+[Midori: Closed-eyes grin (no collar) / cara19-9]
+{SE: Accent41-1}
+#Message#
+\.\C[6]"Then before the game ends...
+ Have the one you're paired with \C[2]take your place\C[6]."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\.\C[6]"...Take my place...?"
+##
+
+{\N[4]} [Midori: Mouth open (no collar) / cara19-10]
+#Message#
+\.\C[6]"Simply make her into a corpse instead.
+ Kill your partner..."
+##
+
+{Maple}
+#Message#
+"Someone to take your place..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Your true mission...
+ was to create \C[2]substitutes\C[0] for yourselves."
+##
+
+{SE: Accent21-1}
+#Message#
+\.""Killing" them...
+ just means putting them in your coffin..."
+##
+
+#Message#
+\."Anyone will do... Doll or human, dead or alive..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"That's all it takes?!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](What in the world...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](There was never any reason
+ for us to fight with the Dummies...)
+##
+
+{Maple}
+#Message#
+"If you clear the game...
+ the collar bombs will stop..."
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth, grim look / cara92-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Then... what about \C[2]running out of power\C[0]?"
+##
+
+[Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+\."If we run out of battery, we die, right...?!
+ Will they still charge us after we clear it?!"
+##
+
+{Maple}
+#Message#
+".........."
+##
+
+#Message#
+\."I don't know..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."Hiyori... might not think of me or you...
+ as anything more than gimmicks..."
+##
+
+{Mai}
+#Message#
+"No...!!"
+##
+
+{Maple}
+#Message#
+"But you see... Mai..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."You'll just stop... Your body will remain..."
+##
+
+{SE: Accent43-1}
+#Message#
+\."There's a possibility... you can be brought back..."
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth, grim look / cara92-12]
+#Message#
+".........."
+##
+
+[Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."There's just no way, right...?"
+##
+
+[Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."Who's going to bring us back?!
+ There's no way Asunaro would show us sympathy!!"
+##
+
+[Mai: Looking down at hand, mouth open, teary eyes / cara92-23]
+#Message#
+\."They intended to dispose of us from the start!"
+##
+
+[Mai: Looking down at hand, mouth open, eyes closed crying / cara92-21]
+#Message#
+\."They've just been enjoying watching
+ as we struggle helplessly...!"
+##
+
+{Keiji}
+#Message#
+\C[4](..........)
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: sceneswitch2}
+#Message#
+"...We'll bring you back."
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+{SE: Accent21-1}
+#Message#
+\."...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."I dunno how, yet..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."But we ain't gonna abandon you! Not a chance...!!"
+##
+
+{Mai} [Mai: Worried eyebrows, crying, closed teeth, grim look / cara92-16]
+#Message#
+\."...Q-taro..."
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+#Choice#
+Because we're allies
+More work for us
+##
+
+<仲間だからね>
+
+{Keiji} [Mai: Worried eyebrows, crying, closed teeth, grim look / cara92-16]
+{SE: Accent40-1}
+#Message#
+"We're allies, after all..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Ohhh! Well said!!"
+##
+
+<仕事が増えたね>
+
+{Keiji} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent40-1}
+#Message#
+"More work for us, huh..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."K-Keiji..."
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."Well, hey... I'm a pro at working overtime."
+##
+
+<Choice End>
+
+{Mai} [Mai: Looking down at hand, mouth open, eyes closed crying / cara92-21]
+#Message#
+\."...*s-sniff*..."
+##
+
+{Maple}
+{SE: se_maoudamashii_magical14}
+#Message#
+\SP[15]"It's okay... You have allies... Don't be scared..."
+##
+
+#Message#
+\.\SP[10]"How nice... Seeing you three..."
+##
+
+#Message#
+\.\SP[8]"I feel like I..."
+##
+
+{Keiji}
+#Message#
+\."Maple...!"
+##
+
+{Maple}
+#Message#
+\.\SP[7]".........."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Hey! Maple!!"
+##
+
+{Maple}
+#Message#
+\SP[5]"..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+"Dammit...!!"
+##
+
+{Mai} [Mai: Looking down at hand, mouth open, teary eyes / cara92-23]
+{SE: Accent21-1}
+#Message#
+\."...Did she die...?"
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+#Choice#
+...Let's go
+We'll bring her back
+##
+
+<…行こう>
+
+{Keiji} [Mai: Looking down at hand, mouth open, teary eyes / cara92-23]
+{SE: Accent40-1}
+#Message#
+"...Let's go."
+##
+
+#Message#
+\.\C[4](Thank you, Maple...)
+##
+
+<生き返らせるさ>
+
+{Keiji} [Mai: Looking down at hand, mouth open, teary eyes / cara92-23]
+{SE: Accent40-1}
+#Message#
+"...We'll bring her back."
+##
+
+#Message#
+\."Her body's still here, too..."
+##
+
+#Message#
+\."There's still the possibility."
+##
+
+<Choice End>
+
+-----Page6-----
+{N/A}
+#Message#
+\C[3]Maple holds \N[4]'s head unmoving,
+her face frozen in a happy expression.
+##
+
+{Keiji}
+{SE: Accent41-1}
+#Message#
+\.\C[4](\N[4]'s head...)
+##
+
+#Choice#
+Pick it up
+Cancel
+##
+
+<取り上げる>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+{SE: button17}
+#Message#
+\C[3]Obtained \N[4]'s head.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Sorry, Maple...)
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+{SE: Accent21-1}
+#Message#
+"A-Are you sure? I feel kind of bad..."
+##
+
+{Keiji}
+{SE: Accent24-1}
+#Message#
+\."\N[4]'s an evil man...
+ He's not a good fit for Maple."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+#Message#
+\."...Well, okay."
+##
+
+{Keiji}
+#Message#
+\."Come on, let's go back.
+ You're worried about Q-taro, right?"
+##
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+#Message#
+\."Yeah..."
+##
+
+[Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+#Message#
+\."If he's ogling her, I'll never stand for it!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](That's her concern...?)
+##
+
+-----Page7-----
+{N/A}
+#Message#
+\C[3]Maple is unmoving,
+her face frozen in a happy expression.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Sorry about that...
+ But you're too good for \N[4].)
+##
+
+
+**********Event110********** (Qruuuto-EV) (7,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of some scenery.
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](What? This painting looks different...)
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+"Let's give 'er a looksee."
+##
+
+{Keiji}
+#Message#
+\."Can you reach, though...?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."I'm gonna jump!"
+##
+
+{Keiji}
+#Message#
+\C[4](Whoa... Amazing stuff.)
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Owowow...!!"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."Q-taro!! You'll open up your wound!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."S-Sorry..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent41-1}
+#Message#
+\."But there's a switch behind that paintin'!"
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."I'll jump up... Hup!"
+##
+
+{N/A}
+{SE: Switch2}
+#Message#
+\C[3]Pressed the switch.
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+#Message#
+"I wonder what that did...?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](But first, I'm curious about Maple...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A painting of some scenery.
+##
+
+
+**********Event119********** (taoremeipuru-EV) (14,12)
+-----Page1-----
+{Maple}
+{SE: se_maoudamashii_magical14}
+#Message#
+"U... Ugh..."
+##
+
+{Keiji}
+#Message#
+\.\C[4](She's acting strange...)
+##
+
+#Choice#
+Approach her
+Watch from a distance
+##
+
+<近づいてみる>
+
+<遠巻きに観察する>
+
+{Keiji}
+#Message#
+\.\C[4](Hmm... Doesn't look like she can move, but...)
+##
+
+<Choice End>
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]We approached Maple.
+##
+
+{Maple}
+{SE: Accent42-1}
+#Message#
+"Keiji... Q-taro... Mai..."
+##
+
+#Message#
+\."Don't come near me..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."I'll do... something terrible to you..."
+##
+
+{Keiji}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+It's all right
+We'll stay away
+##
+
+<大丈夫だ>
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."...It's all right..."
+##
+
+{N/A}
+{SE: Equip2}
+#Message#
+\C[3]Lifted up Maple.
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"H-Hey! Keiji?!"
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+"See? I won't put a scratch on you..."
+##
+
+<離れるよ>
+
+{Keiji} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: Accent21-1}
+#Message#
+"Just keep our distance, you say?"
+##
+
+{N/A}
+{SE: Equip2}
+#Message#
+\C[3]Lifted up Maple.
+##
+
+{Q-taro}
+#Message#
+"H-Hey! Keiji?!"
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+"...There we go.
+ Can we talk at this distance?"
+##
+
+<Choice End>
+
+{Maple} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\.".........."
+##
+
+{SE: Accent40-1}
+#Message#
+\."...You're kind..."
+##
+
+{Keiji}
+#Message#
+\.\C[4](Seems like we'll be able to talk peacefully...)
+##
+

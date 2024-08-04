@@ -1,0 +1,77 @@
+**********Common805********** (Q「ｶｲは本名」)
+{Q-taro}
+#Message#
+"Kai's name was on his laptop.
+ Based on the email logs, should be his real one!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Don't want it! Take it back!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"I ain't bendin' on this one!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ain't even a trace of him bein' called another name!"
+##
+

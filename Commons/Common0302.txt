@@ -1,0 +1,116 @@
+**********Common302********** (トドメの一撃　ヒント)
+{Sara}
+#Message#
+\C[4](The \C[3]Sage\C[4] knows the \C[2]Keymaster\C[4]...
+ If that's true, some people are telling the truth
+ and some are telling lies.)
+##
+
+#Message#
+\.\C[4](There's probably no time to extract
+ statements out of people at this point...)
+##
+
+#Choice#
+Think more (use Clout)
+Cancel
+##
+
+<もっと考える（発言力消費）>
+
+{Sara}
+#Message#
+\C[4](Contrasting statements... is pointless too.
+ People who don't want to be chosen will just stall...)
+##
+
+#Choice#
+Think more (use Clout)
+Cancel
+##
+
+<もっと考える（発言力消費）>
+
+{Sara}
+#Message#
+\C[4](Right, all I can do is use an item...!
+ But on who... and what?)
+##
+
+#Choice#
+Think more (use Clout)
+Cancel
+##
+
+<もっと考える（発言力消費）>
+
+{Sara}
+#Message#
+\C[4](The rules... I'll hit them with the rulebook!
+ But there's no time to expose lies with it...)
+##
+
+#Choice#
+Think more (use Clout)
+Cancel
+##
+
+<もっと考える（発言力消費）>
+
+{Sara}
+#Message#
+\C[4](I'll show it to someone telling the truth!
+ Someone closely adhering to the rulebook...!)
+##
+
+#Choice#
+Think more (use Clout)
+Cancel
+##
+
+<もっと考える（発言力消費）>
+
+{Sara}
+#Message#
+\C[4](And I mean, the designs...?
+ Does the rulebook mention anything about designs?)
+##
+
+#Choice#
+Think more (use Clout)
+Cancel
+##
+
+<もっと考える（発言力消費）>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](If it doesn't... then isn't the silent one...
+ the one who's "telling the truth"...?)
+##
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

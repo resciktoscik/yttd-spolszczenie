@@ -1,0 +1,173 @@
+**********Common794********** (⑮進展●未使用物)
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."The only clue that hasn't been used yet...
+ is this roster."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+\."...?
+ It looks kind of familiar..."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."That's just like the torn-up paper
+ I found on the first floor, meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Though... What use could this have?)
+##
+
+{Gashu} [Gashu: Clutching chest and sweating, mouth open / cara16-13]
+{SE: horror_piano chord3}
+#Message#
+\."Why...?! Why do you have that?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Eh...?)
+##
+
+{Gashu} [Gashu: Clutching chest and sweating / cara16-12]
+#Message#
+\."Oof...!! Miley?!"
+##
+
+[Gashu: Clutching chest and sweating, mouth open / cara16-13]
+#Message#
+\."Curse her!!
+ Handing \C[2]internal documents\C[0] to participants...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](\C[2]Internal documents\C[4]?!)
+##
+
+#Message#
+\."Gashu! Just what is this roster?!"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+[Gashu: Head tilt / cara16-6]
+#Message#
+\."Hahaha... What indeed..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk! He caught on to the fact
+ I don't know what this means...)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: sceneswitch2}
+#Message#
+\."...You did good, Sara."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Gashu just made a slip of the tongue.
+ ...You freaked him out."
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Whatever could you mean..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kai was a whole lot better at playing dumb, huh?"
+##
+
+{Gashu} [Gashu: Furrowed brow / cara16-4]
+#Message#
+\."...!!!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What meaning could these papers have...?
+ I can't even guess! But...)
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."There's value in solving this mystery...!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."We ain't got time!! Let's thoroughly talk out
+ \C[2]anything suspicious about this roster\C[0]!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+<Condition End>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"There are four bound sheets...
+ And four names on each sheet!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"'Sides our names, there's a buncha names
+ I've never even heard...!"
+##
+
+{Nao} [Nao: Looking up and to side, sweatdrop / cara7-27]
+#Message#
+"Huh...?
+ This roster doesn't seem to be sorted by name."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Hold on a sec... There are participants
+ whose names aren't on this, huh?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"A roster...? It's reminding me of something, meow..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"If you want to look closer at the roster,
+ tell Mr. Policeman and we'll look at it together."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

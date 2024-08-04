@@ -1,0 +1,17 @@
+**********Common1447********** (④ランマルB選択)
+{N/A}
+#Message#
+"Maybe we should step on the floor switch again?!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

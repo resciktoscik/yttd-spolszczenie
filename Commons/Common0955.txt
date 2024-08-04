@@ -1,0 +1,361 @@
+**********Common955********** (５回目の交換)
+{N/A}
+#Message#
+\>[Fifth Trade]\<
+\>Performed By: Kanna\<
+
+\>Kanna (\C[5]Commoner\C[0]) ⇔ Sara (\C[10]Sacrifice\C[0])\<
+##
+
+#Choice#
+Ponder [Fifth Trade]
+Everyone's final roles
+Cancel
+##
+
+<考察【５回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Kanna... tried to sacrifice herself
+ by swapping my \C[10]Sacrifice\C[4] and her \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](But Kanna received a \C[5]Commoner\C[4] card.)
+##
+
+#Message#
+\.\C[4](I believe Kanna...!
+ This oddity must be Gashu's transgression!!)
+##
+
+<みんなの最終的な役職>
+
+{Sara}
+#Message#
+\C[4](Keiji confessed to being the \C[2]Keymaster\C[4],
+ and Q-taro the \C[3]Sage\C[4].)
+##
+
+#Message#
+\.\C[4](Kanna also confessed she's a \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](Where did the \C[10]Sacrifice\C[4] disappear to...?!)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fifth Trade]\<
+\>Performed By: Kanna\<
+
+\>Kanna (\C[5]Commoner\C[0]) ⇔ Sara (\C[10]Sacrifice\C[0])\<
+##
+
+#Choice#
+Ponder [Fifth Trade]
+Everyone's final roles
+Cancel
+##
+
+<考察【５回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Kanna... tried to sacrifice herself
+ by swapping my \C[10]Sacrifice\C[4] and her \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](But Kanna says she received a \C[5]Commoner\C[4] card...)
+##
+
+#Message#
+\.\C[4](Is it true? Or a lie? Or... something else...?)
+##
+
+<みんなの最終的な役職>
+
+{Sara}
+#Message#
+\C[4](Keiji confessed to being the \C[2]Keymaster\C[4],
+ and Q-taro the \C[3]Sage\C[4].)
+##
+
+#Message#
+\.\C[4](Sou fell for their trap and said he was a \C[5]Commoner\C[4],
+ but the possibility of that being an act emerged.)
+##
+
+#Message#
+\.\C[4](Yet... It's already evident that Kanna's \C[6]fifth trade\C[4]
+ moved my \C[10]Sacrifice\C[4] to Kanna...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fifth Trade]\<
+\>Performed By: Kanna\<
+
+\>Kanna (\C[5]Commoner\C[0]) ⇔ Sara (\C[10]Sacrifice\C[0])\<
+##
+
+#Choice#
+Ponder [Fifth Trade]
+Everyone's final roles
+Cancel
+##
+
+<考察【５回目の交換】>
+
+{Sara}
+#Message#
+\C[4](It can't be... Kanna swapped my \C[10]Sacrifice\C[4] with
+ her \C[5]Commoner\C[4] so she could sacrifice herself...)
+##
+
+#Message#
+\.\C[4](Kanna is prepared for death... That's why
+ she isn't even hiding being the \C[10]Sacrifice\C[4]...)
+##
+
+#Message#
+\.\C[4](I didn't want this... Not at all...)
+##
+
+<みんなの最終的な役職>
+
+{Sara}
+#Message#
+\C[4](Keiji confessed to being the \C[2]Keymaster\C[4],
+ and Q-taro the \C[3]Sage\C[4].)
+##
+
+#Message#
+\.\C[4](Sou fell for their trap and said he was a \C[5]Commoner\C[4],
+ but the possibility of that being an act emerged.)
+##
+
+#Message#
+\.\C[4](Yet... It's already evident that Kanna's \C[6]fifth trade\C[4]
+ moved my \C[10]Sacrifice\C[4] to Kanna...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fifth Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[5]Commoner\C[0]) ⇔ Sara (\C[10]Sacrifice\C[0])\<
+##
+
+#Choice#
+Ponder [Fifth Trade]
+Everyone's final roles
+Cancel
+##
+
+<考察【５回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Here, my \C[10]Sacrifice\C[4] was swapped
+ with someone's \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](This is the biggest mystery...
+ Who traded for my \C[10]Sacrifice\C[4]? To what benefit?)
+##
+
+#Message#
+\.\C[4](I don't know... But I can only imagine
+ they were aiming directly for my \C[10]Sacrifice\C[4]!)
+##
+
+<みんなの最終的な役職>
+
+{Sara}
+#Message#
+\C[4](Keiji confessed to being the \C[2]Keymaster\C[4],
+ and Q-taro the \C[3]Sage\C[4].)
+##
+
+#Message#
+\.\C[4](Sou appeared to be caught by their trap
+ and let it slip that he was a \C[5]Commoner\C[4], but...)
+##
+
+#Message#
+\.\C[4](If he snuck a look at the tablet after
+ the \C[6]fourth trade\C[4], it could have all been an act...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fifth Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[5]Commoner\C[0]) ⇔ Sara (\C[10]Sacrifice\C[0])\<
+##
+
+#Choice#
+Ponder [Fifth Trade]
+Everyone's final roles
+Cancel
+##
+
+<考察【５回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Here, my \C[10]Sacrifice\C[4] was swapped
+ with someone's \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](This is the biggest mystery...
+ Who traded for my \C[10]Sacrifice\C[4]? To what benefit?)
+##
+
+#Message#
+\.\C[4](I don't know... But I can only imagine
+ they were aiming directly for my \C[10]Sacrifice\C[4]!)
+##
+
+<みんなの最終的な役職>
+
+{Sara}
+#Message#
+\C[4](Err... Keiji confessed to being the \C[2]Keymaster\C[4],
+ and Q-taro the \C[3]Sage\C[4]...)
+##
+
+#Message#
+\.\C[4](Those two don't seem like they're lying...)
+##
+
+#Message#
+\.\C[4](And Sou, caught by their trap,
+ let it slip that he was a \C[5]Commoner\C[4].)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fifth Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[5]Commoner\C[0]) ⇔ Sara (\C[10]Sacrifice\C[0])\<
+##
+
+#Choice#
+Ponder [Fifth Trade]
+Everyone's final roles
+Cancel
+##
+
+<考察【５回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Here, my \C[10]Sacrifice\C[4] was swapped
+ with someone's \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](This is the biggest mystery...
+ Who traded for my \C[10]Sacrifice\C[4]? To what benefit?)
+##
+
+#Message#
+\.\C[4](I don't know... But I can only imagine
+ they were aiming directly for my \C[10]Sacrifice\C[4]!)
+##
+
+<みんなの最終的な役職>
+
+{Sara}
+#Message#
+\C[4](Err... Keiji confessed to being the \C[2]Keymaster\C[4],
+ and Q-taro the \C[3]Sage\C[4]...)
+##
+
+#Message#
+\.\C[4](Those two don't seem like they're lying...)
+##
+
+#Message#
+\.\C[4](And Sou, caught by their trap,
+ let it slip that he was a \C[5]Commoner\C[4].)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Fifth Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[5]Commoner\C[0]) ⇔ Sara (\C[10]Sacrifice\C[0])\<
+##
+
+#Choice#
+Ponder [Fifth Trade]
+Everyone's final roles
+Cancel
+##
+
+<考察【５回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Here, my \C[10]Sacrifice\C[4] was swapped
+ with someone's \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](Don't tell me Sou really
+ took the \C[10]Sacrifice\C[4] from me...?)
+##
+
+<みんなの最終的な役職>
+
+{Sara}
+#Message#
+\C[4](Q-taro confessed to being the \C[2]Keymaster\C[4].
+ No reason for the unchosen to lie, so I believe it...)
+##
+
+#Message#
+\.\C[4](I'm curious about Sou's initial \C[10]Sacrifice\C[4] confession.
+ It could be a lie as usual, but...)
+##
+
+<やめる>
+
+<Choice End>
+

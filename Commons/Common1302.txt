@@ -1,0 +1,6 @@
+**********Common1302********** (呼・３章汎用タッチ②)
+{N/A}
+#Message#
+\C[3]There's nothing inside.
+##
+

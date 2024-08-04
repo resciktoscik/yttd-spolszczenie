@@ -1,0 +1,312 @@
+**********Common546********** (⑦進展●人間じゃない)
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Not... human?)
+##
+
+{N/A}
+#Message#
+\.\C[3]It's an unthinkable, absurd idea.
+##
+
+#Message#
+\.\C[3]But something's lodged itself in my head.
+##
+
+{Mishima}
+#Message#
+\.\C[3]"I am an AI program of Kazumi Mishima."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."The AIs are basically super-detailed reproductions
+ based on y'all, the participants."
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."In fact, they're AIs with hearts,
+ possessing superb emotional capabilities!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."One of the purposes these dolls were made for...
+ is as mental relief."
+##
+
+[Safalin: Wide smile / cara15-4]
+#Message#
+\.\C[10]"Allow me to show you a wonderful function
+ that will make you feel even closer to this doll..."
+##
+
+{Sara}
+#Message#
+\.\C[4](If...)
+##
+
+{SE: Accent28-1}
+#Message#
+\."If you could combine
+ an artificial intelligence with a doll..."
+##
+
+#Message#
+\."You could create a completely perfect fake!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."H... Huh?!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Sara, settle down!!
+ Do you know what you're saying...?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."I was... I was always wondering..."
+##
+
+#Message#
+\."Why did something like
+ an AI of Professor Mishima even exist...?"
+##
+
+#Message#
+\."Why were there dolls made to recreate us
+ in such perfect detail...?"
+##
+
+#Message#
+\."Maybe... this facility...
+ The kidnappers' organization..."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."Is making doll copies of humans...!!"
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."WHAAAAAAAAAAAA?!
+ You've lost your marbles, Sara!!"
+##
+
+{Sara}
+#Message#
+\."A doll that looks just like Reko...
+ and an AI that recreates Reko's personality."
+##
+
+#Message#
+\."The result of combining those two things is..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."An impostor Reko!!"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Are you being serious, Sara Chidouin?!"
+##
+
+{Sara}
+#Message#
+\."I am...!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."That's how she could fool even her own brother!
+ She's not someone else impersonating her,
+ she's a duplicate!!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Your claims are an utter mess!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Guys, Sara's lost her cool!
+ We should drop this whole thing!!"
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\.".........."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Everyone..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Eyes full of doubt. Despairing looks.
+##
+
+#Message#
+\.\C[3]Such was the reaction to my shaky conclusion.
+Me, the one who was entrusted our hopes.
+##
+
+{Sara}
+#Message#
+\.\C[4](...No dice... huh.)
+##
+
+#Message#
+\.\C[4](I wasn't... able to persuade everyone.)
+##
+
+#Message#
+\.\C[4](Gin... I couldn't...)
+##
+
+{SE: shock1}
+#Message#
+\.\C[4](...I couldn't save you...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Now... that's interesting."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."It's a bold idea. The kind of absurd conclusion
+ only you could come to, Sara..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."I'll take your word for it.
+ I'm on board with this."
+##
+
+{Sara}
+#Message#
+\."Keiji...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Mr. Policeman's ever your ally, Sara."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."*sigh*... Nothing for it.
+ I can't think of any other way to break the deadlock."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Listen, Gin's at his limit.
+ This is the end... We have to decide."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."Sara... Give us some proof that Reko's
+ \C[2]a doll with an artificial intelligence\C[0]."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."I'll sum it up simply."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."The Reko who broke Mishima's monitor was real..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."And in the Room of Lies,
+ the real and the fake Reko got swapped."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."So this Reko here is a fake...
+ And you infer she's actually a doll copy."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...But she won't recognize it."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."It's true, Professor Mishima's AI was perfect...
+ I could imagine it was the real professor there..."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Perfectly replicating a human is impossible...!!
+ There absolutely must be a difference somewhere!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."I'll prove that I'm a human, alright?!
+ What do you want?! I'll do anything!!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Why didn't the AI of Mishima...
+ have any memory of us, I wonder...?"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Naturally, the personalities of the AIs
+ are based on the real people's, right?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Real humans change in personality and gain memories.
+ The AIs should need updating, too..."
+##
+

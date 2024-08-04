@@ -1,0 +1,17 @@
+**********Common189********** (ﾚｺ 八分雨？正解)
+[Reko: Default / cara6-1]
+#Message#
+\C[3]Select Reko as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

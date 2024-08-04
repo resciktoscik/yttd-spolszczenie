@@ -1,0 +1,125 @@
+**********Common200********** (ｹｲｼﾞ「ﾅｵ追い込むか」)
+{Keiji}
+#Message#
+"If she never let it go, then...
+ Wonder why the box was empty?"
+##
+
+#Message#
+"...Welp...
+ Guess you'll just have to break the ice, Sara."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Got a present for Mr. Policeman?
+ Thanks."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Whoa there, partner..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Haven't mentioned what to break the ice with yet...
+ But you know, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I should talk with him first...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Whoa there, partner..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Haven't mentioned what to break the ice with yet...
+ But you know, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I should talk with him first...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Sure would like to solve this mystery."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."It'll keep me up at night."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+"If she never let it go..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Then wonder why the box was empty?"
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."We'll just hafta ask her."
+##
+

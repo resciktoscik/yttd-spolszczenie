@@ -1,0 +1,428 @@
+**********Common764********** (⑪進展●「メダルの差」)
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+"Like Gin says... Nao hardly had any tokens..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Surely, she couldn't have been the one
+ to take the \C[10]Sacrifice\C[0] from Sara."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then... is Nao the one with the least likelihood...?"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."W... Wait, please..."
+##
+
+[Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."This... isn't right..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+{SE: Accent28-1}
+#Message#
+\."B... Big sis Naooo..."
+##
+
+{Nao} [Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."Least likelihood...? Are you going to kill me
+ with such vague reasoning...?!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Please...! Have another discussion!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: sceneswitch2}
+#Message#
+\."You're right, we can't end this discussion."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."Y-You...! What're you saying?!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."I just remembered something."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."There was a way anyone could get tokens."
+##
+
+#Message#
+\."Miss Sara, you know it too, don't you?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Sara}
+#Message#
+\.\C[4](A way for anyone to get tokens...)
+##
+
+#Choice#
+From my stolen wallet
+From Alice's body
+##
+
+<盗まれた私のサイフ>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+"From my stolen wallet, right...?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."...Well, there's the possibility there
+ that you just misplaced it like a klutz, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm absolutely not that clumsy!)
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+\."You could take tokens from Alice's body...
+ sitting there in the Room of Lies."
+##
+
+<アリスさんの遺体>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+"By stealing tokens... from Alice's body...!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...I knew you could do it."
+##
+
+<Choice End>
+
+<Else>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\.\C[4](A way for anyone to get tokens...)
+##
+
+#Choice#
+From my stolen wallet
+From Reko's body
+##
+
+<盗まれた私のサイフ>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+"From my stolen wallet, right...?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."...Well, there's the possibility there
+ that you just misplaced it like a klutz, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm absolutely not that clumsy!)
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+\."You could take tokens from miss Reko's body...
+ sitting there in the Room of Lies."
+##
+
+<レコさんの遺体>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+"By stealing tokens... from Reko's body...!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...I knew you could do it."
+##
+
+<Choice End>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\.\C[4](A way for anyone to get tokens...)
+##
+
+#Choice#
+By trading with someone
+From Alice's body
+##
+
+<誰かとメダルを交換>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+"Do you mean... trading tokens with someone else?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."That carries the risk of being betrayed.
+ There's a better way."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+\."You could take tokens from Alice's body...
+ sitting there in the Room of Lies."
+##
+
+<アリスさんの遺体>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+"By stealing tokens... from Alice's body...!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...I knew you could do it."
+##
+
+<Choice End>
+
+<Else>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\.\C[4](A way for anyone to get tokens...)
+##
+
+#Choice#
+By trading with someone
+From Reko's body
+##
+
+<誰かとメダルを交換>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+"Do you mean... trading tokens with someone else?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."That carries the risk of being betrayed.
+ There's a better way."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+\."You could take tokens from miss Reko's body...
+ sitting there in the Room of Lies."
+##
+
+<レコさんの遺体>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+"By stealing tokens... from Reko's body...!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...I knew you could do it."
+##
+
+<Choice End>
+
+<Condition End>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Big sis Nao wouldn't do such a thing, meow...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](But it's true... When I went to check the body,
+ the tokens were already gone.)
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+{SE: Accent28-1}
+#Message#
+\.\C[4](And... Nao was closely inspecting the Room of Lies.)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Nah... It ain't just Nao who could've done it!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Couldn't any of us've gotten those tokens?!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."In other words, everyone has the potential
+ to possess the \C[10]Sacrifice\C[0]."
+##
+
+[Sou: Disdainful pose / cara5-11]
+{SE: Accent21-1}
+#Message#
+\."Ahaha... It all ends with a game of trust."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Then that last action is going to be the key..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: sceneswitch2}
+#Message#
+\."\C[2]What were each of us doing\C[0]
+ at the time of the \C[6]fifth trade\C[0]?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."As in..."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent28-1}
+#Message#
+\."Just before the Main Game started... woof?"
+##
+
+{Sou} [Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."Ahaha. Hope you can find the \C[10]Sacrifice\C[0]..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"We have to determine based on Sou, Kanna, and Nao's
+ actions at the time of the \C[6]fifth trade\C[0]."
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+"I was sitting on the stairs,
+ thinking back on everything that had happened..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+"I was on the laptop in the Winner's Room
+ the whole time. ...Will you believe that?"
+##
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+"Kanna... wasn't really doing anything...
+ Just wandering absentmindedly..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"Did anybody see what the three were doin'?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"I was with Nao on the stairs for most of the time..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"I was moving rubble with Keiji Shinogi...
+ I didn't see what those three were up to...!"
+##
+
+<Condition End>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"I was searching all by myself
+ to see if there were any other exits, meow!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

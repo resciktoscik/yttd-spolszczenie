@@ -1,0 +1,153 @@
+**********Common177********** (進展用　鍵番の話)
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+\."You see, I'm the \C[2]Keymaster\C[0]."
+##
+
+{N/A}
+#Message#
+\.\C[3]Huh...?\.\.
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."I was unsure whether I should keep quiet...
+ But I want to avoid us all dying, so..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Besides, if the \C[2]Keymaster\C[0] doesn't manage things,
+ they'll just turn into a mess."
+##
+
+{N/A}
+#Message#
+\.\C[3]What... is Sou saying...?
+##
+
+#Message#
+\.\C[3]The \C[2]Keymaster\C[3]... is me.
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Really...?! That's the truth, ain't it...?!"
+##
+
+#Message#
+\."If nobody else is gonna name themselves...
+ Then yeah, I'll believe it!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+#Choice#
+I'm the Keymaster!
+Say nothing
+##
+
+<私が鍵番だ！>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Wait, please!!
+ I'm... the \C[2]Keymaster\C[0]!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What'd you saaaaay?!"
+##
+
+{All}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There's... two \C[2]Keymasters\C[0]?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Huh... You startled me, miss Sara."
+##
+
+{Sara}
+#Message#
+\."That's... my line, Sou."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."According to Miley's explanation,
+ there's only one \C[2]Keymaster\C[0]..."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent21-1}
+#Message#
+\."I didn't imagine you'd tell a lie like this."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."What's going on now...?!
+ Is one of the two lyinggg?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...W... Why...?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."This makes no damn sense...!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Well, whatever. Let's advance the discussion
+ instead of fighting about it."
+##
+
+<何も言わない>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\C[4](I don't know...!
+ Is it right for me to announce myself now?!)
+##
+
+#Message#
+\.\C[4](As Miley explained it, there's... one \C[2]Keymaster\C[4].)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Sou is lying...!
+ I can't imagine anything else!)
+##
+
+{Kai} [Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\."...Hm, is that a fact?
+ No, I'm afraid I can't believe that easily..."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\."But for the current time, Sou,
+ I will trust you are the \C[2]Keymaster\C[0]."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Thanks. I'll do my best."
+##
+
+<Choice End>
+

@@ -1,0 +1,155 @@
+**********Common570********** (●滞留エリア限界線)
+#Message#
+\C[3]Now's not the time for attractions.
+##
+
+#Message#
+\C[3]I've already cleared this attraction.
+##
+
+#Message#
+\C[3][Stay On Target]
+Participants: 2
+Clear Chip Reward: \C[2]★★★\C[3]
+Difficulty: \C[2]Hard\C[3]
+##
+
+#Message#
+\.\C[3]Stay within the bounds of
+the areas produced by your opponents.
+Defeat the three dolls to win.
+##
+
+#Choice#
+Select partner
+Cancel
+##
+
+<相棒を選ぶ>
+
+#Choice#
+Sou
+Reko
+Alice
+Cancel
+##
+
+<ソウ>
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\.Sou Hiyori
+As Sou, the charge speed while in the area increases.
+
+Difficulty: Normal
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."Hey, miss Sara. This attraction is 3 stars, right?
+ This is embarrassing, but...
+ Would you give me two of the stars?"
+##
+
+#Choice#
+Partner with Sou (Consent)
+Reselect
+##
+
+<ソウを相棒にする>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Thanks. To make up for it, I'll do my best!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<レコ>
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+"Sorry, Sara.
+ I've already cleared this attraction."
+##
+
+{N/A} [Reko: Default / cara6-1]
+#Message#
+\.Reko Yabusame
+As Reko, your great concentration makes
+the movement of the area feel slower.
+Difficulty: Easy
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."Hey, Sara. This attraction's 3 stars...
+ If I give you \C[2]30 of my tokens\C[0],
+ will you give me two of the stars?"
+##
+
+#Choice#
+Partner with Reko (Consent)
+Reselect
+##
+
+<レコを相棒にする（承諾する）>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Just gotta stay put in this one, yeah?
+ Motion and stillness...
+ I'll show ya I'm good at both."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<アリス>
+
+{Reko} [Alice: Default glare / cara11-1]
+#Message#
+\.Alice Yabusame
+As Alice, you get one extra health.
+
+Difficulty: Normal
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."Sara Chidouin, this attraction is 3 stars.
+ Naturally, I will take 2. You won't mind, will you?"
+##
+
+#Choice#
+Partner with Alice (Consent)
+Reselect
+##
+
+<アリスを相棒にする（承諾する）>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... I need only stay put within the so-called
+ "area," yes? Child's play for a model prisoner...!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

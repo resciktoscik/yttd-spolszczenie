@@ -1,0 +1,576 @@
+**********Common1557********** (呼・メイプルのあがき)
+{Maple}
+{SE: WON-robo5}
+#Message#
+"LET'S DIE... HIYORI..."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+{SE: Accent21-1}
+#Message#
+\."...You die by yourself. I'm good."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+#Message#
+"...gh...!"
+##
+
+{Sara}
+#Message#
+\."\N[4]..."
+##
+
+#Choice#
+Maple is serious
+Feel like apologizing now?
+Won't you resist?
+##
+
+<メイプルは本気だ>
+
+{Sara} [Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+{SE: Accent40-1}
+#Message#
+"Maple is serious..."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+\."Ha... haha... I'm surprised..."
+##
+
+<謝る気になったか？>
+
+{Sara} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+{SE: Accent40-1}
+#Message#
+"Feel like apologizing now...?"
+##
+
+{\N[4]}
+#Message#
+\."Ha... haha... For what?"
+##
+
+<反抗しないのか>
+
+{Sara} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+{SE: Accent40-1}
+#Message#
+"Won't you resist? ...She'll kill you."
+##
+
+{\N[4]}
+#Message#
+\."Ha... haha... How cold..."
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."What's that? You tremblin'...?"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Made the mistake of thinkin'
+ there was no way she'd resist?"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."She's gonna kill you! Ain't nobody's gonna help...!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+\."...!"
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open / cara19-22]
+#Message#
+\."...You fine with that, Dummies?
+ If I die, your collars will..."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: sceneswitch2}
+#Message#
+\."...Whaddya expect from us?
+ Can't stop her anyhow..."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."I'm the one who's pissed...!
+ Go apologize to Mai in the afterlife!!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+#Message#
+\."Urgh..."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+\."Ha... hahaha..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+#Message#
+\.\C[4](There's nothing left to be done...)
+##
+
+#Message#
+\.\C[4](We just have to watch it end...)
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+"DON'T RUN... YOU WON'T GET AWAY..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Let's follow, miss Sara."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Sara}
+#Message#
+\."P-Please, wait! Before that... Reko...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+#Message#
+\."P-Please, wait! Before that... Alice...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sou} [Sou: Turned to side, clutching head in hands / cara5-37]
+#Message#
+\.".........."
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: horror_piano chord3}
+#Message#
+@if S[642]
+\."She's already gone, you know..."
+@else
+\."He's already gone, you know..."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...Don't be selfish. I'm going."
+##
+
+{Sara}
+#Message#
+\C[4](..........)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](...Gone...?)
+##
+
+#Message#
+\.\C[4](You want me to just... accept it?)
+##
+
+#Message#
+\.\C[4](This... tragedy...)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\C[4](Reko... who was so kind, and so strong...)
+##
+
+#Message#
+\.\C[4](Reko, who protected us when we were weak...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Fallen victim to someone I trusted as an ally...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\.\C[4](There's no way... I can process that so simply...)
+##
+
+{SE: Accent40-1}
+#Message#
+\.\C[4](I sowed... the seeds for this...)
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+#Message#
+\C[4](His life destroyed by \N[4]...
+ His relationship with his sister torn apart...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](He lost Reko...
+ and rid himself of even those memories...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Alice... surely deserved to live
+ a much, much happier life...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+{SE: Accent40-1}
+#Message#
+\.\C[4](I sowed... the seeds for this...)
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+#Message#
+\C[4](In that moment, I had the thought.)
+##
+
+{SE: Accent43-1}
+#Message#
+\C[4](That I wanted to win...)
+##
+
+#Message#
+\.\C[4](That I want to escape from the pressure
+ of protecting my allies...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](It's me... who drove Ranmaru to this.)
+##
+
+{SE: heart2}
+#Message#
+\C[4](It's all... my fault...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\SP[15]"I'm so... sorry..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\.\SP[15]"I'm sorry... Reko..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+#Message#
+\.\SP[15]"I'm sorry... Alice..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+#Message#
+\.\SP[10]".........."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent40-1}
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\."Gin..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I have... no right to embrace him.)
+##
+
+#Message#
+\C[4](Sorry... Gin...)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+{SE: sceneswitch2}
+#Message#
+"Wait... Sara."
+##
+
+{Sara}
+#Message#
+\."Q-taro..."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent21-1}
+#Message#
+\."Muscle gorilla..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+#Message#
+\."I dunno what \N[4] told you..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."But we believe in ya, Sara."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."Even if they might be different sizes...
+ We're all carryin' sins..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+You might be right
+That's not true
+##
+
+<そうかもしれない>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"Yes... You... might be right..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Us sayin' things like "I believe you"...
+ might've put burden on ya, it's true."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But nobody's gonna blame ya. We'd have no right
+ to hate ya even if you gave up on us..."
+##
+
+<そんなことは無い>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent40-1}
+#Message#
+"That can't be true...
+ Gin's always done his best for everyone..."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."No... I..."
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."The Main Game vote...
+ I ran away by forcing it on big sis Sara, meow..."
+##
+
+{Sara}
+#Message#
+\."That's wrong... Gin, you..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Nobody's gonna blame ya. We'd have no right
+ to hate ya even if you gave up on us..."
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Don't be absurd! We..."
+##
+
+#Message#
+\."W... We..."
+##
+
+{SE: Accent43-1}
+#Message#
+\."Are allies... so..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: Accent21-1}
+#Message#
+\."That's right..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+#Message#
+\."No chance we'd live long
+ if we split off from one another."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So don't go leavin' us."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+\."Don't keep yer heart... at a distance."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent21-1}
+#Message#
+\."...Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."...Okay."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]I pulled Gin toward me tightly.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Don't cry... Gin."
+##
+
+{Gin}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Yeah..."
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]I'll overcome this...
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]I won't become... who \N[4] says I am.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{SE: Thunder10}
+#Message#
+\.\C[3]I swear it... on Reko's death.
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{SE: Thunder10}
+#Message#
+\.\C[3]I swear it... on Alice's death.
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: sceneswitch2}
+#Message#
+"Big sis Sara! Let's go, meow!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Right...! Let's go after the others!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+

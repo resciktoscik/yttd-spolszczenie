@@ -1,0 +1,223 @@
+**********Common1402********** (呼・雑多アイテム)
+#Message#
+\C[3][Paintbrush and Paints]
+Tools for doing watercolor painting,
+found in the Discussion Room.
+##
+
+#Message#
+\C[3][Red Book]
+A red book from the Discussion Room.
+On the back, it says "Please return on time."
+##
+
+#Message#
+\C[3][Yellow Book]
+A yellow book from the office.
+On the back, it says "Please return on time."
+##
+
+#Message#
+\C[3][Blue Book]
+A blue book Kurumada found.
+On the back, it says "Please return on time."
+##
+
+#Message#
+\C[3][Green Books]
+Green books from the library.
+They're about the strongest doll, Maple.
+##
+
+#Choice#
+Read Volume 1
+Read Volume 2
+Read Volume 3
+Cancel
+##
+
+<１巻を読む>
+
+{Green Book}
+#Message#
+\C[6]Hey there! It's me!
+For Death Game participants around the nation
+troubled by Obstructors, I bear good tidings!
+##
+
+#Message#
+\.\C[6]Believe it or not, I'll tell you the weakness
+of the strongest Obstructor doll, Maple!
+##
+
+#Message#
+\.\C[6]It's the crevice in her back!
+Remember this, and you'll soon be an Obstructor Master!
+##
+
+<２巻を読む>
+
+{Green Book}
+#Message#
+\C[6]A follow-up report! A new weakness has been discovered
+for strongest of the dolls Maple!
+##
+
+#Message#
+\.\C[6]The key is the link between emotions and colors!
+Red is anger, blue is sadness, yellow is joy! WOW!
+##
+
+#Message#
+\.\C[6]Knowing is half the battle!
+Remember this, and you'll soon be an Obstructor King!
+##
+
+<３巻を読む>
+
+{Green Book}
+#Message#
+\C[6]The secret's out! The hitherto unknown weakness
+of strongest doll Maple, laid bare!
+##
+
+#Message#
+\.\C[6]"When she's happy, have fun together!"
+"When she's angry, hear her out!"
+"When she's sad, show her kindness!"
+##
+
+#Message#
+\.\C[6]Be sure to treat her with care!
+Remember this, and you'll soon be an Obstructor God!
+##
+
+<やめる>
+
+<Choice End>
+
+{Green Book}
+#Message#
+A green book from the classroom.
+On the back, it says "Please return on time."
+##
+
+#Choice#
+Read
+Cancel
+##
+
+<読む>
+
+{Green Book}
+#Message#
+\C[6]Hey there! It's me!
+For Death Game participants around the nation
+troubled by Obstructors, I bear good tidings!
+##
+
+#Message#
+\.\C[6]Believe it or not, I'll tell you the weakness
+of the strongest Obstructor doll, Maple!
+##
+
+#Message#
+\.\C[6]It's the crevice in her back!
+Remember this, and you'll soon be an Obstructor Master!
+##
+
+<やめる>
+
+<Choice End>
+
+{Green Book}
+#Message#
+\C[3][Transceiver]
+A battery-powered communicator.
+Should work if they're within close enough range.
+##
+
+#Message#
+\C[3][Voice Recorder]
+A voice recorder seemingly used in a First Trial.
+It gives instructions to cooperate with a partner.
+##
+
+#Choice#
+Listen to recording
+Cancel
+##
+
+<録音を聞く>
+
+{Voice Data}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[5]"...This is the First Trial."
+##
+
+#Message#
+\.\C[5]"You have 5 minutes.
+ If you cannot escape in time, you lose your life."
+##
+
+#Message#
+\.\C[5]"You are not alone.
+ Your fate is tied to someone you cannot see."
+##
+
+#Message#
+\.\C[5]"However, if you refuse this connection
+ and are willing to betray them, you can leave safely."
+##
+
+#Message#
+\.\C[5]"Follow the voice in your heart."
+##
+
+<やめる>
+
+<Choice End>
+
+{Voice Data}
+#Message#
+\C[3][First-Aid Kit]
+Stocked with implements for treating wounds.
+##
+
+{N/A}
+#Message#
+\C[3][Upgrade Parts]
+Replacement body parts the Dummies can attach.
+They can give special abilities.
+##
+
+#Message#
+\C[3][ID Card]
+An ID card with \N[4]
+(real name Sou Hiyori)'s face on it.
+##
+
+#Message#
+\C[3][ID Card]
+An ID card with \N[4]
+(real name Sou Hiyori)'s face on it.
+##
+
+#Message#
+\C[3][\N[4]'s Head]
+A doll head found in a box. Will function if charged.
+A letter noted its left eye was repaired.
+##
+
+#Message#
+\C[3][Small Key]
+A small key Maple had on her.
+##
+
+#Message#
+\C[3][Note]
+A printed note.
+It reads: "Game Start: Blue 1, Red 6, Yellow 0"
+##
+

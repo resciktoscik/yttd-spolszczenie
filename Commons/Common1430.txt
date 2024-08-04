@@ -1,0 +1,18 @@
+**********Common1430********** (③ハヤサカB選択)
+{N/A}
+#Message#
+"If they're going to attack us...!
+ I'll catch them and put them back in the shelves!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

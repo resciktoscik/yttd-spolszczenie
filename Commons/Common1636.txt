@@ -1,0 +1,190 @@
+**********Common1636********** (３前進展①灯ろう使う)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+"The lantern...?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Surprised face / cara11-2]
+{SE: Accent28-1}
+#Message#
+"What...? The lantern?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent28-1}
+#Message#
+"Interesting... The lantern, huh?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The light of this lantern can reveal
+ things that you can't normally see!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."But... I thought it was out of battery..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."But isn't it out of battery?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent40-1}
+#Message#
+\."We'll use the one I picked up."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Received a Lantern from Q-taro.
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Thinkin' it's the same as your lantern, Sara."
+##
+
+{Sara}
+#Message#
+\."Thank you very much...!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Now, let's try this!"
+##
+
+{SE: Accent28-1}
+#Message#
+\C[4](I see...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."The coffins are glowing...!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."The coffins... are glowing..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."Eh...? Wha...? What's going on outside?!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Mya...?! What do you mean they're glowing, woof?!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Sara}
+#Message#
+\C[4](We're not sure of the details either, but...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](There's something special to these coffins!)
+##
+
+{SE: Accent40-1}
+#Message#
+\.\C[4](We might just be able to tell them apart...!)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{N/A}
+#Message#
+
+　　　　　　 \C[3]Mystery of the Glowing Coffins
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand in front, mouth open / cara94-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+"The coffins must be made with a special material
+ that glows in the lantern's light..."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+"The coffins must be made of some amazing material
+ that glows when you use the lantern, meow!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+"Hey, hey! What's it look like?!
+ How many glowing coffins are there?! Tell me!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"Sara-senpai, give it a spin around.
+ Tell us how many glowing coffins there are!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"We saw the coffins glowin' like this
+ when we were off on our own, too!"
+##
+

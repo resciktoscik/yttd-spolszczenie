@@ -1,0 +1,522 @@
+**********Common1106********** (呼・ニセケイジ対面)
+{Voice}
+#Message#
+"So... you really were alive."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent41-1}
+#Message#
+"How do you feel... Keiji?"
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](...Ranmaru...?)
+##
+
+#Message#
+\."..."
+##
+
+#Choice#
+Just fantastic
+Did you make that broadcast?
+##
+
+<すこぶる良いよ>
+
+{Keiji} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent40-1}
+#Message#
+"Just fantastic...
+ I'm reuniting with an ally, after all."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."I wonder about that...
+ You look pretty pissed about that broadcast."
+##
+
+{Keiji}
+#Message#
+\."So that really was you..."
+##
+
+<キミがさっきの放送を？>
+
+{Keiji} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent40-1}
+#Message#
+"...Did you make that broadcast...?"
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent21-1}
+#Message#
+\."Yep... Found a nice voice changer function."
+##
+
+{Keiji}
+#Message#
+\."You got some business with me...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\."...I might."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: sceneswitch2}
+#Message#
+\."Hand over \N[4]'s head."
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+#Message#
+\."Not seeing where you're going with this..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I heard it all over the transceiver."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."You killed Kurumada, Keiji...!!"
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+#Choice#
+It was an accident
+I didn't kill him
+##
+
+<事故だ>
+
+{Keiji} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent40-1}
+#Message#
+"...That was an accident."
+##
+
+<殺してない>
+
+{Keiji} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent40-1}
+#Message#
+"...I didn't kill him."
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hands in pockets, eyes to side / cara91-17]
+{SE: Accent21-1}
+#Message#
+\."I trusted you..."
+##
+
+[Ranmaru: Hand on face, looking to side, mouth open / cara91-33]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sara, too... She trusted you the most..."
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden / cara91-35]
+{SE: Accent41-1}
+#Message#
+\."But look at you with scrutiny, and it's clear..."
+##
+
+{Keiji}
+#Message#
+\."...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\."Keiji... You..."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent43-1}
+#Message#
+\."You're \C[2]with Asunaro\C[0], aren't you...?"
+##
+
+{Keiji}
+{SE: heart2}
+#Message#
+\.".........."
+##
+
+#Choice#
+I don't understand
+What's this now?
+##
+
+<意味がわからない>
+
+{Keiji} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+"Don't get what you mean..."
+##
+
+<急にどうした？>
+
+{Keiji} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+"What's this all of a sudden, Ranmaru?"
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side / cara91-31]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hand on face, looking to side, mouth hidden / cara91-35]
+#Message#
+\."...Sara, she..."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: sceneswitch2}
+#Message#
+\."She signed the consent form..."
+##
+
+{Keiji}
+#Message#
+\."...!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent21-1}
+#Message#
+\."She was brought here by someone's wish..."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Put into a desperate situation for someone's sake..."
+##
+
+[Ranmaru: Hand on face, looking to side / cara91-31]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And at last... she signed the invitation."
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\."Keiji..."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: sceneswitch2}
+#Message#
+\."Are you the one who \C[2]brought Sara here\C[0]...?"
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+#Choice#
+Why me?
+Unthinkable
+##
+
+<なぜオレが？>
+
+{Keiji} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent40-1}
+#Message#
+"Why would it be me...?"
+##
+
+<ありえない>
+
+{Keiji} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent40-1}
+#Message#
+"That's unthinkable... No way I'd do that..."
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\.".........."
+##
+
+{Keiji}
+{SE: Accent42-1}
+#Message#
+\."Ranmaru... This is just jealousy."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."You just want to be the closest to her,
+ the one who protects her... isn't that right?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."No...! I don't matter in this!!"
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\."I just want to help Sara...!"
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You can't be that person..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Not you, as a doll... or me, as a murderer."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."...!!"
+##
+
+[Ranmaru: Hand on face, looking down fearfully / cara91-30]
+#Message#
+\."'Course I know that...!!"
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Now come on... Hand over \N[4]'s head...!"
+##
+
+<Else>
+
+[Ranmaru: Hands in pockets, wide eyes, mouth open / cara91-28]
+#Message#
+\."So what?!"
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."You think you can save Sara...?!"
+##
+
+[Ranmaru: Hands in pockets, raised-eyebrows smile / cara91-25]
+#Message#
+\."I can do it!!
+ I'll save her from this damn Death Game...!"
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...You can't."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, wide eyes, mouth open / cara91-28]
+#Message#
+\."Shut up...!"
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, clenched teeth, grim look / cara91-26]
+#Message#
+\."Come on... Hand over \N[4]'s head already!"
+##
+
+<Condition End>
+
+{Keiji}
+{SE: sceneswitch2}
+#Message#
+\."Wait! Somebody's coming...!"
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side / cara91-31]
+#Message#
+\."...!!"
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hide!"
+##
+
+{Sara} [Sara: Serious look / cara0-31]
+{SE: Accent28-1}
+#Message#
+"Keiji...?"
+##
+
+[Sara: Hands on hips, groan / cara0-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...There's no one here..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\C[6](W-Why'd Sara come here...?!)
+##
+
+{Keiji}
+#Message#
+\.\C[6](What are you planning?!)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\.\C[6](..........)
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\.\C[3]Ranmaru held out his left hand.
+##
+
+{Keiji}
+#Message#
+\C[4](Ugh...!)
+##
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+"W-What's this?!"
+##
+
+[Sara: Disturbed / cara0-4]
+#Message#
+\."Keiji...?! Are you there?!"
+##
+
+{Keiji}
+#Message#
+\."Don't come here, Sara...!"
+##
+
+{Sara}
+#Message#
+"That voice... It's you, isn't it, Keiji?!"
+##
+
+{Keiji}
+#Message#
+"...Stay away..."
+##
+
+{Sara}
+#Message#
+"Are you the one who called for me...?!"
+##
+
+{Keiji}
+#Message#
+"...Listen to me..."
+##
+
+{Sara}
+#Message#
+"If you survived... then why...!"
+##
+
+{Keiji}
+#Message#
+"Don't come over here!! Sara!!"
+##
+
+{Sara}
+#Message#
+"Aaah...!!"
+##
+
+{Keiji}
+#Message#
+\C[4](Wha...?)
+##
+
+#Message#
+"Sara!!"
+##
+
+#Message#
+"Stay with us! Sara!!"
+##
+
+{Sara}
+#Message#
+".........."
+##
+
+{Keiji}
+#Message#
+"Sara...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru}
+{SE: horror_piano chord3}
+#Message#
+"...Time to lock you away."
+##
+
+<Else>
+
+{SE: horror_piano chord3}
+#Message#
+"...Time to lock you away."
+##
+
+#Message#
+\.\C[10]"I'll deal with you last..."
+##
+
+<Condition End>
+

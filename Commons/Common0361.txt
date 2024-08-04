@@ -1,0 +1,19 @@
+**********Common361********** (1章後編までの　ジョー)
+[Joe: Default / cara1-11]
+#Message#
+Jou Tazuna
+Protagonist Sara's classmate.
+A cheerful and agreeable best friend.
+##
+
+#Message#
+\.He clumsily tried to assist Sara after learning of her
+stalker. Sara's lone acquaintance in the Death Game.
+##
+
+#Message#
+\.His fate was sealed by drawing the \C[10]Sacrifice card\C[0].
+At the end of the Main Game, he left the remark
+"all of you must be good people," then perished.
+##
+

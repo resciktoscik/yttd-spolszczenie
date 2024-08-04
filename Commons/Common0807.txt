@@ -1,0 +1,89 @@
+**********Common807********** (ｷﾞﾝ「ｼﾞｮｰは本名」)
+{Gin}
+#Message#
+"If big bro Joe was using a fake name,
+ big sis Sara would figure out right away, meow!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"What, meow?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Big sis Sara! Say something back, woof!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent21-1}
+#Message#
+"Big sis Sara!
+ Is big bro Joe his real name, woof?"
+##
+
+{Sara}
+#Message#
+\."Of course it is."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Good, meow!"
+##
+

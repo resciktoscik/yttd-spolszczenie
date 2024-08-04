@@ -1,0 +1,386 @@
+**********Common1479********** (戦⑤意味なし行動)
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+"It's no use...!
+ He's too fast for Kanna to keep up!"
+##
+
+[Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+\."We need to work together more...!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]Kurumada stopped Kanna.
+##
+
+{Kanna} [Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+"W... What are you doing?!"
+##
+
+{Kurumada} [Kurumada: Angry, clenched teeth / cara95-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Nothin' else I can do, right?"
+##
+
+{Kanna} [Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+\."Stop! If we lose, Keiji will...!!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]Keiji stumbled and fell.
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."Keiji, do your best...!
+ Please, don't give in!!"
+##
+
+[Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."I don't want anyone else to be sacrificed...!!"
+##
+
+{Kurumada} [Kurumada: Angry, clenched teeth / cara95-9]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+"*pant*...! *pant*...! He's so nimble!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Ahahah! How fun, Shin!
+ Try harder!"
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."Dammit! I can't catch him alone...!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]Kurumada stopped Sou.
+##
+
+{Sou}
+#Message#
+\."L-Let go!! Don't interfere...!!!"
+##
+
+{Kurumada} [Kurumada: Angry, clenched teeth / cara95-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Shaddup!! I don't really wanna do this either...!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."Grr! You...!!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]Keiji stumbled and fell.
+##
+
+{Sou}
+#Message#
+\."Stand up, Keiji!!
+ You have to beat \N[4]!!"
+##
+
+{Kurumada} [Kurumada: Angry, clenched teeth / cara95-9]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Found it, woof...! Use this, meow!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a broken shovel.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](No... This is no use as a weapon!!)
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Mmmgh! I'll look for something better, meow!"
+##
+
+#Message#
+"Meowww?!
+ I can't find the torch anywhere, woof!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ahaha, did you intend to burn me with it?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Don't bluff, seaweed-head!!
+ All creatures are weak to fire, meow!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."...I'm a doll, Gin."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Mya?!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]Hinako stopped him.
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Meowwwww?! Don't interfere, shorty!!"
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I can't let you kill \N[4]..."
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+[Hinako: Furrowed brow / cara93-9]
+{SE: sceneswitch2}
+#Message#
+\."Are you fine with "suit-and-specs" dying...?"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."...!!"
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."..."
+##
+
+<Else>
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."That guy... shouldn't even exist, meow!!"
+##
+
+<Condition End>
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]The bullet went flying off in the wrong direction.
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"Hinako!! What are you doing?!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."I won't give in...!
+ I can't let you kill \N[4]!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."...!!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+{SE: sceneswitch2}
+#Message#
+\sp[15]"...U... gh... hurkkk..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji threw up from sheer pain.
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"Keiji...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Ahaha! Do your best to conquer your trauma!"
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Take aim just like you did then!
+ Go for it! Go for it!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."Gah... ugh...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji collapsed, and dropped the gun on the floor.
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"...!!"
+##
+
+{N/A}
+#Message#
+\C[3]\N[4] quickly kicked away the fallen gun.
+##
+
+{Reko}
+#Message#
+"Ah...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Careful, careful!
+ I gave that to Keiji. Not to you."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Grahhh!! Where'd you kick that?!
+ Gotta find it...!"
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]The bullet went flying off in the wrong direction.
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"H-Hey!! Hinako...!!
+ What are you doing?!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."I won't give in...!
+ I can't let you kill \N[4]!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Guh...!!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+{SE: sceneswitch2}
+#Message#
+\sp[15]"...U... gh... hurkkk..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji threw up from sheer pain.
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"E-Ehh?! What's happened to you?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Ahaha, you fired once, didn't you?!
+ Trauma conquered!"
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Take aim just like you did then!
+ Go for it! Go for it!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."Gah... ugh...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji collapsed, and dropped the gun on the floor.
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Tch...!! How can you talk of his trauma?!"
+##
+
+{N/A}
+#Message#
+\C[3]\N[4] quickly kicked away the fallen gun.
+##
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+"Why, you...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Careful, careful!
+ I gave that to Keiji. Not to you."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."I have to find it!! Where did it get to?!"
+##
+

@@ -1,0 +1,245 @@
+=====Map21===== (Darkness Door)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"What an imposing atmosphere..."
+##
+
+#Message#
+\."That red lamp is eerie.
+ Don't think I have the courage to enter that door..."
+##
+
+-----Page2-----
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+"It's dark..."
+##
+
+#Message#
+\."That room... Let's check it out, Sara."
+##
+
+
+**********Event3********** (doa) (8,4)
+-----Page1-----
+#Message#
+\C[3]It's unlocked...
+##
+
+#Message#
+\C[3]It's unlocked...
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Whoa! It's not locked..."
+##
+
+#Message#
+\."W-What should we do, miss Sara...?
+ ...Are we going in?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Ahh, good..."
+##
+
+<Choice End>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Here goes...!"
+##
+
+-----Page2-----
+{Joe} [Joe: Default / cara1-11]
+#Message#
+"The door gives me a bad feeling..."
+##
+
+#Message#
+\."You going, Sara?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+"Better not..."
+##
+
+<Choice End>
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+"Open 'er up...!"
+##
+
+-----Page3-----
+#Message#
+\C[3]It's unlocked...
+##
+
+
+**********Event4********** (ダーツ) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fancy dart.
+It's extremely solidly-made.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event5********** (シガーカッター) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar cutter.
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Event6********** (はまき) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar with high-quality wrapping.
+##
+
+
+**********Event7********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event8********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event9********** (ダミー団) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Dummy bullets. I have 6. If you pull the trigger
+with these, it'll only make a sound.
+##
+
+
+**********Event10********** (あたり) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Live bullets. I have 3.
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Event11********** (１０００) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A 1000-yen bill.
+Paper money usable in Japan.
+##
+
+
+**********Event17********** (akari) (8,2)
+-----Page1-----
+#Message#
+\C[3]A red lamp eerily illuminates the door.
+##
+

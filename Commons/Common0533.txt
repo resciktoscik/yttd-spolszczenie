@@ -1,0 +1,116 @@
+**********Common533********** (ｶﾝﾅ「いつどこで替？」)
+{Kanna}
+#Message#
+"For a short period, wearing the same makeup as Reko
+ could make your face similar enough..."
+##
+
+#Message#
+"If this Reko is a fake... When are you saying
+ she was switched with the real Reko...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"Urgh... That... um... might not be relevant..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Ooh... umm... I don't really know..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Doing a precise imitation...
+ would be hard without a photo, but..."
+##
+
+#Message#
+\."There were photos of everyone on
+ the backs of the monitors in the Monitor Room, so..."
+##
+
+{SE: Accent28-1}
+#Message#
+"Sure, if it was for a short time...
+ then maybe she wouldn't be exposed."
+##
+
+#Message#
+\."Reko wears makeup, after all..."
+##
+
+#Message#
+\."By wearing the same makeup...
+ you could have a similar face."
+##
+
+#Message#
+\."...But all she did was go to Mishima
+ to get information, right...?"
+##
+
+#Message#
+\."Was there a need to wear a disguise for that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](True... How necessary would that be?)
+##
+

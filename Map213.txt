@@ -1,0 +1,32 @@
+=====Map213===== (■Waiting Room Section A)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+{SE: Accent11-1}
+#Message#
+\C[3]This is as far as the story currently goes.
+Save your progress?
+##
+
+#Choice#
+Save
+Don't
+##
+
+<記録する>
+
+<しない>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Thank you for playing!
+##
+
+-----Page3-----
+#Message#
+
+##
+

@@ -1,0 +1,86 @@
+**********Common324********** (ダメージ時イベント)
+{Sara}
+#Message#
+"Agh...!! Is this it for me...?!"
+##
+
+{Keiji}
+#Message#
+\."Okie-dokie, leave the rest to Mr. Policeman."
+##
+
+{Q-taro}
+#Message#
+\."Leave it ta me now!"
+##
+
+{Gin}
+#Message#
+\."Don't be mean to big sis Sara, woof!!
+ I'm mad, meow!!"
+##
+
+{Keiji}
+#Message#
+"Wahaha... Seems... it's no good..."
+##
+
+{Sara}
+#Message#
+\."N-No... Keiji...!"
+##
+
+{Q-taro}
+#Message#
+"They got me... good..."
+##
+
+{Sara}
+#Message#
+\."Q... Q-taro...!"
+##
+
+{Gin}
+#Message#
+"It hurts, meow... I'm scared, woof..."
+##
+
+{Sara}
+#Message#
+\."Gin! Hold... on...!"
+##
+
+{Keiji}
+#Message#
+"Sorry... Mr. Policeman... couldn't do anything..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Q-taro}
+#Message#
+"Sorry... Sara... At least... save yerself..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+"G... Gin... Hey..."
+##
+
+{Gin}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."No... no..."
+##
+

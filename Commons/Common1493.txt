@@ -1,0 +1,17 @@
+**********Common1493********** (⑥ハヤサカB選択)
+{N/A}
+#Message#
+"All right... I'll observe her behavior!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

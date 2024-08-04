@@ -1,0 +1,8 @@
+**********Common957********** ()
+#Message#
+\>[Number of Trades Possible]\<
+\>Sara:   \C[2]0\C[0]         Keiji: ?          Kanna: ?\<
+\>Q-taro: ?         Sou:   ?          Reko:  ?
+\>Nao:    ?         Gin:   \C[2]0\C[0]          Alice: ?\<
+##
+

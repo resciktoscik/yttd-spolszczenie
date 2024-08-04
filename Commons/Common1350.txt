@@ -1,0 +1,81 @@
+**********Common1350********** (30、間違いどす)
+{Sara}
+#Message#
+\C[4](This "Infirmary" nameplate...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think it was
+ just a nameplate like I remember, meow."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."This nameplate got stolen once, woof!
+ The case of the stolen infirmary, meow!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](I'm curious about the culprit's motives...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This box on top of the shelves...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Yes... It's a medicine box.
+ I was given it so I could treat small wounds myself."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Mwahaha... In prison, wounds don't heal up easy.
+ Like sprained fingers..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Sprained fingers...)
+##
+
+<やめる>
+
+<Choice End>
+

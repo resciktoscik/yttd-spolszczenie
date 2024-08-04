@@ -1,0 +1,206 @@
+**********Common1342********** (22、間違いどす)
+{Sara}
+#Message#
+\C[4](This flower bed...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Just a regular flower bed, right?"
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."Sometimes I find myself starin'. Feels better
+ than looking at inorganic buildings and stuff."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](I hear greenery is good for your eyes...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This right monitor on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Huh... You're curious?
+ Well, it's just a monitor..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."But having monitors in front of me
+ and to the side makes my neck sore."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](He seems somehow proud of that...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This shelf with a first-aid kit on it...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think it just had a first-aid kit
+ and stuff in it like I remember, meow."
+##
+
+[Gin: Smile, hands in front / cara9-5]
+#Message#
+\."Whenever I got hurt, the doctor lady always knew
+ what was just the best to give me rest, woof!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Truly blessed...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This square plate on the shelf...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ It just looked like a fancy decoration."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."There was a space to eat in the shop.
+ So they had plates, too."
+##
+
+#Message#
+\."Kanna only ever ate on the spot...
+ err, bought things to take home, though..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](What's wrong with eating right away...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This towel hanging on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's a towel with my favorite design."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Stripes are wonderful, Sara Chidouin...
+ They make both body and mind stripey..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](I don't entirely get it...)
+##
+
+<やめる>
+
+<Choice End>
+

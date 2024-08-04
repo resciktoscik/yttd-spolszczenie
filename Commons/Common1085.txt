@@ -1,0 +1,49 @@
+**********Common1085********** (■指摘イベント)
+{Sara}
+#Message#
+\.\C[4](Here it is...!)
+##
+
+{SE: Accent21-1}
+#Message#
+"It has the exact same layout as Floor 4,
+ but there's no center room on Floor 5..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"Maybe... it's just not drawn on here."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."It's possible! What'd be the point
+ of having such a similar layout otherwise?"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: Accent21-1}
+#Message#
+\."Hmph... A good theory.
+ That seems like just the thing
+ these puzzle-loving people would do..."
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Left arm down, default smile / cara2-10]
+#Message#
+\."If it's the same layout as Floor 4,
+ there's only one room that'd connect to the center."
+##
+
+{Sara}
+{SE: flash-of-light-3}
+#Message#
+\."The library...!"
+##
+

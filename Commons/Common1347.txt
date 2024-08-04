@@ -1,0 +1,81 @@
+**********Common1347********** (27、間違いどす)
+{Sara}
+#Message#
+\C[4](The nameplate on the table...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think it was just the nameplate
+ for the infirmary like I remember, meow."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."It's kinda cool, woof. I want one, meow!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](To play make-believe, I guess...?
+ Anyway, guess there's nothing suspicious here.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This part like an air vent...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's just a vent."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Planning escape through here would put you in the
+ basement. Of course, my muscular body wouldn't fit..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](He's bragging...)
+##
+
+<やめる>
+
+<Choice End>
+

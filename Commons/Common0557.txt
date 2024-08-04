@@ -1,0 +1,93 @@
+**********Common557********** (ﾅｵ「ﾐｼﾏは完璧」)
+{Nao}
+#Message#
+"It's true, Professor Mishima's AI was perfect...
+ I could imagine it was the real professor there..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I... don't really understand!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Nao}
+#Message#
+"I... don't really understand!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Is that related to something...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+"But... It's also true that the professor and I
+ had only known each other for about 4 years."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."It's possible I didn't notice
+ some slight differences from the real one..."
+##
+

@@ -1,0 +1,87 @@
+**********Common652********** (ｹｲｼﾞ「ﾛﾋﾞｰにいた」)
+{Keiji}
+#Message#
+"Your friendly policeman stayed in the lobby
+ for a little while."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"A present from you, Sara...? I'm glad."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Hmm... Gotta say, I'm at a loss..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"People came by the lobby now and then,
+ so I can verify their alibis."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Any other questions, cute little detective?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's kinda in high spirits...)
+##
+

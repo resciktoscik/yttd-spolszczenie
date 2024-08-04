@@ -1,0 +1,12 @@
+**********Common1629********** (3rdﾒｲﾝ◆サラの行動)
+#Choice#
+Save game
+Cancel
+##
+
+<セーブをする>
+
+<やめる>
+
+<Choice End>
+

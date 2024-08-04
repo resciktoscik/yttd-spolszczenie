@@ -1,0 +1,82 @@
+**********Common1751********** (◆ｱﾘｽ)
+{Alice}
+#Message#
+"\N[4] should be in the coffin that
+ Hinako was originally in!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Your intentions aren't clear at all!!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"There must be something!
+ Like it's a little cocoa-colored, say!"
+##
+
+#Message#
+"There must be something!
+ Like it's a little cocoa-colored, say!"
+##
+
+{Sara}
+#Message#
+\."I've been observing them the whole time, and no..."
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Nwooooh...!!"
+##
+

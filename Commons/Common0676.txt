@@ -1,0 +1,99 @@
+**********Common676********** (ｱﾘｽ「ｿｳなし」)
+{Alice}
+#Message#
+"...Sou should be left out.
+ He did say he had the \C[10]Sacrifice\C[0] at the start..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"You are mistaken, Sara Chidouin!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Don't pick a fight with me, if you please!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"His suspicious actions have had a purpose."
+##
+
+[Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."By earning hate and losing trust,
+ he's been gathering votes toward himself!"
+##
+
+[Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+\."So it's best we simply leave him out
+ and have him sit in the corner of the room."
+##
+
+{Sara}
+#Message#
+\."If he's the \C[10]Sacrifice\C[0], he can vote twice for himself,
+ though, so he'll end up being selected..."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."Indeed?! Oh, how nasty!!"
+##
+

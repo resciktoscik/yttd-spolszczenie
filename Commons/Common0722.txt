@@ -1,0 +1,391 @@
+**********Common722********** (⑥進展●交換は５回)
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+\."Muscle gorilla! That's wrong, meow!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."W-What?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There were \C[2]five\C[0] trades, woof!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."F... Five...?!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."W-Wait, uhh...
+ By my memory, there were three trades..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Then I heard there was one
+ just before the Main Game..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Ah, I get it...
+ You misunderstood, Q-taro."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."There were two trades while you were out."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Whaaat?! That don't make no sense!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."That's our line, meow!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."S-Sorry...
+ But nobody's givin' me an explanation..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Ahh, well, that's on us."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hey, Q-taro... When was it that you
+ passed Sara the \C[10]Sacrifice\C[0] card?"
+##
+
+#Message#
+\."Actually, did you have \C[10]Sacrifice\C[0] from the start?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Cubetaro Hamburger, when was it you passed
+ Sara Chidouin the \C[10]Sacrifice\C[0] card?"
+##
+
+[Alice: Angry shout / cara11-8]
+#Message#
+\."In fact, did you have the \C[10]Sacrifice\C[0] to start...?!"
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+\."Nah... That ain't it."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent21-1}
+#Message#
+\."The first card I had... was \C[5]Commoner\C[0]."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."I get it...
+ That tells me most of the trades."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Wha?! I don't have a clue, woof!! Why's that, meow?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: sceneswitch2}
+#Message#
+\."Because your friendly policeman made \C[6]the first trade\C[0]."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."For real?! Who'd you trade what?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."What did you say?! Who'd you trade with, and what?!"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I gave Sara the \C[2]Keymaster\C[0]."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Eh...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Then what card did Sara start with?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I have no reason to lie, but...)
+##
+
+#Choice#
+I was a \C[5]Commoner\C[0]
+I won't say
+##
+
+<\C[5]平民\C[0]だった>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+\."At first... I was a \C[5]Commoner\C[0]."
+##
+
+<言わない>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That's a secret!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Err... Sara... You weren't nominated.
+ Keeping secrets now is a little troubling..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."I'll go ahead and say it for you.
+ Sara started with a \C[4]Commoner\C[0] card."
+##
+
+{Sara}
+#Message#
+\.\C[4](My privacy...!!)
+##
+
+<Choice End>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."You traded \C[2]Keymaster\C[0] for \C[5]Commoner\C[0], meow?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And I deepened our trust doing it."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Let's do a little sort-out."
+##
+
+#Message#
+\."In the \C[6]first trade\C[0]..."
+##
+
+#Message#
+\."I passed the \C[2]Keymaster\C[0] into Sara's hands."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."In the \C[6]second trade\C[0]... Hmm, what got traded?"
+##
+
+#Choice#
+Someone's \C[10]Sacrifice\C[0] and Q-taro's \C[5]Commoner\C[0]
+Sara's \C[5]Commoner\C[0] and Q-taro's \C[10]Sacrifice\C[0]
+Please tell me
+##
+
+<誰かの\C[10]身代\C[0]　と　Qタロウの\C[5]平民\C[0]>
+
+<サラの\C[5]平民\C[0]　と　Qタロウの\C[10]身代\C[0]>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hmm... That's not it, Sara."
+##
+
+<教えてください>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Wahaha... So skilled with the puppy-dog eyes."
+##
+
+<Choice End>
+
+{Keiji} [Q-taro: Smile with closed fist / cara4-4]
+{SE: Accent28-1}
+#Message#
+"Exactly..."
+##
+
+#Message#
+"Considering the order of things..."
+##
+
+#Message#
+"Considering the order of things..."
+##
+
+#Message#
+"Someone's \C[10]Sacrifice\C[0]
+ was swapped with Q-taro's \C[4]Commoner\C[0]."
+##
+
+[Sara: Default / cara0-2]
+#Message#
+\."And in the \C[6]third trade\C[0]..."
+##
+
+#Message#
+\."Sara's \C[2]Keymaster\C[0] and Q-taro's \C[10]Sacrifice\C[0] were swapped."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Yep, that's what it'd mean..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Muscle gorilla!
+ Tell us everything you can remember, meow!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."We're gonna have you tell us
+ all the details of \C[2]the third trade\C[0]...!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."You have an obligation to properly
+ explain to us \C[2]the third trade\C[0]...!"
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Urk..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+<Condition End>
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"At the time of the \C[6]third trade\C[0],
+ I was searching the first floor alone, meow!
+ So I wanna know the situation, woof!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"The \C[6]third trade\C[0] happened
+ while everyone was sharing the laptop...!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"I shall tell you. \C[6]The third trade\C[0]
+ occurred when everyone was sharing the laptop..."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\C[4](These trades... I'd better keep them
+ sorted out in my head, too.)
+##
+
+{N/A}
+#Message#
+\C[3]You can now sort out the details of the trades.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

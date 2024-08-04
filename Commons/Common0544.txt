@@ -1,0 +1,41 @@
+**********Common544********** (ほかん)
+{Nao}
+#Message#
+\."There's no time to hesitate!!
+ We can't save Gin unless we drop the fake there!!"
+##
+
+{Alice}
+#Message#
+\."Nao! Are you... trying to frame me...?"
+##
+
+#Message#
+\."That there is the real Reko!!
+ If she were a fake wearing a disguise...
+ I, her brother, would know!!"
+##
+
+#Message#
+\."Nao! Are you... trying to frame me...?"
+##
+
+{Kanna}
+#Message#
+\."If this Reko is a fake... When are you saying
+ she was switched with the real Reko...?"
+##
+
+{Sou}
+#Message#
+\."Someone could only have taken Reko's place
+ when she was alone... Was there any such time?"
+##
+
+{Keiji}
+#Message#
+\."...And plus, not only all of us...
+ even Ranger and Safalin are present here.
+ There's nobody left who could disguise themselves."
+##
+

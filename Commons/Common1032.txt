@@ -1,0 +1,18 @@
+**********Common1032********** (①ランマルB選択)
+{N/A}
+#Message#
+"O... Okay, got it! I'll hide in the darkness
+ and try to trip it! Good plan, right?"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

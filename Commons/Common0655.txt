@@ -1,0 +1,119 @@
+**********Common655********** (ｿｳ「ﾅｵに会った」)
+{Sou}
+#Message#
+"Pretty amazing it could knock out Q-taro...
+ Stun guns are dangerous stuff."
+##
+
+#Message#
+"I wasn't feeling well and ran to the bathroom...
+ I talked with miss Nao on the way back."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...How does this relate?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...Is that statement relevant somehow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"It's a shame his precious time
+ got wasted just like that."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Sou... Why do you know that...?)
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+"Specifically, we talked about our hacking plan.
+ Kanna came to deliver the laptop during our chat."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."I thought about having Kanna join the plan,
+ but she promptly went off somewhere."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."That's my alibi, pretty much."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: Accent28-1}
+#Message#
+\."Pretty amazing it could knock out Q-taro...
+ Stun guns are dangerous stuff."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Huh? That statement just now...)
+##
+

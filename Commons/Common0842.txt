@@ -1,0 +1,548 @@
+**********Common842********** (⑲進展●「身代」)
+{Sara} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent21-1}
+#Message#
+\."Nao..."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Y-Yes...?"
+##
+
+{Sara}
+{SE: Thunder10}
+#Message#
+\."You have the \C[10]Sacrifice\C[0], don't you?"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Huh...?!"
+##
+
+{Sara}
+#Message#
+\."This roster lists the names of the "candidates,"
+ those who are qualified for victory."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Even Shin Tsukimi, with his 0% chance
+ to actually win, is listed!"
+##
+
+#Message#
+\."But, Nao... Out of us survivors,
+ your name is the only one missing!!"
+##
+
+#Message#
+\."And in the Monitor Room, too...
+ There was no AI of you!"
+##
+
+#Message#
+\."No... There didn't exist a Nao AI to begin with!!"
+##
+
+[Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."Because you were an \C[2]outsider\C[0] who didn't meet
+ the qualifications to be a candidate...!"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."...!!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And so Gashu tried to kill you!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."He sent the \C[10]Sacrifice\C[0],
+ with its high risk of death, to Nao!"
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\."This was your transgression, Gashu!!"
+##
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+#Message#
+\."..."
+##
+
+[Gashu: Furrowed brow / cara16-4]
+#Message#
+\.".........."
+##
+
+[Gashu: Eyes closed / cara16-5]
+#Message#
+\."..............."
+##
+
+[Gashu: Default / cara16-1]
+{SE: Accent21-1}
+#Message#
+\."...Ahaha..."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\.\{"Hahahahahahahahahahahahahahaha..."\.\^
+##
+
+[Gashu: Head tilt / cara16-6]
+#Message#
+\."Fantastic!! Simply fantastic!!"\.\^
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."Well done, Ms. Sara!!
+ Such overwhelming mindpower! Such imagination!!"\.\^
+##
+
+[Gashu: Head tilt / cara16-6]
+#Message#
+\."And all of your cooperation!! Your unity!!"\.\^
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."You solved it!! You solved Gashu's shoddy quiz!!"\.\^
+##
+
+[Gashu: Head tilt / cara16-6]
+#Message#
+\."Yes indeed!! You are the chosen one!!!!"\.
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\.\C[4](It's... over...)
+##
+
+{N/A}
+#Message#
+\.\C[3]All the energy's leaving me...
+##
+
+#Message#
+\.\C[3]Our long, long discussion...
+##
+
+#Message#
+\.\C[3]And at the end, we earned it.
+##
+
+#Message#
+\.\C[3]Victory...
+##
+
+#Message#
+\.\C[3]A moment's survival.
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent21-1}
+#Message#
+\."I'm sorry, everyone..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."I kept quiet about the \C[10]Sacrifice\C[0] the whole time..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."When I thought about what would happen if we weren't
+ able to expose him... I just couldn't say it...!!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+It's not your fault
+It's entirely reasonable
+I wish you'd have been brave
+##
+
+<ナオさんは悪くない>
+
+{Sara} [Nao: Closed tired tearful eyes / cara7-18]
+{SE: Accent28-1}
+#Message#
+\."It's not your fault, Nao."
+##
+
+#Message#
+\."All the fault... lies with Gashu!!"
+##
+
+<仕方がない事です>
+
+{Sara} [Nao: Closed tired tearful eyes / cara7-18]
+{SE: Accent28-1}
+#Message#
+\."...It's entirely reasonable.
+ I might have done the same thing in your situation."
+##
+
+{Nao}
+#Message#
+\."I'm... sorry..."
+##
+
+{Sara}
+#Message#
+\."Please, stop it!
+ All the fault... lies with Gashu!!"
+##
+
+<勇気を出してほしかったです>
+
+{Sara} [Nao: Closed tired tearful eyes / cara7-18]
+{SE: Accent28-1}
+#Message#
+\."Even so, Nao...
+ I wish you'd have been brave."
+##
+
+{Nao}
+#Message#
+\."I'm... sorry..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."Nao ain't at fault!
+ It's Gashu who's the most evil here!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Hey! Quit blaming Nao!!
+ We should be blaming Gashu, right?!"
+##
+
+<Condition End>
+
+<Choice End>
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Answer me, Gashu. "Candidates"... this Death Game...
+ What's all of it mean?"
+##
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+#Message#
+\."..."
+##
+
+[Gashu: Furrowed brow / cara16-4]
+#Message#
+\."I will say but one thing..."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: Accent28-1}
+#Message#
+\."Everyone, have you ever harbored doubts
+ about \C[2]your upbringing\C[0]?"\.
+##
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+\."Eh...?!"
+##
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+{SE: sceneswitch2}
+#Message#
+\."That... is my first and last hint for you."
+##
+
+{Sara}
+#Message#
+\."...Last?"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Ms. Sara Chidouin..."
+##
+
+[Gashu: Eyes closed / cara16-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...You have overlooked something important
+ about the Floor Master's code."
+##
+
+{Sara}
+#Message#
+\."About the code...?"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."It is written clearly..."
+##
+
+{Rules} [Gashu: Mouth open / cara16-2]
+{SE: Accent28-1}
+#Message#
+\.\C[5][4] If there is misconduct during the Main Game,
+    it either \C[2]proceeds with the transgressor's death\C[5],
+    or must be retried 24 hours later!
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."...Huh...?"
+##
+
+{Gashu}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And I promised you that
+ I would fulfill my duty as per the code."
+##
+
+[Gashu: Gun to head / cara16-14]
+{SE: shock1}
+#Message#
+\."If I take responsibility on my life...
+ then the Main Game shall \C[2]continue\C[0]."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Y-You're kidding...?! Stop...!!"
+##
+
+{Gashu} [Gashu: Gun to head, smile / cara16-16]
+#Message#
+\."Everyone... Please earn victory."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Q-taro}
+#Message#
+"No way!! This is...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko}
+#Message#
+"He offed himself...! Gashu!!"
+##
+
+<Else>
+
+{Alice}
+#Message#
+"Foolish!! Suicide...?!"
+##
+
+<Condition End>
+
+{Kanna}
+#Message#
+"No... Nooo...!!"
+##
+
+{Sou}
+#Message#
+\."This is impossible!! It should be over...!!
+ Why... why this...?!"
+##
+
+{Nao}
+#Message#
+"Ahh... ahhhhh..."
+##
+
+{Keiji}
+{SE: sceneswitch2}
+#Message#
+"He was going to do this from the start...?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Why?!)
+##
+
+#Message#
+\.\C[4](For just a day's extension,
+ we hung on stubbornly and put our lives on the line!)
+##
+
+{SE: feed1}
+#Message#
+\.\C[4](And yet... Gashu casually threw away his life!!)
+##
+
+{SE: Damage4}
+#Message#
+\.\C[4](He easily... shot down our hope!!)
+##
+
+#Message#
+\.\C[4](Who could be capable of such a thing?!
+ He's a demon...!)
+##
+
+{SE: Damage4}
+#Message#
+\.\C[4](A demon!!)
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."This shouldn't have..."
+##
+
+{Sara}
+#Message#
+\."Safalin...!"
+##
+
+#Message#
+\."Please!! It's an emergency, right?!
+ Suspend the Main Game...!!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."I can't do that... I can only act as a substitute."
+##
+
+{Nao} [Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."N... No... You're really going to continue?!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."T-This is... all within the rules!
+ If I refuse, everyone will die!!"
+##
+
+{Nao} [Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."This isn't right...! This isn't right at all!!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."I'm begging you! It doesn't have to be 24 hours...
+ At least let us retry...!!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."I'm sorry..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."I'll do anything!! Anything... just, please...!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."I'm sorry... I'm sorry..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Ahh... hh...!!"
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."Oooogh... aaaaahhhhh...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Nao... is the \C[10]Sacrifice\C[3].
+##
+
+#Message#
+\.\C[3]No one will vote for her.
+##
+
+{Sara}
+#Message#
+\.\C[4](And...)
+##
+
+#Message#
+\.\C[4](We need to choose, too...)
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: sceneswitch2}
+#Message#
+\.\C[4](One of the \C[5]Commoners\C[4]... Sou, or Kanna...)
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+"Nao's the \C[10]Sacrifice\C[0]... I'm the \C[2]Keymaster\C[0]...
+ We can only vote for Sou or Kanna..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+".........."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+"I guess... it's clear who you'll vote for..."
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+"...Ooh... oogh... oooh..."
+##
+

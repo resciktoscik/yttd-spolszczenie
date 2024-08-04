@@ -1,0 +1,92 @@
+**********Common201********** (ﾅｵ「隠れてました」)
+{Nao}
+#Message#
+"The whole time... I just sat and held the profess...
+ The box! I didn't move an inch!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Um... So what about that...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+"W... What are you trying to say...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll try talking to Keiji first...)
+##
+
+{Nao}
+#Message#
+"W... What are you trying to say...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll try talking to Keiji first...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+"Sitting in the dark...
+ I asked him questions again and again..."
+##
+
+[Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."Even though... I wouldn't get an answer..."
+##
+

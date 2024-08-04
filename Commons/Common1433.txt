@@ -1,0 +1,18 @@
+**********Common1433********** (③マイB選択)
+{N/A}
+#Message#
+"Err... Should we light the fireworks?
+ Would it be dangerous to play with fire here...?"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

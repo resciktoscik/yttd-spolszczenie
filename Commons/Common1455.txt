@@ -1,0 +1,23 @@
+**********Common1455********** (⑤サラB選択)
+{N/A}
+#Message#
+\C[4](What should I do...?)
+##
+
+#Choice#
+Observe situation
+Save game
+Let time pass
+Cancel
+##
+
+<今の状況を確認する>
+
+<セーブをする>
+
+<何もせず時間を進める>
+
+<やめる>
+
+<Choice End>
+

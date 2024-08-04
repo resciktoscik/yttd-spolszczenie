@@ -1,0 +1,608 @@
+=====Map142===== (❹Cafeteria)
+
+**********Event1********** (deguti) (10,5)
+-----Page1-----
+#Message#
+\.\C[3]There's something on the table.
+##
+
+{Sara}
+#Message#
+\.\C[4](A key...?)
+##
+
+#Message#
+\.\C[4](This wasn't here before, was it?
+ Maybe I shouldn't go touching it...)
+##
+
+#Choice#
+Take the key
+Cancel
+##
+
+<カギを取る>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Key With Tag.
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Not good! Someone's coming from the central hall...!"
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+#Choice#
+Let's hide in the kitchen
+We have to find Gin
+##
+
+<調理室に隠れましょう>
+
+{Sara} [Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Let's go back to the kitchen and hide!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Okie-dokie..."
+##
+
+#Message#
+\."They're close... Keep quiet."
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't know who you are... but don't notice us...!)
+##
+
+<ギンを見つけないと>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."We... We have to find Gin!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\.".........."
+##
+
+[Keiji: Stern / cara2-3]
+#Message#
+\."...Sorry, Sara."
+##
+
+{Sara}
+{SE: down3}
+#Message#
+\."Huh...? Gyahh!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji picked me up under his arm
+and moved me into the kitchen.
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."They're close... Keep quiet."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh! Gin...!)
+##
+
+<Choice End>
+
+{N/A} [Keiji: Looking to side / cara2-4]
+#Message#
+\.\C[3]The footsteps stopped near the door.
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."I see two."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](One of them is... Miley?)
+##
+
+{N/A}
+#Message#
+\.\C[3]I can hear them talking quietly.
+##
+
+{Miley?}
+#Message#
+"Did you let them escape...?"
+##
+
+{???}
+#Message#
+"I apologize..."
+##
+
+#Message#
+\."...? The key that was here is..."
+##
+
+{Miley?}
+#Message#
+"Gone...?
+ *sigh*... Seriously, give it up."
+##
+
+{???}
+#Message#
+".........."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](Is Gin... safe?)
+##
+
+#Message#
+\.\C[4](Who could the other person be...?)
+##
+
+{Miley?}
+#Message#
+"Listen, don't let Gashu have his way."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."He's trying to destroy the Death Game."
+##
+
+{Sara}
+#Message#
+\C[4](Wha...?!)
+##
+
+{???}
+#Message#
+"...I understand..."
+##
+
+{Miley?}
+{SE: Accent21-1}
+#Message#
+"The Monitor Room should have
+ a \C[2]surveillance mode\C[0], correct?"
+##
+
+#Message#
+\."Connect the \C[2]blue wire\C[0],
+ and keep a careful eye on Gashu."
+##
+
+{???}
+#Message#
+"W-Why do you know about...?"
+##
+
+{Miley?}
+#Message#
+"And one more thing."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You must retrieve \C[2]the chip in Ranger's head\C[0]."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."That chip can destroy this place's security.
+ It's a menace."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Destroy... the security...?)
+##
+
+{???}
+#Message#
+"Please be quiet...!
+ What if someone heard you?"
+##
+
+{Miley?}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Eheehee...
+ Then things would get quite fun, I suppose."
+##
+
+{???}
+#Message#
+"...?"
+##
+
+{Miley?}
+#Message#
+"Oh, and..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Wha...?! The tablet?! This is not the time!!)
+##
+
+{???}
+#Message#
+\."Who's there?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](We have to run!!)
+##
+
+#Message#
+\."*pant*...! *pant*...!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."Whew... That was a close call..."
+##
+
+{Sara}
+#Message#
+\."But Gin is still...!"
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."It didn't look like those two
+ had captured him, at least."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...!)
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."...Let's think about what we can do."
+##
+
+{Sara}
+#Message#
+\."What we can do...?"
+##
+
+#Choice#
+Summarize that conversation
+Check our roles
+##
+
+<２人組の会話をまとめる>
+
+{Sara} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Those two mentioned some very interesting things..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Yep. Something about \C[2]a chip in Ranger's head\C[0]..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."Plus \C[2]a surveillance mode in the Monitor Room\C[0]..."
+##
+
+{Sara}
+#Message#
+\."I don't know what sort of functionality it has..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But if we could watch
+ the security cameras on all the floors...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Sounds loads better than sneaking
+ back onto the first floor and getting caught."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Okay, Sara, let's roll."
+##
+
+{Sara}
+#Message#
+\."...Before that."
+##
+
+#Message#
+\."Just briefly, we should check our cards."
+##
+
+#Message#
+\."That annoying noise earlier signaled a trade..."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Ah, right.
+ Someone's cards must've gotten traded."
+##
+
+{Tablet} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[3]...
+##
+
+#Message#
+\.\C[3]The second trade was performed 4 minutes ago.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm... still the \C[2]Keymaster\C[4]...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...And I'm still a Commoner."
+##
+
+{Sara}
+#Message#
+\.\C[4](So it was between people other than us...)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Glad it didn't add any extra complications.
+ Now let's go to the Monitor Room."
+##
+
+<カードの役職を確認する>
+
+{Sara} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Our priority should be to check our roles."
+##
+
+#Message#
+\."That annoying noise earlier signaled a trade...!"
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Ah, right.
+ Someone's cards must've gotten traded."
+##
+
+#Message#
+\.\C[4](We just have to look...!)
+##
+
+{Tablet} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[3]...
+##
+
+#Message#
+\.\C[3]The second trade was performed 4 minutes ago.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm... still the \C[2]Keymaster\C[4]...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...And I'm still a Commoner."
+##
+
+{Sara}
+#Message#
+\.\C[4](So it was between people other than us...)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Glad it didn't add any extra complications.
+ Okay, now about that conversation we overheard."
+##
+
+{Sara}
+#Message#
+\."Those two mentioned some very interesting things..."
+##
+
+{Keiji}
+{SE: sceneswitch2}
+#Message#
+\."Yep. Something about \C[2]a chip in Ranger's head\C[0]..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."Plus \C[2]a surveillance mode in the Monitor Room\C[0]..."
+##
+
+{Sara}
+#Message#
+\."I don't know what sort of functionality it has..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But if we could watch
+ the security cameras on all the floors...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Sounds loads better than sneaking
+ back onto the first floor and getting caught."
+##
+
+{Sara}
+#Message#
+\."Let's go!"
+##
+
+<Choice End>
+
+
+**********Event2********** (okuoku) (13,2)
+-----Page1-----
+#Message#
+\C[3]This way is the back of the cafeteria.
+##
+
+#Choice#
+Proceed to the back
+Cancel
+##
+
+<奥に進む>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event3********** (tyoudoa) (5,2)
+-----Page1-----
+#Message#
+\C[3]This door leads to the kitchen.
+##
+
+#Choice#
+Enter the kitchen
+Cancel
+##
+
+<調理室へ入る>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event5********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event6********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event7********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event8********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event9********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event10********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event12********** (situ) (1,2)
+-----Page1-----
+#Message#
+\C[3]I can see the kitchen through the glass.
+##
+
+
+**********Event36********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

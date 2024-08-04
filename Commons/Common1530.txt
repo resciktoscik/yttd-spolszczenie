@@ -1,0 +1,220 @@
+**********Common1530********** (戦⑦怯えたAIへ)
+{N/A}
+#Message#
+\C[3]But it was already destroyed, so there's no response.
+##
+
+{Sara}
+#Message#
+\.\C[4](That's on me for giving the order...!)
+##
+
+{Frightened AI}
+{SE: sceneswitch2}
+#Message#
+"Waaaaaugh!! No, don't do that...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The water went inside the body, consuming energy.
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent40-1}
+#Message#
+"I had no other choice, meow..."
+##
+
+{Frightened AI}
+{SE: sceneswitch2}
+#Message#
+"Eek!! You're kidding...?! Stop..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent40-1}
+#Message#
+"...Why'd it come to this?"
+##
+
+{Frightened AI}
+{SE: sceneswitch2}
+#Message#
+"Eek!! You're kidding...?! Stop..."
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent40-1}
+#Message#
+"I'm sorry...! But I had to do it...!"
+##
+
+{Frightened AI}
+#Message#
+"Then tell me a way to resolve this!!
+ Because I can't think of one...!"
+##
+
+{Kanna} [Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+"Sou...!!"
+##
+
+{Frightened AI}
+#Message#
+"I know... I don't want to use violence either!"
+##
+
+#Message#
+\."But I can't possibly think of anything!
+ Except for all of us or all of you to die...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Frightened AI responded strongly, consuming energy.
+##
+
+{Kanna}
+{SE: Accent40-1}
+#Message#
+"Kanna has to save Sou...!!"
+##
+
+{Frightened AI}
+#Message#
+"Then tell me a way to resolve this!!
+ Because I can't think of one...!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+"...Dammit..."
+##
+
+{Frightened AI}
+#Message#
+"I know... I don't want to use violence either!"
+##
+
+{Frightened AI}
+#Message#
+\."But I can't possibly think of anything!
+ Except for all of us or all of you to die...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Frightened AI responded strongly, consuming energy.
+##
+
+{Sou}
+{SE: Accent40-1}
+#Message#
+"Tormenting an AI of myself... Doesn't feel good."
+##
+
+{Frightened AI}
+#Message#
+"Then is there a way we can be saved?!
+ Tell me...!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+"I mean...!"
+##
+
+{Frightened AI}
+#Message#
+"N-No way! I can't fight...! I'm scared!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"No good... He's just afraid of us,
+ so nothin's gonna happen..."
+##
+
+{Frightened AI}
+#Message#
+"N-No way! I can't fight...! I'm scared!!"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"You say that as if we aren't!
+ Do you not see my legs trembling...?"
+##
+
+{Frightened AI}
+#Message#
+"Even if we understand each other... we know the answer
+ already, right? What can we do except fight...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"T-This guy's clever..."
+##
+
+{Frightened AI}
+#Message#
+"O... Oogh... I can't escape anywhere..."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"Seems pointless to frighten him any more..."
+##
+
+{Frightened AI}
+#Message#
+"Eek...! That's scary!!
+ I can't do this!!"
+##
+
+#Message#
+\."Let me go...! Somebody save me from thisssss!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Frightened AI responded strongly, consuming energy.
+##
+
+{Hinako} [Hinako: Sad eyes / cara93-7]
+{SE: Accent40-1}
+#Message#
+"It went well... but I don't feel good about it..."
+##
+
+{Frightened AI}
+#Message#
+"This is serious...! How can you say things like that
+ in this situation?!"
+##
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+"S-Sooorry! I didn't think it throoough!!"
+##
+
+{Frightened AI}
+#Message#
+"Apologizing... You mean you're sorry
+ that you have to forsake me?! Hey...!!"
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+"N-No, that wasn't my intention! Urk...!!"
+##
+

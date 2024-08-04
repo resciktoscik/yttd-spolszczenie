@@ -1,0 +1,23 @@
+**********Common184********** (ｼﾞｮｰ 八分雨？)
+[Joe: Default / cara1-11]
+#Message#
+\C[3]Select Joe as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Joe: Default / cara1-11]
+#Message#
+\.\C[4](No! Joe is Jou Tazuna!
+ What am I doing getting my best friend's name wrong?!)
+##
+
+<いいえ>
+
+<Choice End>
+

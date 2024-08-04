@@ -1,0 +1,67 @@
+**********Common1660********** (◆ﾏｲ「2人のﾋﾂｷﾞも？」)
+{Mai}
+#Message#
+"Hey, do you think there's a difference between
+ Gin and \N[4]'s coffins and the rest...?"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"...Eh? Could you explain that to me?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"...Eh? Could you explain that to me?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+#Message#
+"Maybe they were stored differently from
+ the coffins in the cemetery, for instance..."
+##
+

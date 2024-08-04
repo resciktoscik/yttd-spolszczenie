@@ -1,0 +1,136 @@
+**********Common509********** (ﾚｺ「重い物はない」)
+{Reko}
+#Message#
+"Gaaaaah!! Is there no way to save him?!"
+##
+
+#Message#
+"Something heavy enough to use...
+ There's nothin' on this platform, is there?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"There ain't anything left we can do...!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"Dammit! God dammit!!"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."I don't care... I'll destroy these LCDs
+ and these walls barehanded...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Reko kicks the wall, but it doesn't budge.
+##
+
+{Reko}
+#Message#
+\."Then that floor tile!
+ If we break it apart and drop it all down..."
+##
+
+{Sara}
+#Message#
+\."I really doubt it would be 35.3 kilograms..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Then... then...!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Gaaaaah!! Is there no way to save him?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](No, there's just one way...)
+##
+
+#Message#
+\.\C[4](But... it's the worst possible...)
+##
+

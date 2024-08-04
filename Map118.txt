@@ -1,0 +1,231 @@
+=====Map118===== (★Fake Corridor)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Don't come after me, Sara!!"
+##
+
+{Sara}
+#Message#
+\."Why would you do that...?!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."This is between me and Alice!!"
+##
+
+{Sara}
+#Message#
+\."But...!"
+##
+
+#Choice#
+That went too far
+Was that how you really feel?
+##
+
+<アレは やりすぎです>
+
+{Sara} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Alice got that treasure for you...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Shut the hell up...!"
+##
+
+{Sara}
+#Message#
+\."Wasn't it a bond between you two?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."A bond?! As if...!
+ It was a shackle...! A chain connecting me to him!!"
+##
+
+<本心だったんですか？>
+
+{Sara} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Was that really how you feel...?!"
+##
+
+{Reko}
+#Message#
+\."That's right, I've always kept it in!
+ The resentment I wouldn't let out on him...!!"
+##
+
+{Sara}
+#Message#
+\."Then why did you treasure the bongos until now?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Hell if I know!! I just couldn't toss 'em!"
+##
+
+<Choice End>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Reko...!!"
+##
+
+{Reko}
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I didn't want you to see this, Sara."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."I admit I lost my cool.
+ But listen, this is our problem...!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I didn't do that 'cause I wanted to...!!"
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Don't look at me anymore..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent21-1}
+#Message#
+\."I'm not gonna... be able to look you in the eye..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{N/A}
+#Message#
+\.\C[3]It hurts.
+##
+
+#Message#
+\.\C[3]I can't imagine Reko truly hates him.
+##
+
+#Message#
+\.\C[3]But I couldn't do anything for their relationship.
+##
+
+{Sara}
+#Message#
+\."...I'll leave."
+##
+
+#Message#
+\."I'm... very sorry..."
+##
+
+{N/A}
+{SE: asioto3}
+#Message#
+\.\C[3]I left the hallway, disappointed.
+##
+
+{Reko}
+{SE: Accent21-1}
+#Message#
+\."...Hey, Sara."
+##
+
+{N/A}
+#Message#
+\.\C[3]I heard a feeble voice behind me.
+##
+
+{Reko}
+#Message#
+\."...Do you hate me now...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+I do
+Of course not
+##
+
+<嫌いになった>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: sceneswitch2}
+#Message#
+\."...Yes."
+##
+
+{Reko}
+#Message#
+\."...I see."
+##
+
+{SE: Accent28-1}
+#Message#
+\."I... trust you, you know...
+ For real..."
+##
+
+<そんなことはない>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent28-1}
+#Message#
+\."...No. It's because I like you
+ that I can't turn a blind eye."
+##
+
+{Reko}
+#Message#
+\."...I see."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I... trust you too, you know...
+ For real..."
+##
+
+<Choice End>
+
+{N/A} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.\C[3]Hearing Reko's voice on the verge of tears,
+I couldn't bring myself to turn around.
+##
+

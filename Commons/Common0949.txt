@@ -1,0 +1,78 @@
+**********Common949********** (■整理コマンド)
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Sara}
+#Message#
+\C[4](Okay... Let's get all this straight.)
+##
+
+#Message#
+\.\C[4](The top row of this table
+ is what cards everyone had to start with.)
+##
+
+#Message#
+\.\C[4](Those further to the right had more tokens to spend.
+ ...In broad strokes, at least.)
+##
+
+#Message#
+\.\C[4](The next row is what cards everyone had
+ \C[6]after the first trade\C[4].)
+##
+
+#Message#
+\.\C[4](Below that is \C[6]after the second trade\C[4]...
+ \C[6]after the third trade\C[4]... and so on and so forth.)
+##
+
+#Message#
+\.\C[4](The bottom row is \C[6]after the fifth trade\C[4]...
+ In other words, the roles they ended up with.)
+##
+
+#Message#
+\.\C[4](Of course, this is all guesswork...
+ I'll rework it if new information comes up.)
+##
+

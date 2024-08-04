@@ -1,0 +1,426 @@
+**********Common251********** (⑫進展●ジョーは賢者)
+{Sara}
+#Message#
+"Gin... could you tell me that again?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+"Err... Before the preliminary vote, big bro Joe said
+ "if you pick Sara, it'll be a massacre," woof."
+##
+
+{Sara}
+#Message#
+\."Joe, what did you say about your role?"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Huh? Well, I said I wouldn't say it."
+##
+
+{Sara}
+#Message#
+\."You corrected "who cares" into "I won't say.""
+##
+
+{Joe} [Joe: Folded arms wondering / cara1-17]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."\C[2]A role you won't say\C[0]... It's like that, is it?"
+##
+
+{Joe} [Joe: Sweating bullets, forced smile / cara1-19]
+#Message#
+\."...H-Hold on a second, Sara."
+##
+
+[Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+\."There's... no time! We shouldn't be arguing, right?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I... be saying this out loud?)
+##
+
+#Message#
+\.\C[4](The outcomes that result in a massacre...
+ In other words, everyone being killed...)
+##
+
+#Message#
+\.\C[4](It's when either the \C[2]Keymaster\C[4] or the \C[10]Sacrifice\C[4]
+ is chosen as the victim.)
+##
+
+#Message#
+\.\C[4](And... there's only one role capable of identifying
+ one of those... of identifying the \C[2]Keymaster\C[4]...)
+##
+
+#Message#
+\.\C[4](Yes... A role that shouldn't be exposed...)
+##
+
+#Message#
+\.\C[4](Will I... expose it myself...?)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Joe is the Sage
+Say nothing
+##
+
+<ジョーは賢者だ>
+
+{Sara} [Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+\."Joe is..."
+##
+
+{Joe} [Joe: Sweating bullets, forced smile / cara1-19]
+#Message#
+\."...Sara..."
+##
+
+{Sara}
+#Message#
+\."Joe is... the Sage...!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...!!!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I see... So that's how it is..."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."What's the meaning of this?! Following that logic,
+ Sara, don't you have to be the \C[2]Keymaster\C[0]?!"
+##
+
+#Message#
+\."If... that's the case, Sara...
+ You sold him out!! So you could survive!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."That's wrong!!"
+##
+
+#Message#
+\."Sara... is trying to save everyone!
+ She isn't someone who just thinks for herself!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."H-Hey, all that...
+ Tha's just a strong possibility, right...?!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Joe! You won't admit it, will ya...?!"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+{SE: Accent28-1}
+#Message#
+\."...Guess it's come to this."
+##
+
+[Joe: Furrowed brow / cara1-15]
+{SE: flash-of-light-3}
+#Message#
+\."But! I don't plan on dyin'!!"
+##
+
+<何も言わない>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\C[4](No... I can't say it!!)
+##
+
+#Message#
+\.\C[4](Because if Joe is exposed as the Sage...
+ He'll be voted for!!)
+##
+
+#Message#
+\.\C[4](I can't... I can't do that!!)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I get what you're trying to say."
+##
+
+{Sara}
+#Message#
+\."Keiji...!!"
+##
+
+#Message#
+\."P-Please, wait!! You're wrong!!
+ I just had it wrong, so..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Joe was the \C[3]Sage\C[0], everybody."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ah...)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...!!!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Joe saw Sara was the \C[2]Keymaster\C[0].
+ That's why he was convinced of a massacre."
+##
+
+#Message#
+\."'Course, it's just a strong possibility...
+ But can you refute it?"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I..."
+##
+
+[Joe: Sweating bullets, forced smile / cara1-19]
+{SE: Accent21-1}
+#Message#
+\."Guess I can't keep a secret after all."
+##
+
+{Sara}
+#Message#
+\."Joe!! Wait...!!"
+##
+
+#Message#
+\.\C[4](This is awful... W-Why...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."But you aren't giving up yet, are you?"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."'Course not!!"
+##
+
+<Choice End>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Everyone!! You gotta promise me!!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."W-What do you mean?!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."I'm the Sage! I did a divination!
+ But I haven't clearly said what the result was!"
+##
+
+[Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Because... \C[2]the \C[3]Sage\C[2] can't lie about the results\C[0]."
+##
+
+[Joe: Furrowed brow / cara1-15]
+{SE: flash-of-light-3}
+#Message#
+\."I'm going to say... who the \C[2]Keymaster\C[0] is!!"
+##
+
+#Message#
+\."In exchange, I want you to not vote for me!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I'm on board!! Now tell us their name!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Their name... is...!"
+##
+
+{Sara} [Joe: Serious look / cara1-14]
+#Message#
+\.\C[4](Joe...?)
+##
+
+#Message#
+\.\C[4](W... Why do I feel so uneasy...?)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+{SE: Accent28-1}
+#Message#
+\."Sara, of course!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Joe...!)
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Alriiight!! Now we look for the Sacrifice
+ between Sou, Kanna, and Kai..."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."Um..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm... the Sage."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Meow?!"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+{SE: Accent21-1}
+#Message#
+\."My reading was... that Sou was the \C[2]Keymaster\C[0]."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."H... Hey..."
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+{SE: sceneswitch2}
+#Message#
+\."No, no, I am the Sage.
+ Miss Sara was the \C[2]Keymaster\C[0]."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."My head's spinning, wooooof!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Eheehee. 8 minutes to go, everyone. Ahaha."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Okay, quit giving statements, you five.
+ We're going to discuss this amongst ourselves first."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Hurry! We've got no time!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Sou and Kanna are working together.
+ ...I've got no doubt."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."K-Keiji!!
+ There ain't no way Kanna is up to no good!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Kanna's... being used by the beanie guy!
+ He's gonna cast her aside! Don't you dare pick her!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+\."I got it, woof!"
+##
+
+#Message#
+\."Long-haired apron guy said his role last,
+ so he's suspicious, meow! Definitely lying, woof!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I was about to believe Joe earlier...
+ But is he really the \C[3]Sage\C[0]?!"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."We... We can't possibly find the answer
+ in this little time!"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Ghh...! It pains me, but as Sou or Sara
+ could potentially be the \C[2]Keymaster\C[0],
+ we shouldn't vote for them...!"
+##
+

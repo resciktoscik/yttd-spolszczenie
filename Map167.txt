@@ -1,0 +1,1919 @@
+=====Map167===== (❹Miley's Room)
+
+**********Event1********** (hoemi) (14,8)
+-----Page1-----
+#Message#
+\.\C[3]There's some... thing here.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](It's almost... like a person...)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."A person...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Just as Keiji reached out his hand...
+##
+
+{Sara}
+#Message#
+\C[4](Huh?! The lights...!)
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This is Miley...!"
+##
+
+{Sara}
+#Message#
+\."K-Keiji! Get away...!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."No..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+\."Not alive... is it?"
+##
+
+{Sara}
+#Message#
+\."Huh?!"
+##
+
+#Message#
+\.\C[4](What does he mean...?!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."It's just a powerless doll.
+ Not moving an inch."
+##
+
+{Sara}
+#Message#
+\."You mean..."
+##
+
+#Choice#
+Miley broke down?
+She's out of power?
+She's not the real one?
+##
+
+<ホエミーが壊れた？>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."Did Sue Miley, the Laughing Doll, break down...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."No, I don't mean that..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."This is the Miley we first met."
+##
+
+<電池切れ？>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Did Miley run out of power and stop moving...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."No, I don't mean that..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."This is the Miley we first met."
+##
+
+<本物ではない？>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Wait a second."
+##
+
+#Message#
+\."She called herself the Laughing Doll, Sue Miley...
+ But she must be human."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Why'd you figure that?"
+##
+
+{Sara}
+#Message#
+\."...Think back on what's happened so far."
+##
+
+[Ranger: Looking up at hole in forehead / cara18-9]
+#Message#
+\."\C[2]Dolls don't bleed\C[0]...
+ The doll Ranger proved this fact with his own body."
+##
+
+#Message#
+\."And..."
+##
+
+[Miley: Angry, bleeding / cara14-5]
+#Message#
+\."When Miley was struck by Kai, she was \C[2]bleeding\C[0]."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."That's why... I figured Miley was probably human..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Wahaha... Great memory, Sara.
+ You're exactly right."
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."This doll is probably the Miley we first met."
+##
+
+<Choice End>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."First...?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."After the 11 of us came together..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Our first mission was to search for
+ the scattered parts of Miley's body, wasn't it?"
+##
+
+{Sara}
+#Message#
+\."Come to think of it...
+ We searched for the parts, then assembled her."
+##
+
+#Message#
+\.\C[4](And after a white gas filled the room...
+ Miley suddenly started to move.)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](A white... gas?)
+##
+
+#Message#
+\.\C[4](That's right, the room that filled with gas
+ is connected to this room by the ventilation...!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's when the human Miley swapped herself in."
+##
+
+{Sara}
+#Message#
+\.\C[4](So that's what happened...!)
+##
+
+#Message#
+\.\C[4](So the real Miley is separate from this doll...!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."If you retrace your memories, you should realize it."
+##
+
+[Ranger: Looking up at hole in forehead / cara18-9]
+#Message#
+\."\C[2]Dolls don't bleed\C[0]...
+ Ranger, the doll, proved this fact with his body."
+##
+
+#Message#
+\."And..."
+##
+
+[Miley: Angry, bleeding / cara14-5]
+#Message#
+\."Miley \C[2]bled\C[0] when Kai attacked her..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."All starting to line up, isn't it?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Bet this room still hides some interesting truths."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Let's keep searching."
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder if Miley is still on this floor somewhere...)
+##
+
+-----Page2-----
+#Message#
+\.\C[3]The Miley doll is sitting down.
+##
+
+
+**********Event2********** (pasokon) (9,4)
+-----Page1-----
+#Message#
+\C[3]A glowing computer screen.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](What...? There's some video playing...)
+##
+
+{Man in Video}
+#Message#
+\."Hey! Help me!! Please!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](It's...!)
+##
+
+{Man in Video}
+#Message#
+\."I didn't know!! I didn't know anything!!"
+##
+
+#Message#
+\."You're listening there, aren't you?!
+ Help meeeee...!!"
+##
+
+{Keiji}
+#Message#
+\."What's going on over there?!
+ Can you hear us?"
+##
+
+{Man in Video}
+#Message#
+\."Hey! Say something back!!
+ I won't tell anyone...!! I promise!!"
+##
+
+{Keiji}
+#Message#
+\."...?"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Is this a video recording...?"
+##
+
+{Man in Video}
+#Message#
+\."Why... why is all this necessary?!"
+##
+
+#Message#
+\."I thought it was decided!! She...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](She...?)
+##
+
+{Man in Video}
+#Message#
+\."I've got no qualms!!
+ I just want to live in peace...!!"
+##
+
+#Message#
+\."...Ooghhh..."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."Don't tell me..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Were we all gathered for her sake...?"
+##
+
+#Message#
+\."..."
+##
+
+{SE: shock1}
+#Message#
+\."Sara... Chidouin..."
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+{Man in Video}
+#Message#
+\."Damn yooou...!! I'll kill you!!"
+##
+
+#Message#
+\."All you organization members...
+ And Sara Chidouin..."
+##
+
+#Message#
+\."I'll curse your name from hellllllllll!!"
+##
+
+{Keiji}
+#Message#
+"Don't look, Sara...!!"
+##
+
+{Man in Video}
+#Message#
+\."\sp[15]AAAAAAAAAAAAAAAaaaaaaaaaahhh!!!!"\|\^
+##
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\."...No...!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...This is probably footage of
+ a person who died in the First Trial..."
+##
+
+{Sara}
+#Message#
+\."U-Um, I...!!"
+##
+
+#Choice#
+I don't know this person
+I have no idea what's going on
+I'm innocent
+##
+
+<こんな人 知らない>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I don't know this person!!
+ I've never seen his face...!!"
+##
+
+<何がなんだかわからない>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I have no idea what's going on...!!
+ This... this video...!!"
+##
+
+<潔白です>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I... I'm innocent!!"
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent21-1}
+#Message#
+\."But... He said your name..."
+##
+
+{Sara}
+#Message#
+\."I don't know why...!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Sara..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You might just have an intimate connection
+ to this Death Game."
+##
+
+{Sara}
+#Message#
+\."No way...!!"
+##
+
+#Message#
+\."But... I really...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]It's no use.
+The more I say... the more suspicious I look.
+##
+
+#Message#
+\.\C[3]Just... what am I...?
+##
+
+{Sara}
+#Message#
+\."Please believe me, Keiji...!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."How amusing..."
+##
+
+{Sara}
+#Message#
+\."Um...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Are you going to be our goddess of victory...
+ or our angel of death?"
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: sceneswitch2}
+#Message#
+\."Doesn't sound too bad to bet my life on that."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Your... life...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hm? That's been my plan for a while now."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Can I trust my life to you, Sara?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+I understand
+That's a heavy burden
+##
+
+<わかりました>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"I understand. I'll take your life in my hands, Keiji."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."Now there's the partner I know."
+##
+
+<荷が重い>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+"That's... a heavy burden for me."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...Too bad."
+##
+
+<Choice End>
+
+{Sara} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."..."
+##
+
+#Message#
+\."What if..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."What if I am an angel of death...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Let's see now..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+\."...Would you die along with me?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Fine by me
+I don't intend to die
+##
+
+<いいでしょう>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...Sure thing, Keiji."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Wahaha... Well, now I won't be lonely."
+##
+
+<死ぬ気はない>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I don't intend to die."
+##
+
+{Keiji}
+#Message#
+\."...That's a good answer."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Okay, let's search around a little more."
+##
+
+{Sara}
+#Message#
+\."...Right."
+##
+
+{N/A}
+#Message#
+\.\C[3]Trust...
+##
+
+#Message#
+\.\C[3]I've... always been a bit suspicious of him.
+##
+
+#Message#
+\.\C[3]Keiji never wants to talk about himself.
+##
+
+#Message#
+\.\C[2]Ex-\C[3]detective...
+##
+
+#Message#
+\.\C[3]There must be a past he can't talk about.
+A truth he can't say.
+##
+
+#Message#
+\.\C[3]Even so, Keiji bet on me.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]Can I... bet on Keiji...?
+##
+
+{Sara}
+#Message#
+\.\C[4](I...)
+##
+
+-----Page2-----
+#Message#
+\C[3]A glowing computer screen.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](I'll put in the disk from the drawer.)
+##
+
+{N/A}
+#Message#
+\.\C[3]The computer began loading the video.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This is...!"
+##
+
+{Keiji}
+#Message#
+\."When we all first met up."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sure enough... We were being observed!)
+##
+
+{N/A} [Sou: Smile / cara5-2]
+#Message#
+\.\C[3]".........."
+##
+
+[Mishima: Default smile / cara12-1]
+#Message#
+\.\C[3]"..............."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Huh? This video doesn't have sound...)
+##
+
+{N/A} [Kai: Default / cara8-1]
+#Message#
+\.\C[3]"..."
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+\.\C[3]"..............."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Ah...)
+##
+
+{N/A} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\.\C[3]"..............."
+##
+
+[Joe: Eyes-open smile / cara1-12]
+#Message#
+\.\C[3]".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Joe...)
+##
+
+{N/A} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\.\C[3]".........."
+##
+
+[Joe: Hallucination (visible face) / cara1-25]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"...Sara..."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sara...?"
+##
+
+{Sara}
+#Message#
+\."I-I'm okay.
+ What is it?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."This video's pretty long.
+ We should probably skip to the important parts."
+##
+
+{Sara}
+#Message#
+\."You're right..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Are you prepared...?"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."You could see things you don't like."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: horror_piano chord3}
+#Message#
+\."The other sides of your allies..."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+#Message#
+\.\C[4](That's true...
+ What if some distrustful act got recorded...?)
+##
+
+#Message#
+\.\C[4](Keiji is still suspecting...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](...that there might be a traitor.)
+##
+
+#Message#
+\."..."
+##
+
+#Choice#
+I believe in everyone
+I'm prepared
+Will YOU be okay, Keiji?
+##
+
+<みんなを信じる>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent28-1}
+#Message#
+\."I believe in everyone."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Right... you sure do."
+##
+
+<覚悟はできてる>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."I'm prepared."
+##
+
+{Keiji}
+#Message#
+\."...Okie-dokie."
+##
+
+<ケイジさんこそ大丈夫？>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."You didn't do anything suspect, did you, Keiji?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Wahaha... Defiant, aren't you."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Let's watch the rest, shall we?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji began to play the rest of the video.
+##
+
+#Message#
+\.\C[3]Our actions up to this point played back.
+##
+
+#Message#
+\.\C[3]A recording from when we were all still alive.
+##
+
+#Message#
+\.\C[3]We skipped through, checking for anything suspect.
+##
+
+#Message#
+\.\C[3]And...\.
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...It's okay. Keep it going."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."...You sure are strong."
+##
+
+[Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Hm...?"
+##
+
+#Message#
+\."What? The central hall..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Someone... \C[2]placed\C[0] a card...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](It's one of the role cards
+ used in the first Main Game!)
+##
+
+#Message#
+\.\C[4](W-Who... who just placed it?)
+##
+
+{SE: shock1}
+#Message#
+\.\C[4](Q-taro...?!)
+##
+
+{Keiji}
+#Message#
+\."And now... someone picked it up!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sou...!"
+##
+
+{Keiji} [Keiji: Right hand under face, sweating / cara2-9]
+#Message#
+\."Whew... That's some unexpected footage."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."To think Q-taro was the one who
+ \C[2]set the role cards in place\C[0]..."
+##
+
+{Sara}
+#Message#
+\."H-Hold on a second!"
+##
+
+#Choice#
+Think back on earlier
+What do you mean?
+##
+
+<振り返って考えてみるべき>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."We had a discussion like this before, remember?"
+##
+
+<どういうことですか>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."What do you mean...?! I mean, as I recall..."
+##
+
+<Choice End>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The one who set up the cards should have been Sou!"
+##
+
+#Message#
+\."Sou executed a strategy in the bar
+ so he could use Kanna!"
+##
+
+#Message#
+\."He placed the \C[10]Sacrifice\C[0] card he had..."
+##
+
+#Message#
+\."Had Kanna pick it up..."
+##
+
+#Message#
+\."And traded her a \C[4]Commoner\C[0] card!
+ To put her in his debt!"
+##
+
+[Joe: Default / cara1-11]
+#Message#
+\."And then Sou had Joe pick up that \C[10]Sacrifice\C[0] card...!"
+##
+
+[Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."All of it... was a trap laid by Sou, I thought!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+\."But from what we can see in this video...
+ It's Q-taro who placed the cards first."
+##
+
+#Message#
+\."Sou just saw him and adopted it, that's all."
+##
+
+{Sara}
+#Message#
+\."No way...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Well, there's not much video left."
+##
+
+{N/A}
+#Message#
+\.\C[3]While trying to sort my head out, I pushed play.
+##
+
+[Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Sure enough, Q-taro was shown again and again,
+secretly placing cards.
+##
+
+#Message#
+\.\C[3]And Sou picked up a few of those cards...
+##
+
+#Message#
+\.\C[3]And indeed, made a trade with Kanna.\.
+##
+
+{Sara}
+#Message#
+\.\C[4](It was all true...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Some mysteries solved, others added.
+##
+
+#Message#
+\.\C[3]Keeping my hazy feelings in check,
+I let the remaining bit of video play.
+##
+
+{Sara} [Kai: Default / cara8-1]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Huh...?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Are Joe and Kai talking about something?"
+##
+
+{N/A} [Joe: Furrowed brow / cara1-15]
+#Message#
+\.\C[3]"....."
+##
+
+[Kai: Raised eyebrows / cara8-2]
+#Message#
+\.\C[3]".........."
+##
+
+[Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\.\C[3]"..."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[3]"....."
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."Such enigmatic faces...
+ Just what were those two talking one-on-one about?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Joe never told me about anything like this...!)
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](Ugh! If we could just hear their voices...!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Hmm... That's everything of note in the footage."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Sure took up some time. We should leave here soon."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."You hold onto this disk, Sara."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Okay...!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."We made some findings...
+ Now we search for Gin and work toward escape."
+##
+
+-----Page3-----
+#Message#
+\C[3]A glowing computer screen.
+##
+
+{Sara}
+#Message#
+\.\C[4](There's another \C[2]disk\C[4] I found while exploring...)
+##
+
+#Choice#
+View disk
+Cancel
+##
+
+<ディスクを見る>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+#Message#
+\C[4](Which should I view?)
+##
+
+#Choice#
+Victim E Disk
+Victim F Disk
+Cancel
+##
+
+<犠牲者Eのディスク>
+
+{Sara}
+#Message#
+"I'll watch Victim Disk E."
+##
+
+{N/A}
+#Message#
+\.\C[3]The computer began loading the video.
+##
+
+{Voice}
+#Message#
+\."Urgh..."
+##
+
+{Boy}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Dammit... This is awful..."
+##
+
+#Message#
+\."Why did this... happen to me..."
+##
+
+#Message#
+\.".........."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Is there... someone there?"
+##
+
+#Message#
+\."...There is, right...?
+ Answer me..."
+##
+
+#Message#
+\."Am I... gonna die...?"
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."Ahh, this sucks ass... Seriously...?"
+##
+
+#Message#
+\."Sure, my life was pretty boring,
+ and I didn't care about the future..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."But now...?"
+##
+
+#Message#
+\.".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ain't it strange...? It doesn't hurt at all..."
+##
+
+#Message#
+\."When I'm bleeding this much from my gut?
+ Why doesn't it hurt..."
+##
+
+#Message#
+\."Doesn't feel like... I'm really dyin'..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."Hey..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Am I... still alive...?"
+##
+
+#Message#
+\."Hey..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\.\sp[15]"..............."
+##
+
+#Message#
+\.\sp[10]"...................."\|\^
+##
+
+{N/A}
+#Message#
+\.\C[3]The video ends here.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's as if... he fell asleep at the end...)
+##
+
+{N/A}
+#Message#
+\.\C[3]He was probably a high-schooler.
+A human... about the same age as me.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Maybe... he was one of the happy ones...)
+##
+
+{N/A}
+#Message#
+\.\C[3]What am I saying?
+##
+
+#Message#
+\.\C[3]I just felt a tinge of envy, that's all.
+##
+
+#Message#
+\.\C[3]People killing each other... Allies dying...
+##
+
+#Message#
+\.\C[3]Being able to die without having to
+experience those things is happy.
+##
+
+{Sara}
+#Message#
+\.\C[4](...I'm thinking idiotic things.)
+##
+
+#Message#
+\.\C[4](For his sake, too, I...)
+##
+
+<犠牲者Fのディスク>
+
+{Sara}
+#Message#
+"I'll watch Victim Disk F."
+##
+
+{N/A}
+#Message#
+\.\C[3]The computer began loading the video.
+##
+
+{Voice}
+{SE: Damage4}
+#Message#
+\.\{"Help...!!"
+##
+
+{Woman}
+#Message#
+\."No no no...!!"
+##
+
+#Message#
+\."Whyyy...!!
+ Why does this have to happennn...?!"
+##
+
+#Message#
+\."How could I possibly know which one's right?!"
+##
+
+#Message#
+\."I can't do ittt!! I can't fire these things!!"
+##
+
+#Message#
+\."*sniff*..."
+##
+
+{SE: Paralyze1}
+#Message#
+\."...?!
+ Oww...!!"
+##
+
+#Message#
+\."W-What?! The collar's... tightening...!!"
+##
+
+#Message#
+\."Stop ittt! I can't breathe...!!"
+##
+
+#Message#
+\."I'll fire...!! So stop it!!"
+##
+
+#Message#
+\."Oo..."
+##
+
+#Message#
+\."Oooo...!"
+##
+
+#Message#
+\."Ooogh... oooghhh!!"
+##
+
+#Message#
+"AAAAAAAAAAAAAaaaaa...!!!!"\|\^
+##
+
+{N/A}
+#Message#
+\.\C[3]The video ends here.
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh!! Is this from the First Trial, too...?!)
+##
+
+#Message#
+\.\C[4](It's just too cruel...!!
+ How could you think up such a thing?!)
+##
+
+{N/A}
+#Message#
+\.\C[3]I thought I knew entirely well.
+##
+
+#Message#
+\.\C[3]That our enemies were practically demons.
+##
+
+{Sara}
+#Message#
+\.\C[4](Even so... being shown this...)
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Can we escape...?
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]From demons who make us do things like this...?
+##
+
+{Sara}
+#Message#
+\.\C[4](...We'll escape them, all right!!)
+##
+
+#Message#
+\.\C[4](Her dying regrets... I'll...!)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event3********** (hikidasi) (10,7)
+-----Page1-----
+#Message#
+\.\C[3]The desk drawer is open.
+##
+
+-----Page2-----
+#Message#
+\.\C[3]There are computer disks in the drawer.
+##
+
+{Sara}
+#Message#
+\.\C[4](What are these? I'm not really sure...)
+##
+
+#Choice#
+Take a look through
+Cancel
+##
+
+<詳しく調べる>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Hm? This one has a label on it...)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained the "1F Security Camera Footage" disk.
+##
+
+{Sara}
+#Message#
+\."Security camera...?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Well now... We might've been getting filmed."
+##
+
+{Sara}
+#Message#
+\."You don't mean... the whole time...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."It's not so strange... There's too many of us
+ for just the Floor Masters to watch over."
+##
+
+{Sara}
+#Message#
+\.\C[4](When you think about it, maybe so, but...)
+##
+
+#Choice#
+Was someone here watching?
+I'm curious about the footage
+There were cameras?
+##
+
+<監視役が ここにいた？>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+"I wonder if there was an observer in this room..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...Don't see many traces of
+ there being multiple people here."
+##
+
+<映像が気になる>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+"Could we look at the footage?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Got you curious, eh?"
+##
+
+{Sara}
+#Message#
+\."...Yes."
+##
+
+<カメラなんてあった？>
+
+{Sara} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+"I never saw any security cameras
+ in all my searching so far..."
+##
+
+{Keiji}
+#Message#
+\."Could be hidden cameras.
+ ...They probably didn't want 'em getting destroyed."
+##
+
+{Sara}
+#Message#
+\."Hmm..."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."We can probably view the footage on that computer."
+##
+
+{Sara}
+#Message#
+\.\C[4](Should we watch it...?)
+##
+
+-----Page3-----
+#Message#
+\.\C[3]The contents of the drawer are a mess.
+##
+
+
+**********Event4********** (tobiran) (3,6)
+-----Page1-----
+#Message#
+\C[3]Some sort of door.
+##
+
+-----Page2-----
+#Message#
+\C[3]The door is shut fast.
+##
+
+{Sara}
+#Message#
+\.\C[4](There's no handle...
+ It probably can't be opened manually.)
+##
+
+
+**********Event5********** (dareka) (6,4)
+-----Page1-----
+#Message#
+\C[3]It seems to be a thick glass window.
+##
+
+-----Page2-----
+#Message#
+\C[3]Behind the thick glass, I can see a figure
+that appears to be sleeping.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Keiji! There's a person...!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hmm... Not showing any signs of movement."
+##
+
+{Sara}
+#Message#
+\.\C[4](Do they not notice us...?)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Can't imagine there'd be a new
+ surviving participant at this point..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](If they're an enemy...
+ We'd better not let them realize we're here!)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Well, doesn't seem to be any way
+ of getting to the other side anyhow."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Let's leave quietly once we're done searching..."
+##
+
+
+**********Event33********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event34********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event35********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event36********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A disk labeled "1F Security Camera Footag."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event37********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event38********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event40********** (tyozou) (4,3)
+-----Page1-----
+#Message#
+\C[3]It looks like a refrigerator.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's too dark to see anything...)
+##
+
+-----Page2-----
+#Message#
+\C[3]It looks like a refrigerator.
+##
+
+{Sara}
+#Message#
+\.\C[4](It won't open...)
+##
+
+
+**********Event41********** (monimo) (10,2)
+-----Page1-----
+#Message#
+\C[3]It looks like a monitor.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's too dark to see anything...)
+##
+
+-----Page2-----
+#Message#
+\C[3]The monitor isn't powered.
+##
+
+
+**********Event42********** (tukue) (7,6)
+-----Page1-----
+#Message#
+\C[3]There are things on the desk.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's too dark to see anything...)
+##
+
+-----Page2-----
+#Message#
+\C[3]Machine parts are scattered about.
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh... I feel like these are
+ similar materials to our collars...)
+##
+
+
+**********Event59********** (hontai) (11,5)
+-----Page1-----
+#Message#
+\C[3]The machine has a number of small colored lights.
+##
+
+{Sara}
+#Message#
+\.\C[4](A computer...?)
+##
+
+-----Page2-----
+#Message#
+\C[3]A computer tower.
+##
+
+{Sara}
+#Message#
+\.\C[4](Better make sure not to kick it.)
+##
+
+
+**********Event61********** (akari) (6,1)
+-----Page1-----
+#Message#
+\C[3]The lights are off.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's dark... Being a room I've never been in before,
+ I could really use some light.)
+##
+
+-----Page2-----
+#Message#
+\C[3]The light is brightening up the room.
+##
+
+{Sara}
+#Message#
+\.\C[4](Why did the lights suddenly come on...?)
+##
+
+
+**********Event66********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

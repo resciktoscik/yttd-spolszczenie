@@ -1,0 +1,89 @@
+**********Common787********** (ｹｲｼﾞ「内訳は同じ」)
+{Keiji}
+#Message#
+"There's a fundamental issue... Maybe the \C[10]Sacrifice\C[0]
+ wasn't actually sent to anybody?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"...What's the matter, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Not really helping progress, I'd say..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"So Gashu's transgression was
+ making the \C[10]Sacrifice\C[0] vanish..."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Seems unthinkable, sure...
+ But it's just one possibility."
+##
+
+[Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."There is something curious about
+ the antagonism between Gashu and Miley..."
+##
+

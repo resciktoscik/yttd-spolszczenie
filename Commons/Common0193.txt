@@ -1,0 +1,23 @@
+**********Common193********** (ｺﾞﾝﾍﾞｴ 八分雨？)
+[Alice: Default glare / cara11-1]
+#Message#
+\C[3]Select Gonbee as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+\.\C[4](No! Gonbee is Gonbee Yamada!
+ It's an old-fashioned name, so I remember it...)
+##
+
+<いいえ>
+
+<Choice End>
+

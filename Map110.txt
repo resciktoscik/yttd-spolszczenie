@@ -1,0 +1,970 @@
+=====Map110===== (Three-diot Discussion)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."That asshole...!! I knew somethin' was wrong
+ with it just ending like that!!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Ahh... Gin...! We have to do something!"
+##
+
+{Sara}
+#Message#
+\.\C[4](The LCDs have activated...!!)
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."The timer's started!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Crap!! What now?! What should we do?!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."We can't jump down from this height...!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Ain't there any way we can interfere?!"
+##
+
+{N/A}
+#Message#
+\C[3]What... can we do now...?
+##
+
+
+**********Event2********** (EV002) (3,0)
+-----Page1-----
+{Reko}
+#Message#
+\."Now I'm gonna make you admit that me,
+ right here... I'm the real Reko!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](This person... is a fake...!)
+##
+
+
+**********Event3********** (EV003) (4,0)
+-----Page1-----
+{Sara}
+#Message#
+"No, you must have been apart for
+ at least as long as Alice has been in prison!"
+##
+
+{Reko}
+#Message#
+\."That's only 2 and a half years!!"
+##
+
+{Sara}
+#Message#
+\."That's plenty of time for a person's
+ thoughts and personality to change!!"
+##
+
+#Message#
+\."And yet Alice keeps saying you're no different!
+ It's simply him who's convinced of that!!"
+##
+
+{Reko}
+#Message#
+\."Guh...!!"
+##
+
+{Sara}
+#Message#
+"That... simply isn't the case!"
+##
+
+{Reko}
+#Message#
+\."Why not?! He's my brother!!"
+##
+
+{Sara}
+#Message#
+\."Alice is a really weird person!
+ He's not convincing at all!"
+##
+
+{Reko}
+#Message#
+\."You got no proof, and ain't that rude?!
+ ...Even if I agree!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh...! That was a failure!)
+##
+
+#Message#
+"Siblings or not, I can't imagine
+ he could tell that by intuition!!"
+##
+
+{Reko}
+#Message#
+\."Intuition comes from years and years
+ of experience building up!!"
+##
+
+#Message#
+\."Can you really deny all the years
+ of my life we've been together?!"
+##
+
+{Sara}
+#Message#
+\."Urgh...!!"
+##
+
+#Message#
+\.\C[4](Siblings... I can't defeat that one!)
+##
+
+-----Page3-----
+{Sara}
+#Message#
+"Is that really true?!"
+##
+
+{Reko}
+#Message#
+\."Didn't you say so yourself earlier?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Urk...! No way of refuting that one!)
+##
+
+#Message#
+"Was it really equal?!"
+##
+
+#Message#
+\."You took most of the Clear Chips
+ we got in the Room of Lies, Reko!!"
+##
+
+#Message#
+\."And after that, did you really
+ share the Clear Chips with anyone else?!"
+##
+
+{Reko}
+#Message#
+\."W... Well...!!"
+##
+
+{Sara}
+#Message#
+\."That greed... isn't like the real Reko!!"
+##
+
+{Reko}
+#Message#
+\."Guh...!!"
+##
+
+{Sara}
+#Message#
+"T-That's inconceivable!!
+ I'm the real Sara!!"
+##
+
+{Reko}
+#Message#
+\."Then I'm the real Reko, too!!
+ 'Cause we went in the Room of Lies together!!"
+##
+
+{Sara}
+#Message#
+\."Mmgh...!!"
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+-----Page5-----
+{Sara}
+#Message#
+"No, there's a discrepancy between the wound
+ Reko got on her hand and your memory!"
+##
+
+#Message#
+\."That's exactly why even Keiji is adamant
+ about there being two Rekos!"
+##
+
+#Message#
+\."Nothing could be more important!!"
+##
+
+{Reko}
+#Message#
+\."Guh...!!"
+##
+
+{Sara}
+#Message#
+"You talked with Professor Mishima at length...
+ And yet you're going to say you were sleepy?!"
+##
+
+{Reko}
+#Message#
+\."Maybe the truth is we didn't talk that much, okay?!"
+##
+
+{Sara}
+#Message#
+\."No, Keiji testified that
+ you were talking in great detail!!"
+##
+
+{Reko}
+#Message#
+\."Guh...!!"
+##
+
+{Sara}
+#Message#
+"Then the lack of wound on your hand is bizarre!!"
+##
+
+#Message#
+\."Nao saw her hand with large fragments stuck in it!!"
+##
+
+{Reko}
+#Message#
+\."I-It'd be a scar, yeah?
+ It's not noticeable, but it's there...!"
+##
+
+{Sara}
+#Message#
+\."Where, exactly?!
+ You had perfectly smooth skin!!"
+##
+
+{Reko}
+#Message#
+\."Guh...!!"
+##
+
+-----Page7-----
+{Sara}
+#Message#
+"No, Keiji saw through Ranger's word-twisting
+ and refuted him!"
+##
+
+#Message#
+\."And Ranger was unable to clearly say
+ that there was no fake...!"
+##
+
+#Message#
+\."Shaking and vexed, he couldn't say it!!"
+##
+
+{Reko}
+#Message#
+\."Guh...!!"
+##
+
+{Sara}
+#Message#
+"That may be true...
+ But he isn't saying you're real, either!"
+##
+
+{Reko}
+#Message#
+\."That's 'cause if he did,
+ you guys wouldn't be scrambling!!"
+##
+
+#Message#
+\."Has he ever given us a hint
+ out of the kindness of his heart?!"
+##
+
+{Sara}
+#Message#
+\."I mean...!"
+##
+
+{Reko}
+#Message#
+\."That damn Ranger wants us to be anxious,
+ doubt each other, and die!! Don't trust him!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't talk back...!)
+##
+
+#Message#
+"Are you saying Ranger is intentionally being silent?!"
+##
+
+{Reko}
+#Message#
+\."Yeah, exactly!! And you're being toyed with
+ if you can't see through that!"
+##
+
+#Message#
+\."Don't tell me, Sara, are YOU the actual fake here?!"
+##
+
+{Sara}
+#Message#
+\."D-Don't make false claims!"
+##
+
+{Reko}
+#Message#
+\."Then you should stop accusing me!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](This is just turning into a quarrel!)
+##
+
+{Reko}
+#Message#
+\."Listen, even if we say somebody
+ we haven't met has replaced me as a faker..."
+##
+
+#Message#
+\."Ain't that a contradiction in itself?!"
+##
+
+-----Page9-----
+{Sara}
+#Message#
+"No! Without there being someone we haven't met,
+ the numbers don't line up!!"
+##
+
+{Reko}
+#Message#
+\."It's as simple as that! If the numbers don't line up,
+ that's 'cause there's no fake after all!"
+##
+
+{Sara}
+#Message#
+\."T-That's not necessarily...!"
+##
+
+{Reko}
+#Message#
+\."How can you consider anything else?!"
+##
+
+#Message#
+\."Besides, you heard Keiji telling us
+ that Ranger and Safalin can't lie!!"
+##
+
+{Sara}
+#Message#
+\."Urk...!"
+##
+
+#Message#
+"Wait a second!
+ There is one more person we don't see here!"
+##
+
+#Message#
+\."The person at the Prize Exchange
+ who called himself the Receptionist Doll!!"
+##
+
+{Reko}
+#Message#
+\."Huh...?! The guy with the mustache?!"
+##
+
+{Sara}
+#Message#
+\."That's right! The forgotten final person...!"
+##
+
+{Reko}
+#Message#
+\."Hold up!
+ That guy clearly ain't human, right?!"
+##
+
+#Message#
+\."He's never got any expression,
+ and he's called the damn Receptionist Doll!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Doll...?)
+##
+
+#Message#
+"If there are no new people... then maybe so!"
+##
+
+{Reko}
+#Message#
+\."Dumbass! They're completely dead!!"
+##
+
+#Message#
+\."Mishima's head came off...!!
+ How would he become a fake me?!"
+##
+
+{Sara}
+#Message#
+\."But if it were Kai... If the bleeding were stopped
+ and he was treated, he could be alive...!!"
+##
+
+{Reko}
+#Message#
+\."You're just dipping into fantasies now!
+ We saw Kai die!!"
+##
+
+{Sara}
+#Message#
+\."Urgh...!"
+##
+
+{Reko}
+#Message#
+\."Enough! It's useless to discuss this any more!"
+##
+
+{Sara}
+#Message#
+\."Are you trying to run away?!"
+##
+
+{Reko}
+#Message#
+\."No...!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But no matter how much we talk, you can't clearly
+ tell me who this fake or whatever really is!"
+##
+
+{Sara}
+#Message#
+\."Urk...!!"
+##
+
+{Reko}
+#Message#
+\."Come on... Say it already. Who am I?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](No humans we haven't met will appear...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](Humans...?)
+##
+
+#Message#
+\.\sp[12]"Why did she say... \C[2]humans\C[0]...?"
+##
+
+
+**********Event4********** (EV004) (5,0)
+-----Page2-----
+{Reko}
+#Message#
+"What's up, Sara?! Can't say anything?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page4-----
+{Reko}
+#Message#
+"What's up, Sara?! Can't say anything?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page6-----
+{Reko}
+#Message#
+"What's up, Sara?! Can't say anything?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page8-----
+{Reko}
+#Message#
+"What's up, Sara?! Can't say anything?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+
+**********Event5********** (アリスの最後) (12,0)
+-----Page1-----
+{Reko} [Reko: Hands out, running makeup, shout / cara6-18]
+#Message#
+\."Sara...!!"
+##
+
+#Message#
+\."Stop...!"
+##
+
+#Message#
+\."Forgive me...!! Saraaa...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I've pushed her to the edge.
+##
+
+#Message#
+\.\C[3]The next one will be the last.
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."*pant*...! *pant*...!"
+##
+
+{Sara}
+#Message#
+\."N... Nao..."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Whew... phew..."
+##
+
+#Message#
+\."No more..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+{SE: Accent21-1}
+#Message#
+\."You don't... have to shoulder any more, Sara...!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent28-1}
+#Message#
+\."The machine stopped...!"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Reko..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Gin! Gin!!
+ Hurry... Get the antidote...!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Just wait, Gin! Hang on!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Was she... was she really, definitely a fake...?!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Ranger!! You're not lying, are you?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Look at the corpse, you'll be able to tell!"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."As if I could look... at the corpse...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I look down from above...?
+ At the fake's body...)
+##
+
+#Choice#
+Take a look
+Don't want to look
+##
+
+<見てみる>
+
+{N/A} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\.\C[3]I looked down at the fallen Reko.
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko... oogh...)
+##
+
+{N/A}
+#Message#
+\.\C[3]She looked nothing but real to me.
+##
+
+#Message#
+\.\C[3]A human killed by impalement.
+...And an ally, at that.
+##
+
+<見たくない>
+
+{N/A} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\.\C[3]There's no way I can look.
+##
+
+#Message#
+\.\C[3]Even if she was a doll... that was Reko.
+##
+
+#Message#
+\.\C[3]...We killed her. We killed Reko.
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent28-1}
+#Message#
+\."...Look at that. She really was a doll."
+##
+
+<Choice End>
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."She's not bleeding...!"
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...I see..."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."But then... Where is the real Reko...?"
+##
+
+{Sara}
+#Message#
+\."Ranger! Where's the real..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Ranger and Safalin had already vanished.
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."The Room of Lies...!!
+ Not good! Reko!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]As Alice took off running,
+our Impression Room finally sank back to the ground.
+##
+
+{Sara}
+#Message#
+\."Gin!! Stay with us! Gin!!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Don't die, Gin!! Keiji's... bringin' an antidote!!
+ It'll be better soon!!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Gin...!!"
+##
+
+#Choice#
+Say something!
+Don't shake him
+##
+
+<返事をしろ！>
+
+{Sara} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\."Say something! Gin!!"
+##
+
+{Gin}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Big sis... Sara..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Gin...!!"
+##
+
+{Gin}
+#Message#
+\."...so... rry... meow..."
+##
+
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Gin...!! Gin!!"
+##
+
+<揺さぶっちゃダメだ>
+
+{Sara} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\C[4](I shouldn't shake him...!
+ It might make the poison spread more...)
+##
+
+{Gin}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Then... What can I do...?)
+##
+
+#Message#
+\."Gin! Open your eyes...!"
+##
+
+{Gin}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](All I can do is keep shouting...)
+##
+
+#Message#
+\."Gin...! Gin!!"
+##
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+{SE: Accent21-1}
+#Message#
+\."Sara... Let's go find Reko.
+ Gin will be fine with the antidote."
+##
+
+{Sara}
+#Message#
+\."I mean...!"
+##
+
+{Nao}
+#Message#
+\."Believe in the policeman...!
+ Reko... We're going to search for Reko!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."She's right... Keiji and me'll help Gin.
+ You get goin', Sara!!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+#Message#
+\."I... understand..."
+##
+
+{Q-taro}
+#Message#
+\."Sorry... Sara."
+##
+
+
+**********Event15********** (EV015) (16,2)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Give up on pushing her off?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[10]Will you let Gin die and save the fake?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](I... can't do it...!!)
+##
+
+#Message#
+\.\C[4](Even knowing it's not the real Reko...)
+##
+
+#Message#
+\.\C[4](I can't kill this person...!!)
+##
+
+{Reko} [Reko: Hands out, running makeup, closed teeth / cara6-17]
+#Message#
+\."Sara..."
+##
+
+[Reko: Hands out, running makeup, shout / cara6-18]
+{SE: Accent28-1}
+#Message#
+\."Thank you..."
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Sara...!!"
+##
+

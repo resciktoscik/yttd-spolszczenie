@@ -1,0 +1,343 @@
+**********Common1487********** (戦⑥前)
+{N/A}
+{SE: dash-soil1}
+#Message#
+\C[3]I ran for the door.
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Have to call for help...!"
+##
+
+{Maple}
+#Message#
+"You won't escape!! Sara...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Something black came out of Maple's back.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, wide eyes, mouth open / cara91-28]
+#Message#
+"Sara...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Pulled by Ranmaru, I barely avoided the attack.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+"Watch it! It's dangerous to
+ turn your back to her when she's mad...!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."O... Oww..."
+##
+
+{N/A}
+#Message#
+\C[3]I pounded repeatedly on the closed door.
+##
+
+{Sara}
+#Message#
+"Everyone! Help us...!!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]I can hear pounding from the other side.
+##
+
+{Sara}
+#Message#
+\.\C[4](I got through to them...!)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+"Alright... Now we have to trust
+ the guys outside will open the door for us."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: sceneswitch2}
+#Message#
+\."Meanwhile... we'll grab the ID card
+ inserted into her back!"
+##
+
+{N/A}
+#Message#
+\C[3]I tried to get behind Maple.
+##
+
+{Maple}
+#Message#
+\."Stop snooping around!! Sara!! You're mocking me!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Something black came out of Maple's back.
+##
+
+#Message#
+\.\C[3]Ranmaru threw a chair, barely averting the attack.
+##
+
+{Maple}
+#Message#
+\."Ranmaru!! So annoying!! No mercy!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+"Ugh... I'm beat..."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]I was able to easily get behind the smiling Maple.
+##
+
+{SE: Accent21-1}
+#Message#
+\C[3]I was able to easily get behind the crying Maple.
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Now! I'll take the ID card from her back...!)
+##
+
+#Message#
+"What the?! Hold on...
+ There's three buttons with different colors?!"
+##
+
+#Message#
+\.\C[4](What do I do?!)
+##
+
+#Choice#
+Push the yellow button
+Push the red button
+Push the blue button
+Pull card without pushing any
+##
+
+<黄のボタンを押す>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](The yellow button...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]The ID card popped right out.
+##
+
+{Sara}
+#Message#
+\."Alright! I got it, Ranmaru!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](The yellow button...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]But the card wouldn't come out.
+##
+
+{Sara}
+#Message#
+\.\C[4](No good! I should get away from Maple for now...!)
+##
+
+<赤のボタンを押す>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](The red button...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]But the card wouldn't come out.
+##
+
+{Sara}
+#Message#
+\.\C[4](No good! I should get away from Maple for now...!)
+##
+
+<青のボタンを押す>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](The blue button...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]The ID card popped right out.
+##
+
+{Sara}
+#Message#
+\."Alright! I got it, Ranmaru!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](The blue button...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]But the card wouldn't come out.
+##
+
+{Sara}
+#Message#
+\.\C[4](No good! I should get away from Maple for now...!)
+##
+
+<押さずにIDカードを抜く>
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\C[4](Too ominous...! Never mind these,
+ I'll just pull the card out!)
+##
+
+{N/A}
+#Message#
+\.\C[3]But the card wouldn't come out.
+##
+
+{Sara}
+#Message#
+\.\C[4](No good! I should get away from Maple for now...!)
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"Nice one!
+ Now we just have to escape somehow!"
+##
+
+{Maple}
+#Message#
+"Ooooooghhhh...!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Sara! You think it might help
+ if we read those \C[2]green books\C[0]?!"
+##
+
+#Message#
+"Sara! Remember the hints about her weakness
+ from the green books!"
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+\."\C[2]Yellow is joy, red is anger, blue is sadness\C[0]...
+ Right?"
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent28-1}
+#Message#
+\."So then... Maybe we gotta push
+ the same color button as Maple's current emotion?!"
+##
+
+{N/A}
+{SE: Evasion1}
+#Message#
+\C[3]Ranmaru just barely dodged Maple's attack!
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+"C-Close one...!"
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, clenched teeth, grim look / cara91-26]
+#Message#
+\."Hell, I already died once!
+ This ain't gonna scare me...!"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."I can't... do this anymore!
+ I can't dodge forever...!"
+##
+
+{N/A}
+#Message#
+\C[3]But Maple just stands there, smiling.
+##
+
+#Message#
+\C[3]But Maple just stands there, shedding tears.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+"W... What's goin' on?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."She's not attacking..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+#Message#
+\."I don't really get it, but...
+ Her emotions do seem kind of unstable..."
+##
+
+[Ranmaru: Hands in pockets, mouth open / cara91-15]
+{SE: Accent28-1}
+#Message#
+\."If we act while she's not pissed...
+ things might go better for us..."
+##
+
+{Sara}
+{SE: horror_piano chord3}
+#Message#
+\.\C[4](Or to put it the other way... It's dangerous
+ to turn our backs to her when she's mad...!)
+##
+

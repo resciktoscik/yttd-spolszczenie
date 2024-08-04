@@ -1,0 +1,99 @@
+**********Common819********** (Q「16人共通点」)
+{Q-taro}
+#Message#
+"We should think about
+ what the 16 on the roster have in common!!"
+##
+
+#Message#
+"If "Sou" was an alias...
+ That means there's actually 4 not listed, right?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"C... Can this really prove the transgression?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Hey! Put it easier for me!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Uhh... Common points... what's common? Urgh...!!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Can't think of any common points 'tween those four...
+ But..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+\."Maybe we can figure out somethin' in common
+ between the 16 who are on the roster?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What these 16 have in common...)
+##
+

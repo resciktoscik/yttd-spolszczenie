@@ -1,0 +1,82 @@
+**********Common784********** (ｱﾘｽ「ﾏｼﾝｴﾗｰ」)
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+{Alice}
+#Message#
+"It was machine error!
+ Maybe the tablet broke and the trade went wrong?!"
+##
+
+<Condition End>
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"What is that?! Think about it some more, would you!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Angry, gritted teeth / cara11-9]
+#Message#
+"This is the truth! The truth can be very simple!"
+##
+

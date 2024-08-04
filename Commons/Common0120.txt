@@ -1,0 +1,16 @@
+**********Common120********** (投票ミシマ)
+#Message#
+Vote for \C[2]Mishima\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

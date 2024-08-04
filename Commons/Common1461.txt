@@ -1,0 +1,18 @@
+**********Common1461********** (⑤レコB選択　２)
+{N/A}
+#Message#
+"I won't let Hinako interfere...!
+ So fire again, Keiji!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

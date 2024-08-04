@@ -1,0 +1,88 @@
+**********Common1766********** (・ｸﾙﾏﾀﾞ「ﾗﾝﾏﾙか？」)
+{Kurumada}
+#Message#
+"I got no damn clue...!
+ Is it Ranmaru or what?!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+"'Cause, y'know... he seemed pretty human, right?!"
+##
+
+[Kurumada: Damaged, mouth open / cara95-15]
+{SE: Accent21-1}
+#Message#
+\."Can't think of any reasons besides that..."
+##
+
+<Else>
+
+[Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+"I mean, he's a traitor, right?!"
+##
+
+[Kurumada: Damaged, shouting / cara95-19]
+#Message#
+\."I don't want him to be one of the Dummies, dammit!!"
+##
+
+<Condition End>
+

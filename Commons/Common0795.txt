@@ -1,0 +1,76 @@
+**********Common795********** (ｹｲｼﾞ「紙の確認」)
+{Keiji}
+#Message#
+"If you want to look closer at the roster,
+ tell Mr. Policeman and we'll look at it together."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Err... Be serious about this, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Sara... Take a deep breath and settle down."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+"Let's check it together, Sara."
+##
+

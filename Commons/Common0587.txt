@@ -1,0 +1,35 @@
+**********Common587********** (６－夜後イベント)
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent28-1}
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\."What is it, Gin?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Big sis Nao was at the Prize Exchange, meow."
+##
+
+[Gin: Worried / cara9-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."She seemed... really pale, meow.
+ I'm worried, woof."
+##
+
+{Sara}
+#Message#
+\."Got it. I'll go take a look."
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+{SE: Accent21-1}
+#Message#
+\."Thanks, meow!"
+##
+

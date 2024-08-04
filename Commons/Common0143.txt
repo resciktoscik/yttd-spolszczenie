@@ -1,0 +1,136 @@
+**********Common143********** (ギンの3種選択肢)
+#Choice#
+Was it handwritten?
+Was it a letter to someone?
+Do you have the letter?
+Cancel
+##
+
+<手書きの文字だったか？>
+
+{Sara}
+#Message#
+"This letter, or whatever it was...
+ Was it handwritten?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Err... I think so, meow."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... I wonder.
+ Should I have him add that info to the statement?)
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: Accent28-1}
+#Message#
+"So that's important, woof?
+ Got it, meow! I'll state it loud and clear, woof!"
+##
+
+<いいえ>
+
+<Choice End>
+
+<誰かに宛てた手紙だったか？>
+
+{Sara} [Gin: Smile / cara9-2]
+#Message#
+"This letter, or whatever it was...
+ Was it addressed to someone else?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Umm, so...
+ Lemme think..."
+##
+
+#Message#
+\."Hmmyaaah...
+ It felt sort of like a \C[2]list\C[0].
+ So it didn't seem like a message, meow."
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh... I wonder.
+ Should I have him add that info to the statement?)
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: Accent28-1}
+#Message#
+"So that's important, woof?
+ Got it, meow! I'll state it loud and clear, woof!"
+##
+
+<いいえ>
+
+<Choice End>
+
+<手紙を持っているか？>
+
+{Sara} [Gin: Smile / cara9-2]
+#Message#
+"If you have the actual letter on you,
+ could you show it to me?"
+##
+
+{Gin}
+#Message#
+\."Oh, yeah!
+ I have it, meow! Look at it, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What's this?!
+ It feels familiar...!)
+##
+
+#Message#
+\.\C[4](What to do...
+ Should I have him add that info to the statement?)
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: Accent28-1}
+#Message#
+"So that's important, woof?
+ Got it, meow! I'll state it loud and clear, woof!"
+##
+
+<いいえ>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

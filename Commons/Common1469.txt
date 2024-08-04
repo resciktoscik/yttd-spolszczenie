@@ -1,0 +1,18 @@
+**********Common1469********** (⑤カンナB選択３)
+{N/A}
+#Message#
+"*sniff*... Please, Keiji!
+ Find some way to tag him!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,24 @@
+**********Common1045********** (戦①弱点にトドメ)
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Phew... shouldn't be gettin' back up now."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Whew... I've done it."
+##
+
+{Hinako} [Hinako: Eyes closed / cara93-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...And that's the end."
+##
+
+{N/A}
+#Message#
+\C[10]Destroyed the monster.
+##
+

@@ -1,0 +1,247 @@
+**********Common547********** (ﾚｺ「トドメ」)
+{Reko}
+#Message#
+"I'll sing any song!! Songs from my old band,
+ and of course songs from my current band, too!!"
+##
+
+#Message#
+"What's as important to me as life itself...
+ It's you guys, my allies, of course!!
+ Don't make me say embarrassing shit, okay?!"
+##
+
+#Message#
+"If you're so stuck on that, you got proof of
+ the real and fake's personalities being different?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"What part of that is proof?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"What part of that is proof?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"What part of that is proof?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"Dammit... I dunno what's going on anymore!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"What's up?! Can't say anything, Sara?!"
+##
+
+{Sara}
+#Message#
+\."Let me ask a question...!!"
+##
+
+{Reko}
+#Message#
+\."Right! I'll answer anything...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I just need to find the difference
+ between Reko 3 years ago and Reko in the present...!)
+##
+
+#Message#
+\.\C[4](If I'm going to judge it by personality...
+ I have to ask about the thing that has
+ the most presence in Reko's life!!)
+##
+
+#Choice#
+Ask about music
+Ask about siblings
+Ask about allies
+##
+
+<音楽についての質問>
+
+{Sara} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Reko, you're a true musician
+ who's lived your life with music...!!"
+##
+
+{Reko}
+#Message#
+\."Yeah, that's right. I'm a singer-songwriter...!
+ I've walked this road since I was a kid!!"
+##
+
+{Sara}
+#Message#
+\."So what's most important to you?!"
+##
+
+{Reko}
+#Message#
+\."Don't gimme that crap, Sara...
+ What is this, an interview?!"
+##
+
+#Message#
+\."Fine, I'll be honest and tell you
+ the first thing that comes to mind!!"
+##
+
+#Message#
+\."What's as important to me as life itself...
+ It's you guys, my allies, of course!!
+ Don't make me say embarrassing shit, okay?!"
+##
+
+#Message#
+\."Of course...
+ You're really important to me too, Sara..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."Reko, you're a true musician
+ who's lived your life with music...!!"
+##
+
+{Reko}
+#Message#
+\."Yeah, that's right. I'm a singer-songwriter...!
+ I've walked this road since I was a kid!!"
+##
+
+{Sara}
+#Message#
+\."Then... You must be able to sing
+ any song you've written!!"
+##
+
+{Reko}
+#Message#
+"...Huh?"
+##
+
+#Message#
+\."...Gahaha... Hahaha!!"
+##
+
+#Message#
+\."Don't gotta shout something so goddamn obvious!!
+ You think I can only sing songs from the past
+ 'cuase I'm a fake or something?!"
+##
+
+{Sara}
+#Message#
+\."...Can you really sing them?"
+##
+
+{Reko}
+#Message#
+\."I'll sing any song!! Songs from my old band,
+ and of course songs from my current band, too!!"
+##
+
+{Sara}
+#Message#
+\."...No, that's fine.
+ I understand."
+##
+
+{Reko}
+#Message#
+\."This is proof I'm the real Reko Yabusame!
+ Got it?!"
+##
+
+<兄妹についての質問>
+
+<仲間についての質問>
+
+<Choice End>
+

@@ -1,0 +1,2470 @@
+=====Map75===== (③3F Lobby)
+
+**********Event2********** (rekotati) (10,7)
+-----Page1-----
+#Message#
+\C[3]As soon as I entered the large, bright space,
+I noticed the people there.\|
+##
+
+#Message#
+\.\C[3]Singing echoed through the room.
+##
+
+{Sara}
+#Message#
+\.\C[4](That's... Reko's voice.)
+##
+
+#Choice#
+What a pretty voice
+Such a sad song...
+##
+
+<きれいな歌声だ>
+
+{Alice}
+#Message#
+\."...Entranced by it, Sara Chidouin?"
+##
+
+[Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\."Hmph... You look awful."
+##
+
+<なんだか悲しい歌…>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."...That is Reko's idea of a requiem."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Do not impede her singing, Sara Chidouin."
+##
+
+<Choice End>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+\."...Alice..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Why're you listening in over by the wall?
+ Isn't she your sister?"
+##
+
+{Alice} [Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."How annoying! We're strangers now, I tell you!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Right... Reko and Alice were siblings, huh...)
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."..."
+##
+
+#Message#
+\."Reko... is surely singing with pure feelings
+ out of grief for the dead."
+##
+
+#Message#
+\."I don't care to introduce
+ unnecessary distraction with my presence."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Pretty conscientious for your sister, eh?"
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."...Always the provocative one, aren't you."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."...You all..."
+##
+
+[Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\."What do you... think of Reko?"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+#Choice#
+She's a kind person
+She's frightening
+Such a big-sister type
+Real shame about her brother
+##
+
+<優しい人ですね>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Mwahaha... I see."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."'Course, she's got no mercy for men,
+ such as Mr. Policeman here."
+##
+
+<おっかない人ですね>
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+"...Frightening, hm..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."I think she's pretty kind to you, Sara...
+ Compared to how she treats me, at least."
+##
+
+<アネゴ肌ですね>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"...I suppose I can interpret that in a good way."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Doesn't seem like she gets bashful,
+ not even if she's dealing with brawny men."
+##
+
+<兄が残念ですね>
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+"Why...!! You truly are detestable!!
+ Were you even listening to the question?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."She does seem much bolder than said brother.
+ Albeit a little scary..."
+##
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\."Kind to the weak, harsh on the strong...
+ That's the impression I get."
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...She was different before."
+##
+
+{Sara}
+#Message#
+\."Before...?"
+##
+
+#Choice#
+Was she kind to everyone?
+Was she harsh on everyone?
+##
+
+<強い人にも優しかった？>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"...No, the opposite."
+##
+
+<弱い人にも厳しかった？>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"...Precisely."
+##
+
+<Choice End>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Since Reko's birth, she's brimmed with vitality,
+ and had talents in music and charming others."
+##
+
+#Message#
+\."She was harsh even on herself...
+ But especially harsh on weak people
+ who were all talk and no action."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."She's undergone a startling change."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Due to your murder case, I take it...?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Mwahaha... Exactly right..."
+##
+
+#Message#
+\."...Sorry to make you hear these trifles."
+##
+
+{Reko}
+#Message#
+\."Sara!!"
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."Sara, you came to!!"
+##
+
+{Nao}
+#Message#
+\."Sara...!!"
+##
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: flash-of-light-3}
+#Message#
+\."Big sis Saraaaaaaaaaa!!"
+##
+
+{Reko}
+#Message#
+\."You okay?!"
+##
+
+{Nao}
+#Message#
+\."Y... You can't push yourself, okay Sara...?!"
+##
+
+{Sara}
+#Message#
+\."I... I'm fine. Just... a little exhausted."
+##
+
+{Gin}
+#Message#
+\."I'm glad you woke up, meow..."
+##
+
+{N/A}
+#Message#
+\.\C[3]It's warm...
+##
+
+#Message#
+\.\C[3]Everyone must be exhausted, body and soul...
+##
+
+#Message#
+\.\C[3]But their kindness... is comforting.
+##
+
+{Alice} [Alice: Surprised face / cara11-2]
+#Message#
+\."..."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."...The hell you lookin' at?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."E-Er, sorry..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Sara, you know the sitch?"
+##
+
+#Choice#
+What happened while I slept?
+What's everyone doing now?
+##
+
+<寝てる間に何かありましたか？>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Other than being brought to Floor 3... Nothin' yet."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."We were feeling at a loss too,
+ so all we could do was rest as instructed..."
+##
+
+<みんな何をしてるんですか？>
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Nothin' yet. After that awful Main Game,
+ we've been off by ourselves resting."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."We were given rooms for every person, so...
+ We carried you here, and have been standing by..."
+##
+
+<Choice End>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."But that bad doll girl's nowhere to be found, woof.
+ Should we look for her, meow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Miley... vanished?)
+##
+
+#Choice#
+Let's go look for her
+Let's go defeat her
+Let's look around first
+##
+
+<探しに行こう>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."S... Sara... You can rest a little more, okay?"
+##
+
+{Sara}
+#Message#
+\."No... I want to do something right now.
+ Please, let me go..."
+##
+
+<倒しに行こう>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."We'll find her..."
+##
+
+#Message#
+\.\C[10]"Miley... I'm going to deal with you myself..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."...Big sis Sara?"
+##
+
+{Sara}
+#Message#
+\."Ah... U-Um, it's nothing."
+##
+
+<まずは周辺を探索しよう>
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+\."We should check if this place is safe first.
+ Some trap might already be set into motion..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Yeesh, I was about to say "don't overdo it."
+ You sure are quick to get serious, Sara."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Alright, sitting around's not my style either.
+ Let's take caution exploring the area."
+##
+
+
+**********Event13********** (Qtokeizi) (3,8)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Q-taro and Ranger are having a dispute
+in the middle of the lobby.
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Dammit...!! You gotta be screwin' with me!!"
+##
+
+{Sara}
+#Message#
+\."Q-taro, what's the matter?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Sara! This Ranger guy just said
+ we can't go back to the first and second floors!"
+##
+
+{Ranger} [Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."I mean, you cleared 'em already, right?"
+##
+
+{Sara}
+#Message#
+\."Hold on a second...!
+ Kai's laptop is down there!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Who caaares. We'll just confiscate that thing!"
+##
+
+{Sara}
+#Message#
+\."No way...!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Dammit! It was unmistakably a clue...!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That laptop's the last thing
+ I wanna let you guys take!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Hmph."
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Bet Q-taro wants to find the truth about Kai."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."About Kai...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."What a troublesome guy...
+ leaving mystery after mystery."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Was Kai a good person?
+Was Kai a bad person?
+##
+
+<カイさんは善い人？>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I wonder if Kai was a good person after all..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Some aspects suggested it. His anger for
+ the victims, and resistance against the kidnappers..."
+##
+
+<カイさんは悪い人？>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."I wonder if Kai was a bad person after all..."
+##
+
+{Keiji}
+#Message#
+\."...Some aspects suggested it.
+ Like using Nao to attack Sou, y'know."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Was Kai acting for good or for evil?"
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Just whose side was he on...?"
+##
+
+{Sara}
+#Message#
+\."...And we ended up making Kai a victim
+ without knowing anything about him..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."But we can make inferences."
+##
+
+{Sara}
+#Message#
+\."Inferences...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Friend or foe... Let's consider the possibilities."
+##
+
+#Message#
+\."First, Kai confessed to having
+ some contact with the kidnappers."
+##
+
+{SE: Accent21-1}
+#Message#
+\."So one possibility is that Kai was with the baddies."
+##
+
+#Message#
+\."Like a director of the Death Game, for instance."
+##
+
+{Sara}
+#Message#
+\."Yet, Kai drew the \C[2]Sage\C[0] card and died..."
+##
+
+#Message#
+\."In his last moments...
+ He said \C[2]he entrusted me his hopes\C[0].
+ I can't imagine him as an enemy."
+##
+
+{Keiji}
+#Message#
+\."Incidentally, Sara... You really didn't have
+ any acquaintance with Kai?"
+##
+
+{Sara}
+#Message#
+\."No..."
+##
+
+{Keiji}
+#Message#
+\."...Huh."
+##
+
+#Message#
+\."Then how about this one?"
+##
+
+{SE: Accent28-1}
+#Message#
+\."Something like... Kai betrayed the kidnappers."
+##
+
+{Sara}
+#Message#
+\."And he was executed as an example...?"
+##
+
+{Keiji}
+#Message#
+\."He did sock Miley, after all."
+##
+
+{Sara}
+#Message#
+\."Hmm... It's possible he earned their wrath, but..."
+##
+
+{Keiji}
+#Message#
+\."Maybe that's not it...
+\! Then here's the next possibility."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Kai was on our side, but had some sort of
+ communication with the kidnappers."
+##
+
+#Message#
+\."Though in the same situation as all of us...
+\! He did dealings or missions in the shadows."
+##
+
+{Sara}
+#Message#
+\."Missions...? Like what?"
+##
+
+{Keiji}
+#Message#
+\."You remember the \C[2]First Trial\C[0] everyone took, right?"
+##
+
+{Sara}
+#Message#
+\."Yes, that game where I was tied to a bed...
+ and we had to find the key..."
+##
+
+{Keiji}
+#Message#
+\."It wasn't the same for everybody.
+\! ...Didn't Q-taro say so?"
+##
+
+{Sara}
+#Message#
+\."Err... Yes, for Q-taro, the trial was just...
+ to carry the box with Miley's head..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Ah...! Is that what you mean by missions?"
+##
+
+{Keiji}
+#Message#
+\."Yep. In short, Kai might have also been
+ entrusted with a different mission."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Like "ensnare the other participants.""
+##
+
+{Sara}
+#Message#
+\."No way...!"
+##
+
+{Keiji}
+#Message#
+\."In other words, he was being manipulated.
+ ...Like a disposable pawn."
+##
+
+{Sara}
+#Message#
+\."Gah..."
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+#Message#
+\."...There's one more."
+##
+
+#Message#
+\."A very slight possibility,
+ but one your friendly policeman'd like to hope for."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."The possibility we've got an ally
+ on the side of the kidnappers."
+##
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."...!!!!"
+##
+
+{Keiji}
+#Message#
+\."In other words, there's a traitor among 'em,
+ trying to destroy the Death Game from the inside."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."That person was in contact with Kai,
+ and had him assist with the plan."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Well, Sara? Think that's... out of the question?"
+##
+
+{Sara}
+#Message#
+\."One of the kidnappers... is our ally...?!"
+##
+
+#Choice#
+It's inconceivable
+It's possible
+##
+
+<ありえないです>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+"Inconceivable...! Just... unthinkable!"
+##
+
+#Message#
+\."I mean...!\.\. Well...!\.\. Hrmm..."
+##
+
+#Message#
+\."If that were true... Surely Kai would hide
+ that he had contact with them!"
+##
+
+#Message#
+\."Because that would reveal it to the enemy...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Maybe he wanted to live just that badly.
+ Or else..."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Maybe he thought letting you know
+ would work to your advantage, Sara."
+##
+
+{Sara}
+#Message#
+\."No way...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Wahaha... You've got "I object" written all over you."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Reasoning's too tough for me, I guess...
+ I'm not much of an intellectual."
+##
+
+<可能性はある>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+"I have no proof that could fully deny it... but...!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Looks like you can't wrap your head around it."
+##
+
+{Sara}
+#Message#
+\."There are clearly some illogical aspects, so..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Well, all that's just my hope, anyhow."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Could be interesting if Miley
+ was related to this, though. Wahaha..."
+##
+
+<Choice End>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."..."
+##
+
+#Message#
+\."Keiji."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I was just thinking..."
+##
+
+#Choice#
+Has there been a similar case?
+What organization could do this?
+##
+
+<過去に同じような事件は？>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\."There hasn't been a past case
+ similar to this Death Game, has there...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...There has."
+##
+
+<これほど大がかりな事ができる組織とは？>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."As a policeman, you don't have any ideas
+ about an organization capable of executing
+ this Death Game, do you?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...I might."
+##
+
+<Choice End>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."What...?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."It was decades ago, apparently...
+ But I've read the files."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There was a battle for influence
+ between major crime rings."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."At the time, the police were putting their all
+ into exterminating these organizations."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Those living in the shadows had it pretty rough,
+ so crime rings started laying waste to their own."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."But if you're just gonna mutually destroy each other,
+ it's better to join hands, they thought..."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."And so they executed a plan to
+ unify the crime rings into one monolith.
+ ...In the ways of violence they're so adept at."
+##
+
+{Sara}
+#Message#
+\."Don't tell me, that was..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yes, a Death Game."
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."A mutual slaughter with rules...
+ Scary stuff."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."The representatives had a grand battle,
+ and only one person survived."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."That survivor reigned at the top of criminal society.
+ Think it was called the \C[2]Hades Incident\C[0]."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."Hades Incident..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Shot to the top of the criminal "underworld"...
+ Hence, the Hades Incident."
+##
+
+#Message#
+\."But ultimately, the organization collapsed afterward."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Justice always prevails.
+ ...The police do their job sometimes, right?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+How relevant is it to this?
+Why didn't you mention it?
+Well done
+##
+
+<今回の事件と関連性は？>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."Not very, I think.
+ ...Since the organization collapsed and all."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Besides, Sara.
+ You got any connections to the criminal underworld?"
+##
+
+{Sara}
+#Message#
+\."Y-You can't be...!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."'Course not, right?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."It's not good to go tying
+ anything and everything together, Sara."
+##
+
+<なぜ黙っていたんですか？>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."'Cause I wasn't asked.
+ And I figured it couldn't be very relevant."
+##
+
+{Sara}
+#Message#
+\.\C[4](Did he keep it hidden because it was inconvenient?
+ Or else, so as not to make us uneasy...?)
+##
+
+#Message#
+\.\C[4](I need to be really forceful with this guy,
+ or he's always going to dodge my questions...)
+##
+
+<よくできました>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: flash-of-light-3}
+#Message#
+\."You did well."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Don't mention it.
+\! ...I don't like being treated like a dog."
+##
+
+{Sara}
+#Message#
+\."In that case, no treats for you."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...If we make it out alive, I might accept some."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."More importantly, we better get moving."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Ranger was mentioning that the rest of
+ the attractions have opened up all around here."
+##
+
+{Sara}
+#Message#
+\."Is that so...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Think it'd be good to go look for 'em?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Tell me if I can help out with something.
+ This policeman... will be your partner, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](The attractions... I'll go look around.)
+##
+
+-----Page2-----
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."You can depend on Mr. Policeman anytime."
+##
+
+-----Page6-----
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."We can't talk to the old guy anymore, woof...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+-----Page8-----
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+"Sara."
+##
+
+{Sara}
+#Message#
+\."Kanna... You aren't with Sou?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."He doesn't seem to feel well, so he's sleeping."
+##
+
+[Kanna: Neutral smile / cara3-9]
+#Message#
+\."And... it seems Alice is keeping an eye on him..."
+##
+
+{Sara}
+#Message#
+\."Alice...?"
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Yes. It seems he has a kind side, too."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is it... kindness, I wonder?)
+##
+
+#Choice#
+You can't trust easily
+Well, that's nice
+##
+
+<カンタンに信用しちゃダメだ>
+
+{Sara} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Kanna... You can't trust so easily."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."I-I'm sorry..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."But Kanna... just can't see Alice as a bad person..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."Then there's no reason to apologize.
+ You thought about it for yourself,
+ and chose to entrust him with that duty."
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."Y-Yes!"
+##
+
+<そうか良かったな>
+
+{Sara} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."That's nice. Guarding him must be tiring."
+##
+
+{Kanna}
+#Message#
+\."Yes... I'm just a little tired."
+##
+
+{Sara}
+#Message#
+\."Well? Should we rest together?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Aww, umm... I'd like to... but..."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Err... Sara.
+ I found something curious while exploring."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It was over toward the Ruined Corridor..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+#Message#
+\.\C[4](It couldn't be that room we found, could it...?)
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Sara, I'd like you to come with me."
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Let's go together
+Confirm about the laptop
+Suggest someone else
+##
+
+<一緒に行く>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Got it. Let's go together, Kanna."
+##
+
+<パソコンについて確かめる>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+#Message#
+\."...Did you find a room by
+ getting through the rubble or something?"
+##
+
+{Kanna} [Kanna: Looking down to side, eyes looking back curiously / cara3-17]
+#Message#
+\."Through the rubble...?
+\! No... There was a door in a hard-to-notice place."
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems she's talking about something else, then.)
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Please come with me, Sara!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Can't refuse her.)
+##
+
+#Message#
+\."Got it. Let's go."
+##
+
+<他の人を勧める>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Hmm... How about asking Q-taro?
+ He's strong and all..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ah... she's gonna cry. Is she scared...?)
+##
+
+#Message#
+\."...Got it. Let's go together."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Accent28-1}
+#Message#
+\."Thank you so much!"
+##
+
+-----Page10-----
+%ignore
+
+
+**********Event14********** (reko-matome) (14,8)
+-----Page1-----
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."...Exploring comes first.
+ Might find something besides attractions..."
+##
+
+-----Page3-----
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Sara, can you come with me for a sec?"
+##
+
+{Sara}
+#Message#
+\."W-What is it?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."I found a weird place.
+ Wanted to show you before telling everyone."
+##
+
+{Sara}
+#Message#
+\."A weird place...?"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."C'mon, follow me."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."What is this place...?"
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Told you... Weird, yeah?"
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."The most suspicious part is those stairs.
+ There's a vending machine at the top."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](A vending machine...?)
+##
+
+-----Page5-----
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."...Got nothing else to say."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."Okie-dokie. I'll trust you."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Oh, Sara. Need something from me?"
+##
+
+{Sara}
+#Message#
+\."Err..."
+##
+
+#Choice#
+Nothing
+Learned anything?
+Are you flirting?
+##
+
+<ないです>
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."...Uh-huh. Too bad."
+##
+
+<何かわかりましたか？>
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Nope, don't know a thing."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."It's a real pickle.
+ Seems Q-taro doesn't know either..."
+##
+
+<ナンパですか？>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Yep. Got rejected, though."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Stop spoutin' bullshit!
+ Obviously he was just questioning me!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Ooh, scary. You'd be a good detective, Reko."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."If you're done blabbing, then beat it, Keiji!!"
+##
+
+<Choice End>
+
+{Reko} [Keiji: Default smile / cara2-1]
+#Message#
+\."I'll keep up the investigation.
+ See ya."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Whew... He's gone."
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sara, I've got something for ya.
+ Could you come with me for a sec?"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Reko}
+#Message#
+\."I found something curious here."
+##
+
+{Sara}
+#Message#
+\."Something curious...?"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."It's hard to see in the dark, but...
+ Check out that wall."
+##
+
+-----Page8-----
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is she thinking about something...?)
+##
+
+-----Page10-----
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+"Dammit... Even after all this searching,
+ ain't no sign of a way to escape..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Goddamn Main Game...
+ I don't wanna do that shit twice...!!"
+##
+
+-----Page12-----
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"Can't find Kanna or Sou anywhere...
+ Wonder if they're resting in their room..."
+##
+
+-----Page13-----
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I'll bet that beanie guy's makin' evil plots
+ in his room whenever he's not doing attractions."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Just gotta hope he doesn't start shit..."
+##
+
+
+**********Event15********** (EV015) (1,0)
+-----Page1-----
+{Reko} [Reko: Default / cara6-1]
+{SE: Accent28-1}
+#Message#
+\."...Yep, I don't know crap."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hmm..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Looks like Keiji's questioning her
+ about the incident yesterday...)
+##
+
+-----Page3-----
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Hear me?! I absolutely will not eat bitter melon!!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."...Did you not state you wanted to eat stir-fry?"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."I said fried RICE!!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."...*sniffle*...
+ Isn't fried rice too heavy for breakfast...?"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."And bitter melon stir-fry is light?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Seems like they're getting an early start
+ with some stupid arguments.)
+##
+
+
+**********Event24********** (Q-yuuwaku) (10,8)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Keiji and Q-taro are having a dispute.
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."What's the meaning of this?! Why...?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Talk to me, Q-taro!"
+##
+
+{Sara}
+#Message#
+\."What is it, you two?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Sara..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: sceneswitch2}
+#Message#
+\."The laptop's been taken."
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...Sorry..."
+##
+
+{Sara}
+#Message#
+\."W... What do you mean?!
+ Who took it?!"
+##
+
+{Q-taro}
+#Message#
+\."..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent28-1}
+#Message#
+\."...Kanna."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent21-1}
+#Message#
+\."What...?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."I handed it over ta Kanna...
+\! No charge on it, so I thought it'd be fine..."
+##
+
+{Sara}
+#Message#
+\."You handed it over?!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Sou must be pulling the strings."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."He used Kanna to have her
+ strike some kind of deal with Q-taro."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."That's..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."You have to have noticed, Q-taro..."
+##
+
+#Message#
+\."You knew that... and you still accepted the deal."
+##
+
+#Message#
+\."Why...?! How could you hand over
+ Kai's dying gift to someone else?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\.".........."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+{SE: Accent21-1}
+#Message#
+\."...I see."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Sara, I'm gonna search for Kanna."
+##
+
+{Sara}
+#Message#
+\."I'll go too!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent28-1}
+#Message#
+\."She went...\.\. toward the Ruined Corridor..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\."I don't know what she got into your head, Q-taro..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But it seems I overestimated you.
+\! ...It's too bad."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Let's go, Sara."
+##
+
+{Sara}
+#Message#
+\."Right...!"
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]Q-taro is hanging his head.
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+
+**********Event25********** (nao1-2) (9,7)
+-----Page3-----
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."There are lots of passages on this floor, too...
+ It seems easy to get lost."
+##
+
+
+**********Event27********** (gin1-3) (7,7)
+-----Page1-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Getting that wound healed made me hungry, meow!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Should I ask for stuffed peppers?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I hate peppers, meow!!"
+##
+
+-----Page3-----
+{Nao} [Nao: Raised finger / cara7-4]
+#Message#
+\."Gin, do you want to have some tea?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Hmm... I want soda, meow."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."...I don't have any, so is coffee okay?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Why would it be, woof?!"
+##
+
+-----Page4-----
+{Nao} [Nao: Raised finger / cara7-4]
+#Message#
+\."Is it tasty, Gin?"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."Coffee's bitter, myoooooooooowww...!!"
+##
+
+{Nao} [Nao: Closed-eyes blush smile / cara7-13]
+#Message#
+\."Heehee! You're a grown-up now!"
+##
+
+-----Page6-----
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."No one wants to taste such bitterness
+ early in the morning... No one!!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."But... many people drink coffee in the morning..."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Hnghh...!!"
+##
+
+{Sara}
+#Message#
+\."Um... Please stop fighting."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Urgh... Sara Chidouin...!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."You've caught me at an unsightly time...
+ Well? Will you eat this?"
+##
+
+{Sara}
+#Message#
+\."No..."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Well, if you'll excuse me...
+ You'll receive a penalty if you don't eat it all..."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."Hey, wait...!! Crying Doll Tia Safalin!!"
+##
+
+{Sara}
+#Message#
+\."Do your best."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent21-1}
+#Message#
+\."C-Calm down, Sara Chidouin.
+ You have a different look about you from yesterday."
+##
+
+{Sara}
+#Message#
+\."Huh?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."...I'll be your conversation partner.
+ In exchange, you eat the green stuff."
+##
+
+{Sara}
+#Message#
+\.\C[4](What an annoying trade...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I decided to indulge Alice for a little bit.
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent21-1}
+#Message#
+\."Hmph... To think bitter melon could be so tasty...
+ Seems my taste buds have matured in the Death Game."
+##
+
+{Sara}
+#Message#
+\.\C[4](He was probably just knocking it without trying...)
+##
+
+#Choice#
+Bring up some topic
+Suggest having seconds
+##
+
+<適当な話題を振ってみる>
+
+<おかわりをうながす>
+
+{Sara} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."How about I call Safalin over to get seconds?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Don't get cocky, Sara Chidouin...
+ After this, we must take on attractions.
+ Overeating will slow the mind and invite death..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He has a point...)
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."But a thoughtful topic to bring up.
+ I'm in a good mood now..."
+##
+
+<Choice End>
+
+{Sara} [Alice: Closed-eyes grin / cara11-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So... how has your relationship
+ with Reko been since then...?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Hmph... Nothing for you to worry about.
+ The status quo is maintained!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."But observing her in these past days...
+ While at first I thought she had changed..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Her essence has not changed in the least...
+ Reko is Reko. The same one I knew."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."You said that Reko was once
+ in the same band as you, Alice."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Hm...? Right..."
+##
+
+{Sara}
+#Message#
+\."So the reason you disbanded... surely..."
+##
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+{SE: Accent21-1}
+#Message#
+\."Yes... It was due to the crime I committed."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."...Look at this."
+##
+
+{N/A}
+#Message#
+\.\C[3]Alice produced a folded piece of paper
+from within his clothes.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."A magazine article...?"
+##
+
+{Alice} [Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."One day, a kind, kind warden handed me this."
+##
+
+{N/A}
+#Message#
+\.\C[3]The small article was titled "36-Rai 818 Breakup."
+##
+
+{Sara}
+#Message#
+\."\rb[Sa,3]\rb[mu,6-]\rb[rai,Rai] \rb[Ya,8]\rb[i,1]\rb[ba,8]...
+ That was your band..."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."And the reason is clearly written, as well."
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]It says... "With one of the members gone, the vocalist
+stated "I can't sing this band's songs anymore,"
+and the group disbanded."
+##
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."I had thought Reko was a superhuman
+ with a will of steel."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+#Message#
+\."I finally realized... she was just human too.
+ I've never... regretted something more..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."This article was my warning."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."I deeply wounded Reko's heart."
+##
+
+[Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."And those wounds... can't be healed
+ simply by me accepting punishment."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."But, this article..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."...I have no more use for it.
+ Throw it away for me."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Huh...?"
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."It's not the article I need to confront.
+ ...It's Reko herself."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Please."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Come to think of it, are you talking to Reko?"
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."*hack*!! *cough*!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...Why intrude on such a subject...?
+ How crude are you, Sara Chidouin?!"
+##
+
+{Sara}
+#Message#
+\."Don't tell me you've hardly talked at all?"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."...Yes, but I can observe her at a distance...!"
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Initially, I did believe that Reko had changed..."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."But in the past few days, I've found... Reko is Reko.
+ Her essence is unchanged from the one I knew..."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."And there I noticed it..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's making it sound like a good thing...)
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\."...Sara Chidouin. Do you even know
+ Reko's past in the first place?"
+##
+
+{Sara}
+#Message#
+\."Huh? Well..."
+##
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\.".........."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."...Look at this."
+##
+
+{N/A}
+#Message#
+\.\C[3]Alice produced a folded piece of paper
+from within his clothes.
+##
+
+{Sara}
+#Message#
+\."A magazine article...?"
+##
+
+[Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."One day, a kind, kind warden handed me this."
+##
+
+{N/A}
+#Message#
+\.\C[3]The small article was titled "36-Rai 818 Breakup."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."\rb[Sa,3]\rb[mu,6-]\rb[rai,Rai] \rb[Ya,8]\rb[i,1]\rb[ba,8]...
+ was the band Reko used to be in."
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]It says... "With one of the members gone, the vocalist
+stated "I can't sing this band's songs anymore,"
+and the group disbanded."
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."A foolish member caused a scandal...
+ And Reko could no longer sing their vocals..."
+##
+
+{Sara}
+#Message#
+\."A scandal...?"
+##
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+{SE: Accent28-1}
+#Message#
+\."...A murder.
+\! Though for some reason, it wasn't made public..."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+#Message#
+\."Don't tell me, the "foolish member"...!!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."This article was my warning."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."I deeply wounded Reko's heart."
+##
+
+[Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."And those wounds... can't be healed
+ simply by me accepting punishment."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."But, this article..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."...I have no more use for it.
+ Throw it away for me."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Huh...?"
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."It's not the article I need to confront.
+ ...It's Reko herself."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Please."
+##
+
+{Sara}
+#Message#
+\.\C[4](His "warning"...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained the Band Breakup Article.
+##
+
+{Sara}
+#Message#
+\.\C[4](Okay... Time to continue with attractions.)
+##
+
+-----Page9-----
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...Will you really help me collect stars, meow?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Yep. A good policeman's gotta be kind to kids."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."If you're gonna treat me like a kid, I'll pass, woof!"
+##
+
+
+**********Event38********** (hannnaki) (8,7)
+-----Page6-----
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."I don't like Alice."
+##
+
+{Sara}
+#Message#
+\.\C[4](She stated it loud and clear...)
+##
+
+
+**********Event39********** (a) (7,5)
+-----Page1-----
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."How strange. It's even night outside these windows..."
+##
+
+
+**********Event78********** (a) (7,4)
+-----Page1-----
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."How strange. It's even night outside these windows..."
+##
+

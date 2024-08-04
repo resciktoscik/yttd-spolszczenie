@@ -1,0 +1,84 @@
+**********Common1688********** (・ﾋﾅｺ「全部演技」)
+{Hinako}
+#Message#
+"...It's all fake. Her attitude's an act, too.
+ Maybe her role was to move the Death Game forward..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+"That's who Mai really is!
+ Happily ever after, not!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Hinako..."
+##
+
+{Hinako} [Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\."I know! What I'm saying is absurd!"
+##
+
+[Hinako: Grave look, mouth open / cara93-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So show some proof to deny it...!"
+##
+

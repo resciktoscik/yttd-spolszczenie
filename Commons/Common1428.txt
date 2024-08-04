@@ -1,0 +1,18 @@
+**********Common1428********** (③ソウB選択)
+{N/A}
+#Message#
+"My ears hurt...
+ Gotta figure out what's making that noise."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

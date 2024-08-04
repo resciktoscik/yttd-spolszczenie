@@ -1,0 +1,221 @@
+**********Common1528********** (戦⑦あざ笑うAIへ)
+{N/A}
+#Message#
+\C[3]But it was already destroyed, so there's no response.
+##
+
+{Sara}
+#Message#
+\.\C[4](That's on me for giving the order...!)
+##
+
+{Sneering AI}
+{SE: sceneswitch2}
+#Message#
+"What do you think you're doing, Gin?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The water went inside the body, consuming energy.
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent40-1}
+#Message#
+"I-I did it, meow..."
+##
+
+{Sneering AI}
+{SE: sceneswitch2}
+#Message#
+"You mustn't! Stop that!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+"Hah... Serves ya right..."
+##
+
+{Sneering AI}
+{SE: sceneswitch2}
+#Message#
+"You mustn't! Stop that!!"
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent40-1}
+#Message#
+"I've already made up my mind...!"
+##
+
+{Sneering AI}
+#Message#
+"Oh my, what is this about?
+ I'll only listen if you're begging for dear life."
+##
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+"I-It didn't seem to work... I'm sorry..."
+##
+
+{Sneering AI}
+#Message#
+"I don't want to hear a word out of you, indeed."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"No dice... Won't even lend an ear."
+##
+
+{Sneering AI}
+#Message#
+"Hohoho... An invitation? If you come over to my side,
+ then perhaps I might think about it."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Urgh...! Can't get along with this guy!"
+##
+
+{Sneering AI}
+#Message#
+"Such an artless person...
+ Did you think the same thing would work twice?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Tch! He's riling us up...!"
+##
+
+{Sneering AI}
+#Message#
+"H... Hrmm... You have guts to provoke me..."
+##
+
+#Message#
+\."Very well...! I shall slice off your head
+ to put a decisive end to that impudent talk!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Sneering AI responded strongly, consuming energy.
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent40-1}
+#Message#
+"Alright! It worked!"
+##
+
+{Sneering AI}
+#Message#
+"Such an artless person...
+ Did you think the same thing would work twice?"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"This one's capable...!!"
+##
+
+{Sneering AI}
+#Message#
+"H... Hrmm... You have guts to provoke me..."
+##
+
+#Message#
+\."Very well...! I shall slice off your head
+ to put a decisive end to that impuedent talk!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Sneering AI responded strongly, consuming energy.
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent40-1}
+#Message#
+"Mwahaha...! He took action!
+ Now simply protect me so I'm not killed, everyone!"
+##
+
+{Sneering AI}
+#Message#
+"No, I implore you to understand.
+ Won't you obediently let us kill you?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"Combined with the appearance,
+ this guy's way too scary..."
+##
+
+{Sneering AI}
+#Message#
+"I won't fall for that a second time.
+ Are you not seeming more and more cute?"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"S... Shut up...!!"
+##
+
+{Sneering AI}
+#Message#
+"Hrmmm...! What is that attitude?!"
+##
+
+#Message#
+\."I am a teacher, you know!
+ Delinquent students must be given thorough guidance!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Sneering AI responded strongly, consuming energy.
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: Accent40-1}
+#Message#
+"Lecturing me when he's trying to kill me...?"
+##
+
+{Sneering AI}
+#Message#
+"Hahaha, thank you for the amusement.
+ As thanks, I will end your pitiful life."
+##
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+"Y-You got any other kind of thanks?!"
+##
+
+{Sneering AI}
+#Message#
+"Haaahaha! Yes, rub your head against the dirt!
+ I shall step upon and crush it!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+"He's not forgiving me at all!!"
+##
+

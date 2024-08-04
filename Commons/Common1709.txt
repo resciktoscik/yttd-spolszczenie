@@ -1,0 +1,475 @@
+**********Common1709********** (３前進展⑩ビデオの顔)
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent28-1}
+#Message#
+"Pained faces, huh..."
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Yeah, I'll bet... Hinako was only a middle-schooler."
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."As much as she tried to endure... She must've wept..."
+##
+
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+{SE: Accent41-1}
+#Message#
+\."...Huh?"
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."That's weird... I saw the video,
+ but I don't remember Hinako's expression..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, closed mouth / cara91-39]
+{SE: Accent28-1}
+#Message#
+"Pained faces, eh...?"
+##
+
+[Ranmaru: Evil, thin mouth / cara91-41]
+#Message#
+\."I'll bet. Hinako was only a middle-schooler..."
+##
+
+[Ranmaru: Evil, closed mouth / cara91-39]
+#Message#
+\."As much as she tried to endure,
+ she must've been cryin'..."
+##
+
+#Message#
+\.".........."
+##
+
+[Ranmaru: Evil, furrowed brow, closed mouth / cara91-48]
+{SE: Accent41-1}
+#Message#
+\."...Hm...?"
+##
+
+[Ranmaru: Evil, hands out, thin mouth / cara91-43]
+#Message#
+\."That's weird... I saw the video,
+ but I don't remember Hinako's expression..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent28-1}
+#Message#
+"Pained faces, eh..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Only figures... Hinako was a middle-schooler..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Even as she endured, she must've been cryin'..."
+##
+
+#Message#
+\.".........."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."...Hmm?!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Hey, hold up...! I saw the video,
+ so why don't I remember Hinako's expression?!"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+{SE: Accent40-1}
+#Message#
+\."Ah...!"
+##
+
+[Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Um... it actually makes sense you can't remember."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"Because Hinako's video was the only one
+ that \C[2]didn't show the victim's face\C[0]...!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent40-1}
+#Message#
+\."Ah..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If you can't remember... that's to be expected."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"Hinako's video was the only one
+ that \C[2]didn't show the victim's face\C[0]."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."Ahhh! That's right!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+#Message#
+\."Hold on... you're right!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Oh yeah, that's right...!"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Ain't that kinda sketchy?!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."We dunno if she really died..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: sceneswitch2}
+#Message#
+\."And if we didn't see her face...
+ it's unclear if it's even Hinako herself, right?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Is that not rather suspect?!"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Not only are we unsure if she really died..."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: sceneswitch2}
+#Message#
+\."With her face not being pictured,
+ we cannot determine if that was really Hinako!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."That's kinda fishy, huh...?"
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."It's unclear if she really died..."
+##
+
+[Sou: Sarcastic eyes / cara5-10]
+{SE: sceneswitch2}
+#Message#
+\."And with her face not being pictured...
+ we can't even determine if it was Hinako herself."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Well, still! She got called "Hinako"
+ during the exchange in the video, right?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."That's true, but I'm kinda curious..."
+##
+
+[Reko: Fists out, angry sad eyes / cara6-38]
+#Message#
+\."If our logic up to now hasn't been wrong..."
+##
+
+[Reko: Fists out, angry eyes / cara6-39]
+{SE: sceneswitch2}
+#Message#
+\."Ain't it \C[2]Hinako\C[0] that's strange?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."True enough, but something doesn't feel right..."
+##
+
+[Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Listen... Supposing the reasoning
+ we have made thus far is not wrong..."
+##
+
+[Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: sceneswitch2}
+#Message#
+\."It would be \C[2]Hinako\C[0] herself that's strange!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."That's true, but... don't you have to wonder?"
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Supposing our logic so far hasn't been wrong..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: sceneswitch2}
+#Message#
+\."It's \C[2]Hinako\C[0] herself that's odd, right?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](A good point...)
+##
+
+#Message#
+\.\C[4](Looking back, there were a lot of mysteries
+ to Hinako's actions.)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Is there a hidden truth here...?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](We might want to think about her a little more...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Understood!
+ Let's have a discussion about Hinako!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."That's if we trust our theories, 'course..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."But I'll go with it! Gotta suspect to trust...!
+ That's what our discussions are all about!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched / cara94-10]
+#Message#
+\."That's if we trust our reasoning, of course..."
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."All right, fine...! We have no choice
+ but to cast our suspicion upon Hinako!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is OFF>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+#Message#
+
+　　　　　　　　　　　\C[3]About Hinako
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"First... if Hinako was really \C[12]human\C[0]..."
+##
+
+[Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+"Does that mean she was just
+ acting as if she died in that video?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"First, if Hinako was really \C[12]human\C[0]..."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Does it mean she was just
+ acting as if she died in that video...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry sad eyes / cara6-38]
+#Message#
+"Hold up... If her face wasn't shown,
+ couldn't there be another possibility?"
+##
+
+[Reko: Fists out, shocked eyes, mouth open / cara6-41]
+#Message#
+"Maybe the Hinako in the victim video and
+ the Hinako with the Dummies are different people!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"Wait... If her face wasn't pictured,
+ does another conceivable possibility not emerge...?"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+"The Hinako in the victim video and the Hinako
+ with the Dummies are entirely different peopleeeee!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+"Hold on, meow... I don't think it's good
+ to claim it was all an act, woof."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+"The Shorty in the victim video and the Shorty
+ in the Dummies were just different people, meow!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+"Is there any other clue 'sides the victim videos...?"
+##
+

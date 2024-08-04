@@ -1,0 +1,249 @@
+**********Common777********** (⑬進展●謎の交換)
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Once she knew escape wasn't possible anymore...
+ She had no idea what to do..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."Then she looked at the phone..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent21-1}
+#Message#
+\."Seeing her sister's words calmed her heart."
+##
+
+#Message#
+\."And... she came to despise herself
+ for not being able to do anything."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This whole time... Kanna had just kept betraying..."
+##
+
+#Message#
+\."Her sister... the others... Sara..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent28-1}
+#Message#
+\."She just had a feeling that Sou had
+ sent the \C[10]Sacrifice\C[0] to Sara..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\."Kanna... doesn't get the complicated trade talk...
+ She can't even reason out who gave who what..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."Even so... she was certain of just one thing..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+{SE: Accent21-1}
+#Message#
+\."Because Sara is so kind...
+ she couldn't trade the \C[10]Sacrifice\C[0] to anyone."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna...)
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\."..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Kanna...\! Kanna...!!"
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+\."She didn't want to let Sara die...!!"
+##
+
+[Kanna: Angry shout / cara3-23]
+#Message#
+\."And also...!!"
+##
+
+[Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."She didn't want to make Sou a murderer...!!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+{SE: sceneswitch2}
+#Message#
+\."...!!"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."That seemed more painful than her own death..."
+##
+
+[Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."So she traded...!!
+ Her \C[5]Commoner\C[0] for Sara's \C[10]Sacrifice\C[0]!!"
+##
+
+{Sara}
+#Message#
+\."Kan... na..."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."But..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."The card she received... was a \C[5]Commoner\C[0]!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."What...?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."What's goin' on here, Kanna?!"
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."Kanna doesn't understand either!!"
+##
+
+[Kanna: Upset look, mouth closed / cara3-30]
+{SE: sceneswitch2}
+#Message#
+\."She's sure she traded cards with Sara...
+ But it wasn't the \C[10]Sacrifice\C[0]!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Unthinkable!
+ What is Kanna saying?!)
+##
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+\."It's all true...! Please believe me!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](At any rate, we just have to talk!
+ About \C[2]Kanna's statement\C[4]...!!)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"I can't believe bucket girl, woof!
+ She's lying to try and confuse us, meow!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"Well... Maybe Kanna just messed up
+ who she was trading with or somethin'?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Some unique situation that caused the role
+ to just disappear? Is that possible, I wonder..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"You can't trust electronics for shit!
+ The tablet errored and the trade got messed up!"
+##
+
+<Else>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"It was machine error!
+ Maybe the tablet broke and the trade went wrong?!"
+##
+
+<Condition End>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Don't tell me...
+ I wonder if Sou hacked the role cards themselves...?!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't know what to believe...!!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I can't see through to
+ the truth in their hearts right now..."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+\."So we might just have to find the objective truth."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](The truth...)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

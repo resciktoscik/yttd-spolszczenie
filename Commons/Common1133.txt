@@ -1,0 +1,731 @@
+**********Common1133********** (呼・闇③ジョーの理由)
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Boy, the chaos one little piece of paper can cause...
+ Ahaha!"
+##
+
+{Sara}
+#Message#
+\."...What's so funny?"
+##
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+#Message#
+\."I mean... I had everyone sign this form
+ to have them participate in the Death Game, see."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."So of course I wouldn't accept "put an end to it"!"
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: Accent28-1}
+#Message#
+\."Though for the record, I'd be fine
+ granting a wish that gave you an advantage!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+Why am I here?
+##
+
+<なぜ私はここにいる？>
+
+<Choice End>
+
+{Sara} [Midori: Mouth open / cara19-5]
+{SE: sceneswitch2}
+#Message#
+"...\N[4]. Why am I here?"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I never signed that consent form, and yet..."
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\.".........."
+##
+
+[Midori: Open-mouth frown / cara19-3]
+#Message#
+\."The fact that you're here..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."Must be because someone \C[2]wished\C[0] so, surely...?"
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent24-1}
+#Message#
+\."Well... Never mind that."
+##
+
+[Midori: Open-mouth frown / cara19-3]
+{SE: Accent42-1}
+#Message#
+\."I really think it's a shame, miss Sara."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."I so wanted you to wake up..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: flash-of-light-3}
+#Message#
+\."To see the awakening...
+ of the ultimate Sara Chidouin!!"
+##
+
+{Sara}
+#Message#
+\."...What's that supposed to mean?"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: shrink1}
+#Message#
+\."Hah... So you don't even know..."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\.".........."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"My miscalculation... was having Joe take part."\.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."What...?"\|
+##
+
+<Else>
+
+[Midori: Open-mouth frown / cara19-3]
+{SE: Accent41-1}
+#Message#
+\."J... Joe...?"
+##
+
+<Condition End>
+
+{\N[4]}
+#Message#
+\."I was opposed from the beginning, you know."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."To this silly \C[2]balancing\C[0] business..."
+##
+
+{Sara}
+#Message#
+\."I... can't see where you're going with this."
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."Miss Sara, what do you think those victory percentages
+ you've been carrying around are for?"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+"Yes, those. Did you think we were placing bets?"
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: flash-of-light-3}
+#Message#
+\."Gin's a dark horse! 100,000 yen! ...Like that."
+##
+
+{Sara}
+#Message#
+\."So then..."
+##
+
+#Choice#
+What did you prepare them for?!
+How much did you bet?!
+Are you data-obsessed?
+##
+
+<なんの為に用意した！>
+
+{Sara} [Midori: Mouth open / cara19-5]
+{SE: sceneswitch2}
+#Message#
+"What did you prepare such a thing for?!"
+##
+
+<いくら賭けたんだ！>
+
+{Sara} [Midori: Mouth open / cara19-5]
+{SE: sceneswitch2}
+#Message#
+"So how much did you bet?!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\."...Are you even listening, I wonder?"
+##
+
+<データマニアなのか？>
+
+{Sara} [Midori: Default grin / cara19-2]
+{SE: sceneswitch2}
+#Message#
+"Are you data-obsessed or what?! Disgusting...!"
+##
+
+{\N[4]}
+#Message#
+\."...Haha. A funny joke."
+##
+
+<Choice End>
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+\."This Death Game must be a holy event."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."Everyone must be given a fair chance...
+ a way to survive."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."In other words..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The victory rates... had to be made \C[2]equal\C[0]."
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\."Equal..."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."Exactly!"
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."In short, you were assigned handicaps."
+##
+
+[Midori: Mouth open, swirly eyes / cara19-6]
+{SE: shock1}
+#Message#
+\."So the weak... were given "helpers"..."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{N/A}
+#Message#
+\C[3]Balancing the victory percentages...?
+##
+
+#Message#
+\.\C[3]So for that... stupid reason...
+##
+
+{Sara}
+#Message#
+"..."
+##
+
+#Choice#
+You'll pay for this
+That's strange
+##
+
+<ゆるせない>
+
+{Sara} [Midori: Mouth open, swirly eyes / cara19-6]
+{SE: sceneswitch2}
+#Message#
+"You'll pay for this...!!"
+##
+
+#Message#
+\."You made us kill each other for your selfish project!"
+##
+
+#Message#
+\."And based on nonsense "winning percentages,"
+ you brought in completely unrelated people...?!"
+##
+
+#Message#
+\."Why?! Why...?!"
+##
+
+#Message#
+\."Even without doing that...
+ didn't I have the highest percentage?! Why...?!"
+##
+
+<それはおかしい>
+
+{Sara} [Midori: Mouth open, swirly eyes / cara19-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's... strange, though...
+ B-Because..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Don't I... have the highest victory rate...?"
+##
+
+#Message#
+\."Giving me an ally... doesn't make sense..."
+##
+
+<Choice End>
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."Haha, that's why it's curious..."
+##
+
+[Midori: Open-mouth frown / cara19-3]
+#Message#
+\."You see, miss Sara..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: sceneswitch2}
+#Message#
+\."When you have an ally... you're \C[2]weaker\C[0]."
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Hahaha... I remember it."
+##
+
+[Midori: Mouth open, swirly eyes (no collar) / cara19-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."In the worlds without Joe,
+ you were a truly terrifying sight to behold..."
+##
+
+{SE: Accent21-1}
+#Message#
+"A stronger survival instinct than anyone else.
+ A heart that would never give in..."
+##
+
+#Message#
+\."Such resourcefulness, strategy, and cunning...
+ You used any means to survive."
+##
+
+#Message#
+\."And the most terrifying part..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."...was how you used the deaths of others."
+##
+
+#Message#
+\."After killing them... you'd shed tears,
+ and tug at everyone's heartstrings."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Such tremendous charisma!
+ Even though you had zero intent of self-sacrifice..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."As the AI tests continued,
+ even I got shivers down my spine."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Haha... Hahaha..."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."If I could've met you like that...
+ Ahah..."
+##
+
+[Midori: Smug smirk with grave look / cara19-31]
+{SE: horror_piano chord3}
+#Message#
+\."Ahahahaha... Hahaha..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."But hey, have to obey the will of the organization!
+ I'm an adult, after all!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: sceneswitch2}
+#Message#
+"Well, miss Sara?
+ Did Joe do a good job dragging you down?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."..............."
+##
+
+#Message#
+\."It can't... be..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Are you saying... Joe..."
+##
+
+#Message#
+\."Was killed... for a reason like that...?!"
+##
+
+{N/A}
+{SE: dash-soil1}
+#Message#
+\C[10]\{\{　　　I'll kill you...!!\|\.\.\^
+##
+
+<Else>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Are you saying... my best friend..."
+##
+
+#Message#
+\."Was killed... for a reason like that...?!"
+##
+
+{N/A}
+{SE: dash-soil1}
+#Message#
+\C[10]\{\{　　　Unforgivable...!!\|\.\.\^
+##
+
+<Condition End>
+
+{\N[4]}
+#Message#
+"...Hey. You think you can win?"
+##
+
+{Sara}
+#Message#
+"You're not getting away with this...!!"
+##
+
+{\N[4]}
+#Message#
+"This isn't the kind of method I want from you..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+#Message#
+"Give them back!! Joe...! Everyone...!!"
+##
+
+<Else>
+
+#Message#
+"Give them back!! Everyone...!!"
+##
+
+<Condition End>
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"By everyone, you mean...?"
+##
+
+{Sara}
+#Message#
+"Nao...! And Kai...!!"
+##
+
+#Message#
+\."The people whose names aren't on the list...
+ They had no connection to anything, right?!"
+##
+
+#Message#
+\."And you used them like toys...!
+ For the most worthless of reasons!!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We were all just living regular lives!!"
+##
+
+#Message#
+\."Giving our all... to live normally...!"
+##
+
+{\N[4]}
+#Message#
+"*sigh*..."
+##
+
+#Message#
+\."Oh, dear... You really have gotten too kind..."\.\.
+##
+
+#Message#
+\{"But that's not you, is it, Sara!!"\}
+##
+
+{Sara}
+#Message#
+"...!!"
+##
+
+{\N[4]}
+#Message#
+"You're far more deceptive!! And despicable!!"
+##
+
+#Message#
+\."And demonic!! And bewitching!! And supreme!!"
+##
+
+#Message#
+\."Go back to the way you were then, Sara!!"
+##
+
+{Sara}
+#Message#
+"...!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, clenched teeth, grim look / cara91-26]
+#Message#
+"Stop it!!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."Huh...? You were still here?"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."Say, did you really intend to kill me just now?"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: shrink1}
+#Message#
+\."Why, that's strange...
+ If you did that, you'd die, remember?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, clenched teeth, grim look / cara91-26]
+#Message#
+\."Shaddup...!!"
+##
+
+#Message#
+\."You're human garbage! I'll kill you, bastard...!!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."...Hmmph."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent41-1}
+#Message#
+\."Are you going to drag down miss Sara, too...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, clenched teeth, grim look / cara91-26]
+#Message#
+\."Wha?!"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+"N-Not again...! My collar...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."It's the tag finale!
+ Gotta touch someone, or you're gonna die!"
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."I'll have you disappear too, Ranmaru...
+ for miss Sara's sake."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."And... give me a good show, won't you, miss Sara?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+"Wait!! Dammit... \N[4]...!!"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."L... Let's go after him, Sara...!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\.".........."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[3]Joe...
+##
+
+#Message#
+\.\C[3]He... was brought along with me...
+##
+
+#Message#
+\.\C[3]The worst...
+##
+
+#Message#
+\.\C[3]It happened... for the worst reason...
+##
+
+<Else>
+
+#Message#
+\C[3]I see...
+##
+
+#Message#
+\.\C[3]If it was my best friend that kept me in check...
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]And I'm not able to remember him... then I...
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{SE: Accent21-1}
+#Message#
+\."Ranmaru...?"
+##
+
+#Message#
+\."Shoot...! I have to go after him!!"
+##
+

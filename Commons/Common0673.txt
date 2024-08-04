@@ -1,0 +1,99 @@
+**********Common673********** (ﾚｺ「ｿｳなし」)
+{Reko}
+#Message#
+"Sou should be left out...
+ I mean, didn't he say he was the \C[10]Sacrifice\C[0] to start?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"W-What's with this...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Urgh...! Refute me if you wanna, but..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+"It's because Sou's the \C[10]Sacrifice\C[0]
+ that he's saying such rotten shit."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."If he spouts suspicious stuff and loses our trust,
+ he can get us to vote for him!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Leave him out, and his heart should calm down..."
+##
+
+{Sara}
+#Message#
+\."But... I wonder if just leaving him out
+ will make him say what he's really thinking..."
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."For an ally, he's a real pain, huh?!"
+##
+

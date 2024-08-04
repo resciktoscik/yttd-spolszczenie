@@ -1,0 +1,72 @@
+**********Common1418********** (戦②意味のない行動)
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+"Sorry, big sis Sara...
+ The floor was normal, woof..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No tricks there, huh...?!)
+##
+
+#Message#
+"Hmm... Didn't really find anything of note..."
+##
+
+#Message#
+\.\C[4](Maybe I should inspect something else...)
+##
+
+{Kurumada} [Kurumada: Angry, shouting / cara95-10]
+#Message#
+"Owww?! You screwin' with me?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Sure 'nuff... Punchin' it out had no meaning!!"
+##
+
+{Kurumada} [Kurumada: Clenched teeth, closed fist / cara95-4]
+#Message#
+\."We didn't even fight each other!
+ You just hurled me!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems unlikely that martial arts
+ have anything to do with it...)
+##
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+#Message#
+"A-Ahaha... No good. Couldn't hit it at all..."
+##
+
+[Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+\."*sniff*... My hands were shaking from the pressure...
+ I can't bear this kind of tension..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Relax, relax... Take a deep breath.
+ Let's think of another approach, okay?"
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent28-1}
+#Message#
+\."R-Right!"
+##
+
+{Sara}
+#Message#
+\.\C[4](At any rate...
+ Better not ask Anzu to do anything right now.)
+##
+

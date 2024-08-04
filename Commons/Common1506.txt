@@ -1,0 +1,495 @@
+**********Common1506********** (戦⑥『喜』の時)
+{N/A}
+{SE: button17}
+#Message#
+\C[3]Kanna accepted the handkerchief.
+##
+
+#Message#
+\C[3]Maple seems happy.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."Heehee... I'm glad... Kanna accepted it..."
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+"Y-Yes. Thank you very much."
+##
+
+{Maple}
+#Message#
+"It's fine... Don't worry... Heehee..."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\C[3]Sou accepted the handkerchief.
+##
+
+#Message#
+\C[3]Maple seems happy.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."Heehee... I'm glad... My handkerchief was accepted..."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Ahaha. Guess it wasn't a trap."
+##
+
+{Maple}
+#Message#
+"Heehee... Of course not... heehee..."
+##
+
+{SE: Accent28-1}
+#Message#
+"Heehee. It's so fun to chat with you, Hinako!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple is smiling happily.
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+#Message#
+"R-Right... Sure is, Maple..."
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Hah! So you can at least put on a fake smile."
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."...And what can you do that isn't punch things?"
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, shouting / cara95-14]
+#Message#
+\."What was that, ya damn kid?!"
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"Ahaha! So funny, so fun..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple is smiling happily.
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, smirk, sweating / cara95-12]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Oh?! Yeah! Yeah, that's right!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+#Message#
+\."Whaaa?! She laughed at such lame jokes?"
+##
+
+{Kurumada} [Kurumada: Angry, clenched teeth / cara95-9]
+{SE: horror_piano chord3}
+#Message#
+\."Bastard... I won't forget that one..."
+##
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."K-Kidding! Don't take it seriously!"
+##
+
+<Else>
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+{SE: Accent21-1}
+#Message#
+\."That was sooo funny..."
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, smirk, sweating / cara95-12]
+#Message#
+\."D-Don't be stupid... It wasn't much..."
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: shrink1}
+#Message#
+\."...Don't take that seriously."
+##
+
+{Kurumada} [Kurumada: Angry, clenched teeth / cara95-9]
+#Message#
+\."Bastard..."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Gwohh! Whenever I move, the pain in my back...!"
+##
+
+{N/A}
+#Message#
+\C[3]Q-taro fell over from the pain.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+"Poor thing, poor thing...
+ You're going to make me sad..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's happiness disappeared.
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Muscle gorillaaa!! You okay, meow?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."J-Jes' fine...! Don't worry, Gin...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."Please don't move! Your wound will...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I shouldn't be sleepin'
+ while all y'all are givin' yer best..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Sheesh... If you want to sacrifice yourself that bad,
+ I won't stop you."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Got no intention of doin' that...
+ or sacrificin' anybody else, either...!"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent21-1}
+#Message#
+\."Just rest! We don't need brute strength right now.
+ So keep your stamina up, Q-taro."
+##
+
+<Else>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent21-1}
+#Message#
+\."Rest and keep your stamina, you burden...
+ We only want your strength at peak health."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."Sorry... everybody..."
+##
+
+{Maple} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+{SE: Accent28-1}
+#Message#
+"What's wrong? Are you bored?
+ Am I... boring...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's happiness disappeared.
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Th... That ain't it!
+ I was just listening to you talk happily...!!"
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"I'm boring... I'm boring...
+ Reko hates me... she hates me..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."It ain't like that!! I love ya!! Okay?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."I feel like I've watched this scene
+ play out at a train station!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Damn, it's tough figuring out a woman's heart...!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."This is sounding like a couple's argument..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."I'm being serious here!! Shit...!"
+##
+
+<Condition End>
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"What's wrong? Are you bored?
+ Am I... boring...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's happiness disappeared.
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"H-Hey...! You misunderstand!
+ I just thought I'd listen to you speak..."
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"I'm boring... I'm boring...
+ Alice hates me... he hates me..."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"I swear I don't hate yooooou!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."I don't get what you're doing anymore...!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."He's being serious, but it's not cutting it, meow!!"
+##
+
+<Else>
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\."Our lives are on the line... Be serious."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Does it look like I'm joking to yooooou?!"
+##
+
+<Condition End>
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"You don't want the handkerchief I gave you...?
+ You're throwing it away...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's happiness disappeared.
+##
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+"T-That's not it! I just, um...!"
+##
+
+{Maple}
+#Message#
+"So mean, Kanna... I thought we were friends...
+ So mean..."
+##
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+"Aah...! I'm sorry!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Kanna! Don't actually get sad about it...
+ She's just running amok right now!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Ahem... What are you doing shrinking away?
+ Are you not aiming to be strong, Kanna Kizuchi?"
+##
+
+<Condition End>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+{SE: Accent28-1}
+#Message#
+"Y-You're right...!
+ Kanna won't fall into sadness!"
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+"You don't want the handkerchief I gave you...?
+ You're throwing it away...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's happiness disappeared.
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+"I... I'm just giving it back, okay...?"
+##
+
+{Maple}
+#Message#
+"You don't want it...
+ Of course you don't want a present from me..."
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+"I-I didn't say anything like that! It made me happy!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+#Message#
+\."W-What're you doing, Sou?!
+ Help us out here!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Tch! Such clumsiness...!
+ A handkerchief could wipe off that cold sweat!"
+##
+
+<Condition End>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+"Shut up...!
+ I'm trying to take this seriously!"
+##
+
+{Maple}
+{SE: se_maoudamashii_magical14}
+#Message#
+"That's right... Ranmaru stole my letter...
+ I remember... I remember..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's happiness disappeared.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"Shoot...! Now wasn't the time to show her!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."G-Get away, Ranmaru!
+ She'll definitely be mad!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+\."Waugh...! Right!!"
+##
+
+<Else>
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Y'know, when you shoplift,
+ it's not as simple as just giving it back..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."I ain't a shoplifter!!"
+##
+
+<Condition End>
+

@@ -1,0 +1,92 @@
+**********Common1439********** (戦③意味はある行動)
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Meow!! I caught a whiff of gunpowder, woof!"
+##
+
+{Sara}
+#Message#
+\."Gunpowder...?!"
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."Found it, meow!
+ Big sis Sara! This was it, woof!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained handheld fireworks.
+##
+
+{Sara}
+#Message#
+\.\C[4](Won't it be chaos if we use this here...?!)
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent28-1}
+#Message#
+"Hahaha...! I did it, Gin!
+ I put it away on the shelf!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."You're amazing, meow!!
+ Now sort out the other books too, woof!"
+##
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+#Message#
+\."Wha...?! Give me a break!
+ I doubt I can do any more than that...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Still, I feel like it bought us a little time...!)
+##
+
+{N/A}
+#Message#
+\C[3]The room caught fire.
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+"N... No way! Why is the fire spreading so much...?!"
+##
+
+{Sara}
+#Message#
+\."W-We can't even fight like this...!!"
+##
+
+{N/A}
+#Message#
+\C[3]Flames spread through the entire room.
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+"T... This isn't right! I don't want thiiis...!!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."There's nowhere to run...!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."We're gonna...!!"
+##
+
+{Sara}
+#Message#
+\."N... NoooooOOOOO!!"
+##
+

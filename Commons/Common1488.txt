@@ -1,0 +1,291 @@
+**********Common1488********** (★ﾊﾞﾄﾙ⑥前・流れ)
+{Maple}
+#Message#
+"Never forgive!! Never forgive!! Never forgive!!"
+##
+
+#Message#
+\."Why did!! You take!! Hiyori!! From me!!"
+##
+
+#Message#
+\."I hate you, Ranmaru!! I hate you, Sara!!
+ I just wanted to be friends!!"
+##
+
+{N/A}
+{SE: Attack1}
+#Message#
+\.\C[3]Something black extended from Maple's back.
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Urgh...!!"
+##
+
+{N/A}
+#Message#
+\C[3]The sharp black object pierced through the door.
+##
+
+{Sara}
+#Message#
+\.\C[4](Th... That was close...!)
+##
+
+{Maple}
+#Message#
+\."Oooooghhh...!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Big sis Sara!! Are you okay, meow!?"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."It's dangerous...! Don't go out in front!"
+##
+
+<Else>
+
+{Kurumada} [Kurumada: Narrowed eyes, smirk, sweating / cara95-12]
+#Message#
+\."Hahaha... Havin' fun in here, are we?"
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."I was wonderin' what kinda monster it could be...
+ But THIS is Maple?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Everyone...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Talking didn't work out, huh?!
+ But looks like you got the ID card...!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Talking it out was a no-go, hm...?!
+ But it seems you have the ID card, yes?!"
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."L-Let's run, everyone!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We gotta run... or else."
+##
+
+<Condition End>
+
+{Maple}
+#Message#
+"You're so mean...!! Ganging up to bully me..."
+##
+
+#Message#
+\."S-\.So m \.so mea \.me \.mea..."
+##
+
+#Message#
+\."A-\.aa-\.ah..."
+##
+
+#Message#
+"\.Sad\. glad\. \C[10]no mercy\C[0]..."
+##
+
+#Message#
+\."\C[10]KILL\. \C[0]don't want to kill you\. \C[10]I'LL KILL YOU\C[0]"
+##
+
+#Message#
+\."Run\. \C[10]die\. \C[0]let's be friends~!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+"H-Hey... She's startin' to act really strange..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Maple's emotions... are all jumbled up...)
+##
+
+#Message#
+\.\C[4](I don't know how we should handle this, but...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](We shouldn't fight her...!)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](Is there... some way we can reconcile?!)
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End>
+
+{Maple}
+#Message#
+"Never forgive!! Never forgive!! Never forgive!!"
+##
+
+#Message#
+\."Why did!! You take!! Hiyori!! From me!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Ugh...)
+##
+
+{Maple}
+#Message#
+\."Sara..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Are you thinking "she'd never harm us anyway"...?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Huh?)
+##
+
+{Maple}
+#Message#
+\."Just disappear!! Sara and Ranmaru both!!"
+##
+
+{N/A}
+{SE: Attack1}
+#Message#
+\.\C[3]Something black extended from Maple's back.
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Urk...!!"
+##
+
+{N/A}
+#Message#
+\C[3]The black object pierced the ceiling.
+##
+
+{Sara}
+{SE: horror_piano chord3}
+#Message#
+\SP[12]"Ah..."\.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+"Sara...?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]My head... hurts.\.
+##
+
+#Message#
+\.\C[3]Something's dripping from my head down my cheek.
+##
+
+#Message#
+\.\C[3]...Blood.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]Did... the ceiling... fall down...?
+##
+
+{Ranmaru}
+#Message#
+"H-Hey...! Sara!! Sara...!!"
+##
+
+{SE: Damage4}
+#Message#
+\."Sara!!"
+##
+
+{N/A}
+#Message#
+\C[3]It's hot... My head hurts like it's going to split.
+##
+
+{Ranmaru}
+{SE: feed1}
+#Message#
+\."No...! Don't die!! Don't die, dammit...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Ranmaru's voice sounds muffled.
+##
+
+#Message#
+\.\C[3]Am I... dying...?
+##
+
+#Message#
+\.\C[3]No... I still...
+##
+
+#Message#
+\.\C[3]I... still...
+##
+

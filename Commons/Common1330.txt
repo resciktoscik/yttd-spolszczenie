@@ -1,0 +1,257 @@
+**********Common1330********** (10、間違いどす)
+{Keiji}
+#Message#
+\C[4](These flowers on the table...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."They're flowers from a teammate who came to visit..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."I dunno nothin' about types of flowers...
+ And the nurse took care of all the watering."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."You didn't happen to, say,
+ mistake them for vegetables and eat them...?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."I didn't eat 'em!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](Hmph... Well, nothing odd there, it seems.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](This building way in the back...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ It was just a building."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Lotta offices in that town... Lots of big buildings."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Nothing suspicious here...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This cup on the table...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."You're curious about that?
+ It's just a cup, right?"
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."That \N[4] was always going "sure is hot"
+ and drinking water."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Did \N[4] sweat a lot...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](The chair Gin's sitting in...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm...
+ I think it was just a chair like I remember, meow."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I don't like my feet not touching the floor,
+ so I always bring it down real low, woof!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Elementary school ranges from
+ first grade to sixth grade, after all...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](These ice cream price tags...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ They were just price tags."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+#Message#
+\."The ice cream was cheaper than the cakes,
+ so sister bought it all the time."
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\.\C[4](What a good sister...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\C[4](This plate that says "Cell 3"...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's just a plate with my cell number."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."It may be obvious, but there were dangerous criminals
+ in considerable number there as well...!"
+##
+
+[Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."It was freakin' scary, honestly!!
+ Prison is helllll!!"
+##
+
+{Sara} [Sara: Hands on hips, nervous sweat / cara0-20]
+#Message#
+\.\C[4](Must have been hard to endure...)
+##
+
+<やめる>
+
+<Choice End>
+

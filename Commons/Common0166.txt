@@ -1,0 +1,96 @@
+**********Common166********** (ﾅｵ「ｻﾗは良い人」)
+{Nao}
+#Message#
+"Doubting the others is one thing,
+ but doubting Sara?! You're awful...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Um... So what about that...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+"Hwah...? Did I say something strange...?"
+##
+
+{Sara}
+#Message#
+\."No..."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Err... I guess I'm sorry then..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I made her feel awkward...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+"I want him to repent for saying that! He must!"
+##
+
+{Sara}
+#Message#
+\."...Please calm down, Nao."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Ah, s... sorry..."
+##
+

@@ -1,0 +1,253 @@
+=====Map85===== (Charge Card Battle)
+
+**********Event5********** (sara) (1,12)
+-----Page1-----
+{Sara}
+#Message#
+"As an Earthling...
+ I'm not going to let myself be defeated by an alien."
+##
+
+#Message#
+"A gunman... With my samurai spirit, I'll be on top!"
+##
+
+#Message#
+"I like rabbits, but this battle's a different story!"
+##
+
+-----Page2-----
+{Sara}
+#Message#
+"All I can do... is cheer on...!"
+##
+
+
+**********Event8********** (aibo) (15,12)
+-----Page1-----
+{Keiji}
+#Message#
+"Our foe's an alien, eh...?
+ A real encounter with the unknown."
+##
+
+#Message#
+"Doesn't seem the brightest.
+ It doesn't attack often with the 1st and 2nd cards."
+##
+
+#Message#
+"Our enemy must love to save up...
+ The only time it attacks is on the 3rd card."
+##
+
+#Message#
+"A cowboy... Is our opponent from a Western?"
+##
+
+#Message#
+"Our enemy seems to wanna charge with Card 1.
+ Might not attack us then."
+##
+
+#Message#
+"Our enemy sure loves to charge with Card 1.
+ Then attack with Card 2... Just like a gunman."
+##
+
+#Message#
+"And here comes a real uncute rabbit."
+##
+
+#Message#
+"Hard to get on a hold on 'em.
+ But seems they attack relatively little with Card 1."
+##
+
+#Message#
+"The enemy either charges or attacks with Card 1.
+ After that, it's pretty scattered..."
+##
+
+-----Page2-----
+{Q-taro}
+#Message#
+"There's'n alien!"
+##
+
+#Message#
+"The enemy... ain't attackin' much
+ with the 1st and 2nd cards, seems like."
+##
+
+#Message#
+"Seems like the enemy only attacks wit' Card 3.
+ Block with Card 3, and we got this!"
+##
+
+#Message#
+"This's one gross, goopy enemy!"
+##
+
+#Message#
+"Feelin' like the enemy doesn't attack much
+ with the first card."
+##
+
+#Message#
+"The enemy's always chargin' with Card 1!
+ And rarin' to attack on Card 2!"
+##
+
+#Message#
+"A rabbit, eh? Let's cook 'em in a stew!"
+##
+
+#Message#
+"Seems the enemy don't attack much on Card 1."
+##
+
+#Message#
+"Enemy tends to charge on Card 1,
+ but it ain't definite. Kinda inconsistent overall."
+##
+
+-----Page3-----
+{Gin}
+#Message#
+"Myah?! An alien, woof! We're gonna
+ get our brains modded, meow!"
+##
+
+#Message#
+"It's scary, but it doesn't seem that tough, meow!"
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"That alien only attacks with Card 3, woof!
+ Guess you've won if you block with Card 3, meow?"
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"A slimy guy, meow! Keep your distance
+ and don't touch it, woof!"
+##
+
+#Message#
+"...I'm just a little curious
+ what that thing feels like, meow."
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"The slime man always tries to charge with Card 1
+ and attack with Card 2, woof! ...Maybe."
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"I... It's a bunny, woof... Scary bunny, meow..."
+##
+
+#Message#
+"I'm scared, woof...
+ I'll give you carrots, okay? Just leave, meow..."
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"That thing... tends to charge on Card 1, meow...
+ I'm scaaared..."
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+
+**********Event25********** (EV025) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."We'll start with me...!"
+##
+
+{Keiji}
+#Message#
+\."I'll be keeping watch."
+##
+
+{Q-taro}
+#Message#
+\."Go get 'em, Sara!"
+##
+
+{Gin}
+#Message#
+\."Meow! Good luck, big sis Sara!
+ I'm rooting for you, woof!!"
+##
+
+{N/A}
+#Message#
+Charge Card Battle ~Rules~
+##
+
+#Message#
+\.Select a set of three cards to do battle with
+from among four types.
+##
+
+#Message#
+\.\C[4]Charge\C[0] .... Charges 1 energy.
+\C[2]Beam\C[0] ...... Expends 1 energy to attack.
+\C[6]Special\C[0] ... Expends 3 energy for a strong attack.
+\C[3]Block\C[0] ..... Completely blocks attack.
+##
+
+#Message#
+\.If they pick \C[4]Charge\C[0] and you pick \C[2]Beam\C[0], it's a hit!
+But you need to \C[4]Charge\C[0] in order to attack!
+
+...That's the gist of the game.
+##
+
+#Message#
+\.Note that in the case of \C[2]Beam\C[0] versus \C[6]Special\C[0],
+\C[6]Special\C[0] pierces through and wins.
+##
+
+#Choice#
+Hear it again
+Just try it
+##
+
+<もう一度説明を聞く>
+
+<とりあえずやってみる>
+
+{N/A}
+#Message#
+\.Touching your ally's icon will give you
+advice and the like, so... Good luck.
+##
+
+<Choice End>
+

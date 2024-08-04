@@ -1,0 +1,16 @@
+**********Common110********** (投票サラ)
+#Message#
+Vote for \C[2]Sara\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

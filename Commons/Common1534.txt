@@ -1,0 +1,48 @@
+**********Common1534********** (■ﾀｹﾞ怯えたAI)
+#Message#
+\C[3]Use \V[922] on the Frightened AI?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+

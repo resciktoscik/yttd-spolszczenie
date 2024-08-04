@@ -1,0 +1,289 @@
+**********Common1335********** (15、間違いどす)
+{Keiji}
+#Message#
+\C[4](This silhouette across the way...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."Yeah... That was the old man in the other ward."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+#Message#
+\."We'd make eye contact, but I never greeted him..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."And every day he'd give me this glare that said
+ "I'm your elder! Greet me first, whippersnapper!""
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."The birth of a fine rivalry..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."It ain't a joke! I was down in the dumps then...!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](Well... Doesn't seem to be a suspicious individual.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](This grass on the building...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Probably just decorative grass."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."But in a place packed with buildings,
+ havin' plants sure helps the atmosphere."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."You gotta go someplace with good style
+ if you wanna polish your own style."
+##
+
+{Sara} [Sara: Yell / cara0-26]
+#Message#
+\."I'll keep that in mind!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Hey, that's the spirit!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+\C[4](This stuffed cat...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."You're curious about that?
+ It's just a toy cat, right?"
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Nothing unusual about it.
+ It just meows when you press its stomach."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."You like cute things, huh?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...Take this seriously, miss Sara."
+##
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\."O-Okay..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\C[4](This middle picture on the whiteboard...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."Of course, woof! This is a picture I drew, meow!"
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."It's when mom and dad and I saw some fireworks, meow!
+ They were really pretty, woof!"
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."Heehee... Fireworks are great, huh."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."I didn't like the crowds, but it was fun, meow!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\C[4](The cash register...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ It was just a register."
+##
+
+[Kanna: Neutral smile / cara3-9]
+#Message#
+\."Kanna wants to try using a register sometime..."
+##
+
+{Sara} [Sara: Surprise / cara0-16]
+#Message#
+\."You want a part-time job?"
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."I want to go "beep-beep-beep, shoop!" all cool-like!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Is that why...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This ladder connecting the beds...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's just a ladder."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."I'd respond to your demand... but it's just so normal.
+ It'd be difficult to remember the ladder in detail!"
+##
+
+{Sara} [Sara: Hands on hips, upset / cara0-13]
+#Message#
+\.\C[4](Please, do your best, Alice...!)
+##
+
+<やめる>
+
+<Choice End>
+

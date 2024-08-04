@@ -1,0 +1,371 @@
+**********Common1508********** (戦⑥『哀』の時)
+{Maple}
+{SE: Accent28-1}
+#Message#
+"*sniff, sniff*... You're giving me this? Thank you..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness was lessened.
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+"I'm giving this back.
+ Please, use it to wipe your tears."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+{SE: Accent21-1}
+#Message#
+\."Kanna... has cried lots up to now, too..."
+##
+
+{Maple}
+#Message#
+"So kind, Kanna... I love you... So kind..."
+##
+
+{SE: Accent28-1}
+#Message#
+"*sniff, sniff*... You're giving me this? Thank you..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness was lessened.
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent21-1}
+#Message#
+"Will this do?
+ Stop crying already, it's annoying."
+##
+
+{Maple}
+#Message#
+"Your words are cold, but you're kind...
+ Just like Hiyori... You're kind..."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Don't associate me with him..."
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"You're giving it back...? Thank you, Ranmaru..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness was lessened.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+{SE: Accent21-1}
+#Message#
+"U-Um... sorry about that...
+ Cheer up, okay?"
+##
+
+{Maple}
+#Message#
+"So kind, Ranmaru... I hated you before,
+ but I've changed my mind a little..."
+##
+
+#Message#
+"*sniff*... I'm too sad to chat right now...
+ But making Hinako worry makes me sadder..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness increased.
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"Ugh...! What a pain! Don't cry!!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+{SE: Accent21-1}
+#Message#
+\."Hey, hey! Stop with the scary look, Hinako!
+ C'mon, settle down!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Hey!
+ Show that kindness to her, not me!"
+##
+
+<Else>
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+\."Hey now, don't fight."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Wha?! As if I want to hear that from you...!"
+##
+
+<Condition End>
+
+{Maple}
+#Message#
+"*sniff*... So sad...
+ As if I could smile... I hate you, Kurumada..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness increased.
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, clenched teeth, sweating / cara95-13]
+#Message#
+"Laugh, dammit...!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."I thought they were funny, myself... Hahaha..."
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, shouting / cara95-14]
+#Message#
+\."I know, right?! Shit...!!"
+##
+
+<Else>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."P-Put yourself in her shoes, man..."
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, clenched teeth, sweating / cara95-13]
+#Message#
+\."You tryin' to say they were lame?! Huh?!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."No, it just wasn't the time for laughter...!"
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Gwohh! Whenever I move, the pain in my back...!"
+##
+
+{N/A}
+#Message#
+\C[3]Q-taro fell over from the pain.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+"Poor thing, poor thing...
+ You're going to make me sad..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness increased.
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Muscle gorillaaa!! You okay, meow?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."J-Jes' fine...! Don't worry, Gin...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."Please don't move! Your wound will...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I shouldn't be sleepin'
+ while all y'all are givin' yer best..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Sheesh... If you want to sacrifice yourself that bad,
+ I won't stop you."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Got no intention of doin' that...
+ or sacrificin' anybody else, either...!"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent21-1}
+#Message#
+\."Just rest! We don't need brute strength right now.
+ So keep your stamina up, Q-taro."
+##
+
+<Else>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent21-1}
+#Message#
+\."Rest and keep your stamina, you burden...
+ We want your strength at peak health."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."Sorry... everybody..."
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"*sniff*... Why won't you say anything?
+ Sad... so sad..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness increased.
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"T-That ain't it...!
+ I thought I'd listen to hear how sad you were...!"
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"*sniffle*... You must think I'm a pain...
+ You think I'm just depressing..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."It ain't like that!! Let's talk it out!! Alright?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+\."Reko! Good luck!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Damn, it's tough figuring out a woman's heart...!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."*sigh*... Don't take this so lightly."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."I'm being serious here!! Shit...!"
+##
+
+<Condition End>
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"*sniff*... Why won't you say anything?
+ Sad... so sad..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness increased.
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"H-Hey...! That isn't it!
+ I thought I would silently hear our your sadness..."
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"*sniffle*... You must think I'm a pain...
+ You think I'm just depressing..."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"No, you're not depressing at alllll!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+\."Alice, good luck!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."They're looking right past each other, meow!!"
+##
+
+<Else>
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\."Our lives are on the line... Be serious."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Does it look like I'm joking to yooooou?!"
+##
+
+<Condition End>
+

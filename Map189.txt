@@ -1,0 +1,231 @@
+=====Map189===== (Final Chapter Part One OP5)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+"I... It's a monster...!!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: Accent28-1}
+#Message#
+"That's right. You're dead meat
+ if you don't handle it the right way, got it?"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Meowww?! That's absurd, muscle punk!
+ We can't fight against something like this, woof!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."True... I can't imagine we can do much
+ taking it on fair and square."
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent28-1}
+#Message#
+\."...Then put your wits together."
+##
+
+[Hinako: Small grin / cara93-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We'll all think about it,
+ and \C[2]pick someone's idea\C[0] to drive it away."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: flash-of-light-3}
+#Message#
+\."If we discuss it...
+ We might jus' \C[2]figure out a weakness\C[0]!"
+##
+
+{Sara}
+#Message#
+\."Understood...!"
+##
+
+#Message#
+\C[4](There must be some way to repel it...!)
+##
+
+
+**********Event3********** (EV003) (3,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The monster is just looking this way.
+##
+
+#Message#
+\C[3]The monster is sizing up its surroundings.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Urgh...! What're you lookin' at?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"Hmph... Narrowing down your targets?"
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]The monster turned toward \C[2]Hayasaka\C[3].
+##
+
+{Monster}
+#Message#
+\.\C[10]\sp[15]"FOUND YOU... FOUND YOU..."
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: horror_piano chord3}
+#Message#
+"Ha... haha...
+ I've got a bad feeling..."
+##
+
+{N/A}
+#Message#
+\C[3]The monster is laughing fearlessly.
+##
+
+#Message#
+\.\C[3]The monster attacked \C[2]Hayasaka\C[3]!
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+"T-This is no joke...!"
+##
+
+{N/A}
+{SE: Evasion1}
+#Message#
+\C[3]Hayasaka ducked behind the others to escape danger.
+##
+
+#Message#
+\C[3]The monster is now staring at \C[2]Anzu\C[3].
+##
+
+{Monster}
+#Message#
+\.\C[10]\sp[15]"YOU... YOU..."
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+"Eek?! What?!
+ You're creepy!!"
+##
+
+{N/A}
+#Message#
+\C[3]The monster attacked \C[2]Anzu\C[3]!
+##
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+"N... NOOOOOOOOOO!!"
+##
+
+{N/A}
+#Message#
+\C[3]The monster is grappling with \C[2]Anzu\C[3].
+##
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+"Stop...!! Stop ittt...!!"
+##
+
+{N/A}
+#Message#
+\C[3]The monster lifted up \C[2]Anzu\C[3] and stuffed her in a coffin.
+##
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+"H-Hey!! Let me out!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](The red parts of the monster are electrified!
+ We should only touch the armor...!)
+##
+
+#Message#
+\.\C[4](The monster doesn't feel pain!
+ If we want to use the torch, we'll have to
+ grab its attention or immobilize it...!)
+##
+
+#Message#
+\.\C[4](The red thing on its chest...
+ What exactly is that? A weak point...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The monster is defenselessly trying to get up.
+##
+
+#Message#
+\C[3]The monster is being held down.
+##
+
+#Message#
+\C[3]The monster is defenselessly trying to get up.
+##
+
+#Message#
+\C[3]The monster got up!
+##
+
+#Message#
+\C[3]The monster broke out of the hold!
+##
+
+#Message#
+\C[3]The monster got up!
+##
+
+
+**********Event5********** (スコップ) (1,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Shovel]
+A tool for digging earth.
+It's heavy, so it could be swung like a weapon.
+##
+
+
+**********Event6********** (スコップ) (2,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Flaming Stick]
+A wall-mounted torch.
+This should burn anything flammable.
+##
+

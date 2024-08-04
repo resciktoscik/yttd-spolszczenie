@@ -1,0 +1,23 @@
+**********Common191********** (ｶｲ 八分雨？)
+[Kai: Default / cara8-1]
+#Message#
+\C[3]Select Kai as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Kai: Default / cara8-1]
+#Message#
+\.\C[4](No! Kai is Kai Satou!
+ It's a very common name, but... I think that was it.)
+##
+
+<いいえ>
+
+<Choice End>
+

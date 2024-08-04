@@ -1,0 +1,17 @@
+**********Common1020********** (①ケイジB選択)
+{N/A}
+#Message#
+"Might wanna observe our opponent..."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

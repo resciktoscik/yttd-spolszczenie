@@ -1,0 +1,98 @@
+**********Common818********** (ｶﾝﾅ「見落とし？」)
+{Kanna}
+#Message#
+"We haven't touched on them yet, so maybe there's
+ something odd about the occupations on the roster...!"
+##
+
+#Message#
+"Is there something about these sheets
+ we're still overlooking...?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"C... Can this prove the transgression?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"W-What do you mean, I wonder...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+"Sou... wasn't a job-hopper, then..."
+##
+
+#Message#
+"We've established the chances of victory
+ and everyone's real names, but..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent28-1}
+#Message#
+\."For instance... we haven't touched on them yet,
+ so maybe there's something odd about the occupations!"
+##
+
+{Sara}
+#Message#
+\.\C[4](The occupations...)
+##
+

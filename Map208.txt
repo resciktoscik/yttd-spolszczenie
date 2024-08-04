@@ -1,0 +1,648 @@
+=====Map208===== (★Battle Ring)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: horror_piano chord3}
+#Message#
+"Mya...?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."What the hell?! What is this?!"
+##
+
+<Else>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."What in the...?! What's this?!"
+##
+
+<Condition End>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](There's liquid pouring from those windows...!)
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."It's magma, woof!!
+ We're gonna be melted, meow!!"
+##
+
+{Kurumada} [Kurumada: Angry, clenched teeth / cara95-9]
+#Message#
+\."You gotta be shittin' me!
+ So it's not gonna be a monster?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What do we even do about this...?!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Seems like your forte, Sara."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Huh?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Just take a look around the room..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Use your sharp eyes to \C[2]identify anything suspicious\C[0]."
+##
+
+{Sara}
+#Message#
+\."Anything suspicious...?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Then let your friendly policeman and company
+ be your arms and legs to solve this puzzle."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Understood! I'll try...!"
+##
+
+
+**********Event2********** (EV002) (4,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Liquid is streaming in forcefully beneath the ring.
+##
+
+#Message#
+\C[3]The height of the liquid is slowly rising.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Damn...! It just keeps rising!!
+ What should we do?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"Hmph... A trap to kill us all together...
+ I mustn't die here!!"
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]The height of the liquid is slowly rising.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+"It's okay, Sara.
+ I know you can solve this room."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Point out anything you think is suspicious.
+ ...Only you can get everybody moving."
+##
+
+{N/A}
+#Message#
+\C[3]The height of the liquid is slowly rising.
+##
+
+#Message#
+\C[3]The liquid is creeping onto the stage.
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"The level's risen... Hahaha... This is bad..."
+##
+
+{N/A}
+#Message#
+\C[3]The height of the liquid is slowly rising.
+##
+
+{Kurumada} [Kurumada: Clenched teeth, closed fist / cara95-4]
+#Message#
+"Shit...!! The hell can we do about this?!"
+##
+
+{N/A}
+#Message#
+\C[3]The height of the liquid is slowly rising.
+##
+
+#Message#
+\C[3]The height of the liquid is slowly rising.
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+"There must be a hint to solving this in the room...!"
+##
+
+{N/A}
+#Message#
+\C[3]The liquid has flooded onto the stage.
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Meowwwww...!! It's up to my feet, woof!"
+##
+
+{N/A}
+#Message#
+\C[3]The height of the liquid is slowly rising.
+##
+
+#Message#
+\C[3]The liquid is utterly overflowing.
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+#Message#
+"Any more and we're in trouble!!
+ Finish this, miss Sara!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Three of the four posts changed color...
+ And the colors of these uncut ropes...!
+ They must be key to solving this puzzle!)
+##
+
+#Message#
+\.\C[4](Three of the four posts changed color...
+ So is there something about the remaining post?)
+##
+
+#Message#
+\.\C[4](Have to \C[2]point out any suspicious spots\C[4]...
+ I'm sure I'll have a realization!!)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The height of the liquid is slowly rising.
+##
+
+#Message#
+\C[3]The height of the liquid is slowly rising.
+##
+
+
+**********Event3********** (hidari) (6,6)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Liquid continues to pour in.
+##
+
+{Sara}
+#Message#
+\.\C[4](The liquid wasn't magma at all.
+ It seems harmless to touch.)
+##
+
+#Message#
+\.\C[4](If that's magma, like Gin says...
+ It should still give off light in the dark...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Liquid continues to pour in.
+##
+
+{Sara}
+#Message#
+\.\C[4](The liquid wasn't magma at all.
+ It seems harmless to touch.)
+##
+
+#Message#
+\.\C[4](If that's magma, like Gin says...
+ It should still give off light in the dark...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Liquid continues to pour in.
+##
+
+{Sara}
+#Message#
+\.\C[4](The liquid wasn't magma at all.
+ It seems harmless to touch.)
+##
+
+#Message#
+\.\C[4](If that's magma, like Gin says...
+ It should still give off light in the dark...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event4********** (migi) (10,6)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Liquid continues to pour in.
+##
+
+{Sara}
+#Message#
+\.\C[4](The liquid wasn't magma at all.
+ It seems harmless to touch.)
+##
+
+#Message#
+\.\C[4](If that's magma, like Gin says...
+ It should still give off light in the dark...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Liquid continues to pour in.
+##
+
+{Sara}
+#Message#
+\.\C[4](The liquid wasn't magma at all.
+ It seems harmless to touch.)
+##
+
+#Message#
+\.\C[4](If that's magma, like Gin says...
+ It should still give off light in the dark...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Liquid continues to pour in.
+##
+
+{Sara}
+#Message#
+\.\C[4](The liquid wasn't magma at all.
+ It seems harmless to touch.)
+##
+
+#Message#
+\.\C[4](If that's magma, like Gin says...
+ It should still give off light in the dark...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event5********** (tenjo) (0,2)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Three lights dimly illuminate the room.
+##
+
+{Sara}
+#Message#
+\.\C[4](A knife stuck to the ceiling...
+ Is this a hint to solving the puzzle?)
+##
+
+#Message#
+\.\C[4](Huh? These lights... Something seems off.
+ I wonder what it is...?)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event7********** (ho-tyo) (9,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a strange shadow on the ground.
+##
+
+{Sara}
+#Message#
+\.\C[4](A knife stuck to the ceiling...
+ Is this a hint to solving the puzzle?)
+##
+
+#Message#
+\.\C[4](What's this shadow?
+ Is there something on the ceiling?)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event45********** (posuto) (4,6)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a lit corner post in the back-left.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm having Ranmaru investigate this...!)
+##
+
+{N/A}
+#Message#
+\C[3]There's a black corner post in the back-left.
+##
+
+{Sara}
+#Message#
+\.\C[4](This post seems different from the others...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event48********** (dameposuto) (12,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The back-right corner post.
+##
+
+{Sara}
+#Message#
+\.\C[4](It doesn't look unusual, but...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event51********** (migitemae) (16,12)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]The front-right corner post.
+##
+
+{Sara}
+#Message#
+\.\C[4](It doesn't look unusual, but...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event52********** (hidaritemae) (0,12)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]The front-left corner post.
+##
+
+{Sara}
+#Message#
+\.\C[4](It doesn't look unusual, but...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event57********** (sirosen) (4,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Some sort of white cord.
+##
+
+{Sara}
+#Message#
+\.\C[4](A cord...?
+ It's connected to the back-left post...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A white power cord is connected to the back-left post.
+##
+
+{Sara}
+#Message#
+\.\C[4](If the liquid gets up to the stage,
+ that'll be dangerous...)
+##
+
+
+**********Event59********** (ro-pu) (2,12)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Only the hard ropes remain.
+##
+
+{Sara}
+#Message#
+\.\C[4](We cut all the soft ropes with the knife!
+ We're definitely progressing on this puzzle...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Colorful ropes surround the ring.
+##
+
+{Sara}
+#Message#
+\.\C[4](Hard ropes and soft ropes...
+ It seems to be a mix of two types!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Colorful ropes surround the ring.
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... Do these colors mean something?
+ Maybe I should try touching them...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+<やめる>
+
+<Choice End>
+

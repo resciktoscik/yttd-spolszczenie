@@ -1,0 +1,178 @@
+**********Common48********** (ﾅｵ・自己紹介)
+{Woman in Overalls}
+#Message#
+"I-I'm a former student of Professor Mishima's!
+ Currently at an art college!"
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+"The First Trial... It was terrifying...
+ Only one key... but we sanded it down,
+ and managed to escape..."
+##
+
+{Woman in Overalls} [Nao: Wide eyes, mouth open / cara7-2]
+{SE: Accent28-1}
+#Message#
+"My name is \C[2]Nao Egokoro\C[0]!
+ It's thanks to Professor Mishima
+ that I attend an art college now!"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."The professor's a good person!
+ Please believe me! Saraaaaa!!"
+##
+
+{Sara}
+#Message#
+\."I-I'm not especially doubting it..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Yep, just Mr. Policeman here who suspected him."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."Then please, repent!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Sure. Professor Mishima's not suspicious."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."S... So you understand...!
+ In that case, my work here is done..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I should ask Nao something too.)
+##
+
+#Choice#
+About the First Trial
+Memory of being brought here
+##
+
+<最初の試練について>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"The First Trial? It was terrifying..."
+##
+
+<連れて来られた時の記憶>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"My memory of being brought here..."
+##
+
+#Message#
+\."Sorry... It's the same story as the professor's.
+ I lost consciousness in the car
+ at a security checkpoint..."
+##
+
+#Message#
+\."Other than that...
+ About all I remember is the First Trial."
+##
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."It was a game where we were tied to beds...
+ and had to escape with just one key..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](That's the same thing we did...!)
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."I... Professor Mishima instructed me
+ to use the sandpaper on the key...
+ then I unlocked his restraints."
+##
+
+#Message#
+\."Honestly...
+ It's thanks to him I was able to stay calm..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Trust...)
+##
+
+#Message#
+\.\C[4](Was that a game that evaluated trust...?)
+##
+
+#Message#
+\.\C[4](Why... would the culprit make us do that?)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](...Were they watching?)
+##
+
+#Message#
+\.\C[4](Watching a despicable game...
+ that toys with people's lives...!!)
+##
+
+{Nao}
+#Message#
+\."Sara... Are you okay?
+ You look angry..."
+##
+
+{Sara}
+#Message#
+\."Ah... I'm fine..."
+##
+
+{Nao}
+#Message#
+\."...I don't like Keiji,
+ but I kind of like you, Sara."
+##
+
+#Message#
+\."...I don't like that policeman,
+ but I kind of like you, Sara."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Nao}
+#Message#
+\."Please take good care of your friend...!"
+##
+
+{Sara}
+#Message#
+\."...*sigh*..."
+##
+

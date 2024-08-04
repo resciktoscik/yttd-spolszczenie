@@ -1,0 +1,17 @@
+**********Common1542********** (⑧ギンB選択)
+{N/A}
+#Message#
+"I'll absorb a shock, meow!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

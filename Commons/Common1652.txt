@@ -1,0 +1,782 @@
+**********Common1652********** (３前進展③熱溶け)
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, shouting / cara95-19]
+{SE: Accent28-1}
+#Message#
+"Hold on a sec! I wanna hear about what you said!"
+##
+
+<Else>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Hang on, meow! I'm curious about that, meow!!"
+##
+
+<Condition End>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Wha?! Me...?!"
+##
+
+[Ranmaru: Hand on face, looking to side, mouth hidden, sweating / cara91-37]
+#Message#
+\."Yeah, I think it was cocoa, but..."
+##
+
+[Ranmaru: Hand on face, looking to side and glancing toward camera, mouth open / cara91-34]
+{SE: Accent41-1}
+#Message#
+\."Maybe it was actually... a cafe mocha?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."Whichever it is, that ain't the point!!"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Meowww?! Are you joking around, woof?!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Ranmaru} [Ranmaru: Evil, closed mouth / cara91-39]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."W-What...? What's gotten into you?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+\."\V[921] said the cocoa didn't matter..."
+##
+
+[Kurumada: Damaged, grin / cara95-17]
+{SE: sceneswitch2}
+#Message#
+\."But both the explosion and the hot cocoa...
+ share the fact of bein' super hot!!"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Gin} [Gin: Looking to side, raised eyebrows / cara9-22]
+#Message#
+\."\V[921] says the cocoa doesn't matter..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+\."But the explosion and the hot cocoa have
+ something in common... "Being really hot," woof!!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."Hey, hey! Is that really relevant?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, thin mouth / cara91-41]
+#Message#
+\."What in the... So what?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Hahh...? So what?"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](He's not wrong that a \C[2]blast\C[4] and \C[2]hot cocoa\C[4]
+ would both be high-temperature...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Err... If the heat had an effect, that means..."
+##
+
+[Kanna: Looking down to side, eyes looking back curiously / cara3-17]
+{SE: Accent41-1}
+#Message#
+\."Something \C[2]melted\C[0]...?"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."That's right. If heat had an effect..."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent41-1}
+#Message#
+\."We can draw the conclusion something \C[2]melted\C[0]."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+{SE: Accent28-1}
+#Message#
+\."\C[2]Paint\C[0]...!"
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Maybe there's something like paint on the surface
+ of the coffins that the lantern makes glow?"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry eyes, mouth open / cara6-40]
+{SE: Accent28-1}
+#Message#
+\."\C[2]Paint\C[0]...!"
+##
+
+[Reko: Fists out, angry sad eyes / cara6-38]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Could there be somethin' like paint on the coffins,
+ that glows from the lantern?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."\C[2]Paint\C[0]...!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Perhaps the surface of the coffins is coated in
+ some kind of paint that glows from the lantern!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."Namely... \C[2]paint\C[0]."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The coffins are covered in something like paint
+ that glows when exposed to the lantern."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Come to think of it...
+ That would connect to something else.)
+##
+
+#Choice#
+The consent form in the classroom
+The blackboard in the classroom
+The computers in the office
+##
+
+<教室の同意書>
+
+<教室の黒板>
+
+{Sara} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+"The blackboard in the classroom...!"
+##
+
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."...C-Could something like that be relevant?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."That's what I wanna know, Sara!!"
+##
+
+<オフィスのPC>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+"The computers in the office...!"
+##
+
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."...C-Could something like that be relevant?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Whaa?! Sorry, I dunno...!!"
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+"The consent form in the classroom...!"
+##
+
+#Message#
+"That black paint..."
+##
+
+#Message#
+"It glowed similarly when I used the lantern!"
+##
+
+{SE: Accent28-1}
+#Message#
+"And a \C[2]spray of steam\C[0] got rid of it...!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Whoaaa!! So it was usin' the same paint?!"
+##
+
+{Sara}
+#Message#
+\."It's not unlikely...!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If the paint comes off at high temperatures..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."Then I can understand why Ranmaru's coffin
+ would have lost its glow!"
+##
+
+[Kanna: Hands in front smile / cara3-18]
+{SE: sceneswitch2}
+#Message#
+\."And it's possible that \C[2]a certain other coffin\C[0]
+ lost its glow as well...!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The paint comes off at high temperatures..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+\."That could certainly explain
+ Ranmaru's coffin losing its glow."
+##
+
+[Sou: Smile / cara5-2]
+{SE: sceneswitch2}
+#Message#
+\."And it also leads us to the possibility
+ that \C[2]a certain other coffin\C[0] lost its glow..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Another coffin that stopped glowing...)
+##
+
+#Message#
+\.\C[4](A coffin that might have stopped glowing
+ similar to Ranmaru's... That would be...)
+##
+
+#Choice#
+Kurumada's coffin
+Keiji's coffin
+Mai's coffin
+Hayasaka's coffin
+##
+
+<クルマダのヒツギ>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: Accent40-1}
+#Message#
+"Kurumada's coffin...!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."W-Why's that?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm worng...! That's not it!)
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."Understand...? High temperatures result in
+ a coffin no longer glowing, right?"
+##
+
+[Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: Accent28-1}
+#Message#
+\."That being the case... There was a coffin that
+ produced heat for an execution, wasn't there?"
+##
+
+<ケイジのヒツギ>
+
+<マイのヒツギ>
+
+{Sara} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: Accent40-1}
+#Message#
+"Mai's coffin...!"
+##
+
+<ハヤサカのヒツギ>
+
+{Sara} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: Accent40-1}
+#Message#
+"Hayasaka's coffin...!"
+##
+
+<Choice End>
+
+{Sara} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: sceneswitch2}
+#Message#
+"The coffin Keiji was in...!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."That coffin used a \C[2]cremation system\C[0],
+ meant to grill Keiji alive!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Sure did!
+ Just touchin' the lid was enough to burn you!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Indeed... With enough heat that
+ just touching the lid would burn you!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Precisely... And it was so hot
+ that just touching the lid could burn you."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: flash-of-light-3}
+#Message#
+\."So Mr. Policeman's coffin lost its glow too, meow!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I bet the melted paint got under the lid,
+ which is why it got stuck and wouldn't open, meow!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."But that's strange..."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If we go with that, there's Anzu, Ranmaru, Keiji...
+ \C[2]Three\C[0] coffins stopped glowing!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."Yet... how strange..."
+##
+
+[Alice: Look to side, glare / cara11-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Going with this, there's Anzu, Ranmaru, Keiji...
+ \C[2]Three\C[0] coffins would have stopped glowing!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."But that's strange, isn't it?"
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That would mean, between Anzu, Ranmaru, and Keiji...
+ \C[2]Three\C[0] coffins stopped glowing."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."Ahh! The numbers don't match up!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That ain't right! The numbers don't match!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+\."Umm, well... and also..."
+##
+
+[Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent41-1}
+#Message#
+\."Don't you wonder... who painted them and when?"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."U-Um... considering that..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent41-1}
+#Message#
+\."Doesn't it make you wonder...
+ who painted them, and when?"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."In that case, you gotta wonder..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent41-1}
+#Message#
+\."Who painted them, and when?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Good point... I want to clear that up.)
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Understood! Let's discuss it!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is OFF>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+#Message#
+
+　　　　　　　\C[3]Who Painted the Coffins When?
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: Accent21-1}
+#Message#
+"First up, when I split off from Sara...
+ All seven coffins in the cemetery were glowin'!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Then someone painted the coffins
+ sometime before we separated from Q-taro!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Hmph... Then someone painted the coffins
+ before we parted from Cubetaro Hamburger!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: Accent21-1}
+#Message#
+"First up, when I split off from Sara...
+ All seven coffins in the cemetery were glowin'!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"Meaning! Someone painted 'em before we split!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+"I imagine it had to have been \N[4]...
+ Surely the culprit wouldn't be one of us?"
+##
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I know! Wouldn't it get on their hands or clothes
+ when they applied it? That paint stuff!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, mouth open / cara91-40]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Wouldn't it get on their hands or clothes
+ when they applied it? This paint stuff..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+"I don't remember seeing anyone
+ acting questionably in the cemetery..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+"I sure don't remember seeing
+ any suspicious activity in the cemetery..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Could there... not be a culprit, meow?"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: sceneswitch2}
+#Message#
+"Hey, do you think there's a difference between
+ Gin and \N[4]'s coffins and the rest...?"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Smile / cara96-6]
+#Message#
+"Got it! The culprit is Maple!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+{SE: Accent41-1}
+#Message#
+"Hold up, we sure that old-timer Q-taro
+ is tellin' the truth...?"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent42-1}
+#Message#
+"There must be some meaning to them being painted
+ in the first place..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+

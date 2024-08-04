@@ -1,0 +1,76 @@
+**********Common817********** (ｹｲｼﾞ「ｻﾗ強すぎ」)
+{Keiji}
+#Message#
+"Kinda curious how Sara's chances of victory
+ are the highest, huh..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"...Don't panic, now. I'm here with ya."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"...Let's be calm. Deep breaths..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+"Let's check it together, Sara."
+##
+

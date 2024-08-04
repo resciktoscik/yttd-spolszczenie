@@ -1,0 +1,198 @@
+=====Map157===== (===Panic Bedroom)
+
+**********Event4********** (EV004) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\C[4](Where is it?! I've looked everywhere...
+ but I can't find the wallet!)
+##
+
+#Message#
+\.\C[4](Why...?!)
+##
+
+#Message#
+\.\C[4](I know I couldn't have lost it!!)
+##
+
+#Message#
+\.\sp[10]"Sniff..."
+##
+
+#Message#
+\.\sp[8]"Urgh... ahhh..."
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](I don't... want to die...)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\.\C[4](Is there... any other way...?)
+##
+
+#Message#
+\."...!"
+##
+
+#Message#
+\.\C[4](The Room of Lies...)
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[10](If I take Alice's tokens...)
+##
+
+<Else>
+
+#Message#
+\.\C[4](Is there... any other way...?)
+##
+
+#Message#
+\."...!"
+##
+
+#Message#
+\.\C[4](The Room of Lies...)
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[10](If I take Reko's tokens...)
+##
+
+<Condition End>
+
+#Message#
+\.\C[4](..........)
+##
+
+{N/A}
+#Message#
+\C[3]I start running again.
+##
+
+#Message#
+\.\C[3]Before they collect the body.
+##
+
+#Message#
+\.\C[3]For the sake of my future.
+##
+
+
+**********Event5********** (naka) (7,4)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]The wallet isn't near the chair in the middle.
+##
+
+
+**********Event7********** (hidari) (0,3)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]The wallet isn't near the chair on the left.
+##
+
+
+**********Event8********** (beddosita) (4,8)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]The wallet isn't under the bed.
+##
+
+
+**********Event9********** (beddoue) (12,3)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]The wallet isn't on the bed or next to it.
+##
+
+
+**********Event49********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event50********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event51********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event52********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event53********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event54********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event56********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

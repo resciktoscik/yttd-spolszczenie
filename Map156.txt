@@ -1,0 +1,1740 @@
+=====Map156===== (★Chapter 2-2 Main Game)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]An extremely heavy air dominates the space.
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](It's starting again...
+ This horrifying game...)
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\.".........."
+##
+
+<Else>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\.".........."
+##
+
+<Condition End>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent28-1}
+#Message#
+\."...Keeping quiet's only making time pass, guys."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Let's at least decide our fate by our own hand, okay?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Aah... *sniff*..."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."It's okay. We've walked this road before, haven't we?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Then an' now... It's totally different...!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."We're allies by now!!
+ We've spent way more time together...!!"
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+{SE: horror_piano chord3}
+#Message#
+\."Then will you die?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."...!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Let's find our resolve.
+ You said that in the first Main Game, right, Q-taro?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Dammit...!!"
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+#Message#
+\."Everyone, the \C[2]card designs\C[0] have been
+ displayed in the rulebook this time."
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\."So be aware that you cannot judge using knowledge
+ of the designs as in the first Main Game."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."Well then. Please spend this cruel and dense time
+ to your heart's content."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\C[3]Gashu quietly sat down in a chair.
+##
+
+#Message#
+\.\C[3]And... once again... the Main Game began.
+##
+
+
+**********Event3********** (EV003) (8,0)
+-----Page1-----
+{SE: Magic2}
+#Message#
+\C[3]...All votes have been received.
+##
+
+{SE: Magic1}
+#Message#
+\.\C[3]Displaying results...
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{N/A}
+#Message#
+
+##
+
+{Sara} [Sara: Tired eyes, slight frown / cara0-8]
+#Message#
+\C[4](The first vote... is over.)
+##
+
+{N/A}
+#Message#
+\.\C[3]And I wasn't chosen.
+##
+
+#Message#
+\.\C[3]Relief...
+##
+
+#Message#
+\.\C[3]I can feel my strained nerves loosening.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]But... why these four...?
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Sara... You...!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."It's just like I said.
+ I'm not the \C[10]Sacrifice\C[0], I'm a \C[5]Commoner\C[0]."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."...!!"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Four will advance to the final vote."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."\C[2]Sou Hiyori.\C[0]"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: sceneswitch2}
+#Message#
+\.".........."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."\C[2]Kanna Kizuchi.\C[0]"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+{SE: sceneswitch2}
+#Message#
+\."...aa..."
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+#Message#
+\."\C[2]Keiji Shinogi.\C[0]"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: sceneswitch2}
+#Message#
+\."..."
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+#Message#
+\."\C[2]Nao Egokoro.\C[0]"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: sceneswitch2}
+#Message#
+\."...W-Why me...?!"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.\sp[15]"*s-sniff*..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.\sp[15]".........."
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\.\sp[15]"This... isn't... right..."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\.\sp[15]".........."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...I know this despair myself...)
+##
+
+#Message#
+\.\C[4](You can't want to have a conversation
+ when you feel like this...)
+##
+
+#Message#
+\.\C[4](Which is why...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](It's my role to inspire them.)
+##
+
+#Message#
+\.\C[4](Like Keiji did for me in the first Main Game...!)
+##
+
+#Choice#
+Give a pep talk
+Question them
+##
+
+<叱咤激励する>
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\.\{"Lift your heads up!!"
+##
+
+<問いかける>
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."Are you all going to give up here?!"
+##
+
+<Choice End>
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."We've always done when we had to do...!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."No matter how cruel it is, you can't stop!!"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."But..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Kanna, we're not your enemies...!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Sara}
+#Message#
+\."Even if someone is the \C[10]Sacrifice\C[0]...
+ We move in the same direction!"
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."We talk, and we advance the discussion!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sara...!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Wahaha... Right you are."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+\."The real battle begins here..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Everyone...!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Guess those of us who weren't picked should start!"
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+{SE: Accent28-1}
+#Message#
+\."Incidentally, my role's \C[5]Commoner\C[0].
+ Got that?"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."All right...! First, it's time for those of us
+ who weren't picked to guide the discussion!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent28-1}
+#Message#
+\."Incidentally, I am a \C[5]Commoner\C[0]...
+ Be at ease..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Alice is a \C[5]Commoner\C[4], too?)
+##
+
+<Condition End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Muscle gorilla! It's not the time to shrivel up, meow!
+ Let's remember the card trades in order, woof!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Y-Yeah...!"
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+#Message#
+\."Now, please grasp your fate with your own hands."
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\."May you not all perish..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."Now, we're gonna proceed along
+ digging into the details of the \C[2]trades\C[0]!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Big sis Reko!! Got it, meow!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."Now we will have an in-depth discussion
+ on the \C[2]card trades\C[0]!! Understood?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Stripey! Leave us to us, meow!!"
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\.\C[3]Gashu quietly sat in the chair again.
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"There were four trades made in total!
+ That ain't that many!"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"By the way, I've been a Commoner the whole way, woof!
+ Didn't get traded with even once, meow!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"Trading cards required 50 tokens!
+ So only so many people could make trades!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"Trading cards requires 50 tokens.
+ It's not as if just anyone could do it."
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+-----Page3-----
+{SE: Magic2}
+#Message#
+\C[3]...All votes have been received.
+##
+
+{SE: Magic1}
+#Message#
+\.\C[3]Displaying results...
+##
+
+{N/A}
+#Message#
+
+##
+
+-----Page5-----
+{N/A}
+#Message#
+Please choose who to vote for.
+##
+
+
+**********Event4********** (EV004) (3,0)
+-----Page2-----
+{Sara} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+"Kanna! Are you fine with him just saying that?"\.\.
+##
+
+#Message#
+"Come on, Kanna! Um... hmm...
+\! What should I say...? Get mad? Err..."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...Could you not get in the way
+ of the discussion, miss Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](No good! I couldn't find the words...!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+-----Page4-----
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Be as silent as you want, it's no use..."\.\.
+##
+
+#Message#
+"Please say something... Q-taro...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Q-taro..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good! I couldn't find the words...!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+-----Page6-----
+{Sara} [Sou: Afraid look with lightless eyes / cara5-9]
+#Message#
+"Sou!! This is the moment to reveal your true self!!"\.\.
+##
+
+#Message#
+\C[4](Ugh...! It didn't work?!)
+##
+
+#Message#
+\C[4](I can feel his heart trembling!
+ I should just be a step away...!)
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.".........."
+##
+
+
+**********Event6********** (EV006) (10,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The discussion is stuck in equilibrium,
+failing to come to an agreement...!
+##
+
+{Keiji}
+#Message#
+"How about I hear the truth from your mouth?"
+##
+
+{Sou}
+#Message#
+"Ahaha, about what?"
+##
+
+{Sara}
+#Message#
+\C[4](Between the statements these two give, I should either
+ \C[6]affirm correct ones\C[4] or \C[10]deny incorrect ones\C[4]...!)
+##
+
+
+**********Event7********** (EV007) (11,0)
+-----Page1-----
+{Sara}
+{SE: Down1}
+#Message#
+\.\C[4](Ack...! I can't upset the balance!
+ Let's start over!)
+##
+
+
+**********Event8********** (EV008) (5,0)
+-----Page1-----
+{Keiji}
+#Message#
+"I didn't want to fight you, Sara, but... well."
+##
+
+{Sara}
+#Message#
+\.\C[4](Can't let him mislead me...!
+ I'll \C[2]choose words I can refute\C[4] and talk back!!)
+##
+
+{Keiji}
+#Message#
+\."Let's discuss the \C[2]victim video\C[0] Nao saw, how about?"
+##
+
+-----Page11-----
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+".........."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."I give up... I can't beat you, Sara."
+##
+
+{Sara}
+#Message#
+\."Please... tell us everything, Keiji."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: sceneswitch2}
+#Message#
+\."The video... is real."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."The victim video that Nao saw..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And it... was also my First Trial..."
+##
+
+[Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."The woman's name... was Megumi Sasahara."
+##
+
+[Keiji: Turned to side tousling hair / cara2-20]
+{SE: sceneswitch2}
+#Message#
+\."She was my boss ever since I joined the force."
+##
+
+[Keiji: Policeman, mouth open / cara2-24]
+{SE: Accent28-1}
+#Message#
+\."I'm Keiji Shinogi. I've been assigned here
+ starting this week. It's good to meet you."
+##
+
+{Megumi} [Megumi: Smile / cara20-1]
+{SE: Accent21-1}
+#Message#
+\."Good to meet you too. I'm Megumi Sasahara.
+ ...I suppose this makes me your trainer."
+##
+
+[Megumi: Mouth open / cara20-2]
+{SE: Accent21-1}
+#Message#
+\."Well, well...
+ Pretty impressive for your age, Shinogi."
+##
+
+{Keiji} [Keiji: Policeman, neutral / cara2-25]
+#Message#
+"Y-Yes, ma'am."
+##
+
+{Megumi} [Megumi: Smile / cara20-1]
+#Message#
+\."...But you might be a bit too serious.
+ Even if you have stamina, you have to think about
+ how to spend it, or it won't last."
+##
+
+{Keiji} [Keiji: Policeman, neutral / cara2-25]
+#Message#
+\.".........."
+##
+
+[Keiji: Policeman, mouth open / cara2-24]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Um... I heard you were rather elite, Miss Megumi."
+##
+
+[Keiji: Policeman, neutral / cara2-25]
+#Message#
+\."Why would you, err...
+ serve as a trainer for the likes of me?"
+##
+
+{Megumi} [Megumi: Smile / cara20-1]
+#Message#
+\."Heehee... I wonder, indeed."
+##
+
+[Megumi: Mouth open / cara20-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I have high hopes for you."
+##
+
+{Keiji} [Keiji: Policeman, mouth open / cara2-24]
+#Message#
+\."...! Yes, ma'am."
+##
+
+#Message#
+\."But... then came the day of my nightmares..."
+##
+
+{SE: gun3}
+#Message#
+\."I... shot a person."
+##
+
+#Message#
+\."The criminal in a certain case..."
+##
+
+[Keiji: Policeman, furrowed brow + sweat / cara2-27]
+{SE: sceneswitch2}
+#Message#
+\."Miss Megumi..."
+##
+
+{Megumi} [Megumi: Furrowed brow / cara20-3]
+#Message#
+\."...What?"
+##
+
+{Keiji} [Keiji: Policeman, clenched teeth / cara2-28]
+#Message#
+\."Why am I... not being punished...?!"
+##
+
+[Keiji: Policeman, furrowed brow + sweat / cara2-27]
+#Message#
+\."I've...!!"
+##
+
+[Keiji: Policeman, clenched teeth / cara2-28]
+#Message#
+\."I've killed a person...!!"
+##
+
+{Megumi} [Megumi: Smile / cara20-1]
+#Message#
+\."...In self-defense, yes."
+##
+
+{Keiji} [Keiji: Policeman, furrowed brow + sweat / cara2-27]
+{SE: sceneswitch2}
+#Message#
+\."But... the criminal wasn't even holding a weapon!!"
+##
+
+{Megumi} [Megumi: Furrowed brow / cara20-3]
+#Message#
+\."...That's just what the law says.
+ You've done nothing wrong."
+##
+
+{Keiji} [Keiji: Policeman, clenched teeth / cara2-28]
+#Message#
+\.".........."
+##
+
+[Keiji: Policeman, furrowed brow + sweat / cara2-27]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Miss Megumi... I heard you made a backroom deal...!"
+##
+
+{Megumi}
+#Message#
+\.".........."
+##
+
+[Megumi: Lowered eyes, mouth open / cara20-4]
+{SE: horror_piano chord3}
+#Message#
+\."...So what?"
+##
+
+{Keiji} [Keiji: Policeman, clenched teeth / cara2-28]
+#Message#
+\."...!!!!"
+##
+
+{Megumi} [Megumi: Lowered eyes, mouth closed / cara20-5]
+#Message#
+\."...Get back to your duty. You're police."
+##
+
+{Keiji} [Keiji: Policeman, furrowed brow + sweat / cara2-27]
+#Message#
+\.\sp[12]"...I..."
+##
+
+[Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."Wahaha... She's the benefactor who protected me."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."I'll never forget it.
+ I owed her the worst kind of debt..."
+##
+
+[Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\.\sp[15]"Left her to die...?"
+##
+
+#Message#
+\.\sp[15]"No... I..."
+##
+
+#Message#
+\.\sp[15]"But... I killed her... Megumi..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Mr. Policeman...! Get a hold of yourself, meow!!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\.\sp[12]".........."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Sorry for keeping quiet, everyone."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Truth is, your friendly policeman's
+ not a policeman anymore."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji...)
+##
+
+{Keiji}
+#Message#
+"Whew... Still find Mr. Policeman suspicious?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh! He danced around it too well...!!)
+##
+
+{Sou} [Sou: Sarcastic eyes / cara5-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Miss Sara... Don't tell me you went easy on him
+ because it was Keiji?"
+##
+
+{Sara}
+#Message#
+\."Of course not...!!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Our lives are at stake in this discussion...
+ If you can't be serious, you've got no value."
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+{SE: shock1}
+#Message#
+\.\C[10]"Will you die, Sara?"
+##
+
+{Sara}
+#Message#
+\."Gah...!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."...Quit it, Sou."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Then talk. If you don't say something,
+ miss Sara might be the one dying."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Alright, fine."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."The video... is real."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Mr. Policeman...?!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."The victim video that Nao saw..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And it... was also my First Trial..."
+##
+
+[Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."The woman's name... was Megumi Sasahara."
+##
+
+[Keiji: Turned to side tousling hair / cara2-20]
+{SE: sceneswitch2}
+#Message#
+\."She was my boss."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."You knew each other?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."You knew each other?!"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."She's a benefactor I owed quite a bit at work."
+##
+
+{Sara}
+#Message#
+\.\C[4](Benefactor...?)
+##
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+{SE: horror_piano chord3}
+#Message#
+\."I'll never forget it.
+ I owed her the worst kind of debt..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."M-Mr. Policeman...?"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\.\sp[15]"Left her to die...?"
+##
+
+#Message#
+\.\sp[15]"No... I..."
+##
+
+#Message#
+\.\sp[15]"But... I killed her... Megumi..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Mr. Policeman...! Get a hold of yourself, meow!!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\.\sp[12]".........."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Sorry for keeping quiet, everyone."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Truth is, your friendly policeman's
+ not a policeman anymore."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji... How deep does your darkness go...?)
+##
+
+#Message#
+\.\C[4](\C[2]If I'd won that argument\C[4]...
+ Maybe I could have heard more...)
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."I'm surprised. What a dangerous individual
+ we've had lurking in our midst."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: sceneswitch2}
+#Message#
+\."...If you vote for me, I won't complain."
+##
+
+{Sara}
+#Message#
+\."No...!!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Umm... Everyone..."
+##
+
+[Safalin: Mouth open / cara15-2]
+#Message#
+\."Speaking of voting,
+ I think it's about time to decide..."
+##
+
+[Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+{SE: Accent28-1}
+#Message#
+\."Who you'll vote for, and which four
+ should enter the final vote..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."...Meowww?!"
+##
+
+{Sara}
+#Message#
+\."No way!! That was way too quick...!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+{SE: Accent28-1}
+#Message#
+\."Well... You need time to work out
+ the card trades this time, you see..."
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Precisely. Choosing a victim without a satisfactory
+ discussion is not an outcome we desire either."
+##
+
+{Sara}
+#Message#
+\.\C[4](Agh...!!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."What do we do?! I don't wanna suspect, but...
+ Q-taro, Sou, Keiji... You three are pretty sketchy..."
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then what to do...? Q-taro, Sou, Keiji...
+ I can't rightly say you're not suspicious..."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."H-Hold up!
+ Don't we need one more person, though?!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Troubling, huh? If it's down to three options,
+ it'll make our choices that much narrower..."
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."We gotta suspect someone again, woof?
+ *sniffle*..."
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+{SE: Accent28-1}
+#Message#
+\."Then... maybe it's better to think of
+ \C[2]who to leave out\C[0] from the final vote, meow..."
+##
+
+{Sara}
+#Message#
+\."Who to leave out...?"
+##
+
+#Choice#
+A good idea
+Let's suspect some more
+##
+
+<良い案だ>
+
+{Sara} [Gin: Looking up, sad, grave look / cara9-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's a good idea, Gin."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."R-Really, woof?"
+##
+
+{Sara}
+#Message#
+\."If you aren't chosen in the preliminary vote,
+ and are \C[2]dropped out\C[0]..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Because you can no longer be chosen,
+ \C[2]there's no need to lie anymore\C[0]!!"
+##
+
+<もっと疑いあおう>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."We can't run away, Gin!
+ We just have to suspect each other!!"
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Myaaah..."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."U-Um, Sara!"
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I think it's a good plan, actually...!"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."You mean it, woof?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."If you \C[2]drop out\C[0] after the preliminary vote
+ because you weren't voted for..."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent28-1}
+#Message#
+\."Because you can't be chosen anymore,
+ \C[2]there's no longer a need to lie\C[0]!!"
+##
+
+<Choice End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent21-1}
+#Message#
+\."That might be one of our greatest allies...!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent21-1}
+#Message#
+\."Indeed, that could be our greatest ally...!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](Of course... if you're the \C[10]Sacrifice\C[4]...
+ It works against you.)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+\."Got it, woof!! Let's talk about
+ \C[2]who we want to leave out\C[0], meow!!"
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+#Message#
+"I think big sis Sara should be left out, meow!
+ Because she's super dependable for reasoning, woof!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"We should leave out someone with lots of tokens.
+ ...Like Q-taro."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"How about we leave out Gin,
+ since he doesn't have any tokens?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"We shouldn't be selecting Gin or Kanna...
+ Sacrificin' a kid's no good at all..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Sou should be left out...
+ I mean, didn't he say he was the \C[10]Sacrifice\C[0] to start?"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"...Sou should be left out.
+ He did say he had the \C[10]Sacrifice\C[0] at the start..."
+##
+
+<Condition End>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"I have to say... I'd be glad if Sara was left out."
+##
+
+{Sou} [Sou: Sarcastic eyes / cara5-10]
+#Message#
+"Right... If we're leaving someone out,
+ I think I'd say miss Sara too..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+
+**********Event9********** (EV009) (6,0)
+-----Page1-----
+{Sara}
+#Message#
+"No, I wonder about that."
+##
+
+{Keiji}
+#Message#
+\."...What other ideas you got?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Right now... I can't think of anything.)
+##
+
+{Keiji}
+#Message#
+\."Then onto the next subject."
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"No, none of us have heard about
+ what your First Trial was yet, Keiji."
+##
+
+#Message#
+\."Please, don't lie like Sou!"
+##
+
+{Keiji}
+#Message#
+\."Boy... That's a shocking comparison to hear."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Sorry, sorry. I'll reflect on it."
+##
+
+{Sara}
+#Message#
+"Well, you did! With the back of your head!!"
+##
+
+{Keiji}
+#Message#
+\."Can you be sure it was me just from that?"
+##
+
+{Sara}
+#Message#
+\."Urk...!"
+##
+
+{Keiji}
+#Message#
+\."Maybe if Mr. Policeman showed up crystal clear..."
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+-----Page3-----
+{Sara}
+#Message#
+"Nao isn't a scaredy-cat at all!!"
+##
+
+{Keiji}
+#Message#
+\."I see..."
+##
+
+#Message#
+\."Got it, Nao's not a scaredy-cat.
+ ...Are we good?"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+#Message#
+\.\C[4](...So what?)
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"No, Nao's saying she watched the video head-on!"
+##
+
+{Keiji}
+#Message#
+\."Do you know exactly what Nao was doing then?"
+##
+
+{Sara}
+#Message#
+\."No, but she says she rewatched the video
+ in her bedroom, so..."
+##
+
+{Keiji}
+#Message#
+\."Then you don't know if she averted her eyes or not."
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"Unfortunately... I also watched it with her once,
+ in the Monitor Room."
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+{Sara}
+#Message#
+\."There's no mistake, Keiji."
+##
+
+{Keiji}
+#Message#
+\."...So I see."
+##
+
+-----Page5-----
+{Sara}
+#Message#
+"Y-You were in it!!"
+##
+
+{Keiji}
+#Message#
+\."My face and full body?"
+##
+
+{Sara}
+#Message#
+\."Well... It was just the back of your head, but...!"
+##
+
+{Keiji}
+#Message#
+\."Wonder if you'd call that "clear"..."
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"No, I can identify you even from behind!"
+##
+
+#Message#
+\."Your golden hair...
+ No one could imitate it!"
+##
+
+{Keiji}
+#Message#
+\."Pretty sure all our enemy'd need
+ is a wig to imitate it, actually."
+##
+
+#Message#
+\."In fact, they've even got doll fakes...
+ How can you prove it was the real me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"It's you who said to suspect each other
+ so we could trust each other!!"
+##
+
+#Message#
+\."If we only used concrete information...
+ That wouldn't be suspecting, it'd just be facts!"
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."Aha..."
+##
+
+-----Page7-----
+{Sara}
+#Message#
+"No, it's not a fake or anything!"
+##
+
+{Keiji}
+#Message#
+\."But you couldn't prove it was real in Q-taro's case."
+##
+
+#Message#
+\."Can you prove it of this video...?"
+##
+
+{Sara}
+#Message#
+\."Urghh...!"
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"It's not strange at all!
+ That was that, this is this!!"
+##
+
+{Keiji}
+#Message#
+\."Believing only as it's convenient to you...
+ Can't make sense of that."
+##
+
+{Sara}
+#Message#
+\."Mgh..."
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"There isn't zero difference between them."
+##
+
+#Message#
+\."The security camera footage... had no sound."
+##
+
+#Message#
+\."I admit it's weak evidence...
+ But you can't talk about them like they're identical!"
+##
+
+{Keiji}
+#Message#
+\."Whew... Makes some sense."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Okie-dokie. I'll admit that."
+##
+
+-----Page9-----
+{Sara}
+#Message#
+"About that... The woman in the video
+ was wearing a police uniform."
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+{Sara}
+#Message#
+\."You're a policeman too, Keiji.
+ ...Is this just a coincidence?"
+##
+
+{Keiji}
+#Message#
+\."...I give. Wahaha..."
+##
+
+{Sara}
+#Message#
+"No, there isn't necessarily always a relation!"
+##
+
+{Keiji}
+#Message#
+\."Kanna and her sister, Nao and Professor Mishima,
+ Sara and Joe..."
+##
+
+#Message#
+\."They were all duos who knew each other well,
+ don't you agree?"
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"Those things aren't major connections!"
+##
+
+{Keiji}
+#Message#
+\."No, they're pretty major...
+ They're bonds."
+##
+
+#Message#
+\."Shouldn't you know that yourself, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+

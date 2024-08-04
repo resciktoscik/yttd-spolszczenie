@@ -1,0 +1,78 @@
+**********Common1774********** (・ﾊﾔｻｶ「死に際視聴」)
+{Hayasaka}
+#Message#
+"We all saw our deaths in the victim videos...
+ It's hard to imagine a human mixing in..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+"Asunaro really does demonic things..."
+##
+
+[Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+"You saw them too, didn't you?
+ Everyone pictured in those definitely died..."
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."Unfortunate as that is..."
+##
+

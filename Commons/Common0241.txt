@@ -1,0 +1,153 @@
+**********Common241********** (ｼﾞｮｰ「知らねー」)
+{Joe}
+#Message#
+"My role...? Not gonna say..."
+##
+
+#Message#
+"My role...? Who cares..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"W-What? I've got nothing to say about
+ any item you show me now."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Was something weird about my statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Joe}
+#Message#
+"Was something weird about my statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Joe}
+#Message#
+"Was something weird about my statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+"Whatever I say now, it'll be the same..."
+##
+
+#Message#
+"Don't give me that look, Sara..."
+##
+
+{Sara}
+#Message#
+\."Why don't you want to say?"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."Me saying something now is just suspicious, right?"
+##
+
+[Joe: Folded arms sweatdrop / cara1-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...That's why I ain't gonna say."
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't think he really changed his statement, but...)
+##
+
+#Choice#
+Have him add that statement
+Cancel
+##
+
+<今の発言を加えてもらう>
+
+{Sara} [Joe: Folded arms sweatdrop / cara1-18]
+{SE: Accent28-1}
+#Message#
+\."Joe, add what you just said."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."H-Huh?
+ I'm just saying the same thing..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No, you said something slightly different...)
+##
+
+<やめる>
+
+<Choice End>
+

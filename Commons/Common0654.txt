@@ -1,0 +1,101 @@
+**********Common654********** (Q「ﾛﾋﾞーの状況」)
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Q-taro}
+#Message#
+"When we shared the laptop, there was six of us
+ in the lobby: Me, Sou, Kanna, Sara, Keiji, an' Reko."
+##
+
+<Else>
+
+#Message#
+"When we shared the laptop, there was six of us
+ in the lobby: Me, Sou, Kanna, Sara, Keiji, an' Alice."
+##
+
+<Condition End>
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Ain't nothin' wrong in my statement!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"...What's a rebuttal gonna do?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: Accent28-1}
+#Message#
+"After the sound of the trade and you leavin', Sara,
+ I went back to searching too."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."After talking to Keiji in the lobby, I went to
+ the Room of Rubble, then lost consciousness..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Wanna say I couldn't move all'a sudden
+ and bumped my head on the wall, but..."
+##
+

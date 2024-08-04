@@ -1,0 +1,1498 @@
+=====Map215===== (Cemetery 2)
+
+**********Event1********** (sekihi) (8,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's some writing on the stone monument.
+##
+
+
+**********Event2********** (midori) (8,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The coffin \N[4] was in.
+##
+
+
+**********Event3********** (hinako) (2,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The coffin Hinako was in.
+##
+
+
+**********Event4********** (hayasaka) (14,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The coffin Hayasaka was in.
+##
+
+
+**********Event5********** (rannmaru) (5,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The coffin Ranmaru was in.
+##
+
+
+**********Event6********** (annzu) (11,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The coffin Anzu was in. It's completely destroyed.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm sorry...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The coffin Anzu was in.
+##
+
+
+**********Event7********** (kurumada) (7,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The coffin Kurumada was in.
+##
+
+
+**********Event8********** (mai) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The coffin Mai was in.
+##
+
+
+**********Event50********** (EV050) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."*pant*... *pant*...! Q-taro!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Muscle gorillaaa! Where are you, meooow?!"
+##
+
+{Q-taro}
+#Message#
+\."Gahh...! Ugh...!"
+##
+
+#Message#
+\."*pant*... *gasp*...! It's okay...
+ I'm... awright...!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Q-taro...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Never been more glad about
+ workin' on my body than today, I tell ya...!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Tch...! How'd she screw that up?!"
+##
+
+[Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\."What a moron!
+ To get killed before you could even...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I ain't killed her..."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+{SE: Accent21-1}
+#Message#
+\."...Hah...?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Jes' knocked her away a li'l...
+ She probably just shut down..."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."What the...?! You didn't kill her?"
+##
+
+[Hinako: Grave look / cara93-11]
+#Message#
+\."Are you stupid?! Why would you go easy on her...?!"
+##
+
+[Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."She seriously meant to take your life...!!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."That ain't what she really thinks!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Wha..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That goes for all you guys, right...?"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."\N[4]'s got your lives in his hands...
+ So yer just bein' forced to do this, right?!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth closed / cara96-7]
+#Message#
+\."...!!"
+##
+
+<Else>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+\."...!!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Hinako} [Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\."...!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."We're the same!! You and us...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."Q-taro..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\."Q-taro..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Just stop this..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."I'm sick of us pinnin' death on each other!!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+\."..."
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: sceneswitch2}
+#Message#
+\."Work with us, Dummies...!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."W... What're you saying..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."We won't do nothin' to you guys, Hinako!!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."So let's get through this! You guys, too...!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Don't be stupid! Didn't you hear the rules?!"
+##
+
+#Message#
+\."One or the other has to die! We...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Is doin' as yer told gonna lead to victory?!"
+##
+
+{Hinako} [Hinako: Grave look / cara93-11]
+#Message#
+\."...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent21-1}
+#Message#
+\."We're gonna "win"...!! Right, Kurumada?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{SE: Accent21-1}
+#Message#
+\."We're gonna win...!
+ No more draws or defeats!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Kurumada} [Kurumada: Frown / cara95-2]
+#Message#
+\."..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."If somebody turns traitor,
+ how are we gonna see victory...?"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."We all gotta believe...
+ Or no miracle's gonna happen!!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...We..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent28-1}
+#Message#
+\."We're gonna become true allies now...!!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Q-taro... is crying.
+##
+
+#Message#
+\.\C[3]Not from the pain of his wound.
+##
+
+#Message#
+\.\C[3]His heartfelt cry is shaking the room.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."..."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+[Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: Accent21-1}
+#Message#
+\."Let me... treat that, Q-taro."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Ranmaru...! Idiot! How can you fall for that?!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Oh, shaddup."
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: Accent21-1}
+#Message#
+\."Shoot... We have nothing to use for treatment,
+ but I wonder if we can do something..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent28-1}
+#Message#
+\."All I've got is this hood,
+ but should I tear it up to help stop the bleeding?"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."You're all such idiots...!!"
+##
+
+[Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\."...!!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: Accent21-1}
+#Message#
+\."I mean, why not? These guys are interestin'."
+##
+
+[Kurumada: Mouth open / cara95-1]
+#Message#
+\."Seriously now... You picturing defying us
+ and winning, little miss middle-schooler?"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Shut up...!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Hey, I can't touch him right now...
+ You help out here, Kurumada."
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, clenched teeth, sweating / cara95-13]
+#Message#
+\."Wha?! Me...?!"
+##
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+\."Awright...! The bleedin's stopped!
+ It ain't as bad as it looks!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Doesn't really seem that way to me..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."Keiji..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Sit down. At least get some rest..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Mai can't move either...
+ You can't leave an ally behind, right?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Haha... Ya got that right!"
+##
+
+{Sara}
+#Message#
+\."If we find anything for medical treatment,
+ we'll bring it right away...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Don't sweat that...
+ Focus on doin' what you gotta do!"
+##
+
+{Sara}
+#Message#
+\."Y-Yeah!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I feel it... a sense of unity.)
+##
+
+#Message#
+\.\C[4](Trust in the truest sense...)
+##
+
+#Message#
+\.\C[4](Q-taro has connected himself...)
+##
+
+{SE: flash-of-light-3}
+#Message#
+\.\C[4](He's bonded with us...!)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."Now... It's about time to end this game of tag."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Gotta catch \N[4]...
+ and figure something out."
+##
+
+{Sara}
+#Message#
+\."Right...!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+-----Page3-----
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Keep your distance, everyone!
+ Don't let \N[4] tag you...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."Ahaha... Thorough to the end..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hey, Keiji... Since you won,
+ I'll give you a chance to overcome your trauma."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."To face the dead... That's another reason
+ why Asunaro makes artificial intelligences."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."...You don't mean...!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Look, he's right at your feet."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."...?"
+##
+
+[Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+"Wha...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."...Still can't do it, then?"
+##
+
+{N/A}
+#Message#
+\C[3]While Keiji was distracted,
+\N[4] forcefully pushed him away.
+##
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."Gah...!"
+##
+
+{Sara}
+#Message#
+\."No!!"
+##
+
+{Keiji}
+#Message#
+\."Sara... I..."
+##
+
+{Sara}
+#Message#
+\."Keiji...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]His face pale, he loses balance and backs away.
+##
+
+#Message#
+\.\C[3]Our dependable Keiji is trembling.
+##
+
+#Message#
+\.\C[3]...No human can beat the fear of death.
+##
+
+{Sara}
+#Message#
+\.\C[4](No...)
+##
+
+#Message#
+\.\C[4](No... I don't want this!!)
+##
+
+#Message#
+\.\C[4](Can't I do anything...?!)
+##
+
+#Choice#
+I can't do anything
+Tag Keiji
+##
+
+<何もできない>
+
+{Sara} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+{SE: sceneswitch2}
+#Message#
+\sp[18]\C[4](...I can't do it...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sp[18]\C[4](I'm too scared... to take his place...)
+##
+
+<ケイジにタッチする>
+
+{Sara} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."Keiji... give me your hand...!!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."...Sorry. That's the one thing I don't wanna do."
+##
+
+<Choice End>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."Keijiiiii!!"
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+"...!"
+##
+
+{SE: feed1}
+#Message#
+\."Ugh...!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."Ahaha. My coffin was in just the right spot."
+##
+
+{Keiji}
+#Message#
+\."Let me out...! \N[4]!!"
+##
+
+{Sara}
+#Message#
+\."Nooo...!! Keiji! Keiji!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hey, I'll let you in on something neat, miss Sara."
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\."These coffins come with a very handy feature."
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: Accent28-1}
+#Message#
+\."Da-dunnn! They can cremate right on the spot!"
+##
+
+{Sara}
+{SE: horror_piano chord3}
+#Message#
+\."You mean... he'll be burned...?"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."The timer's already running!
+ If you aren't quick, he'll soon be steak!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Let him out!!
+ Mr. Policeman's gonna die...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So here's my suggestion as Floor Master..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+[Midori: Default grin / cara19-2]
+{SE: sceneswitch2}
+#Message#
+\."I never said that losing at tag meant death, did I?"
+##
+
+<Else>
+
+{SE: sceneswitch2}
+#Message#
+\."Like Shin said...
+ I never said losing at tag meant death."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."..."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."If you would hear out just one wish of mine..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'll tell you a way you can save Keiji."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+What wish?
+...
+##
+
+<お願いとは？>
+
+{Sara} [Midori: Default grin / cara19-2]
+#Message#
+\."...What's your wish...?"
+##
+
+<………>
+
+{Sara} [Midori: Default grin / cara19-2]
+#Message#
+\.".........."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Now now, loosen up..."
+##
+
+<Choice End>
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+"...I'll have you sign that consent form."
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+"That sheet... is the last one..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Once you sign it, it'll be complete..."
+##
+
+{Sara}
+#Message#
+\.\C[4](The last one...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]There's definitely something up...
+##
+
+#Message#
+\.\C[3]But what other choice do I have...?
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]There's... no other way to save Keiji.
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."The rest is up to you."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: sceneswitch2}
+#Message#
+\."Answer my request, and save Keiji...?"
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: sceneswitch2}
+#Message#
+\."Or stick to your intentions, and kill Keiji...?"
+##
+
+#Message#
+"Choose whichever you like...\.\. Sara."
+##
+
+{N/A}
+#Message#
+\C[3]Proceed to the next section?
+##
+
+#Choice#
+Proceed
+Return to title
+##
+
+<進む>
+
+<タイトルへ戻る>
+
+{N/A} [Midori: Mouth open / cara19-5]
+#Message#
+\C[3]Really return to title?
+##
+
+#Choice#
+Yes
+Rethink it
+##
+
+<はい>
+
+{N/A} [Midori: Mouth open / cara19-5]
+#Message#
+\C[3]Thank you for playing this far.
+##
+
+<考え直す>
+
+<Choice End>
+
+<Choice End>
+
+
+**********Event52********** (QtarouA) (12,12)
+-----Page1-----
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Owww..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I figured that treatment alone wouldn't...)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent21-1}
+#Message#
+\."...It's alright, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Q-taro...)
+##
+
+{Q-taro}
+#Message#
+"\N[4]...!!"
+##
+
+{Sara}
+#Message#
+\."Don't overexert yourself...!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Yeah..."
+##
+
+
+**********Event53********** (maiA) (11,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Mai is completely motionless.
+##
+
+{Sara}
+#Message#
+\.\C[4](Even seeing her like this...
+ I can only picture her as human...)
+##
+
+
+**********Event54********** (keiziA) (6,12)
+-----Page1-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."Why... do you..."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Huh? Did I bring back some bad memories?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."...!!"
+##
+
+{Woman's Voice} [Megumi: Mouth open / cara20-2]
+#Message#
+"Huh... So that's why you sought to join the force."
+##
+
+{Megumi} [Megumi: Smile / cara20-1]
+{SE: Accent21-1}
+#Message#
+\."Then was your goal to become
+ a friendly neighborhood policeman?"
+##
+
+{Keiji} [Keiji: Policeman, mouth open / cara2-24]
+{SE: Accent28-1}
+#Message#
+\."No... I just want to return it as promised.
+ His good luck charm..."
+##
+
+{Megumi} [Megumi: Smile / cara20-1]
+#Message#
+\."Haha. Then go and give it to him.
+ If he's still police, you'll see him soon."
+##
+
+{Keiji} [Keiji: Policeman, mouth open / cara2-24]
+#Message#
+\."Right...! His name was..."
+##
+
+{Megumi} [Megumi: Lowered eyes, mouth closed / cara20-5]
+{SE: sceneswitch2}
+#Message#
+\."...!"
+##
+
+[Megumi: Lowered eyes, mouth open / cara20-4]
+#Message#
+\."Him, huh... No, that won't be possible."
+##
+
+{Keiji} [Keiji: Policeman, furrowed brow + sweat / cara2-27]
+#Message#
+\."Eh...?"
+##
+
+{Megumi} [Megumi: Mouth open / cara20-2]
+{SE: Accent28-1}
+#Message#
+\."...He left the force. I'm sorry."
+##
+
+{Keiji} [Keiji: Policeman, neutral / cara2-25]
+#Message#
+\."I... Is that so?"
+##
+
+[Keiji: Policeman, mouth open / cara2-24]
+{SE: Accent21-1}
+#Message#
+\."Even though he had his child...
+ I suppose he took another path."
+##
+
+{Megumi} [Megumi: Lowered eyes, mouth closed / cara20-5]
+#Message#
+\."..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."Ugh... urk..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+-----Page2-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+"Hahh...! Hahh...!!"
+##
+
+{Man's Voice} [Man Silhouette / cara999-3]
+#Message#
+"Ahh... That guy, huh?"
+##
+
+{Policeman}
+{SE: Accent21-1}
+#Message#
+\."Yeah, he quit... Sure enough."
+##
+
+{Keiji} [Keiji: Policeman, mouth open / cara2-24]
+#Message#
+\."So he was your coworker?"
+##
+
+{Policeman} [Man Silhouette / cara999-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yep... But I wouldn't get involved with him."
+##
+
+{Keiji} [Keiji: Policeman, furrowed brow + sweat / cara2-27]
+#Message#
+\."Huh...?"
+##
+
+{Policeman} [Man Silhouette / cara999-3]
+#Message#
+\."It's hard to say it here, but..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."He was fired for... trying to expose
+ a certain darkness among the police..."
+##
+
+{Keiji} [Keiji: Policeman, clenched teeth / cara2-28]
+#Message#
+\."...!!"
+##
+
+{Policeman} [Man Silhouette / cara999-3]
+#Message#
+\."He was always devoted to justice,
+ so he could be a parent his kid would look up to..."
+##
+
+{Keiji} [Keiji: Policeman, clenched teeth / cara2-28]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."A darkness...? What exactly was it?"
+##
+
+{Policeman} [Man Silhouette / cara999-3]
+#Message#
+\."Dunno... If I did, I might get fired too."
+##
+
+{Keiji} [Keiji: Policeman, furrowed brow + sweat / cara2-27]
+#Message#
+\."W... Well, then who had him fired?!"
+##
+
+{Policeman} [Man Silhouette / cara999-3]
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It was... miss Megumi."
+##
+
+{Keiji} [Keiji: Policeman, clenched teeth / cara2-28]
+#Message#
+\."...!!"
+##
+
+{Policeman} [Man Silhouette / cara999-3]
+#Message#
+\."You keep an eye on her too...
+ So long as you wanna stay with the police."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."My head... Urghh...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+-----Page3-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."Hahh...! Hahh...!!"
+##
+
+{Policeman} [Keiji: Policeman, clenched teeth / cara2-28]
+{SE: Transceiver}
+#Message#
+\C[6]"Calling all units! The suspect has a gun!"
+##
+
+{SE: Transceiver}
+#Message#
+\.\C[6]"No civilians present! You are authorized to fire!
+ Don't let him flee the scene!"
+##
+
+{Keiji}
+#Message#
+\."There's nowhere to run! Drop your gun!"
+##
+
+{Criminal}
+#Message#
+\."Ooooohhh...!! Ahhhhhhhhh...!!"
+##
+
+{Policeman} [Police Silhouette / cara999-2]
+#Message#
+\."Dammit! He's lost his cool!"
+##
+
+{Keiji} [Keiji: Policeman, clenched teeth / cara2-28]
+#Message#
+\."I'll fire a warning shot...! We need to stop him!"
+##
+
+{Policeman} [Police Silhouette / cara999-2]
+#Message#
+\."Keiji, watch out!! He's gonna shoot!!"
+##
+
+{Keiji} [Keiji: Policeman, clenched teeth, wide eyes / cara2-29]
+#Message#
+\."...!!"
+##
+
+#Message#
+\.".........."
+##
+
+[Keiji: Policeman, wide eyes of surprise / cara2-30]
+{SE: Accent21-1}
+#Message#
+\."Huh...?"
+##
+
+[Keiji: Policeman, furrowed brow, clenched teeth / cara2-32]
+#Message#
+\."That... can't be..."
+##
+
+[Keiji: Policeman, look of despair / cara2-33]
+#Message#
+\."That shouldn't have happened!!
+ I wasn't aiming for...!!"
+##
+
+{Megumi} [Megumi: Lowered eyes, mouth open / cara20-4]
+#Message#
+\."Keiji! Are you okay...?!"
+##
+
+{Keiji} [Keiji: Policeman, look of despair / cara2-33]
+#Message#
+\."I'm all right!!
+ But, ahh...!! The suspect...!"
+##
+
+[Keiji: Policeman, shocked horror / cara2-31]
+{SE: sceneswitch2}
+#Message#
+\."Eh...?"
+##
+
+{N/A}
+#Message#
+\sp[20]\C[3]I shouldn't... have noticed...
+##
+
+#Message#
+\.\sp[20]\C[3]I shouldn't... have seen his face...
+##
+
+{Keiji} [Mr. Policeman: Smile / cara22-1]
+#Message#
+\sp[20]"No... way..."
+##
+
+#Message#
+\."I... ahh... hhh..."
+##
+
+#Message#
+\."WAAAAAAAAAAAAAAAaaaaaaaaaahhh...!!!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent28-1}
+#Message#
+\."What a strange thing...
+ Turns out the criminal didn't have a gun."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."..."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."There were no witnesses, so Megumi
+ used her position to suppress the incident..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."She wanted to hide the murder
+ of a subordinate as self-defense."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."..."
+##
+
+[Keiji: Gripping shadowed face, sweating / cara2-35]
+{SE: heart2}
+#Message#
+\.\sp[20]"Why do you know?"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\."..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Gripping shadowed face, sweating / cara2-35]
+{SE: sceneswitch2}
+#Message#
+\."How much of a grasp do you have on the police...?"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."...How much, indeed...?"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Enough to feed false info about the gun..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."And enough to insert a fired policeman
+ into your tragic story, maybe...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Gripping shadowed face, sweating / cara2-35]
+#Message#
+\."...!!!!"
+##
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+{SE: Accent28-1}
+#Message#
+\."Keiji, watch out!! He's gonna shoot!!"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: flash-of-light-3}
+#Message#
+\."Ahaha. Just as good an actor as I was then, aren't I?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Gripping shadowed face, sweating / cara2-35]
+#Message#
+\.\sp[12]"..."
+##
+
+[Keiji: Gripping shadowed face / cara2-34]
+#Message#
+\.\sp[15]"Haha..."
+##
+
+#Message#
+\.\sp[18]"Wahahahaha..."
+##
+
+[Keiji: Turned to side, gripping face in fear / cara2-17]
+{SE: Accent21-1}
+#Message#
+\.\sp[20]"I see... So that's it..."
+##
+
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]"...I'll kill you."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+[Keiji: Facing forward, murderous intent / cara2-37]
+#Message#
+\.\C[10]"I... am going to KILL you...!!"
+##
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+#Message#
+\."Well, you seem motivated... Ahaha."
+##
+
+
+**********Event56********** (midoriAA) (7,11)
+-----Page1-----
+{\N[4]} [Midori: Mouth open / cara19-5]
+#Message#
+"Huhhh?
+ What's happened to Keiji, I wonder?"
+##
+

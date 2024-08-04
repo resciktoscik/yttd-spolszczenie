@@ -1,0 +1,640 @@
+=====Map227===== (★Battle Alice Trial)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+#Message#
+\."Agh...! What are we dealing with this time?!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Meowww!!
+ The whole room's attacking us, woof!!"
+##
+
+{Sara}
+#Message#
+\."Calm down, Gin...!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm here! Believe in me...!"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+{SE: Accent21-1}
+#Message#
+\."Big sis Sara..."
+##
+
+-----Page3-----
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]The light on the locker turned green.
+##
+
+{Sara}
+#Message#
+\C[4](Shoot! I guess that wasn't it...!)
+##
+
+{N/A}
+#Message#
+\C[3]The magnetic pull of the ceiling grew stronger.
+##
+
+{SE: button17}
+#Message#
+\C[3]Items fell out of the lockers.
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"A-A whole bunch of stuff fell down, meow!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."What're we supposed to do with this?!"
+##
+
+<Else>
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."That HURT!! You hit me right in the head!!"
+##
+
+<Condition End>
+
+-----Page4-----
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]The force pulling on our collars weakened,
+and the door opened.
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+"*cough*... *cough*... That was rough, meow..."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+{SE: Accent40-1}
+#Message#
+\."But... I knew big sis Sara would save us, woof..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry sad eyes / cara6-38]
+#Message#
+\."Everybody okay?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Hmph... Are all of us alive?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."Sure... somehow."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry sad eyes / cara6-38]
+#Message#
+\."Oh yeah... Are you okay, Kurumada?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Ah...! What about Naomichi Kurumada?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent21-1}
+#Message#
+\."I'm fine... I was outside the room with Hinako..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Alright, good!
+ If something happened to you, there'd be no point..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Such powerfully bad luck...
+ If you had died, there would be no point..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Are you guys seriously still tryin' to...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."Right! Where's the charger?!
+ We didn't find it anywhere!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden, sweating fearfully / cara91-36]
+#Message#
+\."Oh yeah! What about the charger? Is it here...?"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Huh? The lockers...)
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+{SE: SIN-Motion-Pop37-2}
+#Message#
+"Whaaa...! Another one of these trick doors?!
+ I don't wanna go in theeere!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"So many trick doors as usual, meow...
+ What should we do, woof?"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Sara}
+#Message#
+\."Hmm..."
+##
+
+#Choice#
+We just have to enter
+Somebody scout it out!
+##
+
+<入るしかない>
+
+{Sara} [Gin: Worried / cara9-3]
+{SE: Accent28-1}
+#Message#
+"What other choice do we have?"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+{SE: shrink1}
+#Message#
+\."Sure enough..."
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."Y-Yeah..."
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<誰か偵察を！>
+
+{Sara} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+{SE: Accent28-1}
+#Message#
+"Someone, please scout it out...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry eyes / cara6-39]
+{SE: Thunder10}
+#Message#
+\."Gotcha! Leave it to me!"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Big sis Reko! Be careful, woof!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent21-1}
+#Message#
+\."It's no big! You watch my back, Gin!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hoh... So even you've become afraid
+ after enduring so much peril?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+\."Stripey, you're braver than I thought, meow...!"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."I didn't say I'd go!!"
+##
+
+{Gin} [Gin: Unamused eyes / cara9-20]
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Why, you...! To think those sixth-grader eyes could
+ have such an effect on adults! I get it, so stop!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+#Message#
+@if S[642]
+\C[4](She left...)
+@else
+\C[4](He left...)
+##
+
+<Choice End>
+
+
+**********Event2********** (カップ) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Fancy Cup]
+The kind of fancy cup girls tend to like.
+Seems like it'd shatter if treated roughly.
+##
+
+
+**********Event4********** (グローブ) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Boxing Glove]
+A red glove to protect your fists.
+Made of sturdy leather.
+##
+
+
+**********Event5********** (ドクロ) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Skull]
+A replica of a human skull.
+Has a real heft to it.
+##
+
+
+**********Event6********** (パレット) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Palette]
+A board to put paints on when painting.
+The paints are all shiny.
+##
+
+
+**********Event7********** (スクールバッグ) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][School Bag]
+The kind of bag high school students use.
+These high-quality materials should last for years.
+##
+
+
+**********Event8********** (放送マイク) (8,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Broadcast Mic]
+A stand-up microphone that takes sound in a wide area.
+Needs to be plugged in to use.
+##
+
+
+**********Event9********** (本) (6,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Book]
+A book packed with lots of letters.
+On the back, it says "Please return on time."
+##
+
+
+**********Event10********** (パトランプ) (5,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Red Siren]
+A siren emitting a glaring red light.
+Takes effect when installed on a car.
+##
+
+
+**********Event11********** (パソコン) (7,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Laptop Computer]
+A computer lovingly used by modern workers.
+It's out of battery, so it won't turn on.
+##
+
+
+**********Event14********** (パンダ) (5,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Stuffed Panda]
+A cute stuffed toy panda.
+It's kind of scarily realistic, upon a closer look.
+##
+
+
+**********Event15********** (王将) (6,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Big Shogi King]
+A large King piece that you'd use in shogi.
+It has sharp corners, so it'd hurt to get hit with.
+##
+
+
+**********Event16********** (虫取り網) (7,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Bug-Catching Net]
+A net used to catch insects.
+Best used while you're still a kid who likes bugs.
+##
+
+
+**********Event17********** (ベル) (8,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Bell]
+A bell to be hung on a wall and rung.
+It has a fancy sound, but it's also very loud.
+##
+
+
+**********Event18********** (フランスパン) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Baguette]
+Long and aromatic French bread.
+It's stiff due to poor preservation.
+##
+
+
+**********Event19********** (消火器) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Fire Extinguisher]
+Can be sprayed at burning flames to put them out.
+This says it's good for 10 years.
+##
+
+
+**********Event20********** (テニスボール) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Tennis Ball]
+A yellow, slightly fuzzy ball.
+It has a softness that makes it usable for massages.
+##
+
+
+**********Event21********** (トランプ) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Playing Cards]
+A deck of 54 plastic playing cards.
+You can play alone or with a group, or do fortunes.
+##
+
+
+**********Event22********** (トロフィー) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Trophy]
+An ornament awarded to the winner of some competition.
+Cool to display, but troubling to dispose of.
+##
+
+
+**********Event23********** (魚の剥製) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Taxidermied Fish]
+A crucian carp like you'd find in a river, taxidermied.
+Apparently recommended for beginner anglers.
+##
+
+
+**********Event25********** (灯ろう) (2,11)
+-----Page1-----
+{N/A}
+{SE: select05}
+#Message#
+\C[3][Floor Map]
+A map of the room layout for Floor 4 and Floor 5.
+##
+
+#Choice#
+View
+Cancel
+##
+
+<読む>
+
+#Choice#
+Look at Floor 5 map
+Close
+##
+
+<５階のマップを見る>
+
+#Choice#
+Look at Floor 4 map
+Close
+##
+
+<４階のマップを見る>
+
+<閉じる>
+
+<Choice End>
+
+<閉じる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Closed the Floor Map.
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event26********** (灯ろう) (2,10)
+-----Page1-----
+{N/A}
+{SE: select05}
+#Message#
+\C[3][Lantern]
+A small lantern with a switch.
+What might happen when you turn it on?
+##
+
+#Choice#
+Turn on
+Cancel
+##
+
+<スイッチを入れる>
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\C[4](Huh...? Shining the light on the lockers
+ is making something show up.)
+##
+
+#Message#
+\.\C[4](...No idea what it means, though.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Is this a hint for solving the puzzle...?)
+##
+
+{N/A}
+#Message#
+
+
+
+\>　　　　　　　　　　　 \}Touch to power off\<\.
+##
+
+#Message#
+\C[3]Switched the lantern off.
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event28********** (錠前) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Padlock]
+A dial-based padlock. If you don't have the code,
+no amount of force will be able to remove it.
+##
+

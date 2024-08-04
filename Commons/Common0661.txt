@@ -1,0 +1,258 @@
+**********Common661********** (④進展●ｽﾀﾝｶﾞﾝ)
+{Sara} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent28-1}
+#Message#
+"You know the weapon used well, Sou."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Huh...?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."I quietly took the stun gun from the scene."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So only Gin and I knew that
+ Q-taro was attacked with a stun gun."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."...!"
+##
+
+{Sara}
+#Message#
+\."The only other person who could know...
+ is the culprit!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."...So that settles it."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Thunder10}
+#Message#
+\."It was you who used the stun gun
+ to knock Q-taro out, dammit!! Sou!!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+\."Mwahaha... A most unexpected slip-up."
+##
+
+[Alice: Angry shout / cara11-8]
+{SE: Thunder10}
+#Message#
+\."Sou Hiyori used the stun gun to knock
+ Cubetaro Hamburger out!! Yes, it was you!!"
+##
+
+<Condition End>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."I give..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."You found me out so easily. Ahaha."
+##
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."Sou...!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Sorry. I didn't want anyone getting in the way
+ of the hacking plan we were preparing."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent21-1}
+#Message#
+\."When he suddenly entered the room,
+ I went and used it without even thinking."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Where'd you find a dangerous thing like that, meow?!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Hmm... Can't seem to recall..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."MeoooOOOooow?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Something feels off.)
+##
+
+#Message#
+\.\C[4](You'd really have to be at your wit's end
+ to use a single-use stun gun...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Was there something more going on
+ between Q-taro and Sou...?)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent28-1}
+#Message#
+\."...That's enough..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Just knowin' who the culprit was is enough..."
+##
+
+{Sara}
+#Message#
+\."That can't...!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Might be pointless to push any further...
+ Sou's got no intention of explaining himself."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: sceneswitch2}
+#Message#
+\."For now, we should spare time for someone else."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."If we're going to suspect each other...
+ We have to do it now while we have time, huh..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Hmph... Indeed, only now do we have
+ the time to suspect each other..."
+##
+
+<Condition End>
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+{SE: Accent21-1}
+#Message#
+\."Even if it's hard to say... we have to say it."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+\."You mean... doubting so we can trust, meow...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."That's right. Be brave and talk, everybody."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Let's discuss if there's \C[2]anyone besides Sou
+ who's acted suspicious\C[0]."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"Come to think of it... I was wondering about how Nao
+ spent most of the first half in the Room of Lies..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"If I have to say something...
+ Nao Egokoro's actions had me wondering a bit.
+ She was in the Room of Lies for quite a while."
+##
+
+<Condition End>
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+"There's... this video I've been curious about.
+ So there's a certain someone I suspect a little..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"Actually, while I was searching the dark first floor,
+ I saw a weird video, meow..."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+"Pretty curious about Gin's actions, myself.
+ Why'd he know how to get to the first floor...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

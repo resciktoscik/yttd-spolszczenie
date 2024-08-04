@@ -1,0 +1,191 @@
+**********Common610********** (■ナオの個人情報)
+{Documents}
+#Message#
+Nao Egokoro's Personal Info
+##
+
+{Sara}
+#Message#
+\.\C[4](There's a lot written here... What should I read?)
+##
+
+#Choice#
+History
+Physical info
+Relatives
+Death Game info
+What she holds dear
+Cancel
+##
+
+<経歴>
+
+{Documents}
+#Message#
+\.Egasaki Elementary School ... Graduated
+Egasaki Middle School ... Graduated
+Third Kurotsuki Private High School ... Graduated
+Takesasa Private College of Art ... Currently 1st Year
+##
+
+#Message#
+\.Middle-class, born and raised by a very
+ordinary family. School grades below average.
+Focused on art starting in high school,
+and now seems interested in pursuing only that.
+##
+
+#Message#
+\.Looks up to an art club advisor she met in high school,
+staying deeply intimate with him even post-graduation.
+Often seen going to the man's atelier.
+##
+
+{Sara}
+#Message#
+\.\C[4](That must be Professor Mishima...)
+##
+
+{Documents}
+#Message#
+\.Doesn't appear to have many friends,
+but has a long association with most she does have,
+so it's suspected she values relationships.
+##
+
+#Message#
+\.Also, refrains from going out at night,
+generally staying at home even on days off.
+##
+
+#Message#
+\.No information known on what men she associates with.
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems that's it.)
+##
+
+<身体的な情報>
+
+{Documents}
+#Message#
+Nao Egokoro
+Age: 19
+Gender: Female
+Height: 162cm (5'4")  Weight: 55kg (121lb)
+##
+
+#Message#
+\.Has little experience in sports and the like,
+limited to P.E. classes in compulsory education.
+Even so, her reflexes are poor.
+##
+
+#Message#
+\.Perhaps due to her inclination toward art,
+she has very good eyesight. Her ability to remember
+a scene for a long time or recognize the individual
+flaps of a bird's wings is within reason, yet superb.
+##
+
+#Message#
+\.Since much of this comes from practice,
+about the only thing that can be called a born talent,
+it is thought, is her passionate love for art.
+##
+
+#Message#
+\.No other notable characteristics,
+although she has a large bust.
+##
+
+{Sara}
+#Message#
+\.\C[4](That's just flat-out sexual harassment...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Tore out the last line and threw it away.
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems that's it.)
+##
+
+<親族について>
+
+{Documents}
+#Message#
+\.Born to a middle-class, extremely average family.
+Both parents are in good health. Having good relations
+with them, her situation is common yet happy.
+##
+
+#Message#
+\.The father has been an office worker for 20 years.
+The mother has carried various jobs.
+No siblings.
+##
+
+#Message#
+\.The father is under his wife's thumb.
+When they fight, it appears Nao Egokoro
+often defends her father to resolve the conflict.
+##
+
+{Sara}
+#Message#
+\.\C[4](They observed this much...?)
+##
+
+<デスゲームの情報>
+
+{Documents}
+#Message#
+\.Safely cleared the First Trial.
+Survived the first Main Game.
+##
+
+#Message#
+\.Greatly affected mentally by death of her teacher.
+Took off with teacher's head and ran amok.
+##
+
+#Message#
+\.This could be taken as mental weakness,
+but endurance of great shock could make her
+that much more mentally sturdy going forward.
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao isn't weak at all...)
+##
+
+<大切な物について>
+
+{Documents}
+#Message#
+\.Most likely, Nao Egokoro treasures
+the artworks she has created, and brushes et al.
+received from her high school teacher.
+##
+
+#Message#
+\.Due to minimal desire for money,
+she does not seem the type to want expensive things.
+##
+
+{Sara}
+#Message#
+\.\C[4](That's all it says...)
+##
+
+<やめる>
+
+<Choice End>
+

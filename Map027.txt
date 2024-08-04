@@ -1,0 +1,643 @@
+=====Map27===== (Russian Lecture)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Alright, let's discuss who's gonna
+ take the role of Challenger."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Once we've settled our opinions,
+ we'll hold a vote at the end."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Sara..."
+##
+
+[Joe: Eyes-open smile / cara1-12]
+{SE: Accent28-1}
+#Message#
+\."You know what's up!
+ Show Q-taro what makes you worth trusting!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."..."
+##
+
+-----Page13-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"*pant*, *gasp*... I'm exhausted..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Me too...
+ I've never strained my voice so much before.)
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent28-1}
+#Message#
+\."Bein' honest and arguin' it out
+ is kinda refreshing, though."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Well, the discussion's settled down.
+ Shall we have our vote soon?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Right. Sorry, know you two are tired,
+ but let's get started."
+##
+
+{N/A} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\>    Sara: 4 votes                    Q-taro: 1 vote\<\|
+##
+
+#Message#
+\>    Sara: 3 votes                    Q-taro: 2 votes\<\|
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Well... Seems it's decided."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."There'd be no objections, right?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Hahaha! Naturally!"
+##
+
+#Message#
+\."Sara, ain't hardly any kids these days
+ who can make 'emselves as clear as you."
+##
+
+#Message#
+\."I feel like I can bet on ya!"
+##
+
+#Message#
+\."Hahaha! Can't help that!"
+##
+
+#Message#
+\."Sara, gotta admit that I couldn't
+ trust you much from yer words..."
+##
+
+#Message#
+\."But you've got two guys who believe in ya."
+##
+
+#Message#
+\."So don't let 'em down!
+ You do that fer me, an' I'll trust ya too!"
+##
+
+{Sara}
+#Message#
+\."Q-taro...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."What a cool thing to say."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Man, lookin' at you guys
+ just makes me feel like I'm bein' selfish."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Alright! Good luck with the rest, Sara!
+ It's all riding on you!"
+##
+
+{Sara}
+#Message#
+\."...Right!
+ Leave it to me!"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Well then, shall we take our seats?"
+##
+
+{Sara}
+#Message#
+\C[4](Kai...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\.\C[4](...Now's not the time to think about
+ the meaning of Kai's vote...)
+##
+
+#Message#
+\.\C[4](Things are just about to get started!)
+##
+
+#Message#
+\.\C[4](...Okay. Once I've prepared myself,
+ I'll talk to \C[2]the man in the painting\C[4].)
+##
+
+
+**********Event3********** (EV003) (2,0)
+-----Page1-----
+{Sara}
+#Message#
+"My age or being a high-schooler shouldn't matter!"
+##
+
+{Q-taro}
+#Message#
+\."Then if a grade-schooler like Gin were here,
+ would you have him do it?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."I mean...!"
+##
+
+{Q-taro}
+#Message#
+\."Obviously we want someone with experience!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"Keiji said earlier that skill with a gun
+ is irrelevant here!"
+##
+
+{Q-taro}
+#Message#
+\."Urk...!"
+##
+
+{Sara}
+#Message#
+\."I don't have experience, but I can think calmly!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."And I'm determined to save everyone!"
+##
+
+{Q-taro}
+#Message#
+\."...!"
+##
+
+{Sara}
+#Message#
+"I understand that!"
+##
+
+{Q-taro}
+#Message#
+\."I wonder! People can say anything they like!"
+##
+
+{Sara}
+#Message#
+\."I mean...!"
+##
+
+#Message#
+\.\C[4](I... can't explain something like that, can I?!)
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+-----Page3-----
+{Sara}
+#Message#
+"Keiji's trauma means he isn't even able
+ to point a gun at a person!"
+##
+
+{Q-taro}
+#Message#
+\."But... even still..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Would you put your life in the hands
+ of someone who wouldn't trust himself?!"
+##
+
+{Q-taro}
+#Message#
+\."...!"
+##
+
+#Message#
+\."Dammit...! That's true..."
+##
+
+{Sara}
+#Message#
+"Joe's entrusting it to me!
+ You can't make him shoot!"
+##
+
+{Q-taro}
+#Message#
+\."That's jus' his problem!"
+##
+
+#Message#
+\."And he's got manly strength!
+ You got the might to support a gun barrel, Sara?!"
+##
+
+{Sara}
+#Message#
+\."Urgh...!"
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"Are you seriously going to ask Kai?!"
+##
+
+{Q-taro}
+#Message#
+\."To me, there's no difference
+ between askin' you and askin' Kai!"
+##
+
+#Message#
+\."In fact, Kai's the most level-headed! Right?!"
+##
+
+{Sara}
+#Message#
+\."I don't know about level-headed... He's just weird!"
+##
+
+{Q-taro}
+#Message#
+\."You're a pretty weird high school girl yerself!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I... I can't refute that...!)
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+-----Page5-----
+{Sara}
+#Message#
+"That's wrong! Without motivation,
+ you can't remain positive!"
+##
+
+{Q-taro}
+#Message#
+\."You sayin' the power of positivity
+ will give ya the wisdom to beat the game?!"
+##
+
+#Message#
+\."Ya can't prove that!"
+##
+
+{Sara}
+#Message#
+\."Oof..."
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"It's not that I distrust you, Q-taro!"
+##
+
+{Q-taro}
+#Message#
+\."Then would you let me be the Challenger?"
+##
+
+{Sara}
+#Message#
+\."I mean...!"
+##
+
+{Q-taro}
+#Message#
+\."Show it with yer actions, not words!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"I do!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."I can say this much loud and clear!
+ I'm confident I can save everyone!"
+##
+
+{Q-taro}
+#Message#
+\."...!"
+##
+
+#Message#
+\."...No value in trustin' yer life
+ to somebody with no confidence."
+##
+
+#Message#
+\."If even this doesn't freak ya,
+ that's nothin' to sneeze at!"
+##
+
+-----Page7-----
+{Sara}
+#Message#
+"Joe and Keiji have acknowledged me from the start!"
+##
+
+{Q-taro}
+#Message#
+\."Grm..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."And even now, that hasn't been shaken!"
+##
+
+#Message#
+\."Q-taro, please, believe in me too!"
+##
+
+{Q-taro}
+#Message#
+\."Urghhh..."
+##
+
+{Sara}
+#Message#
+"No matter how bad they are... I'll conquer them!"
+##
+
+{Q-taro}
+#Message#
+\."What can a physically weak high-schooler do?!"
+##
+
+{Sara}
+#Message#
+\."W-With my wisdom, I'll...!"
+##
+
+{Q-taro}
+#Message#
+\."No guarantee wisdom alone'll get ya through!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"Monsters... That's inconceivable!"
+##
+
+{Q-taro}
+#Message#
+\."You can't say that for sure!"
+##
+
+#Message#
+\."What if a tiger or a lion showed up?!
+ Could you protect us?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Without knowing what the game entails,
+ I have no way to refute it...!)
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+-----Page9-----
+{Sara}
+#Message#
+"That's not true! I trust you all!"
+##
+
+{Q-taro}
+#Message#
+\."Then why not leave it to somebody else?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Ah...!"
+##
+
+{Q-taro}
+#Message#
+\."See, I'm way more trusting...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"There is! I'll absolutely win this game!"
+##
+
+{Q-taro}
+#Message#
+\."Even not knowing what it is...?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+{Q-taro}
+#Message#
+\."You ain't gonna persuade me by emotion!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"That's exactly why I definitely won't mess this up!"
+##
+
+#Message#
+\."Not only Joe, but Q-taro, Keiji, Kai...
+ I won't let any of your lives be taken!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."Q-taro, right now... You can't possibly feel
+ a stronger determination than me!"
+##
+
+{Q-taro}
+#Message#
+\."...!"
+##
+
+#Message#
+\."...You got a point there.
+ To me, you're strangers I just met, all of ya."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."Can I bet on...
+ your desire to save your friend...?"
+##
+
+{Sara}
+#Message#
+\."Please, count on me!"
+##
+
+{Q-taro}
+#Message#
+\."...What a weird-ass high school girl!"
+##
+
+
+**********Event4********** (EV004) (15,0)
+-----Page2-----
+{Q-taro}
+#Message#
+"Looks like you've got nothin' to say!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page4-----
+{Q-taro}
+#Message#
+"Looks like you've got nothin' to say!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page6-----
+{Q-taro}
+#Message#
+"Looks like you've got nothin' to say!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page8-----
+{Q-taro}
+#Message#
+"Looks like you've got nothin' to say!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page10-----
+{Q-taro}
+#Message#
+"Looks like you've got nothin' to say!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+

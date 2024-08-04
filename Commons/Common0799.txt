@@ -1,0 +1,105 @@
+**********Common799********** (ﾅｵ「名前順ちゃうね」)
+{Nao}
+#Message#
+"This roster seems to be sorted by the percentages!
+ But what in the world could those mean...?"
+##
+
+#Message#
+"Huh...?
+ This roster doesn't seem to be sorted by name."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Err... What does this tell us?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+"Sorry! Please explain it more simply!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"I don't have the faintest idea...
+ If you notice anything, Sara, please tell me..."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent28-1}
+#Message#
+"Look at this...!
+ The names are sorted by percentage!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Aaah, how creepy... What sort of statistic
+ are these numbers supposed to represent...?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](These numbers definitely stick out as odd...)
+##
+
+#Message#
+\.\C[4](Might they hold the key to solving this?)
+##
+

@@ -1,0 +1,16 @@
+**********Common268********** (投票ジョー)
+#Message#
+Vote for \C[2]Joe\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

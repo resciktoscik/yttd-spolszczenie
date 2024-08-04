@@ -1,0 +1,35 @@
+**********Common1501********** (⑥ソウB選択)
+{N/A}
+#Message#
+"Even if we took the handkerchief...
+ It's not really any use to us, so let's give it back."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+"It's a gamble...
+ Let's take the handkerchief Maple's offering."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

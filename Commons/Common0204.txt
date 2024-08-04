@@ -1,0 +1,182 @@
+**********Common204********** (ｼﾞｮｰ「異常行動だ」)
+{Joe}
+#Message#
+"If someone dear to me was killed in that vote...
+ I wouldn't grieve, I'd get pissed
+ and try to find the culprit!"
+##
+
+#Message#
+"Nao respected Professor Mishima!
+ Maybe her shock was so great that she
+ unconsciously did something strange?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"What's that got to do with anything?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Was something weird about my statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Joe}
+#Message#
+"Was something weird about my statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Joe}
+#Message#
+"Was something weird about my statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+"But I guess that's just what Miley wants, huh..."
+##
+
+[Joe: Default / cara1-11]
+#Message#
+"It's not like we always act
+ in the most logical way, right?!"
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+\."This was after that awful vote...!
+ If I felt what Nao felt... I'd...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](If you felt like Nao...?)
+##
+
+#Choice#
+What would you do?
+Would you be sad?
+##
+
+<どうなるんだ？>
+
+{Sara} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Joe, if it had been you who lost someone precious
+ in that vote, what would you do?"
+##
+
+{Joe} [Joe: Folded arms wondering / cara1-17]
+#Message#
+\."If it were me..."
+##
+
+<悲しいか？>
+
+{Joe} [Joe: Folded arms wondering / cara1-17]
+#Message#
+\."Joe, if you lost someone precious yourself...
+ You'd be... sad, right?"
+##
+
+<Choice End>
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+{SE: Accent28-1}
+#Message#
+\."Rather than grieve... I might just snap..."
+##
+
+{Sara}
+#Message#
+\."Snap?"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Like, "who the hell voted for Sara?!"...
+ I'd look for the culprit on the spot!"
+##
+
+[Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."'Course, I'd know full well it was Miley to blame...
+ but I might take out my anger on everybody else."
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+\."That's what I mean! You don't always follow logic!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah... maybe so. If \C[2]someone else\C[4] killed them...
+ anger would be a natural response.)
+##
+

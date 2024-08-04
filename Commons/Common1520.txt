@@ -1,0 +1,23 @@
+**********Common1520********** (⑦ヒナコB選択)
+{N/A}
+#Message#
+"If we're timid, they'll kill us!
+ Let's be \C[2]intimidating\C[0] to make them scared instead!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

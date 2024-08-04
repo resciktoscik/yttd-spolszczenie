@@ -1,0 +1,318 @@
+**********Common168********** (①進展●サラの反撃)
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Take a look at this, please."
+##
+
+{Gonbee} [Alice: Surprised face / cara11-2]
+#Message#
+\."Hm?"
+##
+
+{Sara}
+#Message#
+\."This box was in the kitchen. It says "Please use
+ as you wish," yet there was nothing inside to use."
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."...What of it?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."All that's left is an impression.
+ An impression made by a kitchen knife."
+##
+
+{Gonbee} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."What...?! A kitchen knife?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Yep. By the time Sara checked it, it was gone.
+ Somebody probably went and took it."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."The kitchen was locked the whole time.
+ And miss Sara very rarely acted alone..."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\."So surely she could not have taken it."
+##
+
+{Gonbee} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."How're you staying so calm?!
+ Like, who was it?! Who took the knife...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Who DID take the knife...?)
+##
+
+#Choice#
+A very important question
+That's not relevant now
+##
+
+<それはとても重要だ>
+
+{Sara} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"Yes, knowing that is key!"
+##
+
+{Gonbee}
+#Message#
+\."Who in the world could it be?!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Hold up, Sara! Is all that more important
+ than clearing your name right now?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...She has a point...)
+##
+
+<それは今 関係ない>
+
+{Sara} [Alice: Confused shout, grim look / cara11-12]
+{SE: heart1}
+#Message#
+\.\C[4](...There's no need...\.\. to prove everything!)
+##
+
+#Message#
+\."That's not relevant right now!!"
+##
+
+{Gonbee} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."How could it not be...?!"
+##
+
+{Sara}
+#Message#
+\."The point I'm making is that
+ I don't have control of all the weapons!"
+##
+
+#Message#
+\."So I didn't earn this trust by force!!"
+##
+
+{Gonbee} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Uuurgh...!!"
+##
+
+<Choice End>
+
+{Sara} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\.\C[4](That's right...!
+ I can't fall into my opponent's trap!)
+##
+
+{Gonbee} [Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."Grrr! Look at you, feeling all pleased!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...Hmph.
+ Very well. I'll speak no more..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."You trusting fools can just suspect one another."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...!!)
+##
+
+#Message#
+\.\C[4](...Right... There's no time to celebrate.
+ With Gonbee quiet, it just means we have to talk...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]\sp[8]..........
+##
+
+#Message#
+\.\C[3]...What should I say?
+##
+
+#Message#
+\.\C[3]...Who should we... distrust?
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+\."I've... resolved on an answer."
+##
+
+{Sara}
+#Message#
+\."Q-taro..."
+##
+
+{Q-taro}
+#Message#
+\."Lettin' this end in silence's the most inane plan
+ we could take. That's why I'm gonna say it."
+##
+
+#Message#
+\."In all our searchin' and discussions...
+ Who were the biggest burdens, an' the most weak...?"
+##
+
+{SE: shock1}
+#Message#
+\."Kanna, Gin, Nao... I'm talkin' about you three."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."...!!"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."..."
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."You couldn't...!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Are you shittin' me?!
+ You think YOU ain't gonna get picked
+ just 'cause you've got strength?!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Then go ahead and vote for me!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Wha...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Vote what your will tells ya!!"
+##
+
+#Message#
+\."If ya think I'm useless, then take responsibility
+ and kill me, Reko!!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent21-1}
+#Message#
+\."That's what I mean by resolve!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."...Nao! Kanna! Gin!
+ Tell him! Use your words... to prove your worth!!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."...Ah... I... I...!"
+##
+
+[Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."I searched as best I could!! And I found things!
+ Lots of things...!!"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."K... Kanna..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Gin!
+ If ya don't talk... it's over...!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Don't tell me... None of y'all are thinkin'
+ you'd be fine dying, right?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Looks bad, Sara.
+ Q-taro is serious."
+##
+
+{Sara}
+#Message#
+\."What should I...?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Draw it out of 'em.
+ That's something only you can do."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Only I can...?!)
+##
+

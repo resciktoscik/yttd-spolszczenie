@@ -1,0 +1,92 @@
+**********Common60********** (ｶｲ「決めかねてる」)
+{Kai}
+#Message#
+"...Hrm... I am undecided.
+ It pains me to put the responsibility on miss Sara."
+##
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"Sorry...
+ Please let me ponder a bit more."
+##
+
+{Sara}
+#Message#
+\.\C[4](Doesn't seem to have had an effect...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+"Though, I am not confident in holding a gun myself.
+ So it's a question of who I would want to do so."
+##
+
+#Message#
+\."Yet... who indeed...?"
+##
+
+#Message#
+"Though, I am not confident in holding a gun myself.
+ So it's a question of who I would want to do so."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\."Of course... There is someone here
+ who would be well suited to such a task..."
+##
+
+#Message#
+\."But for some reason,
+ he is not presenting himself as a candidate."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Whatever the case, if he refuses it,
+ I have no desire to ask him."
+##
+
+#Message#
+\."...How troubling."
+##
+

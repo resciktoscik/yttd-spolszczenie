@@ -1,0 +1,365 @@
+**********Common273********** (終わりの終わり)
+{SE: Magic2}
+#Message#
+\C[3]...All votes have been received.
+##
+
+{SE: Magic1}
+#Message#
+\.\C[3]Displaying results...
+##
+
+#Message#
+
+##
+
+{Kai} [Kai: Looking down and to side, fade in shadow / cara8-11]
+#Message#
+".........."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."That's too bad... You lose, Kai."
+##
+
+{Kai} [Kai: Looking down and to side, fade in shadow / cara8-11]
+#Message#
+\."...I understand. So long as you may be the \C[10]Sacrifice\C[0],
+ choosing you is risky..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent21-1}
+#Message#
+\."It's more than that."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."If you picked me with emotion...
+ that would be your \C[2]will\C[0]."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."But everyone chose with \C[2]logic\C[0].
+ ...Awful, isn't it?"
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."..."This vote isn't about \C[2]our own wills\C[0]!"
+ That's what everyone's telling themselves -
+ how they're fooling themselves."
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."I'm sorry...!! I'm sorry...!!
+ I'm sorry..."
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+{SE: horror_piano chord3}
+#Message#
+\."Eheehee. Now, everyone,
+ enjoy yourselves as I check your answers!"
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."First, the \C[3]Sage\C[0]!"
+##
+
+#Message#
+\."You were right on, everyone! It was Kai Satou!"
+##
+
+{Kai} [Kai: Looking down and to side, sweating nervously / cara8-12]
+#Message#
+\."..."
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Next, the \C[2]Keymaster\C[0]!
+ Eheehee, the fierce battle between you two
+ was a true sight to see!"
+##
+
+#Message#
+\."Amazing! It was Sara Chidouin!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."No... Stop it..."
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Aaand! The \C[2]Sacrifice\C[0]!
+ The one who dies with objective incomplete isss..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Please...!!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Tadaaah! It was Jou Tazuna!"
+##
+
+{Joe} [Joe: Serious look and eyebags, sweating bullets / cara1-23]
+#Message#
+\.".........."
+##
+
+[Joe: Sweating bullets, forced smile / cara1-19]
+#Message#
+\."Haha... ha..."
+##
+
+#Message#
+\."Well... what to say..."
+##
+
+[Joe: Serious look and eyebags, sweating bullets / cara1-23]
+#Message#
+\.".........."
+##
+
+#Message#
+\."Guys..."
+##
+
+[Joe: Sweating bullets, forced smile / cara1-19]
+{SE: Accent21-1}
+#Message#
+\."Sorry... for tricking you..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."D... Dumbass!! What're you sorry about?!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."You... 'cause of us, you... you...!!
+ Don't you feel bitter?!"
+##
+
+{Joe} [Joe: Sweating bullets, forced smile / cara1-19]
+#Message#
+\."I dunno... I just dunno..."
+##
+
+#Message#
+\."I mean... I just can't see you as bad guys..."
+##
+
+[Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+\."Even Sou and Alice...
+ must be good people, really..."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Joe} [Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+#Message#
+\.\C[4](This isn't real... It's just...)
+##
+
+{Joe} [Joe: Sweating bullets, eyes-open smile / cara1-21]
+#Message#
+\."Sorry... I even tricked you."
+##
+
+{Sara}
+#Message#
+\."Joe... Stop it...! I don't believe it... I..."
+##
+
+{Joe} [Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+\."It's you, right...? You voted for me..."
+##
+
+{Sara}
+#Message#
+\."I..."
+##
+
+{Joe} [Joe: Sweating bullets, forced smile / cara1-19]
+{SE: Accent21-1}
+#Message#
+\."I thought, if I could escape with you...
+ ...I tried real hard."
+##
+
+{Sara}
+#Message#
+\."Aaaah... *sniff*..."
+##
+
+{Joe} [Joe: Sweating bullets, eyes-open smile / cara1-21]
+#Message#
+\."Sara, you didn't vote for me.
+ ...That's what made it clear."
+##
+
+{Sara}
+#Message#
+\."I..."
+##
+
+{Joe} [Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+{SE: Accent21-1}
+#Message#
+\."All of you guys... are my friends."
+##
+
+[Joe: Sweating bullets, eyes-open smile / cara1-21]
+#Message#
+\."So... work together and do your best."
+##
+
+{Sara}
+#Message#
+\."Aaaah... *sniff*..."
+##
+
+{Joe}
+#Message#
+\."Last... There's something I wanna say."
+##
+
+[Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+\."Sure enough... It's hard for a guy and a girl
+ to say this sorta stuff to each other, huh...?"
+##
+
+[Joe: Sweating bullets, eyes-open smile / cara1-21]
+{SE: Accent28-1}
+#Message#
+\."I love ya, Sara!
+\.\. You're my best friend!!"
+##
+
+{Sara}
+#Message#
+\."Waaaaahhh..."
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Yes, yes, it's over already. Eheehee."
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+\."Kai Satou, chosen by vote, will be the main event.
+ Whereas you're the opening act. Hurry up and die."
+##
+
+{Sara}
+#Message#
+\."Wait...! Wait, Miley..."
+##
+
+{Miley}
+#Message#
+\."Come, Wrigglers!"
+##
+
+{Sara}
+#Message#
+\."Aa... ah..."
+##
+
+{Miley}
+#Message#
+\."Suck all the blood from Jou Tazuna!"
+##
+
+{Joe}
+#Message#
+\."Gah...!! Ghah...!!"
+##
+
+{Sara}
+#Message#
+\."AAAAAAAaaaaa... aa...!!!"
+##
+
+#Message#
+\."Please!! Miley!! Stop this!!"
+##
+
+#Message#
+\."I'll do anything!! I'll die in his place!!
+ So... so..."
+##
+
+#Message#
+\."Save Joe...!! Please, help him...!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."How cuuute, Sara! Ahaha."
+##
+
+[Miley: Default smile / cara14-1]
+#Message#
+\."Why not? I'll give you a chance."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Miley}
+#Message#
+\."Eheehee. This button will slow the device
+ connected to Jou Tazuna."
+##
+
+#Message#
+\."Just keep pressing it! The device will be slowed
+ the more you press, and maybe even stop!"
+##
+
+{Sara}
+#Message#
+\."G... Give me that!!"
+##
+

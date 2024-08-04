@@ -1,0 +1,92 @@
+**********Common206********** (ﾚｺ「箱すり替わった」)
+{Reko}
+#Message#
+"It must've gotten swapped at some point
+ with another box the kidnappers prepared!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"And that's got shit to do with Nao?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"Uhhh... the hell's that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"Uhhh... the hell's that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+"I mean, this place is full of crap like that...!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."The kitchen was pitch black!
+ It got swapped in the dark when she wouldn't notice!"
+##
+

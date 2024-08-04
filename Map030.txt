@@ -1,0 +1,1216 @@
+=====Map30===== (Torso Room Until End)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Keiji} [Joe: Default / cara1-11]
+#Message#
+"Well now... We're finally doing it."
+##
+
+{Joe}
+#Message#
+\."Hey, actually... Where have you even been?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."Oh, just... found a hidden room."
+##
+
+{Sara} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Sou...! You're okay!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."That's my line!
+ ...Good, so everyone's safe."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."My heart is beating fast...
+ What could possibly happen...?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."I got the door open just in case."
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."So our escape route's secured!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Well, onto the fateful moment... Let's roll."
+##
+
+{N/A}
+#Message#
+\C[3]Keiji skillfully attached the parts
+to the doll torso placed there...
+##
+
+#Message#
+\.\C[3]The right arm... left arm... right leg... left leg...
+##
+
+#Message#
+\.\C[3]And... the head.
+##
+
+#Message#
+\.\C[3]..........
+##
+
+#Message#
+\.\C[3]...Nothing's happening?
+##
+
+{Q-taro} [Miley: Default smile / cara14-1]
+#Message#
+\."...Wait. You smell somethin'?"
+##
+
+{Nao}
+#Message#
+\."...Huh?!"
+##
+
+{Joe}
+#Message#
+\."Hey... Is it just me, or is the room going white?!"
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."It's gas...!"
+##
+
+{Sou}
+#Message#
+\."P... Poison...?!
+ Not good... We need to leave the room...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]But the white gas filled up the room
+in the blink of an eye.
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't see anything...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]I can't even see past my own hands.
+##
+
+#Message#
+\.\C[3]There's nowhere to run.
+##
+
+#Message#
+\.\C[3]Are we all going to suffocate?
+##
+
+#Message#
+\.\C[3]I'm not... prepared.
+##
+
+#Message#
+\.\C[3]..........
+##
+
+{???}
+{SE: Accent28-1}
+#Message#
+\."It's not poison gas, everyone, so please relax."
+##
+
+#Message#
+\."Ahaha. Good day."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."H... Huh?!
+ Y... You're..."
+##
+
+[Miley: Default smile / cara14-1]
+#Message#
+\."The doll?!"
+##
+
+{Doll} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Heeheehee... Yes, I am the doll
+ that you just rescued. Advanced, am I not?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Haaaaah?!
+ The hell's goin' on here?!"
+##
+
+{Doll} [Miley: Default smile / cara14-1]
+#Message#
+\."Ahaha. As it happens, I have revived to tell you
+ what is happening, and support you through
+ the trials and tribulations to come."
+##
+
+{Reko}
+#Message#
+\."Stay away from me, you creepy-ass puppet!!"
+##
+
+{Doll}
+#Message#
+\."Ehehe. There's nothing to fear, you see?
+ I will offer you my full support..."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."Ah... oogh... oooh..."
+##
+
+{Doll} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ahaha... My word, is there no one
+ who can speak calmly here?"
+##
+
+{Sara}
+#Message#
+\.\C[4](It's a step too far to ask someone
+ not to be surprised when a doll starts talking...)
+##
+
+#Choice#
+Talk to her calmly
+Talk to her fiercely
+##
+
+<冷静に話を聞く>
+
+{Sara} [Miley: Closed-eyes smile / cara14-2]
+{SE: Accent28-1}
+#Message#
+\."I'll ask. Just what are you?"
+##
+
+<熱く話を聞く>
+
+{Sara} [Miley: Closed-eyes smile / cara14-2]
+{SE: Accent28-1}
+#Message#
+\."I'm gonna ask!! Just what are you?!?"
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Fill in the policeman here, too.
+ I'm not really following..."
+##
+
+{Doll} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ehehe. Then we'll begin with my introduction..."
+##
+
+[Miley: Default smile / cara14-1]
+#Message#
+\."Heehee. My name is \C[2]Sue Miley, the Laughing Doll\C[0].
+ I am the doll who will guide you on this floor."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ehee. My master has instructed me to
+ guide you brave souls, who have already
+ overcome several trials, to the Main Game."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Your master... In other words,
+ you're on the side of the kidnappers."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."S... So you're our enemy?!
+ Don't try and say you're not!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ahaha! How very serious! Ahaha!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Stop laughin', asshole!! You wanna die?!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Heehee... I'd rather not...
+ No, I wouldn't like to be all torn up again..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Ehee... heehee... I know...
+ I just have to tear you up first..."
+##
+
+{Reko}
+#Message#
+\."Tear us up...?!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ahahaha. As a warning, yes..."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+\."...Wha?!
+ M-My collar's... vibrating...!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Ehehe. Anyone will do, heehee.
+ If it'll make you quiet..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."W... What did you do?!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Eheehee, what indeed?"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Hey!! Answer me!!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Ahaha, oh, very well."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm just \C[10]making your collar explode\C[0]. Ahaha, ahah."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."H... Huh?! No way...?! Wha...?!"
+##
+
+#Message#
+\."Gh... Get it off... get this thing...!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ahaha! Get away, get away! It's dangerooous!"
+##
+
+{Joe}
+#Message#
+\."*pant*...\. *pant*...\. *pant*..."
+##
+
+{Miley}
+{SE: Accent21-1}
+#Message#
+\."...That was a lie, of course. Eheehee...
+ Did you enjoy it?"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."A... A lie..."
+##
+
+{N/A}
+{SE: Earth3}
+#Message#
+\.\C[3]Joe's knees gave out, and he collapsed on the floor.
+##
+
+{Miley}
+#Message#
+\."That collar \C[2]can't actually explode\C[0], after all."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."...You piece of shit...!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Hahahahahahahahahahahahahahahahahaha!!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."Eheh, it's so funny, ahah, I can't, heehee,
+ even talk, mweeheeheehee..."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."She's out of her mind, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Out of her mind... or not human to begin with?)
+##
+
+#Message#
+\.\C[4](But... it seems we should do as she says...!)
+##
+
+#Choice#
+Why kidnap us?
+Brave souls...?
+What's the Main Game?
+Who's your master?
+##
+
+<誘拐の目的は？>
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Ehehe... You don't know, do you..."
+##
+
+#Message#
+\."Eheehee. What I'm about to explain...
+ is in regards a fight you must take, ahaha,
+ for your own destiny."
+##
+
+<ツワモノ…とは？>
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Heeheehee. A chosen 20... no."
+##
+
+#Message#
+\."Ahaha... Is it only 12 now? Ohoho."
+##
+
+<メインゲームとは？>
+
+<主は誰だ？>
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Ehehe... You don't know, do you..."
+##
+
+#Message#
+\."Eheehee. What I'm about to explain...
+ is in regards a fight you must take, ahaha,
+ for your own destiny."
+##
+
+<Choice End>
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."You will soon undergo a great trial
+ in order to escape outside."
+##
+
+#Message#
+\."As it has been prior, the superior will live,
+ and the inferior will die - it is far from easy."
+##
+
+#Message#
+\."One among you... will certainly die."
+##
+
+#Message#
+\."And the person to die..."
+##
+
+#Message#
+\."Shall be decided by your own \C[2]majority vote\C[0]."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."Eh...?"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."I'm saying that you'll pick it yourselves."
+##
+
+{SE: Accent28-1}
+#Message#
+\."The one most unnecessary, hated,
+ and acceptable to have die."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Stop talkin' nonsense...!!
+ Like we're gonna do somethin' like that!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ahaha. Then by all means,
+ starve to death here, all of you."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Whoa, just laying it on the table."
+##
+
+{Sara}
+#Message#
+\.\C[4](Pick... one of us...?)
+##
+
+#Message#
+\.\C[4](What... What is she saying? I can't comprehend...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Not one of us could speak up anymore.
+##
+
+#Message#
+\.\C[3]We would kill one of these people, stuck in
+the same situation...? Who we had considered allies?
+##
+
+#Message#
+\.\C[3]Or else... we would be killed by them...?
+##
+
+#Message#
+\.\C[3]Why... why doesn't this feel real?
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+{SE: Accent28-1}
+#Message#
+\."Ahaha, don't go so pale, everyone!
+ I've got something good to hand out!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Something good...?
+##
+
+#Message#
+\.\C[3]My head won't work...
+I hardly understand what she's saying...
+##
+
+{Miley}
+#Message#
+\."Ahaha. Here, Sara Chidouin, have this tablet."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained a Voting Tablet.
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ehehe, does everyone have one now?
+ Let us test the functionality with some actual use."
+##
+
+#Message#
+\."When voting, if you know who voted for who,
+ it turns into a quarrel, doesn't it?"
+##
+
+#Message#
+\."Eheehee... Thus, by voting with these tablets,
+ you won't know who made what vote."
+##
+
+#Message#
+\."Ehehe. As a test, try voting for whoever!"
+##
+
+-----Page3-----
+#Message#
+~ Votes ~
+##
+
+#Message#
+Sara:
+##
+
+#Message#
+Sara: 1 vote
+##
+
+#Message#
+Sara:\| 0 votes
+##
+
+#Message#
+Joe:
+##
+
+#Message#
+Joe: 2 votes
+##
+
+#Message#
+Joe:
+##
+
+#Message#
+Joe: 1 vote
+##
+
+#Message#
+Keiji:
+##
+
+#Message#
+Keiji: 2 votes
+##
+
+#Message#
+Keiji:
+##
+
+#Message#
+Keiji: 1 vote
+##
+
+#Message#
+Kanna:
+##
+
+#Message#
+Kanna: 2 votes
+##
+
+#Message#
+Kanna:
+##
+
+#Message#
+Kanna: 1 vote
+##
+
+#Message#
+Q-taro:
+##
+
+#Message#
+Q-taro: 2 votes
+##
+
+#Message#
+Q-taro:
+##
+
+#Message#
+Q-taro: 1 vote
+##
+
+#Message#
+Sou:
+##
+
+#Message#
+Sou: 1 vote
+##
+
+#Message#
+Sou:\| 0 votes
+##
+
+#Message#
+Reko:
+##
+
+#Message#
+Reko: 2 votes
+##
+
+#Message#
+Reko:
+##
+
+#Message#
+Reko: 1 vote
+##
+
+#Message#
+Nao:
+##
+
+#Message#
+Nao: 1 vote
+##
+
+#Message#
+Nao:\| 0 votes
+##
+
+#Message#
+Kai:
+##
+
+#Message#
+Kai: 2 votes
+##
+
+#Message#
+Kai:
+##
+
+#Message#
+Kai: 1 vote
+##
+
+#Message#
+Gin:
+##
+
+#Message#
+Gin: 2 votes
+##
+
+#Message#
+Gin:
+##
+
+#Message#
+Gin: 1 vote
+##
+
+#Message#
+Mishima:
+##
+
+#Message#
+Mishima: 4 votes
+##
+
+#Message#
+Mishima:
+##
+
+#Message#
+Mishima: 3 votes
+##
+
+#Message#
+~ Results ~
+##
+
+[Mishima: Default smile / cara12-1]
+#Message#
+\.\C[2]Most votes: Mishima, 4 votes
+##
+
+#Message#
+\.\C[2]Most votes: Mishima, 3 votes
+##
+
+{Mishima}
+{SE: Accent28-1}
+#Message#
+"Oh my... It appears to be a bit one-sided."
+##
+
+#Message#
+"Hm... So this is a tablet for voting..."
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Ahaha. Is there something you want to say?"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."...If you were a human, I suppose there would be.
+ Something like, "cease this, if you have a heart.""
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Eheehee. Unfortunately, I do not."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."A pity..."
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ehehe. More importantly, are you sure?"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Hmm?"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."\C[10]Do you really want those as your last words?\C[0]"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."...What are you doing...?"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."..."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."It won't explode, will it...?"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+{SE: Accent28-1}
+#Message#
+\."Ahaha, no, it won't \C[2]explode\C[0]..."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+{SE: Accent28-1}
+#Message#
+\."What did you say...?"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."P... Professor...?"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Eheehee. Aheh, aheehahaha...!"
+##
+
+{Mishima}
+#Message#
+\."...?!
+ It's hot...!!"
+##
+
+#Message#
+\.\sp[12]"Gaaah...! My neck...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The collar was visibly changing color.
+##
+
+{Mishima}
+#Message#
+\.\sp[12]"Aaaah...!!! AHHHHHHHHHH...!!"
+##
+
+#Message#
+\.\sp[12]"It burns...!! AHHHHH...!!"
+##
+
+{Nao}
+#Message#
+\."Professor!! PROFESSOOOOOOOOOOR!!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Professor Mishima...!!)
+##
+
+{N/A}
+#Message#
+\.\C[3]A smell lingered in the air.
+##
+
+#Message#
+\.\C[3]A smell I'd never experienced before...
+##
+
+#Message#
+\.\C[3]The smell of human flesh burning...
+And the sound of blood evaporating...
+##
+
+{Q-taro}
+#Message#
+\."Take it off!! Take it off, old man!"
+##
+
+{Mishima}
+#Message#
+\.\sp[12]"G... Gaaaaah...!!"
+##
+
+{Nao}
+#Message#
+\."NOOOOOOOOOO!! PROFESSOOOOOOOOOOOOOOOR!!!"
+##
+
+{Mishima}
+#Message#
+\."Stay away!!"
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Professor Mishima pushed Nao away.
+##
+
+#Message#
+\.\C[3]And with that, he fell backwards in front of Kanna.
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Help!! The professor!! The professor's going to die!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."D... Don't!! If you touch that collar...!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]And then the professor...
+##
+
+#Message#
+\.\C[3]stopped moving at all...
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Professor!! PROFESSOOOOOOOOOOOOOOOR!!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Hee... heehee, heeahahaha...!! Bwahah...!"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed, wet skirt / cara3-8]
+#Message#
+\."Ahhhhh... *sniff*... ahhh...!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Hahahahahaha!! How unladylike.
+ You wet yourself?"
+##
+
+{Kanna} [Kanna: Arms crossed, angry shout with tears, wet skirt / cara3-7]
+#Message#
+\."*sniffle*... A... Awful... Why would you do this...?!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."You've learned what a majority vote means
+ from this experience, haven't you?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Awful...
+##
+
+#Message#
+\.\C[3]This is too awful...
+##
+
+#Message#
+\.\C[3]It wasn't an instant pain. He was burned at length...
+And unable to even writhe... he died.
+##
+
+{Kanna} [Kanna: Arms crossed, angry shout with tears, wet skirt / cara3-7]
+#Message#
+\."Everyone... everyone's a good person here!!
+ How can you do this...?! What did we do?!"
+##
+
+#Message#
+\."I won't let this stand...!!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Heehee... heeheehee...
+ You annoy me, you powerless little girl...
+ ...No."
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+\.\C[10]"You sister-killer."
+##
+
+{N/A}
+#Message#
+\.\C[3]Stop.
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed, wet skirt / cara3-8]
+#Message#
+\."I... I..."
+##
+
+{Miley} [Miley: Smug smile / cara14-6]
+#Message#
+\.\C[10]"Hahaha, I saw all of it.
+ How miserable you were in your First Trial, Kanna."
+##
+
+{N/A}
+#Message#
+\.\C[3]Don't trample on her.
+##
+
+#Message#
+\.\C[3]On Professor Mishima's concern for Kanna.
+##
+
+#Message#
+\.\C[3]On the words he left her.
+##
+
+{Miley}
+#Message#
+\.\C[10]"Your actions killed your sister."
+##
+
+{N/A}
+#Message#
+\.\C[3]Don't trample all over Kanna's heart!!!
+##
+
+{Miley} [Miley: Angry, bleeding / cara14-5]
+#Message#
+\."Gah..."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+{SE: Accent28-1}
+#Message#
+\."Forgive me. The hand with the frying pan
+ must have slipped."
+##
+
+{Miley} [Miley: Angry, bleeding / cara14-5]
+#Message#
+\."You little...!!"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."So even dolls bleed red."
+##
+
+{Miley} [Miley: Angry, bleeding / cara14-5]
+#Message#
+\."...Don't think you can do this...
+ and just get away scot-free...!!"
+##
+
+{Kai} [Kai: Lowered eyebrows / cara8-3]
+{SE: shock1}
+#Message#
+\."On the contrary... I ask that you don't think
+ you'll be getting away with so little as this."
+##
+
+#Message#
+\."I will have you pay for toying with people's lives."
+##
+
+{Miley} [Miley: Angry, bleeding / cara14-5]
+#Message#
+\."Dammit!! Damn it!!
+ I'll remember this!!"
+##
+
+#Message#
+\."I'll be waiting...
+ on the grounds of the Main Game...!"
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Are you all right?"
+##
+
+{N/A}
+#Message#
+\.\C[3]I don't understand...
+##
+
+#Message#
+\.\C[3]Professor Mishima's death...
+##
+
+#Message#
+\.\C[3]Nor who Kai is.
+##
+
+#Message#
+\.\C[3]...
+##
+
+#Message#
+\.\C[3]..........
+##
+
+#Message#
+\.\C[3]But...
+##
+
+#Message#
+\.\C[3]...Yes... Even if what awaits
+is us killing each other by majority vote...
+##
+
+#Message#
+\.\C[3]However cruel a future it is...
+##
+
+#Message#
+\.\C[3]...I can't...
+##
+
+#Message#
+\.\C[3]I can't go dying yet...!
+##
+
+#Message#
+\SP[8]Your Turn To Die -Death Game By Majority-
+##
+
+#Message#
+\SP[8]Chapter 1, Part One\>                      \<\!End\.
+##
+
+
+**********Event8********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event9********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+

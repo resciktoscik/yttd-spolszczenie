@@ -1,0 +1,127 @@
+**********Common1737********** (★ｿｳ「歪み」)
+{Sou}
+#Message#
+"Is there anything at all?!
+ Like \C[2]a slip of the tongue from the enemy\C[0]...!"
+##
+
+#Message#
+"Well, if we think about it,
+ \N[4]'s naturally in the #\V[991] coffin..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+"Please... did anyone misspeak...?"
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"That's the natural, expected result of our logic."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+{SE: Accent41-1}
+#Message#
+\."Which is why it's unnatural..."
+##
+
+[Sou: Turned to side, clutching head in hands / cara5-37]
+{SE: Accent21-1}
+#Message#
+\."If \N[4] planned ahead this far,
+ then we're all but done for."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Damn it..."
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."Is there anything at all?!
+ Like \C[2]a slip of the tongue from the enemy\C[0]...!"
+##
+
+[Sou: Hands out, mouth open, eyes with bags / cara5-31]
+#Message#
+\."Isn't finding that kind of thing your forte, Sara?!"
+##
+
+{Sara}
+#Message#
+\."I-It's not my forte...!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: Accent21-1}
+#Message#
+\."O... Oh..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](A slip of the tongue...)
+##
+

@@ -1,0 +1,89 @@
+**********Common513********** (ｹｲｼﾞ「串刺し拒否」)
+{Keiji}
+#Message#
+"...There must be a way to not be skewered.
+ Right, Sara?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Nope, that's not it. It's okay, Sara.
+ Stay cool and be quick."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+#Message#
+"Not that, Sara.
+ Onto the next one. There's no time."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"You can definitely solve this one.
+ Am I right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](A way to avoid being skewered...
+ Do I need to use some item...?)
+##
+
+#Message#
+\.\C[4](I'll present it to Keiji...!)
+##
+

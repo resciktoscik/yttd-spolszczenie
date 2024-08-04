@@ -1,0 +1,395 @@
+=====Map138===== (Post-Death Dream)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+"Professor..."
+##
+
+#Message#
+\."I'm sorry..."
+##
+
+#Message#
+\."The present I was going to give you...
+\! I still couldn't finish it..."
+##
+
+#Message#
+"That's all right."
+##
+
+#Message#
+\."You'll have plenty of time now."
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+#Message#
+"Paint to your heart's content, Nao."
+##
+
+<Condition End>
+
+#Message#
+"Yes...!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Aa... ahhh... ahhhhh..."
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]I couldn't push the button...
+##
+
+#Message#
+\.\C[3]To the very end... Nao said she didn't want to die...
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]There was no way I could push it...
+##
+
+{Sara}
+#Message#
+\."Once again..."
+##
+
+#Message#
+\."I couldn't protect them..."
+##
+
+#Message#
+\."They died... again..."
+##
+
+#Message#
+\."Urghhh... aaaaaah...!!"
+##
+
+-----Page2-----
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."Next... is Kanna."
+##
+
+{Sara}
+#Message#
+\."W... Wait!!"
+##
+
+#Message#
+\."Stop it already!! Please, Safalin...!!"
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Holding gun, clenched teeth / cara4-21]
+{SE: sceneswitch2}
+#Message#
+\."...Don't move."
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+{SE: Accent21-1}
+#Message#
+\."...That's Gashu's..."
+##
+
+{Q-taro} [Q-taro: Holding gun, shouting / cara4-20]
+#Message#
+\."You come near Kanna, I'll shoot!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."..."
+##
+
+[Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+{SE: Accent28-1}
+#Message#
+\."It's futile.
+ Kanna's execution won't be changing."
+##
+
+{Q-taro} [Q-taro: Holding gun, clenched teeth / cara4-21]
+#Message#
+\."Why...?"
+##
+
+[Q-taro: Holding gun, shouting / cara4-20]
+#Message#
+\."Ain't you different from Gashu and Miley?!"
+##
+
+[Q-taro: Holding gun, clenched teeth / cara4-21]
+#Message#
+\."You carried out her execution
+ with such a pained look...!!"
+##
+
+[Q-taro: Holding gun, shouting / cara4-20]
+#Message#
+\."You don't really want this, do ya?!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\.\sp[15]".........."
+##
+
+[Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."You don't understand, do you..."
+##
+
+[Safalin: Wide smile, swirly eyes / cara15-5]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"I've always been your enemy, you see?"
+##
+
+{Q-taro} [Q-taro: Holding gun, clenched teeth, freaked-out look / cara4-22]
+#Message#
+\."...!!"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+{SE: asioto3}
+#Message#
+\."...I'm coming closer."
+##
+
+{Q-taro} [Q-taro: Holding gun, clenched teeth, freaked-out look / cara4-22]
+#Message#
+\."Hwoooooooooohhhhh!!"
+##
+
+{N/A}
+#Message#
+\C[3]The gun let out a click.
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+{SE: Accent21-1}
+#Message#
+\."...It was empty, I see."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...!!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Damn yoooooooooou...!!!!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: sceneswitch2}
+#Message#
+\."It's fine now..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+#Message#
+\."Thank you, everyone..."
+##
+
+{SE: Accent28-1}
+#Message#
+"...Thank you, Sara."
+##
+
+{Sara}
+#Message#
+\."Kanna...!!"
+##
+
+{Kanna}
+{SE: Accent21-1}
+#Message#
+\."Please take care of Sou..."
+##
+
+#Message#
+\."Everyone... get along together..."
+##
+
+{Safalin}
+{SE: sceneswitch2}
+#Message#
+\."Activating collar device... the \C[2]Human Flower\C[0]...!"
+##
+
+-----Page3-----
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."Next... is Sou."
+##
+
+{Sara}
+#Message#
+\."W... Wait!!"
+##
+
+#Message#
+\."Stop it already!! Please, Safalin...!!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\.".........."
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."Please move aside... I need to activate the device..."
+##
+
+{Sara}
+#Message#
+\."Don't kill Sou..."
+##
+
+#Message#
+\."Don't kill our ally!! Please...!!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+{SE: Accent21-1}
+#Message#
+\."...Ally..."
+##
+
+[Sou: Turned to side, clutching head in hands / cara5-37]
+#Message#
+\."Ahaha... Worthless... So worthless..."
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."You don't have any last words, do you...?"
+##
+
+[Safalin: Holding hat, face in shadow / cara15-7]
+{SE: sceneswitch2}
+#Message#
+\."I will begin the execut..."
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+{SE: Thunder10}
+#Message#
+\."I'm not gonna die."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Huh...?"
+##
+
+{Sou}
+#Message#
+\."You think I'll do what you want?"
+##
+
+{Safalin}
+#Message#
+\."Your collar...?!"
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+{Sou} [Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."Exit's that way, huh...?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."I... It's futile!
+ This facility has a defense system...!!"
+##
+
+{Sou}
+#Message#
+"*pant*... *pant*..."
+##
+
+{SE: feed1}
+#Message#
+\."Ghaah!!\. Urk... Got weapons like this, too...?!"
+##
+
+#Message#
+"Ahaha... No dice after all..."
+##
+
+#Message#
+\."Pathetic... after all I did..."
+##
+
+#Message#
+\.".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Maybe I should've believed... in everyone..."
+##
+
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Miss Sara..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."There's actually just
+ one thing wrong in your reasoning..."
+##
+
+#Message#
+\."And I'll... tell you what it... is..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."My final... present..."
+##
+
+{Sara}
+#Message#
+\."*pant*... *pant*... Where did Sou go...?!"
+##
+
+-----Page4-----
+%ignore
+
+-----Page5-----
+%ignore
+

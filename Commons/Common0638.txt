@@ -1,0 +1,144 @@
+**********Common638********** (地獄おわりまで)
+{Voice} [Gin: Worried / cara9-3]
+#Message#
+"Hey... Are you okay, meow...?"
+##
+
+{Gin}
+{SE: Accent28-1}
+#Message#
+"Ah...! Big sis Sara!
+ You're up, woof?"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."You were having a nightmare, meow.
+ You okay, woof...?"
+##
+
+{Sara}
+#Message#
+\."...Ugh..."
+##
+
+{N/A}
+#Message#
+\.\C[3]At some point, I'd fallen asleep
+at a table in the lobby.
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I-I'll bring water, meow!
+ You should drink it, woof!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{N/A}
+{SE: warning2}
+#Message#
+\C[10]Hallucinations worsened by 20.
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Big sis Sara, I brought water, meow!"
+##
+
+{Sara}
+#Message#
+\."...Th-Thank you, Gin..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Drinking the water calmed me down a little.
+##
+
+{Sara}
+#Message#
+\."...Thanks. I guess I was having a scary dream..."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Y-Yeah..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin seeing me like this is making him uneasy...
+ I need to put on a smile...)
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+\."...You don't have to force it, meow."
+##
+
+{Sara}
+#Message#
+\."Gin..."
+##
+
+{N/A}
+#Message#
+\.\C[3]A squishy paw covered my hand.
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."You won't have scary dreams if we're together, woof.
+ Don't worry and relax, meow."
+##
+
+{Sara}
+#Message#
+\."But Gin, what about the attractions...?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."It's all that worrying about other people
+ that's got you so tired, meow!"
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Big sis Sara! Believe in us and rest, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Believe...)
+##
+
+#Message#
+\."You're exactly right, Gin..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Sensing each other's presence through our hands,
+we both rested.
+##
+
+{Sara}
+#Message#
+\C[4](This is the last chance
+ to collect Clear Chips before time's up...!)
+##
+
+#Message#
+\.\C[4](I can't idle about!
+ Let's do those attractions!)
+##
+

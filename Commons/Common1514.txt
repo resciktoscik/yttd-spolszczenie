@@ -1,0 +1,23 @@
+**********Common1514********** (⑦ソウB選択)
+{N/A}
+#Message#
+"Let's see... Maybe try \C[2]persuasion\C[0]?
+ It'd be our lucky day if they stopped attacking."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

@@ -1,0 +1,138 @@
+**********Common1060********** (★死者選択肢　Aの人)
+{Ranger}
+#Message#
+"Did \C[2]Reko Yabusame\C[0] die?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Ranger}
+#Message#
+"Correctamundo! Good for you!"
+##
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[5]Was \C[2]Reko Yabusame\C[5] the victim?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[5]No... That can't be right.
+##
+
+<Condition End>
+
+#Message#
+\C[5]Exactly...
+##
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[5]Was \C[2]Kanna Kizuchi\C[5] the victim?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[5]No... That can't be right.
+##
+
+<Condition End>
+
+#Message#
+\C[5]Good, so you remember it well...
+##
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+Was dear \C[2]Reko\C[5] the victim?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[5]No... That's incorrect...
+##
+
+<Condition End>
+
+#Message#
+\C[5]Precisely...
+##
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+Was dear \C[2]Kanna\C[5] the victim?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[5]No... That's incorrect...
+##
+
+<Condition End>
+
+#Message#
+\C[5]Precisely...
+##
+
+<いいえ>
+
+<Choice End>
+

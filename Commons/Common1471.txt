@@ -1,0 +1,18 @@
+**********Common1471********** (⑤QタロウB選択１)
+{N/A}
+#Message#
+"\N[4] isn't paying attention to me!
+ I'll approach from his blind spot...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,415 @@
+**********Common1757********** (３前進展⑳３人目の犠牲)
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+"Ohh...! Well? Is it the right one?!"
+##
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+{SE: Accent41-1}
+#Message#
+"...Ah..."
+##
+
+[Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."...Seriously?"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Please...! Somebody!!"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Save... Gin... and Sara...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, thin mouth / cara91-41]
+{SE: Accent41-1}
+#Message#
+"...Hah...?"
+##
+
+[Ranmaru: Evil, hands out, furrowed brow, mouth open / cara91-46]
+#Message#
+\."You're kidding... Dammit...!!"
+##
+
+[Ranmaru: Evil, hands out, furrowed brow, angry mouth / cara91-47]
+#Message#
+\."You gotta be shittin' me...!!!!"
+##
+
+[Ranmaru: Hand on face, looking down fearfully / cara91-30]
+#Message#
+\."Me and Sara were gonna..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+"...!!"
+##
+
+#Message#
+\."N... o..."
+##
+
+#Message#
+\."It can't be... this...!!"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: shock1}
+#Message#
+"Too bad! You hit Ranmaru!"
+##
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Sara}
+#Message#
+"...!!"
+##
+
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...?"
+##
+
+#Message#
+\.\C[4](There's no response...)
+##
+
+#Message#
+\.\C[4](What happened...?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Is it... over?)
+##
+
+{Meister}
+{SE: Accent28-1}
+#Message#
+"Now... the result is..."
+##
+
+#Message#
+\."..."
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: shock1}
+#Message#
+\."Too bad! You hit Ranmaru!"
+##
+
+{Sara}
+#Message#
+\."...Eh...?"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{\N[4]} [Midori: Gripping arm with sweat, grin / cara19-24]
+{SE: Accent28-1}
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...Ah..."
+##
+
+#Message#
+\."Ahhh... hh..."
+##
+
+#Message#
+\."Aaaahhhhh...!!!!"
+##
+
+{N/A}
+#Message#
+\C[3]It's all... over.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+#Message#
+\.\C[3]I couldn't protect Ranmaru.
+##
+
+#Message#
+\.\C[3]Or... Gin...
+##
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+#Message#
+\.\C[3]I couldn't... protect Gin...
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\.\C[3]I couldn't... protect Gin...
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\.\C[3]I'm sorry...
+##
+
+#Message#
+\.\C[3]I'm sorry, I'm sorry, I'm sorry...
+##
+
+#Message#
+\.\C[3]I can't save anyone...
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent40-1}
+#Message#
+"You can't give up... Sara."
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"What's up...?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](...A voice...)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](No... It's just an illusion...)
+##
+
+#Message#
+\.\C[4](Besides... even if you tell me not to give up...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](It's clear which coffin Gin is in...)
+##
+
+{Q-taro}
+#Message#
+".........."
+##
+
+[Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+{SE: Accent41-1}
+#Message#
+\."...It ain't like you think, Sara."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+{SE: sceneswitch2}
+#Message#
+"...Urgh..."
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."...Have to... pick..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](\N[4]...?)
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+#Message#
+\."Damn it...! What's going on?!"
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."The \C[12]#\V[992] coffin\C[0] should show \C[10]red\C[0], right...?!"
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+#Message#
+\."Didn't Keiji escape?!"
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."He must've put that in there instead...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Heh..."
+##
+
+[Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+{SE: Accent41-1}
+#Message#
+\."Seems it was effective... Our \C[2]final trick\C[0]."
+##
+
+{Sara}
+#Message#
+\.\C[4](Trick...?)
+##
+
+#Message#
+\."Q-taro...! What did you do?!"
+##
+
+{Q-taro}
+#Message#
+\."Heh heh..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: flash-of-light-3}
+#Message#
+\."When'd you decide that was Keiji's coffin?"
+##
+
+{Sara}
+#Message#
+\."Then..."
+##
+
+{SE: Accent42-1}
+#Message#
+\."Are you saying it's \C[2]Gin's coffin\C[0]...?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."No way... During the \C[2]final coffin check\C[0]..."
+##
+
+[Kanna: Angry shout, horrified face / cara3-26]
+{SE: Accent28-1}
+#Message#
+\."Did you do something with Gin's coffin...?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Don't tell me... During the \C[2]final coffin check\C[0]..."
+##
+
+[Sou: Scared look, grave face / cara5-26]
+{SE: Accent28-1}
+#Message#
+\."Did you do something with Gin's coffin...?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."That's inconceivable...!!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Then go ahead and pick the one you believe in!!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."Aughh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What's going on...?)
+##
+
+#Message#
+\.\C[4](There's so much I don't understand...)
+##
+
+#Message#
+\.\C[4](Even still...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](\N[4] is backed into a corner...!)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+{SE: Accent21-1}
+#Message#
+\."...I'll give ya the explanation later."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent40-1}
+#Message#
+\."This is the final trap
+ me, Mai, and Keiji put together..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."If you let 'im think calmly...
+ \N[4] might notice what's up too!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: sceneswitch2}
+#Message#
+\."You gotta thoroughly corner him...!!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."\C[2]Refute\C[0] his ideas... and break his brain!!"
+##
+

@@ -1,0 +1,28 @@
+**********Common1307********** (呼・３章汎用タッチ⑦)
+{N/A}
+#Message#
+\C[3]There's nothing inside.
+##
+
+{Sara}
+#Message#
+\C[4](What's this? A lantern...?)
+##
+
+#Choice#
+Pick up
+Cancel
+##
+
+<手に取る>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained a Lantern.
+##
+

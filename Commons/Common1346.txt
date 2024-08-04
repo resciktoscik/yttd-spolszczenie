@@ -1,0 +1,155 @@
+**********Common1346********** (26、間違いどす)
+{Sara}
+#Message#
+\C[4](This tank-like toy...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Eh...? What do you mean?"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."Listen to me! The tank up on the shelf...!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...Was there something like that?"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."Why are you hiding it?!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."I-I'm not hiding anything... I'm not really sure.
+ Maybe \N[4] decided to put it up there..."
+##
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\.\C[4](Very suspicious... but nothing else here, I guess.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\C[4](These cardboard boxes on top of the shelves...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think there were just
+ cardboard boxes on top like I remember, meow."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I couldn't reach them,
+ so it's a mystery what was inside, woof!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Nothing suspicious there...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This rolled-up paper...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Yes... I collected all the information
+ I obtained at the prison there."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Also, well... articles about Reko and such..."
+##
+
+{Sara} [Sara: Hands on hips, groan / cara0-22]
+#Message#
+\.\C[4](...)
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."They supported my heart...
+ yet also reminded me painfully of my crime."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."I was thinking only of atoning then..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Damn it... How I despise my gullibility...!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](...)
+##
+
+<やめる>
+
+<Choice End>
+

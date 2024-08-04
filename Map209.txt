@@ -1,0 +1,1263 @@
+=====Map209===== (⑤Police Box)
+
+**********Event1********** (koban) (8,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The inside of the police box is pitch black.
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent28-1}
+#Message#
+"Not even a single desk... It's completely empty."
+##
+
+-----Page2-----
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]The lantern's light is revealing the interior.
+##
+
+{Sara}
+#Message#
+\.\C[4](Wow... You can even see the posters and such.)
+##
+
+{Poster}
+{SE: Accent21-1}
+#Message#
+\.\C[5][Wanted] Shinobu Gokujo
+Hades Incident Refugee
+
+Let us know if you have a \C[2]finger\C[5] on his whereabouts!
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+"Dang...
+ You can even see these posters and stuff now."
+##
+
+{Poster}
+{SE: Accent21-1}
+#Message#
+\C[5][Wanted] Shinobu Gokujo
+Hades Incident Refugee
+
+Let us know if you have a \C[2]finger\C[5] on his whereabouts!
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."Hades Incident...?"
+##
+
+{Gin} [Gin: Looking up, wide eyes / cara9-16]
+{SE: Paralyze1}
+#Message#
+"Oogh..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, mouth open / cara91-15]
+{SE: Accent41-1}
+#Message#
+"Hades Incident...? The hell's that?"
+##
+
+{Gin} [Gin: Looking up, wide eyes / cara9-16]
+{SE: Paralyze1}
+#Message#
+\."Oogh..."
+##
+
+{Sara}
+#Message#
+\."Gin...? What's wrong?!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Hades... Incident..."
+##
+
+[Gin: Horrified, claws raised / cara9-9]
+{SE: sceneswitch2}
+#Message#
+\."That was... a murder spree between yakuza
+ a long time ago, meow..."
+##
+
+{Sara}
+#Message#
+\."Eh...?!"
+##
+
+#Message#
+\."W-Why do you know that, Gin...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."H-Huh...?!
+ Why do you know somethin' like that?!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."I dunno, woof! I just suddenly remembered..."
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\.\C[4](Is it because of the lantern...?)
+##
+
+{Gin}
+#Message#
+\."Someone... told me, meow..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The person who survived in that incident...
+ took control of the underworld, woof..."
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden, sweating / cara91-37]
+#Message#
+\."For real...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Good job remembering
+Education these days, huh?
+##
+
+<よく思い出してくれた>
+
+{Sara} [Ranmaru: Hand on face, looking to side, mouth hidden, sweating / cara91-37]
+{SE: Accent21-1}
+#Message#
+"Gin, good job remembering.
+ Maybe that's one of your lost memories, too..."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Big sis Sara..."
+##
+
+<最近の義務教育はすごいな>
+
+{Sara} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+"The education system's really something these days..."
+##
+
+#Message#
+\.\C[4](Nah, no chance he would've learned that at school...)
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Myow..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."They wouldn't teach that in grade school, right?!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Myow..."
+##
+
+<Choice End>
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+\.\C[4](Still... "wanted," huh?)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](That means Asunaro is looking for this person...)
+##
+
+#Message#
+\.\C[4](If you have a \C[2]finger\C[4] on the criminal, hm?)
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Oh...?"
+##
+
+#Message#
+\.\C[4](The "finger" part is bulging out a little...)
+##
+
+#Choice#
+Inspect
+Cancel
+##
+
+<調べる>
+
+{N/A} [Gin: Horrified look / cara9-4]
+{SE: Switch2}
+#Message#
+\.\C[4]When I touched the text, there was a clicking sound.
+##
+
+<やめる>
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+\.\C[4](Maybe it's my imagination...)
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."This part's kinda bulging out, meow."
+##
+
+{N/A}
+{SE: Switch2}
+#Message#
+\.\C[4]When Gin touched the text, there was a clicking sound.
+##
+
+<Choice End>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Meow?! Something fell out, woof!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a finger.
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."It's a yakuza's pinky, meooooow!! Gross, wooooof!!"
+##
+
+{Sara}
+#Message#
+\C[4](...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Could this be a clue to something...?)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The lantern's light is revealing the interior.
+##
+
+{Poster}
+{SE: Accent21-1}
+#Message#
+\.\C[5][Wanted] Shinobu Gokujo
+Hades Incident Refugee
+
+Let us know if you have a \C[2]finger\C[5] on his whereabouts!
+##
+
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+{SE: Accent21-1}
+#Message#
+\."...!!"
+##
+
+{Kurumada} [Kurumada: Clenched teeth, closed fist / cara95-4]
+#Message#
+\."Feh... It's a police box?"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+#Message#
+\."Kind of makes my heart pound to visit here..."
+##
+
+<Condition End>
+
+
+**********Event3********** (pato) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A parked police car.
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent28-1}
+#Message#
+\."Doubt there's any fuel... The doors open, though."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Huh? There's a license sitting on the seat."
+##
+
+<Else>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Hm? There's a license on the seat..."
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."What...?"
+##
+
+[Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."Keiji...?"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yeah, sure enough...
+ This must be the "place of memories"
+ for your friendly policeman."
+##
+
+{Sara}
+#Message#
+\."Huh?"
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."If we need memories...
+ Guess I gotta tell you now."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+\."You remember the story I told you
+ about why I wanted to be a policeman...?"
+##
+
+#Message#
+\."Oww..."
+##
+
+{Man's Voice}
+{SE: Accent21-1}
+#Message#
+"Yo, kiddo! Hurt yourself again?"
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."Ah... It's that patrolling geezer..."
+##
+
+{Mr. Policeman}
+#Message#
+\."I usually prefer "Mr. Policeman," okay?
+ I'm not a geezer!"
+##
+
+{Keiji}
+#Message#
+\."Leave me alone... I just tripped."
+##
+
+{Mr. Policeman}
+#Message#
+\."Haha, what a fibber.
+ You got in a fight, right? I saw it happen."
+##
+
+{Keiji}
+#Message#
+\."Urgh..."
+##
+
+{Mr. Policeman}
+#Message#
+\."Drop by the police box! We've got tasty coffee."
+##
+
+[Mr. Policeman: Smile / cara22-1]
+{SE: Accent28-1}
+#Message#
+\."Huh... So that's why you started punching?"
+##
+
+{Keiji} [Young Keiji: Mouth open / cara21-1]
+#Message#
+\."I mean, those guys were making fun of me..."
+##
+
+{Mr. Policeman} [Mr. Policeman: Mouth open / cara22-2]
+{SE: Accent21-1}
+#Message#
+\."Fists of justice, eh...
+ I'm fond of it, but that's not really very nice."
+##
+
+{Keiji} [Young Keiji: Sweat, mouth open / cara21-4]
+#Message#
+\."Why not...? I was in the right, wasn't I?"
+##
+
+{Mr. Policeman} [Mr. Policeman: Smile / cara22-1]
+{SE: Accent21-1}
+#Message#
+\."...Exactly. The more right you are, the less reason
+ to stop you from throwing hands, right?"
+##
+
+{Keiji} [Young Keiji: Sweat, mouth open / cara21-4]
+#Message#
+\."But cops use force to stop criminals, right...?!"
+##
+
+{Mr. Policeman} [Mr. Policeman: Surprise / cara22-4]
+#Message#
+\."At times, sure, but..."
+##
+
+[Mr. Policeman: Smile / cara22-1]
+{SE: Accent28-1}
+#Message#
+\."Well now, kiddo...
+ Could it be you wanna be a policeman?"
+##
+
+{Keiji} [Young Keiji: Sweat, mouth open / cara21-4]
+#Message#
+\."...So what if I do?"
+##
+
+{Mr. Policeman} [Mr. Policeman: Closed-eye smile / cara22-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Well, huh! Did you see your friendly policeman
+ and wanna become one too? Gahaha!"
+##
+
+{Keiji} [Young Keiji: Sweat, mouth closed / cara21-3]
+{SE: Accent28-1}
+#Message#
+\."...That a problem?"
+##
+
+{Mr. Policeman} [Mr. Policeman: Surprise / cara22-4]
+#Message#
+\."Huh...?!"
+##
+
+{Keiji} [Young Keiji: Sweat, mouth closed / cara21-3]
+#Message#
+\."..."
+##
+
+{Mr. Policeman} [Mr. Policeman: Smile / cara22-1]
+#Message#
+\."..."
+##
+
+[Mr. Policeman: Closed-eye smile / cara22-3]
+{SE: Accent28-1}
+#Message#
+\."Kiddo... No, Keiji.
+ I've got something nice for ya."
+##
+
+{Keiji} [Young Keiji: Frown / cara21-2]
+#Message#
+\."Huh...?"
+##
+
+{Mr. Policeman} [Mr. Policeman: Smile / cara22-1]
+{SE: Accent21-1}
+#Message#
+\."It's Mr. Policeman's good luck charm."
+##
+
+{Keiji} [Young Keiji: Sweat, mouth open / cara21-4]
+#Message#
+\."That thing you're always carrying?
+ Ain't it important...?"
+##
+
+{Mr. Policeman} [Mr. Policeman: Smile / cara22-1]
+#Message#
+\."Yep, it'd be trouble if I lost it..."
+##
+
+{Keiji} [Young Keiji: Sweat, mouth closed / cara21-3]
+#Message#
+\."Then I don't want it!
+ And like, isn't this thing meant as
+ a wish for safe childbirth...?!"
+##
+
+{Mr. Policeman} [Mr. Policeman: Closed-eye smile / cara22-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Yep! 'Cause Mr. Policeman's gonna be a dad soon."
+##
+
+{Keiji} [Young Keiji: Mouth open / cara21-1]
+#Message#
+\."...Hmph."
+##
+
+{Mr. Policeman} [Mr. Policeman: Smile / cara22-1]
+{SE: Accent28-1}
+#Message#
+\."Okay, let's do this. Keiji, when you become
+ a policeman, come bring this back to me."
+##
+
+{Keiji} [Young Keiji: Sweat, mouth open / cara21-4]
+#Message#
+\."Wha...?"
+##
+
+{Mr. Policeman} [Mr. Policeman: Closed-eye smile / cara22-3]
+#Message#
+\."Well, duty calls! Come visit sometime, Keiji.
+ And don't leave your coffee next time!"
+##
+
+{Keiji} [Young Keiji: Sweat, mouth open / cara21-4]
+#Message#
+\."H-Hey! I can't make any promises!"
+##
+
+{Mr. Policeman} [Mr. Policeman: Closed-eye smile / cara22-3]
+#Message#
+\."I've got my hopes up for you!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"...So, yeah."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."Haha... Never thought the day would come
+ I'd tell that to somebody..."
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+#Choice#
+You opened up on your own for once
+Must've had good memories here
+That sure went on long
+##
+
+<初めて自分から語りましたね>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+"That's the first time you've willingly chosen
+ to tell us about yourself..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Guess it is."
+##
+
+[Keiji: Left arm down, default smile / cara2-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Maybe I wanted you to know about it, Sara..."
+##
+
+<良い思い出の場所なんですね>
+
+{Sara} [Keiji: Left arm down, default smile / cara2-10]
+{SE: Accent21-1}
+#Message#
+"You must have some good memories
+ associated with this place..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Yeah.
+ It's... an important place."
+##
+
+<話が長かったです>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent39-1}
+#Message#
+"That sure went on long."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: shrink1}
+#Message#
+\."Well, shoot...
+ Better figure out what you like for next time."
+##
+
+<Choice End>
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Well, huh... And here I was sure this was a copy of
+ the place I wound up after my violent outburst."
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."Waugh, what an awful memory in comparison..."
+##
+
+<Else>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."That doesn't sound like as nice a story..."
+##
+
+<Condition End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A parked police car.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A parked police car.
+##
+
+
+**********Event5********** (keiziA) (6,12)
+-----Page1-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Not here, huh..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+#Message#
+\.\C[4](Keiji's life is on the line...
+ I absolutely have to find him...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."That serious face makes you look cool and all...
+ But don't get too worked up."
+##
+
+<Else>
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+\."He's not gonna be easy to find, huh..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."Come to think of it, Sara...
+ Have you seen library books anywhere?"
+##
+
+{Sara}
+#Message#
+\."Huh? Is it important?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Was just a little curious.
+ I feel like I've been seeing them around..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm...)
+##
+
+#Choice#
+In the classroom
+In the Discussion Room
+In the office
+I don't know
+##
+
+<学校教室>
+
+{Sara} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: Accent28-1}
+#Message#
+\."In the classroom, I believe..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Way to go... So you remember."
+##
+
+{Sara}
+#Message#
+\.\C[4](Heh heh...)
+##
+
+<相談室>
+
+{Sara} [Keiji: Scratching shoulder, surprised / cara2-8]
+{SE: Accent28-1}
+#Message#
+\."In the Discussion Room, I believe..."
+##
+
+{Keiji}
+#Message#
+\."Discussion Room...?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."You haven't held hands with Hinako yet?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Guess your friendly policeman
+ moves a bit slow, believe it or not."
+##
+
+{Sara}
+#Message#
+\.\C[4](Come on, I'm being serious here...)
+##
+
+<オフィス>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."In the office, I believe..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Way to go... So you remember."
+##
+
+{Sara}
+#Message#
+\.\C[4](Heh heh...)
+##
+
+<わからない>
+
+{Sara} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."I have no idea."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Way to go, Sara...
+ Even when you don't know, you say it so boldly."
+##
+
+{Sara}
+#Message#
+\.\C[4](He'll just praise me no matter what...)
+##
+
+<Cancel>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+
+**********Event6********** (hinakoA) (15,12)
+-----Page1-----
+{Hinako} [Hinako: Default / cara93-1]
+{SE: Accent21-1}
+#Message#
+"Keiji... Even when he's facing away,
+ it feels like he's watching me."
+##
+
+[Hinako: Eyes closed, grin / cara93-6]
+#Message#
+\."Maybe he's got eyes on the back of his head..."
+##
+
+
+**********Event7********** (ginA) (4,12)
+-----Page1-----
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Should've picked up his scent
+ when I had the chance, woof!"
+##
+
+<Else>
+
+#Message#
+"I'll never forgive him, meow!
+ I'll definitely make him apologize, woof...!"
+##
+
+<Condition End>
+
+
+**********Event8********** (hayasakaA) (1,12)
+-----Page1-----
+{Hayasaka} [Hayasaka: Mouth open, glancing to side / cara94-3]
+#Message#
+"It seems pretty open, so I can't imagine
+ there's many places you could hide here..."
+##
+
+
+**********Event18********** (a) (4,8)
+-----Page1-----
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Should've picked up his scent
+ when I had the chance, woof!"
+##
+
+<Else>
+
+#Message#
+"I'll never forgive him, meow!
+ I'll definitely make him apologize, woof...!"
+##
+
+<Condition End>
+
+
+**********Event19********** (a) (1,8)
+-----Page1-----
+{Hayasaka} [Hayasaka: Mouth open, glancing to side / cara94-3]
+#Message#
+"It seems pretty open, so I can't imagine
+ there's many places you could hide here..."
+##
+
+
+**********Event91********** (gin-EV) (6,11)
+-----Page1-----
+{Gin} [Gin: Looking to side / cara9-21]
+#Message#
+"It's dark... but I'm using my dark vision
+ to search super thoroughly, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's really darting around...)
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Sara} [Gin: Looking to side / cara9-21]
+{SE: Accent21-1}
+#Message#
+"Remember, Gin, safety first!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Leave it to me, w... meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Cute.)
+##
+
+{SE: Accent21-1}
+#Message#
+"Gin, are you searching on your own? Careful, now."
+##
+
+{Gin}
+#Message#
+\."I'm okay, meow! I'm searching in cat mode, meow!"
+##
+
+{Sara}
+#Message#
+\."Oh...? Cat mode?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Yeah, meow! If a cat senses danger,
+ they can get away super nimbly, meow!"
+##
+
+{Sara}
+{SE: Accent24-1}
+#Message#
+\.\C[4](I see...!)
+##
+
+{Gin} [Gin: Looking to side / cara9-21]
+#Message#
+\."On the other hand! They're fickle,
+ so they're not suited for searching, meow!"
+##
+
+{Sara}
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\.\C[4](...That's a pretty big drawback.)
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: flash-of-light-3}
+#Message#
+\."Big sis Sara, you should use it too
+ when the time calls for it, woof!"
+##
+
+{Sara}
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\.\C[4](...He just "woof"ed...)
+##
+
+<灯ろうを使う>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\C[4](I shouldn't make him push himself any more...)
+##
+
+#Message#
+"Hey, Gin...
+ Can we talk about your lost memories?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Sounds like a complicated subject, woof..."
+##
+
+{Sara}
+#Message#
+\."There's surely memories of ours that were erased...
+ We have to get them back."
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."How can we remember if they were erased, meow?"
+##
+
+{Sara}
+#Message#
+\."Hrm...?!
+ W-Well, people's memories don't completely vanish..."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Got it, meow!
+ Your reaction was funny, so I'll work with you, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh... He asked that knowingly...)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+\."Big sis Sara! Start from wherever, meow!"
+##
+
+#Message#
+\."Big sis Sara! Of course, meow!"
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"The room changed, meowww!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He seems surprised...)
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent21-1}
+#Message#
+"Remember, Gin, safety first!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Leave it to me, w... meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Cute.)
+##
+
+{SE: Accent21-1}
+#Message#
+"Gin, are you searching on your own? Careful, now."
+##
+
+{Gin}
+#Message#
+\."I'm okay, meow! I'm searching in cat mode, meow!"
+##
+
+{Sara}
+#Message#
+\."Oh...? Cat mode?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Yeah, meow! If a cat senses danger,
+ they can get away super nimbly, meow!"
+##
+
+{Sara}
+{SE: Accent24-1}
+#Message#
+\.\C[4](I see...!)
+##
+
+{Gin} [Gin: Looking to side / cara9-21]
+#Message#
+\."On the other hand! They're fickle,
+ so they're not suited for searching, meow!"
+##
+
+{Sara}
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\.\C[4](...That's a pretty big drawback.)
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: flash-of-light-3}
+#Message#
+\."Big sis Sara, you should use it too
+ when the time calls for it, woof!"
+##
+
+{Sara}
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\.\C[4](...He just "woof"ed...)
+##
+
+<灯ろうを使う>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\C[4](I shouldn't make him push himself any more...)
+##
+
+#Message#
+"Hey, Gin...
+ Can we talk about your lost memories?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Sounds like a complicated subject, woof..."
+##
+
+{Sara}
+#Message#
+\."There's surely memories of ours that were erased...
+ We have to get them back."
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."How can we remember if they were erased, meow?"
+##
+
+{Sara}
+#Message#
+\."Hrm...?!
+ W-Well, people's memories don't completely vanish..."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Got it, meow!
+ Your reaction was funny, so I'll work with you, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh... He asked that knowingly...)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+\."Big sis Sara! Start from wherever, meow!"
+##
+
+#Message#
+\."Big sis Sara! Of course, meow!"
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"Big sis Sara? What is it, meow?"
+##
+
+{Sara}
+#Message#
+\."Have you seen Ranmaru anywhere?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent21-1}
+#Message#
+\."Hasn't been over here, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Where is he...?!)
+##
+

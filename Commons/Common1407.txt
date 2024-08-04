@@ -1,0 +1,18 @@
+**********Common1407********** (②ギンB選択)
+{N/A}
+#Message#
+"U-Umm...! I know, meow!
+ I'll check the floor real close, woof!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

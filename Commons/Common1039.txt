@@ -1,0 +1,31 @@
+**********Common1039********** (戦①かがり火発見)
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"There's a flaming stick on the wall, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](A wall torch...?!)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained a flaming stick.
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hmm... Not sure about using it as a weapon.
+ But maybe you could burn it if you got close
+ and found a good opportunity?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."You're kinda violent, woof..."
+##
+

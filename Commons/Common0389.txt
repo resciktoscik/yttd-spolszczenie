@@ -1,0 +1,239 @@
+**********Common389********** (交渉１ー夜　Qタロウ)
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+"Sara! Wanna trade tokens?
+ How 'bout 20?!"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+"Hate to be doin' what Ranger and company say,
+ but I was thinkin' I'd gather up tokens."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Howzit sound?
+ 20 tokens ain't so many, is it?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent28-1}
+#Message#
+\."Alright! At least hear me out here."
+##
+
+[Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\."Sara, are ya collecting tokens?"
+##
+
+{Sara}
+#Message#
+\."Tokens?"
+##
+
+#Choice#
+I'm collecting them
+I'm not collecting them
+I'm getting certain people's
+##
+
+<集めてる>
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."That speeds things up! 'Cause I am, too."
+##
+
+<集めてない>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Oh yeah...? 'Cause I am."
+##
+
+<特定の人のを集めてる>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Right, didn't they say you could buy
+ personal info if ya rounded up 50 tokens?"
+##
+
+#Message#
+\."But see... I doubt there's many of us
+ who're gonna hand over 'smany as 50..."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Well, anyway. I'm collectin' tokens too."
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Sure, it's kinda like I'm doin'
+ just what Ranger and them are tellin' us to..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."But honestly... I'm curious 'bout that escape ticket."
+##
+
+{Sara}
+#Message#
+\."Escape ticket...?!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Yeah. Wasn't anything like that
+ at the Prize Exchange, though..."
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Ranger jes' said there was one."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."That got me thinkin'...
+ Maybe I'd find out if I collected lots of tokens."
+##
+
+{Sara}
+#Message#
+\."So that's why you're collecting them."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Sure am. If I can get an escape ticket
+ and get brought to the exit, then..."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+{SE: flash-of-light-3}
+#Message#
+\."Maybe I can start up an uprising
+ and get every one of us outta here!"
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."...'Course, I doubt it'll be as easy as all that."
+##
+
+{Sara}
+#Message#
+\.\C[4](...I see.)
+##
+
+#Message#
+\.\C[4](Q-taro just went and told me
+ instead of trying to keep it secret.)
+##
+
+#Message#
+\.\C[4](But my worry is, if he does get an escape ticket...
+ whether he'll actually consider the rest of us.)
+##
+
+#Message#
+\.\C[4](Q-taro seems to believe in fair play.
+ But that in itself seems like reason to question
+ how he'll use a right he earned fairly...)
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Whazza matter, Sara?"
+##
+
+{Sara}
+#Message#
+\."N-Nothing..."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."So how's it sound?
+ Just 20 tokens. Wanna trade?"
+##
+
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Trade 20 tokens
+Refuse trade
+##
+
+<20枚交換する>
+
+{Sara} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent28-1}
+#Message#
+"Let's trade, Q-taro."
+##
+
+{Q-taro}
+#Message#
+\."Right!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Traded 20 Me-Tokens with Q-taro.
+##
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\."Let's trade again if you feel like it, Sara!"
+##
+
+<取引を断る>
+
+{Sara} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+"Sorry, I'm afraid I can't trade."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."...Hmgh... Stingy, eh."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."...Ah, what're ya gonna do!
+ I'm here anytime if you change yer mind."
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\C[4](Well... That's it for negotiations.)
+##
+

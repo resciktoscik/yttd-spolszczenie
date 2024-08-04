@@ -1,0 +1,341 @@
+**********Common589********** (交渉３－朝　Qタロウ)
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Sara. Wanna... trade tokens...?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+"How many... you want?"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."I'll... I'll give ya 40.
+ Just give me 10."
+##
+
+#Message#
+\."I'll... I'll give ya 40.
+ Just give me 20."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."...Not a bad deal for ya, I'm sure."
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh...?
+ Q-taro's acting strange...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent28-1}
+#Message#
+"A... Alright. Let's talk, Sara."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Umm... Sara.
+ You got any tokens...?"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."How about... 10 tokens!
+ You got at least 10, right...?"
+##
+
+{Sara}
+#Message#
+\."Sorry... I don't..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...If ya don't, then oh well."
+##
+
+#Message#
+\."See ya... Sara."
+##
+
+{Sara}
+#Message#
+\C[4](...He's gone...)
+##
+
+#Message#
+\.\C[4](Even his walking seems kind of unsteady.)
+##
+
+#Message#
+\.\C[4](I wonder what's up with Q-taro...?)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."How about... 20 tokens!
+ You got at least 20, right...?"
+##
+
+{Sara}
+#Message#
+\."Sorry... I don't..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...If ya don't, then oh well."
+##
+
+#Message#
+\."See ya... Sara."
+##
+
+{Sara}
+#Message#
+\C[4](...He's gone...)
+##
+
+#Message#
+\.\C[4](Even his walking seems kind of unsteady.)
+##
+
+#Message#
+\.\C[4](I wonder what's up with Q-taro...?)
+##
+
+#Message#
+\."Y... Yes...?"
+##
+
+{Q-taro}
+#Message#
+\."...!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Just 10 tokens is fine! Trade 'em to me."
+##
+
+#Message#
+\."Just 20 tokens is fine! Trade 'em to me."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent28-1}
+#Message#
+\."I'll... I'll give ya 40...
+ Not a bad deal, right...?"
+##
+
+{Sara}
+#Message#
+\."Q-taro..."
+##
+
+#Choice#
+That is a good deal
+What's the matter?
+##
+
+<それは良い話ですね>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."True... That's quite beneficial for me."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Sure is. Definitely good terms for ya."
+##
+
+{Sara}
+#Message#
+\.\C[4](What's his intention...?)
+##
+
+{Q-taro}
+#Message#
+\."So no complaints, right, Sara?!"
+##
+
+<どうかしたんですか？>
+
+{Sara} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Q-taro... What's the matter?
+ You're acting really strange."
+##
+
+{Q-taro}
+#Message#
+\."Strange? 'Course not.
+ ...I'm just a li'l tired, 'sall."
+##
+
+{Sara}
+#Message#
+\."I mean... Why are you suddenly making
+ such an uneven trade?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...My own tokens've got no value.
+ Better that you have 'em."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."You'll trade, won'tcha, Sara?"
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Hold on a second...!
+ This is definitely just weird!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Yer imaginin' things... It's just a regular trade."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."I wouldn't give ya a raw deal... Trust me."
+##
+
+{Sara}
+#Message#
+\."But..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Please, Sara...
+ I'll give 40 tokens, you just give me 10.
+ Will ya trade?"
+##
+
+#Message#
+\."Please, Sara...
+ I'll give 40 tokens, you just give me 20.
+ Will ya trade?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Q-taro's not acting normal...)
+##
+
+#Message#
+\.\C[4](But... this is a good trade for me...)
+##
+
+#Message#
+\.\C[4](I'm getting a bad feeling...
+ But should I do this trade anyway?)
+##
+
+#Choice#
+Offer tokens
+Refuse trade
+##
+
+<メダルを差し出す>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Understood. Let's trade, Q-taro."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."...Right."
+##
+
+{N/A}
+#Message#
+\.\C[3]Received 40 Me-Tokens from Q-taro.
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...Well, I've got places to go..."
+##
+
+{Sara}
+#Message#
+\C[4](Well... That's it for discussions.)
+##
+
+<取引を断る>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Sorry, I'm afraid I can't trade."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Sara...!"
+##
+
+{Sara}
+#Message#
+\."...I think you should calm down a little, Q-taro."
+##
+
+{Q-taro}
+#Message#
+\.".........."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...R-Right...
+ Sorry, Sara..."
+##
+
+{Sara}
+#Message#
+\C[4](Well... That's it for discussions.)
+##
+
+<Choice End>
+

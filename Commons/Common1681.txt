@@ -1,0 +1,497 @@
+**********Common1681********** (３前進展⑦マイ不審)
+{Sara} [Hinako: Default / cara93-1]
+{SE: Accent28-1}
+#Message#
+"Hinako... I'm not so sure about that."
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."About what...?"
+##
+
+{Sara}
+#Message#
+\."If \N[4] can freely use
+ all the machines in the facility..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why would he need to make an ID card?"
+##
+
+{Hinako} [Hinako: Eyes closed / cara93-4]
+#Message#
+\."W-Well..."
+##
+
+[Hinako: Eyes closed, mouth open / cara93-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I mean... maybe he didn't necessarily need it?"
+##
+
+[Hinako: Small grin / cara93-3]
+#Message#
+\."He probably went and prepared one
+ so that we could beat his challenges... right?"
+##
+
+[Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent40-1}
+#Message#
+\."No doubt he could use a face scanner or something
+ instead of needing that thing."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."We never saw no devices like that!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: Accent21-1}
+#Message#
+\."All we saw was the \C[2]ID card scanner\C[0]
+ and the \C[2]fingerprint scanner\C[0]..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+\."The only things we saw were an \C[2]ID card scanner\C[0]
+ and a \C[2]fingerprint scanner\C[0]..."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."That's right.
+ Even if \N[4]'s with the organization..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent28-1}
+#Message#
+\."There were machines he couldn't mess with
+ without a \C[2]registered\C[0] card."
+##
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+#Message#
+\."A-A registered card...?"
+##
+
+[Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: Accent41-1}
+#Message#
+\."Then why were \C[2]Mai's fingerprints\C[0] registered?"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+#Message#
+\.".........."
+##
+
+[Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+{SE: Accent21-1}
+#Message#
+\."Eh...?"
+##
+
+[Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."Wait a second...! Are you suspecting me over that?!"
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\.".........."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: Accent21-1}
+#Message#
+\."Uh...?"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Hold on a sec!! You suspectin' Mai?!"
+##
+
+<Condition End>
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That's wrong! Mai ain't with the organization!!"
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: Accent21-1}
+#Message#
+\."Stop letting your emotions do the talking,
+ you wrestling old-timer..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Don't call muscle gorilla names, meow!!"
+##
+
+{Sara}
+#Message#
+\."E-Everybody calm down!
+ We can't be looking for villains...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."Whaddya expect?! If they're suspicious,
+ they've got a high chance of being the human!"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+[Kurumada: Damaged, angry, clenched teeth / cara95-22]
+{SE: Accent21-1}
+#Message#
+\."I wish I didn't have to be
+ castin' doubt on my allies, either...!"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."Kurumada..."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+{SE: Accent21-1}
+#Message#
+\."I wish I didn't have to be
+ castin' suspicion on a dead ally, either...!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."What do you expect! The most suspicious person
+ is really likely to be the human too, right?!"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+[Anzu: Hood over half of face, worried / cara96-12]
+{SE: Accent21-1}
+#Message#
+\."It's not like I actually wanna suspect an ally...!"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."Anzu..."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+{SE: Accent21-1}
+#Message#
+\."It's not like I actually want
+ to suspect a dead ally, either...!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+#Message#
+\."It's inevitable! Anyone suspicious is also
+ highly likely to be the human...!"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+[Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+{SE: Accent21-1}
+#Message#
+\."It hurts us to suspect an ally, too...!"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."Hayasaka..."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+{SE: Accent21-1}
+#Message#
+\."We don't actually want to suspect
+ a fallen ally, either...!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."This is just how it goes! The most suspicious person
+ is also likely to be the human!"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+[Hinako: Grave look, eyes closed / cara93-13]
+{SE: Accent21-1}
+#Message#
+\."Do you think we're just happily
+ casting doubt on an ally...?!"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."Hinako..."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Hinako} [Hinako: Grave look, eyes closed / cara93-13]
+{SE: Accent21-1}
+#Message#
+\."Do you think we're just happily
+ casting doubt on a dead ally...?!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+#Message#
+\."..."
+##
+
+[Mai: Looking down at hand, eyes closed / cara92-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."All right, fine..."
+##
+
+[Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+\."Then I want you to prove it yourselves..."
+##
+
+[Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+#Message#
+\."That I'm your ally...!!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Awright..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Then let's prove it ourselves..."
+##
+
+#Message#
+\."That Mai's our ally...!!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is OFF>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is OFF>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+#Message#
+
+　　　　　　　　 \C[3]Mai's Fingerprint Scan
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+"I always thought it was strange how Mai was
+ the only one to pass the fingerprint scan..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+{SE: Accent21-1}
+#Message#
+"I did think it was weird that Mai was
+ the only one who passed the fingerprint scan..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+"Even I don't know why my fingerprints
+ were registered! I swear it's true...!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Mai looked like she didn't understand
+ why her fingerprints were registered, neither!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+"And also, Mai's final moments were
+ clearly recorded in her victim video..."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+"And also, baker lady... Her victim video
+ clearly showed her dying, meow..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: horror_piano chord3}
+#Message#
+"...It's all fake. Her attitude's an act, too.
+ Maybe her role was to move the Death Game forward..."
+##
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: flash-of-light-3}
+#Message#
+"It is kinda scary how she puts on an act...
+ But Mai couldn't be a full-on villain...!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, thin mouth / cara91-41]
+{SE: Accent42-1}
+#Message#
+"She can be scary with how she puts on an act...
+ But Mai couldn't become a villain like me."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+"Mai had the belief she was a doll,
+ which is why she stabbed Q-taro!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+"The fingerprint thing's a whim of \N[4]'s!
+ No point thinking about it...!"
+##
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+

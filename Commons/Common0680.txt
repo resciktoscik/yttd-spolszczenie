@@ -1,0 +1,327 @@
+**********Common680********** (⑥激おこ進展Qタロウ)
+{Sara} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"...Q-taro, is something the matter?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."There bein' a trade just before the Main Game...
+ Izzat true?!"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+#Choice#
+It's true
+I don't know
+##
+
+<本当です>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+"Yes... It's true."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...!!"
+##
+
+<知りません>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+"W-Well, I wonder..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Don't hide it! That's what he said, right?!"
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Which means... yeah... Just maybe...!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: sceneswitch2}
+#Message#
+\."I figured out who's got the \C[10]Sacrifice\C[0]...!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."MeoooOOOooow?!"
+##
+
+{Sara}
+#Message#
+\."What?! How could you possibly know that
+ from what we just...!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Q-taro..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."I know! Everybody, listen up!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."I'm the \C[2]Keymaster\C[0]...!!"
+##
+
+{Nao}
+#Message#
+\."...Eh...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Yeah, I'm darin' to say it before voting...!!"
+##
+
+{Sara}
+#Message#
+\."What's this all of a sudden?!
+ I can't tell where you're going with this!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: sceneswitch2}
+#Message#
+\."You would say that, huh, Sara..."
+##
+
+{Sara}
+#Message#
+\."Huh?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I'm sorry fer takin' the \C[2]Keymaster\C[0] from ya."
+##
+
+{Sara}
+#Message#
+\.\C[4](Does he mean...?!)
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: shock1}
+#Message#
+\."The \C[10]Sacrifice\C[0] card ya got sent... was mine, Sara!!"
+##
+
+{Sara}
+{SE: horror_piano chord3}
+#Message#
+\.\C[4](It's Q-taro who sent me the \C[10]Sacrifice\C[4]?!)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."And you've still got the \C[10]Sacrifice\C[0] now!!
+ Ain't that right?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What's he talking about?!
+ I have a \C[5]Commoner\C[4] card now!)
+##
+
+#Message#
+\.\C[4](Q-taro's making a false accusation here!!)
+##
+
+#Message#
+\.\C[4](Stay calm... What do I do...?!)
+##
+
+#Choice#
+Make use of this
+Explain myself
+##
+
+<逆に利用する>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+"You really think I'm the \C[10]Sacrifice\C[0]...?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Yeah!!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then... Just leave me out of the vote!"
+##
+
+{Q-taro}
+#Message#
+\."Don't be misled, guys!!
+ The \C[10]Sacrifice\C[0] gets two votes!!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."If she puts those two votes toward herself,
+ she's gettin' selected...!!"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."In other words... if I'm not selected,
+ that will be proof."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent28-1}
+#Message#
+\."Either way, nobody vote for miss Sara...
+ and we'll have proof."
+##
+
+<弁明する>
+
+{Sara} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"I absolutely don't have the \C[10]Sacrifice\C[0]!!"
+##
+
+#Message#
+\."So relax, everyone, you can vote for m...\! ...Huh?"
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Now that I think about it... Being thought of
+ as the \C[10]Sacrifice\C[4] is better for not getting votes...)
+##
+
+#Message#
+\.\C[4](I'm actually not sure anymore
+ if there's any good reason to deny it...)
+##
+
+{Sou}
+{SE: Accent28-1}
+#Message#
+\."Well, just nobody vote for miss Sara...
+ That'll be fine, right?"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."If nobody votes yet she becomes a candidate,
+ that proves she's the \C[10]Sacrifice\C[0] with a double-vote."
+##
+
+<Choice End>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."I... would like that, but...!"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's about time we proceed with the vote..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Please, wait!! Can we decide on such an important vote
+ with so much still unclear?!"
+##
+
+{Kanna} [Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."Oogh... We just can't sort it out
+ in such a short time...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: shock1}
+#Message#
+\."Graaah!! What should we do?! The victim's gonna be
+ one of the ones we nominate, remember?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: shock1}
+#Message#
+\."What do we dooo?! One of these candidates
+ is going to end up the victim, remember?!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."We really should discuss some more...!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."You sure don't know when to give up!!"
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+{SE: horror_piano chord3}
+#Message#
+\."Time is up. Please select the four
+ who will remain for the final vote."
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\."Enter your votes, please."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[5]Please choose who to vote for.
+##
+

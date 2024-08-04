@@ -1,0 +1,603 @@
+=====Map116===== (★Fake Prize Exchange)
+
+**********Event2********** (muu) (3,5)
+-----Page2-----
+{Reception Doll} [Gashu: Default / cara16-1]
+#Message#
+"This is the Prize Exchange.
+ Please inform me if you have business."
+##
+
+{Sara}
+#Message#
+\."...Um."
+##
+
+#Message#
+\."Can you trade for Reko Yabusame's \C[2]treasure\C[0] here?"
+##
+
+{Reception Doll} [Gashu: Mouth open / cara16-2]
+{SE: Accent21-1}
+#Message#
+\."You can.
+ It may be purchased for 20 of Ms. Reko's tokens."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...H-Here's 20 tokens.
+ T-Trade it to me...!"
+##
+
+{Reception Doll} [Gashu: Default / cara16-1]
+#Message#
+\."Certainly."
+##
+
+#Message#
+"This is Ms. Reko's \C[2]treasure\C[0].
+ You may now take it."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Those are...!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent28-1}
+#Message#
+\."The bongos I gave Reko...!!"
+##
+
+{Sara}
+#Message#
+\."I knew it..."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Impossible... you say her... Reko's treasure...
+ is this worthless present I gave her...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."I thought there was some mistake...
+\! Some mistake of yours, Sara Chidouin..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Good for you
+You seem happy
+Gimme those
+##
+
+<良かったですね>
+
+{Sara} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."Good thing it wasn't my mistake, huh, Alice?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."...What should I do...?"
+##
+
+{Sara}
+#Message#
+\."I've been telling you from the start.
+ Give Reko her treasure back."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."I want to hear your real feelings already, Alice."
+##
+
+<嬉しそうですね>
+
+{Sara} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."You seem happy, Alice."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."...!"
+##
+
+{Sara}
+#Message#
+\."Sorry for poking fun...
+ But I bet you were hoping for this."
+##
+
+<ください>
+
+{Sara} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."These are good bongos. Gimme those."
+##
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."Don't joke with me!!
+ Reko and I... These bongos are...!!"
+##
+
+{Sara}
+#Message#
+\."A sign of your bond...?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."Alice, please tell me how you really feel."
+##
+
+<Choice End>
+
+{Sara} [Alice: Glance to side, sweating / cara11-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You want to repair your relationship
+ with Reko... don't you?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."...I am..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."...not a person who asks selfish things."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."I intended to atone for my crime...!
+ For the victim's family!! And for my own...!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."If only it weren't for this Death Game...!!"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."There's... not enough time left
+ to do this in the proper order..."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."So just once before I die, I..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I want to apologize to Reko..."
+##
+
+#Message#
+\."..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Sara Chidouin."
+##
+
+[Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Thank you.
+ I will give her the bongos."
+##
+
+{Sara}
+#Message#
+\."...Right."
+##
+
+#Message#
+\.\C[4](I wonder if that's enough...)
+##
+
+#Message#
+\.\C[4](As the one who brought it up,
+ I feel some responsibility to watch over this.)
+##
+
+#Message#
+\.\C[4](Should I go after Alice...?)
+##
+
+
+**********Event3********** (sara) (6,2)
+-----Page1-----
+#Message#
+\C[3]A photo of me.
+##
+
+{Sara}
+#Message#
+\C[4](Creepy... What's all this about?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Sara's Personal Info
+
+Tokens Required ... 50 Sara Tokens
+##
+
+{Sara}
+#Message#
+\.\C[4](Not being able to use your own tokens...
+ means you can't buy your own personal info.)
+##
+
+
+**********Event4********** (keizi) (8,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Keiji.
+##
+
+{Sara}
+#Message#
+\C[4](Those are some serious bags under his eyes...
+ He's completely worn out.)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Keiji's Personal Info
+
+Tokens Required ... 50 Keiji Tokens
+##
+
+
+**********Event5********** (kannna) (10,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Kanna.
+##
+
+{Sara}
+#Message#
+\C[4](..........)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Kanna's Personal Info
+
+Tokens Required ... 50 Kanna Tokens
+##
+
+
+**********Event6********** (Qtarou) (12,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Q-taro.
+##
+
+{Sara}
+#Message#
+\C[4](As a pro baseball player... He's got a good photo.)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Q-taro's Personal Info
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Q-taro's Personal Info
+
+Tokens Required ... 50 Q-taro Tokens
+##
+
+
+**********Event7********** (sou) (14,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Sou.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Huh...? Come to think of it, where is Sou...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Sou's Personal Info
+
+Tokens Required ... 50 Sou Tokens
+##
+
+
+**********Event8********** (reko) (7,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Reko.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](So cool... As expected.)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Reko's Personal Info
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Reko's Personal Info
+
+Tokens Required ... 50 Reko Tokens
+##
+
+
+**********Event9********** (nao) (9,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Nao.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](She has a good countenance...
+ I wonder when this photo was taken.)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Nao's Personal Info
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Nao's Personal Info
+
+Tokens Required ... 50 Nao Tokens
+##
+
+
+**********Event10********** (gin) (11,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Gin.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Looking at him like this...
+ Everything but his eyes is covered up.)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Gin's Personal Info
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Gin's Personal Info
+
+Tokens Required ... 50 Gin Tokens
+##
+
+
+**********Event11********** (arice) (13,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Alice.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Such a gaudy hairstyle...)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Alice's Personal Info
+
+Tokens Required ... 50 Alice Tokens
+##
+
+
+**********Event12********** (midori) (2,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of star-shaped badge.
+##
+
+{Sara}
+#Message#
+\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Clear Chip
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Clear Chip
+
+Tokens Required ... 30 Tokens
+##
+
+
+**********Event13********** (pinnku) (4,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of star-shaped badge.
+##
+
+{Sara}
+#Message#
+\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Clear Chip
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Clear Chip
+
+Tokens Required ... 30 Tokens
+##
+
+
+**********Event14********** (video1) (7,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of mechanical thing.
+##
+
+{Sara}
+#Message#
+\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Victim Video 1
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Victim Video 1
+
+Tokens Required ... 20 Tokens
+##
+
+
+**********Event71********** (video2) (9,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of mechanical thing.
+##
+
+{Sara}
+#Message#
+\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Victim Video 2
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Victim Video 2
+
+Tokens Required ... 20 Tokens
+##
+
+
+**********Event75********** (video3) (11,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of mechanical thing.
+##
+
+{Sara}
+#Message#
+\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Victim Video 3
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Victim Video 3
+
+Tokens Required ... 20 Tokens
+##
+
+
+**********Event79********** (tiketo) (14,7)
+-----Page1-----
+#Message#
+\C[3]A ticket of some kind.
+##
+
+{Sara}
+#Message#
+\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Easy Ticket
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Easy Ticket
+
+Tokens Required ... 10 Tokens
+##
+
+#Message#
+\.\C[3]Limited quantity! 1 left!
+Having it lowers the difficulty of attractions.
+##
+

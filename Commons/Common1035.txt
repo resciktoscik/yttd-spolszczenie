@@ -1,0 +1,40 @@
+**********Common1035********** (★ﾊﾞﾄﾙ①流れ)
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Ah...! Its body changed color?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Might be our chance..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]The monster headed toward the coffin
+and raised its arms.
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Hold on! What're you...?!"
+##
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+"W... Wait!! Let me ouuut!!"
+##
+

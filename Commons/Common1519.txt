@@ -1,0 +1,23 @@
+**********Common1519********** (⑦ランマルB選択)
+{N/A}
+#Message#
+"They're the same as us!
+ Maybe we can come to an \C[2]understanding\C[0]!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

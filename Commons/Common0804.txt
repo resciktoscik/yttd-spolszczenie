@@ -1,0 +1,77 @@
+**********Common804********** (ｶﾝﾅ「ｸｷﾞｴは本名」)
+{Kanna}
+#Message#
+"Kugie... is the name of Kanna's sister...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Um... what is this... exactly...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"I definitely didn't get my sister's name wrong!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent28-1}
+#Message#
+"...It's a real name, of course.
+ I would never forget my precious sister's name..."
+##
+

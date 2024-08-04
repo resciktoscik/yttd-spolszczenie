@@ -1,0 +1,15 @@
+=====Map55===== (Joe Game)
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Miley}
+#Message#
+"Now, keep mashing that button.
+ Maybe you'll save him? Heeheehee..."
+##
+
+-----Page3-----
+#Message#
+\C[10]Joe expired.
+##
+

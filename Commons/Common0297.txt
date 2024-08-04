@@ -1,0 +1,40 @@
+**********Common297********** (VSでしくじり)
+{Sara}
+#Message#
+"All mysteries... can be explained
+ with these two statements!!"
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+{SE: Accent28-1}
+#Message#
+\."Can they really...?"
+##
+
+{Sara}
+#Message#
+\."P-Please don't get in my way now, Sou!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And did you think you could prove anything
+ with such a half-hearted attempt?"
+##
+
+{Sara}
+#Message#
+\."Urk...!!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Everyone, Sara's hit her limit. Leave this to me."
+##
+
+{Sara}
+#Message#
+\.\C[4](Agh...!! Was I mistaken...?!)
+##
+

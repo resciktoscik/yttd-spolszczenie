@@ -1,0 +1,51 @@
+**********Common445********** (発電ダメージ)
+{Keiji}
+#Message#
+"Can't take any more...!"
+##
+
+{Sara}
+#Message#
+\."Keiji! Please hide!"
+##
+
+{Kanna}
+#Message#
+"No... more...!"
+##
+
+{Sara}
+#Message#
+\."Hide, Kanna!"
+##
+
+{Alice}
+#Message#
+"H... HEAAAAAAAAAALP!!"
+##
+
+{Sara}
+#Message#
+\."Please hide, Alice!"
+##
+
+#Message#
+"Agh...!! Is this it for me...?!"
+##
+
+{Keiji}
+#Message#
+\."Don't overdo it. Stand down, Sara."
+##
+
+{Kanna}
+#Message#
+\."Kanna will go!"
+##
+
+{Alice}
+#Message#
+\."My ability to eat snacks away from warden eyes...
+ I shall prove it to you now..."
+##
+

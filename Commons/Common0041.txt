@@ -1,0 +1,100 @@
+**********Common41********** (ｹｲｼﾞ・自己紹介)
+{Blond Man}
+#Message#
+"Huh? Did I not introduce myself?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+"I'm \C[2]Keiji Shinogi\C[0].
+ I work as a policeman."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."You and Joe are friends, right?
+ If only I knew somebody here myself..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+"My name's \C[2]Keiji Shinogi\C[0].
+ Workin' as a policeman."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Huh?! Police?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."You got it. So don't trouble your friendly policeman.
+ ...Well, not that I'm really that sort of cop."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."T... Then you should have mentioned that sooner!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I got abducted in the middle of an investigation.
+ It was tough to find a chance to spill it."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Shouldn't have been wary... Dammit..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"...Wonder if we got caught by that criminal group."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Criminal group?
+You were investigating alone?
+##
+
+<犯人グループとは？>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"A group of petty thieves.
+ I doubt they're related to this, honestly."
+##
+
+<ひとりで捜査を？>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"I was riding with my partn... well, a coworker.
+ But I ended up alone for just a second,
+ got conked out, and here we are."
+##
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\."And none of your coworkers are here?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Sure aren't."
+##
+
+{Sara}
+#Message#
+\.\C[4](So it's not like everyone came in pairs...)
+##
+

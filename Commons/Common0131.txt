@@ -1,0 +1,211 @@
+**********Common131********** (進展●「ナオを追求」)
+{Nao}
+{SE: Accent28-1}
+#Message#
+"W... What is this...?"
+##
+
+{Sara}
+#Message#
+\."The knife case from earlier.
+ In fact, you found it originally, Nao."
+##
+
+#Message#
+\."The numbers written on it were essential
+ for the puzzle of the second floor rooms."
+##
+
+#Message#
+\."Unquestionably, Nao, you contributed this much."
+##
+
+{Sou}
+#Message#
+\."Hold on a sec."
+##
+
+#Message#
+\."I was wondering about this...
+ It was Nao who found that, right?"
+##
+
+{Sara}
+#Message#
+\."Yes."
+##
+
+{Sou}
+#Message#
+\."Then I wonder... Does Nao have the knife?"
+##
+
+{Nao}
+#Message#
+\."Huh...?"
+##
+
+#Message#
+\."I... don't have it!"
+##
+
+{Joe}
+#Message#
+\."You suspecting her...?"
+##
+
+{Sou}
+#Message#
+\."Nao's about the only one
+ who could be concealing it right now."
+##
+
+#Message#
+\."I think we'd better have a proper discussion
+ on whether Nao can be trusted."
+##
+
+#Message#
+\."Right, miss Sara?"
+##
+
+#Choice#
+Exactly
+No need to discuss
+##
+
+<その通りだ>
+
+{Sara}
+#Message#
+\."I... want to discuss it. So that I can trust Nao."
+##
+
+{Nao}
+#Message#
+\."S... Sara..."
+##
+
+#Message#
+\."...I understand."
+##
+
+<話し合う必要はない>
+
+{Sou}
+#Message#
+\.".........."
+##
+
+{Nao}
+#Message#
+\."Sara...
+ Thank you very much..."
+##
+
+#Message#
+\."But... I'm okay.
+ Please, do what will satisfy you..."
+##
+
+<Choice End>
+
+{Sou}
+#Message#
+\."Sorry, miss Nao.
+ Well, let's talk this out."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."I... certainly lost sight of myself...
+ But I've done nothing suspicious."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Nao respected Professor Mishima!
+ She was hit hard, but she's been normal
+ ever since she regained her footing."
+##
+
+{Kai} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I inspected the kitchen myself,
+ and found no signs of any trickery."
+##
+
+{Sou}
+#Message#
+\."About the box"
+##
+
+#Message#
+\.""
+##
+
+#Message#
+\."Ahaha... Seems you don't wanna suspect anyone."
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."T-That is true..."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Indeed, I was wondering about that myself."
+##
+
+#Message#
+\."Why the policeman, who would be most suitable,
+ is not recommending himself."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Guess you would think so, huh..."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."If I'm gonna put my life on the line,
+ I want the most dependable person I can get."
+##
+
+#Message#
+\."If it ain't me, then it's Keiji...
+ You're the only one."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Keiji... What's the matter...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."We won't know if you keep quiet!"
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."If you refuse, I wish to know the reason.
+ At this rate, it will prove an issue..."
+##
+
+#Message#
+\."...We cannot end our discussion in this state."
+##
+

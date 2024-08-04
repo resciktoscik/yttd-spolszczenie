@@ -1,0 +1,1511 @@
+=====Map133===== (❹Medical Office)
+
+**********Event2********** (EV002) (1,0)
+-----Page3-----
+{Sara}
+#Message#
+\C[4](That's right... There was a trade, huh.)
+##
+
+{N/A}
+#Message#
+\.\C[3]I checked my tablet behind my back
+so that Gin and Nao wouldn't notice.
+##
+
+{Sara} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\C[4](Still the \C[10]Sacrifice\C[4]...)
+##
+
+#Message#
+\.\C[4](I guess... that figures...)
+##
+
+{Gin}
+{SE: Accent21-1}
+#Message#
+"Should we look for that secret room soon, meow?"
+##
+
+{Sara}
+#Message#
+\."R-Right! We need to find that..."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Um..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent28-1}
+#Message#
+\."I might have an idea about it."
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+#Choice#
+Do you really?
+Take us there
+##
+
+<本当ですか？>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Do you really...? Why you, Nao?"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Err... A certain someone told me about it..."
+##
+
+{Sara}
+#Message#
+\."A certain someone?"
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."I can't tell you who..."
+##
+
+[Nao: Closed-eyes smile / cara7-12]
+{SE: Accent21-1}
+#Message#
+\."But please believe me, Sara."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Okay? Let's go."
+##
+
+{Sara}
+#Message#
+\."Y-Yeah..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\.".........."
+##
+
+<連れていって下さい>
+
+{Sara} [Gin: Worried / cara9-3]
+{SE: Accent28-1}
+#Message#
+\."That's amazing, Nao!
+ Please, take us there!"
+##
+
+{Nao} [Nao: Closed-eyes smile / cara7-12]
+#Message#
+\."Y-Yes, of course."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."What is it, Gin?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Umm... Nothing."
+##
+
+<Choice End>
+
+{Nao} [Nao: Raised finger / cara7-4]
+#Message#
+\."First, to the lobby...!"
+##
+
+
+**********Event3********** (madobe) (6,6)
+-----Page1-----
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Myah! I smell a weird smell, woof!"
+##
+
+{Sara}
+#Message#
+\."What sort of smell?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."I dunno... Give me some time, meow."
+##
+
+-----Page2-----
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Myah! I smell a weird smell, woof!"
+##
+
+{Sara}
+#Message#
+\."What sort of smell?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Hmmeowww..."
+##
+
+[Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Ah..."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent28-1}
+#Message#
+\."It's like blood... mixed with something burnt, woof."
+##
+
+{Sara}
+#Message#
+\."Wh... What?!"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."A-Are you two okay...?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."I think it's coming from that glass door..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Behind this door...?)
+##
+
+#Message#
+\.\C[4](There should be... that doll of him...)
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"I'll open it up, woof!"
+##
+
+{Sara}
+#Message#
+\."Ah... Gin...!"
+##
+
+{N/A}
+#Message#
+\C[3]There was nothing inside.
+##
+
+{Sara}
+#Message#
+\.\C[4](I see...)
+##
+
+#Choice#
+Ahh, good
+Something's odd
+##
+
+<ああよかった>
+
+{Sara} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Good.
+ I didn't want to see him now.)
+##
+
+<何かおかしい>
+
+{Sara} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+\.\C[4](...Hey, hold on.
+ Then where did that doll disappear to?)
+##
+
+<Choice End>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent28-1}
+#Message#
+"Ah...!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Big sis Sara!
+ There's a path in the back, woof!"
+##
+
+{Sara}
+#Message#
+\."Say what...?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."M-Maybe Safalin is through here..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Should we go in, meow?"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."If you're going, I'll come too...!"
+##
+
+-----Page4-----
+#Message#
+\C[3]There's a pitch black path further in.
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Proceed ahead
+Cancel
+##
+
+<先へ進む>
+
+<やめる>
+
+<Choice End>
+
+-----Page5-----
+#Message#
+\C[3]There's a pitch black path further in.
+##
+
+#Choice#
+Proceed to Doll Storage
+Cancel
+##
+
+<人形置き場へ進む>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event4********** (sokan) (3,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Sou and Kanna are whispering in the corner.
+##
+
+{Sara}
+#Message#
+\.\C[4](Not the kind of thing I can barge into...)
+##
+
+
+**********Event5********** (ginkei) (14,7)
+-----Page1-----
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Big sis Sara!!"
+##
+
+{Sara}
+#Message#
+\."Gin! You're up and moving already?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Yeah!! I'm totally better, woof!
+ Poison won't scare me anymore, meow!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\."Guess the antidote Keiji brought worked like a charm!
+ Don't see no weird after-effects, neither!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Good showing from your friendly policeman, eh?"
+##
+
+{Sara}
+#Message#
+\.\C[4](It really was a close call...
+ If Keiji hadn't found the antidote, Gin might have...)
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\."The antidote Keiji brought's workin' like a charm!
+ Don't feel no weird after-effects, neither!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Good showing from your friendly policeman, eh?"
+##
+
+{Sara}
+#Message#
+\.\C[4](It really was a close call... If Keiji hadn't
+ found the antidote, both of them might have...)
+##
+
+<Condition End>
+
+#Message#
+\."Keiji..."
+##
+
+#Choice#
+Thank you very much
+...Good job knowing where it was
+##
+
+<「ありがとうございます」>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Same to you. Your reasoning saved us, Sara."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Not to mention your decisiveness in that moment...
+ You and Nao are really something."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."...I allowed the fake Reko to die."
+##
+
+#Message#
+\."And also... even Alice..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Look at me, Sara."
+##
+
+<Else>
+
+#Message#
+\."...That's about the only thing I could do."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Mostly it came down to Q-taro
+ putting his life on the line."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."You're really something, you know."
+##
+
+<Condition End>
+
+<「…よく薬の場所がわかりましたね」>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Well, we've been here three whole days.
+ All that searching around was worth it."
+##
+
+{Sara}
+#Message#
+\."R... Right."
+##
+
+#Message#
+\.\C[4](Stupid... Why'd I have to say that
+ like I'm suspicious of him?)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Don't look so scared, Sara."
+##
+
+<Else>
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."But if Gin had taken all five of those stingers...
+ it'd probably be impossible."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."We owe it to Q-taro for putting his life on the line."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."You're really something, you know."
+##
+
+<Condition End>
+
+<Choice End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...We've lost a lot of allies on the way here."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."Alice... he may have looked like trouble at first...
+ But I don't think he was a bad guy..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."But see, Sara..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."You've got the lives you saved right here.
+ ...Isn't that right?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Eheheh..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Our... salvation.
+##
+
+#Message#
+\.\C[3]Gin's smile is helping to save us all.
+##
+
+#Message#
+\.\C[3]If we lost him, too... I'm sure we'd...
+##
+
+{Nao}
+#Message#
+\."Gin!"
+##
+
+[Nao: Raised finger / cara7-4]
+{SE: Accent28-1}
+#Message#
+\."Thank goodness!
+ You've gotten all better...!"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Big sis Nao..."
+##
+
+{Reko} [Reko: No makeup, sad eyes / cara6-22]
+{SE: Accent21-1}
+#Message#
+\."..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Ah..."
+##
+
+#Message#
+\."B-Big sis Reko...?"
+##
+
+{Reko} [Reko: No makeup, sad eyes / cara6-22]
+#Message#
+\."..."
+##
+
+[Reko: No makeup, sad eyes, mouth open / cara6-23]
+{SE: Accent28-1}
+#Message#
+\."...I'm glad, Gin."
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Reko gently stroked Gin's head.
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."Y-Yeah..."
+##
+
+[Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Big sis Reko, I..."
+##
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+\."Haha... What're you crying for? You're a big kid."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Sorry, meow... I couldn't do anything...
+ So Alice..."
+##
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+\."Ain't nothing for you to apologize about, Gin."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."But..."
+##
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+\."They sure scared you, huh, Gin?"
+##
+
+#Message#
+\."Sorry the real me couldn't be there
+ when you were in a pinch."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Myooowww... Big sis Rekooo..."
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."...Nah."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+#Message#
+\."Couldn't do hardly anything, all told..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: Accent21-1}
+#Message#
+\."...An' we lost two Rekos."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Human or doll, it don't matter.
+ Both of 'em were our allies... and..."
+##
+
+{Voice}
+#Message#
+\."What do you mean "ally"?"
+##
+
+{Alice} [Alice: Tired face / cara11-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Alice..."
+##
+
+{Alice} [Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."All of you really are stupid..."
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."All the kidnappers are planning here
+ is for us to kill each other."
+##
+
+[Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."You let someone live, and kill someone else.
+ That's all it is."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Tired face, closed teeth / cara11-25]
+{SE: sceneswitch2}
+#Message#
+\."So why would you help each other?
+ Why try to be kind..."
+##
+
+[Alice: Tired face / cara11-22]
+#Message#
+\.".........."
+##
+
+[Alice: Tired face, clutching chest / cara11-31]
+{SE: Accent28-1}
+#Message#
+\."...Reko was the same."
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."If she'd thought only for herself a little more,
+ maybe she wouldn't have had to die like that..."
+##
+
+{Keiji} [Keiji: Turned to side tousling hair / cara2-20]
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Alice..."
+##
+
+{Alice} [Alice: Tired face, clutching chest / cara11-31]
+#Message#
+\.".........."
+##
+
+[Alice: Tired face, mouth open / cara11-23]
+{SE: Accent21-1}
+#Message#
+\."...Don't forget about Reko."
+##
+
+#Message#
+\."She was lonesome. Despite how it looked..."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Meowww..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Of course we won't forget. We can't...!)
+##
+
+{Alice} [Alice: Tired face, clutching chest / cara11-31]
+#Message#
+\."Hmph... Maybe there's something wrong with me, too..."
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."Even though you and I are
+ soon going to be killing each other..."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."..."
+##
+
+<Condition End>
+
+{???}
+#Message#
+\."So, all of you have assembled."
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+{SE: horror_piano chord3}
+#Message#
+\."I will now begin explanations
+ for the second Main Game."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."Mr. Gin Ibushi... How are you faring?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."There he is, meow!! Uncle Crabstache!!"
+##
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+#Message#
+\."Uncle Crabstache...?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."You think we're just gonna sit here
+ and listen to yer damn explanation?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."You guys are always pulling tricks!
+ I won't trust you, woof!!"
+##
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+#Message#
+\."Mmmh..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."W-What the heck, woof!!
+ Don't come any closer, meow...!"
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+{SE: Accent28-1}
+#Message#
+\."Fantastic..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Mya...?!"
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+{SE: flash-of-light-3}
+#Message#
+\."Just amazing, Mr. Gin Ibushi. Astonishing resilience!
+ Why, you're the picture of health already."
+##
+
+[Gashu: Eyes closed / cara16-5]
+{SE: Saint2}
+#Message#
+\."And \C[2]Uncle Crabstache\C[0]...
+ It's an honor to receive such a charming nickname."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."You screwin' with us now?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+{Uncle Crabstache} [Gashu: Eyes closed / cara16-5]
+{SE: Saint1}
+#Message#
+\."Mr. Q-taro Burgerberg, you're healthy as well...
+ My word, the stamina of a first-class baseball player
+ is truly something else!"
+##
+
+<Condition End>
+
+[Gashu: Mouth open / cara16-2]
+{SE: flash-of-light-3}
+#Message#
+\."Fantastic, simply fantastic...!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."I... I feel sick, meow..."
+##
+
+{Uncle Crabstache} [Gashu: Furrowed brow / cara16-4]
+#Message#
+\."Oh dear... So there is yet some venom left!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."It's not that, woof!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent28-1}
+#Message#
+\."...Um, when are you getting to the explanation?"
+##
+
+{Gashu} [Gashu: Raised eyebrow / cara16-3]
+#Message#
+\."..."
+##
+
+[Gashu: Eyes closed / cara16-5]
+#Message#
+\."Pardon me."
+##
+
+[Gashu: Raised eyebrow / cara16-3]
+#Message#
+\."Well then, I shall explain this Main Game."
+##
+
+#Message#
+\."That said, the basic rules are the same.
+ It is a voting game making use of four cards:
+ the \C[2]Keymaster\C[0], \C[3]Sage\C[0], \C[10]Sacrifice\C[0], and \C[5]Commoner\C[0]..."
+##
+
+#Message#
+\."The \C[2]Keymaster\C[0] is the \C[2]keyman of destruction,
+ should they be chosen\C[0]... The one who carries it bears
+ great responsibility, but it also serves as armor."
+##
+
+#Message#
+\."The \C[3]Sage\C[0] is a \C[2]superhuman who knows
+ the one in possession of the Keymaster role\C[0].
+ But once exposed... it is hard to protect oneself."
+##
+
+#Message#
+\."The \C[10]Sacrifice\C[0] will \C[2]die unless chosen\C[0].
+ They are the sole person who can turn
+ defeat into victory, or victory into defeat."
+##
+
+#Message#
+\."And the \C[4]Commoners\C[0] have no power at all...
+ But thus they fill the role of guiding the discussion
+ in the proper direction."
+##
+
+[Gashu: Eyes closed / cara16-5]
+{SE: Accent28-1}
+#Message#
+\."However, this time, we will use data
+ in place of paper cards."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."D... Data?"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Card data has already been distributed at random
+ to the voting tablets you possess."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."All that remains is... the permission to access it."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Why'd ya hafta make it so roundabout?!"
+##
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+#Message#
+\."Very sharp indeed, Mr. Q-taro."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: Accent28-1}
+#Message#
+\."Because this time, you are able to make \C[2]trades\C[0]."
+##
+
+[Gashu: Default / cara16-1]
+{SE: Accent21-1}
+#Message#
+\."And \C[2]forcibly\C[0], at that."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."We can trade our cards...?"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Indeed. Now then, let me show you."
+##
+
+{SE: Thunder10}
+#Message#
+\."Come forth, \C[2]Ring-Up Box\C[0]...!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."A phone booth came from the floor...!"
+##
+
+{Gashu}
+#Message#
+\."You may trade cards by making a request at
+ one of these Ring-Up Boxes, situated in each room."
+##
+
+#Message#
+\."They are simple to use.
+ Simply \C[2]insert 50 tokens\C[0] and grab the receiver."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."F-Fifty tokens?!"
+##
+
+{Gashu} [Gashu: Raised eyebrow / cara16-3]
+#Message#
+\."Of course, just like the Sub-Game,
+ you cannot use your own tokens."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What a ridiculous rule...!!"
+##
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+#Message#
+\."Oh? I had thought you would be delighted, Mr. Q-taro."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That's an awful rule! People without tokens
+ don't even get the right to trade...!)
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+#Message#
+\."Trades are 1-on-1 with who you select.
+ Please trade freely, with whomever you wish."
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\."You have a time limit of approximately 3 hours."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When all have returned to their bedrooms,
+ that will signal the start of this trading phase."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Do not wear such gloomy looks, everyone."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: shine3}
+#Message#
+\."Win, and survive.
+ For you were all born to win."
+##
+
+{Sara}
+#Message#
+\.\C[4](What is he talking about...?!)
+##
+
+{Gashu}
+#Message#
+\."So then, please return to your rooms
+ within 5 minutes."
+##
+
+[Gashu: Head tilt / cara16-6]
+#Message#
+\."If you do not... You understand, don't you?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The atmosphere is unpleasant.
+##
+
+#Message#
+\.\C[3]We look at each other's faces
+and try to judge how we're feeling.
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I say...)
+##
+
+#Choice#
+We'll definitely escape
+Let's go to our rooms for now
+..........
+##
+
+<絶対に脱出しましょう>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."We'll escape for sure."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Sara...!"
+##
+
+{Sara}
+#Message#
+\."It's not like we're out of time...!
+ There must be something we can do!!"
+##
+
+#Message#
+\.\C[4](That might sound flimsy...
+ But I'm not giving up!!)
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."You said it, Sara!!"
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."I mean, it ain't like everything's
+ going hunky-dory for them neither!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."The guy with the 'stache shooting Ranger
+ must've been unexpected too, right?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Huh...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."W-What? I said something weird?"
+##
+
+{Sara}
+#Message#
+\.\C[4](No, you're exactly right.)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Unexpected... If we look for things our enemy
+ didn't expect, there's sure to be a way out of this!)
+##
+
+<今は自室に戻りましょう>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."For now, let's go back to our rooms..."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Y-Yeah..."
+##
+
+{Sara}
+#Message#
+\."And after that, we'll definitely
+ find a way to escape."
+##
+
+#Message#
+\."I won't let them have their way!!"
+##
+
+<………>
+
+{Sara} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\.".........."
+##
+
+{Nao}
+#Message#
+\."I... I..."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."I won't give up!
+ There must be a way to escape... somewhere...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: No makeup, angry eyes, closed teeth / cara6-25]
+#Message#
+\."Nao...!"
+##
+
+<Else>
+
+{Alice} [Alice: Tired face / cara11-22]
+#Message#
+\."..."
+##
+
+<Condition End>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Isn't that right, Sara?!"
+##
+
+{Sara}
+#Message#
+\."Y-Yes, that's right!
+ There just has to be...!!"
+##
+
+#Message#
+\.\C[4](I can't let my feelings give in!)
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Then I'll head back first.
+ Don't want to get killed for being tardy."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Let's get going, guys."
+##
+
+
+**********Event6********** (Qtaro) (10,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Q-taro is chatting happily with Gin and Keiji.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's... hard to imagine the Main Game is approaching.)
+##
+
+
+**********Event7********** (naoron) (13,8)
+-----Page1-----
+{Nao} [Nao: Mouth open / cara7-1]
+{SE: Accent28-1}
+#Message#
+"Ah... Sara and Gin."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Big sis Nao? What're you doing, meow?"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."I was just looking for Safalin..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+#Choice#
+Why?
+Did you find her?
+##
+
+<なぜですか？>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Why Safalin...?"
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Ah... um... No particular reason..."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."She wasn't here, meow?"
+##
+
+{Nao} [Nao: Looking up and to side, sweatdrop / cara7-27]
+#Message#
+\."Hmm...
+ I thought I did see her enter the Medical Office..."
+##
+
+<いましたか？>
+
+{Sara} [Nao: Looking up and to side, sweatdrop / cara7-27]
+#Message#
+"Did you find her?"
+##
+
+{Nao} [Nao: Looking up and to side / cara7-26]
+#Message#
+\."No, she isn't anywhere..."
+##
+
+[Nao: Looking up and to side, sweatdrop / cara7-27]
+#Message#
+\."It's strange...
+ I thought I saw her enter the Medical Office..."
+##
+
+<Choice End>
+
+-----Page2-----
+{Nao} [Nao: Looking up and to side / cara7-26]
+#Message#
+"I wonder where she is...?"
+##
+
+-----Page3-----
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"If you're going in... I'll come with you!"
+##
+
+-----Page4-----
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"Meow... She has sort of a pleasant scent
+ mixed with the smell of an art room, woof."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Hyeeek...! Really?!"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: flash-of-light-3}
+#Message#
+\."Definitely a scent that screams "big sis Nao," meow!"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."*sniff*... You're embarrassing me..."
+##
+
+
+**********Event48********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event55********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event56********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event58********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event59********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event60********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event66********** (mosimo) (1,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A Ring-Up Box is set up here.
+##
+
+{Sara}
+#Message#
+\.\C[4](Trade cards with whoever you want
+ for 50 tokens, huh...)
+##
+
+
+**********Event68********** (hako) (8,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A first-aid kit with medical supplies.
+##
+
+
+**********Event73********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

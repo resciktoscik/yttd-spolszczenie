@@ -1,0 +1,16 @@
+**********Common229********** (投票ケイジ)
+#Message#
+Vote for \C[2]Keiji\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

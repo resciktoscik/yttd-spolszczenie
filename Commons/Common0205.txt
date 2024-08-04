@@ -1,0 +1,84 @@
+**********Common205********** (ｿｳ「操られてる」)
+{Sou}
+#Message#
+"Miss Nao being manipulated by the kidnappers...
+ Is that a possibility...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...?
+ I've got no real comment for you, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"Ahaha, um... Does that actually refute anything?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+"Maybe she was on the kidnappers' side to start...
+ Or maybe brainwashed or something..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."...Doubting doesn't feel good, does it..."
+##
+

@@ -1,0 +1,69 @@
+**********Common1658********** (◆ｶﾝﾅ「誰も塗れん」)
+{Kanna}
+#Message#
+"I don't remember seeing anyone
+ acting questionably in the cemetery..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+"Sorry...
+ Did Kanna do something out of line?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+"Sorry...
+ Did Kanna do something out of line?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+"I imagine it would take some time
+ to paint all of the coffins..."
+##
+

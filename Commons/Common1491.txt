@@ -1,0 +1,18 @@
+**********Common1491********** (⑥ギンB選択)
+{N/A}
+#Message#
+"This calls for me using my nose
+ to sniff out anything suspicious, meow!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

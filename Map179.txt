@@ -1,0 +1,332 @@
+=====Map179===== (❹Last Supper Room)
+
+**********Event1********** (gasyu) (8,3)
+-----Page1-----
+#Message#
+\C[3]Gashu is on the screen.
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+{SE: sceneswitch2}
+#Message#
+"Everyone... How are you feeling?"
+##
+
+#Message#
+\."I truly thank you for once again
+ participating in the \C[2]Main Game\C[0]."
+##
+
+[Gashu: Eyes closed / cara16-5]
+#Message#
+\."I will omit detailed explanations,
+ but I have one point of warning this time..."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: Accent28-1}
+#Message#
+\."It appears one of you lost your tablet."
+##
+
+[Gashu: Furrowed brow / cara16-4]
+#Message#
+\."Due to the need for fingerprint identification,
+ others cannot misuse it, but..."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."As it is a disadvantage to not know your own role,
+ a spare tablet has been placed on your table."
+##
+
+[Gashu: Head tilt / cara16-6]
+#Message#
+\."Please use it if you are the person in question."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."That is all for my warning.
+ To proceed with the rules, please touch the screen."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](It's starting... A second Main Game...)
+##
+
+-----Page2-----
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+"Well then, allow me to explain
+ the rules of the Main Game."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."The basic rules are that one person to be sacrificed
+ will be chosen by majority vote."
+##
+
+#Message#
+\."The vote will be split into two parts."
+##
+
+#Message#
+\."Through the first round, the \C[2]preliminary vote\C[0],
+ half the total will be chosen as candidates."
+##
+
+#Message#
+\."As there are 8 presently alive, this would be \C[2]4\C[0]."
+##
+
+#Message#
+\."A \C[2]final vote\C[0] will be held using these,
+ deciding the ultimate \C[2]victim\C[0]."
+##
+
+[Miley: Default smile / cara14-1]
+#Message#
+\."In other words, the sacrifice is decided
+ by narrowing down from 8, to 4, to 1."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."Of importance are the four \C[2]roles\C[0]."
+##
+
+#Message#
+\."First is the \C[5]Commoner\C[0]."
+##
+
+#Message#
+\."This is a normal role, which has no powers."
+##
+
+#Message#
+\."The second is the \C[2]Keymaster\C[0]."
+##
+
+#Message#
+\."As one would expect, they hold the key.
+ If chosen as the victim, all will perish."
+##
+
+#Message#
+\."The third is the \C[3]Sage\C[0]."
+##
+
+#Message#
+\."By the power of holy divination,
+ they can know who the \C[2]Keymaster\C[0] is."
+##
+
+#Message#
+\."The fourth is the \C[10]Sacrifice\C[0]."
+##
+
+#Message#
+\."This is a card of reversals, which lets its owner live
+ only if they are chosen as the victim."
+##
+
+#Message#
+\."But meanwhile... if not chosen, they will die.
+ So it is also an accursed card."
+##
+
+#Message#
+\."In exchange, the \C[10]Sacrifice\C[0] can vote twice..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."And if they win, they can escape together
+ with one person of their choice."
+##
+
+[Gashu: Default / cara16-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Incidentally, in the event that
+ multiple people are tied for first..."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."If the \C[10]Sacrifice\C[0] is in the tie, the \C[10]Sacrifice\C[0] wins.
+ If the \C[2]Keymaster\C[0] is in the tie, all perish."
+##
+
+[Gashu: Eyes closed / cara16-5]
+{SE: sceneswitch2}
+#Message#
+\."If both the \C[10]Sacrifice\C[0] and \C[2]Keymaster\C[0] are
+ tied for first... The \C[2]Keymaster\C[0] takes priority,
+ and all perish."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The distribution is 1 \C[2]Keymaster\C[0], \C[3]Sage\C[0], and \C[10]Sacrifice\C[0].
+ All others are \C[5]Commoners\C[0]."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."Best of luck... and may you avoid
+ total destruction at all costs."
+##
+
+{Sara}
+#Message#
+\.\C[4](That goes without saying...)
+##
+
+{Gashu}
+#Message#
+\."Well, everyone, please wait for the game to beg..."
+##
+
+{Sara}
+#Message#
+\C[4](Eh...?)
+##
+
+{Miley} [Miley: Angry / cara14-4]
+#Message#
+\{"Hey! Gashu!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Miley?!)
+##
+
+{Miley} [Miley: Mouth open / cara14-3]
+#Message#
+\."Gashu, are you listening?!
+ You've really gone and mucked things up...!"
+##
+
+[Miley: Angry / cara14-4]
+#Message#
+\."You've made a flagrant transgression...!!
+ One that shakes the very core of the Main Game!!"
+##
+
+[Miley: Mouth open / cara14-3]
+#Message#
+\."Are you trying to appropriate
+ the Main Game for yourse..."
+##
+
+{Gashu} [Gashu: Furrowed brow / cara16-4]
+#Message#
+"...Apologies for the video malfunction."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."The Main Game will now begin. Please enter, everyone."
+##
+
+{Sara}
+#Message#
+\.\C[4](W... What just happened there?!)
+##
+
+-----Page4-----
+{Gashu} [Gashu: Furrowed brow / cara16-4]
+#Message#
+"We have already opened. Please enter quickly."
+##
+
+
+**********Event2********** (ryouri) (8,5)
+-----Page1-----
+#Message#
+\C[3]An extravagant feast.
+##
+
+
+**********Event37********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event38********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event39********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event40********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event41********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event42********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event44********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

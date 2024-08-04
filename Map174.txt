@@ -1,0 +1,109 @@
+=====Map174===== (❹2F Back)
+
+**********Event2********** (aka) (7,3)
+-----Page1-----
+#Message#
+\C[3]The door leading to the grounds
+where the Main Game is held... presumably.
+##
+
+
+**********Event3********** (siro) (10,3)
+-----Page1-----
+#Message#
+\C[3]The white door is shut fast.
+##
+
+
+**********Event4********** (kuroro) (5,3)
+-----Page1-----
+#Message#
+\C[3]It leads to the Black Room.
+##
+
+#Choice#
+Enter the Black Room
+Cancel
+##
+
+<黒い部屋へ入る>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event27********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event28********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event29********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event30********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event31********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event32********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event34********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

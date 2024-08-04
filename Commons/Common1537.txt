@@ -1,0 +1,17 @@
+**********Common1537********** (⑧カンナB選択)
+{N/A}
+#Message#
+"Kanna will absorb the charge!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

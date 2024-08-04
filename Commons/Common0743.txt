@@ -1,0 +1,76 @@
+**********Common743********** (ﾚｺ「3,4回目確認」)
+{Reko}
+#Message#
+"And so in the \C[0]fourth trade\C[0],
+ Keiji and Q-taro's cards got traded?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"Is there somethin' about this item...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"Eh...?! Was I saying something funny?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"Graaah! I'm gettin' confused!"
+##
+

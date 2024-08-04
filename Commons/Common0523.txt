@@ -1,0 +1,412 @@
+**********Common523********** (④進展●レコのウソ)
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I'll testify. It's true, Reko's the one
+ who broke Professor Mishima's monitor."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Wha?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Reko... You should say it yourself already.
+ Any further derailment's a waste of time."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."W-What're you spouting...?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...There's no reason to hide it.
+ Isn't that right?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."...!!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."What do you mean...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."While Nao was witnessing the incident,
+ hidden in the lobby..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."I witnessed it too... hidden at the Prize Exchange."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."I had a good spot to see everything.
+ ...The whole conversation between Reko and Mishima."
+##
+
+{Reko}
+#Message#
+\."...I get it.
+ You got any other info?"
+##
+
+{Mishima}
+#Message#
+\."Just a bit... However, I imagine
+ it won't be enough to satisfy you..."
+##
+
+{Reko}
+#Message#
+\."Well, crap. Oh well..."
+##
+
+{Mishima}
+#Message#
+\."...In addition, I must make a shameful request..."
+##
+
+{Reko}
+#Message#
+\."W-What's up? Tell me."
+##
+
+{Mishima}
+{SE: Accent28-1}
+#Message#
+\."Once we are done talking...
+ I want you to destroy me."
+##
+
+{Reko}
+#Message#
+\."Wh...?! Don't be ridiculous!"
+##
+
+{Mishima}
+#Message#
+\."I shall not hide any information from you."
+##
+
+{Reko}
+#Message#
+\."I don't mean that! It's gonna make Nao cry!
+ She'll never be able to see you again!"
+##
+
+{Mishima}
+{SE: Accent21-1}
+#Message#
+\."...That is the idea."
+##
+
+{Reko}
+#Message#
+\."Huh...?"
+##
+
+{Mishima}
+#Message#
+\."Nao resolved herself.
+ She said she would never come back here..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."She must walk on her own now...
+ I don't want her resolve to be shaken."
+##
+
+#Message#
+\."If I am gone, the temptation will disappear."
+##
+
+{Reko}
+#Message#
+\."I don't get it... Why would you..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Don't you... wanna see her, too?"
+##
+
+{Mishima}
+#Message#
+\.".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I do... and I don't want to die, either..."
+##
+
+{Reko}
+#Message#
+\."...Die?"
+##
+
+{Mishima}
+#Message#
+\."...The people who created me must be quite brilliant."
+##
+
+#Message#
+\."Even an emotion like fear... is programmed into me."
+##
+
+#Message#
+\."I feel it. The fear of death."
+##
+
+#Message#
+\."If this monitor is destroyed... I will disappear."
+##
+
+#Message#
+\."I am... very afraid of that..."
+##
+
+{Reko}
+#Message#
+\."T-Then...!!"
+##
+
+{Mishima}
+{SE: sceneswitch2}
+#Message#
+\."For Nao's resolve to come to nothing...
+ is even more terrifying to me than death."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."Please, miss Reko."
+##
+
+{Reko}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I can't point a weapon at Nao's dear teacher..."
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."...Regardless, Reko granted Mishima's wish."
+##
+
+#Message#
+\."She swung her fist with
+ an unbearable look on her face."
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."But she couldn't confess it to Nao..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."That... that's...!!"
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Why...
+ Why didn't you tell me, Reko?!"
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."Because of that, I... I suspected you...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Nao... Keiji..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."What in the hell... are you guys talking about?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."...What?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."I... seriously don't know anything about that."
+##
+
+#Message#
+\."Who are you mistakin' me for...?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Reko...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."I mean, do you see any scars like that on me?!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...You think it's under my gloves or something?
+ Here, I'll show you!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Reko removed both of her gloves.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Her hands were clean, with not a scratch on them.
+##
+
+{Keiji} [Keiji: Right hand under face, sweating / cara2-9]
+#Message#
+\."There's... no wound..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."But you were bleeding so much...!
+ They couldn't be that clean after just a few days!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: horror_piano chord3}
+#Message#
+\."Were you guys...
+ seriously seeing a fake or something...?"
+##
+
+{Sara}
+#Message#
+\."A fake...?"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."There must be one, right?"
+##
+
+{Sara}
+#Message#
+\."W-What do you mean?!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."It's not complicated.
+ Heavy wounds don't just suddenly heal up, do they?"
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The Reko who destroyed Mishima's monitor...
+ was a fake."
+##
+
+{Sara}
+#Message#
+\.\C[4](What's he saying?!)
+##
+
+#Message#
+\.\C[4](This is turning bizarre...!
+ Is there even a point in discussing this right now?!)
+##
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\."This situation's a dead end anyhow."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Aren't you feeling fidgety, Sara?
+ Can you carry on a discussion while
+ this illogical mystery remains...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](I...!)
+##
+
+#Message#
+\."Understood...! This is important!
+ Let's discuss the possibility of a fake...!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."At any rate, I didn't break the monitor!!
+ I dunno what this is about!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."...Could the Reko who broke the monitor
+ have been someone else in disguise...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."With her tone and behavior, it could only be Reko.
+ Her voice was definitely Reko's too... hmm."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Whoever has a wound on their hand...
+ There's your fake."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."But... Was there any reason for someone to
+ pretend to be Reko and visit Professor Mishima?"
+##
+

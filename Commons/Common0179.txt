@@ -1,0 +1,46 @@
+**********Common179********** (▽Qﾀﾛｳ…否定)
+{Sara}
+#Message#
+"No, I'll lend a hand!
+ I won't let you do as you please, Q-taro!"
+##
+
+{Q-taro}
+#Message#
+\."That's just bein' overbearing, Sara!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk... No good...!)
+##
+
+#Message#
+"No, as a child, he should be treated delicately!
+ You're being irresponsible!"
+##
+
+{Q-taro}
+#Message#
+\."Guhhh...! Is that how you talk to an adult?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What, so the adults need special treatment?!)
+##
+
+#Message#
+"Gin isn't lying at all!"
+##
+
+{Q-taro}
+#Message#
+\."Stop flip-flopping, Sara!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk... No good...!)
+##
+

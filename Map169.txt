@@ -1,0 +1,455 @@
+=====Map169===== (❹OP Alice)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Alice} [Alice: Tired face, closed-eyes smile / cara11-24]
+{SE: Accent28-1}
+#Message#
+\."...Hahaha... haha..."
+##
+
+#Message#
+\."Reko... you really were kind... such a good kid..."
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."...................."
+##
+
+{N/A}
+#Message#
+\.\C[3]Alice... lost someone precious to him.
+##
+
+#Message#
+\.\C[3]Just like Nao lost her teacher.
+##
+
+#Message#
+\.\C[3]Just like Kanna lost her sister.
+##
+
+#Message#
+\.\C[3]Just like... I lost my best friend.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Reko...)
+##
+
+{N/A}
+#Message#
+\.\C[3]She was a trustworthy ally to me, too.
+##
+
+#Message#
+\.\C[3]It's painful... It's sad...
+##
+
+{Sara}
+#Message#
+\.\C[4](But... but...!)
+##
+
+#Message#
+\.\C[4](We can't just stay here forever...!!)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Alice, Nao...!"
+##
+
+{Alice} [Alice: Tired face, eyes open / cara11-26]
+{SE: Accent21-1}
+#Message#
+\."..."
+##
+
+[Alice: Tired face / cara11-22]
+#Message#
+\."Sara... Chidouin."
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."You're in the way... Begone."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I know how you feel.
+ But the Main Game's going to start again...!"
+##
+
+{Alice} [Alice: Tired face, clutching chest / cara11-31]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."They're giving an explanation...!
+ Please, come to the Medical Office!"
+##
+
+{Alice} [Alice: Tired face, mouth open / cara11-23]
+{SE: Accent28-1}
+#Message#
+\."...You sure are kind."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Huh...?"
+##
+
+{Alice} [Alice: Tired face, clutching chest / cara11-31]
+#Message#
+\."It shouldn't matter to you
+ if anything unfavorable happens to us."
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."In the Main Game, everyone is an enemy..."
+##
+
+[Alice: Tired face, fist to palm, angry shout / cara11-30]
+#Message#
+\."Again, at least two people will die!
+ It might be you and me next...!"
+##
+
+{Sara}
+#Message#
+\."...That may be true."
+##
+
+#Message#
+\."But I don't think giving up on living,
+ and thinking, is the right thing to do...!"
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If we diligently think about it...
+ I'm sure... I'm sure there's a path!!"
+##
+
+{Alice} [Alice: Tired face / cara11-22]
+#Message#
+\."..."
+##
+
+[Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."A path..."
+##
+
+[Alice: Tired face, clutching chest / cara11-31]
+{SE: Accent21-1}
+#Message#
+\."I've long since passed up such a thing..."
+##
+
+[Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."Even so, I stubbornly lived on."
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+{SE: sceneswitch2}
+#Message#
+\."Because I thought someday...
+ my parents, or Reko, would repay me..."
+##
+
+[Alice: Tired face / cara11-22]
+#Message#
+\."..."
+##
+
+#Message#
+\."There's... no path anymore..."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+{SE: Accent21-1}
+#Message#
+\."Let's go... Alice."
+##
+
+{Alice} [Alice: Tired face, eyes open / cara11-26]
+#Message#
+\."Nao...?"
+##
+
+[Alice: Tired face, eyes open wider / cara11-27]
+#Message#
+\."Hey now, Nao Egokoro... What are you...?!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\.\C[3]Nao removed the gloves from Reko's body.
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent28-1}
+#Message#
+\."I need to deliver this..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."There's surely someone else waiting...
+ who treasures Reko as much as us..."
+##
+
+{Alice} [Alice: Tired face, eyes open wider / cara11-27]
+#Message#
+\."Nao..."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Alice... Please, you take one of these too."
+##
+
+{Alice} [Alice: Tired face, eyes open wider / cara11-27]
+#Message#
+\."...!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Alice accepted one of the gloves.
+##
+
+{Alice} [Alice: Tired face, clutching chest / cara11-31]
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."...I'm going.
+ I need to move forward...!"
+##
+
+{Alice} [Alice: Tired face / cara11-22]
+#Message#
+\.".........."
+##
+
+[Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."Forward..."
+##
+
+[Alice: Tired face, clutching chest / cara11-31]
+#Message#
+\."Sara Chidouin... I will tell you this..."
+##
+
+[Alice: Tired face, mouth open / cara11-23]
+{SE: sceneswitch2}
+#Message#
+\."The name of the man I killed...\! was \C[2]Sou Hiyori\C[0]."\.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Huh...?!"
+##
+
+{Alice} [Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."I don't care about Sou Hiyori at this point..."
+##
+
+#Message#
+\.\sp[15]"Who I really need to kill is..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Alice...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Those were... eyes of revenge.
+##
+
+#Message#
+\.\C[3]Revenge against our enemy who plotted the Death Game.
+##
+
+#Message#
+\.\C[3]Anger and hate...
+Those made the only path that would move Alice now.
+##
+
+#Message#
+\.\C[3]Then what path will I choose...?
+##
+
+{Sara}
+#Message#
+\.\C[4](...That's obvious.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I... won't let anyone else die.)
+##
+
+{SE: Thunder10}
+#Message#
+\.\C[4](The Main Game... I won't let it happen!!)
+##
+
+{Joe?} [Joe: Hallucination (visible face) / cara1-25]
+#Message#
+\.\C[10]"You? You can't save anybody, Sara."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+#Message#
+\.\C[4](I'm... not going to lose...!!)
+##
+
+
+**********Event2********** (noelatama) (15,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The head of Rio Ranger.
+##
+
+{Sara}
+#Message#
+\.\C[4](He was a doll, just like the fake Reko...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Joe's hairclip remains in his hair.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+Take the hairclip
+Cancel
+##
+
+<ヘアピンを取る>
+
+{Sara}
+#Message#
+\.\C[4](Give it back...! This is Joe's!!)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Joe's hairclip.
+##
+
+{Ranger}
+#Message#
+\.".........."
+##
+
+<やめる>
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Choice End>
+
+
+**********Event3********** (atisu) (10,8)
+-----Page1-----
+{Alice} [Alice: Tired face / cara11-22]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\C[4](Alice...)
+##
+
+
+**********Event4********** (noel) (4,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The torso of Rio Ranger.
+##
+
+{Sara}
+#Message#
+\.\C[4](Because of Ranger... Reko and the fake Reko both...)
+##
+
+
+**********Event5********** (reko) (8,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Reko lies in the center of the Room of Lies.
+##
+
+{Sara}
+#Message#
+\.\C[4](Tons of blood is pouring from her chest...)
+##
+
+
+**********Event6********** (naon) (7,8)
+-----Page1-----
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"Leave this to me, Sara...!"
+##
+
+{Sara}
+#Message#
+\C[4](Nao's looking very dependable.)
+##
+

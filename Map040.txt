@@ -1,0 +1,429 @@
+=====Map40===== (②●Blue Room Russian)
+
+**********Event2********** (kannna) (8,8)
+-----Page1-----
+{Sara}
+#Message#
+\.\C[4](?!
+\.\. What...?!)
+##
+
+{N/A} [Kanna: Arms crossed, default look / cara3-1]
+#Message#
+\.\C[3]Kanna is sitting in the chair.
+##
+
+{Sara}
+#Message#
+\."This is..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...A doll..."
+##
+
+#Message#
+\.\C[4](I can't see the parts hidden under clothes,
+ but everything seems... disturbingly detailed.)
+##
+
+{N/A}
+#Message#
+\.\C[3]On the doll's hand is written:
+"Please use as you wish."
+##
+
+{Sara}
+#Message#
+\."...As I wish..."
+##
+
+#Choice#
+Take off the clothes
+Try moving it
+##
+
+<服をはぎとる>
+
+{Sara} [Kanna: Arms crossed, default look / cara3-1]
+#Message#
+\.\C[4](Even the clothes... look exactly the same...)
+##
+
+<動かしてみる>
+
+{Sara} [Kanna: Arms crossed, default look / cara3-1]
+#Message#
+\.\C[4](Hrgh...! It's heavy...
+ Probably as heavy as the actual person...)
+##
+
+#Message#
+\.\C[4](Not much I can do...
+ I'll just borrow the clothes.)
+##
+
+<Choice End>
+
+{N/A} [Kanna: Arms crossed, default look / cara3-1]
+{SE: Equip2}
+#Message#
+\.\C[3]Stripped off the doll's clothes.
+##
+
+{Sara}
+#Message#
+\.\C[4](Alright...)
+##
+
+#Message#
+\.\C[4](...Even if it's a doll,
+ it feels awkward to just leave it here...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I placed the Kanna doll in a discreet spot.
+##
+
+{Sara}
+#Message#
+\.\C[4](Sorry, miss doll.)
+##
+
+
+**********Event3********** (sara) (10,8)
+-----Page1-----
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Waugh! What's this?!)
+##
+
+[Sara: Default (no collar) / cara0-1]
+#Message#
+\."Isn't this me?!"
+##
+
+#Message#
+\.\C[4](It's a spitting image...!
+ Like I'm looking into a mirror!)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Oof... Our enemy's got some wild hobbies, huh."
+##
+
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\.\C[3]It's eerie how detailed it is.
+##
+
+#Message#
+\.\C[3]Yet I can't look away from that intricateness.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's amazing...)
+##
+
+#Message#
+\.\C[4](...But...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](When... was this made?)
+##
+
+#Message#
+\.\C[4](You couldn't pull this off
+ without a lot of long, detailed observation.)
+##
+
+#Message#
+\.\C[4](Who could... accomplish such a thing...?)
+##
+
+[Kai: Default / cara8-1]
+{SE: heart1}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...What's up?"
+##
+
+{Sara}
+#Message#
+\."...Um..."
+##
+
+#Choice#
+Ask about Kai
+Ask who has his attention
+##
+
+<カイさんについて聞く>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."Keiji, I want to know your perspective...
+ What do you think about Kai?"
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."...Guy's no ordinary person, for sure."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."His eyes are dead, for one.
+ Just like Mr. Policeman here.
+\! Ha ha ha."
+##
+
+{Sara}
+#Message#
+\."Do you think he's a bad person...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Dunno."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Everybody's got good parts and bad parts, right?"
+##
+
+#Message#
+\."...Look, you just do what you can, Sara.
+ For now, we'll take this doll along."
+##
+
+<誰か気になる人を聞く>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Keiji, I want to know your perspective...
+ Is there someone who has your attention?"
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."...Maybe Joe."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Keiji}
+#Message#
+\."He's such a funny guy, y'know?
+ Hahaha..."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."...Now, enough about that.
+ Want to take this doll along?"
+##
+
+{Sara}
+#Message#
+\."Right... Understood."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Heave...!"
+##
+
+<Choice End>
+
+{N/A} [Keiji: Default smile / cara2-1]
+#Message#
+\C[3]Obtained a Sara Doll.
+##
+
+
+**********Event4********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event5********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event6********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event7********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event10********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event13********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event14********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event15********** (EV015) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event16********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event17********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event18********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event19********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event20********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event21********** (aru) (2,0)
+-----Page1-----
+#Message#
+\C[3]The painting that called itself Meister
+shows no signs of moving again.
+##
+
+
+**********Event39********** (hasigo) (15,4)
+-----Page1-----
+#Message#
+\C[3]A ladder.
+##
+
+
+**********Event49********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

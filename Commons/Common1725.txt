@@ -1,0 +1,115 @@
+**********Common1725********** (◆Q「気がかり」)
+{Q-taro}
+#Message#
+"Alice said "A speaker said something about a trial,
+ but it was foolish; I committed myself to hiding"..."
+##
+
+#Message#
+"I've been curious 'bout this a long time..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Sara... Does that bring anything to mind?
+ Like some kinda item...?"
+##
+
+{SE: Accent21-1}
+#Message#
+"This ain't somethin' I wanna talk about, but..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do you remember when we first met \C[2]Alice\C[0]...?"
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."Alice...?"
+##
+
+{Q-taro} [Alice: Default glare / cara11-1]
+#Message#
+"We were questioning him..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."And this is one of the responses he gave..."
+##
+
+{SE: Accent28-1}
+#Message#
+\.""A speaker said something about a trial,
+ but it was foolish; I committed myself to hiding"..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Hey... Sara..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Does that bring anything to mind?
+ Like some kinda item...?"
+##
+

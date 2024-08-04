@@ -1,0 +1,1114 @@
+=====Map28===== (Russian Start)
+
+**********Event3********** (EV003) (1,0)
+-----Page4-----
+{N/A}
+#Message#
+\sw[99]"Oh..."\sw[100]
+##
+
+#Message#
+\.\sw[99]"Ohh..."\sw[100]
+##
+
+#Message#
+\.\sw[99]"Ohhhh!"\sw[100]
+##
+
+#Message#
+\.\sw[99]"Fantastic! Now that's a job well done!"\sw[100]
+##
+
+#Message#
+\.\sw[99]"No complaints here, you win!"\sw[100]
+##
+
+#Message#
+\.\sw[99]"Seems a puzzle like this
+ was a piece of cake for you!"\sw[100]
+##
+
+#Message#
+\.\sw[99]"Truly brilliant!
+ You deserve a hand!"\sw[100]
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sw[99]"And so, here's my \C[2]right hand\C[0]."\sw[100]\|\.\^
+##
+
+{Sara}
+#Message#
+\."Ahhhhhhhh!!"
+##
+
+{N/A}
+#Message#
+\sw[99]"Hahaha!"\sw[100]
+##
+
+#Message#
+\sw[99]"Be glad! And accept it!
+ See ya!"\sw[100]
+##
+
+{Sara}
+#Message#
+\."Grr...!!"
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Sara! Well done!"
+##
+
+{Sara}
+#Message#
+\."Thanks...!"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent28-1}
+#Message#
+\."I changed my mind on you!
+ Honestly, I regret makin' light of you!"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Miss Sara, that arm..."
+##
+
+{Sara}
+#Message#
+\."It's artificial. ...What a cruel trick!
+ It came falling down from above!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."\C[2]Find my body\C[0]... wasn't it?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Ah...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Seems relevant to that note with the doll's head."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."So... it'd be a good idea to take this along?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Guess we gotta. I'll carry it in this box."
+##
+
+{N/A}
+#Message#
+\C[3]Q-taro put the arm in the box.
+##
+
+{Sara}
+#Message#
+\.\C[4](H-He stuffed it in so crudely...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Okay, we've got a clue of sorts.
+ Let's get outta here."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Sou never came back, did he?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Huh... Wonder where he went."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Did we lose 'im...?"
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Oh well, I guess...
+ Sara, you were with Sou, right?"
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."It's dangerous to be alone,
+ so I'll search together with you."
+##
+
+{Sara}
+#Message#
+\."Joe..."
+##
+
+#Choice#
+Thank you
+I'd prefer Keiji
+I'd prefer Q-taro
+I'd prefer Kai
+##
+
+<ありがとう>
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+{SE: Accent28-1}
+#Message#
+\."Heheh! Wow, honest for once!"
+##
+
+{Sara}
+#Message#
+\."I'm always honest."
+##
+
+<ケイジさんがいい>
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Ghoof...! My kindness, rejected...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Ahh, you're too good to settle for me, Sara."
+##
+
+#Message#
+\."I'll keep shabbily tagging with Q-taro and Kai."
+##
+
+{Sara}
+#Message#
+\."Well then, I'll put up with Joe."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."I'm at least as good as a pebble on the ground!"
+##
+
+<Qタロウさんがいい>
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Ghoof...! My kindness, rejected...!"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Whazzat? You must've got pretty fond of me
+ after that flashy argument we had."
+##
+
+#Message#
+\."Nah, I'm gonna keep searching with Kai for now."
+##
+
+{Sara}
+#Message#
+\."Well then, I'll put up with Joe."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."I'm at least as good as a pebble on the ground!"
+##
+
+<カイさんがいい>
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Ghoof...! My kindness, rejected...!"
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."Me...?
+ I'm glad you find me dependable, but..."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Should you not ask Joe?
+ He's a friend who knows you well, yes?"
+##
+
+{Sara}
+#Message#
+\."Well then, I'll put up with Joe."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."I'm at least as good as a pebble on the ground!"
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Well, we'll be heading out."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Ah, hold on! You got a second...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He left...)
+##
+
+{Kai} [Kai: Default / cara8-1]
+{SE: Accent28-1}
+#Message#
+"Miss Sara."
+##
+
+{Sara}
+#Message#
+\."Hm?"
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Earlier... I neglected to thank you."
+##
+
+#Message#
+\."Allow me to state my gratitude
+ for taking on such an important role."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\."Thank you very much for saving us
+ amid such great pressure."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Don't mention it
+It's only natural
+##
+
+<どういたしまして>
+
+<これしき当然です>
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."How gallant..."
+##
+
+<Choice End>
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Miss Sara, you are no average high schooler."
+##
+
+#Message#
+\."Keiji noted that you are clear-headed..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."But what's truly superb is your heart."
+##
+
+#Message#
+\."Indeed, you have a mind of steel."
+##
+
+#Message#
+\."However... Overdoing it brings harm to yourself."
+##
+
+#Message#
+\."...You must not shoulder too much."
+##
+
+{Sara}
+#Message#
+\."...Right."
+##
+
+#Message#
+\."Come to think of it, Kai, why did you..."
+##
+
+#Message#
+\."...Kai..."
+##
+
+#Message#
+\."Ah..."
+##
+
+{Kai}
+#Message#
+\."Miss Sara...?"
+##
+
+#Message#
+\."Is something the matter...?"
+##
+
+{N/A}
+#Message#
+\C[3]Why now...
+##
+
+#Message#
+\.\C[3]Why did I only just notice...?
+##
+
+#Message#
+\.\C[3]Why did I remember?
+##
+
+#Message#
+\.\C[3]Kai is... Kai is...
+##
+
+#Message#
+\.\C[3]That \C[10]stalker\C[3]...
+##
+
+{Kai}
+#Message#
+\."You look unwell..."
+##
+
+{Sara}
+#Message#
+\."A... Ah, I'm fine..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I can hardly get any words out...
+##
+
+#Message#
+\.\C[3]I can't let him suspect me. I can't let him realize...
+##
+
+#Message#
+\.\sp[8]\C[3]Just who is this person...?
+##
+
+{Kai}
+#Message#
+\."..."
+##
+
+#Message#
+\."...Miss Sara."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+{SE: Accent28-1}
+#Message#
+\."Sara! Are you okay?!"
+##
+
+{Sara}
+#Message#
+\."Joe..."
+##
+
+#Message#
+\."It's okay... I just felt a little drained..."
+##
+
+{Joe}
+#Message#
+\."Don't push it! Lean on my shoulder and we'll rest."
+##
+
+{Sara}
+#Message#
+\."Let's walk...
+ I feel like I'll calm down if we walk..."
+##
+
+{Joe}
+#Message#
+\."Got it...!"
+##
+
+#Message#
+\."Sara..."
+##
+
+{Sara}
+#Message#
+\."...I'm okay now."
+##
+
+{Joe}
+#Message#
+\."For real?"
+##
+
+{Sara}
+#Message#
+\."Really..."
+##
+
+#Message#
+\."In exchange... If I say any complaints...
+ You better come help me right away."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."...So you're energetic enough to order people around.
+\! Fine, complain anytime!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I... can't tell Joe yet.)
+##
+
+
+**********Event4********** (otoko) (4,1)
+-----Page1-----
+{N/A}
+#Message#
+\sw[99]"Yo. That took forever."\sw[100]
+##
+
+#Message#
+\.\sw[99]"Is it okay for me to give the rules now?"\sw[100]
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\sw[99]"You found the gun and the bullets
+ in this room earlier, right?"\sw[100]
+##
+
+#Message#
+\.\sw[99]"And you should've also found
+ dummy bullets in a different room."\sw[100]
+##
+
+#Message#
+\.\sw[99]"You've got \C[2]3 live bullets\C[0] and \C[3]6 dummies\C[0]."\sw[100]
+##
+
+#Message#
+\.\sw[99]"That's a total of 9 bullets
+ you can load into this revolver."\sw[100]
+##
+
+#Message#
+\.\sw[99]"You gotta fire all 9 bullets into everyone -
+ \C[2]human\C[0] and \C[2]doll\C[0] - in \C[2]any order you like\C[0]."\sw[100]
+##
+
+#Message#
+\.\sw[99]"Also, the bullets are fired in \C[2]clockwise order\C[0]..."\sw[100]
+##
+
+#Message#
+\.\sw[99]"But once you load 'em, the barrel'll spin and stop!
+ Which means \C[2]the starting bullet is a mystery\C[0]!"\sw[100]
+##
+
+#Message#
+\.\sw[99]"If you fire all the bullets
+ and all the humans survive, you win!"\sw[100]
+##
+
+#Message#
+\.\sw[99]"I call it \C[2]Russian Roulette\C[0]!
+\! ...'Cause that's just what it is."\sw[100]
+##
+
+#Message#
+\.\sw[99]"Want another quick summary of that?"\sw[100]
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{N/A}
+#Message#
+\.\sw[99]"Load the 3 live bullets and 6 dummy bullets
+ into the gun however you like."\sw[100]
+##
+
+#Message#
+\.\sw[99]"The bullets are fired going clockwise,
+ but the start point is random."\sw[100]
+##
+
+#Message#
+\.\sw[99]"Shoot whichever humans or dolls you like!
+ If all humans survive, you win!"\sw[100]
+##
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\sw[99]"Alright! Then let's begin!"\sw[100]
+##
+
+#Message#
+\.\sw[99]"First, load up the gun how you like it!"\sw[100]
+##
+
+
+**********Event5********** (keiji) (8,2)
+-----Page1-----
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"I'd rather not die, so good luck."
+##
+
+-----Page3-----
+#Message#
+\C[3]Shoot Keiji?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+{SE: horror_3}
+#Message#
+\sp[12]"Aaaaa... ahhhhhhhhhhhhhhh..."\|\|\^
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Whew... Feeling numb."
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji survived.
+##
+
+-----Page4-----
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Your friendly policeman's rooting for ya."
+##
+
+
+**********Event6********** (Q) (12,2)
+-----Page1-----
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+"I'm countin' on ya, Sara!
+ I'm sure you can do it!"
+##
+
+-----Page3-----
+#Message#
+\C[3]Shoot Q-taro?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+{SE: horror_3}
+#Message#
+\sp[12]"Aaaaa... ahhhhhhhhhhhhhhh..."\|\|\^
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+"*pant*... *pant*... Now I'll be okay."
+##
+
+{N/A}
+#Message#
+\.\C[3]Q-taro survived.
+##
+
+-----Page4-----
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+"Everybody gonna be okay?"
+##
+
+
+**********Event7********** (kai) (14,2)
+-----Page1-----
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"No need for panic when it's something important."
+##
+
+-----Page3-----
+#Message#
+\C[3]Shoot Kai?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+{SE: horror_3}
+#Message#
+\sp[12]"Aaaaa... ahhhhhhhhhhhhhhh..."\|\|\^
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"Bravo..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Kai survived.
+##
+
+-----Page4-----
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"As expected of you, miss Sara."
+##
+
+
+**********Event8********** (joe) (6,6)
+-----Page1-----
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+"Man, my heart's pounding!
+ I believe in you, Sara!"
+##
+
+-----Page3-----
+#Message#
+\C[3]Shoot Joe?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+{SE: horror_3}
+#Message#
+\sp[12]"Aaaaa... ahhhhhhhhhhhhhhh..."\|\|\^
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+"Hehehe... My heart was about to explode."
+##
+
+{N/A}
+#Message#
+\.\C[3]Joe survived.
+##
+
+-----Page4-----
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+"I'm a little worn out... Heheh."
+##
+
+
+**********Event9********** (nin1) (10,2)
+-----Page1-----
+#Message#
+\C[3]The doll sits limply in the chair.
+##
+
+-----Page3-----
+#Message#
+\C[3]Shoot the doll?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]The doll's head flew off.
+##
+
+#Message#
+\.\C[3]The doll was unharmed.
+##
+
+-----Page4-----
+#Message#
+\C[3]This doll's already been selected.
+##
+
+
+**********Event11********** (nin2) (4,6)
+-----Page1-----
+#Message#
+\C[3]The doll sits limply in the chair.
+##
+
+-----Page3-----
+#Message#
+\C[3]Shoot the doll?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]The doll's head flew off.
+##
+
+#Message#
+\.\C[3]The doll was unharmed.
+##
+
+-----Page4-----
+#Message#
+\C[3]This doll's already been selected.
+##
+
+
+**********Event17********** (nin3) (8,6)
+-----Page1-----
+#Message#
+\C[3]The doll sits limply in the chair.
+##
+
+-----Page3-----
+#Message#
+\C[3]Shoot the doll?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]The doll's head flew off.
+##
+
+#Message#
+\.\C[3]The doll was unharmed.
+##
+
+-----Page4-----
+#Message#
+\C[3]This doll's already been selected.
+##
+
+
+**********Event18********** (nin4) (10,6)
+-----Page1-----
+#Message#
+\C[3]The doll sits limply in the chair.
+##
+
+-----Page3-----
+#Message#
+\C[3]Shoot the doll?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]The doll's head flew off.
+##
+
+#Message#
+\.\C[3]The doll was unharmed.
+##
+
+-----Page4-----
+#Message#
+\C[3]This doll's already been selected.
+##
+
+
+**********Event19********** (nin5) (12,6)
+-----Page1-----
+#Message#
+\C[3]The doll sits limply in the chair.
+##
+
+-----Page3-----
+#Message#
+\C[3]Shoot the doll?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]The doll's head flew off.
+##
+
+#Message#
+\.\C[3]The doll was unharmed.
+##
+
+-----Page4-----
+#Message#
+\C[3]This doll's already been selected.
+##
+
+
+**********Event23********** (ダーツ) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fancy dart.
+It's extremely solidly-made.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event24********** (シガーカッター) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar cutter.
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Event25********** (はまき) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar with high-quality wrapping.
+##
+
+
+**********Event26********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event27********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event28********** (ダミー団) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Dummy bullets. I have 6. If you pull the trigger
+with these, it'll only make a sound.
+##
+
+
+**********Event29********** (あたり) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Live bullets. I have 3.
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Event30********** (１０００) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A 1000-yen bill.
+Paper money usable in Japan.
+##
+

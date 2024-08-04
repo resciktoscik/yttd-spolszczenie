@@ -1,0 +1,603 @@
+**********Common391********** (交渉１ー夜　ギン)
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+"Big sis Sara! I'll give you 30 tokens, meow!
+ Let's play together, woof!"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+"I had an idea, meow!
+ I don't wanna trade tokens, but I thought of
+ how to use them meaningfully!"
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Whoever plays with me gets 30 tokens, wooooof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](So it's not a trade...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+{SE: Accent28-1}
+#Message#
+\."Woof! Let's play, meooow!"
+##
+
+{Sara}
+#Message#
+\."...I just have to play?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Yeah! For 30 tokens, I'm buying your time, meow!"
+##
+
+{Sara}
+#Message#
+\."Heehee... Then I better provide some serious fun!"
+##
+
+#Choice#
+Tag
+Swordfighting
+Meditation
+##
+
+<おにごっこ>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+{SE: flash-of-light-3}
+#Message#
+\."Let's play tag!"
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+{SE: Accent28-1}
+#Message#
+\."Woohoo!! I'm it, woof! Steel yourself, meow!"
+##
+
+{Sara}
+#Message#
+\."Heehee... Bring it on, Gin...!"
+##
+
+{Gin}
+{SE: Attack1}
+#Message#
+\."Wait, wait! Big sis Saraaa!!"
+##
+
+{Sara}
+{SE: Attack3}
+#Message#
+\."As if!!"
+##
+
+{Gin}
+{SE: Attack1}
+#Message#
+\."That way's a dead end, meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Say what...?! Is this a trap?!)
+##
+
+#Choice#
+Run at full speed
+Run at moderate speed
+##
+
+<全力で逃げる>
+
+{Sara} [Gin: Smile, hands in front / cara9-5]
+{SE: Thunder6}
+#Message#
+\."Haaaaah!!"
+##
+
+{Gin}
+{SE: feed1}
+#Message#
+\."Meooooow?! What an amazing leap, woof!!"
+##
+
+{Sara}
+{SE: Attack3}
+#Message#
+\."You've got a long way to go, Gin!!"
+##
+
+{Gin}
+#Message#
+\."That stinks, meow...!!"
+##
+
+#Message#
+\."That was fun, meowww!
+ You're too fast, big sis Sara! Woof!"
+##
+
+{Sara}
+#Message#
+\."Heehee... It was good exercise."
+##
+
+[Gin: Smile / cara9-2]
+{SE: Accent28-1}
+#Message#
+\."You were super cool, woof!
+ I'm gonna be a man just like big sis Sara, meow!"
+##
+
+#Message#
+\."Um...?
+ Right, do your best!"
+##
+
+<ほどほど逃げる>
+
+{Sara} [Gin: Smile / cara9-2]
+{SE: Attack2}
+#Message#
+\."I'll dodge you!!"
+##
+
+{Gin}
+{SE: flash-of-light-3}
+#Message#
+\."As if! You hesitated, woof!! Meooooowww!!"
+##
+
+{Sara}
+{SE: feed1}
+#Message#
+\."Shoot...!!"
+##
+
+{Gin}
+{SE: Explosion2}
+#Message#
+\."Caught you! Awooooo!!"
+##
+
+[Gin: Smile, hands in front / cara9-5]
+#Message#
+\."Hooray! I caught big sis Sara, meow!!"
+##
+
+{Sara}
+#Message#
+\."Not bad at all, Gin."
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Since I won, now you've gotta do
+ everything I say, meow!"
+##
+
+#Message#
+\."I-I didn't promise that!"
+##
+
+[Gin: Smile / cara9-2]
+#Message#
+\."Come to think of it, you didn't, meow."
+##
+
+#Message#
+\.\C[4](Close one...)
+##
+
+<Choice End>
+
+<チャンバラ>
+
+{Sara} [Gin: Smile / cara9-2]
+{SE: flash-of-light-3}
+#Message#
+\."Let's have a swordfight!"
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+{SE: Accent28-1}
+#Message#
+\."Yaaay!! We'll whack each other with big sticks, woof!"
+##
+
+{Sara}
+#Message#
+\."Hahaha... You shall learn how a kendo master
+ handles her blade... with your own body!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Big sis Sara, your eyes actually look
+ like a master fencer's, meow!!"
+##
+
+{SE: Attack1}
+#Message#
+\."Kneel before me, big sis Saraaaaa!!"
+##
+
+{Sara}
+{SE: Sword2}
+#Message#
+\."Too slow!!"
+##
+
+{Gin}
+#Message#
+\."What nasty stick-handling, meow!"
+##
+
+{Sara}
+{SE: Sword4}
+#Message#
+\."Hmm...? Is it over already...?"
+##
+
+{Gin}
+#Message#
+\."Gah! No openings at all, meow!"
+##
+
+{Sara}
+#Message#
+\."If you won't approach, then I must close the distance!
+ Sara Chidouin... cometh!"
+##
+
+{Gin}
+{SE: feed1}
+#Message#
+\."Grrr...! This is desperate, woof!!"
+##
+
+{SE: Damage4}
+#Message#
+\."Myeeeeeooooowww!!"
+##
+
+{Sara}
+#Message#
+\."Let us do battle...!"
+##
+
+{Gin}
+{SE: Skill2}
+#Message#
+"MEOOOOOOOOOOOOOOOW!!!!"
+##
+
+[Gin: Smile, hands in front / cara9-5]
+#Message#
+\."That was fun, woof!!
+ Your acting was amazing, meow!"
+##
+
+{Sara}
+#Message#
+\."Heehee... It's important to fully
+ assume the role for things like this."
+##
+
+#Message#
+\."You mustn't feel any shame, Gin."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: flash-of-light-3}
+#Message#
+\."Yes, master!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...I'm only worried that someone else was watching.)
+##
+
+<座禅>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+{SE: flash-of-light-3}
+#Message#
+\."Let's play meditation!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."You mean sitting still, meow?!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I don't wanna, woof! Even if that's your request,
+ meditation's the one thing I won't do, meow!!"
+##
+
+{Sara}
+#Message#
+\."No. We're doing meditation."
+##
+
+#Message#
+\."Absolutely..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Meditation."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Why are you so into meditation, meow?
+ You're scary, big sis Sara..."
+##
+
+{Sara}
+#Message#
+\."Well now... Gin."
+##
+
+{Gin}
+#Message#
+\."Mmm... don't talk to me, woof...
+ I'm concentrating, meow..."
+##
+
+{Sara}
+#Message#
+\."...Sorry, Gin..."
+##
+
+{Gin}
+#Message#
+\."..."
+##
+
+#Message#
+\."I think I'm about to hear it, meow..."
+##
+
+{Sara}
+#Message#
+\."Hear... enlightenment?"
+##
+
+{Gin}
+#Message#
+\."...Be quiet, meow..."
+##
+
+{Sara}
+#Message#
+\."...Sorry..."
+##
+
+#Message#
+\."..."
+##
+
+{Gin}
+#Message#
+\."..."
+##
+
+[Gin: Wolf / cara9-8]
+{SE: Accent21-1}
+#Message#
+\."Meditation is good indeed.
+ I feel as if I've gotten my feelings in order."
+##
+
+{Sara}
+#Message#
+\."Gin... You're looking a little strange..."
+##
+
+{Gin}
+#Message#
+\."Is that a fact? It would seem that perhaps
+ the meditation had no effect for you, sister Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't really want to see this Gin...)
+##
+
+#Message#
+\."...Want to eat some cake?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Huh?! You bet, meow! Yaaay!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Phew. Let's forget about that Gin...)
+##
+
+<Choice End>
+
+{N/A} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\.\C[3]Gin and I sat down.
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Big sis Sara... Are you tired, meow?"
+##
+
+{Sara}
+#Message#
+\."A little."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."It's fun being with you, meow!"
+##
+
+{Sara}
+#Message#
+\."...Heehee, thanks."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."That's why... I want you to accept my tokens, woof."
+##
+
+{Sara}
+#Message#
+\."You won't trade tokens, will you...?"
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."Yeah..."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Please, big sis Sara!
+ Accept them, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](There's no merit in refusing, but...)
+##
+
+#Choice#
+Accept
+Don't accept
+##
+
+<もらう>
+
+{N/A} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\C[3]Received 30 tokens from Gin.
+##
+
+{Sara}
+#Message#
+\."...Got it, Gin. You bought a fun time with me.
+ Let's say that was it."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Yeah!"
+##
+
+{Sara}
+#Message#
+\."But it's only a one-time payment.
+ I'll play with you for free next time, Gin."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: Accent28-1}
+#Message#
+\."Gotcha, woof!!
+ I'll play using big sis Sara, meooow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Did he misspeak, or...? Oh well.)
+##
+
+<もらわない>
+
+{Sara} [Gin: Smile / cara9-2]
+#Message#
+\."Sorry, Gin.
+ I just can't accept this."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Meow..."
+##
+
+{Sara}
+#Message#
+\."I don't want your time playing with me
+ to be mixed up with things like money, for one."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\."...Or do you want me to stop playing with you
+ when you run out of tokens, Gin?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+#Message#
+\."No... I wanna play, meow!"
+##
+
+{Sara}
+#Message#
+\."That's good.
+ Then let's forget about this silly deal."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Big sis Sara...! Got it, meow!"
+##
+
+<Choice End>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\C[4](Well... That's it for negotiations.)
+##
+

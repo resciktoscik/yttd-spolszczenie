@@ -1,0 +1,448 @@
+**********Common802********** (⑯進展●名前が無い)
+{Sara} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent28-1}
+#Message#
+\."Sou...
+ What did you just say?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Huh? That there are four people's names missing..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+\."...Meow?
+ Kai, Sou, Kugie, Joe, and Nao aren't listed, so..."
+##
+
+[Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Huh? That's five, woof."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."...!"
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."H-Huh...?
+ I guess I rushed and miscounted... Sorry."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."H-Hey, do we really need to worry
+ about little mistakes right now?"
+##
+
+{Sara}
+#Message#
+\."That mistake isn't just a trivial issue."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why did Sou get it wrong? That's what's important."
+##
+
+#Message#
+\."Gashu, tell us how many participants
+ were dragged into the Death Game."
+##
+
+{Gashu} [Gashu: Raised eyebrow / cara16-3]
+{SE: Accent21-1}
+#Message#
+\."...That would be 20."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."There are 16 listed on the roster."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Plus 5 who aren't listed...
+ Doesn't that add up to 21?!"
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Sara, this ain't the time to be poking at
+ little mistakes like that, awright?!"
+##
+
+{Sara}
+#Message#
+\."No... That mistake wasn't just a trivial issue."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why did Sou get it wrong? That's what's important."
+##
+
+#Message#
+\."Gashu, tell us how many participants
+ were dragged into the Death Game."
+##
+
+{Gashu} [Gashu: Raised eyebrow / cara16-3]
+#Message#
+\."...That would be 20."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."There are 16 listed on the roster."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."If we add an unlisted 5...
+ Doesn't that come to 21 people?!"
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."One too many?!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."What's that mean, meow?!
+ There were exactly 20 names on the blackboard, woof!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Well then, let's compare the names on
+ the paper roster with those on the blackboard...!"
+##
+
+#Message#
+"The blackboard names were like this..."
+##
+
+#Message#
+\."First, the five not listed on the roster
+ are \C[2]Kai, Sou, Kugie, Joe, and Nao\C[0]!"
+##
+
+#Message#
+\."Let's remove those five...!"
+##
+
+#Message#
+\."On the first sheet..."
+##
+
+#Message#
+\."All four names are present...!"
+##
+
+#Message#
+\."The second sheet..."
+##
+
+#Message#
+\."Similarly, all four names are here!"
+##
+
+#Message#
+\."The third sheet..."
+##
+
+#Message#
+\."This one, too...!"
+##
+
+#Message#
+\."And the fourth sheet..."
+##
+
+{Gin}
+{SE: Accent28-1}
+#Message#
+"Huh...?!"
+##
+
+#Message#
+\."Shin Tsukimi...?
+ That's the only person not on the blackboard, meow!!"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\C[4](We've derived a 21st person...!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"So who the hell is this...?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"What's going ooooon?!
+ Just who is this person...?!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](Who is Shin Tsukimi...?)
+##
+
+#Choice#
+An unseen survivor
+A participant who died unknown
+One of us
+##
+
+<まだ見ぬ生存者>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent21-1}
+#Message#
+\.\C[4](A survivor who we haven't met yet?)
+##
+
+#Message#
+\.\C[4](No... Surely someone who didn't participate
+ in the Main Game would have been killed.)
+##
+
+#Message#
+\.\C[4](I'll think it over again...)
+##
+
+<人知れず死んだ参加者>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Were they just... a participant
+ who died in the First Trial after all?)
+##
+
+#Message#
+\.\C[4](No, but then what's the reason
+ for their name not being on the blackboard?)
+##
+
+#Message#
+\.\C[4](The names of all the other dead participants
+ were written on the board.)
+##
+
+#Message#
+\.\C[4](I feel like I'm reasoning wrong...
+ I'll think it over again.)
+##
+
+<仲間の内の誰か>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent28-1}
+#Message#
+\.\C[4](Is it one of us...?)
+##
+
+#Message#
+\.\C[4](Okay, let's calm down...
+ What does that mean, exactly?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](...An alias?)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](If someone is using an alias...!)
+##
+
+#Message#
+\."I see..."
+##
+
+<Choice End>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Shin Tsukimi... is one of us...!!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."And they rewrote their alias on the blackboard!!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."No way...?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Aha..."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Interesting... If we follow that logic..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: sceneswitch2}
+#Message#
+\."Shin Tsukimi... has already been identified."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Say whaaaaat?!"
+##
+
+<Else>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."What'd you saaaaay?!"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sara, let's work this out."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If all the names on the paper roster are real,
+ there's someone whose real name hasn't been revealed."
+##
+
+#Choice#
+Someone not on the roster
+Someone not on the blackboard
+Me
+##
+
+<名簿に名前が載ってない人達>
+
+<黒板に名前が載ってない人達>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+"Is it someone not on the blackboard...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Nope, wrong.
+ You tired, Sara?"
+##
+
+<私>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Thunder10}
+#Message#
+\."MY real name... is Shin Tsukimi!!"
+##
+
+#Message#
+\.\C[4](...Let's just suppress my urge to say that.)
+##
+
+<Choice End>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Thunder10}
+#Message#
+\."It's one of the people not on the paper roster.
+ \C[2]Kai, Sou, Kugie, Joe, or Nao\C[0]...!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."Right you are."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Awright... Let's discuss \C[2]those five's names\C[0]!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"This is my real name!! Professor Mishima
+ always called me "miss Nao," remember?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"I'm using my real name too.
+ It was written there at the Prize Exchange, right?"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Kugie... is the name of Kanna's sister...!"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"If big bro Joe was using a fake name,
+ big sis Sara would figure out right away, meow!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"Kai's name was on his laptop.
+ Based on the email logs, should be his real one!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"If you want to check the roster,
+ come tell Mr. Policeman anytime."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

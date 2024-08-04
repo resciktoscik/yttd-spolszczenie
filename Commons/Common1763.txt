@@ -1,0 +1,80 @@
+**********Common1763********** (●ﾚｺ「概要」)
+{Reko}
+#Message#
+"Between the seven - the Dummies and \N[4] -
+ there's one \C[2]human\C[0] mixed in...!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+"Sara! Think about it some more!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"W-What?! What do you mean by that?!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent21-1}
+#Message#
+"According to the Coffin Control System, there's a
+ color code: \C[12]blue: human, \C[10]red: doll, \C[6]yellow: vacant\C[0]!"
+##
+
+[Reko: Fists out, angry sad eyes / cara6-38]
+#Message#
+\."And \C[12]Blue 1, \C[10]Red 6, \C[6]Yellow 0\C[0]...
+ If that's what was in the coffins at game start..."
+##
+
+[Reko: Fists out, angry eyes, mouth open / cara6-40]
+{SE: Accent28-1}
+#Message#
+\."No mistakin' it... There's one \C[12]human\C[0] mixed in!"
+##
+

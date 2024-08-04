@@ -1,0 +1,208 @@
+=====Map66===== (Dream: School)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Joe}
+#Message#
+"Hey... Sara... Sara..."
+##
+
+{Sara}
+#Message#
+\."...What, Joe? Face forward, we're in class."
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+{SE: flash-of-light-3}
+#Message#
+\."I heard they opened as a super good kebab place!
+ Let's go there on the way home, I'll treat ya!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Okay, fine!
+\! ...You're so loud. Now's not the time to talk."
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."Oh, and hey, in exchange..."
+##
+
+{Sara}
+#Message#
+\."...I get it. I'll bring Ryoko too."
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Huh, for real?!
+\! ...No, that's not what I meant!"
+##
+
+{Sara}
+#Message#
+\."Seriously, quiet...!! What are you trying to say?"
+##
+
+{Joe} [Joe: Upset groan (no collar) / cara1-6]
+#Message#
+\."...Please show me your homework, Madam Sara..."
+##
+
+{Sara}
+#Message#
+\."W... We're in class, remember?
+ Of course I'm not going to lend it to you."
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."Just for a second!! I'm fast at copying!"
+##
+
+{Sara}
+#Message#
+\."That's not a skill deserving praise..."
+##
+
+#Message#
+\."Sorry, but I can't. It's called homework.
+ Your fault for not doing it at home."
+##
+
+{Joe} [Joe: Upset groan (no collar) / cara1-6]
+#Message#
+\."Urgh... You're right, but...!"
+##
+
+#Message#
+\."Do homework at home... C'mon, maaan..."
+##
+
+[Joe: Serious look (no collar) / cara1-4]
+#Message#
+\."And besides, I'm dead."\.
+##
+
+{Sara}
+#Message#
+\."...Huh...?"
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."I died 'cause you questioned me, you know."
+##
+
+#Message#
+\."Don't you feel any responsibility?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Serious look (no collar) / cara1-4]
+#Message#
+\."And I suffered a long time 'cause of you too, right?"
+##
+
+#Message#
+\."You got anything to say to that?"
+##
+
+{Sara}
+#Message#
+\."I... I..."
+##
+
+#Choice#
+Sorry...
+..........
+##
+
+<ごめん…>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."Hahaha, what're you sorry for?"
+##
+
+<………>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."Hahaha! No reason to clam up."
+##
+
+<Choice End>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+{SE: shock1}
+#Message#
+\.\C[10]"You damn murderer!"
+##
+
+{Sara}
+#Message#
+\."...No...! I...!!"
+##
+
+#Message#
+\."I... just had to move forward...!!"
+##
+
+[Joe: Hallucination (shadowy face) / cara1-24]
+#Message#
+\."I did... the most I could...!"
+##
+
+{Joe}
+#Message#
+\.\C[10]"And this is how it turned out?"
+##
+
+{Sara}
+#Message#
+\."I protected everyone...! I did...!!"
+##
+
+{Joe}
+#Message#
+\.\C[10]"But I died.\! Kai died, too."
+##
+
+{Sara}
+#Message#
+\."But... but...!!"
+##
+
+#Message#
+\."Just stop it already, Joe!!"
+##
+
+#Message#
+\."Please... please...!!"
+##
+
+{Joe}
+#Message#
+\.\C[10]"You wanna look away?"
+##
+
+{N/A}
+#Message#
+\>         \{\{\C[10]LOOK ME IN THE EYE...\<\|\.\.\^
+##
+
+{Sara}
+{SE: shock1}
+#Message#
+\."WAAAAAAAAAAaaaaaahhhhh...!!!!"
+##
+

@@ -1,0 +1,142 @@
+**********Common826********** (⑱進展●「候補者」)
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\.\C[4](Hang on...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](What's this about \C[2]candidates\C[4]...?)
+##
+
+#Message#
+\.\C[4](Are participants and candidates... really the same?)
+##
+
+#Message#
+\.\C[4](The participants... those are the 20 people
+ who were brought into this Death Game.)
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\C[4](Then... what are the "candidates"
+ the Floor Master spoke of...?)
+##
+
+#Choice#
+Those left in the final vote
+Those "qualified to win"
+##
+
+<決選投票に残った者>
+
+{Sara} [Gashu: Default / cara16-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Aren't the people who advance
+ to the final vote "candidates"...?)
+##
+
+#Message#
+\.\C[4](No... Sure, we choose candidates
+ for who will become the victim...)
+##
+
+#Message#
+\.\C[4](But this is something different!)
+##
+
+<『優勝する資格』がある者>
+
+<Choice End>
+
+{Sara} [Gashu: Default / cara16-1]
+{SE: sceneswitch2}
+#Message#
+\.\C[4](It's those with the qualifications, the right...
+ \C[2]those who fulfill the conditions\C[4]
+ to be the ultimate winner!)
+##
+
+#Message#
+\.\C[4](And with that in mind...)
+##
+
+#Message#
+\.\C[4](If Gashu, who swears loyalty to the organization,
+ were to make a transgression...)
+##
+
+#Choice#
+He'd try to kill a "candidate"
+He'd try to kill a "non-candidate"
+##
+
+<『候補者』を殺そうとした>
+
+{Sara} [Gashu: Default / cara16-1]
+{SE: Accent21-1}
+#Message#
+\C[4](Did he try to kill a "candidate"...?)
+##
+
+#Message#
+\.\C[4](Wrong! That would be defying the organization!)
+##
+
+<『候補者以外』を殺そうとした>
+
+<Choice End>
+
+{Sara} [Gashu: Default / cara16-1]
+#Message#
+\C[4](What if...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](There was one of us who didn't have
+ the right to victory... a \C[2]non-candidate\C[4]?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Gashu would try to kill them...!)
+##
+
+{SE: shock1}
+#Message#
+\.\C[4](That's why he tampered with the \C[10]Sacrifice\C[4]!!)
+##
+
+#Message#
+\.\C[4](I should know it now...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Who here... is \C[2]not a candidate\C[4]...!!)\.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[5]Please select the \C[2]non-candidate\C[5].
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

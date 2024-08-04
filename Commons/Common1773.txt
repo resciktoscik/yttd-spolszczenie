@@ -1,0 +1,73 @@
+**********Common1773********** (・ｱﾝｽﾞ「無自覚？」)
+{Anzu}
+#Message#
+"Hey, hey! Do you think there's cases where
+ someone doesn't even realize they're human?!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"Whatcha mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"Whatcha mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"It's possible they wouldn't be aware, right?!"
+##
+
+[Anzu: Smile / cara96-6]
+{SE: flash-of-light-3}
+#Message#
+\."And I'm no exception!
+ Maybe I could be a human?!"
+##
+

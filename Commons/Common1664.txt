@@ -1,0 +1,67 @@
+**********Common1664********** (◆ﾊﾔｻｶ「追いココア」)
+{Hayasaka}
+#Message#
+"There must be some meaning to them being painted
+ in the first place..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Mouth open / cara94-2]
+#Message#
+"I mean, so long as they aren't lit by the lantern,
+ their color isn't even any different."
+##
+

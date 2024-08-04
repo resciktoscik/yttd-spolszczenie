@@ -1,0 +1,278 @@
+=====Map210===== (★Battle Library)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+{SE: sceneswitch2}
+#Message#
+"A... A book's attacking us?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Gahhh! And it's so noisy in here! What the hell!!"
+##
+
+<Else>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"Argh, geez! And this noisy room too?!
+ What in the world!!"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."It's okay... It's just a book.
+ Let's calmly deal with it and chase \N[4]."
+##
+
+{Sara}
+#Message#
+\C[4](For now, we need to focus on
+ the Obstructor in front of us...!)
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+
+**********Event4********** (EV004) (3,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The book is floating in midair.
+##
+
+#Message#
+\C[3]The book is making rustling sounds.
+##
+
+#Message#
+\.\C[3]The book began to circle through the air.
+##
+
+#Message#
+\C[3]Another book started floating.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"T... They're multiplyin'?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"H-Hey...! They're multiplying!"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."I see... Now this is a pickle."
+##
+
+{N/A}
+#Message#
+\C[3]The books are noisily clacking their teeth.
+##
+
+#Message#
+\.\C[3]The books began to circle through the air.
+##
+
+#Message#
+\C[3]Yet another book started floating.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+"They keep on multiplying...!!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"Don't tell me all the books in this room
+ could become enemies... No way, right?"
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]The books are flying around as if to show off.
+##
+
+#Message#
+\.\C[3]The books all went to attack \C[2]Hayasaka\C[3]!
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+"W... Why is it always me?!"
+##
+
+{N/A}
+{SE: Evasion1}
+#Message#
+\C[3]Hayasaka quickly hid in a bookshelf to escape danger.
+##
+
+#Message#
+\C[3]The books are flapping around like birds.
+##
+
+#Message#
+\.\C[3]The books began to circle through the air.
+##
+
+#Message#
+\C[3]Yet another book started floating.
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Guh...!
+ How are we gonna handle this fighting 'em head-on?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."What annoying books, meow! Come down and
+ fight muscle gorilla fair and square, meow!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."That'd be its own can of worms...!!"
+##
+
+{N/A}
+#Message#
+\C[3]The books are slowly floating around
+as if to survey their surroundings.
+##
+
+#Message#
+\.\C[3]The books began to circle through the air.
+##
+
+#Message#
+\C[3]Yet another book started floating.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Doesn't feel like we can win this with sheer force..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."This is a library...
+ Maybe we should respect good manners."
+##
+
+{N/A}
+#Message#
+\C[3]The books are floating around quietly,
+looking at one another.
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+"That's some strange movement...
+ Doesn't this seem bad?"
+##
+
+{Sara}
+#Message#
+\.\C[4](The red parts of the monster are electrified!
+ We should only touch the armor...!)
+##
+
+#Message#
+\.\C[4](The monster doesn't feel pain!
+ If we want to use the torch, we'll have to
+ grab its attention or immobilize it...!)
+##
+
+#Message#
+\.\C[4](The red thing on its chest...
+ What exactly is that? A weak point...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The books are looking menacingly at Hayasaka.
+##
+
+#Message#
+\C[3]The monster is being held down.
+##
+
+#Message#
+\C[3]The monster is defenselessly trying to get up.
+##
+
+
+**********Event5********** (目覚まし時計) (2,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Alarm Clock]
+A clock making a very annoying noise
+so as to wake you up from any sleep.
+##
+
+
+**********Event6********** (スマホアラーム) (1,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Smartphone Alarm]
+The screen says "Alarm."
+It keeps making noise every so often at a high volume.
+##
+
+
+**********Event7********** (手持ち花火) (3,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Handheld Firework]
+Unlike the kind sold in shops, it's profoundly heavy.
+It'd probably makes huge sparks if lit.
+##
+

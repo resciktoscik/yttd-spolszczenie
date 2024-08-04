@@ -1,0 +1,277 @@
+**********Common156********** (どうかつ)
+{Sara}
+#Message#
+\C[4](I need to be forceful...!)
+##
+
+#Choice#
+Threaten hotly and emotionally
+Threaten coolly and logically
+Cancel
+##
+
+<熱血に感情的に恫喝>
+
+{Man in Stripes}
+#Message#
+\."H-Hey... Didn't I say I'd talk?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He got mad at me...)
+##
+
+#Message#
+"This conversation isn't getting anywhere!!
+ Please, say something!!"
+##
+
+{Man in Stripes} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Hyah! So hot-tempered all of a sudden!!
+ You just want me to talk, right?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Seems he's willing to talk now...!)
+##
+
+#Message#
+"Unless you want to be punched by Q-taro,
+ please, tell me everything!!"
+##
+
+{Gonbee} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."I absolutely won't submit to violence...
+ So don't even bother. All right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](So that kind of threat won't work...)
+##
+
+#Message#
+"This is going nowhere!!
+ If you don't answer me properly,
+ I'll do something terrible to you!!"
+##
+
+{Gonbee} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Oogh...! Something terrible...?!"
+##
+
+{Sara}
+#Message#
+\."I'll do... this!!"
+##
+
+{Gonbee} [Alice: Confused shout, grim look / cara11-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do what...?!? Don't tell me...
+ You'll sh... shoot...!!"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Hold on!! Haste makes waste, y'know?!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...Hmph. I'll tell you. What you wish to know."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Alright! I think I can finally ask him!)
+##
+
+{Gonbee}
+#Message#
+\."Something terrible...?
+ Do you really have the guts?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Maybe I lack the intimidation for this...)
+##
+
+{Gonbee}
+#Message#
+\."Something terrible...?
+ Do you really have the guts?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Maybe I lack the intimidation for this...)
+##
+
+{Gonbee}
+#Message#
+\."Something terrible...?
+ Do you really have the guts?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Maybe I lack the intimidation for this...)
+##
+
+<冷静に理論的に恫喝>
+
+{Man in Stripes} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."H-Hey... Didn't I say I'd talk?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He got mad at me...)
+##
+
+#Message#
+"If you refuse to even talk...
+ I have no obligation to untie you."
+##
+
+{Man in Stripes}
+#Message#
+\."W... Wait...!
+ They're really chafing me! These ropes...!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."I get it... I'll tell you a little..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems he's willing to talk now...!)
+##
+
+#Message#
+"You want your ropes untied, right?
+ You know what I'm trying to say, don't you?"
+##
+
+{Gonbee}
+#Message#
+\."Hmph... A threat?
+ I thought you meant no hostility?"
+##
+
+{Sara}
+#Message#
+\."Flip your thinking.
+ If our positions were swapped, Gonbee,
+ do you think you'd untie me?"
+##
+
+{Gonbee} [Alice: Surprised face / cara11-2]
+#Message#
+\."..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+{SE: Accent21-1}
+#Message#
+\."...Very well.
+ I suppose I can tell you a little more..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Surprisingly, he seems to recognize he's dubious.
+ I'm glad he feels like talking...!)
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."I'm afraid I don't!
+ What kind of attitude is that?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Gah... I need to weaken him a little more...)
+##
+
+{Gonbee}
+#Message#
+\."I'm afraid I don't!
+ What kind of attitude is that?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Gah... I need to weaken him a little more...)
+##
+
+#Message#
+"You've talked some, but if you won't tell me
+ the important parts, I can't untie you. Too bad."
+##
+
+{Gonbee}
+#Message#
+\."Grrrrrrrrrrrrrrrh...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He sure can roll his R's...)
+##
+
+{Gonbee}
+#Message#
+\."Gah... Surely I've answered
+ at least a few of your questions!"
+##
+
+{Sara}
+#Message#
+\."Then I'll cut just a little bit off your ropes."
+##
+
+{Gonbee} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."What's the point if they're not untied?!?!"
+##
+
+[Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."...Grrrrrrrrrrh."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's starting to show signs of talking...)
+##
+
+{Gonbee} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."Awful...!! Then just do what you please!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't make him too angry.)
+##
+
+<やめる>
+
+<Choice End>
+

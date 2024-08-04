@@ -1,0 +1,13 @@
+=====Map63===== (Chapter 2 OP)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+#Message#
+Touch a character to review
+each person's actions prior to Chapter 2.
+##
+
+#Message#
+\.Touch \C[2]EXIT\C[0] to begin the story.
+##
+

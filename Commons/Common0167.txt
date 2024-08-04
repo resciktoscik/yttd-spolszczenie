@@ -1,0 +1,134 @@
+**********Common167********** (ｺﾞﾝﾍﾞｴ「武器独占ね！」)
+{Gonbee}
+#Message#
+"Sara Chidouin! You possess all that can be
+ called a weapon in this place, and stand supreme!
+ You're an accursed dictator!"
+##
+
+#Message#
+"I found it suspicious from the word go...
+ How a mere high school girl became a leader."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gonbee} [Alice: Angry shout / cara11-8]
+#Message#
+"And what about that?! What's it matter?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Gonbee}
+#Message#
+"And what about that?! What's it matter?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+#Message#
+\."Sara Chidouin!
+ I will not be shaken on your suspiciousness!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh... This guy...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Hmph... Can't refute it, can you...?"
+##
+
+{SE: Accent28-1}
+#Message#
+"I've even seen through to the reason
+ why the others have submitted to you."
+##
+
+{Sara}
+#Message#
+\."What do you mean by that...?!"
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."You alone have a weapon...
+ The only one!"
+##
+
+{Sara}
+#Message#
+\."A... weapon?"
+##
+
+{Gonbee}
+{SE: Thunder8}
+#Message#
+\."That's right! You possess all that can be
+ called a weapon in this place, and stand supreme!
+ You're an accursed dictator!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](I drew out a new statement...
+ If I can refute it, even Gonbee should quiet down!)
+##
+

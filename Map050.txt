@@ -1,0 +1,295 @@
+=====Map50===== (Stone Room)
+
+**********Event1********** (gin) (8,6)
+-----Page4-----
+{N/A}
+#Message#
+\C[3]The cage is firmly embedded in the floor.
+##
+
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Gin!!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"B... Big sis Sara..."
+##
+
+#Message#
+\."Help, meow...! I was looking for big sis Nao..."
+##
+
+{Sara}
+#Message#
+\."An iron cage! How can we...?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Ahh... I wouldn't go touching that."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Eee... ahh... big sis Saraaa!!"
+##
+
+{Sara}
+#Message#
+\."Gin!!"
+##
+
+{Gin}
+#Message#
+\."It's sinking lower and lower, meow..."
+##
+
+#Message#
+\."No, woof! I'm scaaared...!!"
+##
+
+#Message#
+\."Help me, big sis Sara!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Think! I have to think...!)
+##
+
+#Choice#
+Lift up the cage together
+Destroy the cage
+Don't touch it and withdraw
+##
+
+<二人で檻を持ち上げる>
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+"Keiji! Please, hold the other side!!"
+##
+
+<檻を破壊する>
+
+{N/A} [Gin: Horrified look / cara9-4]
+#Message#
+\.\C[3]I pulled the trigger on the revolver
+before I could think, but no bullets came out.
+##
+
+<手を触れず　引き下がる>
+
+{N/A} [Gin: Horrified look / cara9-4]
+#Message#
+\.\C[4](We can't do anything about the cage...!)
+##
+
+<Cancel>
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Get me out of heeere!!"
+##
+
+{Sara}
+#Message#
+\."Gin!!"
+##
+
+{N/A}
+#Message#
+\C[3]The cage stopped, completely buried in the ground.
+##
+
+{Sara}
+#Message#
+\."Ahhh... Gin...!!"
+##
+
+#Message#
+\.\C[4](It's not budging...)
+##
+
+#Message#
+\.\C[4](What should I...)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...There, maybe?"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Keiji}
+#Message#
+\."Yep, it's a ladder."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."This way, Sara."
+##
+
+
+**********Event3********** (hasigo) (10,4)
+-----Page1-----
+#Message#
+\C[3]A ladder leading down.
+##
+
+
+**********Event4********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event5********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event6********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event8********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event9********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event10********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event11********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event12********** (EV012) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event13********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event14********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event15********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event16********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event17********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event28********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

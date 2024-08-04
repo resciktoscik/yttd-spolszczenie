@@ -1,0 +1,64 @@
+**********Common840********** (★死Q.ﾚｺ.ｶﾝﾅ.)
+{Ranger}
+#Message#
+"Did \C[2]Reko Yabusame\C[0] die?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Ranger}
+#Message#
+"Correctamundo! Good for you!"
+##
+
+<いいえ>
+
+<Choice End>
+
+{Weird Guy}
+#Message#
+"Was \C[2]Reko Yabusame\C[0] the victim?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Weird Guy}
+#Message#
+"Ding-ding-ding! Correct!"
+##
+
+<いいえ>
+
+<Choice End>
+
+{Weird Guy}
+#Message#
+"Was \C[2]Kanna Kizuchi\C[0] the victim?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Weird Guy}
+#Message#
+"Ohh! Correct again! That's two in a row!"
+##
+
+<いいえ>
+
+<Choice End>
+

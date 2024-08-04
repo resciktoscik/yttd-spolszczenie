@@ -1,0 +1,885 @@
+=====Map201===== (⑤Office)
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Hayasaka} [Hayasaka: Hand in front, mouth open / cara94-5]
+#Message#
+\."Oogh...?!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."What? Guessin' Hayasaka's
+ the one finding it familiar this time?"
+##
+
+
+**********Event4********** (kozin) (9,5)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Only this computer is turned on.
+##
+
+{Hayasaka} [Hayasaka: Mouth open / cara94-2]
+{SE: sceneswitch2}
+#Message#
+\."T-This desktop...!
+ Maybe there's... some sort of information..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I looked at the screen,
+and saw an image being displayed.
+##
+
+{Sara}
+#Message#
+\."I-Isn't this a picture of me?!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+{SE: sceneswitch2}
+#Message#
+\."T-That's...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: sceneswitch2}
+#Message#
+\."What the...? There's height, there's weight...
+ And some other numbers I don't get..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: sceneswitch2}
+#Message#
+\."What is this? Height, weight...
+ Everything from blood composition to allergies!"
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+{SE: sceneswitch2}
+#Message#
+\."It's almost like a physical exam...!"
+##
+
+<Else>
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: sceneswitch2}
+#Message#
+\."It's like a physical exam or something..."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."Um...! Can we stop looking at that for now?!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hayasaka... He knows about this!)
+##
+
+#Choice#
+Press him
+Calmly question him
+##
+
+<問い詰める>
+
+{Sara} [Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+#Message#
+"Hayasaka! What's the meaning of this?!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, mouth open, sweating / cara94-12]
+#Message#
+\."H-Hold on!
+ I didn't research this because I wanted to...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Is this your computer?!
+ What's your aim, you damn pervert?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hoh... So it really was information you researched..."
+##
+
+<Condition End>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."A-Ah, shoot...!"
+##
+
+<冷静に聞き出す>
+
+{Sara} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Hayasaka, please tell me.
+ What is this?"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+#Message#
+\."Urgh... Well, it's, um..."
+##
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+{SE: Accent21-1}
+#Message#
+\."I-I'll confess..."
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."The company I work for deals in
+ medical machinery and information, and..."
+##
+
+[Hayasaka: Hand sticking out, eyes closed, teeth clenched / cara94-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Because of that job...
+ I got to know a man from Asunaro."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."...?!"
+##
+
+{Hayasaka} [Hayasaka: Mouth open, glancing to side / cara94-3]
+#Message#
+\."On the surface, Asunaro is an upstanding company
+ that does clean research..."
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent21-1}
+#Message#
+\."But I learned that it has another face."
+##
+
+{Sara}
+#Message#
+\."Another face...?"
+##
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."They're connected to shady businesses,
+ and produce illegal medicines...
+ Things of that nature..."
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."I even heard rumor that among those
+ were illegal drugs and euthanizing medicines..."
+##
+
+[Hayasaka: Teeth clenched / cara94-10]
+#Message#
+\."I also heard about...
+ inhumane research that wasn't to be spoken of..."
+##
+
+[Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+{SE: Accent28-1}
+#Message#
+\."Thinking about it now,
+ that was probably research into reproducing humans..."
+##
+
+{Sara}
+#Message#
+\."And so you just gave them my information...?!"
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."..."
+##
+
+#Message#
+\."Not... just yours."
+##
+
+[Hayasaka: Eyes wide, mouth open, sweating / cara94-12]
+{SE: sceneswitch2}
+#Message#
+\."I was told... to get information on everyone...!"
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, shouting / cara95-14]
+#Message#
+\."Bastard!! Don't tell me that covers us too?!"
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."I didn't know...!
+ I had no idea what they'd do to me if I resisted!"
+##
+
+[Hayasaka: Teeth clenched / cara94-10]
+#Message#
+\."Their power is too immense...
+ It's hardly even an exaggeration to say
+ they control the dark side of society..."
+##
+
+{Kurumada} [Kurumada: Angry, clenched teeth / cara95-9]
+#Message#
+\."Shaddup...! What'd you use this data for?!
+ Depending on your answer, I may just have to
+ kick your ass right here!!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+#Message#
+\."Eek...!"
+##
+
+{Sara}
+#Message#
+\."S-Stop..."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+\."Mm... What're you doing, meow...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+{SE: Accent21-1}
+#Message#
+\."Gin..."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Why am I being carried around, woof?!
+ Meooow! Let me down, suit-and-specs!!"
+##
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+#Message#
+\."A-Ahh... Sorry...!"
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Equip2}
+#Message#
+\.".........."
+##
+
+[Gin: Smile / cara9-2]
+{SE: Accent28-1}
+#Message#
+\."Good for you, suit-and-specs!
+ You stopped the ceiling trap, meow?"
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Eh...?
+ Ahh... ermm..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."We were able to stop it thanks to you, Gin."
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."I knew it, meow!
+ You should be grateful, woof!"
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Th-Thanks, Gin..."
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, clenched teeth, sweating / cara95-13]
+#Message#
+\."Tch! Took the wind outta my sails..."
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."I've been saved... Haha..."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."I'm the leader, meow! It's only natural, woof!"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Yer a big man, Gin!
+ C'mere and show me that wound."
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Come to think of it, my head kinda hurts, meow!
+ Do something, muscle gorilla!"
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."Whew...
+ I was nearly scrapped by my allies there..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."All thanks to Gin.
+ He seems fond of you."
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Is he really?
+ Even though he calls me "suit-and-specs"...?"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: Accent28-1}
+#Message#
+\."Yeah... Maybe because of that, in fact."
+##
+
+{Hayasaka} [Hayasaka: Mouth open, glancing to side / cara94-3]
+#Message#
+\."...?"
+##
+
+{Keiji} [Keiji: Left arm down, default smile / cara2-10]
+{SE: sceneswitch2}
+#Message#
+\."When we first got here...
+ There was someone else in a suit and glasses."
+##
+
+#Message#
+\."That was Professor Mishima."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."It wasn't for long, but Gin and him acted together."
+##
+
+{Hayasaka}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But he died...?"
+##
+
+{Keiji}
+#Message#
+\."Yep. Killed with his collar..."
+##
+
+{Hayasaka}
+#Message#
+\."...!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: horror_piano chord3}
+#Message#
+\."Still not sure where his head is, even now."
+##
+
+{Hayasaka}
+#Message#
+\."O-Oh dear..."
+##
+
+{Keiji}
+#Message#
+\."Think of it from Gin's perspective.
+ It was the first time he'd seen a person
+ he had conversations with die before his eyes."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+{SE: Accent21-1}
+#Message#
+\."..."Couldn't he have been saved?"
+ Maybe he had regrets like that..."
+##
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+#Message#
+\."..."
+##
+
+[Hayasaka: Mouth open / cara94-2]
+#Message#
+\."Is Gin associating me with him...?"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And that's why he tried to protect me..."
+##
+
+{Keiji} [Keiji: Left arm down, frown / cara2-11]
+#Message#
+\."Maybe so."
+##
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched / cara94-9]
+#Message#
+\."What an idiot... He nearly died over that,
+ for the sake of someone he barely even knows...?!"
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."When I'm not even human anymore...!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."Wahaha... Doesn't seem that part matters to Gin."
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Let's go... You don't wanna get separated."
+##
+
+{Hayasaka} [Hayasaka: Mouth open / cara94-2]
+#Message#
+\."Yeah..."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Only this computer is turned on.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+#Message#
+\.\C[4](Urgh... I at least want to hide this screen...)
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."If you're hoping for some hacking, it's futile."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."And I'm not saying that just to be mean.
+ ...It's well-protected."
+##
+
+<Condition End>
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Personal information is displayed on the screen.
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh... I at least want to hide this screen...)
+##
+
+
+**********Event8********** (kuroPC) (6,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The computer screen is blank.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's not powered on...)
+##
+
+
+**********Event25********** (howabo) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A whiteboard.
+##
+
+{Sara}
+#Message#
+\.\C[4](No clues here...)
+##
+
+
+**********Event35********** (kusuri) (4,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The shelves are full of documents and medical supplies.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The shelves are full of documents and medical supplies.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."There really are medical supplies here...!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"Whew, that's good...
+ Let's take anything that might be useful."
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."I'll help, meow!"
+##
+
+<Else>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+"Let's take all of this!
+ We have to treat Q-taro quickly!"
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+{SE: Accent09-1}
+#Message#
+\."I'll take some protein too, meow!
+ It's muscle gorilla's favorite, woof!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+{SE: button17}
+#Message#
+\C[3]Obtained a First-Aid Kit.
+##
+
+
+**********Event52********** (kihon) (4,6)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A yellow book.
+##
+
+#Message#
+\.\C[3]On the back, it says "Please return on time."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A yellow book.
+##
+
+#Message#
+\.\C[3]On the back, it says "Please return on time."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Seems this book was borrowed from the library...)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\C[3]Obtained a Yellow Book.
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent28-1}
+#Message#
+"Ahh... It's summarizing that physical exam stuff
+ that was on the computer."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+
+**********Event65********** (hayasaka-EV) (7,12)
+-----Page1-----
+{Hayasaka} [Hayasaka: Mouth open, glancing to side / cara94-3]
+#Message#
+"Ohh... This computer turns on too, huh?"
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+{SE: Accent21-1}
+#Message#
+"Want to use the ID card to view the data on this?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"Hayasaka... You aren't with Gin?"
+##
+
+{Hayasaka}
+#Message#
+\."Ah... y-yeah.
+ He's a capable kid. Me being around is just..."
+##
+
+[Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Oh... but never mind that, look at this.
+ I found the power cord for this computer."
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If you use that ID card you have,
+ you should be able to see what's on it..."
+##
+
+#Message#
+\.\C[4](Hmm...)
+##
+
+#Choice#
+Use ID card
+No thanks
+##
+
+<IDカードを使う>
+
+{N/A} [Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: Accent40-1}
+#Message#
+\C[3]Inserted the ID card.
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Oh...! Something came up!"
+##
+
+{N/A}
+#Message#
+\C[3]The screen says "Recruitment List."
+##
+
+{Recruitment List}
+#Message#
+\.\C[6]Report. We've located two promising choices
+who meet Gashu's requirements.
+##
+
+[Miley: Lab coat (Emiri Harai) / cara14-9]
+{SE: Accent21-1}
+#Message#
+\C[6]- Michiru Namida
+- Emiri Harai
+##
+
+#Message#
+\.\C[6]Both are extremely capable,
+but are treated poorly at their current workplaces.
+##
+
+#Message#
+\.\C[6]Michiru Namida is a diehard researcher. Extraction
+should be simple if offered an ideal environment.
+##
+
+#Message#
+\.\C[6]Emiri Harai is satisfied at present.
+Extracting her will prove more difficult.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[6]The biggest reason is the presence of
+the man she is considering marrying at her workplace.
+##
+
+#Message#
+\.\C[6]If we can't win her over, there's only one thing to do.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[6]Namely, to drive her "beloved" mad.
+##
+
+{Sara}
+#Message#
+\C[4](...)
+##
+
+#Message#
+\.\C[4](This document...!)
+##
+
+#Message#
+\.\C[4](These two... There's no doubt about it.)
+##
+
+[Miley: Default smile / cara14-1]
+{SE: Accent28-1}
+#Message#
+\C[4](They're... Safalin and Miley...)
+##
+
+#Message#
+\.\C[4](What do they mean by "extraction"...?)
+##
+
+<やめておく>
+
+{Sara} [Miley: Default smile / cara14-1]
+{SE: Accent21-1}
+#Message#
+\."Let's not... Something bad might happen."
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."R-Really...?
+ If you say so, then I guess we won't... Haha..."
+##
+
+<Choice End>
+
+<灯ろうを使う>
+
+{Sara} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+"Hayasaka, please look at this lantern."
+##
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+#Message#
+\."Haha... Can we do that later?
+ There's a lot I want to check on..."
+##
+
+{Sara}
+#Message#
+\."...Understood."
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{Hayasaka} [Hayasaka: Hand in front, mouth open / cara94-5]
+#Message#
+"Oh? You look like you're in a hurry."
+##
+
+{Sara}
+#Message#
+\."Have you seen Ranmaru anywhere?!"
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."Huh...? I haven't, no..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Not here...!)
+##
+

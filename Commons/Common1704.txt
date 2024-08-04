@@ -1,0 +1,109 @@
+**********Common1704********** (▲ｿｳ「人形的行動」)
+{Sou}
+#Message#
+"Did Hinako do anything only a doll could do,
+ like \C[2]switch parts\C[0]...?"
+##
+
+#Message#
+"According to the hint, Hinako was \C[12]human\C[0]..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Or like spraying steam, or charging up,
+ or removing her head..."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."I want... something definite."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+{SE: Accent41-1}
+#Message#
+"That drill doesn't look to have any blood on it..."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: Accent21-1}
+#Message#
+\."But I have to imagine it's not so crudely built
+ to allow us to judge based on that."
+##
+
+{Sara}
+#Message#
+\.\C[4](It might be designed so we can't
+ put it together using blood, yeah...)
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sure enough... all we can do is
+ consider Hinako's past actions."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: sceneswitch2}
+#Message#
+\."Did Hinako do anything only a doll could do,
+ like \C[2]switch parts\C[0]...?"
+##
+

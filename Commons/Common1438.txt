@@ -1,0 +1,100 @@
+**********Common1438********** (戦③意味のない行動)
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+"Alright! Hit it good!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"Whaaat?! Didn't beat it...?!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"And the book I threw turned into an enemy too?!"
+##
+
+{Keiji} [Keiji: Right hand under face, sweating / cara2-9]
+#Message#
+\."Well, shoot..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"And the book I threw turned into an enemy too?!"
+##
+
+{Keiji} [Keiji: Right hand under face, sweating / cara2-9]
+#Message#
+\."Well, shoot..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"And the book I threw turned into an enemy too?!"
+##
+
+{Keiji} [Keiji: Right hand under face, sweating / cara2-9]
+#Message#
+\."Well, shoot..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+"Hold on... What do you want me to crush?
+ You gotta get something first..."
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"Hurry and bring me some noisy garbage!
+ I'm itching to smash something!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: Accent28-1}
+#Message#
+"Hah! Figured it'd be no match."
+##
+
+[Kurumada: Narrowed eyes, smirk, sweating / cara95-12]
+#Message#
+"The hell...!
+ Another book just came out!"
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+"Gyeeeeh!! It huuuuurts!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Anzu?! You okay?!"
+##
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+{SE: Accent21-1}
+#Message#
+\."I'm sorry... It didn't go well at all...!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."H-Hey!! Are you all right...?!"
+##
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+{SE: Accent21-1}
+#Message#
+\."Eek...! I'm sorry!!
+ It didn't go well at all!!"
+##
+
+<Condition End>
+

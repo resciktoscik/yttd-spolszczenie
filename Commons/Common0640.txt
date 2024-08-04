@@ -1,0 +1,421 @@
+**********Common640********** (２章前編ENDまで（銃から）)
+{Ranger} [Ranger: Looking up at hole in forehead / cara18-9]
+{SE: Accent28-1}
+#Message#
+\."Huh...?"
+##
+
+#Message#
+\."A gun...? Why...?"
+##
+
+{Voice}
+#Message#
+\."You've stepped out of line, Rio Ranger."
+##
+
+{Reception Doll} [Gashu: Holding gun / cara16-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I have no more use for you."
+##
+
+{Ranger} [Ranger: Looking up at hole in forehead / cara18-9]
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Dad... why..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."What... the hell is going on...?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]At that moment...
+##
+
+#Message#
+\.\C[3]I'm certain I couldn't have heard anything, yet...
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]I felt like... I heard a voice calling for someone.
+##
+
+{Alice}
+#Message#
+\.".........."
+##
+
+{Reko}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Bro...!!"
+##
+
+#Message#
+\."Bro!! Can you hear me?! It's me!!"
+##
+
+{Alice}
+#Message#
+\.".........."
+##
+
+{Reko}
+#Message#
+\."I'm alive!! I'm not dead!!"
+##
+
+{Alice}
+#Message#
+\.".........."
+##
+
+{Reko}
+#Message#
+\."Bro..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Just once more... Let's be brother and sister..."
+##
+
+{Alice}
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."..."
+##
+
+{Reko}
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+{N/A}
+#Message#
+\.\C[3]A miracle...
+##
+
+#Message#
+\.\C[3]He was able to live... for just a little longer.
+##
+
+#Message#
+\.\C[3]That's all it was... the smallest thing, but...
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm sure... Alice is..."
+##
+
+{Reko}
+#Message#
+\."...Yeah..."
+##
+
+{Ranger}
+{SE: Damage4}
+#Message#
+\."...S-Stop it! Dad!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."What... is going on...?!"
+##
+
+<Condition End>
+
+{Ranger}
+#Message#
+\."F... Fix me already... dad..."
+##
+
+{Reception Doll}
+#Message#
+\."Unfortunately, Rio Ranger, this is farewell."
+##
+
+{Ranger}
+#Message#
+\."What're you saying...?! I don't wanna...!!"
+##
+
+#Message#
+\."Do you... hate me or something...?!"
+##
+
+#Message#
+\."Wasn't I... your greatest masterpiece, dad...?"
+##
+
+{Reception Doll}
+{SE: Accent21-1}
+#Message#
+\."That is in the past..."
+##
+
+#Message#
+\."Why do you think you were the most human
+ of the dolls I created?"
+##
+
+{Ranger}
+#Message#
+\."Because... you put your affection into me most..."
+##
+
+{Reception Doll}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Wrong. It was \C[2]jealousy\C[0]."
+##
+
+#Message#
+\."I implanted in your emotion program
+ an excessive sense of inferiority toward
+ and hatred of humans."
+##
+
+#Message#
+\."Humans have it nice. I envy humans.
+ Why am I a doll? What's so great about humans?!
+ ...And so on."
+##
+
+#Message#
+\."With that complex you could never overcome,
+ you burned with deep jealousy...
+ and truly qualified as "human.""
+##
+
+{SE: Accent28-1}
+#Message#
+\."This convinced me that it is
+ negative emotions that make a human."
+##
+
+{Ranger}
+#Message#
+\."Th... That's..."
+##
+
+{Reception Doll}
+#Message#
+\."Yet... For the burning flames of jealousy
+ to turn one into a monster... that is just as human."
+##
+
+#Message#
+\.\C[10]"You are an impediment to the plan.
+ A failure."
+##
+
+[Gashu: Default / cara16-1]
+{SE: Accent21-1}
+#Message#
+\."Well then... I apologize you had to
+ witness such unsightliness, everyone."
+##
+
+#Message#
+\."I invite you now again to the Main Game."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."!!"
+##
+
+{Reception Doll}
+#Message#
+\."This time, card data for the
+ \C[2]Keymaster\C[0], \C[10]Sacrifice\C[0], \C[4]Sage\C[0], and \C[3]Commoners\C[0]
+ has been distributed to the tablets you possess."
+##
+
+[Gashu: Eyes closed / cara16-5]
+#Message#
+\."This has been done at random, and I imagine
+ some of you may be dissatisfied with your role."
+##
+
+[Gashu: Raised eyebrow / cara16-3]
+{SE: Accent28-1}
+#Message#
+\."In this case, you may use a trading function
+ to forcibly swap cards with another."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."However, you must use the Me-Tokens you have earned
+ in order to utilize this function."
+##
+
+[Gashu: Default / cara16-1]
+{SE: Accent21-1}
+#Message#
+\."The trust tokens you have earned up to this point
+ will be essential in deciding the battle."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."What the hell...!! Just who are you guys?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."What in the world...?! Just who are you people?!"
+##
+
+<Condition End>
+
+{Reception Doll} [Gashu: Head tilt / cara16-6]
+#Message#
+\."I am the Reception Doll...
+\! No, let us do away with the tedious set dressing."
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\."I am \C[2]Gashu Satou\C[0].
+ A researcher into negative emotions."
+##
+
+{Gashu}
+#Message#
+\."Now, let the Main Game begin."
+##
+
+{???}
+#Message#
+"Oogh..."
+##
+
+#Message#
+"...You up?"
+##
+
+#Message#
+".........."
+##
+
+{Gin}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Thought I was gonna die, meow."
+##
+
+{Q-taro}
+{SE: Accent21-1}
+#Message#
+\."Sorry.\.\. The switch..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Gin}
+#Message#
+\."...You're a big chicken, woof."
+##
+
+{Q-taro}
+#Message#
+\."...Sorry..."
+##
+
+<Else>
+
+{Gin}
+{SE: Accent28-1}
+#Message#
+\."...You pressed it for me, woof."
+##
+
+{Q-taro}
+#Message#
+\."Nah. I hesitated to the last second..."
+##
+
+<Condition End>
+
+{Gin}
+#Message#
+\."..."
+##
+
+#Message#
+\."...It's fine, meow."
+##
+
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...I'm alive, woof."
+##
+
+{Q-taro}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Gin."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...Thanks..."
+##
+
+{Gin}
+#Message#
+\."...Yeah."
+##
+
+#Message#
+\."Thanks... meow."
+##
+
+{N/A}
+#Message#
+\SP[8]Your Turn To Die -Death Game By Majority-
+##
+
+#Message#
+\SP[8]Chapter 2, Part One                      End\.
+##
+

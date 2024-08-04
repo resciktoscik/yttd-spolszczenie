@@ -1,0 +1,108 @@
+**********Common653********** (ｶﾝﾅ「ｿｳにPCに届ける」)
+{Kanna}
+#Message#
+"Kanna just gave Sou the laptop
+ and left right away, so..."
+##
+
+#Message#
+"After we were done looking at it...
+ Kanna went to deliver the laptop to Sou."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+"Um... What is this?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"Please believe me..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"She didn't hear Sou and Nao's conversation."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Sou was talking with Nao in the Ruined Corridor."
+##
+
+{Sara}
+#Message#
+\."About what?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."S... Sorry, Kanna just gave Sou the laptop
+ and left right away, so..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."She was worried about Sara...
+ So Kanna went looking around for her alone."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is that so...)
+##
+

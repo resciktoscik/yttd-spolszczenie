@@ -1,0 +1,981 @@
+=====Map124===== (❹Ruined Corridor)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent21-1}
+#Message#
+\."...No one's around, right?"
+##
+
+{Sara}
+#Message#
+\."Yes, nobody but us..."
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Um... Is this the right way?"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Huh...? O-Of course...
+ I guess I didn't mention it, did I...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Is the secret room really here?
+Let's hurry
+##
+
+<本当に ここに秘密の部屋が？>
+
+{Sara} [Nao: Holding wrist, looking down / cara7-5]
+{SE: Accent28-1}
+#Message#
+\."Is the secret room really here?"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."..."
+##
+
+<急ぎましょう>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent28-1}
+#Message#
+\."Let's hurry before someone comes...!"
+##
+
+{Nao}
+#Message#
+\."T-That's true..."
+##
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Um... Sara..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I'm just thinking... Once we go in the room,
+ we might only have one chance..."
+##
+
+[Nao: Raised finger / cara7-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So... Would you let me check the chip first?"
+##
+
+{Sara}
+#Message#
+\."Check it...?"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Yes. If it's broken, this plan will be a failure..."
+##
+
+[Nao: Closed-eyes smile / cara7-12]
+{SE: Accent21-1}
+#Message#
+\."Please, Sara."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Hand over the chip
+Don't hand it over
+##
+
+<チップを渡す>
+
+{Sara} [Nao: Closed-eyes smile / cara7-12]
+#Message#
+\."I understand."
+##
+
+{N/A}
+#Message#
+\.\C[3]Handed over Laizer's Chip.
+##
+
+{Nao}
+#Message#
+\."...Thank you very much."
+##
+
+<チップを渡さない>
+
+{Sara} [Nao: Closed-eyes smile / cara7-12]
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Something's... wrong...)
+##
+
+#Message#
+\."Sorry, Nao..."
+##
+
+{Nao} [Nao: Closed eyes / cara7-16]
+{SE: Accent21-1}
+#Message#
+\."You won't... trust me...?"
+##
+
+{Sara}
+#Message#
+\."I mean..."
+##
+
+#Choice#
+I do trust you
+I can't trust you
+##
+
+<信じている>
+
+{Sara} [Nao: Closed eyes / cara7-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I do... trust you."
+##
+
+{Nao} [Nao: Closed-eyes smile / cara7-12]
+#Message#
+\."Thank you so much, Sara..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Handed over Laizer's Chip.
+##
+
+<信じられない>
+
+{Sara} [Nao: Closed-eyes smile / cara7-12]
+{SE: sceneswitch2}
+#Message#
+\."Sorry..."
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."Why not...?"
+##
+
+{Sara}
+#Message#
+\."I just feel like...
+ you aren't your usual self..."
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."...*sniff*..."
+##
+
+#Message#
+\."*sniffle*... Sara..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Big sis Nao...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I want to believe you too, Nao!)
+##
+
+#Message#
+\.\C[4](But...!)
+##
+
+<Choice End>
+
+<Choice End>
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+\."Nao."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."...Yes?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Nao's hiding something...)
+##
+
+#Message#
+\.\C[4](I'll close my eyes... and take a deep breath.)
+##
+
+#Message#
+\.\C[4](I'll look at Nao again with a clear head.)
+##
+
+#Message#
+\.\C[4](The way I did when I was Keiji...!)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Nao is hiding something...!!)
+##
+
+#Message#
+\.\C[4](I'll close my eyes... and take a deep breath.)
+##
+
+#Message#
+\.\C[4](I'll look at Nao again with a clear head.)
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\.\C[4](The way I did when I was Keiji...!)
+##
+
+[Nao / cara7-k]
+#Message#
+\.\C[4](I can feel it... Nao's unrest.)
+##
+
+#Message#
+\.\C[4](What would Keiji do?
+ How can I move her...?!)
+##
+
+#Message#
+\.\C[4](Can I somehow \C[2]touch her heart\C[4]...?!)
+##
+
+-----Page3-----
+{Sara} [Nao: Closed tired eyes / cara7-17]
+{SE: Accent28-1}
+#Message#
+"Nao, please tell me everything."\.\.
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."W-What are you talking about...?"
+##
+
+{Sara}
+#Message#
+\."We're not just strangers anymore."
+##
+
+{SE: Accent21-1}
+#Message#
+\."We're allies. If you're just going to trick me,
+ I'd rather we stand together and share our worries."
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\.".........."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...You saw right through me, didn't you."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+{SE: sceneswitch2}
+#Message#
+\."I lied to you..."
+##
+
+[Nao: Tired eyes, looking to side, grim look / cara7-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I don't know anything about this secret room."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Big sis Nao..."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."But..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+{SE: Accent28-1}
+#Message#
+\."I do... know how we can find out."
+##
+
+{Sara}
+#Message#
+\."What do you mean...?!"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Sara..."
+##
+
+[Nao: Hand on chest, head lowered, grim look / cara7-24]
+{SE: sceneswitch2}
+#Message#
+\."I'm sorry...!"
+##
+
+{Sara}
+#Message#
+\."Wha..."
+##
+
+#Message#
+\."Yagh...?!"
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Laizer's Chip was stolen.
+##
+
+{Sara}
+#Message#
+\."N... Nao?!"
+##
+
+{Voice}
+#Message#
+\."Thanks for your trouble."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: horror_piano chord3}
+#Message#
+\."You did well, miss Nao."
+##
+
+{Sara}
+#Message#
+\."Sou...!!"
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."What're you planning, meow!! Lonerrr!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."I'd love to know what YOUR plans are going forward."
+##
+
+{Sara}
+#Message#
+\."What do you mean by that?!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Come on... Have you even thought about
+ \C[2]how you'll use this chip\C[0]?"
+##
+
+{Sara}
+#Message#
+\."Well..."
+##
+
+#Choice#
+We know how to use it
+Why do you know about it?
+We'll figure something out
+We don't know
+##
+
+<知ってる>
+
+{Sara} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."We know how...! Please, give it back!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent21-1}
+#Message#
+\."What a liar you are, miss Sara."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Me, I can \C[2]analyze it\C[0].
+ ...With this \C[2]laptop\C[0]."
+##
+
+<なぜチップのことを？>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."Hold on a second.
+ Why do you know about the chip...?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent21-1}
+#Message#
+\."Ahaha, why indeed? How strange."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ugh...!!)
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Well, I can \C[2]analyze it\C[0].
+ ...With this \C[2]laptop\C[0]."
+##
+
+<適当にやればなんとかなる>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: flash-of-light-3}
+#Message#
+"If we just mess around with it,
+ we'll figure something out!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."No you won't. Precision machinery
+ is a lot more delicate than you are, miss Sara."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Don't insult big sis Sara, loner!!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Hmph. This isn't the time for childish arguments."
+##
+
+[Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I need to go and \C[2]analyze\C[0] the chip
+ with this \C[2]laptop\C[0]."
+##
+
+<知らない>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."I... don't know, but...!!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Ahaha. At least you're being honest, miss Sara."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."You having this is like
+ casting pearls before swine."
+##
+
+[Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Me, I can \C[2]analyze it\C[0].
+ ...With this \C[2]laptop\C[0]."
+##
+
+<Choice End>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: sceneswitch2}
+#Message#
+\."Analyze...?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"You're the worst, meow!!
+ You used big sis Nao for that, woof?!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."She's a good kid, unlike you two."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Alright, miss Nao.
+ Hand me the chip."
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."..."
+##
+
+[Sou: Stunned look / cara5-7]
+#Message#
+\."Miss Nao...?"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."I'm sorry..."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Waugh...?!"\.\.\.\^
+##
+
+[Sou: Hands out, mouth open, eyes with bags / cara5-31]
+#Message#
+\."Ahhh...!! The laptop!!"
+##
+
+{N/A}
+{SE: shock1}
+#Message#
+\.\C[3]Nao grabbed the laptop, pushed Sou away,
+and took off running.
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."What's going on, meow?!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."Hang on! The chip and the laptop...?!
+ Where are you going with those?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Big sis Sara, let's go after her, woof!
+ She went toward the lobby, meow!!"
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]My feet move as if guided by something.
+##
+
+#Message#
+\.\C[3]Some sort of premonition is calling me.
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+
+**********Event3********** (kezika) (5,6)
+-----Page1-----
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Got any leads on escaping, Sara?"
+##
+
+{Sara}
+#Message#
+\."Yes."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Eh...?"
+##
+
+{Sara}
+#Message#
+\."So both of you, please come to the lobby."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Did you really...?!"
+##
+
+{Sara}
+#Message#
+\."...Sou is attempting something right now."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent28-1}
+#Message#
+\."Sou...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Okie-dokie. I'm half-believing...
+ But I'll come to the lobby once I'm done here."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+"Wonder how much time we have left..."
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."..."
+##
+
+-----Page2-----
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Got any leads on escaping, Sara?"
+##
+
+{Sara}
+#Message#
+\."Yes."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Eh...?"
+##
+
+{Sara}
+#Message#
+\."So both of you, please come to the lobby."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Did you really...?!"
+##
+
+{Sara}
+#Message#
+\."...Sou is attempting something right now."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent28-1}
+#Message#
+\."Sou...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Okie-dokie. I'm half-believing...
+ But I'll come to the lobby once I'm done here."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff*...
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."What're you doing...?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Smells like a lady-killer, meow!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Where'd you learn a word like that, huh?"
+##
+
+
+**********Event8********** (a) (5,4)
+-----Page6-----
+{N/A}
+#Message#
+\C[3]A Ring-Up Box is built into the alcove.
+##
+
+{Sara}
+#Message#
+\.\C[4](You can even trade here...?)
+##
+
+
+**********Event9********** (a) (5,3)
+-----Page6-----
+{N/A}
+#Message#
+\C[3]A Ring-Up Box is built into the alcove.
+##
+
+{Sara}
+#Message#
+\.\C[4](You can even trade here...?)
+##
+
+
+**********Event10********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+
+
+**********Event11********** (mosimo) (4,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A Ring-Up Box is built into the alcove.
+##
+
+{Sara}
+#Message#
+\.\C[4](You can even trade here...?)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A Ring-Up Box is built into the alcove.
+##
+
+{Sara}
+#Message#
+\.\C[4](You can even trade here...?)
+##
+
+-----Page6-----
+{N/A}
+#Message#
+\C[3]A Ring-Up Box is built into the alcove.
+##
+
+{Sara}
+#Message#
+\.\C[4](You can even trade here...?)
+##
+
+
+**********Event15********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event16********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event17********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event18********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event19********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event20********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event21********** (gareki) (7,8)
+-----Page1-----
+#Message#
+\C[3]Rubble is scattered all over.
+##
+
+-----Page3-----
+#Message#
+\C[3]Rubble is scattered all over.
+##
+
+
+**********Event48********** (a) (4,4)
+-----Page6-----
+{N/A}
+#Message#
+\C[3]A Ring-Up Box is built into the alcove.
+##
+
+{Sara}
+#Message#
+\.\C[4](You can even trade here...?)
+##
+

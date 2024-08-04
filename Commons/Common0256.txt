@@ -1,0 +1,134 @@
+**********Common256********** (ﾅｵ「内側見たい」)
+{Nao}
+#Message#
+"If only we could just look at what's on the cards...
+ Then we'd know the roles..."
+##
+
+#Message#
+"We... We can't possibly find the answer
+ in this little time!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Um... So what about that...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Err... I don't really follow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Nao}
+#Message#
+"Err... I don't really follow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Nao}
+#Message#
+"Err... I don't really follow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"If we could do that...
+ We would have from the start, huh..."
+##
+
+#Message#
+"Aaah... We need to reason out the roles somehow..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."If only we could just look at what's on the cards...
+ Then we'd know the roles..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What's on the cards...?!)
+##
+
+#Choice#
+Have her add the statement
+Cancel
+##
+
+<発言に加えてもらう>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+{SE: Accent28-1}
+#Message#
+"U-Understood!"
+##
+
+<やめる>
+
+<Choice End>
+

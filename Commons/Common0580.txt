@@ -1,0 +1,306 @@
+**********Common580********** (交渉２－昼　Qタロウ)
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+"Sara, ya got some time?
+ Wanna have a chat without tradin' for once?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+"Never sat down for a chat before, have we?
+ Not a lotta occasions we have the time."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."It's fine if yer busy, though. How 'bout it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: Accent28-1}
+#Message#
+\."Whoa, I'm glad ta hear it!
+ Awright, siddown."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."You gettin' enough rest?
+ You're lookin' pretty pale."
+##
+
+{Sara}
+#Message#
+\."Huh... Am I really?"
+##
+
+[Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\."Yep. Ya wouldn't put somebody who's
+ got a look like that on the mound."
+##
+
+#Message#
+\."Is that... a baseball thing?"
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."...Right, didn't have any interest
+ in baseball, did ya... My bad."
+##
+
+#Message#
+\."Yeah, I just remembered you're a baseball player..."
+##
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+{SE: Accent28-1}
+#Message#
+\."...Second-string, though.
+\! Injuries are scary stuff, y'know."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Could be off the team in worse cases,
+ so I'm grateful jus' to be kept as second-string."
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."And I grew up in an orphanage.
+\! Didn't have parents who knew sports or nothin'."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Wasn't blessed with a coach neither...
+ Effort and power alone got me to the pro leagues."
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."To face the big players, ya just gotta practice...
+ Guess that notion made me punish my body."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+\."Just before my big moment,
+ I went and wrecked this tough bod o' mine."
+##
+
+{Sara}
+#Message#
+\."So you pushed yourself too hard..."
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."You got it! That's why you shouldn't neither.
+ Keep yer health in check."
+##
+
+[Q-taro: Smile with closed fist / cara4-4]
+{SE: Accent28-1}
+#Message#
+\."Eat tasty and healthy! Sleep well! Exercise!"
+##
+
+{Sara}
+#Message#
+\."I-I will!"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Well, you got parents to tell ya that, so..."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."You like yer parents?"
+##
+
+{Sara}
+#Message#
+\."...Yes."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Figured as much. There's a difference
+ 'tween lonely peeps and loved peeps..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Q-taro}
+#Message#
+\."From Kai...
+ I sensed the scent of a lonely person."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Dunno nothin' about the guy, but..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."As somebody of the same kind,
+ I wanna see his dying wish through."
+##
+
+{Sara}
+#Message#
+\."Q-taro..."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."..."
+##
+
+#Message#
+\."My bad... Wanted to make this a breather,
+ but it got too serious."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+{SE: flash-of-light-3}
+#Message#
+\."Oh yeah, Sara.
+ Ya got any guys you like?"
+##
+
+{Sara}
+#Message#
+\."Why ask that all of a sudden?!"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Gotta have at least one at school!
+ That's just youth fer ya."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's so crude about it...!)
+##
+
+#Choice#
+I don't
+I can't answer
+I love everyone
+##
+
+<いません>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."No, there's nobody!!"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Ehh? Seems suspect...
+ But ya are pretty serious."
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Don't tell me you go to school just to study?
+ That's jes' nonsense!"
+##
+
+<答えません>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."I can't answer!!"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."In other words... there is a guy?!"
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Way to go, Sara!
+ Yer makin' the most of adolescence!"
+##
+
+<みんな大好きです>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: Saint2}
+#Message#
+\."...I love everyone.
+ There's just... no one I can hate."
+##
+
+{Q-taro}
+#Message#
+\."So ya can't decide on just one?
+ ...Don't go cheatin' on nobody, y'hear."
+##
+
+{Sara}
+#Message#
+\."That's not what I meant in the least!!"
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."I have things to do, so that'll be all!"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Turnin' tail, huh..."
+##
+
+{Sara}
+#Message#
+\C[4](Well... That wraps up discussions!)
+##
+

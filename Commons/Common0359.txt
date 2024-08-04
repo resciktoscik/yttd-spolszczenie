@@ -1,0 +1,203 @@
+**********Common359********** (メモリーダンス事後処理)
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+"U-Um! Was I... of use?!"
+##
+
+#Message#
+\."Now... let's split these Clear Chips, okay?"
+##
+
+#Message#
+"U-Um! Was I... of use?!"
+##
+
+#Message#
+\."Now... let's split these Clear Chips, okay?"
+##
+
+[Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\."..........
+ Let's split the Clear Chips."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 2 Clear Chips.
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+"P-Piece of cake, huh, Sara?!"
+##
+
+#Message#
+\."Here, the Clear Chips! Half and half!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 2 Clear Chips.
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Woohoo, meow! Big sis Sara!
+ We're the ultimate team, woof!"
+##
+
+#Message#
+\."Let's share these stars too, meow!
+ Two for big sis Sara, two for me!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 2 Clear Chips.
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, huh."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."You're right... Hmm..."
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, was he?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."That's right! Dammit!
+ Where'd the beanie guy get to?!"
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, huh."
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."Woof... That loner's crafty, meow..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Whoa! You two okay?!
+ Hey, you gotta come with me!!"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+\."I found Sou in his bedroom!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Ah! You guys are safe?!
+ Sorry, but you gotta come with me!!"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+\."I found the beanie bastard in his bedroom!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](What the...?!)
+##
+
+#Message#
+\."Still... Sou wasn't there, huh..."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."...You don't know where he is or anything,
+ do you, Kanna...?"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."...!
+ Y-You're doubting Kanna...?"
+##
+
+{Sara}
+#Message#
+\."Well, no..."
+##
+
+#Message#
+\."...We should meet up and look for Sou all together.
+ I think I get the attractions now."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Okay..."
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, was he?"
+##
+
+#Message#
+\."I think I get the attractions now...
+ I suppose we should all meet up and look for Sou."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Ain't no other choice...!
+ Who knows what he'll do if we leave him alone!"
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, huh."
+##
+
+#Message#
+\."I think I get the attractions now...
+ I suppose we should all meet up and look for Sou."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Look for the loner, woof...?
+ What a bummer, meow..."
+##
+

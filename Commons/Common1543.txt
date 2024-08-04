@@ -1,0 +1,17 @@
+**********Common1543********** (⑧ランマルB選択)
+{N/A}
+#Message#
+"I'll collect some charge...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

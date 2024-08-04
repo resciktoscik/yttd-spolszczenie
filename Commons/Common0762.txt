@@ -1,0 +1,81 @@
+**********Common762********** (ｱﾘｽ「ソウダメ」)
+{Alice}
+#Message#
+"Sou Hiyori must be avoided at all costs!
+ For we don't know what he's thinking...!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Even you don't know what you're thinking, surely?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+"What IS it?! Do you have some problem?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"We just have to choose now...!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Between Nao and Kanna...!!"
+##
+

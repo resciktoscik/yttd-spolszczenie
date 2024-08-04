@@ -1,0 +1,219 @@
+=====Map95===== (Arm Wrestling Game)
+
+**********Event5********** (sara) (1,12)
+-----Page1-----
+{Sara}
+#Message#
+"Arm-wrestling is a battle of spirit...! Not strength!"
+##
+
+#Message#
+"Hmm...?! Isn't this... two on one?"
+##
+
+#Message#
+"Why does one person have to go against three...?!"
+##
+
+-----Page2-----
+{Sara}
+#Message#
+"All I can do... is cheer on...!"
+##
+
+
+**********Event8********** (aibo) (15,12)
+-----Page1-----
+{Keiji}
+#Message#
+"This is overwhelming...
+ Can't lose to an opponent like this... right?"
+##
+
+#Message#
+"One more push...!
+ Let's put it all in this attack."
+##
+
+#Message#
+"Seems to just be the first opponent...
+ Can't be struggling now."
+##
+
+#Message#
+"Sticking to it in the eleventh hour...
+ That's what you taught me, Sara."
+##
+
+#Message#
+"Just a little more...! Wanna settle this!"
+##
+
+#Message#
+"Seems a little tougher than the last one...
+ That ain't good."
+##
+
+#Message#
+"Can't go losing here...!
+ Gotta endure it...!"
+##
+
+#Message#
+"Time to finish the job..."
+##
+
+#Message#
+"Sure feels like a final foe.
+ Let's finish this quick and rest, eh?"
+##
+
+-----Page2-----
+{Q-taro}
+#Message#
+"Whoaaaaa! Ya can't lose to the first guy!!"
+##
+
+#Message#
+"May look brutal, but yer power's nothin' much!"
+##
+
+#Message#
+"Our powerful duo's gonna take you out quick!"
+##
+
+#Message#
+"Gnnnngh...! About to lose!! Y'serious?!"
+##
+
+#Message#
+"Seems the opponent's sufferin' too!
+ Let's push 'em down!"
+##
+
+#Message#
+"We can't lose!
+ I'll take on anybody!"
+##
+
+#Message#
+"Whoaaaaa!
+ Can't go losin' after comin' so far!"
+##
+
+#Message#
+"Too easy! This'll end ya!"
+##
+
+#Message#
+"The final foe...! 'Sgotta whole different aura!"
+##
+
+-----Page3-----
+{Alice}
+#Message#
+"Yikes! Are we gonna lose?!"
+##
+
+#Message#
+"Just a bit more! Go die in a hole, you!!"
+##
+
+#Message#
+"Mwahaha... I doubt I'd win in a fistfight.
+ But arm-wrestling? A cinch..."
+##
+
+#Message#
+"Aaaaah...?! What's with this one?! Such strength?!"
+##
+
+#Message#
+"Hmph... It seems this wasn't an opponent
+ that could entertain me either."
+##
+
+#Message#
+"Understand, Sara Chidouin?
+ Arm-wrestling takes wisdom... I've not done it much,
+ but I'm sure wisdom is essential..."
+##
+
+#Message#
+"Hyeeeeeeeeeek!! Go easy on me already!!"
+##
+
+#Message#
+"Hmph... It's over.
+ Feeble loser... Curse your lack of confidence...
+ and, err... cry...?"
+##
+
+#Message#
+"...Huh? A third opponent?
+ Isn't this two on three?! How cowardly...!"
+##
+
+
+**********Event19********** (EV019) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."We'll start with me...!"
+##
+
+{Keiji}
+#Message#
+\."Your friendly policeman's with ya.
+ You can rest easy."
+##
+
+{Q-taro}
+#Message#
+\."You got the motivation?!
+ Show 'em that power of yers!"
+##
+
+{Alice}
+#Message#
+\."Hmph... I'll observe how powerful
+ those thin arms of yours can be."
+##
+
+{N/A}
+#Message#
+Arm-Wrestling ~Rules~
+##
+
+#Message#
+\.Press the button when the strength gauge is most full.
+If you do well, you'll push back the opponent's arm.
+##
+
+#Message#
+\.For the last attack, or when on the verge of defeat,
+a fist button will appear - keep your cursor on it.
+##
+
+#Message#
+\.For the last attack, or when on the verge of defeat,
+a fist button will appear - mash on it.
+##
+
+#Choice#
+Hear it again
+Just try it
+##
+
+<もう一度説明を聞く>
+
+<とりあえずやってみる>
+
+{N/A}
+#Message#
+\.Touching your ally's icon will give you
+advice and the like, so... Good luck.
+##
+
+<Choice End>
+

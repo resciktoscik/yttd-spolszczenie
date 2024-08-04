@@ -1,0 +1,164 @@
+**********Common40********** (議題①名前・職業)
+{Blond Man}
+#Message#
+"Hey, you can keep it simple.
+ Name and occupation... Just take turns sayin' em."
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+"That's the ticket."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+\."Mm, got it. The wary ones can be for later.
+ Raise your hand if you don't mind blabbin'."
+##
+
+{Man in Suit} [Mishima: Default smile / cara12-1]
+#Message#
+"Hello, I am \C[2]Kazumi Mishima\C[0].
+ I teach at a certain high school... Mwahaha..."
+##
+
+{Strange Child} [Gin: Default / cara9-1]
+#Message#
+\."Ehh...? You're a school teacher, woof?
+ The world's going to the dogs, meow."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Boohoohoo..."
+##
+
+{Punk Lady} [Reko: Mouth open / cara6-2]
+#Message#
+"...Name's \C[2]Reko Yabusame\C[0].
+ I'm a singer-songwriter."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Oh! I think I've seen you in magazines!
+ You're THE Reko Yabusame?!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."...Dude. Is this the time?"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Sorry..."
+##
+
+{Man in Apron} [Kai: Default / cara8-1]
+#Message#
+"...I am \C[2]Kai Satou\C[0].
+ I'm a rather unremarkable homemaker."
+##
+
+{Beanie Man} [Sou: Mouth open / cara5-1]
+#Message#
+\."What's with the stuff behind you...?"
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."It's a frying pan... and a ladle... and a spatula."
+##
+
+{Beanie Man} [Sou: Mouth open / cara5-1]
+#Message#
+\."I... I didn't mean like that..."
+##
+
+{Red-Haired Giant} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+"\C[2]Q-taro Burgerberg\C[0]!
+ I'm a baseball player! Second-string, though!"
+##
+
+{Woman in Overalls} [Nao: Mouth open / cara7-1]
+#Message#
+\."Hwoooah... That's why you're so big!"
+##
+
+{Red-Haired Giant} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."193 centimeters! And strong to boot, y'hear!"
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+"...Seems no one else wants to talk."
+##
+
+#Message#
+\."Well then, Sara, how about you try
+ asking things to people you wanna hear from?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."M-Me?"
+##
+
+{Blond Man} [Keiji: Frown / cara2-2]
+#Message#
+\."Yep. Unlike me, people aren't wary of you, right?"
+##
+
+{Sara}
+#Message#
+\."I understand."
+##
+
+#Message#
+\C[4](I do want to question people, but...)
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: Accent28-1}
+#Message#
+\C[4](I'm kind of worried about her...)
+##
+
+#Message#
+\.\C[4](I'll start with who I'm most concerned about.)
+##
+
+{N/A}
+#Message#
+Controls
+##
+
+#Message#
+\.Touch a person's face to hear their statement.
+##
+
+#Message#
+\.By touching \C[2]Extract\C[0] and then speaking to someone,
+you can extract additional statements.
+##
+

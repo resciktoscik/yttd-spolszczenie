@@ -1,0 +1,543 @@
+=====Map43===== (Part Two OP1)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+".........."
+##
+
+#Message#
+\."...Nao..."
+##
+
+#Message#
+\."...miss Nao..."
+##
+
+{Mishima} [Mishima: Default smile (no collar) / cara12-4]
+#Message#
+\."You look pale, miss Nao."
+##
+
+{Nao} [Nao: School uniform, mouth open / cara7-7]
+#Message#
+\."Professor..."
+##
+
+#Message#
+\."I... I..."
+##
+
+[Nao: School uniform, wide eyes / cara7-8]
+#Message#
+\."I feel like I'll never paaaaaaaaaass!!"
+##
+
+{Mishima} [Mishima: Mouth open (no collar) / cara12-5]
+#Message#
+\."M... miss Nao? What's the matter?"
+##
+
+#Message#
+\."Exams are a ways away yet.
+ And I'm sure you'll be fine, miss Nao."
+##
+
+{Nao}
+#Message#
+\."I can't...!!
+ If I fail, I... What'll I even do?!"
+##
+
+{Mishima} [Mishima: Default smile (no collar) / cara12-4]
+#Message#
+\."Hrmm... Please calm down.
+ I'm busy driving...!"
+##
+
+{Nao}
+{SE: flash-of-light-3}
+#Message#
+\."Maybe I'll swallow a bunch of mud and die?!"
+##
+
+{Mishima} [Mishima: Mouth open (no collar) / cara12-5]
+#Message#
+\."It seems you feel quite cornered..."
+##
+
+[Mishima: Default smile (no collar) / cara12-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Err... miss Nao."
+##
+
+#Message#
+\."To tell the truth, I failed my college exams."
+##
+
+{Nao} [Nao: School uniform, mouth open / cara7-7]
+{SE: Accent21-1}
+#Message#
+\."Huh...?! You did, professor...?"
+##
+
+{Mishima}
+#Message#
+\."Yes, indeed."
+##
+
+#Message#
+\."I had grades as good as anyone's...
+ And a more or less serious lifestyle..."
+##
+
+#Message#
+\."I put in a perfectly good effort.
+ ...At least I believed so."
+##
+
+#Message#
+\."However, where some will pass, others will fail.
+ There's nothing that can be done about it."
+##
+
+#Message#
+\."And, being more conceited than the average person...
+ I lashed out at everything."
+##
+
+#Message#
+\."However, people can always improve themselves."
+##
+
+#Message#
+\."So, miss Nao. What do you suppose
+ gives people the impetus to improve?"
+##
+
+#Choice#
+Talking to family and friends
+Being in a new environment
+Hobbies!
+Pets!
+##
+
+<家族や友人との会話>
+
+{Mishima} [Nao: School uniform, mouth open / cara7-7]
+#Message#
+\."My, my... I wasn't asking you
+ to give the model answer, you know."
+##
+
+{SE: Accent28-1}
+#Message#
+\."But still, how wonderful!
+ It must speak to your purity that you can honestly
+ embrace the words of others in any situation."
+##
+
+#Message#
+\."Perhaps that is why your friends
+ are all such good people, miss Nao."
+##
+
+<新たな環境に身を置く>
+
+{Mishima} [Nao: School uniform, mouth open / cara7-7]
+{SE: Accent28-1}
+#Message#
+\."Ohh! A rather mature point of view!"
+##
+
+#Message#
+\."Yes, for most of a student's life is at school.
+ By just taking a step outside, you can realize
+ what a small community it really is."
+##
+
+#Message#
+\."Your worries... can appear much smaller that way."
+##
+
+<趣味！>
+
+{Mishima} [Nao: School uniform, mouth open / cara7-7]
+{SE: Accent28-1}
+#Message#
+\."Hmm! As I'd expect from one so devoted to art!"
+##
+
+#Message#
+\."In truth, not everyone can
+ focus wholeheartedly on hobbies.
+ So it's wonderful to have them, miss Nao."
+##
+
+#Message#
+\."The things you can proudly say you like...
+ These things will save you someday!"
+##
+
+<ペット！>
+
+{Mishima} [Nao: School uniform, mouth open / cara7-7]
+{SE: Accent28-1}
+#Message#
+\."I see! Truly soothing!"
+##
+
+#Message#
+\."At times, even dealing with people can be hard...
+ A pet can have greater insight and
+ healing capabilities than a human."
+##
+
+#Message#
+\."If not an animal, even a plant can do!
+ A dependable partner of the heart!"
+##
+
+<Choice End>
+
+{Mishima} [Nao: School uniform, mouth open / cara7-7]
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Well, in my case... it was \C[2]time\C[0]."
+##
+
+#Message#
+\."It required an above-average amount of time...
+ But I regained the courage to face forward."
+##
+
+#Message#
+\."And such is why now...
+ I enjoy my time with you and the rest of the class."
+##
+
+#Message#
+\."Though I failed, I gained happiness.
+ The dream I had pictured did not come to pass,
+ but the reality I found was much like a dream."
+##
+
+{Nao}
+#Message#
+\."Professor..."
+##
+
+{Mishima}
+#Message#
+\."There's nothing to fear in failure.
+ A person's life does not end there."
+##
+
+[Mishima: Default smile (no collar) / cara12-4]
+#Message#
+\."As long as you live on...
+ Happiness will surely come to you!"
+##
+
+{N/A}
+#Message#
+\C[3]..........
+##
+
+#Message#
+\.\C[3]Professor Mishima... is dead.
+##
+
+#Message#
+\.\C[3]Because of... our votes.
+##
+
+#Message#
+\.\C[3]Despair falls over us...
+##
+
+#Message#
+\.\C[3]We keep our distance.
+Nao alone sits near Professor Mishima.
+##
+
+{Sara}
+#Message#
+\.\C[4](How should I sort out these feelings?)
+##
+
+#Message#
+\.\C[4](I can't... think of what to say to Nao...)
+##
+
+
+**********Event2********** (nao) (10,5)
+-----Page1-----
+{Nao}
+#Message#
+".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]Nao is sitting by the professor, dumbfounded.
+##
+
+-----Page2-----
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"Professor... Professor..."
+##
+
+#Message#
+\."This is... just a lie, right? Professor..."
+##
+
+#Message#
+\."Please... Please get up..."
+##
+
+#Message#
+\."You can't do this... Everyone's worried..."
+##
+
+#Message#
+\."Professor...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Nao... weakly shook Professor Mishima's body.\.\.
+##
+
+{Nao} [Joe: Serious look, sweating / cara1-22]
+#Message#
+"...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]And his scorched, fragile neck... fell.
+##
+
+{Nao}
+#Message#
+\."...Pro... fessor...?"
+##
+
+#Message#
+\."..."
+##
+
+{Joe}
+#Message#
+\."N... Nao! D... Don't touch that!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Meow... the old guy..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Don't look, Gin! Stay away!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Dammit...!! Dammit!! What the hell!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+{SE: horror_piano chord3}
+#Message#
+\."Who... who voted... for Mishima...?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Shaddup, you eyesore...!!"
+##
+
+{Joe}
+#Message#
+\."H... Huh?!
+ I mean... it's because of the votes he...!"
+##
+
+{Reko}
+#Message#
+\."It's always possible everybody voted
+ for someone 'sides themselves, you know!!"
+##
+
+{Joe} [Joe: Serious look, sweating / cara1-22]
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Settle down, now."
+##
+
+#Message#
+\."Listen, everybody.
+ ...Don't do any probing into each other's votes."
+##
+
+{Joe} [Joe: Serious look, sweating / cara1-22]
+#Message#
+\."But...!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."We voted without knowing a thing.
+ No one... had any ill will."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."You'd know that, right, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...I...)
+##
+
+#Choice#
+Keiji's right
+Joe's right
+Keep silent
+##
+
+<ケイジさんの言う通りだ>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"...Keiji is right.
+ We shouldn't talk about the votes, Joe."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Sara..."
+##
+
+#Message#
+\."..."
+##
+
+[Joe: Upset groan / cara1-16]
+#Message#
+\."...I got it..."
+##
+
+#Message#
+\."Just let me... be alone for a sec..."
+##
+
+<ジョーの言う通りだ>
+
+{Joe} [Joe: Upset groan / cara1-16]
+{SE: Accent28-1}
+#Message#
+"...No, Joe is right.
+ It's better that we make the votes clear..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."...Well, shoot. I thought if anybody
+ would understand, it'd be you..."
+##
+
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...Well, fine. Even if we do talk about it, not now.
+ Can't have a calm chat when we're emotional, right?"
+##
+
+{Joe} [Joe: Serious look, sweating / cara1-22]
+#Message#
+\."F... Fine. Once we've calmed down a little..."
+##
+
+[Joe: Upset groan / cara1-16]
+#Message#
+\."I'll go cool my head...
+ Let me... be alone for a sec..."
+##
+
+<無言を貫く>
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+".........."
+##
+
+[Joe: Serious look, sweating / cara1-22]
+#Message#
+\."Sara..."
+##
+
+[Joe: Upset groan / cara1-16]
+#Message#
+\."Right...
+ You've got a lot on your plate too, huh..."
+##
+
+#Message#
+\."...I'm gonna... go cool my head too..."
+##
+
+#Message#
+\."Just let me... be alone for a sec..."
+##
+
+<Choice End>
+
+{N/A} [Joe: Upset groan / cara1-16]
+#Message#
+\C[3]Joe staggered out of the room.
+##
+
+#Message#
+\C[3]And the others... some left, some stayed.
+They all began to scatter their own ways.\.\.
+##
+
+
+**********Event6********** (misima) (9,6)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Professor Mishima... in a pool of blood.
+##
+
+#Message#
+\.\C[3]...I'm afraid to come any closer.
+##
+

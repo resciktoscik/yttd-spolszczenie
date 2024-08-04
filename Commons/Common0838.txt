@@ -1,0 +1,46 @@
+**********Common838********** (名簿選択★)
+{N/A}
+#Message#
+
+##
+
+#Choice#
+View first sheet
+View second sheet
+View third sheet
+View fourth sheet
+Cancel
+##
+
+<１枚目を見る>
+
+{N/A}
+#Message#
+
+##
+
+<２枚目を見る>
+
+{N/A}
+#Message#
+
+##
+
+<３枚目を見る>
+
+{N/A}
+#Message#
+
+##
+
+<４枚目を見る>
+
+{N/A}
+#Message#
+
+##
+
+<やめる>
+
+<Choice End>
+

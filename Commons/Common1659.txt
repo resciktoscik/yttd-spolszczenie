@@ -1,0 +1,67 @@
+**********Common1659********** (◆ｿｳ「誰も塗れん」)
+{Sou}
+#Message#
+"I sure don't remember seeing
+ any suspicious activity in the cemetery..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+"...I despise your idiocy too, miss Sara."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+"...I despise your idiocy too, miss Sara."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"If someone was fiddling with a brush, of course
+ I would've thought "what're they doing?", you know?"
+##
+

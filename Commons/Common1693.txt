@@ -1,0 +1,1267 @@
+**********Common1693********** (３前進展⑦マイの手)
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent28-1}
+#Message#
+"Um... Can I have a second?"
+##
+
+[Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Are we sure Mai never attached any Upgrade Parts...?"
+##
+
+<Else>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+"Can I say something, meow...?"
+##
+
+[Gin: Looking to side, raised eyebrows / cara9-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Are we sure baker lady really never
+ attached any Upgrade Parts, meow...?"
+##
+
+<Condition End>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."Urghh...!"
+##
+
+[Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."I didn't... I mean, that's scary..."
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Nnghh...!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Nah, she didn't... Kinda feel like she'd be opposed,
+ y'know, feelings-wise..."
+##
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: sceneswitch2}
+#Message#
+\."Then it's strange..."
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: Accent21-1}
+#Message#
+\."The Dummies have to look the same
+ as their original human selves, right?"
+##
+
+[Hayasaka: Default / cara94-1]
+#Message#
+\."But comparing with the victim video..."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+[Hayasaka: Hand in front, mouth open / cara94-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The Mai here now... has no \C[2]gloves\C[0]."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The Mai we were with... had no \C[2]gloves\C[0]."
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: sceneswitch2}
+#Message#
+\."It's just weird, woof..."
+##
+
+[Gin: Looking to side, raised eyebrows / cara9-22]
+{SE: Accent21-1}
+#Message#
+\."Because... the Dummies should look exactly
+ like the original humans, right, meow?"
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\."But compared to the victim video..."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+[Gin: Looking up, hands in front / cara9-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Our baker lady... doesn't have \C[2]gloves\C[0], woof."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The baker lady in the Dummies...
+ didn't have \C[2]gloves\C[0], woof."
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Mai: Looking down at hand, mouth open / cara92-20]
+{SE: Accent41-1}
+#Message#
+\."...Huh...?"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent41-1}
+#Message#
+\."...Gloves...?"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](It's true... In the video we saw...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"She was wearing... gloves!"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+#Message#
+"Now that you mention it, why was I gloveless
+ from the start...? They're my favorite..."
+##
+
+[Mai: Worried eyebrows, closed teeth / cara92-10]
+#Message#
+\."Did they just forget to give me them?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."They're surely not ones to take half-measures..."
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."Huh?"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent21-1}
+#Message#
+"Come to tihnk of it... it's weird."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Mai wasn't wearing gloves from the start..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."If she took 'em off herself,
+ we should've found 'em in her coffin."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+{SE: Accent21-1}
+#Message#
+"Hmph... How very strange."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."Now that you mention it,
+ Mai wasn't wearing gloves from the beginning..."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."Had she taken them off herself,
+ we should have found them in her coffin..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+"Yeah... it's weird, huh."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Mai didn't have gloves on from the start."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."And if she took them off herself,
+ we should've seen them in her coffin..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\."Hard to imagine \N[4] forgot..."
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+#Message#
+\."I suppose that must mean..."
+##
+
+[Hayasaka: Hand in front, mouth open / cara94-5]
+{SE: Accent28-1}
+#Message#
+\."Her gloves were taken off to \C[2]attach a part\C[0], perhaps?"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Then I guess..."
+##
+
+[Gin: Looking to side / cara9-21]
+{SE: Accent28-1}
+#Message#
+\."Her gloves got taken off
+ because she got \C[2]a part attached\C[0], meow?"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."Whaa...?! Someone went and
+ attached something before I woke up?!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Say what?!
+ Somethin' got switched out before she woke up?!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+\."But... you could just put her gloves back on
+ after attaching it, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](True... That's strange.)
+##
+
+{SE: Accent41-1}
+#Message#
+\C[4](Why were only Mai's \C[2]gloves\C[4]
+ not put back on her, I wonder...?)
+##
+
+#Choice#
+The gloves were lame
+The gloves transformed
+The gloves didn't fit
+##
+
+<手袋がダサかった>
+
+{Sara} [Hinako: Mouth open / cara93-2]
+{SE: Accent21-1}
+#Message#
+"Were the gloves... lame?"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."They're not lame!! You're mean, Sara!!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Ya think it's gotta do with the design?!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Wrong... It's not like that...)
+##
+
+<手袋が変形した>
+
+{Sara} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: Accent21-1}
+#Message#
+"The gloves... had transformed?"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+"What do you mean?! Did they get all limp?!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Whaddya mean by that?!
+ Did they get all stretched out?!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](N-No, that doesn't seem right...)
+##
+
+<手袋が入らなかった>
+
+{Sara} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: Accent21-1}
+#Message#
+"Did the gloves... not fit...?"
+##
+
+<Choice End>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+"You mean the gloves shrank?!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"The gloves shrank?!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+#Message#
+\."No..."
+##
+
+#Message#
+\.".........."
+##
+
+{SE: Accent41-1}
+#Message#
+\."\C[2]The opposite\C[0]..."
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+\."...Opposite?"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."You're saying it's because her \C[2]hands got bigger\C[0]...?"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent21-1}
+#Message#
+\."You mean... her \C[2]hands got bigger\C[0], meow?"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Exactly
+Wrong
+##
+
+<その通り>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+{SE: sceneswitch2}
+#Message#
+"Exactly..."
+##
+
+<違う>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent21-1}
+#Message#
+"Wrong..."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: shrink1}
+#Message#
+\."Uh...? Is it, meow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](H-Huh? I'm getting kinda confused.)
+##
+
+#Message#
+\.\C[4](Let me think about it again...)
+##
+
+<Choice End>
+
+{Sara} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent43-1}
+#Message#
+\."The \C[2]hands that got attached to Mai\C[0]...
+ were \C[2]bigger\C[0] than her original hands."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."...?"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."...?"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](I've come to an absurd conclusion...
+ But it'd be consistent with the \C[2]fingerprint scan\C[4]...)
+##
+
+#Message#
+\."Like the creation of \N[4]'s ID card..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."This floor has been designed
+ to suit \C[2]the Floor Master, \N[4]\C[0]."
+##
+
+{SE: Accent28-1}
+#Message#
+\."So then... It's natural that the \C[2]fingerprint scanner\C[0]
+ would also be configured for \C[2]\N[4]\C[0]..."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, closed teeth, grim look / cara92-12]
+#Message#
+\."..."
+##
+
+[Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+{SE: Accent21-1}
+#Message#
+\."Eh...?"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: Accent21-1}
+#Message#
+\."Ah..."
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+#Message#
+\."And Mai's hand, which she used
+ for the fingerprint scan..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Was \C[2]bigger\C[0] than her original hand..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."As if... it were \C[2]a man's hand\C[0]..."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."Then...!!"
+##
+
+[Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."You're trying to say my hands...
+ are \C[2]\N[4]'s hands\C[0]...?!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Then...!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."You're tryin' to say Mai's hands...
+ were \C[2]\N[4]'s hands\C[0]...?!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."S-She had seaweed head's parts, meow?!"
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\."Not necessarily any old parts..."
+##
+
+#Message#
+\."We've discovered that
+ \C[12]blue means human\C[0], \C[10]red means doll\C[0]..."
+##
+
+#Message#
+"Do you remember?
+ When she did the fingerprint scan..."
+##
+
+{SE: horror_piano chord3}
+#Message#
+"It glowed \C[12]blue\C[0]..."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\.\{"Stop it...!!"\.
+##
+
+[Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."That means these hands...!
+ These hands attached to me...!!"
+##
+
+{Sara}
+{SE: shock1}
+#Message#
+\C[10]"They're... \N[4]'s human hands."
+##
+
+{Mai}
+#Message#
+\.\{"NOOOOOOOOOOOOOOO!!!!"\|\|\^
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\.\{"Hang on...!!"\.
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."That means Mai... her hands...!"
+##
+
+{Sara}
+{SE: shock1}
+#Message#
+\.\C[10]"They're... \N[4]'s human hands...!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\.\{"They WHAAAAAAAAAAT...?!"\|\|\^
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, crying, closed teeth, grim look / cara92-16]
+{SE: Accent21-1}
+#Message#
+"*sniff*... Oogh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I feel sorry for Mai, but...)
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+{SE: Accent21-1}
+#Message#
+"*pant*... *pant*..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Q-taro won't want to hear this, but...)
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+#Message#
+\."It's possible that wasn't a fingerprint scanner..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It might have been a \C[2]blood tester\C[0],
+ that pricked the finger..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."You sayin' there's blood in there...?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."So \N[4] \C[2]cut off his own hands\C[0]
+ to attach them to Mai...?!"
+##
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Kanna} [Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+\."Then \N[4] \C[2]cut off his own hands\C[0]
+ to attach them to Mai...?!"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."\N[4]... He \C[2]cut off his own hands\C[0]
+ to attach them to Mai...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."And instead, he equipped a \C[2]rocket punch\C[0]!"
+##
+
+#Message#
+\."That would give us an explanation where
+ \N[4] is \C[12]human\C[0] and Mai is a \C[10]doll\C[0]...!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."That's... insane...!"
+##
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."That's... insane...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."That's... insane...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."He's beyond messed up...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, crying, closed teeth, grim look / cara92-16]
+#Message#
+\.".........."
+##
+
+#Message#
+\."..............."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Horrible..."
+##
+
+#Message#
+\."Disgusting... So disgusting...!!"
+##
+
+#Message#
+\."I'll kill that madman! I swear I will...!!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\.".........."
+##
+
+#Message#
+\."..............."
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+{SE: Accent21-1}
+#Message#
+\."That just... ain't right..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Can we really win against him...?"
+##
+
+#Message#
+\."Against a guy who can calmly cut off his hands...!!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{N/A}
+#Message#
+\SP[10]"...Phft..."\.
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+"Aaahahahahaha!!"
+##
+
+[Midori: Head bowed / cara19-33]
+#Message#
+\."Haha...!! Haaa... ahaha...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."You were listening this whole time...?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."So you were listening, huh?! \N[4]...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+{SE: Accent28-1}
+#Message#
+\."It was so funny,
+ I couldn't hold it in anymore! Ahaha!"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, crying, closed teeth, grim look / cara92-16]
+#Message#
+\."There's nothing funny about this!!
+ I swear, I'm going to kill you...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: flash-of-light-3}
+#Message#
+\."Yes, yes! That's what the game is about!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Bastard!! What's funny about this?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."I mean, everybody's so horrified! Ahaha!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+[Midori: Default grin / cara19-2]
+{SE: Accent24-1}
+#Message#
+\."Well? Won't you pick your first coffin already?
+ I'm about to die of boredom!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."That's right!
+ If we've reached a conclusion... we gotta choose!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Yes, that's right...!
+ If we've reached a conclusion... we must choose!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That's right...!
+ We've come to a conclusion... now we gotta choose!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Right...!
+ What we learned in that discussion was...)
+##
+
+#Choice#
+\N[4] is \C[12]human
+\N[4] is a \C[10]doll
+##
+
+<\N[4]は\C[12]人間>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"\N[4] is an unbelievable man,
+ able to cut off his own hands..."
+##
+
+#Message#
+\."He's a \C[12]human\C[0], with blood flowing through him!!"
+##
+
+<\N[4]は\C[10]人形>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"\N[4] is a \C[10]doll\C[0]...!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."That ain't right!
+ What was all that discussion we just had?!"
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: Accent28-1}
+#Message#
+\."And... all six of the Dummies are \C[10]dolls\C[0]!"
+##
+
+#Message#
+\C[4](Which means... hmm...)
+##
+
+{SE: Accent21-1}
+#Message#
+\."\N[4] is in one of the five \C[2]glowing coffins\C[0]."
+##
+
+#Message#
+\."We used the hint on one, coffin #\V[981]...
+ and were told \C[10]red: doll\C[0]."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But \N[4] is a \C[12]human\C[0]...
+ So #\V[981] won't be it!"
+##
+
+#Message#
+\.\C[4](...Which means...)
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[4](...Huh?)
+##
+
+{Q-taro}
+#Message#
+"So in the end... It's one in four?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."Wha...?! After all this discussion?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."If both Gin and \N[4] are \C[12]human\C[0],
+ then is there no way to tell 'em apart after all?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."If Gin and \N[4] are both \C[12]human\C[0],
+ then, like! There's no way to tell them apaaaart?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."...Ooof...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](N-No way...!)
+##
+
+#Message#
+\.\C[4](Why has it come to this?!)
+##
+
+{SE: Accent21-1}
+#Message#
+\."...W-We just need to calm down!"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.".........."
+##
+
+[Kanna: Upset look / cara3-27]
+#Message#
+\."Err... Our options are..."
+##
+
+{SE: Accent21-1}
+#Message#
+"Pick the \C[2]#\V[981] coffin\C[0], knowing it'll be a miss..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Or \C[2]aim for \N[4]\C[0] with one in four odds...
+ with the possibility of hitting Gin."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."After all that... this is where we're at."
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."If Gin and \N[4] are both \C[12]human\C[0],
+ there's no way to tell them apart after all...!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."...Ooof...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](N-No way...!)
+##
+
+#Message#
+\.\C[4](Why has it come to this?!)
+##
+
+{SE: Accent21-1}
+#Message#
+\."...W-We just need to calm down!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.".........."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Listen... We've got two options."
+##
+
+{SE: Accent21-1}
+#Message#
+"Pick the \C[2]#\V[981] coffin\C[0], knowing it'll miss..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Or risk the chance of hitting Gin...
+ and \C[2]aim for \N[4]\C[0] with one in four odds."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"That can't be...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"Say what...?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"...Can't be serious...!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\C[4](There's nothing left to reason with...)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](We have to think... and choose...)
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[4](This choice could end up killing Gin...!)
+##
+
+#Message#
+\.\C[4](I absolutely can't choose wrong!!)
+##
+
+<If Switch #25 (★マイ生存ルート) is OFF>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is OFF>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+#Message#
+
+　　　　　　　\V[341]\C[3]Defeat \N[4]
+##
+

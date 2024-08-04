@@ -1,0 +1,132 @@
+**********Common198********** (⑦進展●「包丁ないが？」)
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Did you really not touch anything?"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Huh...?!"
+##
+
+{Sara}
+#Message#
+\."The kitchen had been locked until then."
+##
+
+#Message#
+\."And after you left, Nao,
+ we obtained this long, narrow box."
+##
+
+#Message#
+\."There was nothing inside."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Only Nao could have taken the knife out of it!"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."I-I don't know anything about that!"
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Hold on... When and how did Nao
+ find the key to the kitchen, anyway?"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\.".........."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent28-1}
+#Message#
+\."It was open..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Eh...?)
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."The kitchen door was unlocked at the time!"
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+{SE: Accent21-1}
+#Message#
+\."So... I ran in and locked it from the inside."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then somebody else went in first, meow!
+ That's who took the knife, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](First... I carried Alice over to the Pink Room.)
+##
+
+#Message#
+\.\C[4](At that time, someone dug through the kitchen...
+ took the knife, and left...)
+##
+
+#Message#
+\.\C[4](Finally, Nao went into the kitchen
+ with the box and locked herself in.)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Does the timing... work out?)
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Hmm... Maybe that's logical?
+ It's super sketchy, though..."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."I-It's not sketchy in the least!!
+ I-I'll tell you anything!!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Well then, miss Nao...
+ Tell us what you were doing in the kitchen."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+"The whole time... I just sat and held the profess...
+ The box! I didn't move an inch!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"...Welp...
+ Guess you'll just have to break the ice, Sara."
+##
+
+{Sara}
+#Message#
+\C[4](Yeah... I need to ask her about... that...!)
+##
+

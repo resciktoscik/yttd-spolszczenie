@@ -1,0 +1,18 @@
+**********Common1432********** (③ヒナコB選択)
+{N/A}
+#Message#
+"Argh, how annoying...! Give it to me!
+ I'll pound any noise-making garbage into dust!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

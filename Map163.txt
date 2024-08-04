@@ -1,0 +1,573 @@
+=====Map163===== (==Doll Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](What in the...?!)
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Myaooowww?! Creepy, woof!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Oogh..."
+##
+
+{Sara}
+#Message#
+\."Don't tell me these are all..."
+##
+
+#Choice#
+Dolls?
+Humans?
+##
+
+<人形か？>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent21-1}
+#Message#
+\."Dolls...?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."There's even one that looks just like me, woof!"
+##
+
+<人間か？>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent21-1}
+#Message#
+\."Humans...?"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Ehh?! No... That can't be right!!"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."They're all dolls, woof... Eerie, meow..."
+##
+
+<Choice End>
+
+
+**********Event2********** (mannaka) (8,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]In the middle stand numerous dolls,
+including ones of myself, Keiji, and Kanna.
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Oof... Feels like they'll start
+ talking to me any second, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... I don't think they're going to start moving.)
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."There are even dolls of people we never met..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Probably those who were already made victims...)
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+"Big sis Sara, even your doll is pretty, woof!"
+##
+
+{Sara}
+#Message#
+\."...Haha. Thanks, Gin."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]In the middle stand numerous dolls,
+including ones of myself, Keiji, and Kanna.
+##
+
+
+**********Event3********** (migi) (13,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]On the right stand numerous dolls,
+including ones of Gin and Alice.
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Like looking in a mirror, woof..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+It just moved a little
+Weird clothes
+Talk about cute
+##
+
+<今ちょっと動いた>
+
+{Sara} [Gin: Worried / cara9-3]
+#Message#
+\."Hey, it just moved a little."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."My-myrooooowr?!"
+##
+
+{Sara}
+#Message#
+\."Just my imagination."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Big sis Sara!! You've got a mean look, woof!!"
+##
+
+<変な服だ>
+
+{Sara} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Weird clothes."
+##
+
+{Gin}
+#Message#
+\."That's rude to me, big sis Sara! Meow!"
+##
+
+{Sara}
+#Message#
+\."I was kidding, Gin."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."..."
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."...I feel a little better, woof."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin...)
+##
+
+<かわいいよ>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Talk about cute."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Mrooow...
+ You can't say that to a boy, big sis Sara!"
+##
+
+{Sara}
+#Message#
+\."Sorry. I meant to say "cool.""
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Yeah! No prob, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Haha...)
+##
+
+<Choice End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Making a doll of me without permission
+ is infringing on my likeness, meow!"
+##
+
+#Message#
+\."..."
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."Not like our rights
+ are being respected anyway, woof..."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]On the right stand numerous dolls,
+including ones of Gin and Alice.
+##
+
+
+**********Event4********** (hidari) (0,2)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]On the left stand numerous dolls,
+including ones of Sou, Q-taro, and Professor Mishima.
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Even the loner gets a doll, meow.
+ Makes me peeved, woof."
+##
+
+{Sara}
+#Message#
+\."Sou, huh..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\.\C[4](The person in the photo on the laptop...)
+##
+
+#Message#
+\.\C[4](He was wearing the same scarf as Sou.)
+##
+
+#Message#
+\.\C[4](Just what relation do they have...?)
+##
+
+<Else>
+
+#Message#
+\.\C[4](The person in the photo on the laptop...)
+##
+
+#Message#
+\.\C[4](Alice called him Sou Hiyori.)
+##
+
+#Message#
+\.\C[4](Just what relation do the two Sous have...?)
+##
+
+<Condition End>
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Big sis Sara, what do you think of the loner, woof?"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+#Choice#
+He's an enemy
+He's an ally
+I don't know
+I hate him
+##
+
+<敵だ>
+
+{Sara} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+\."...He's an enemy."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Mya?!"
+##
+
+{Sara}
+#Message#
+\."I don't really know for sure...
+ But I feel like Sou sees me as hostile."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Meow..."
+##
+
+<仲間だ>
+
+{Sara} [Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+\."...He's an ally."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Big sis Sara... You're nice, meow."
+##
+
+{Sara}
+#Message#
+\."Sou's made me suffer again and again..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."But first and foremost, I want to believe him."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Meow..."
+##
+
+<わからない>
+
+{Sara} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+\."...I don't know."
+##
+
+#Message#
+\."What Sou wants, what he's thinking..."
+##
+
+#Message#
+\."I feel there's something deep within him
+ that I still don't know."
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."Meow..."
+##
+
+<嫌い>
+
+{Sara} [Gin: Looking up, sad / cara9-12]
+{SE: Accent21-1}
+#Message#
+\."...I hate him."
+##
+
+#Message#
+\."The lies he tells, and how he uses other people."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."But wanting us to escape all together...
+ That's not a lie."
+##
+
+#Message#
+\."I bet if we can be freed from here,
+ I might get to know the real Sou."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Meow..."
+##
+
+<Choice End>
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+"Let's scribble on the loner's doll, meow!"
+##
+
+{Sara}
+#Message#
+\."Gin..."
+##
+
+#Choice#
+Don't get us caught
+We don't have a pen
+##
+
+<バレるからダメ>
+
+{Sara} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."Safalin will find out. Don't touch them."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Meow! You'll live to see another day, loner!"
+##
+
+<ペンが無いぞ>
+
+{Sara} [Gin: Smile / cara9-2]
+#Message#
+\."I know the feeling, but we don't have a pen."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Too bad, meow...!"
+##
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]On the left stand numerous dolls,
+including ones of Sou, Q-taro, and Professor Mishima.
+##
+
+
+**********Event5********** (kemu) (12,8)
+-----Page1-----
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+"I smell something further back too, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](It keeps going...?!)
+##
+
+#Message#
+\.\C[4](Once we've searched here, I guess we'll go there...)
+##
+
+-----Page2-----
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"The smell's stronger further ahead, meow."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's got a nose like a dog...)
+##
+
+
+**********Event112********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event113********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event114********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event115********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event116********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event117********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event119********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

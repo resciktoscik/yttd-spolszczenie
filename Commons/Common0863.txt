@@ -1,0 +1,100 @@
+**********Common863********** (ｶﾝﾅ「…」)
+{Kanna}
+#Message#
+"Everyone... Won't you vote for Kanna...?"
+##
+
+#Message#
+".........."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](I shouldn't...)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](I shouldn't...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+".........."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+"..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."....."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."Everyone... um..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."Won't you vote for Kanna...?"
+##
+

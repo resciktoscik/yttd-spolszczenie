@@ -1,0 +1,128 @@
+**********Common1561********** (★ﾊﾞﾄﾙ⑨流れ)
+{N/A}
+#Message#
+\.\C[3]A sharp pain runs through my body.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Kei... ji..."
+##
+
+{Shadow}
+#Message#
+"Sara...!!"
+##
+
+{N/A}
+#Message#
+\C[3]I think... the last thing I saw...
+##
+
+{SE: Accent43-1}
+#Message#
+\.\C[3]...was Keiji's face.
+##
+
+{SE: heart2}
+#Message#
+\C[3]
+
+
+　　　　　　　　　Some time earlier...\|\|\^
+##
+
+#Message#
+"Yo. How're ya feelin'?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent21-1}
+#Message#
+"You got a pretty pained look, there."
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."At least gimme a reply... Keiji."
+##
+
+{Keiji}
+{SE: Accent40-1}
+#Message#
+"...Morning."\.
+##
+
+#Message#
+\C[4](Whew... My head's still spinning...)
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: flash-of-light-3}
+#Message#
+"Glad yer okay. Can you stand?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+I'm alright
+Having some trouble
+##
+
+<大丈夫さ>
+
+{Keiji} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent40-1}
+#Message#
+"...I'm alright."
+##
+
+<ちょっと立てないかな>
+
+{Keiji} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent40-1}
+#Message#
+"...Kinda having some trouble."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: shrink1}
+#Message#
+\."Okay, I'll close 'er back up."
+##
+
+{Keiji}
+#Message#
+\."Fine, fine, I'm getting out..."
+##
+
+<Choice End>
+
+{Mai} [Mai: Worried eyebrows, mouth open / cara92-11]
+{SE: Accent21-1}
+#Message#
+"Hey, you look pretty drained... Are you okay?"
+##
+
+{Keiji}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."...Nah, no problems here. Appreciate the concern."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."Jes' not the most expressive guy, I guess..."
+##
+
+{Keiji}
+#Message#
+\C[4](Now... gotta wake up and assess the situation.)
+##
+

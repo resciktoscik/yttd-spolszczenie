@@ -1,0 +1,23 @@
+**********Common134********** (ｶｲ「調理室痕跡無し」)
+{Kai}
+#Message#
+"After everyone else, I inspected the kitchen,
+ and found no signs of any trickery."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+"I believe I searched every inch. My heart especially
+ danced with the hope of finding food."
+##
+
+#Message#
+\."In the end, my dream of preparing Eggs Benedict...
+ was fleetingly scattered..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."That's a real shame."
+##
+

@@ -1,0 +1,304 @@
+**********Common1338********** (18、間違いどす)
+{Keiji}
+#Message#
+\C[4](This scroll-like sign...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Yeah...!
+ That had some outrageous words written on it!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Thunder10}
+#Message#
+\.""A sound mind makes a sound body"! That unscientific
+ poster bein' there... I saw the limits of medicine!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Nice... Maybe I'll put that up myself."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I mean, you can do what you like, I s'pose..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.\C[4](Nothing all that suspicious here...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\C[4](This customer sitting in the back...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this person a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Probably just a normal customer."
+##
+
+#Message#
+\."Can't imagine we're connected.
+ Should just be a regular person..."
+##
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\."You didn't sense him watching you, say...?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Dunno... I usually try not to mind that stuff."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](Hmm... probably not relevant...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](These devices on the shelf...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Huh... You're curious?
+ Well, they're just devices for getting online..."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."You'll never keep up these days
+ if you don't strengthen your connection!"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."Never mind that,
+ is there anything suspicious about them?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...Nope."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+\C[4](This woman doctor...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this person a little more?"
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Yeah! That's the doctor lady
+ who's always in the infirmary, meow!"
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\."If I got hurt, she'd give me a bandage...
+ If I was feeling bad, she'd let me lie down, woof."
+##
+
+[Gin: Smile, hands in front / cara9-5]
+#Message#
+\."But I heard rumors that
+ she's pretty strict about faking sick, meow!"
+##
+
+{Sara} [Sara: Hands on hips, smug smile / cara0-17]
+#Message#
+\."You wouldn't do that, would you, Gin?"
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."I'll only nap fair and square, meow!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\C[4](These bottles of coffee on the shelves...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ They just looked like fancy decorations."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Apparently bitter coffee goes well with sweets...
+ But Kanna can't drink it, so she isn't sure."
+##
+
+[Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."But coffee jelly is delicious!
+ And sweet!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](That's not much of a clue...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This poster on the wall between the beds...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Surprised face / cara11-2]
+#Message#
+\.".........."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."That's... a Reko poster."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+#Message#
+\."When I... heard she'd formed a new band...
+ Err..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."While I felt lonely... I was also happy."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+#Message#
+\."She got back into music after all...
+ Whether I was there or not."
+##
+
+{Sara} [Sara: Hands on hips, groan / cara0-22]
+#Message#
+\.\C[4](Alice...)
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."...That's enough of this topic."
+##
+
+<やめる>
+
+<Choice End>
+

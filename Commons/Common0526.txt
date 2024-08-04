@@ -1,0 +1,141 @@
+**********Common526********** (ｶﾝﾅ「ﾆｾは変装？」)
+{Kanna}
+#Message#
+"None of us can obtain her clothes...
+ So none of us could dress up like her!"
+##
+
+#Message#
+"...Could the Reko who broke the monitor
+ have been someone else in disguise...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"Urgh... That... um... might not be relevant..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Ooh... umm... I don't really know..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Kanna}
+#Message#
+"Ooh... umm... I don't really know..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Kanna}
+#Message#
+"Ooh... umm... I don't really know..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Kanna wanted to wear them too, so she asked,
+ but it didn't work..."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."She's sure Reko kept them safely stored..."
+##
+
+{Sara}
+#Message#
+\.\C[4](She wanted to wear them...?)
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"After all... Reko wears enough makeup that
+ you could look like her if you wore it too..."
+##
+
+[Kanna: Looking down to side, eyes looking back curiously / cara3-17]
+#Message#
+\."But Reko said she was careful to store her clothes
+ in her room so no one could steal them."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+{SE: Accent28-1}
+#Message#
+\."None of us can obtain her clothes...
+ So none of us could dress up like her!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Dress up...?)
+##
+
+#Message#
+\.\C[4](Come to think of it...
+ Haven't I heard the words \C[2]dressup doll\C[4] recently...?)
+##
+

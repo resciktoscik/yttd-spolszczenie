@@ -1,0 +1,228 @@
+=====Map9===== (OP7 Living Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+\C[3]It's pitch black.
+##
+
+{Sara}
+#Message#
+\."This is bizarre...
+ There can't be no one here!"
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](I'll turn on the \C[2]lights\C[4]...!)
+##
+
+
+**********Event2********** (den) (13,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The light switch.
+##
+
+#Choice#
+Turn on lights
+Cancel
+##
+
+<電気を点ける>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+#Message#
+\C[4](I have a bad feeling...)
+##
+
+#Choice#
+Still turn on lights
+Cancel
+##
+
+<それでも電気を点ける>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+#Message#
+\C[4](...Okay, turning them on!)
+##
+
+{SE: horror_3}
+#Message#
+\sp[20]\at[2]"...M... Mom...?"\.\.
+##
+
+#Message#
+\."Mom!!"
+##
+
+#Message#
+\."Mom! Mom!!"
+##
+
+-----Page2-----
+#Message#
+\C[3]The lights are already on.
+##
+
+
+**********Event3********** (haha) (13,7)
+-----Page1-----
+{Sara}
+#Message#
+"Mom! Hang in there!"
+##
+
+{N/A}
+#Message#
+\.\C[3]...She's breathing.
+It looks like she fainted.
+##
+
+{Sara}
+#Message#
+\."What do I do... What do I do..."
+##
+
+
+**********Event4********** (EV004) (3,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a key on the floor.
+##
+
+#Message#
+\.\C[3]Obtained \C[2]Room Key\C[3].
+##
+
+{Sara}
+#Message#
+\."Why is this here...?"
+##
+
+
+**********Event6********** (EV006) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The key to Sara's room.
+##
+
+
+**********Event12********** (TV) (6,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]...Too dark to see.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A wall-mounted TV.
+##
+
+
+**********Event25********** (sya) (6,1)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]...Too dark to see.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A photo of my grandfather who died when I was young.
+##
+
+
+**********Event26********** (sya) (3,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]...Too dark to see.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A photo from a family trip to Hokkaido.
+##
+
+
+**********Event27********** (hon) (2,2)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]...Too dark to see.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]Bookshelves. Ranging from dad's complicated books
+to manga and magazines, they're not at all organized.
+##
+
+
+**********Event35********** (tya) (5,5)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]...Too dark to see.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]Fancy containers.
+##
+
+
+**********Event37********** (boto) (7,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]...Too dark to see.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A washed bottle, in its usual location.
+##
+
+
+**********Event42********** (tobi) (10,2)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]...Too dark to see.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A door leading to my parents' room.
+##
+
+
+**********Event56********** (tobi2) (1,1)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]The door to the hallway.
+##
+

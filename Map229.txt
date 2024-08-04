@@ -1,0 +1,771 @@
+=====Map229===== (⑤Ranmaru Bomb)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+"W... We did it! It's stopped!!"
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."That means we were able to reset it, right...!?"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\.".........."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."Aww, so boring..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Alright, I'll accept a loss this time."
+##
+
+[Midori: Mouth open, swirly eyes / cara19-6]
+#Message#
+\."I'll have to prepare a more fun trap next time..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent40-1}
+#Message#
+"Guys..."
+##
+
+[Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."I'm real sorry... I..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Hold up. That ain't what you say here, is it?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Ahem... Is that what you should be saying...?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."Urk..."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."U-Um..."
+##
+
+[Ranmaru: Hands in pockets, raised-eyebrows smile / cara91-25]
+{SE: Accent28-1}
+#Message#
+\."...Thanks. You saved me..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Heh heh... Good for you."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... Good for you..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+#Message#
+\."Ranmaru..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+[Ranmaru: Hand on face, looking to side / cara91-31]
+#Message#
+\."U... Uh, so, Sara..."
+##
+
+[Ranmaru: Hand on face, looking to side and glancing toward camera / cara91-32]
+{SE: Accent41-1}
+#Message#
+\."If it were... for your sake, Sara... um..."
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Smile / cara96-6]
+#Message#
+\."Yaaah! What's this?! Whatcha talkin' about?!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Uhh... Nah, forget I said anything..."
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."What's that, meow?!
+ Get away from big sis Sara, cotton candy!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Whaaa?!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+[Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."W-Wha...?! You're kidding, right...?!"
+##
+
+#Message#
+\."*pant*...!! *pant*...!!"
+##
+
+#Message#
+\."Urgh...! No! Somebody...!!"
+##
+
+#Message#
+\."Ooogh..."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."...?"
+##
+
+{SE: Accent21-1}
+#Message#
+\."H-Huh? Nothing's happening...?"
+##
+
+{SE: Accent41-1}
+#Message#
+\."Did it fail...?"
+##
+
+[Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Like, for real... nothin's happening..."
+##
+
+{Sara}
+#Message#
+\."Ngh..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."W-Wait, you're okay...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."...Ooh..."
+##
+
+[Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+\."A-Are you okay...?"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."...Ooof..."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent21-1}
+#Message#
+\."Huh... You fine now?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Nngh..."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent21-1}
+#Message#
+\."H-Huh, you're okay...?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...Nghhh..."
+##
+
+[Alice: Surprised face / cara11-2]
+{SE: Accent21-1}
+#Message#
+\."...Mm? It seems you're all right...?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."Mm... mya..."
+##
+
+[Gin: Shocked, claws raised / cara9-7]
+{SE: Accent21-1}
+#Message#
+\."Wah...! You're safe, meow?!"
+##
+
+{Hinako} [Hinako: Eyes closed / cara93-4]
+#Message#
+\."...nn..."
+##
+
+[Hinako: Mouth open / cara93-2]
+{SE: Accent21-1}
+#Message#
+\."...Eh? You're safe...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."...Urrgh..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, slight surprise / cara95-29]
+{SE: Accent21-1}
+#Message#
+\."Uh...? Yer still alive..."
+##
+
+{Anzu} [Anzu: Face buried in darkness of hood / cara96-14]
+#Message#
+\."...Oww..."
+##
+
+[Anzu: Hood over half of face, worried, mouth open / cara96-11]
+{SE: Accent21-1}
+#Message#
+\."Wha... You're safe! Oh, thank goodness...!"
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."...Oof..."
+##
+
+[Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."...Oh? You're all right...?"
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side and glancing toward camera / cara91-32]
+{SE: sceneswitch2}
+#Message#
+\."Y-Yeah... Was it seriously just an empty threat?"
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."I can't imagine that..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."Hah... Bet runnin' electricity through it busted it."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."Ain't that nice? Malfunction workin' in your favor."
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side / cara91-31]
+#Message#
+\."...Guess so..."
+##
+
+[Ranmaru: Hands in pockets, raised-eyebrows smile / cara91-25]
+#Message#
+\."Looks like I made a narrow escape! Heh..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."Yep, you're saved! Let's celebrate!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."Mwahaha... What luck. We should rejoice...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[4](He was left alive...?)
+##
+
+#Message#
+\.\C[4](No... I can't imagine...)
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Right... At any rate, let's get out of here!"
+##
+
+[Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: sceneswitch2}
+#Message#
+\."The elevator just started back up...!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+\."We can go to the lower floor?!"
+##
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+#Message#
+\."Right. We need to get there before \N[4]!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."We can go to the lower floor, woof?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Then we need to get there before \N[4]..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: Accent42-1}
+#Message#
+\."It'll be bad news if it gets blocked again...!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\."Y-You're right!"
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Let's go, Sara! To the lower floor!"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Please, let them all be safe...!)
+##
+
+
+**********Event15********** (denki-EV) (8,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A strange device stretches throughout the room.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent21-1}
+#Message#
+"W-What is this...?"
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: Accent41-1}
+#Message#
+\."A collar reset device."
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+"A reset...? For the bomb?!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."And how the hell do you know that, Hinako?!"
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent21-1}
+#Message#
+\."Oh, I don't know... Just suddenly remembered."
+##
+
+[Hinako: Small grin / cara93-3]
+#Message#
+\."You don't have to believe me...
+ but do you have any other way?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Urk..."
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."No objections? All right..."
+##
+
+[Hinako: Mouth open / cara93-2]
+{SE: Accent28-1}
+#Message#
+\."Sara-senpai, call everyone here."
+##
+
+{Sara}
+#Message#
+\."Everyone...?"
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+#Message#
+\."Yep... It's a pretty intense device, apparently.
+ We'll need cooperation."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+"...So this is a machine for resetting collars?"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+"...It's a machine for resetting collars?"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Ain't that huge news?!
+ Disablin' these collars that restrain us...!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Mwahaha... What terrifying service...
+ This is quite the tremendous privilege."
+##
+
+<Condition End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."If we can all deactivate them,
+ we won't have to be afraid anymore, meow!!"
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent40-1}
+#Message#
+\."It's not that all-powerful, people.
+ It can only do it for the Dummies."
+##
+
+[Hinako: Mouth open / cara93-2]
+#Message#
+\."And also, it just disables the tag mode... I think."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Oh, meow..."
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: Accent41-1}
+#Message#
+\."To do that... everyone'll put themselves at risk."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."At risk...?"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Risk...?"
+##
+
+<Condition End>
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This device forces a reset
+ by \C[2]sending electric current\C[0]."
+##
+
+[Hinako: Eyes closed, grin / cara93-6]
+{SE: sceneswitch2}
+#Message#
+\."...Using our bodies as conduits, that is."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."The hell...?!"
+##
+
+<Else>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."Please, don't casually say such scary things!!"
+##
+
+<Condition End>
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+#Message#
+\."Relax. It won't be enough to kill you..."
+##
+
+[Hinako: Small grin / cara93-3]
+{SE: Accent42-1}
+#Message#
+\."But if somebody passes out midway... we fail.
+ Ranmaru's gonna die."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\.".........."
+##
+
+[Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."Then... we just gotta do it!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\.".........."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."Well then... Let's get on with it, shall we?"
+##
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Wha...?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."Right! We can handle that much...!"
+##
+
+<Else>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Be grateful, cotton candy!"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry eyes / cara6-39]
+#Message#
+\."Ranmaru's our ally...!
+ We'll definitely save him, everybody!!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."We aren't going to let \N[4]
+ have his way with us...!"
+##
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Guys..."
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Y-Yikes...! It's gonna...!!"
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."Hurry! Stand in the center!"
+##
+
+-----Page2-----
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent21-1}
+#Message#
+"Guys... I'm counting on you...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Let's do it!)
+##
+
+#Choice#
+Use the device
+Cancel
+##
+
+<装置を使う>
+
+<やめる>
+
+<Choice End>
+
+{N/A} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: WON-robo4}
+#Message#
+\C[3]Making a noise, the device started up.
+##
+

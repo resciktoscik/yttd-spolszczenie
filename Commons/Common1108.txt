@@ -1,0 +1,23 @@
+**********Common1108********** (呼・右のヒツギ)
+{Sara}
+#Message#
+\C[4](Should we pick the right coffin...?)
+##
+
+#Choice#
+Decide on right coffin
+Cancel
+##
+
+<右のヒツギに決定>
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+"Alright... The right coffin!"
+##
+
+<やめる>
+
+<Choice End>
+

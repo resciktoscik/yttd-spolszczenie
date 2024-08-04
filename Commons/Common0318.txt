@@ -1,0 +1,12 @@
+**********Common318********** (カード選択後)
+#Choice#
+Fight with this
+Retry
+##
+
+<これで挑む>
+
+<やり直す>
+
+<Choice End>
+

@@ -1,0 +1,88 @@
+**********Common753********** (ﾅｵ「ｹｲｼﾞ鍵番？」)
+{Nao}
+#Message#
+"Is the policeman really the \C[2]Keymaster\C[0]?!
+ Isn't there something strange here...?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+"What in the world is this...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Aaaah... I can't comprehend!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+"Is there any possibility that his \C[2]Keymaster\C[0]
+ was sent somewhere else at some point?!"
+##
+
+{Sara}
+#Message#
+\."Q-taro's \C[3]Sage\C[0] power should let him see
+ that Keiji's the \C[2]Keymaster\C[0]."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Then... is that possibility zero?!"
+##
+

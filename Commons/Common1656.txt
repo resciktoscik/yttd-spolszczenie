@@ -1,0 +1,143 @@
+**********Common1656********** (◆ﾗﾝﾏﾙ「塗料が服に！」)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru}
+#Message#
+"I know! Wouldn't it get on their hands or clothes
+ when they applied it? That paint stuff!"
+##
+
+<Else>
+
+#Message#
+"Wouldn't it get on their hands or clothes
+ when they applied it? This paint stuff..."
+##
+
+<Condition End>
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<Else>
+
+[Ranmaru: Evil, smile / cara91-38]
+#Message#
+"...Haha."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<Else>
+
+[Ranmaru: Evil, smile / cara91-38]
+#Message#
+"...Haha."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"Sara! Check if there's paint on anyone's clothes!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...Nope, don't see anything."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+\."Seriously?! Not even \N[4]?!"
+##
+
+{Sara}
+#Message#
+\."...I can't see someone inside a coffin."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."O-Oh, right... Dammit...!"
+##
+
+<Else>
+
+[Ranmaru: Evil, mouth open / cara91-40]
+{SE: Accent21-1}
+#Message#
+"If you want to confirm,
+ just check if anyone has paint on their clothes..."
+##
+
+[Ranmaru: Evil, closed mouth / cara91-39]
+#Message#
+\."...Not that you can see the ones inside coffins."
+##
+
+{Sara}
+#Message#
+\.\C[4](Grr...!)
+##
+
+<Condition End>
+

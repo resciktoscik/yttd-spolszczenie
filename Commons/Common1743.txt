@@ -1,0 +1,103 @@
+**********Common1743********** (▼ﾏｲ「自信すごい」)
+{Mai}
+#Message#
+"He's lying about not fearing death!
+ He just has \C[2]a guarantee he won't lose\C[0]!"
+##
+
+#Message#
+"Why is \N[4] so full of confidence?!
+ It's like he's not expecting to lose...!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"What do you mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"What do you mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Mai} [Mai: Looking down at hand, mouth open / cara92-20]
+#Message#
+"Do you know what that guarantee might be, Sara...?"
+##
+
+[Mai: Worried eyebrows, mouth open / cara92-11]
+#Message#
+\."\N[4] was shaken when you brought up
+ the consent form, right, Sara?!"
+##
+
+[Mai: Worried eyebrows, closed teeth / cara92-10]
+{SE: Accent21-1}
+#Message#
+\."And yet now... he's calm!"
+##
+
+[Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent40-1}
+#Message#
+\."That must be because he isn't going to die
+ if we pick the #\V[991] coffin!"
+##
+
+[Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+{SE: sceneswitch2}
+#Message#
+\."He's lying about not fearing death!
+ He just has \C[2]a guarantee he won't lose\C[0]!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](A guarantee he won't lose...)
+##
+

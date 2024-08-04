@@ -1,0 +1,153 @@
+=====Map53===== (Left Black Room)
+
+**********Event1********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event2********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event3********** (EV003) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event4********** (syure) (4,7)
+-----Page1-----
+#Message#
+\C[3]An electric paper shredder.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's a machine for shredding documents and such...
+ There are lots of shredded pieces inside.)
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"How about it, Sara?
+ You see anything of interest?"
+##
+
+{Sara}
+#Message#
+\."This...?"
+##
+
+{Reko} [Reko: Default / cara6-1]
+{SE: extend1}
+#Message#
+\."Huh, just garbage...
+ Probably just a waste of time to check it all, huh?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... Recreating the documents from
+ all this paper would be very time-consuming.)
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\.".........."
+##
+
+[Gin: Default / cara9-1]
+{SE: Accent28-1}
+#Message#
+\."I'll... try searching it, meow."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Gin...!"
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+\."..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."...Haha. Gin seems all fired up.
+ I'll watch him 'til he's done."
+##
+
+-----Page2-----
+#Message#
+\C[3]An electric paper shredder.
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\C[3]Gin is investigating the scraps inside.
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."...Maybe Gin's startin' to regain his spirits, too."
+##
+
+
+**********Event6********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event12********** (kokuban) (4,1)
+-----Page1-----
+#Message#
+\C[3]A large blackboard with nothing written.
+##
+
+
+**********Event42********** (terasi) (11,0)
+-----Page1-----
+#Message#
+\C[3]The light is pointed at the blackboard.
+##
+
+
+**********Event43********** (りぼるばー) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

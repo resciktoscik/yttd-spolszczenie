@@ -1,0 +1,125 @@
+**********Common992********** (ｶﾝﾅ「ｱﾚをﾊｯｷﾝｸﾞした」)
+{Kanna}
+#Message#
+"I was able to learn the password
+ because of finger marks that were left behind."
+##
+
+#Message#
+"I figured out a password...
+ Breaking into someone else's things...
+ That's called hacking, right?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good! She's unresponsive...!!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"Kanna... isn't incompetent..."
+##
+
+#Message#
+"Sou had been fretting about it since yesterday."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."He was going "I don't know the password!",
+ taking his beanie off and putting it on..."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Suddenly, I looked at Sou's hands,
+ and was struck by how clean he kept them
+ even in these circumstances..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."And then, I had an epiphany."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."That there might be
+ \C[2]traces from the password being typed\C[0]..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent28-1}
+#Message#
+\."So I figured out the password
+ from \C[2]finger marks\C[0] left on the keys."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I extracted a new statement...!)
+##
+

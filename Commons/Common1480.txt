@@ -1,0 +1,81 @@
+**********Common1480********** (戦⑤効果あり行動)
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+"...Huh?"
+##
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+{SE: Accent28-1}
+#Message#
+\."We did it...!
+ Keiji successfully tagged him!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."So... I've lost..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You truly keep surpassing my expectations...!"
+##
+
+[Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+"...Huh?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent28-1}
+#Message#
+\."Way to go, Keiji...
+ \N[4]... You lose."
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."So... I've lost..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You truly keep surpassing my expectations...!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent28-1}
+#Message#
+"I'm close...! It's okay, I won't let him notice me!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."Give me the signal when it's a good time!
+ I'll grab his leg...!!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent28-1}
+#Message#
+"I've caught you, \N[4]!!
+ You won't escape...!!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+\."Waaah! Wha...?!"
+##
+
+{N/A}
+#Message#
+\C[3]Q-taro is restraining \N[4]
+with all his might.
+##
+

@@ -1,0 +1,108 @@
+**********Common263********** (ｿｳ「絵柄は錠前」)
+{Sou}
+#Message#
+"Too bad, Joe.
+ The design for the \C[2]Keymaster\C[0] is a lock."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sara}
+#Message#
+\C[4](This will be my final action...!)
+##
+
+#Choice#
+Deal the final blow
+Cancel
+Think deeply
+##
+
+<トドメを刺す>
+
+<やめる>
+
+<深く考える>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sara}
+#Message#
+\C[4](This will be my final action...!)
+##
+
+#Choice#
+Deal the final blow
+Cancel
+Think deeply
+##
+
+<トドメを刺す>
+
+<やめる>
+
+<深く考える>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+#Message#
+\C[4](This will be my final action...!)
+##
+
+#Choice#
+Deal the final blow
+Cancel
+Think deeply
+##
+
+<トドメを刺す>
+
+<やめる>
+
+<深く考える>
+
+<Choice End>
+

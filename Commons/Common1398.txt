@@ -1,0 +1,55 @@
+**********Common1398********** (呼・クルマダ映像)
+{Voice}
+#Message#
+"Dammit...!! You gotta be shittin' me!!"
+##
+
+{Kurumada}
+#Message#
+"Don't screw with me!! God dammit!!"
+##
+
+#Message#
+\."I'm gonna kill you!!
+ All you bastards who set this shit up are dead!!"
+##
+
+#Message#
+\."You hearin' me?! I'm gonna slaughter you!!"
+##
+
+#Message#
+\."Dammit... dammit..."
+##
+
+#Message#
+\."I'm gonna kill every single one of you
+ who's treating me like this..."
+##
+
+#Message#
+\."Urghh... pieces of... shiiit...!"
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."Please..."
+##
+
+#Message#
+\."I can't move any further...!
+ Stop it... the walls..."
+##
+
+#Message#
+\."The walls..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The video ends here.
+##
+

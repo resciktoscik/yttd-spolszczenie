@@ -1,0 +1,116 @@
+=====Map223===== (Chapter 3-1b Keiji)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]It's dark...
+##
+
+#Message#
+\.\C[3]Where... is this?
+##
+
+#Message#
+
+##
+
+#Message#
+
+##
+
+#Message#
+\C[3]I want out of here...
+##
+
+[Megumi: Smile / cara20-1]
+{SE: Accent21-1}
+#Message#
+"Why did I join the police...?"
+##
+
+[Megumi: Mouth open / cara20-2]
+#Message#
+\."Well... I guess you could say
+ I was looking for something."
+##
+
+#Message#
+\.\C[3]Let me out... of this cage...
+##
+
+[Mr. Policeman: Surprise / cara22-4]
+{SE: sceneswitch2}
+#Message#
+"What am I gonna name my kid when he's born?"
+##
+
+[Mr. Policeman: Closed-eye smile / cara22-3]
+{SE: Accent28-1}
+#Message#
+\."Hmm... It's gotta be a good manly name you can trust!
+ Gahahaha!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]Get me out of this darkness... now...
+##
+
+{Keiji}
+#Message#
+\."Let me out...!!"
+##
+
+#Message#
+\."Let me out of here...!!"
+##
+
+{N/A}
+#Message#
+\.\C[10]"Calm down, Keiji..."
+##
+
+{Keiji}
+#Message#
+\."...Urk..."
+##
+
+{N/A}
+#Message#
+\.\C[10]"Don't be so quick to resort to punching.
+ Surely I taught you that?"
+##
+
+{SE: shock1}
+#Message#
+\.\C[10]"Right, Keiji?"
+##
+
+{Keiji}
+#Message#
+\."...!!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]The coffin went silent.
+##
+
+{\N[4]}
+{SE: Accent28-1}
+#Message#
+\."Yeesh... So you finally settled down."
+##
+
+
+**********Event2********** (保管) (16,11)
+%ignore
+

@@ -1,0 +1,17 @@
+**********Common1457********** (⑤ギンB選択　２)
+{N/A}
+#Message#
+"Can we use the torch on the wall as a weapon, meow?!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,320 @@
+**********Common176********** (②進展●死んでもいい)
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+{SE: Accent28-1}
+#Message#
+"Kanna... doesn't really mind if she's picked..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Wh... aaaaaat...?!"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."She's had... enough...
+ Kanna just..."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: shock1}
+#Message#
+\.\C[10]"...wants to go to her sister..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Kanna!! Don't be ridiculous!!"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."I'm just... tired..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."You gotta be kiddin'!!
+ You really wanna die without a peep?!"
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Please, wait."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\."Miss Kanna, are you serious?
+ Or is this an act?"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Kanna... won't say anything else...
+ Please do what you want..."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."..."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This is troubling...
+ Miss Kanna may have drawn the \C[10]Sacrifice\C[0] card."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+{SE: Accent28-1}
+#Message#
+\."\C[10]Sacrifice\C[0]...?!"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."The \C[10]Sacrifice\C[0] must be chosen to survive.
+ Thus, they would put on a one-man show."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Yet she's got enough motive that
+ we could believe she actually wants to die."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."T-Then no pickin' her for now, right...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Not participating in the discussion
+ so as to earn herself votes...?)
+##
+
+#Message#
+\.\C[4](I can't imagine Kanna
+ playing those sorts of mind games...)
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\.\C[4](Unless... someone suggested it to her...!)
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Everyone, let's just put
+ the subject of Kanna aside for now."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."...Can't know her true intent, after all."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."First, why don't we hear from Gin and miss Nao too,
+ and then make our decision?"
+##
+
+{Sara}
+#Message#
+\."Sou..."
+##
+
+#Choice#
+Are you protecting Kanna?
+Don't decide we're done here
+##
+
+<カンナをかばってませんか？>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+"Is it just me, or are you protecting Kanna?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Miss Sara, I can't afford to do that..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...I just don't want to waste our time.
+ Don't want to be scrambling before the vote, right?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Back off on this one, Sara. You can't deny these two
+ time to justify themselves..."
+##
+
+#Message#
+\."That's right, Sara. You can't deny these two
+ time to justify themselves..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I have no proof...! I'll back off...)
+##
+
+<勝手に仕切らないでください>
+
+{Sara} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"Please, don't just decide we're done here."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...Ahaha..."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."I just don't want to waste our time.
+ Don't want to be scrambling before the vote, right?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Back off on this one, Sara. You can't deny these two
+ time to justify themselves..."
+##
+
+#Message#
+\."That's right, Sara. You can't deny these two
+ time to justify themselves..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Can't lunge at him... I'll back off...)
+##
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Besides, whatever claims you make,
+ I do have the role of guiding everyone."
+##
+
+#Message#
+\."Sorry if I'm being overbearing.
+ But I do have the role of guiding everybody."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."Since I'm the \C[2]Keymaster\C[0] and all."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou...!!)
+##
+
+#Choice#
+Are you protecting Kanna?
+I'm in agreement
+##
+
+<カンナをかばってませんか？>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"Is it just me, or are you protecting Kanna?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."I-I can't afford to do that..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."...I just don't want to waste our time.
+ Don't want to be scrambling before the vote, right?"
+##
+
+{Sara}
+#Message#
+\."...That's true."
+##
+
+<私も賛成します>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+"I'm in agreement."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Thank you, miss Sara."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Oh, that's right. There's something
+ I should take this opportunity to tell everyone."
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."...?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."For now, Gin, could we get
+ some proper statements from you?"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Meow..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Y-Yeah, tha's right! Gin! Be a man!
+ Tell him what you gotta say!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."...Meow... meow..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Gin's frightened!
+ And it's you crude-ass men to blame!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."We've got no time.
+ Gin, prove that you've been useful to everybody!"
+##
+

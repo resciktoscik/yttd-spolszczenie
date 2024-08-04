@@ -1,0 +1,5765 @@
+=====Map234===== (◆⑤Cemetery Final)
+
+**********Event1********** (a) (11,7)
+-----Page1-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[3]The coffin is wrecked due to Maple's explosion.
+##
+
+<Else>
+
+#Message#
+\C[3]The coffin is wrecked due to Maple's explosion.
+##
+
+<Condition End>
+
+
+**********Event9********** (rannmaru-EV) (7,12)
+-----Page1-----
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+"Sara..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+"Ranmaru..."
+##
+
+#Choice#
+@if V[820] == 1
+You're smiling
+Your battery okay?
+Gonna change parts?
+@else
+C'mon, smile
+Your battery okay?
+Gonna change parts?
+##
+
+<笑顔だな>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent40-1}
+#Message#
+"What's up? Why are you smiling?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."I-I ain't smiling..."
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+"What's up? You don't look well."
+##
+
+{Ranmaru}
+#Message#
+\."Well, duh..."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth closed / cara91-11]
+{SE: Accent21-1}
+#Message#
+\."And I mean... it's not like everyone made it okay..."
+##
+
+{Sara}
+#Message#
+\."...Yeah."
+##
+
+<電池は大丈夫か？>
+
+{Sara} [Ranmaru: Hand tilted, eyes to side, mouth closed / cara91-11]
+{SE: Accent40-1}
+#Message#
+"Is your battery okay?
+ Show me your ears for a sec."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."I-I-I-I'm fine!! Don't get so close!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hrmm... It's important, though...)
+##
+
+<パーツを変えるか？>
+
+{Sara} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+{SE: Accent40-1}
+#Message#
+"Gonna change parts? We don't know what the banquet
+ will be like... Might want to upgrade..."
+##
+
+{Ranmaru}
+#Message#
+\."It's fine! I've gotten plenty of...
+ y'know, experience with that stuff already!"
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth closed / cara91-11]
+#Message#
+\."U-Um, so..."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+{SE: Accent28-1}
+#Message#
+\."Was I... useful...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Of course
+Not so sure
+Unfortunately...
+##
+
+<もちろんだ>
+
+{Sara} [Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+{SE: Accent21-1}
+#Message#
+"Of course."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, raised-eyebrows smile / cara91-25]
+{SE: Accent24-1}
+#Message#
+\."...!"
+##
+
+<どうかな>
+
+{Sara} [Ranmaru: Hands in pockets, raised-eyebrows smile / cara91-25]
+{SE: Accent21-1}
+#Message#
+"I'm not so sure..."
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side / cara91-31]
+#Message#
+\."Urgh... You're bein' too honest..."
+##
+
+<残念ながら>
+
+{Sara} [Ranmaru: Hand on face, looking to side / cara91-31]
+{SE: shock1}
+#Message#
+"Unfortunately..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Whaaa... really...? Sorry..."
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+#Message#
+\."Um... Sara..."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth closed / cara91-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Keiji's..."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."Nah, uh... I mean..."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+{SE: Accent21-1}
+#Message#
+\."J-Just... I hope you find him..."
+##
+
+{Sara}
+#Message#
+\."...Yeah..."
+##
+
+{Ranmaru} [Ranmaru: Evil, closed mouth / cara91-39]
+#Message#
+"Yo, Sara..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Ranmaru: Evil, closed mouth / cara91-39]
+#Message#
+"..."
+##
+
+#Choice#
+Way to stay calm
+What happened to winning?
+...
+##
+
+<よく平然としてられるな>
+
+{Sara} [Ranmaru: Evil, closed mouth / cara91-39]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...Way to stay calm after all that."
+##
+
+{Ranmaru} [Ranmaru: Evil, hands out, furrowed brow, mouth open / cara91-46]
+{SE: Accent42-1}
+#Message#
+\."As if... My plan failed... I'm pissed off."
+##
+
+<優勝はどうしたんだ？>
+
+{Sara} [Ranmaru: Evil, hands out, furrowed brow, mouth open / cara91-46]
+{SE: se_maoudamashii_magical14}
+#Message#
+"What happened to winning?"
+##
+
+{Ranmaru}
+{SE: Accent42-1}
+#Message#
+\."I'll gun for it if I get an opportunity.
+ It ain't like I can take on this many people..."
+##
+
+<………>
+
+{Sara} [Ranmaru: Evil, hands out, furrowed brow, mouth open / cara91-46]
+{SE: se_maoudamashii_magical14}
+#Message#
+".........."
+##
+
+{Ranmaru} [Ranmaru: Evil, smile / cara91-38]
+{SE: Accent42-1}
+#Message#
+\."The silent treatment, huh... I ain't givin' up.
+ I'll aim to win if I get the tiniest opportunity..."
+##
+
+<Choice End>
+
+{Sara} [Ranmaru: Evil, smile / cara91-38]
+#Message#
+\.\C[4](It's no good...
+ I don't want to talk to Ranmaru as he is now...)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](No matter how hard I try...
+ I just remember the fact he killed Reko...)
+##
+
+<Else>
+
+#Message#
+\.\C[4](No matter how hard I try...
+ I just remember the fact he killed Alice...)
+##
+
+<Condition End>
+
+#Message#
+\.\C[4](Not that I... have any right to criticize him...)
+##
+
+-----Page3-----
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+"I'm no good at singing in a chorus..."
+##
+
+[Ranmaru: Hands in pockets, raised-eyebrows smile / cara91-25]
+{SE: Accent21-1}
+#Message#
+\."Might be good to listen, though."
+##
+
+-----Page4-----
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+"I swear on this... I'm not gonna complain anymore..."
+##
+
+
+**********Event15********** (keihitu-EV) (8,12)
+-----Page1-----
+{Sara}
+#Message#
+\C[4](It's the coffin Keiji was in...)
+##
+
+#Message#
+\.\C[4](Though, \N[4] was in it originally...)
+##
+
+-----Page2-----
+%ignore
+
+
+**********Event16********** (EV016) (11,6)
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The coffin is wrecked due to Maple's explosion.
+##
+
+
+**********Event35********** (annzu-EV) (15,12)
+-----Page1-----
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+"Banquet, huh...
+ I can't drink, so is that gonna be okay?"
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Anzu: Worried / cara96-2]
+#Message#
+"Anzu..."
+##
+
+#Choice#
+It's not that kind of party
+Yeah, we're underage
+You seem calm
+##
+
+<そんな内容じゃ無い>
+
+{Sara} [Anzu: Worried / cara96-2]
+{SE: Accent40-1}
+#Message#
+"...I'm sure the banquet's not that kind of party."
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."You never know! It could be the start of
+ an acute alcohol poisoning Death Game!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I mean, that would be scary, but...)
+##
+
+<未成年だからな>
+
+{Sara} [Anzu: Concerned / cara96-4]
+{SE: Accent40-1}
+#Message#
+"We are underage, after all..."
+##
+
+{Anzu}
+#Message#
+\."Right? And it tastes funny!"
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."Tastes...? Hold on, have you...?"
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."N-Nooope! Just picturing it, I swear!!
+ Stop glaring at me like that!"
+##
+
+{Sara}
+#Message#
+\.\C[4](D-Did I have a scary look...?)
+##
+
+<落ち着いてるね>
+
+{Sara} [Anzu: Scared look, mouth open / cara96-8]
+{SE: Accent40-1}
+#Message#
+"You seem calm, Anzu..."
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."Not at all! I'm just trying
+ not to think about bad stuff!"
+##
+
+<Choice End>
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."...I know I'm not all that bright, but..."
+##
+
+[Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+\."If I think about it too deeply... it depresses me."
+##
+
+[Anzu: Face buried in darkness of hood / cara96-14]
+{SE: Accent21-1}
+#Message#
+\."If you don't think, you don't have to be
+ afraid of the scary future just ahead of you..."
+##
+
+[Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."Ah!! But then that's me thinking about it, isn't it?!"
+##
+
+[Anzu: Face buried in darkness of hood / cara96-14]
+#Message#
+\."Gotta forget...! Hwoooorgh...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Anzu's struggling with things in her own way...)
+##
+
+<If Switch #25 (★マイ生存ルート) is OFF>
+
+<If Switch #24 (★ランマル生存ルート) is OFF>
+
+{Anzu}
+{SE: Accent21-1}
+#Message#
+\."'Cause I mean, we were so close...
+ But Mai and Ranmaru were both killed..."
+##
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{SE: Accent21-1}
+#Message#
+\."'Cause I mean, we were so close...
+ But then Mai was killed..."
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is OFF>
+
+{SE: Accent21-1}
+#Message#
+\."Hey... Ranmaru wasn't a traitor, right?
+ Couldn't be..."
+##
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is OFF>
+
+{SE: Accent21-1}
+#Message#
+\."'Cause I mean... Hayasaka died
+ before he could make it this far..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+#Message#
+\."Anzu..."
+##
+
+{Anzu}
+#Message#
+\."I dunno about carrying on
+ people's regrets or anything, but..."
+##
+
+[Anzu: Worried / cara96-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm gonna... do what I can do!"
+##
+
+[Anzu: Concerned / cara96-4]
+{SE: flash-of-light-3}
+#Message#
+\."Hand any minor duties off to me! Thaaanks!"
+##
+
+[Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+"Oh, man... Can we not get along anymore...?"
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+"Anzu..."
+##
+
+#Choice#
+Ranmaru, huh...
+What is it?
+Let's be friends
+##
+
+<ランマルか…>
+
+{Sara} [Anzu: Hood over half of face, worried / cara96-12]
+{SE: Accent40-1}
+#Message#
+"Ranmaru, huh...?"
+##
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."Yeah... I didn't think he was like that..."
+##
+
+<どうしたんだ？>
+
+{Sara} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+{SE: Accent40-1}
+#Message#
+"What is it?"
+##
+
+{Anzu}
+#Message#
+\."I'm talking about Ranmaru! He's scary, right?!"
+##
+
+<仲良くしよう>
+
+{Sara} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+{SE: Accent40-1}
+#Message#
+"Don't say that. Let's all be friends."
+##
+
+{Anzu}
+#Message#
+\."But that Ranmaru's so scary!
+ I thought he was just this kinda weak boy..."
+##
+
+<Choice End>
+
+{Sara} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+{SE: Accent21-1}
+#Message#
+\."No... If he hadn't met me, he wouldn't have become..."
+##
+
+{Anzu}
+#Message#
+\."...I know I'm not all that bright, but..."
+##
+
+[Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+\."If I think about it too deeply... it depresses me."
+##
+
+[Anzu: Face buried in darkness of hood / cara96-14]
+{SE: Accent21-1}
+#Message#
+\."'Cause I mean... I've got dead allies and all...
+ I don't like this reality..."
+##
+
+{Sara}
+#Message#
+\."Anzu..."
+##
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+\."What the heck! That's not right!"
+##
+
+[Anzu: Concerned / cara96-4]
+#Message#
+\."If somebody influenced him to turn all evil...
+ That's on him!"
+##
+
+{Sara}
+#Message#
+\."Have you never experienced
+ something like that, Anzu...?"
+##
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+\.".........."
+##
+
+[Anzu: Hood over half of face, smile / cara96-13]
+{SE: shrink1}
+#Message#
+\."W-Well, sure, I became a clown
+ because someone else influenced me, but..."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."But I'd never think about hurting anybody!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Maybe Anzu's showing concern in her own way.)
+##
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+"Banquet, huh...
+ I can't drink, so is that gonna be okay?"
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Anzu: Worried / cara96-2]
+#Message#
+"Anzu..."
+##
+
+#Choice#
+It's not that kind of party
+Yeah, we're underage
+You seem calm
+##
+
+<そんな内容じゃ無い>
+
+{Sara} [Anzu: Worried / cara96-2]
+{SE: Accent40-1}
+#Message#
+"...I'm sure the banquet's not that kind of party."
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."You never know! It could be the start of
+ an acute alcohol poisoning Death Game!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I mean, that would be scary, but...)
+##
+
+<未成年だからな>
+
+{Sara} [Anzu: Concerned / cara96-4]
+{SE: Accent40-1}
+#Message#
+"We are underage, after all..."
+##
+
+{Anzu}
+#Message#
+\."Right? And it tastes funny!"
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."Tastes...? Hold on, have you...?"
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."N-Nooope! Just picturing it, I swear!!
+ Stop glaring at me like that!"
+##
+
+{Sara}
+#Message#
+\.\C[4](D-Did I have a scary look...?)
+##
+
+<落ち着いてるね>
+
+{Sara} [Anzu: Scared look, mouth open / cara96-8]
+{SE: Accent40-1}
+#Message#
+"You seem calm, Anzu..."
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."Not at all! I'm just trying
+ not to think about bad stuff!"
+##
+
+<Choice End>
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."...I know I'm not all that bright, but..."
+##
+
+[Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+\."If I think about it too deeply... it depresses me."
+##
+
+[Anzu: Face buried in darkness of hood / cara96-14]
+{SE: Accent21-1}
+#Message#
+\."'Cause I mean... Even our ally Ranmaru
+ ended up like that... I don't like this reality..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."'Cause I mean... I've got dead allies and all...
+ I don't like this reality..."
+##
+
+{Sara}
+#Message#
+\."Anzu..."
+##
+
+{Anzu} [Anzu: Worried / cara96-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And also, the way you start the banquet..."
+##
+
+[Anzu: Concerned / cara96-4]
+{SE: Accent41-1}
+#Message#
+\."Somebody has to go inside
+ each of the seven coffins here, right...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+{SE: Accent41-1}
+#Message#
+\."...Who's going in...?"
+##
+
+{Sara}
+#Message#
+\."We'll have to decide..."
+##
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+{SE: Accent21-1}
+#Message#
+\."...Yeah."
+##
+
+-----Page2-----
+{Anzu} [Anzu: Smile / cara96-6]
+#Message#
+"Heheh... Haven't felt this peaceful in a while..."
+##
+
+-----Page3-----
+{Anzu} [Anzu: Face buried in darkness of hood / cara96-14]
+#Message#
+"I can't... My face is a mess, don't look..."
+##
+
+
+**********Event36********** (rekoari-EV) (14,12)
+-----Page1-----
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+"That Keiji... Still didn't show up, huh."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+"That's true..."
+##
+
+#Choice#
+I wonder where he is...
+I'm sure he's safe
+Should we wait for him?
+##
+
+<どこにいるんでしょう…>
+
+{Sara} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent40-1}
+#Message#
+"I wonder... where he could be..."
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\.".........."
+##
+
+[Reko: Smile / cara6-4]
+{SE: Accent21-1}
+#Message#
+\."...Don't worry. We're here.
+ You don't gotta worry about a thing, Sara."
+##
+
+<きっと無事です>
+
+{Sara} [Reko: Smile / cara6-4]
+{SE: Accent40-1}
+#Message#
+"I'm sure he's safe."
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."...Y-Yeah..."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent21-1}
+#Message#
+\."I'm gonna wild out even more to make up for him!
+ Leave it to me, Sara!"
+##
+
+<来るまで待ちますか？>
+
+{Sara} [Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent40-1}
+#Message#
+"Should we wait until he comes...?"
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."...Can't do that. Got no time to wait or search."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent21-1}
+#Message#
+\."We'll fight without Keiji...!
+ Ain't nothin' we can't do!"
+##
+
+<Choice End>
+
+{Sara} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Don't be so down. Take a look around."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+{SE: Accent28-1}
+#Message#
+\."We're all alive... We had conflicts too,
+ but this's all thanks to our solidarity."
+##
+
+{Sara}
+#Message#
+\."R-Right...!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent21-1}
+#Message#
+\."And this time, we can fight together
+ without reservations...!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: flash-of-light-3}
+#Message#
+\."How about it?!
+ You startin' to see our odds of winning?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah... Reko is right...)
+##
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent24-1}
+#Message#
+\."Heh... I've learned to look at things
+ a little more abstractly, see?"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Don't be down. C'mon, look at me."
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent21-1}
+#Message#
+\."What's in my eyes? Anxiety? Fear?"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Sure, if they came at us with violence like before,
+ I couldn't be so confident we could make it through."
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But the banquet's a battle of wits, ain't it?"
+##
+
+[Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."We'll show 'em.
+ That it's our heads that got us this far!"
+##
+
+{Sara}
+{SE: Accent43-1}
+#Message#
+\."...!"
+##
+
+#Message#
+\."...Alright, Reko."
+##
+
+{Reko}
+{SE: Accent21-1}
+#Message#
+\."Glad to hear it."
+##
+
+-----Page2-----
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+"So, Keiji Shinogi never showed after all..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+"That's true..."
+##
+
+#Choice#
+I want to see him...
+I'm sure he's fine
+Should we look for him?
+##
+
+<会いたいですね…>
+
+{Sara} [Alice: Default glare / cara11-1]
+{SE: Accent40-1}
+#Message#
+"I want to see him soon..."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent21-1}
+#Message#
+\."Hmph... What's this?
+ Have you fallen for him, Sara Chidouin...?"
+##
+
+{Sara}
+#Message#
+\."...Is that any way to talk right now, Alice?
+ Surely there are much bigger concerns than that."
+##
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm not one to rely on others, you see...
+ In the end, it's up to you to protect yourself."
+##
+
+<きっと大丈夫>
+
+{Sara} [Alice: Fist to palm, glare / cara11-5]
+{SE: Accent40-1}
+#Message#
+"I'm sure he's all right..."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Well, no use relying on someone who isn't here."
+##
+
+[Alice: Default glare / cara11-1]
+{SE: Accent28-1}
+#Message#
+\."We will proceed forward on our own power...
+ Am I wrong?"
+##
+
+<探しに行きますか？>
+
+{Sara} [Alice: Default glare / cara11-1]
+{SE: Accent40-1}
+#Message#
+"Should we go look for him...?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."...Don't be absurd.
+ We've no time to wait nor search."
+##
+
+[Alice: Angry shout / cara11-8]
+{SE: Accent21-1}
+#Message#
+\."We will fight without Keiji Shinogi...!
+ Just take it from me, why don't you!"
+##
+
+<Choice End>
+
+{Sara} [Alice: Angry shout / cara11-8]
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Why, you're looking awfully uneasy, aren't you...!"
+##
+
+[Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."I understand.
+ I won't fall for cheap provocation anymore..."
+##
+
+[Alice: Angry shout / cara11-8]
+#Message#
+\."And if you tell me to imitate an animal,
+ I shall become even a goat...!!"
+##
+
+{Sara}
+#Message#
+\."What are you talking about?! Calm down!"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Silence!! I'm saying that is just how much
+ I will put my pride on the line to defeat him!"
+##
+
+{Sara}
+#Message#
+\."No, but really, why should you do as I say?!"
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+{SE: Accent28-1}
+#Message#
+\."Because you're the leader...!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...!!"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\."Have you forgotten already...?
+ Going with you gives the highest odds of winning."
+##
+
+[Alice: Look to side, glare / cara11-14]
+{SE: Accent43-1}
+#Message#
+\."Make use of us, damnable leader..."
+##
+
+-----Page3-----
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent41-1}
+#Message#
+"Huh? Sing a song...?"
+##
+
+{Sara}
+#Message#
+\."Sorry to bother... I just wanted to hear you sing."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."No prob. Hell, what better time for it?"
+##
+
+{Sara}
+#Message#
+\."What kind of song...?"
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+{SE: Accent40-1}
+#Message#
+\."One I sang all the time since I was a kid...
+ with Alice."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]Reko started humming a song.
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent28-1}
+#Message#
+"Ooh! I've heard that one before!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Then let's sing it together.
+ 'Til we've calmed ourselves down!"
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Yeah, yeah! Let's all sing!"
+##
+
+-----Page4-----
+{Alice} [Alice: Surprised face / cara11-2]
+{SE: Accent41-1}
+#Message#
+"Mm? You want me to sing...?"
+##
+
+{Sara}
+#Message#
+\."Err... Yes... I thought you might be good at it..."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."Mwahaha... Very well... I shall sing you a song
+ even you would know with my 70-point karaoke voice!"
+##
+
+{Sara}
+#Message#
+\."What kind of song...?"
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+{SE: Accent40-1}
+#Message#
+\."One I often sang with Reko when we were children..."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]Alice started humming a song.
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent28-1}
+#Message#
+"Ooh! I've heard that one before!"
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."Hoh... Shall we sing together?
+ Until our feelings are calmed..."
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Yeah, yeah! Let's all sing!"
+##
+
+-----Page5-----
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+"C'mon, Sara, don't be shy."
+##
+
+-----Page6-----
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"You may sing as well... Music is good indeed."
+##
+
+-----Page7-----
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"It ain't like I sang it to send him out... and yet..."
+##
+
+-----Page8-----
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"Fool... Wearing an expression as if
+ he accomplished all he set out to do..."
+##
+
+
+**********Event37********** (hayasaka-EV) (12,12)
+-----Page1-----
+{Hayasaka} [Hayasaka: Mouth open / cara94-2]
+#Message#
+"Miss Sara... We owe you all a debt of gratitude."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Hayasaka: Mouth open / cara94-2]
+#Message#
+\."Hayasaka..."
+##
+
+#Choice#
+Same to you
+You're right about that
+Hoping for some repayment
+##
+
+<お互い様です>
+
+{Sara} [Hayasaka: Mouth open / cara94-2]
+{SE: Accent40-1}
+#Message#
+"The same to you... If the Dummies didn't trust us,
+ we couldn't have gotten this far."
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."You're truly stupendous...
+ In comparison, I was always just cowering..."
+##
+
+<本当ですね>
+
+{Sara} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent40-1}
+#Message#
+"No kidding... My back's sore from all this carrying."
+##
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+#Message#
+\."W-Want a shoulder massage? Haha... ha..."
+##
+
+<お返しに期待してます>
+
+{Sara} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: Accent40-1}
+#Message#
+"I'm hoping for some repayment."
+##
+
+{Hayasaka}
+{SE: Accent28-1}
+#Message#
+\."Haha... I can provide you some goods from
+ my company. If we get back, of course..."
+##
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+{SE: Accent21-1}
+#Message#
+\."The one thing I can take pride in
+ is that I never tried to harm Gin..."
+##
+
+[Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Being that I'm a coward,
+ I suppose that's only natural, but..."
+##
+
+[Hayasaka: Mouth open / cara94-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Even so, I'm glad Gin could live..."
+##
+
+{Sara}
+#Message#
+\."Yes..."
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."If we really do get home at some point...
+ I hope to live reflecting on what I did."
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent40-1}
+#Message#
+\."I hope the day comes you can forgive me, too..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Hayasaka}
+#Message#
+"It's still... too much for me to bear..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."Hayasaka..."
+##
+
+#Choice#
+What is?
+Same here
+You mean Ranmaru?
+##
+
+<何がですか？>
+
+{Sara} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent40-1}
+#Message#
+"What is...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched / cara94-9]
+#Message#
+\."Miss Reko, of course!
+ When you've been aiding us this whole time...!"
+##
+
+<Else>
+
+#Message#
+\."Alice, of course!
+ When you've been aiding us this whole time...!"
+##
+
+<Condition End>
+
+<私もです>
+
+{Sara} [Hayasaka: Hand sticking out, eyes closed, teeth clenched / cara94-9]
+{SE: Accent40-1}
+#Message#
+"Same here..."
+##
+
+{Hayasaka}
+#Message#
+\."I expected as much... I could see
+ a truly dazzling bond between you survivors..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."And yet... to think Ranmaru did that to miss Reko...!"
+##
+
+<Else>
+
+#Message#
+\."And yet... to think Ranmaru did that to Alice...!"
+##
+
+<Condition End>
+
+<ランマルの事ですか>
+
+{Sara} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent40-1}
+#Message#
+"You mean Ranmaru?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched / cara94-9]
+#Message#
+\."Yes...! You always compromised with us!
+ So why take miss Reko's life...?!"
+##
+
+<Else>
+
+#Message#
+\."Yes...! You always compromised with us!
+ So why take Alice's life...?!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+#Message#
+\."Look at the state Kurumada is in...
+ If Ranmaru tries something before the banquet..."
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: sceneswitch2}
+#Message#
+\."I'll stop him...
+ I'll throw myself in the way if I must."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...!)
+##
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+#Message#
+\."..."
+##
+
+[Hayasaka: Teeth clenched, sweating, grave look / cara94-16]
+{SE: SIN-Motion-Pop37-2}
+#Message#
+\."Well... supposing I even can..."
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+"It's still... too much for me to bear..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."Hayasaka..."
+##
+
+#Choice#
+What is?
+Same here
+You mean Ranmaru?
+##
+
+<何がですか？>
+
+{Sara} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent40-1}
+#Message#
+"What is...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched / cara94-9]
+#Message#
+\."Miss Reko, of course!
+ When you've been aiding us this whole time...!"
+##
+
+<Else>
+
+#Message#
+\."Alice, of course!
+ When you've been aiding us this whole time...!"
+##
+
+<Condition End>
+
+<私もです>
+
+{Sara} [Hayasaka: Hand sticking out, eyes closed, teeth clenched / cara94-9]
+{SE: Accent40-1}
+#Message#
+"Same here..."
+##
+
+{Hayasaka}
+#Message#
+\."I expected as much... I could see
+ a truly dazzling bond between you survivors..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."And yet... to think Ranmaru did that to miss Reko...!"
+##
+
+<Else>
+
+#Message#
+\."And yet... to think Ranmaru did that to Alice...!"
+##
+
+<Condition End>
+
+<ランマルの事ですか>
+
+{Sara} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent40-1}
+#Message#
+"You mean Ranmaru?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched / cara94-9]
+#Message#
+\."Yes...! You always compromised with us!
+ So why take miss Reko's life...?!"
+##
+
+<Else>
+
+#Message#
+\."Yes...! You always compromised with us!
+ So why take Alice's life...?!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+#Message#
+\."And in the end...
+ even he was killed by his collar's explosion."
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."So then... if Ranmaru had just died
+ from his collar exploding to begin with..."
+##
+
+[Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+{SE: Accent21-1}
+#Message#
+\."...I suppose it's not good to think that way..."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."..."
+##
+
+[Hayasaka: Teeth clenched, sweating, grave look / cara94-16]
+{SE: Accent40-1}
+#Message#
+\."Sorry... I shouldn't have said that, should I..."
+##
+
+-----Page2-----
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"It's fine if I provide some accompaniment, right?"
+##
+
+-----Page3-----
+{Hayasaka} [Hayasaka: Mouth open / cara94-2]
+#Message#
+"How strange... I feel like he was moving
+ entirely by force of will..."
+##
+
+[Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Even though.... he wasn't human."
+##
+
+
+**********Event38********** (kannna-EV) (11,12)
+-----Page1-----
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"Kanna... is glad we could all come this far together."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kanna: Default look / cara3-10]
+#Message#
+"Kanna..."
+##
+
+#Choice#
+You're right
+You did good
+Now we just need Keiji
+##
+
+<そうだな>
+
+{Sara} [Kanna: Default look / cara3-10]
+{SE: Accent40-1}
+#Message#
+"That's right... We owe it to our solidarity."
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent28-1}
+#Message#
+\."Yes!"
+##
+
+<がんばったな>
+
+{Sara} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent40-1}
+#Message#
+"You did good. This is thanks to you, Kanna."
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+{SE: Accent28-1}
+#Message#
+\."Kanna didn't do anything...
+ She just wanted to help you, Sara."
+##
+
+<後はケイジさんだけだ>
+
+{Sara} [Kanna: Hands in front smile / cara3-18]
+{SE: Accent40-1}
+#Message#
+"Now we just need Keiji..."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."It's okay...! I'm sure he's somewhere!"
+##
+
+{Sara}
+#Message#
+\."Yeah... I think so, too."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: Accent43-1}
+#Message#
+\."We'll all overcome the banquet together...
+ and greet Mr. Policeman with a smile."
+##
+
+[Kanna: Neutral smile / cara3-9]
+{SE: Accent24-1}
+#Message#
+\."And we'll revive all the Dummies, too!"
+##
+
+{Sara}
+#Message#
+\."Kanna... You're so straightforward."
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+{SE: Accent21-1}
+#Message#
+\."That's because... I don't want to go astray anymore."
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\.\C[4](Kanna... She has no hesitation now.)
+##
+
+#Message#
+\.\C[4](She really has grown strong...)
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"The banquet... I suppose it'll be
+ a fight against \N[4]..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kanna: Default look / cara3-10]
+#Message#
+"Hmm..."
+##
+
+#Choice#
+You're right
+Don't like fighting?
+We just have to win
+##
+
+<そうだな>
+
+{Sara} [Kanna: Default look / cara3-10]
+{SE: Accent40-1}
+#Message#
+"Right... And if we lose, we might..."
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."N-No... I don't want that at all!"
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."Kanna wants to protect everyone this time..."
+##
+
+<嫌か？>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+{SE: Accent40-1}
+#Message#
+"Would you prefer not to fight...?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Oogh... Yes, that's true..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent21-1}
+#Message#
+\."But I'll prepare myself.
+ Because that man just makes people unhappy..."
+##
+
+<勝つしかない>
+
+{Sara} [Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent40-1}
+#Message#
+"Then we just have to win.
+ I'm not letting him get away with this...!"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."S-Sara..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent21-1}
+#Message#
+\."Kanna... doesn't know if it's okay
+ to do something like that out of hatred..."
+##
+
+<Choice End>
+
+{Sara} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."Don't you despise him, Kanna?
+ Aren't you going to avenge your sister...?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."Ah... sorry. I shouldn't be saying that..."
+##
+
+#Message#
+\.\C[4](As strong as she might have become,
+ Kanna's a middle schooler... What am I saying?)
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: Accent28-1}
+#Message#
+\."...No, it's all right."
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+\."I just... have this feeling."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent43-1}
+#Message#
+\."That Kanna's siblings...
+ don't want her to take revenge..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Her... siblings...)
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent21-1}
+#Message#
+\."But it's not good to obediently accept it, either."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Don't give in...
+ I feel like that's what they're saying."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna... really has grown strong.)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Can I become strong like her, too...?)
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent08-1}
+#Message#
+\."*hug*!"
+##
+
+{Sara}
+#Message#
+\."Wah! What?!"
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+{SE: Accent24-1}
+#Message#
+\."Eheheh. You were looking gloomy, so..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hrm... Feels like kind of an ominous precedent...)
+##
+
+-----Page2-----
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+"Kanna loves this song!"
+##
+
+-----Page3-----
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Kanna... will see it through...!"
+##
+
+
+**********Event39********** (kurumada-EV) (9,12)
+-----Page1-----
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+"It's finally time..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+"Kurumada..."
+##
+
+#Choice#
+Is your body okay?
+Do you have battery?
+Looks painful
+##
+
+<体は大丈夫ですか？>
+
+{Sara} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+"Is your body okay?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, frown / cara95-16]
+{SE: Accent21-1}
+#Message#
+\."Hah, as if I haven't been
+ teeterin' on the brink this whole time..."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+<Condition End>
+
+<電池は持ちますか？>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent40-1}
+#Message#
+"Do you have battery?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."Dunno... I'd like to know that myself."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."Dunno... I'd like to know that myself."
+##
+
+<Condition End>
+
+<痛そうですね>
+
+{Sara} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+{SE: Accent40-1}
+#Message#
+"That looks painful... as usual."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, frown / cara95-16]
+{SE: Accent21-1}
+#Message#
+\."Makes me glad I'm not human...
+ Would probably hurt like hell..."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+<Condition End>
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent42-1}
+#Message#
+\."Anyway... I gotta tell you something..."
+##
+
+{Sara}
+#Message#
+\."What is it...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."You told us..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."That you'd protect everybody... Dummies included..."
+##
+
+{Sara}
+#Message#
+\."...Yes."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent28-1}
+#Message#
+\."Thanks... for keepin' that promise."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Naturally
+It's a miracle
+##
+
+<当然です>
+
+{Sara} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent21-1}
+#Message#
+\."Naturally... I always keep my promises."
+##
+
+<奇跡です>
+
+{Sara} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent21-1}
+#Message#
+\."It's a miracle that I could...
+ We owe it to our hearts coming together as one."
+##
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, slight surprise / cara95-29]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."...Hah, is that right..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ahh... I feel like listenin' to a song..."
+##
+
+{Sara}
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."A-A song...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."...Might be our last moment of peace, right?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent21-1}
+#Message#
+\."Make somethin' happen.
+ I wanna soak in this while I can..."
+##
+
+{Sara}
+#Message#
+\."H-Hold on a second...!"
+##
+
+#Message#
+\.\C[4](I-I don't need to sing, do I?)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](I guess I'll find someone \C[2]good at singing\C[4]...)
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+#Message#
+"It's finally time..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+"Kurumada..."
+##
+
+#Choice#
+Is your body okay?
+Do you have battery?
+Looks painful
+##
+
+<体は大丈夫ですか？>
+
+{Sara} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+"Is your body okay?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, frown / cara95-16]
+{SE: Accent21-1}
+#Message#
+\."Hah, as if I haven't been on the brink all along.
+ Just living on at the verge of death..."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+<Condition End>
+
+<電池は持ちますか？>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent40-1}
+#Message#
+"Do you have battery?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."Dunno... I'd like to know that myself."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."Dunno... I'd like to know that myself."
+##
+
+<Condition End>
+
+<痛そうですね>
+
+{Sara} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+{SE: Accent40-1}
+#Message#
+"That looks painful... as usual."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, frown / cara95-16]
+{SE: Accent21-1}
+#Message#
+\."Makes me glad I'm not human...
+ Would probably hurt like hell..."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+<Condition End>
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent42-1}
+#Message#
+\."Anyway... I gotta tell you something..."
+##
+
+{Sara}
+#Message#
+\."What is it...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."You told us..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."That you'd protect everybody... Dummies included..."
+##
+
+{Sara}
+#Message#
+\."...Yes."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But... it ain't like we all made it..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+I'm sorry
+Say what you will
+##
+
+<ごめんなさい>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+"...I'm sorry. I couldn't keep my promise."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."...Remember this."
+##
+
+<なんとでも言ってください>
+
+{Sara} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent21-1}
+#Message#
+\."...Say what you will.
+ I couldn't keep my promise."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+#Message#
+\."...Then I'm gonna say this."
+##
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent28-1}
+#Message#
+\."It ain't your fault.
+ No point feeling responsible for it."
+##
+
+{Sara}
+#Message#
+\."Kurumada..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."We're about to fight \N[4], ain't we?
+ Focus on that, alright...?"
+##
+
+{Sara}
+{SE: Accent43-1}
+#Message#
+\."Right...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+"Never thought it'd go like this..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+"Kurumada..."
+##
+
+#Choice#
+Is your body okay?
+I never imagined it
+I'll never forgive him
+##
+
+<体は大丈夫ですか？>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent40-1}
+#Message#
+"Is your body okay?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, frown / cara95-16]
+{SE: Accent21-1}
+#Message#
+\."As if that's what matters right now... Shit..."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\."As if that's what matters right now... Shit..."
+##
+
+<Condition End>
+
+<想像してませんでした>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent40-1}
+#Message#
+"I never would've imagined..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."Shit... That weakling Ranmaru, of all people..."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."Shit... That weakling Ranmaru, of all people..."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."Are you mad...?"
+##
+
+<許せません>
+
+{Sara} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+{SE: Accent40-1}
+#Message#
+"...I'll never forgive him."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent21-1}
+#Message#
+\."Same here... I'm boilin' over with anger."
+##
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."He betrayed us...!
+ He broke our promise!!"
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."W-We're the ones who were betrayed...
+ It's not like he injured the Dummies..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."That ain't the issue...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."It pisses me off...
+ Reko should've been here too..."
+##
+
+<Else>
+
+#Message#
+\."It pisses me off...
+ Alice should've been here too..."
+##
+
+<Condition End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+[Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."I wanted to take pride in
+ seein' that promise through... Shit!!"
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."One last time, I wanted to take pride in
+ seein' that promise through... Shit!!"
+##
+
+<Condition End>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+#Message#
+\."..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry / cara95-30]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Dependin' on what the banquet is...
+ Maybe I'll get to off Ranmaru..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+"Never thought it'd go like this..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+"Kurumada..."
+##
+
+#Choice#
+Is your body okay?
+I never imagined it
+You mean Ranmaru?
+##
+
+<体は大丈夫ですか？>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent40-1}
+#Message#
+"Is your body okay?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, frown / cara95-16]
+{SE: Accent21-1}
+#Message#
+\."As if that's what matters right now... Shit..."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\."As if that's what matters right now... Shit..."
+##
+
+<Condition End>
+
+<想像してませんでした>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent40-1}
+#Message#
+"I never would've imagined..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."Shit... Damn Ranmaru, going and doing that..."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."Shit... Damn Ranmaru, going and doing that..."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."Are you mad...?"
+##
+
+<ランマルの事ですか？>
+
+{Sara} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+{SE: Accent40-1}
+#Message#
+"You mean Ranmaru...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."What else?! Damn Ranmaru, going and doing that..."
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."What else?! Damn Ranmaru, going and doing that..."
+##
+
+<Condition End>
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."He betrayed us, broke our promise,
+ and then had to go and die...!!"
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."W-We're the ones who were betrayed...
+ It's not like he injured the Dummies..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."That ain't the issue...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."It pisses me off...
+ Reko should've been here too..."
+##
+
+<Else>
+
+#Message#
+\."It pisses me off...
+ Alice should've been here too..."
+##
+
+<Condition End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+[Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."I wanted to take pride in
+ seein' that promise through... Shit!!"
+##
+
+<Else>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."One last time, I wanted to take pride in
+ seein' that promise through... Shit!!"
+##
+
+<Condition End>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+#Message#
+\."..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry / cara95-30]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Guess you can't really punch a corpse..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."..."
+##
+
+-----Page2-----
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]Kurumada is listening with a look of satisfaction.
+##
+
+{Sara}
+#Message#
+\.\C[4](Maybe he actually really likes this kind of thing...)
+##
+
+#Choice#
+How is it?
+Don't talk to him
+##
+
+<どうですか？>
+
+<話しかけるのをやめる>
+
+<Choice End>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"How is it, Kurumada?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+{SE: Accent40-1}
+#Message#
+"Not bad..."
+##
+
+[Kurumada: Damaged, frown / cara95-16]
+#Message#
+\."...Feels like... y'know..."
+##
+
+[Kurumada: Damaged, grin / cara95-17]
+{SE: Accent43-1}
+#Message#
+\."...That it's good to have allies..."
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+{SE: Accent24-1}
+#Message#
+\."Kurumada!"
+##
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."Urgh... W-What?"
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Eheheh..."
+##
+
+{Kurumada} [Kurumada: Damaged, frown / cara95-16]
+#Message#
+\."...Hah."
+##
+
+[Kurumada: Damaged, grin / cara95-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Now I got no regrets... No matter what happens."
+##
+
+[Kurumada: Damaged, frown / cara95-16]
+{SE: sceneswitch2}
+#Message#
+\."Let's win... Sara, Kanna."
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Right..."
+##
+
+<Else>
+
+{Kurumada}
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...?)
+##
+
+{Kurumada}
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."Kurumada...?"
+##
+
+{SE: sceneswitch2}
+#Message#
+"Kurumada..."
+##
+
+{Kurumada}
+#Message#
+\.".........."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]He shows... no sign of moving.
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](No...)
+##
+
+{N/A}
+#Message#
+\.\C[3]He had long since hit his limit.
+##
+
+#Message#
+\.\C[3]He was only living by a continued miracle.
+##
+
+{Kanna} [Kanna: Upset look / cara3-27]
+{SE: Accent40-1}
+#Message#
+"No... Why...?"
+##
+
+[Kanna: Upset look, horrified face, mouth closed / cara3-28]
+{SE: Accent21-1}
+#Message#
+\."Was he... enduring all this time?
+ For this moment..."
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."We're almost there, aren't we...?!
+ Wake up, just for five minutes! C'mon...!!"
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."Stop that...! Keep away! His collar..."
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."Stupid...! Stupiiid...!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...No, Kurumada didn't die from losing battery.
+ He died from his wounds."
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent21-1}
+#Message#
+\."...So his collar won't activate."
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+\."Then..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent28-1}
+#Message#
+\."...We can bring him back. I'm sure."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+{SE: sceneswitch2}
+#Message#
+\."We'll save him...! Definitely!"
+##
+
+{N/A}
+#Message#
+\C[3]We won't lose... I swear it.
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm prepared...!
+ When you wanna start the banquet... gimme a holler!"
+##
+
+<Condition End>
+
+-----Page3-----
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+#Message#
+"We'll win..."
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]Kurumada sits there like a husk, without strength.
+##
+
+-----Page6-----
+%ignore
+
+
+**********Event40********** (gin-EV) (7,11)
+-----Page1-----
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Mr. Policeman may be a ladykiller...
+ But I'm uneasy without him here, meow..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+"Yeah..."
+##
+
+{Gin} [Gin: Looking to side / cara9-21]
+#Message#
+\."And also... Muscle gorilla and muscle punk...
+ are both injured, meow..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+We'll all be okay
+Yeah, I'm worried too
+They've got muscles, so...
+##
+
+<みんな大丈夫さ>
+
+{Sara} [Gin: Looking to side / cara9-21]
+{SE: Accent40-1}
+#Message#
+"Everyone'll be okay... Don't worry."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Yeah... I'll keep an eye on them, meow."
+##
+
+<心配だな>
+
+{Sara} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent40-1}
+#Message#
+"Worrying, huh... Hope things don't worsen for them."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."D-Don't be scary, meow..."
+##
+
+<筋肉があるから…>
+
+{Sara} [Gin: Worried / cara9-3]
+{SE: Accent40-1}
+#Message#
+"They've got muscles, so... they should be fine."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Meow?! Muscles are amazing, woof!!"
+##
+
+<Choice End>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent21-1}
+#Message#
+\."How about you, Gin? Feeling okay?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent24-1}
+#Message#
+\."I'm totally fine, woof!"
+##
+
+{Sara}
+#Message#
+\."Good... You've gotten hardy, Gin."
+##
+
+{Gin} [Gin: Looking to side / cara9-21]
+{SE: Accent21-1}
+#Message#
+\."Big sis Sara... Depend on me anytime, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin...)
+##
+
+-----Page2-----
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+"Things are feeling kinda fun now, meow!"
+##
+
+-----Page3-----
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+"He... did his best, meow..."
+##
+
+
+**********Event41********** (hinako-EV) (4,12)
+-----Page1-----
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+#Message#
+"The banquet, huh? Got a bad feeling..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Hinako: Furrowed brow / cara93-9]
+#Message#
+"True, there's a lot to be uneasy about, but..."
+##
+
+#Choice#
+It's the most preferable
+There's no other way
+Aren't you happy?
+##
+
+<１番マシだ>
+
+{Sara} [Hinako: Furrowed brow / cara93-9]
+{SE: Accent40-1}
+#Message#
+"...It's the most preferable way."
+##
+
+{Hinako} [Hinako: Eyes closed / cara93-4]
+#Message#
+\."Suppose so..."
+##
+
+<他に手段はない>
+
+{Sara} [Hinako: Eyes closed / cara93-4]
+{SE: Accent40-1}
+#Message#
+"There's no other way."
+##
+
+{Hinako}
+#Message#
+\."Suppose so..."
+##
+
+<嬉しくないのか？>
+
+{Sara} [Hinako: Eyes closed / cara93-4]
+{SE: Accent40-1}
+#Message#
+"You aren't happy?"
+##
+
+{Hinako}
+#Message#
+\.".........."
+##
+
+[Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."...Well, maybe just a little."
+##
+
+<Choice End>
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: Accent21-1}
+#Message#
+\."We made it all in one piece, after all.
+ That's pretty amazing."
+##
+
+[Hinako: Sad eyes / cara93-7]
+{SE: Accent21-1}
+#Message#
+\."Definitely preferable to being torn to pieces..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...But in the end, we'll run out of battery
+ and cease moving..."
+##
+
+[Hinako: Small grin / cara93-3]
+{SE: Accent40-1}
+#Message#
+\."So you'd better bring us back. Swear it..."
+##
+
+{Sara}
+#Message#
+\."Right...!"
+##
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+#Message#
+"Hey... Is it okay to leave Ranmaru free?"
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Hinako: Furrowed brow / cara93-9]
+#Message#
+"Ranmaru, huh..."
+##
+
+#Choice#
+Can't do anything now
+Nothing to tie him with
+He can't escape
+##
+
+<今更なにも出来ない>
+
+{Sara} [Hinako: Furrowed brow / cara93-9]
+{SE: Accent40-1}
+#Message#
+"Can't do anything now... Us, or Ranmaru."
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."Letting him get away scot-free... Ticks me off."
+##
+
+<縛る物がない>
+
+{Sara} [Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent40-1}
+#Message#
+"We have nothing to tie him with...
+ And I'm sure he'd resist."
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."Tch... Wanna give him a big kick to satisfy myself."
+##
+
+<逃げないさ>
+
+{Sara} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: Accent40-1}
+#Message#
+"He can't escape... Ranmaru doesn't have any choice
+ but to participate in the banquet either."
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: horror_piano chord3}
+#Message#
+\."If it's a banquet where we destroy him,
+ I'll gladly take part in that."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."...I'm joking."
+##
+
+<Choice End>
+
+{Hinako} [Hinako: Default / cara93-1]
+#Message#
+\."But, well..."
+##
+
+[Hinako: Small grin / cara93-3]
+{SE: Accent28-1}
+#Message#
+\."After the banquet's over...
+ suppose you can just not bring him back."
+##
+
+{Sara}
+#Message#
+\."I mean..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."What's that look? You're gonna forgive him
+ for killing Reko-senpai...?"
+##
+
+<Else>
+
+#Message#
+\."What's that look? You're gonna forgive him
+ for killing Alice-senpai...?"
+##
+
+<Condition End>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](I'm not... one to judge.)
+##
+
+{Hinako} [Hinako: Sad eyes / cara93-7]
+#Message#
+\."...Enough.
+ No point taking it out on you, Sara-senpai."
+##
+
+[Hinako: Furrowed brow / cara93-9]
+#Message#
+"The banquet, huh? Got a bad feeling..."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Hinako: Furrowed brow / cara93-9]
+#Message#
+"True, there's a lot to be uneasy about, but..."
+##
+
+#Choice#
+It's the most preferable
+There's no other way
+Aren't you happy?
+##
+
+<でも１番マシだ>
+
+{Sara} [Hinako: Furrowed brow / cara93-9]
+{SE: Accent40-1}
+#Message#
+"...It's the most preferable way."
+##
+
+{Hinako} [Hinako: Eyes closed / cara93-4]
+#Message#
+\."Suppose so..."
+##
+
+<他に手段はない>
+
+{Sara} [Hinako: Eyes closed / cara93-4]
+{SE: Accent40-1}
+#Message#
+"There's no other way."
+##
+
+{Hinako}
+#Message#
+\."Suppose so..."
+##
+
+<嬉しくないのか？>
+
+{Sara} [Hinako: Eyes closed / cara93-4]
+{SE: Accent40-1}
+#Message#
+"You aren't happy?"
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."...Despite appearances,
+ I'm at least a little happy, Sara-senpai."
+##
+
+<Choice End>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent21-1}
+#Message#
+\."If not for his stupid betrayal,
+ we might've had everyone here together..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Though if not for his stupid betrayal,
+ maybe I could've been a little happier..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Hinako} [Hinako: Sad eyes / cara93-7]
+#Message#
+\.".........."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+[Hinako: Sad eyes, mouth open / cara93-8]
+{SE: Accent40-1}
+#Message#
+\."It's a shame... about Reko-senpai..."
+##
+
+<Else>
+
+{SE: Accent40-1}
+#Message#
+\."It's a shame... about Alice-senpai..."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."Yeah... It really is..."
+##
+
+{Hinako} [Hinako: Default / cara93-1]
+{SE: Accent21-1}
+#Message#
+\."But keep your head on straight.
+ The banquet's ahead of us..."
+##
+
+-----Page2-----
+{Hinako} [Hinako: Eyes closed / cara93-4]
+#Message#
+"...Guess this is pretty nice, isn't it?
+ Even at times like these..."
+##
+
+-----Page3-----
+{Hinako} [Hinako: Sad eyes, mouth open / cara93-8]
+#Message#
+".........."
+##
+
+
+**********Event42********** (sou-EV) (2,12)
+-----Page1-----
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"I'm sure you know, but...
+ the real event lies ahead of us."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"Sou..."
+##
+
+#Choice#
+It'll be a tough fight
+Was everything else practice?
+About \N[4]...
+##
+
+<厳しい戦いになりますね>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent40-1}
+#Message#
+"It'll be a tough fight."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."Yep... But I think it's true.
+ \N[4] was afraid."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Fear can change a person...
+ He must have a weakness to exploit, miss Sara."
+##
+
+<今までは練習ですか>
+
+{Sara} [Sou: Looking down to side with smirk / cara5-6]
+{SE: Accent40-1}
+#Message#
+"Was everything up to now practice...?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."It's a weird expression...
+ but he wanted us to entertain him."
+##
+
+[Sou: Looking down to side / cara5-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And above all, he wanted to enjoy it himself...
+ He's a big ball of desires."
+##
+
+<\N[4]について何か…>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+{SE: Accent40-1}
+#Message#
+"About \N[4]..."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: horror_piano chord3}
+#Message#
+\."We'll kill him. ...What else is there?"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Always saying you'll "beat" him or "won't lose"...
+ No use doing that."
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: sceneswitch2}
+#Message#
+\."Unless you show real bloodlust... he won't be afraid."
+##
+
+<Choice End>
+
+{Sara} [Sou: Grave glare / cara5-5]
+#Message#
+\."..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Haha... Still, I have to say..."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent42-1}
+#Message#
+\."Ranmaru... He did something pretty outrageous."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+[Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+\."Even I didn't expect he'd kill miss Reko..."
+##
+
+<Else>
+
+{SE: Accent21-1}
+#Message#
+\."Even I didn't expect he'd kill Alice..."
+##
+
+<Condition End>
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Who needs a doll that brings harm to humans? Ahaha."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Aren't you sad, Sou?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent41-1}
+#Message#
+\."Sad...?"
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: sceneswitch2}
+#Message#
+\."I can't even make that kind of feeling anymore."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."To me, there's no big difference
+ between \N[4] and you all..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+\."Only... the order. Ahaha..."
+##
+
+{Sara}
+#Message#
+\C[4](Sou...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Looking at Sou makes me uneasy.
+##
+
+{SE: Accent43-1}
+#Message#
+\.\C[3]About whether my vote then was correct...
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"I'm sure you know, but...
+ the real event lies ahead of us."
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"Sou..."
+##
+
+#Choice#
+It'll be a tough fight
+Was everything else practice?
+About \N[4]...
+##
+
+<厳しい戦いになりますね>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent40-1}
+#Message#
+"It'll be a tough fight."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."Yep... But I think it's true.
+ \N[4] was afraid."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Fear can change a person...
+ He must have a weakness to exploit, miss Sara."
+##
+
+<今までは練習ですか>
+
+{Sara} [Sou: Looking down to side with smirk / cara5-6]
+{SE: Accent40-1}
+#Message#
+"Was everything up to now practice...?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."It's a weird expression...
+ but he wanted us to entertain him."
+##
+
+[Sou: Looking down to side / cara5-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And above all, he wanted to enjoy it himself...
+ He's a big ball of desires."
+##
+
+<\N[4]について何か…>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+{SE: Accent40-1}
+#Message#
+"About \N[4]..."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: horror_piano chord3}
+#Message#
+\."We'll kill him. ...What else is there?"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Always saying you'll "beat" him or "won't lose"...
+ No use doing that."
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: sceneswitch2}
+#Message#
+\."Unless you show real bloodlust... he won't be afraid."
+##
+
+<Choice End>
+
+{Sara} [Sou: Grave glare / cara5-5]
+#Message#
+\."..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Haha... Still, I have to say..."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent42-1}
+#Message#
+\."Ranmaru... He did something pretty outrageous."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+[Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+\."Even I didn't expect he'd kill miss Reko..."
+##
+
+<Else>
+
+{SE: Accent21-1}
+#Message#
+\."Even I didn't expect he'd kill Alice..."
+##
+
+<Condition End>
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Who needs a doll that brings harm to humans? Ahaha."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Aren't you sad, Sou?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent41-1}
+#Message#
+\."Sad...?"
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: sceneswitch2}
+#Message#
+\."I can't even make that kind of feeling anymore."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."To be, there's no big difference
+ between \N[4] and you all..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+\."Only... the order. Ahaha..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Looking at Sou makes me uneasy.
+##
+
+{SE: Accent43-1}
+#Message#
+\.\C[3]About whether my vote then was correct...
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+
+**********Event43********** (mai-EV) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Maple's burnt-out body.
+##
+
+-----Page2-----
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"We've finally made it this far, Sara...!"
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"Mai..."
+##
+
+#Choice#
+Are you prepared?
+You're enthusiastic
+Your personality's changed
+##
+
+<覚悟はできてますか？>
+
+{Sara} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent40-1}
+#Message#
+"Are you prepared, Mai?"
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+{SE: Accent28-1}
+#Message#
+\."Of course... I'm always ready!"
+##
+
+<気合が入ってますね>
+
+{Sara} [Mai: Looking down at hand, lowered brows / cara92-19]
+{SE: Accent40-1}
+#Message#
+"You're enthusiastic, Mai."
+##
+
+{Mai}
+{SE: Accent28-1}
+#Message#
+\."Yeah...! Obviously!"
+##
+
+<性格が変わりましたね>
+
+{Sara} [Mai: Looking down at hand, lowered brows / cara92-19]
+{SE: Accent40-1}
+#Message#
+"Your personality's changed, Mai..."
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+\."Uh...?! E-Err..."
+##
+
+[Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+{SE: Accent28-1}
+#Message#
+\."Eeeek! This banquet thing's scary,
+ but I'll do my best! \I[12]"
+##
+
+{Sara}
+{SE: shrink1}
+#Message#
+\."I-I didn't say you should revert back..."
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open / cara92-11]
+#Message#
+\."Oh..."
+##
+
+<Choice End>
+
+{Mai} [Mai: Looking down at hand, eyes closed / cara92-18]
+#Message#
+\."Hey, Sara..."
+##
+
+[Mai: Looking down at hand / cara92-17]
+{SE: Accent21-1}
+#Message#
+\."Do you... like everybody?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Of course
+How do you mean?
+##
+
+<もちろんです>
+
+{Sara} [Mai: Looking down at hand / cara92-17]
+{SE: Accent40-1}
+#Message#
+"Of course. The Dummies, too..."
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."No, not that... I mean all the human survivors..."
+##
+
+<どういう意味ですか？>
+
+{Sara} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent40-1}
+#Message#
+"How do you mean...?"
+##
+
+{Mai}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Not us... I mean human survivors..."
+##
+
+<Choice End>
+
+{Sara} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+\."I don't think... you even need me to answer that."
+##
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+#Message#
+\."I guess so..."
+##
+
+[Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: sceneswitch2}
+#Message#
+\."I... like you guys too..."
+##
+
+[Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+\."Whatever's awaiting us at the banquet..."
+##
+
+[Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+{SE: Accent43-1}
+#Message#
+\."I'll be on your side...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Mai...)
+##
+
+-----Page3-----
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+#Message#
+"Ahh... Everyone's singing puts me in a trance!"
+##
+
+-----Page4-----
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+".........."
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]Maple's burnt-out body.
+##
+
+
+**********Event44********** (Qtaro-EV) (8,11)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"You almost ready, Sara?"
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Q-taro..."
+##
+
+#Choice#
+I'm still a little...
+I'm prepared
+Is your wound okay?
+##
+
+<まだちょっと…>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"I still need to talk with everyone..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."Yeah... That's a good idea.
+ Now's the time to brace yerself..."
+##
+
+<覚悟できてます>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent40-1}
+#Message#
+"I'm prepared."
+##
+
+{Q-taro}
+{SE: Accent21-1}
+#Message#
+\."Expected no less...
+ Honestly, I'm still tremblin' a li'l!"
+##
+
+<ケガは大丈夫ですか？>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent40-1}
+#Message#
+"What about you, Q-taro? Is your wound okay?"
+##
+
+{Q-taro}
+{SE: Accent21-1}
+#Message#
+\."Don't sweat it. If I've made it this far,
+ shouldn't be no concern..."
+##
+
+{Sara}
+#Message#
+\.\C[4](It seemed pretty deep... I'm amazed.)
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Come to think... is Kurumada okay?
+ Impressed he's hangin' on like that..."
+##
+
+{Sara}
+#Message#
+\."Should I check on him?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+\."Yeah, couldja do that for me? We've come this far,
+ we can't go losin' anybody..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Yeah, couldja do that for me?
+ We can't go losin' anybody else..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"You almost ready, Sara?"
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Q-taro..."
+##
+
+#Choice#
+I'm still a little...
+I'm prepared
+Is your wound okay?
+##
+
+<まだちょっと…>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"I still need to talk with everyone..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."Yeah... That's a good idea.
+ Now's the time to brace yerself..."
+##
+
+<覚悟できてます>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent40-1}
+#Message#
+"I'm prepared."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."Expected no less...
+ Honestly, I'm still tremblin' a li'l!"
+##
+
+<ケガは大丈夫ですか？>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"What about you, Q-taro? Is your wound okay?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."Don't sweat it. If I've made it this far,
+ shouldn't be no concern..."
+##
+
+{Sara}
+#Message#
+\.\C[4](It seemed pretty deep... I'm amazed.)
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...Q-taro, um..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."Is there... something you haven't told me?"
+##
+
+{Q-taro}
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."I want to know all about what happened
+ when we were acting separately."
+##
+
+{Q-taro}
+#Message#
+\.".........."
+##
+
+[Q-taro: Smile with closed fist / cara4-4]
+{SE: Accent43-1}
+#Message#
+\."It's all jus' like I told ya..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](If he won't tell me... Then I won't ask...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I'm sure I can believe Q-taro.)
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+\."When yer ready, Sara, give me a holler.
+ We'll start \C[2]preparing for the banquet\C[0]."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"You almost ready, Sara?"
+##
+
+#Choice#
+Talk
+Cancel
+##
+
+<話しかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Q-taro..."
+##
+
+#Choice#
+I'm still a little...
+I'm prepared
+Is your wound okay?
+##
+
+<まだちょっと…>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"I still need to talk with everyone..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."Yeah... That's a good idea.
+ Now's the time to brace yerself..."
+##
+
+<覚悟できてます>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent40-1}
+#Message#
+"I'm prepared."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."Expected no less...
+ Honestly, I'm still tremblin' a li'l!"
+##
+
+<ケガは大丈夫ですか？>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"What about you, Q-taro? Is your wound okay?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."Don't sweat it. If I've made it this far,
+ shouldn't be no concern..."
+##
+
+{Sara}
+#Message#
+\.\C[4](It seemed pretty deep... I'm amazed.)
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...Q-taro, um..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."Is there... something you haven't told me?"
+##
+
+{Q-taro}
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."I want to know all about what happened
+ when we were acting separately."
+##
+
+{Q-taro}
+#Message#
+\.".........."
+##
+
+[Q-taro: Smile with closed fist / cara4-4]
+{SE: Accent43-1}
+#Message#
+\."It's all jus' like I told ya..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](If he won't tell me... Then I won't ask...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I'm sure I can believe Q-taro.)
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+\."When yer ready, Sara, give me a holler.
+ We'll start \C[2]preparing for the banquet\C[0]."
+##
+
+-----Page2-----
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+"This song's kinda nostalgic, eh...?"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent28-1}
+#Message#
+"Sara... You gonna start \C[2]preparing for the banquet\C[0]?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Prepare for the banquet
+Cancel
+##
+
+<宴の準備を始める>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: sceneswitch2}
+#Message#
+"Yes! Let's begin...!"
+##
+
+-----Page6-----
+%ignore
+
+
+**********Event45********** (midomei-EV) (8,10)
+-----Page1-----
+{Maple}
+{SE: WON-robo5}
+#Message#
+"HIYORI... ACCEPT IT... ALREADY..."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+{SE: Accent21-1}
+#Message#
+"...Urk..."
+##
+
+{N/A}
+#Message#
+\C[3]When we arrived at the cemetery,
+\N[4] was completely cornered by Maple.
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent21-1}
+#Message#
+"Stop this, Maple..."
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."GOODBYE..."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+".........."
+##
+
+[Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent41-1}
+#Message#
+\."I love you, Maple..."
+##
+
+{Maple}
+#Message#
+"...!"
+##
+
+{Sara}
+{SE: Accent42-1}
+#Message#
+\.\C[4](Maple...!)
+##
+
+#Choice#
+He's lying
+Hurry and finish him
+Don't kill him
+##
+
+<それはウソだ>
+
+{Sara} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: sceneswitch2}
+#Message#
+"That's a lie! Maple...!!"
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+\."I KNOW... HIYORI... IS LYING..."
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"No I'm not. I really love you, Maple."
+##
+
+{Maple}
+#Message#
+"...!!"
+##
+
+{Sara}
+#Message#
+\."Don't be fooled...!!"
+##
+
+{Maple}
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I WON'T BELIEVE YOU... HIYORI..."
+##
+
+<早くトドメを>
+
+{Sara} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: sceneswitch2}
+#Message#
+"Hurry up and finish him! Maple...!"
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+\."FINISH..."
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"I... always loved you, Maple..."
+##
+
+{Maple}
+#Message#
+"...!!"
+##
+
+{Sara}
+#Message#
+\."Don't be fooled...!!"
+##
+
+{Maple}
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I WON'T BELIEVE YOU... HIYORI..."
+##
+
+<殺しちゃダメだ>
+
+{Sara} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: sceneswitch2}
+#Message#
+"Don't kill him! Maple...!"
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+\."SARA..."
+##
+
+{Sara}
+{SE: Thunder10}
+#Message#
+\."We'll defeat \N[4] by our own hand...!!"
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+\."..."
+##
+
+#Message#
+\."NO... I WILL...!!"
+##
+
+<Choice End>
+
+{Maple} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+#Message#
+\."TOGETHER...!!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+{SE: sceneswitch2}
+#Message#
+"Sorry, but..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."You!! You got a stun gun on yer finger...?!"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Maple}
+#Message#
+\."W... WAHHH...!!"
+##
+
+#Message#
+\."NO... MY BODY'S...!!"\|
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+"Ha... haha..."
+##
+
+[Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent28-1}
+#Message#
+\."She sure got close... but too bad."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\.".........."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent43-1}
+#Message#
+\."...I wouldn't say that."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent41-1}
+#Message#
+\."Hm...?"
+##
+
+{Sara}
+#Message#
+\."Just now... you were scared."
+##
+
+#Message#
+\."Scared of Maple's attack she was ready to die for..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You showed weakness... your fear of death."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+{SE: Accent43-1}
+#Message#
+\."...I wouldn't say that."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent41-1}
+#Message#
+\."Hm...?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Just a second ago... you were scared."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Of Maple's attack she was ready to die for..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You showed weakness... your fear of death."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](That's right...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I was always thinking that \N[4]
+ might be indifferent even to his own death...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](But I was wrong!)
+##
+
+#Message#
+\.\C[4](Even \N[4] doesn't want to die...!!)
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+#Message#
+\."...Talk about nonsense.
+ What does knowing that do for you?"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."If you see a weakness to take advantage of,
+ just go ahead and try."
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."After all, the only means
+ left to you now is the banquet..."
+##
+
+{Sara}
+#Message#
+\C[4](The banquet...)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"Feels like we're on our last resort now..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Where's Mr. Policeman...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."We got no time to look around..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."There's no time to look around..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."I'm sure... he's safe..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."There's no time to look around."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+\."Nnh...! He's gotta be okay, meow! I trust him, woof!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Right... This is our last chance...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Until we're ready, I should talk with everyone...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+-----Page2-----
+{Maple}
+{SE: WON-robo5}
+#Message#
+"HIYORI... ACCEPT IT... ALREADY..."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+{SE: Accent21-1}
+#Message#
+"...Urk..."
+##
+
+[Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent21-1}
+#Message#
+\."Stop this, Maple..."
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."GOODBYE..."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+".........."
+##
+
+[Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent41-1}
+#Message#
+\."I love you, Maple..."
+##
+
+{Maple}
+#Message#
+"...!"
+##
+
+{Sara}
+{SE: Accent42-1}
+#Message#
+\.\C[4](Maple...!)
+##
+
+#Choice#
+He's lying
+Hurry and finish him
+Don't kill him
+##
+
+<それはウソだ>
+
+{Sara} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: sceneswitch2}
+#Message#
+"That's a lie! Maple...!!"
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+\."I KNOW... HIYORI... IS LYING..."
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"No I'm not. I really love you, Maple."
+##
+
+{Maple}
+#Message#
+"...!!"
+##
+
+{Sara}
+#Message#
+\."Don't be fooled...!!"
+##
+
+{Maple}
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I WON'T BELIEVE YOU... HIYORI..."
+##
+
+<早くトドメを>
+
+{Sara} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: sceneswitch2}
+#Message#
+"Hurry up and finish him! Maple...!"
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+\."FINISH..."
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"I... always loved you, Maple..."
+##
+
+{Maple}
+#Message#
+"...!!"
+##
+
+{Sara}
+#Message#
+\."Don't be fooled...!!"
+##
+
+{Maple}
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I WON'T BELIEVE YOU... HIYORI..."
+##
+
+<殺しちゃダメだ>
+
+{Sara} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: sceneswitch2}
+#Message#
+"Don't kill him! Maple...!"
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+\."SARA..."
+##
+
+{Sara}
+{SE: Thunder10}
+#Message#
+\."We'll defeat \N[4] by our own hand...!!"
+##
+
+{Maple}
+{SE: WON-robo5}
+#Message#
+\."..."
+##
+
+#Message#
+\."NO... I WILL...!!"
+##
+
+<Choice End>
+
+{Maple} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+#Message#
+\."TOGETHER...!!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+{SE: sceneswitch2}
+#Message#
+"Sorry, but..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."You!! You got a stun gun on yer finger...?!"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Maple}
+#Message#
+\."W... WAHHH...!!"
+##
+
+#Message#
+\."NO... MY BODY'S...!!"\|
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+"Ha... haha..."
+##
+
+[Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent28-1}
+#Message#
+\."She sure got close... but too bad."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\.".........."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent43-1}
+#Message#
+\."...I wouldn't say that."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent41-1}
+#Message#
+\."Hm...?"
+##
+
+{Sara}
+#Message#
+\."Just now... you were scared."
+##
+
+#Message#
+\."Scared of Maple's attack she was ready to die for..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You showed weakness... your fear of death."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+{SE: Accent43-1}
+#Message#
+\."...I wouldn't say that."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: Accent41-1}
+#Message#
+\."Hm...?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Just a second ago... you were scared."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Of Maple's attack she was ready to die for..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You showed weakness... your fear of death."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](That's right...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I was always thinking that \N[4]
+ might be indifferent even to his own death...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](But I was wrong!)
+##
+
+#Message#
+\.\C[4](Even \N[4] doesn't want to die...!!)
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+#Message#
+\."...Talk about nonsense.
+ What does knowing that do for you?"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."If you see a weakness to take advantage of,
+ just go ahead and try."
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."After all, the only means
+ left to you now is the banquet..."
+##
+
+{Sara}
+#Message#
+\.\C[4](The banquet...)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"Feels like we're on our last resort now..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Where's Mr. Policeman...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."We got no time to look around..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."There's no time to look around..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."I'm sure... he's safe..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."There's no time to look around."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+\."Nnh...! He's gotta be okay, meow! I trust him, woof!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Right... This is our last chance...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Until we're ready, I should talk with everyone...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+

@@ -1,0 +1,19 @@
+**********Common1408********** (②クルマダB選択)
+{N/A}
+#Message#
+"I know! This is a boxing ring, right?!
+ Maybe if we duke it out together,
+ the puzzle'll get solved?!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

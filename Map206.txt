@@ -1,0 +1,921 @@
+=====Map206===== (⑤Outside Pair Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."Wonder what this place is...?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."...Think it's a bathroom?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Kinda shady, meow. Don't wanna go in, woof."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+#Message#
+\."Ehh? Holding it in is bad for your health!"
+##
+
+[Mai: Mouth open / cara92-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ah! But we don't have to go anymore, so lucky us!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."D-Don't say stuff that's hard to respond to...
+ Yer makin' it awkward..."
+##
+
+
+**********Event2********** (huda) (3,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a symbol that looks like people.
+##
+
+{Sara}
+#Message#
+\C[4](Is it a bathroom...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's a symbol that looks like people.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Is this really a bathroom...?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."That's what it looks like at a glance..."
+##
+
+{Sara}
+#Message#
+\."But the door won't open.
+ If it were a bathroom, it'd be blocked off..."
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."You have a point..."
+##
+
+{Sara}
+#Message#
+\C[4](Hm? Hold on, this symbol...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](It kind of looks like they're holding hands...)
+##
+
+#Message#
+\."..."
+##
+
+#Choice#
+Hold hands
+Cancel
+##
+
+<手をつないでみる>
+
+<やめる>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\.\C[4](Never mind...)
+##
+
+<Choice End>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Maybe it's a clue for how to open the door?)
+##
+
+{N/A}
+#Message#
+\.\C[3]Held Ranmaru's hand.
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+#Message#
+"?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](It opened!)
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."Whoa! What?! Why?!"
+##
+
+{Sara}
+#Message#
+\."Sure enough... The symbol was a hint."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This might be a room meant
+ for two people to enter together..."
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+#Message#
+\."S-Seriously? You're sharp, Sara..."
+##
+
+{Sara}
+#Message#
+\."You're too tense, Ranmaru.
+ You'll waste your battery trembling like that."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."A-And whose fault is that..."
+##
+
+{Sara}
+#Message#
+\."...?"
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]There's a symbol that looks like people.
+##
+
+
+**********Event3********** (hirake) (6,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The door is firmly shut.
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."I-It won't open?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Huh?! That's not good!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Hah! Sucks for the humans."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."It won't open...?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."What do we do?! Ain't that a problem?!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Gotta say... This room's suspicious."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\C[4](A bathroom... I guess?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The door is firmly shut.
+##
+
+{Sara}
+#Message#
+\.\C[4](This symbol has me curious...)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The door is open.
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I go in...?)
+##
+
+#Choice#
+Go inside
+Cancel
+##
+
+<中に入る>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+#Message#
+\."Let's go..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Once we enter, we'll have to deal with
+ whatever's inside alone. Gotta be prepared..."
+##
+
+{Sara}
+#Message#
+\."Right..."
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+{SE: Accent21-1}
+#Message#
+"W... What is this place?"
+##
+
+{Sara}
+#Message#
+\C[4](It's an awfully fluffy room...)
+##
+
+{Woman's Voice}
+#Message#
+"Good day..."
+##
+
+{Woman}
+{SE: Accent28-1}
+#Message#
+"Eheehee... Please, take it easy..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."Urk...!! Get away, Sara!
+ It's an Obstructor...!!"
+##
+
+{Monster?}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."I'll get some tea!"
+##
+
+{Sara}
+#Message#
+"H-Huh? She isn't attacking..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+"Is she not an enemy...?"
+##
+
+{Sara}
+#Message#
+\."I don't know, but..."
+##
+
+#Choice#
+Let's search before she returns
+Let's wait obediently
+Should we leave?
+##
+
+<戻ってくる前に探索だ>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+"At any rate... Let's search this room
+ before she gets back."
+##
+
+<大人しく待ってよう>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+"We shouldn't act right now...
+ Let's wait patiently."
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."I mean, who knows when she'll attack?
+ Let's search the room for a weapon or something!"
+##
+
+{Sara}
+#Message#
+\."H-Hey, Ranmaru...!"
+##
+
+#Message#
+\.\C[4](Ugh, I tell you...)
+##
+
+<部屋を出ないか>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Do you think we should leave for now?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth closed / cara91-2]
+#Message#
+\."What're you chickening out for?
+ Didn't I tell you to be prepared?"
+##
+
+[Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."Who knows when she'll attack...
+ Let's search the room for a weapon or something!"
+##
+
+{Sara}
+#Message#
+\."H-Hey, Ranmaru...!"
+##
+
+#Message#
+\.\C[4](Ugh, I tell you...)
+##
+
+<Choice End>
+
+-----Page6-----
+{N/A}
+#Message#
+\C[3]The door is firmly shut.
+##
+
+{Sara}
+#Message#
+\.\C[4](This symbol has me curious...)
+##
+
+-----Page7-----
+{N/A}
+#Message#
+\C[3]The door is firmly shut.
+##
+
+{Sara}
+#Message#
+\.\C[4](Maple...
+ If my guess is right, she's in here...)
+##
+
+#Choice#
+Enter the room
+Cancel
+##
+
+<部屋へ入る>
+
+<やめる>
+
+{Sara}
+#Message#
+\C[4](I should prepare myself...)
+##
+
+#Message#
+\C[4](Come to think of it, Shin mentioned
+ a book in the library about how to beat Maple...)
+##
+
+<Choice End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Sara... Don't tell me, she's here...?"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Hold on, don't tell me... She's here...?"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."Yes..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."'Zis door even open...?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Oh right, none of them know...)
+##
+
+{SE: Accent28-1}
+#Message#
+\."This door opens if a pair holds hands."
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+#Message#
+\."Whoa...! A cute method that gets your heart racing!"
+##
+
+<Else>
+
+{Kurumada} [Kurumada: Narrowed eyes, clenched teeth, sweating / cara95-13]
+#Message#
+\."For real...?"
+##
+
+<Condition End>
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: flash-of-light-3}
+#Message#
+\."Hurry! Let's all hold hands, meow!"
+##
+
+{Q-taro} [Mai: Smile / cara92-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...This'll do 'er?"
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent24-1}
+#Message#
+\."We're all set!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+"'Slike I'm babysitting..."
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Please don't treat me like a kid!"
+##
+
+<Else>
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+"Tch... Holdin' hands with you, huh..."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...Hey, can you control that grip of yours?
+ It hurts..."
+##
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent28-1}
+#Message#
+"Ooh, your fingers are so nice, miss!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."H-Hey, that tickles..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+{SE: Accent42-1}
+#Message#
+"...Um, my heart's racing in a different way..."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."Still frightened by me, hm...?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Mouth open, glancing to side / cara94-3]
+#Message#
+"...Will it still work even with gloves on?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Meow?! I'm super not taking them off, woof!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+{SE: Accent41-1}
+#Message#
+\C[3]But the door didn't open.
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Why, woof?!"
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hmm... Wonder if only \C[2]one pair\C[0] can enter..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Eh?!
+ Then we have to fight with only two people...?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."No, we should have a discussion
+ to make her hand over the ID card."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+\."In other words, we have to steal the ID card
+ with just two people..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."No, we should have a discussion
+ to make her hand over the ID card."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Shit... Well, who's goin'?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."But... who will go?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."Who'd ever want to do something so dangerous...?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: sceneswitch2}
+#Message#
+\."We'll go."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ranmaru...)
+##
+
+#Choice#
+No other choice
+Good luck
+##
+
+<それしかないな>
+
+{Sara} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent40-1}
+#Message#
+"...No other choice, I guess."
+##
+
+#Message#
+\."We met her already... She should be less wary of us."
+##
+
+<がんばれよ>
+
+{Sara} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent40-1}
+#Message#
+"Good luck with that..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+\."Hey!! We're a pair, remember?!"
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."We already met her before.
+ She should be less wary of us...!"
+##
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."But... we're always relying on Sara..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Hmph... It's always Sara at times like this."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: Accent28-1}
+#Message#
+\."Ain't Sara the one who wants to save Keiji most?"
+##
+
+[Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."Can't leave any regrets..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."That's true..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Alright... Countin' on you.
+ If anything happens, leave the room ASAP!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Tch! The same as always after all...
+ If things take a dangerous turn, you should run!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\."Right...!"
+##
+
+{N/A}
+#Message#
+\C[3]The others stepped away from the door.
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Look... It opened."
+##
+
+{Sara}
+#Message#
+\.\C[4](We just... have to do this.)
+##
+
+
+**********Event49********** (EV049) (1,1)
+-----Page1-----
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Nngh...!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."What're you doing?! Hurry!"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."W-Wait, everyone!
+ Q-taro's injured...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."Reko...! Sorry, but I need yer shoulder!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Got it! Grab on!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\.\C[3]Q-taro put Kurumada on Reko's shoulder.
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."Alice...! Sorry, but I need yer shoulder!!"
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."Ehh?! Well, if you say so!!
+ Go ahead, grab on!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\.\C[3]Q-taro put Kurumada on Alice's shoulder.
+##
+
+<Condition End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry / cara95-30]
+#Message#
+\."W-What're... you doin'...? You..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout with sweat / cara4-25]
+#Message#
+\."Now go...! You guys go on ahead!!"
+##
+
+{Sara}
+#Message#
+\."Q-taro?!"
+##
+
+#Choice#
+Understood!
+What are you saying?!
+##
+
+<わかりました！>
+
+{Sara} [Q-taro: Fists-balled shout with sweat / cara4-25]
+{SE: Accent21-1}
+#Message#
+"Understood...!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."B-But...?! Big sis Sara!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+{SE: Accent40-1}
+#Message#
+\."Heheh... Knew you were quick on the uptake."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."We're gonna save Keiji for sure!! Got it?!"
+##
+
+<何言ってるんですか！>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent21-1}
+#Message#
+"What are you saying?! Please, stand up!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."I said go...!
+ What am I puttin' myself in danger for?!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."We're savin' Keiji, right?!
+ Didn't we expect at least this sorta peril?!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."O-Oh no..."
+##
+
+<Choice End>
+
+{Mai} [Mai: Worried eyebrows, mouth open / cara92-11]
+{SE: Accent21-1}
+#Message#
+\."I'll protect Q-taro! Go, everyone...!"
+##
+

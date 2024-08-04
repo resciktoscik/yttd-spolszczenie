@@ -1,0 +1,1151 @@
+=====Map170===== (❹Gashu's Room)
+
+**********Event1********** (sou) (6,6)
+-----Page1-----
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]Sou is fiddling with a computer set up in the room.
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+#Choice#
+What are you doing?
+Is this the secret room?
+##
+
+<何をしてるんですか？>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"What are you doing?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+"Whew... Miss Sara and Gin...?"
+##
+
+<ここが秘密の部屋？>
+
+{Sara} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent21-1}
+#Message#
+"Is this the secret room...?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"Yeah... No doubt about it, it's Gashu's room."
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side with smug smirk / cara5-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm using Ranger's chip right now
+ to neutralize the security."
+##
+
+{Sara}
+#Message#
+\."Can you actually do that?!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Yep... This chip's amazing stuff."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."It's got a lot of important data
+ that could probably be misused."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."Almost makes me think Ranger was
+ intended to inherit all that data."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Was he going to be a successor or something...?"
+##
+
+{Sara}
+#Message#
+\."A successor..."
+##
+
+#Choice#
+In place of a son?
+It's just a backup
+That doesn't matter
+##
+
+<息子の代わり？>
+
+{Sara} [Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+\."I wonder if he was... a stand-in for a son..."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Well... Not that it really matters."
+##
+
+<ただのバックアップ>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+{SE: Accent28-1}
+#Message#
+\."I'm sure it's just a backup...
+ They'd use it if something happened to Gashu."
+##
+
+{Sou}
+#Message#
+\."Well... Not that it really matters."
+##
+
+<どうでもいいこと>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+{SE: Accent28-1}
+#Message#
+\."That doesn't really matter to us."
+##
+
+{Sou}
+#Message#
+\."That's true..."
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."The hacking is still going to take some time.
+ Could you keep an eye out below for anyone coming?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."I'll keep watch, meow!"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Big sis Sara, you watch the loner, woof!"
+##
+
+{Sara} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\C[4](Sure, "watch Sou," you say...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Sou is fiddling with a computer set up in the room.
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't interrupt him right now...)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Sou is fiddling with a computer set up in the room.
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent28-1}
+#Message#
+"I did it...!"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."I did it, I did it! It went great, miss Sara!!"
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."I'm in the depths of their security now!"
+##
+
+{Sara}
+#Message#
+\."Sou...!"
+##
+
+#Choice#
+You did it!
+High five!
+You sure are energetic
+##
+
+<やりましたね！>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent21-1}
+#Message#
+\."You did it!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Ahaha. Don't celebrate just yet, miss Sara."
+##
+
+<ハイタッチする>
+
+{Sara} [Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+\."Yeah!"
+##
+
+{N/A}
+{SE: cracker2}
+#Message#
+\.\C[3]A satisfying clap rang out.
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Ah..."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...Quit it with the weird chipperness, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Even though you went along with it...)
+##
+
+<テンション高いですね>
+
+{Sara} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent21-1}
+#Message#
+\."...You sure are energetic."
+##
+
+{Sou} [Sou: Grave glare / cara5-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](And poof, there it goes.)
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Things are going to get a little difficult from here."
+##
+
+{Sara}
+#Message#
+\."There's more...?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."It'll be fine. Just wait there."
+##
+
+{N/A}
+#Message#
+\.\C[3]Sou stooped over further
+and began to work on the computer.
+##
+
+{Sara}
+#Message#
+\.\C[4](He seems so... lively.)
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Whoa...!!"
+##
+
+{Sara}
+#Message#
+\."What's the matter?!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."There's been a little problem..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+\."Miss Sara, could you help me out?"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."See the four monitors in this room?"
+##
+
+#Message#
+\."There's going to be red error screens
+ appearing on them."
+##
+
+{SE: Accent28-1}
+#Message#
+\."When you see one, tell me right away so I can fix it!"
+##
+
+{Sara}
+#Message#
+\."Understood!"
+##
+
+{Sou}
+#Message#
+\."Tell me when you're ready."
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]Sou is fiddling with a computer set up in the room.
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+"Are you ready? When a red error screen appears,
+ tell me what monitor it's on."
+##
+
+#Choice#
+I'm ready
+Not ready yet
+##
+
+<準備できました>
+
+<まだできません>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Be quick, miss Sara...!"
+##
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Okay! Leave this to me!"
+##
+
+-----Page6-----
+{N/A}
+#Message#
+\C[3]I'm looking at the computer screen,
+but I can't sense any particular change.
+##
+
+{Sara}
+#Message#
+\.\C[4](Did he really hack in with this...?)
+##
+
+
+**********Event2********** (syozo) (7,2)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A portrait of a man.
+##
+
+#Message#
+\.\C[3]It's titled "Inauguration."
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A portrait of a man.
+##
+
+#Message#
+\.\C[3]It's titled "Inauguration."
+##
+
+
+**********Event3********** (syukki) (7,7)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]A memorandum titled "That Incident."
+##
+
+{Sara}
+#Message#
+\.\C[4](This is a pretty old book...)
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{Memorandum}
+{SE: Accent28-1}
+#Message#
+\.\C[5]Quite some time has passed since then.
+##
+
+#Message#
+\.\C[5]But even now, those hellish memories
+are scorched into the back of my mind.
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[5]In the first trial, I killed a person.
+##
+
+{Sara}
+#Message#
+\.\C[4](First trial...?!)
+##
+
+{Memorandum}
+#Message#
+\.\C[5]I would never trust others.
+That was what I decided.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[5]In the Russian Roulette that followed, too,
+I didn't participate.
+##
+
+{Sara}
+{SE: feed1}
+#Message#
+\.\C[4](This is describing the same things
+ we had to go through...!!)
+##
+
+{Memorandum}
+#Message#
+\.\C[5]At the end of their argument,
+the challenger chosen was someone most surprising.
+##
+
+#Message#
+\.\C[5]A 17-year-old schoolgirl.
+##
+
+{Sara}
+{SE: feed1}
+#Message#
+\.\C[4](...!)
+##
+
+{Memorandum}
+#Message#
+\.\C[5]With overwhelming charisma,
+she had a talent for getting people in order.
+##
+
+#Message#
+\.\C[5]And in the first \C[2]victim conference\C[5],
+she was a central figure as well.
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[5]But there, she lost her best friend.
+##
+
+#Message#
+\.\C[5]And then, the second victim conference.
+##
+
+#Message#
+\.\C[5]A boy even younger than her,
+and the man whose views most aligned with hers.
+These two...
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[5]...died.
+##
+
+#Message#
+\.\C[5]Seeing her so exhausted, I felt pity.
+##
+
+#Message#
+\.\C[5]For the first time, I spoke my true feelings.
+##
+
+#Message#
+\.\C[5]By the time we were done talking,
+I had acquired an admiration for her.
+##
+
+#Message#
+\.\C[5]To the point that I would be fine
+with even my own death as long as she won it all.
+##
+
+#Message#
+\.\C[5]But, in the third victim conference...
+##
+
+{SE: shock1}
+#Message#
+\.\C[5]She died.
+##
+
+#Message#
+\.\C[5]It was the first time I'd shed tears for a stranger.
+##
+
+#Message#
+\.\C[5]Even now, I see hallucinations of her.
+##
+
+#Message#
+\.\C[5]As many women as I try to love, I'm never satisfied.
+##
+
+#Message#
+\.\C[5]Even now, to me, she is
+##
+
+{N/A}
+#Message#
+\.\C[3]The message ends here, half-written.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\.\C[4](What in the world is this book...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A memorandum titled "That Incident."
+##
+
+{Sara}
+#Message#
+\.\C[4](This is a pretty old book...)
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{Memorandum}
+#Message#
+\.\C[5]Quite some time has passed since then.
+##
+
+#Message#
+\.\C[5]But even now, those hellish memories
+are scorched into the back of my mind.
+##
+
+#Message#
+\.\C[5]In the first trial, I killed a person.
+##
+
+#Message#
+\.\C[5]I would never trust others.
+That was what I decided.
+##
+
+#Message#
+\.\C[5]In the Russian Roulette that followed, too,
+I didn't participate.
+##
+
+#Message#
+\.\C[5]At the end of their argument,
+the challenger chosen was someone most surprising.
+##
+
+#Message#
+\.\C[5]A 17-year-old schoolgirl.
+##
+
+#Message#
+\.\C[5]With overwhelming charisma,
+she had a talent for getting people in order.
+##
+
+#Message#
+\.\C[5]And in the first \C[2]victim conference\C[5],
+she was a central figure as well.
+##
+
+#Message#
+\.\C[5]But there, she lost her best friend.
+##
+
+#Message#
+\.\C[5]And then, the second victim conference.
+##
+
+#Message#
+\.\C[5]A boy even younger than her,
+and the man whose views most aligned with hers.
+These two...
+##
+
+#Message#
+\.\C[5]...died.
+##
+
+#Message#
+\.\C[5]Seeing her so exhausted, I felt pity.
+##
+
+#Message#
+\.\C[5]For the first time, I spoke my true feelings.
+##
+
+#Message#
+\.\C[5]By the time we were done talking,
+I had acquired an admiration for her.
+##
+
+#Message#
+\.\C[5]To the point that I would be fine
+with even my own death as long as she won it all.
+##
+
+#Message#
+\.\C[5]But, in the third victim conference...
+##
+
+{SE: shock1}
+#Message#
+\.\C[5]She died.
+##
+
+#Message#
+\.\C[5]It was the first time I'd shed tears for a stranger.
+##
+
+#Message#
+\.\C[5]Even now, I see hallucinations of her.
+##
+
+#Message#
+\.\C[5]As many women as I try to love, I'm never satisfied.
+##
+
+#Message#
+\.\C[5]Even now, to me, she is
+##
+
+{N/A}
+#Message#
+\.\C[3]The message ends here, half-written.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\.\C[3]A memorandum titled "That Incident."
+##
+
+{Sara}
+#Message#
+\.\C[4](This is a pretty old book...)
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{Memorandum}
+#Message#
+\.\C[5]Quite some time has passed since then.
+##
+
+#Message#
+\.\C[5]But even now, those hellish memories
+are scorched into the back of my mind.
+##
+
+#Message#
+\.\C[5]In the first trial, I killed a person.
+##
+
+#Message#
+\.\C[5]I would never trust others.
+That was what I decided.
+##
+
+#Message#
+\.\C[5]In the Russian Roulette that followed, too,
+I didn't participate.
+##
+
+#Message#
+\.\C[5]At the end of their argument,
+the challenger chosen was someone most surprising.
+##
+
+#Message#
+\.\C[5]A 17-year-old schoolgirl.
+##
+
+#Message#
+\.\C[5]With overwhelming charisma,
+she had a talent for getting people in order.
+##
+
+#Message#
+\.\C[5]And in the first \C[2]victim conference\C[5],
+she was a central figure as well.
+##
+
+#Message#
+\.\C[5]But there, she lost her best friend.
+##
+
+#Message#
+\.\C[5]And then, the second victim conference.
+##
+
+#Message#
+\.\C[5]A boy even younger than her,
+and the man whose views most aligned with hers.
+These two...
+##
+
+#Message#
+\.\C[5]...died.
+##
+
+#Message#
+\.\C[5]Seeing her so exhausted, I felt pity.
+##
+
+#Message#
+\.\C[5]For the first time, I spoke my true feelings.
+##
+
+#Message#
+\.\C[5]By the time we were done talking,
+I had acquired an admiration for her.
+##
+
+#Message#
+\.\C[5]To the point that I would be fine
+with even my own death as long as she won it all.
+##
+
+#Message#
+\.\C[5]But, in the third victim conference...
+##
+
+{SE: shock1}
+#Message#
+\.\C[5]She died.
+##
+
+#Message#
+\.\C[5]It was the first time I'd shed tears for a stranger.
+##
+
+#Message#
+\.\C[5]Even now, I see hallucinations of her.
+##
+
+#Message#
+\.\C[5]As many women as I try to love, I'm never satisfied.
+##
+
+#Message#
+\.\C[5]Even now, to me, she is
+##
+
+{N/A}
+#Message#
+\.\C[3]The message ends here, half-written.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+
+**********Event4********** (kiyaku) (8,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Papers titled "Floor Master's Code."
+##
+
+{Sara}
+#Message#
+\.\C[4](Floor Master's... code?)
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{Rules}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[5]■Floor Masters, let's carry out
+  the Death Game with pride!
+##
+
+#Message#
+\.\C[5][1] For trials that require explanation,
+    give one to the participants in advance!
+##
+
+#Message#
+\.\C[5][2] Floor Masters must not directly kill participants!
+##
+
+#Message#
+\.\C[5][3] Floor Masters cannot lie
+    with the intent of deceiving participants!
+##
+
+#Message#
+\.\C[5][4] If there is misconduct during the Main Game,
+    it either proceeds with the transgressor's death,
+    or \C[2]must be retried 24 hours later\C[5]!
+##
+
+#Message#
+\.\C[5][5] Treat the participants with love!
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Misconduct during the Main Game...?
+ This is the first I've heard of that.)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](If a participant transgresses, they die as penalty...
+ And if a Floor Master does, it's a 24-hour extension?)
+##
+
+#Message#
+\.\C[4](That seems to be how you'd interpret it.)
+##
+
+#Message#
+\.\C[4](...Talk about unfair rules.)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Papers titled "Floor Master's Code."
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{Rules}
+#Message#
+\C[5]■Floor Masters, let's carry out
+  the Death Game with pride!
+##
+
+#Message#
+\.\C[5][1] For trials that require explanation,
+    give one to the participants in advance!
+##
+
+#Message#
+\.\C[5][2] Floor Masters must not directly kill participants!
+##
+
+#Message#
+\.\C[5][3] Floor Masters cannot lie
+    with the intent of deceiving participants!
+##
+
+#Message#
+\.\C[5][4] If there is misconduct during the Main Game,
+    it either proceeds with the transgressor's death,
+    or \C[2]must be retried 24 hours later\C[5]!
+##
+
+#Message#
+\.\C[5][5] Treat the participants with love!
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]Papers titled "Floor Master's Code."
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{Rules}
+#Message#
+\C[5]■Floor Masters, let's carry out
+  the Death Game with pride!
+##
+
+#Message#
+\.\C[5][1] For trials that require explanation,
+    give one to the participants in advance!
+##
+
+#Message#
+\.\C[5][2] Floor Masters must not directly kill participants!
+##
+
+#Message#
+\.\C[5][3] Floor Masters cannot lie
+    with the intent of deceiving participants!
+##
+
+#Message#
+\.\C[5][4] If there is misconduct during the Main Game,
+    it either proceeds with the transgressor's death,
+    or \C[2]must be retried 24 hours later\C[5]!
+##
+
+#Message#
+\.\C[5][5] Treat the participants with love!
+##
+
+
+**********Event7********** (moni1) (5,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The monitor reflects the computer screen.
+##
+
+
+**********Event8********** (moni2) (5,5)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The monitor reflects the computer screen.
+##
+
+
+**********Event13********** (moni3) (11,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The monitor reflects the computer screen.
+##
+
+
+**********Event14********** (moni4) (11,5)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The monitor reflects the computer screen.
+##
+
+
+**********Event15********** (EV015) (15,0)
+-----Page2-----
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+"N... No...!"
+##
+
+{Sara}
+#Message#
+\."Sou, don't tell me..."
+##
+
+{Voice}
+#Message#
+\."Well well, it's you two."
+##
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Are you not taking your mischief a bit far?"
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+\."Urk..."
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+#Message#
+\."As Floor Master, I cannot overlook this act."
+##
+
+[Gashu: Eyes closed / cara16-5]
+{SE: sceneswitch2}
+#Message#
+\."It is truly unfortunate... but I must take action."
+##
+
+{N/A}
+#Message#
+\C[3]A white gas floods into the room.
+##
+
+{Sara}
+#Message#
+\."Ah...! Urgh...!! Can't... breathe...!!"
+##
+
+{Sou}
+#Message#
+\."Ghh...!! Came... so far... gahh...!!"
+##
+
+-----Page3-----
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+"It's... done..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Thunder10}
+#Message#
+\."Ahaha...!! It worked!! It worked, Sara!!"
+##
+
+{Sara}
+#Message#
+\."You succeeded?!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Of course! Ahaha!"
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You probably can't tell at a glance...
+ But things are getting really outrageous."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Hahaha... Let's save the celebration for later.
+ Let's go, Sara!"
+##
+
+{Sara}
+#Message#
+\."Eh? Hold on, go... where?!"
+##
+
+#Message#
+\.\C[4](I just have to follow him...!)
+##
+

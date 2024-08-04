@@ -1,0 +1,95 @@
+**********Common662********** (ｹｲｼﾞ「ｷﾞﾝの行動」)
+{Keiji}
+#Message#
+"Pretty curious about Gin's actions, myself.
+ Why'd he know how to get to the first floor...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Pretty cheeky to object to me, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Not up for debating you right now..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Him noticing a secret door just by searching
+ the Room of Rubble had me tilting my head a bit."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."You'd need a better nose
+ than a police dog to do that."
+##
+
+{Sara}
+{SE: flash-of-light-3}
+#Message#
+\.\C[4](If Gin has the sense of smell
+ of both a dog AND a cat, then...!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Just as a reminder, Gin's a human."
+##
+

@@ -1,0 +1,402 @@
+=====Map136===== (❹OP Reko)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara} [Sara: Tired eyes, slight frown / cara0-8]
+{SE: Accent28-1}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\C[3]Reko... has just been staring at the unmoving Alice.
+##
+
+#Message#
+\.\C[3]Not even noticing me behind her...
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."You dumbass..."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."You broke... another promise..."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent21-1}
+#Message#
+\."No... maybe I broke it..."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Saying like... "what would you know"..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I... wouldn't even face you..."
+##
+
+#Message#
+\."..."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Was I... the mistaken one?"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Maybe you not talking with me...!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Maybe even you going and killing a guy...!!"
+##
+
+[Reko: Hands out, scowl, tearful eyes / cara6-33]
+#Message#
+\."It was all my fault...!!"
+##
+
+[Reko: Hands out, closed teeth, tearful eyes / cara6-35]
+#Message#
+\."It's my fault...!! It was all my fault!!"
+##
+
+[Reko: Hands out, shout, tearful eyes / cara6-34]
+{SE: Accent28-1}
+#Message#
+\."Just... come back to life..."
+##
+
+[Reko: Hands out, scowl, tearful eyes / cara6-33]
+#Message#
+\."Dammit...! Shit!!"
+##
+
+[Reko: Hands out, closed teeth, tearful eyes / cara6-35]
+#Message#
+\."I had so many chances to forgive you...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...What can I say...?)
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent21-1}
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Hands out, scowl, tearful eyes / cara6-33]
+#Message#
+\."You guys...!"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."U-Um... I know... how you feel..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."But the Main Game will be very soon..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Just leave me alone, dammit!!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."R... Reko..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."We were told to assemble, right?!
+ I know that!!"
+##
+
+[Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."But if I see one of those kidnappers' faces right now,
+ I know my fists are gonna fly...!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Y-You can't do that!
+ We can't lose you too, Reko...!!"
+##
+
+{Reko} [Reko: Hands out, scowl, tearful eyes / cara6-33]
+#Message#
+\."R-Right...? So please...
+ Just leave me alone, Nao...!"
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\.".........."
+##
+
+[Nao: Closed eyes / cara7-16]
+{SE: Accent21-1}
+#Message#
+\."I... understand."
+##
+
+{Sara}
+#Message#
+\."Nao..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Call Nao back
+Force Reko to come along
+Leave things be
+##
+
+<ナオを呼び戻す>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](If I don't persuade Reko with Nao, she'll...!)
+##
+
+<意地でもレコを連れて行く>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](If I leave her alone now...
+ Reko's heart will...!!)
+##
+
+<そっとしておく>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](There's... nothing I can do...)
+##
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: sceneswitch2}
+#Message#
+\."W... Wait, Nao!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Y-Yes...?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Never mind... for just a little bit..."
+##
+
+[Reko: Hands out, closed teeth, tearful eyes / cara6-35]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Stay... at my side..."
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent28-1}
+#Message#
+\."...! Reko...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Um, Sara..."
+##
+
+{Sara}
+#Message#
+\."Yeah..."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+{SE: Accent21-1}
+#Message#
+\."Please, leave this to me!"
+##
+
+#Message#
+\."I can't support everyone like you, Sara..."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent28-1}
+#Message#
+\."But I think I can support Reko right now...!!"
+##
+
+{Sara}
+#Message#
+\."...Understood."
+##
+
+{Nao} [Nao: Closed-eyes smile / cara7-12]
+#Message#
+\."I'll be right there!
+ I'm sure Reko will get back on her feet...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll trust Nao! Off to the Medical Office...!)
+##
+
+
+**********Event2********** (noelatama) (15,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The head of Rio Ranger.
+##
+
+{Sara}
+#Message#
+\.\C[4](He was a doll, just like the fake Reko...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Joe's hairclip remains in his hair.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+Take the hairclip
+Cancel
+##
+
+<ヘアピンを取る>
+
+{Sara}
+#Message#
+\.\C[4](Give it back...! This is Joe's!!)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Joe's hairclip.
+##
+
+{Ranger}
+#Message#
+\.".........."
+##
+
+<やめる>
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Choice End>
+
+
+**********Event3********** (reko) (10,8)
+-----Page1-----
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"...I..."
+##
+
+{Sara}
+#Message#
+\C[4](Reko...)
+##
+
+
+**********Event4********** (noel) (4,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The torso of Rio Ranger.
+##
+
+{Sara}
+#Message#
+\.\C[4](Because of Ranger... Alice and the fake Reko both...)
+##
+
+
+**********Event5********** (arisu) (8,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Alice lies in the center of the Room of Lies.
+##
+
+{Sara}
+#Message#
+\.\C[4](There's... a huge hole in his stomach...)
+##
+
+
+**********Event6********** (naon) (7,8)
+-----Page1-----
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"Leave this to me, Sara...!"
+##
+
+{Sara}
+#Message#
+\C[4](Nao's looking very dependable.)
+##
+

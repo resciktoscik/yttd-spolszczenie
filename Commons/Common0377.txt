@@ -1,0 +1,624 @@
+**********Common377********** (交渉１ー朝　アリス)
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+"Sara Chidouin...
+ I have something to say about Reko."
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+"Do you have any inklings about Reko's \C[2]treasure\C[0]?"
+##
+
+{Sara}
+#Message#
+\."Treasure, you say?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Yes."
+##
+
+#Message#
+\."Hmph... You see, I tried asking that mustachioed man
+ at the Prize Exchange if there were items
+ not present on the counter."
+##
+
+{SE: Accent28-1}
+#Message#
+\."It appears... there is a secret prize menu."
+##
+
+{Sara}
+#Message#
+\."A secret menu?!"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Mwahaha... If you wish to hear more,
+ come to the negotiation table, Sara Chidouin."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is that related to Reko's \C[2]treasure\C[4]...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: Accent28-1}
+#Message#
+\."Mwahaha... Very good."
+##
+
+{Sara}
+#Message#
+\."So... what about Reko?"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...Right."
+##
+
+#Message#
+\."You see, I tried asking that mustachioed man
+ at the Prize Exchange if there were items
+ not present on the counter."
+##
+
+#Message#
+\."And he answered readily. That there is a \C[2]secret menu\C[0]."
+##
+
+{Sara}
+#Message#
+\."A secret menu...!"
+##
+
+#Choice#
+What's on it?
+Did you buy something?
+##
+
+<その内容とは？>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."...There is..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."A \C[2]treasure\C[0]."
+##
+
+#Message#
+\."And it appears 20 of Reko's Me-Tokens
+ are required to purchase it."
+##
+
+<何か買ったんですか？>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."...No, for you need Reko's tokens to buy it."
+##
+
+{SE: Accent28-1}
+#Message#
+\."But with 20 of her tokens,
+ it appears you can buy a \C[2]treasure\C[0]."
+##
+
+<Choice End>
+
+{Sara} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."A treasure...! Could that be..."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."H... Have you an idea about it, Sara Chidouin?!"
+##
+
+{Sara}
+#Message#
+\."When she first introduced herself,
+ she mentioned something dear to her...
+ I think it was..."
+##
+
+#Choice#
+Bongos
+The Congo
+Bondo
+##
+
+<ボンゴ>
+
+{Sara} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."Bongos...?!"
+##
+
+<コンゴ>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."The Congo... The country in Africa?
+ I've never heard about her having
+ attachments to such a place...!!"
+##
+
+{Sara}
+#Message#
+\."Neither have I..."
+##
+
+#Message#
+\."I probably got it mixed up with bongos."
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."What kind of mix-up is that?!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."But also... Bongos...?!"
+##
+
+<ボンド>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."B-Bondo?! That white paste used in woodworking?
+ Why would Reko treasure such a thing...?!"
+##
+
+{Sara}
+#Message#
+\."No, Reko doesn't seem like
+ much of an arts and crafts person."
+##
+
+#Message#
+\."I probably got it mixed up with bongos."
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."What kind of mix-up is that?!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."But also... Bongos...?!"
+##
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Sara Chidouin... That is inconceivable!"
+##
+
+{Sara}
+#Message#
+\."Huh...?
+ Why do you think so?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\.".........."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Do you know... the name of Reko's band?"
+##
+
+{Sara}
+#Message#
+\."Her band's name...?"
+##
+
+#Choice#
+Try to remember
+I don't know
+##
+
+<思い出す>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+\C[4](Hmm...)
+##
+
+{N/A}
+#Message#
+\.\C[3]It's not like I would know.
+##
+
+#Message#
+\.\C[3]Even so, when I tried to remember,
+I felt something in the corner of my mind.
+##
+
+{Memory}
+{SE: Accent28-1}
+#Message#
+\."Sara! Take a look at this magazine!"
+##
+
+#Message#
+\."You heard of 'em? This band's amazing!"
+##
+
+#Message#
+\."Isn't she so cool?! This Reko lady!"
+##
+
+{Sara}
+#Message#
+\."Ugh..."
+##
+
+{Alice} [Alice: Surprised face / cara11-2]
+#Message#
+\."What is it...?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."It was... SkullNutz... or something like that."
+##
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."..."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: Accent21-1}
+#Message#
+\."...Wrong."
+##
+
+{Sara}
+#Message#
+\."Huh? But I thought it was..."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."That's her current band.
+ Reko used to be in a different one."
+##
+
+<知らない>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+"Sorry... I don't really follow that stuff..."
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."...Tch.
+ Do high schoolers these days not buy CDs?"
+##
+
+[Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."The name of Reko's current band...
+ is "SkullNutz," but..."
+##
+
+[Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+\."She used to be in a different band."
+##
+
+<Choice End>
+
+{Alice} [Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."\rb[Sa,3]\rb[mu,6-]\rb[rai,Rai] \rb[Ya,8]\rb[i,1]\rb[ba,8]...!
+ The band of legend!!"
+##
+
+#Message#
+\."Allow me to introduce its former members..."
+##
+
+#Message#
+\."Masterful of even the most tempestuous of scores,
+ banging out the tunes like a many-armed goddess..."
+##
+
+#Message#
+\."The keyboard player... URSHEEN!!"
+##
+
+#Message#
+\."The man who balances out novice technique
+ with overwhelmingly demonic presentation..."
+##
+
+#Message#
+\."The bass guitar... STRONGHOLD!!"
+##
+
+#Message#
+\."The once-in-a-century talent, a mass of charisma
+ commanding an angelic voice and a hellish growl..."
+##
+
+#Message#
+\."The guitar and vocals... RECO!!"
+##
+
+#Message#
+\."And the guardian deity of drums
+ who protects the band's backs..."
+##
+
+#Message#
+\.\{"Was MEEEEEEEEEEEEEEEEEEEE!!"
+##
+
+{Sara}
+#Message#
+\."...Eh?"
+##
+
+#Message#
+\."Wha?! You were part of the band too, Alice?!"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...Indeed. Though I can't play at all,
+ so I just tried to blend in..."
+##
+
+{Sara}
+#Message#
+\."You can't play... but you joined a band...?!"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."...It was to round out the numbers.
+ I also did things on the management side."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\.".........."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."I told you before, didn't I?
+ That Reko has changed now..."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."She wasn't always someone who could
+ get along harmoniously with people..."
+##
+
+#Message#
+\."The Reko I know...
+ antagonized everyone, and was alone."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Such that she wouldn't even approach
+ someone meant to round out the numbers."
+##
+
+[Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."I would always clean up the messes.
+ Search for replacement members and such."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."Someday she'd be grateful to me. So I believed...
+ and endeavored as an average older brother."
+##
+
+[Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\."It was in those times... that I gave her some bongos."
+##
+
+{Sara} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."Bongos...!"
+##
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+\."Haha... It was merely a joke gift."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."As expected, she was indifferent.
+ Her cold eyes stirred with no emotion..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."But it was then that I realized."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Those cold eyes were the very same ones
+ Reko had whenever she looked at me."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."She neither respected nor looked down on me.
+ She was simply indifferent..."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."So to call those bongos her treasure...?
+ Don't make me laugh."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...Why not try purchasing it?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."W... What?!"
+##
+
+{Sara}
+#Message#
+\."If the treasure for sale is bongos..."
+##
+
+#Message#
+\."They might be the bongos you gifted her, Alice."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent21-1}
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."Just collect 20 of Reko's tokens."
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."I can't do it...! I-I can't speak with her!"
+##
+
+{Sara}
+#Message#
+\."Then I'll assist, too."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."You...?!"
+##
+
+{Sara}
+#Message#
+\."Yes."
+##
+
+#Message#
+\."I can collect her tokens.
+ So please, buy the bongos and give them to Reko."
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."...!!"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\.".........."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."V... Very well..."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... If you insist, I'll have your help..."
+##
+
+[Alice: Angry shout / cara11-8]
+{SE: Accent28-1}
+#Message#
+\."Understood? \C[2]20\C[0] of Reko's tokens!
+ Bring them \C[2]by this time tomorrow\C[0]!"
+##
+
+{Sara}
+#Message#
+\."T... Tomorrow morning?"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Obviously!
+ I'll lose courage after more than a day!"
+##
+
+{Sara}
+#Message#
+\."Right... Understood.
+ Once I bring them, please do give the bongos to her."
+##
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."Urk... Sure..."
+##
+
+{Sara}
+#Message#
+\C[4](Well... That's it for discussions.)
+##
+

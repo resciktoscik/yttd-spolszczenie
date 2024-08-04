@@ -1,0 +1,106 @@
+**********Common874********** (ハヤサカ)
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Any memories that were inconvenient
+ to the organization... they got erased, I tell you."
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: Accent28-1}
+#Message#
+\."H... Hey... miss Sara."
+##
+
+{Sara}
+#Message#
+\."Hayasaka..."
+##
+
+#Choice#
+Are you familiar with me?
+You know something, yes?
+##
+
+<私の事をご存じですか？>
+
+{Sara} [Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: Accent21-1}
+#Message#
+\."You're familiar with me... aren't you?"
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."N-Now what are you talking about...?"
+##
+
+{Sara}
+#Message#
+\."Do you know something about this Death Game, perhaps?"
+##
+
+<何か知ってますね？>
+
+{Sara} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."You know something, don't you?"
+##
+
+{Hayasaka}
+#Message#
+\."I-I don't understand your implication..."
+##
+
+{Sara}
+#Message#
+\."Don't play dumb. I mean about this Death Game."
+##
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+#Message#
+\.".........."
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You saw my victim video, did you...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+#Message#
+\."Just think about it... I'm not the real Hayasaka.
+ I'm a doll made to look exactly like him."
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: Accent21-1}
+#Message#
+\."Obviously the organization wouldn't leave me
+ any memories that'd be a problem for them, right?"
+##
+
+{Sara}
+#Message#
+\."...Is that so?"
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."I-I'm glad you understand.
+ Well, if that'll be all..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's utterly suspicious...)
+##
+

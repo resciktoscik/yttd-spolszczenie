@@ -1,0 +1,24 @@
+=====Map6===== (Mockup)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+"Yo!"
+##
+
+[Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."Okay, let's get a discussion started."
+##
+
+{Strange Man} [Mishima: Default smile / cara12-1]
+#Message#
+\."For this mockup version, let us try it out
+ to get a feel for what the system is like."
+##
+
+#Message#
+\."First, we need a topic."
+##
+

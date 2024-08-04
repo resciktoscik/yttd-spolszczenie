@@ -1,0 +1,1244 @@
+=====Map194===== (⑤Outside 1F Elevator)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Hm? Elevators?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."How far do these go, meow...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+\."Huh? They don't seem to be working..."
+##
+
+<Else>
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+\."Well... They aren't working."
+##
+
+<Condition End>
+
+-----Page3-----
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent28-1}
+#Message#
+\."Whoa! Sara, look!
+ The elevators're working..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Gin...?! What happened?!"
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Gin...?! Hey, what happened?!"
+##
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."Don't tell me, Hayasaka...!!"
+##
+
+<Else>
+
+{Kurumada} [Kurumada: Narrowed eyes, smirk, sweating / cara95-12]
+#Message#
+\."Hayasaka... You didn't..."
+##
+
+<Condition End>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."R-Relax, okay?
+ Gin's just passed out..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Nothing to worry about.
+ Focus on the elevators for now..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."It seems they work, but...
+ Is it really okay to get on them?"
+##
+
+<Else>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."...Right. He's gotten used to taking some bumps.
+ Let's hurry up and go."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Now hold up there!
+ Is it really okay to get on these things?!"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There's two of them...
+ Don't tell me, is one a trap?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Indeed! Left and right elevators...
+ It may be possible one is a trap...!"
+##
+
+<Condition End>
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: Accent28-1}
+#Message#
+\."Hah! Ride whichever one you like. Try your luck!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Which should I ride...?)
+##
+
+#Choice#
+The right elevator
+The left elevator
+##
+
+<右のエレベーター>
+
+{Sara} [Kurumada: Grin / cara95-3]
+{SE: Accent21-1}
+#Message#
+"...I'll take the right one."
+##
+
+<左のエレベーター>
+
+{Sara} [Kurumada: Grin / cara95-3]
+{SE: Accent21-1}
+#Message#
+"...I'll take the left one."
+##
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."K-Kanna will go with you...!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...Seems kinda unlucky
+ to not choose the one Sara chose."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then I'll go in the other one."
+##
+
+{Sara}
+#Message#
+"..."
+##
+
+<Condition End>
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+\."Just get on whichever!
+ Let's move."
+##
+
+{N/A}
+#Message#
+\.\C[3]Still beside ourselves with fear,
+the elevator doors closed on us.
+##
+
+#Message#
+\.\C[3]And slowly, we began to move.
+##
+
+#Message#
+\.\C[3]Unsure of what awaited us, we moved forward.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...Looks like we arrived without incident.)
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent28-1}
+#Message#
+\."...Hey. Long time no see."
+##
+
+{Sara}
+#Message#
+\."Good... So you arrived safely too."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."What a relief!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."If only something had happened, huh...?"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Guys, \N[4] might be on this floor.
+ Be cautious..."
+##
+
+{Sara}
+#Message#
+\."Right...!"
+##
+
+-----Page5-----
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent28-1}
+#Message#
+\."Whoa! Sara, look!
+ The elevators're working..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Gin...?! What happened?!"
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Gin...?! Hey, what happened?!"
+##
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."Don't tell me, Hayasaka...!!"
+##
+
+<Else>
+
+{Kurumada} [Kurumada: Narrowed eyes, smirk, sweating / cara95-12]
+#Message#
+\."Hayasaka... You didn't..."
+##
+
+<Condition End>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."R-Relax, okay?
+ Gin's just passed out..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Nothing to worry about.
+ Focus on the elevators for now..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."It seems they work, but...
+ Is it really okay to get on them...?"
+##
+
+<Else>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."...Right. He's gotten used to taking some bumps.
+ Let's hurry up and go."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Now hold up there!
+ Is it really okay to get on these things?!"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There's two of them...
+ Don't tell me, is one a trap...?"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Indeed! Left and right elevators...
+ It may be possible one is a trap...!"
+##
+
+<Condition End>
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: Accent28-1}
+#Message#
+\."Hah! Ride whichever one you like. Try your luck!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Which should I ride...?)
+##
+
+#Choice#
+The right elevator
+The left elevator
+##
+
+<右のエレベーター>
+
+{Sara} [Kurumada: Grin / cara95-3]
+{SE: Accent21-1}
+#Message#
+"...I'll take the right one."
+##
+
+<左のエレベーター>
+
+{Sara} [Kurumada: Grin / cara95-3]
+{SE: Accent21-1}
+#Message#
+"...I'll take the left one."
+##
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."K-Kanna will go with you...!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...Seems kinda unlucky
+ to not choose the one Sara chose."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then I'll go in the other one."
+##
+
+{Sara}
+#Message#
+"..."
+##
+
+<Condition End>
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+\."Just get on whichever!
+ Let's move."
+##
+
+{N/A}
+{SE: Machine}
+#Message#
+\.\C[3]Still beside ourselves with fear,
+the elevator slowly began to move.
+##
+
+{Sara}
+#Message#
+\.\C[4](...Looks like we arrived without incident.)
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent28-1}
+#Message#
+\."...Hey. Long time no see."
+##
+
+{Sara}
+#Message#
+\."Good... So you arrived safely too."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."What a relief!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."If only something had happened, huh...?"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Guys, \N[4] might be on this floor.
+ Be careful..."
+##
+
+{Sara}
+#Message#
+\."Right...!"
+##
+
+
+**********Event3********** (erebe-ta-) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The doors are firmly shut.
+##
+
+{Sara}
+#Message#
+\.\C[4](They can't be opened by force...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The elevator is silent.
+##
+
+{Sara}
+#Message#
+\.\C[4](Has it been activated...?)
+##
+
+#Choice#
+Press the up button
+Press the down button
+Cancel
+##
+
+<上の階へ行くボタンを押す>
+
+<下の階へ行くボタンを押す>
+
+{Sara}
+#Message#
+\.\C[4](This button isn't responding...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](It worked...!)
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+#Message#
+"It actually worked...! What do we do?!"
+##
+
+{Sara}
+#Message#
+\."We'll just have to call everyone and try it out!"
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."R-Right... Let's go get them."
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The elevator seems to only go up.
+##
+
+-----Page4-----
+{Sara}
+#Message#
+"Get on, everyone!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Close the doors quick!
+ We'll be wiped out if she catches up!"
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent21-1}
+#Message#
+\."No, don't... We should wait... Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin...!)
+##
+
+#Choice#
+Close right away
+Wait until the last second
+##
+
+<すぐに閉じる>
+
+{N/A} [Gin: Looking up, tearful / cara9-14]
+{SE: Switch3}
+#Message#
+\C[3]I... pressed the close button.
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."Big sis... Sara..."
+##
+
+<ギリギリまで待つ>
+
+{Sara} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Q-taro...! Hurry!!)
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Don't be ridiculous...!"
+##
+
+{N/A}
+{SE: Switch3}
+#Message#
+\C[3]Hinako forcibly pressed the close button.
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Ahh... Aaahhhhhh...!!"
+##
+
+<Choice End>
+
+{N/A} [Gin: Horrified, claws raised / cara9-9]
+{SE: Close2}
+#Message#
+\.\C[3]The elevator doors... slowly closed.
+##
+
+#Message#
+\.\C[3]And we quietly grew distant from Floor 4.
+##
+
+{Sara}
+#Message#
+\.\C[4](Q-taro... Mai...)
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."*sniff*... *sniff*..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm sorry, Gin...)
+##
+
+#Message#
+\.\C[4](But... this is our best option...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."God... dammit..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Was this really... for the best...?)
+##
+
+#Message#
+\.\C[4](I have to believe that...
+ That's all I can do now.)
+##
+
+#Message#
+\.\C[4](Please...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](May this ID card, at least...
+ be the thing we need...!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry eyes / cara6-39]
+#Message#
+"Let's get over to the control room!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Make haste! The control room!"
+##
+
+<Condition End>
+
+-----Page6-----
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Accent28-1}
+#Message#
+"Okay, everyone! Get on quickly!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This... is definitely strange!"
+##
+
+[Kanna: Angry shout, horrified face / cara3-26]
+{SE: sceneswitch2}
+#Message#
+\."Are we sure this isn't a trap
+ to get us all where they want us?!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's all so strange..."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: sceneswitch2}
+#Message#
+\."Are we sure this isn't a trap
+ to gather all of us together...?"
+##
+
+<Condition End>
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent21-1}
+#Message#
+\."Why do you say that? Believe in Keiji!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."We could always not go...
+ We ain't found Q-taro either..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Should we not go after all?
+ We can wait until we've found Cubetaro Hamburger."
+##
+
+<Condition End>
+
+{Mai} [Mai: Lowered eyebrows, closed-teeth smile / cara92-6]
+#Message#
+\."I told you, Q-taro's doing just fine! Really now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](...I'm sorry, everyone!)
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\C[3]I got into the elevator by myself.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"Sara...?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Hey!! What are you...?!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."I swear... I'll be back quick!!"
+##
+
+{N/A}
+{SE: Close2}
+#Message#
+\C[3]No matter how suspicious it is...
+##
+
+#Message#
+\.\C[3]If I can find out something about Keiji...
+##
+
+#Message#
+\.\C[3]I want to know.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Even if... it's the worst possible answer.
+##
+
+{Sara}
+#Message#
+\C[4](So, the classroom...)
+##
+
+-----Page8-----
+{N/A}
+#Message#
+\C[3]The elevator seems to only go up.
+##
+
+-----Page9-----
+{N/A}
+#Message#
+\C[3]The elevator seems to be working.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Okay, it's back up... Let's get on.)
+##
+
+#Message#
+\C[4](I'll wait here for a little...)
+##
+
+{SE: Accent42-1}
+#Message#
+\C[4](The other elevator started up...!)
+##
+
+#Choice#
+Hit the 5F button
+Wait it out
+##
+
+<上の階のボタンを押す>
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]I pressed the button, and the elevator started moving.
+##
+
+<ぼんやり待つ>
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\C[4](I wonder who's on it...?)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko's Voice}
+#Message#
+"Let's go! Beat \N[4] to the punch!"
+##
+
+<Else>
+
+{Alice's Voice}
+#Message#
+"Get out quickly! We must not spare him a second...!"
+##
+
+<Condition End>
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Not good... They've already come down!)
+##
+
+#Choice#
+Hit the 5F button
+Wait it out
+##
+
+<上の階のボタンを押す>
+
+<ぼんやり待つ>
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\C[4](Doesn't seem they noticed me...)
+##
+
+{\N[4]'s Voice}
+{SE: se_maoudamashii_magical14}
+#Message#
+"...I'll just take my sweet time."
+##
+
+{Keiji}
+{SE: Accent41-1}
+#Message#
+\C[4](\N[4]...?
+ He rode down with them?)
+##
+
+#Choice#
+Hit the 5F button
+Wait it out
+##
+
+<上の階のボタンを押す>
+
+<ぼんやり待つ>
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\C[4](Don't hear anything else...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Hit the 5F button
+Wait it out
+##
+
+<上の階のボタンを押す>
+
+<ぼんやり待つ>
+
+{Keiji}
+{SE: Accent39-1}
+#Message#
+"...Yaaawn..."
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Hit the 5F button
+##
+
+<上の階のボタンを押す>
+
+{Keiji}
+#Message#
+\C[4](What am I even doing...?)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]I pressed the button, and the elevator started moving.
+##
+
+<Choice End>
+
+<Choice End>
+
+<Choice End>
+
+<Choice End>
+
+<Choice End>
+
+{Keiji}
+#Message#
+\C[4](Nobody knows I'm here... right?)
+##
+
+#Message#
+\.\C[4](I'll search for the charging room
+ without letting anyone see me...)
+##
+
+{N/A}
+#Message#
+\C[3]The elevator has completely stopped working.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Alright...)
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"Keiji, we'll turn on the power to the elevator!"
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When we do, the people on the upper floor
+ will surely come down, so..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+\."At the same time, you'll go up in the other elevator
+ so you can pass them right by!"
+##
+
+{Keiji}
+#Message#
+\C[4](A near-miss plan... Hope it works out.)
+##
+
+#Message#
+\.\C[4](Anyway... I'll wait here for now.)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Q-taro and Mai can decide the timing.)
+##
+
+{SE: Accent41-1}
+#Message#
+\C[4](They're taking a while... Still nothing?)
+##
+
+#Message#
+\.\C[4](Can't exactly leave this spot, though...)
+##
+
+{SE: Machine}
+#Message#
+"...!"
+##
+
+#Message#
+\.\C[4](That sound...)
+##
+
+
+**********Event4********** (botan) (7,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The buttons do nothing.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is it not powered...?)
+##
+
+
+**********Event42********** (suuzi) (13,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]"4" is written on the wall.
+##
+
+{Sara}
+#Message#
+\.\C[4](So is this the fourth floor?)
+##
+
+
+**********Event55********** (自動) (2,0)
+-----Page1-----
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+"Whatcha doing?"
+##
+
+{Sara}
+#Message#
+\."\N[4]...!!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."Hey, if you've got time on your hands,
+ could you help me carry this?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Meoooow?!"
+##
+
+{Sara} [Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"That's...!"
+##
+
+{\N[4]}
+#Message#
+"Yep, Maple. Poor thing..."
+##
+
+{Sara}
+#Message#
+"W-Where are you going to take her...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+"Why, the operating room, of course."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."I'll fix her. With the power of my love!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+#Message#
+\."Like shit you will! We won't let you...!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Such absurdity! As if we would let you...!"
+##
+
+<Condition End>
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+\."Huh? You don't want Maple to be brought back...?
+ Oh, this poor girl..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+#Message#
+\."That ain't it...!
+ I know you're just gonna make her suffer again!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Incorrect...!
+ I'm asking if you intend to make her suffer again!!"
+##
+
+<Condition End>
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...If you wanna stop me, kill me."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: sceneswitch2}
+#Message#
+\."Not that I expect anyone but Maple
+ would be able to do that..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."..."
+##
+
+<Condition End>
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\."Okaaay, stand aside!
+ I'm on my way to the operating room!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+#Message#
+"Shit...! What do we do about this?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Guh...! What now?! He carried her off...!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](Urgh...!)
+##
+

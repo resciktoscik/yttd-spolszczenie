@@ -1,0 +1,20 @@
+**********Common1536********** (⑧サラB選択)
+{N/A}
+#Message#
+"I'll absorb charge...!"
+##
+
+#Choice#
+Go with this
+Save game
+Cancel
+##
+
+<意見を採用する>
+
+<セーブをする>
+
+<やめる>
+
+<Choice End>
+

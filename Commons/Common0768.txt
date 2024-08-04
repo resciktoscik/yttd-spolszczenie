@@ -1,0 +1,86 @@
+**********Common768********** (ｿｳ「PCしてた」)
+{Sou}
+#Message#
+"I was on the laptop in the Winner's Room
+ the whole time. ...Will you believe that?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+"...I don't really get your actions, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"I don't think that's relevant to me, is it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+"There was also a Ring-Up Box right in front of me."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Ahaha... What do you think, miss Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't take Sou's claims seriously...!)
+##
+

@@ -1,0 +1,76 @@
+**********Common862********** (ｹｲｼﾞ「ｿｳｶﾝﾅどっち？」)
+{Keiji}
+#Message#
+"Nao's the \C[10]Sacrifice\C[0]... I'm the \C[2]Keymaster\C[0]...
+ We can only vote for Sou or Kanna..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](I shouldn't...)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](I shouldn't...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+".........."
+##
+

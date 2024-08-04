@@ -1,0 +1,559 @@
+=====Map32===== (②☆Central Plaza)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](What is that...?!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Where there had been nothing before,
+now there were stairs.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is this another trap...?)
+##
+
+-----Page3-----
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Q-taro isn't here...!)
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Did he go to the second floor?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What do we do?!)
+##
+
+#Choice#
+Split up and search
+All search the second floor
+##
+
+<手分けして探す>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Alright, Joe.
+ Can I trust you to the first floor?"
+##
+
+{Joe} [Joe: Default / cara1-11]
+{SE: Accent21-1}
+#Message#
+\."Huh?!
+ Won't it dangerous with just you two?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Could be a dangerous date, for sure."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Well... If you're late coming back, I'll go help!"
+##
+
+<全員で２階を探す>
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."No way! What if she's on the first floor?"
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+\."I'll search down here, and you two look upstairs!
+ Please, Keiji!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Gotcha."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Come back right away if you find her, Sara!"
+##
+
+<Choice End>
+
+{Sara} [Joe: Default / cara1-11]
+#Message#
+\.\C[4](Let's hurry!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."This is the second floor, eh?
+ ...Lotsa doors."
+##
+
+{Sara}
+#Message#
+\.\C[4](Where could she have gone...?!)
+##
+
+-----Page4-----
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."Huh... Are the lights out?"
+##
+
+{Sara}
+#Message#
+\."That's strange..."
+##
+
+-----Page6-----
+{Gonbee} [Alice: Default glare / cara11-1]
+{SE: Accent28-1}
+#Message#
+\."Ahem, Sara Chidouin.
+ There was noise on the second floor... What happened?"
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+#Choice#
+I'll go look
+Please go look for me
+##
+
+<様子を見に行きます>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+\."I'll go look! Gonbee, you..."
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... I will remain here...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll leave him alone...)
+##
+
+<様子を見てきて下さい>
+
+{Sara} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."I'm begging you! Please go check for me!"
+##
+
+{Gonbee}
+#Message#
+\."Hmph... Go check it for yourself."
+##
+
+{Sara}
+#Message#
+\.\C[4](Geez...!)
+##
+
+<Choice End>
+
+
+**********Event2********** (Q) (6,8)
+-----Page1-----
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent21-1}
+#Message#
+"Now when'd this get here...!"
+##
+
+{Sara}
+#Message#
+\."Don't tell me these stairs lead to..."
+##
+
+#Choice#
+The Main Game grounds?
+A way out?
+##
+
+<メインゲームの会場？>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Dunno 'bout that...
+ But whatever the case, bet we gotta go..."
+##
+
+<脱出できるのでは？>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Don't have... the biggest hopes.
+ But I don't wanna throw 'em away..."
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Dammit, it's just gonna be a trap anyhow!
+ Whaddya think, Sara?"
+##
+
+{Sara}
+#Message#
+\."...Everyone's on edge right now...
+ If we go, we should get everyone together first."
+##
+
+{Q-taro}
+#Message#
+\.".........."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...But you heard about the Main Game... right?
+ We're gonna... pick one of us to die...?"
+##
+
+#Message#
+\."'Course I don't wanna take part in it.
+ But... how're we supposed to feel any unity...?"
+##
+
+{Sara}
+#Message#
+\."You... might have a point, but..."
+##
+
+{Q-taro}
+#Message#
+\."..."
+##
+
+#Message#
+\."...Dammit!"
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent28-1}
+#Message#
+\."Awright. I'm gonna wait."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Gonna try an' believe in you.
+ We'll go up here when everyone's assembled."
+##
+
+#Message#
+\."Anybody tries to go up on their own,
+ I'll catch 'em but good."
+##
+
+{Sara}
+#Message#
+\."Please don't be rough, okay?"
+##
+
+-----Page2-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+"We'll go up these stairs...
+ when everyone's assembled."
+##
+
+#Message#
+\."Can't imagine we'll be able to
+ act all friendly like before, though..."
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Hey! What the hell's with that guy?!"
+##
+
+{Sara}
+#Message#
+\."He lost consciousness...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I dunno nothin'!
+ Have somebody who'd know check 'im!"
+##
+
+
+**********Event3********** (sou) (11,8)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Look, miss Sara! There are these stairs here now."
+##
+
+{Sara}
+#Message#
+\."Wonder where they lead..."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."I don't know... But..."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Miley left a few spots of blood.
+ I'm sure she went up here."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."...Miley...!!"
+##
+
+#Choice#
+Did anyone else go up?
+Let's go catch her
+##
+
+<他には誰か行きましたか？>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."I only just got here, so I dunno...
+ Has anyone gone missing?"
+##
+
+<捕まえに行きましょう>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."That's too rash!
+ If you screw up... She'll kill you with your collar."
+##
+
+#Message#
+\."Hopefully nobody gets mad and goes after her...
+ Couldn't stand having collective responsibility
+ for someone getting killed."
+##
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+\.\C[4](I can't imagine anyone would
+ go up these stairs on their own, but...)
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."You aren't thinking of going up, are you, miss Sara?"
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."I'm telling you for your own good...
+ You should refrain for now."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."...More importantly,
+ there's something I wanna show you."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Come to the back of the cafeteria.
+ ...Please."
+##
+
+{Sara}
+#Message#
+\."Ah, Sou...!"
+##
+
+#Message#
+\.\C[4](I wonder what he wants to show me...)
+##
+
+
+**********Event5********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event6********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event7********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event12********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event13********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event14********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event15********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event16********** (EV016) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event17********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event18********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event19********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event20********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event21********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event22********** (guti) (1,4)
+-----Page1-----
+#Message#
+\C[3]There are many exits out of the room.
+##
+
+
+**********Event48********** (kaidan) (8,5)
+-----Page1-----
+#Message#
+\C[3]A large staircase leading up.
+##
+
+
+**********Event62********** (2FFFF) (12,1)
+-----Page1-----
+#Message#
+\C[3]I can see the entrance to the second floor.
+##
+
+
+**********Event63********** (2FFFF) (12,0)
+-----Page1-----
+#Message#
+\C[3]I can see the entrance to the second floor.
+##
+

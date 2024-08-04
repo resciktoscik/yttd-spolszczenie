@@ -1,0 +1,419 @@
+=====Map12===== (Trial 1 One Key)
+
+**********Event2********** (kabe) (1,7)
+-----Page1-----
+#Message#
+\C[3]"3141" is written on the wall.
+##
+
+{Joe}
+#Message#
+\.\C[4](What are these numbers...?)
+##
+
+
+**********Event3********** (dai) (12,2)
+-----Page1-----
+#Message#
+\C[3]There's a dial to enter a 4-digit number.
+##
+
+{Joe}
+#Message#
+\.\C[4](Should I mess with this...?)
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Joe}
+#Message#
+\.\C[4](...Does it just make a sound...?
+ What's the point in that?!)
+##
+
+
+**********Event4********** (yasu) (4,1)
+-----Page1-----
+#Message#
+\C[3]Sandpaper hangs from the ceiling.
+##
+
+{Joe}
+#Message#
+\.\C[4](Aha! I can whittle the key with this!)
+##
+
+{N/A}
+{SE: Paralyze3}
+#Message#
+\.\SP[8]..........
+##
+
+{Joe}
+#Message#
+\.\C[4](I scraped off the red resin,
+ and a thinner green key showed itself!)
+##
+
+#Message#
+\.\C[4](What use is this stupid thing...?!)
+##
+
+#Message#
+\.\C[4](It's no good! I've checked everything in the room!
+ And I've still got no idea!)
+##
+
+#Message#
+\.\C[4](Why doesn't this key fit, anyway?!
+ Should I look at the key again...?)
+##
+
+#Message#
+\.\C[4](What use is this stupid thing...?!)
+##
+
+#Message#
+\.\C[4](What use is this stupid thing...?!)
+##
+
+#Message#
+\.\C[4](What use is this stupid thing...?!)
+##
+
+#Message#
+\.\C[4](What use is this stupid thing...?!)
+##
+
+-----Page2-----
+#Message#
+\C[3]Sandpaper hangs from the ceiling.
+##
+
+{Joe}
+#Message#
+\.\C[4](Now to just use the whittled key!)
+##
+
+
+**********Event5********** (hako) (9,6)
+-----Page1-----
+#Message#
+\C[3]A green lock.
+##
+
+{Joe}
+#Message#
+\.\C[4](What should I do?!)
+##
+
+{N/A}
+#Message#
+\C[3]The key seems too big to fit.
+##
+
+{Joe}
+#Message#
+\.\C[4](Stupid key... Is it just useless?!)
+##
+
+{SE: Accent28-1}
+#Message#
+\."It's unlocked!!"
+##
+
+{Sara}
+#Message#
+\."Really?!"
+##
+
+{Joe}
+#Message#
+\."I'll remove these now!"
+##
+
+{Sara}
+#Message#
+"*pant*... *pant*... Thank you... Joe..."
+##
+
+{Joe}
+#Message#
+\."...Can you stand?"
+##
+
+#Message#
+\."There's a door here...
+ Let's get outta here pronto!"
+##
+
+{Sara}
+#Message#
+\."Ah, wait! Joe!"
+##
+
+{N/A}
+#Message#
+\C[3]The key seems too big to fit.
+##
+
+#Message#
+\C[3]The key seems too big to fit.
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Hm...? Did a bit shave off the end of the key?)
+##
+
+{N/A}
+#Message#
+\.\C[3]A bit of green is showing through at the scraped end.
+##
+
+{Joe}
+#Message#
+\.\C[4](I get it... \C[2]It was once a green key\C[4],
+ and it's got red resin stuck to it!)
+##
+
+#Message#
+\.\C[4](If I had \C[2]something to scrape with\C[4],
+ maybe I could revert it to the green key!)
+##
+
+
+**********Event6********** (赤いカギ) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A red key. I unlocked my restraints with this.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A red key. I unlocked my restraints with this.
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Hm...? Did a bit shave off the end of the key?)
+##
+
+{N/A}
+#Message#
+\.\C[3]A bit of green is showing through at the scraped end.
+##
+
+{Joe}
+#Message#
+\.\C[4](I get it... \C[2]It was once a green key\C[4],
+ and it's got red resin stuck to it!)
+##
+
+#Message#
+\.\C[4](If I had \C[2]something to scrape with\C[4],
+ maybe I could revert it to the green key!)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A red key. I unlocked my restraints with this.
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Hm...? Did a bit shave off the end of the key?)
+##
+
+{N/A}
+#Message#
+\.\C[3]A bit of green is showing through at the scraped end.
+##
+
+{Joe}
+#Message#
+\.\C[4](I get it... \C[2]It was once a green key\C[4],
+ and it's got red resin stuck to it!)
+##
+
+#Message#
+\.\C[4](If I had \C[2]something to scrape with\C[4],
+ maybe I could revert it to the green key!)
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]A red key. I unlocked my restraints with this.
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Hm...? Did a bit shave off the end of the key?)
+##
+
+{N/A}
+#Message#
+\.\C[3]A bit of green is showing through at the scraped end.
+##
+
+{Joe}
+#Message#
+\.\C[4](I get it... \C[2]It was once a green key\C[4],
+ and it's got red resin stuck to it!)
+##
+
+#Message#
+\.\C[4](If I had \C[2]something to scrape with\C[4],
+ maybe I could revert it to the green key!)
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]A red key. The green has clearly shown itself.
+##
+
+
+**********Event7********** (EV007) (15,0)
+-----Page2-----
+{N/A}
+#Message#
+\."...Time is up."
+##
+
+{Joe}
+#Message#
+\."H... Hey, hold on a second!!"
+##
+
+{Sara}
+#Message#
+\."Joe...!"
+##
+
+{Joe}
+#Message#
+\."Please... Sara..."
+##
+
+{N/A}
+#Message#
+\."...Commencing with execution."
+##
+
+{Sara}
+#Message#
+\."Help me, Joe!"
+##
+
+{N/A}
+#Message#
+\SP[10]..........
+##
+
+{Joe}
+#Message#
+\.\SP[10]"Aaaaa... aaa..."
+##
+
+#Message#
+\.\SP[10]"Sara... aaaaa..."
+##
+
+
+**********Event20********** (sara) (5,4)
+-----Page1-----
+#Message#
+\C[3]My best friend Sara is tied down with green belts.
+##
+
+{Sara}
+#Message#
+\."I... Is this the right time to be gazing at me?"
+##
+
+
+**********Event42********** (doa) (9,3)
+-----Page1-----
+#Message#
+\C[3]An iron door.
+##
+
+{Joe}
+#Message#
+\.\C[4](The door isn't locked...
+ But I can't leave Sara behind!)
+##
+
+
+**********Event58********** (bed) (3,5)
+-----Page1-----
+#Message#
+\C[3]Restraints are set up around the bed.
+They can't be broken by force.
+##
+
+
+**********Event85********** (EV085) (16,2)
+-----Page2-----
+{N/A}
+#Message#
+\."...Time is up."
+##
+
+{Joe}
+#Message#
+\."H... Hey, hold on a second!!"
+##
+
+{Sara}
+#Message#
+\."Joe...!"
+##
+
+{Joe}
+#Message#
+\."Please... Sara..."
+##
+
+{N/A}
+#Message#
+\."...Commencing with execution."
+##
+
+{Sara}
+#Message#
+\."Help me, Joe!"
+##
+
+{N/A}
+#Message#
+\SP[10]..........
+##
+
+{Joe}
+#Message#
+\.\SP[10]"Aaaaa... aaa..."
+##
+
+#Message#
+\.\SP[10]"Sara... aaaaa..."
+##
+

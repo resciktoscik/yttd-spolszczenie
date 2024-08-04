@@ -1,0 +1,53 @@
+**********Common1535********** (・ﾔﾒﾙ)
+{SE: Cancel1}
+#Message#
+\C[3]Cancel \V[922]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+#Message#
+\C[3]\V[922] canceled.
+##
+
+<いいえ>
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+

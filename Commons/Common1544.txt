@@ -1,0 +1,17 @@
+**********Common1544********** (⑧ヒナコB選択)
+{N/A}
+#Message#
+"Mind if I absorb charge...?"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

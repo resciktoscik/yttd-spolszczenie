@@ -1,0 +1,73 @@
+=====Map73===== (★For Chapter Select)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\.Select a chapter to begin playing from.
+##
+
+#Choice#
+\C[2]Final Chapter, Part One (B) (New!)
+##
+
+<\C[2]最終章　前編Bパートから（NEW）>
+
+<Cancel>
+
+<Choice End>
+
+#Choice#
+Final Chapter, Part One
+Chapter 2, Part Two
+Chapter 2, Part One
+Chapter 1, Part Two
+Chapter 1, Part One
+Cancel
+##
+
+<最終章　前編開始から>
+
+<２章　後編から>
+
+<２章　前編から>
+
+<１章　後編から>
+
+<１章　前編から>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event2********** (予備) (3,0)
+-----Page1-----
+{N/A}
+#Message#
+\.Select a chapter to begin playing from.
+##
+
+#Choice#
+Chapter 2, Part Two
+Chapter 2, Part One
+Chapter 1, Part Two
+Chapter 1, Part One
+\C[2]Sub-Game (New!)
+Cancel
+##
+
+<２章　後編から>
+
+<２章　前編から>
+
+<１章　後編から>
+
+<１章　前編から>
+
+<\C[2]サブシナリオゲーム（NEW）>
+
+<やめる>
+
+<Choice End>
+

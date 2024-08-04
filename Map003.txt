@@ -1,0 +1,200 @@
+=====Map3===== (OP3)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara} [Sara: Default (no collar) / cara0-1]
+#Message#
+"Whoa, it's gone completely dark..."
+##
+
+{N/A}
+#Message#
+Touch spots that look interesting to investigate.
+##
+
+-----Page3-----
+{Sara}
+#Message#
+\.\C[4](Seeing the school like this...
+ It feels totally different at night.)
+##
+
+#Message#
+\.\C[4](The lights...)
+##
+
+#Message#
+\.\C[4](...I have to walk home when it's this dark...?)
+##
+
+
+**********Event14********** (ike) (5,6)
+-----Page1-----
+#Message#
+\C[3]The campus pond.
+##
+
+#Message#
+\.\C[3]There's a rumor that if you look into it at midnight,
+your reflection will talk to you.
+##
+
+{Sara}
+#Message#
+\.\C[4](...Could be a great thing to a loner.)
+##
+
+
+**********Event16********** (mado) (12,4)
+-----Page1-----
+#Message#
+\C[3]The lights are on.
+Maybe it's the guard.
+##
+
+{Sara}
+#Message#
+\.\C[4](Thanks for your tireless service.)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The lights are out.
+##
+
+
+**********Event17********** (kage) (3,6)
+-----Page1-----
+#Message#
+\C[3]The front gate of the school.
+Can't go home without going through it.
+##
+
+-----Page2-----
+#Message#
+\C[3]The front gate of the school.
+Can't go home without going through it.
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't... want to leave yet.)
+##
+
+-----Page3-----
+#Message#
+\C[10]Someone's there...\|\.\.\^
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+"Whatcha doin', Sara?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Joe...!"
+##
+
+{N/A}
+#Message#
+\C[2]Jou Tazuna\C[0], or rather, \C[2]Joe\C[0]. My classmate at school.
+We often found ourselves together.
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+"You stuck around this late for clubs?!
+ I was gonna wither up from waiting!"
+##
+
+[Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+"Well, it's fine! Listen!
+ There's something I wanna tell you!"
+##
+
+{Sara}
+#Message#
+\."Something to tell me?"
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."My thanks!"
+##
+
+{Sara}
+#Message#
+\."Thanks...? For what, I wonder..."
+##
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+{SE: flash-of-light-3}
+#Message#
+\."Oh, you know! You introduced us, right?!
+ Me and Ryoko!"
+##
+
+{Sara}
+#Message#
+\."Right..."
+##
+
+{Joe}
+{SE: flash-of-light-3}
+#Message#
+\."She's such a good girl! I'm totally moved!"
+##
+
+{Sara}
+#Message#
+\."Cute, huh?"
+##
+
+{Joe}
+{SE: flash-of-light-3}
+#Message#
+\."Adorable!"
+##
+
+#Message#
+\."And I saw her swallow a doner kebab whole today!
+ She's a real glutton to boot!"
+##
+
+{Sara}
+#Message#
+\."A whole doner kebab..."
+##
+
+#Message#
+\."Wait... You went on a date?!"
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."Wahaha... Was on it 'til just a second ago!"
+##
+
+#Message#
+\."I came back to school
+ so I could brag about it to ya!"
+##
+
+{Sara}
+#Message#
+\."You should have just gone home..."
+##
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."Alright! Bragging complete...!"
+##
+
+#Message#
+\."Let's go home, Sara!"
+##
+

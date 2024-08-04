@@ -1,0 +1,211 @@
+**********Common353********** (ナオの勇気)
+{N/A}
+#Message#
+\C[3]Before I left the room,
+I looked toward the monitor one last time.
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Is that so... It's been nothing but hardship, then..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"However... Even amid such circumstances,
+ you've made wonderful friends, miss Nao."\sw[325]
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+{SE: Accent28-1}
+#Message#
+\."F... Friends...?"
+##
+
+{Mishima}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\.\sw[324]"Indeed! Age and the length of your association
+ are of no relevance."\sw[325]
+##
+
+#Message#
+\.\sw[324]"They are wonderful people who help each other.
+ I understood that clearly hearing you speak."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Please treasure your friends, miss Nao."\sw[325]
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."...Okay..."
+##
+
+[Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\.".........."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."I've always been... getting saved by them..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."So from now on... I want to be useful
+ to Reko, and Sara, and everyone..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\.".........."
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."..."
+##
+
+[Nao: Closed eyes / cara7-16]
+#Message#
+\."That's why..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."I'm... going now, professor."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Yes, please come by any time.
+ I'll be right here."\sw[325]
+##
+
+{Nao} [Nao: Closed eyes / cara7-16]
+#Message#
+\.".........."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."No..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent28-1}
+#Message#
+\."I won't... come here anymore."
+##
+
+{Mishima}
+#Message#
+\."..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\.\sw[324]"Miss Nao..."\sw[325]
+##
+
+{SE: Accent21-1}
+#Message#
+\.\sw[324]"You truly have grown strong, haven't you?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"I'm honored to have had you as my student."\sw[325]
+##
+
+#Message#
+\.\sw[324]"...Goodbye, miss Nao."\sw[325]
+##
+
+{Nao}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...*sniffle*..."
+##
+
+#Message#
+\."I..."
+##
+
+#Message#
+\."I'm...\.\. not strong...\.\. at all..."
+##
+
+#Message#
+\."I wanted you watching over me, always..."
+##
+
+#Message#
+\."...Professor..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao...)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Nao is trying to look forward.
+##
+
+#Message#
+\.\C[3]To accept everything, and face reality.
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao... is a strong person.)
+##
+
+#Message#
+\.\C[4](Much... stronger than me...)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](...I should go.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I'll do what I have to...
+ to so much as approach that strength...!)
+##
+
+#Message#
+\.\C[4](Hm...? What's that?)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Quit wit' the stupid jokes, you!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."The biggest joke around here's your name!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Q-taro and Ranger are arguing...
+ I wonder what happened?)
+##
+

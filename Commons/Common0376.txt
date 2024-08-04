@@ -1,0 +1,323 @@
+**********Common376********** (交渉１ー朝　ケイジ)
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Sara, just to try it out...
+ Want to trade 20 tokens?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Ranger, was it...? That enemy of ours said that
+ the more of these tokens you collect, the better."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Put another way, who knows what'll happen
+ if you don't have very many."
+##
+
+{Sara}
+#Message#
+\."...But why trade with me?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."'Cause you're so darn cute.
+\! I wish you'd just remember it already."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."Great. Should I pour some coffee?"
+##
+
+{Sara}
+#Message#
+\."No thanks. What's this about a trade?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Cold-hearted as ever. Just what I said.
+ We trade 20 tokens for experimentation."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Our enemy seems surprisingly serious
+ about following the rules, if nothing else.
+\! ...Even if there was that dummy rule."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."\C[2]The more tokens you collect, the better\C[0]...
+ We can probably trust that's correct."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."So those who don't get a certain amount of tokens
+ are penalized... Doesn't sound unlikely, does it?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Why trade with me?
+What if I refuse?
+Does it have to be 20?
+##
+
+<なぜ私を交換の相手に？>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Didn't I already answer?
+ Even you can't make me say it endlessly."
+##
+
+{Sara}
+#Message#
+\.\C[4](But I'm asking for your honest reason...)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Besides... They called it the Trust Barter Game."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."'Cause you're so darn cute.
+\! I wish you'd just remember it already."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... Once again, that's all he'll say.)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Besides... They called it the Trust Barter Game."
+##
+
+<断ったらどうしますか？>
+
+{Keiji} [Keiji: Turned to side, slight smile / cara2-14]
+#Message#
+\."Huh... So you'll refuse a request
+ from your friendly policeman."
+##
+
+{Sara}
+#Message#
+\."I'm not necessarily saying that..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Our enemy called it the Trust Barter Game."
+##
+
+<20枚じゃないとダメですか？>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Probably no point in just 1 or 2, y'know?"
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Besides... They called it the Trust Barter Game."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."If I've gotta trust somebody...
+ I'm thinking I can trust you, Sara."
+##
+
+{Sara}
+#Message#
+\."I..."
+##
+
+#Choice#
+Trust you, Keiji
+Will trust if you tell me secrets
+Don't trust you
+##
+
+<ケイジさんを信頼してます>
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+"Thanks. ...Wahaha, and to imagine
+ the doubt in your eyes at first."
+##
+
+{Sara}
+#Message#
+\."S-Sorry..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hmm... So you don't deny it, eh."
+##
+
+<隠し事を教えてくれたら信頼します>
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent28-1}
+#Message#
+"...What?"
+##
+
+{Sara}
+#Message#
+\."I haven't forgotten.
+ If we made it through the Main Game...
+ You'd tell me your secrets."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Ahh, that."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...Sure. I'll tell you soon."
+##
+
+{Sara}
+#Message#
+\.\C[4](Soon...? Slippery little...)
+##
+
+<信頼してません>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Huh. Rejected, eh? I'm shocked."
+##
+
+{Sara}
+#Message#
+\."Even so, do you trust me?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Of course.
+ Wahaha... I'm single-minded like that."
+##
+
+{Sara}
+#Message#
+\.\C[4](He talks flippantly... But I get the impression
+ his desire to trade isn't intense enough
+ that he's willing to find someone else.)
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+#Message#
+\."Well...\.\. In the end, I'll defer to your wishes."
+##
+
+[Keiji: Turned to side, slight smile / cara2-14]
+#Message#
+\."I'm not an extortion kind of guy."
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...? If I trade for 20 tokens...
+ I'll be losing 20 of my own.)
+##
+
+#Message#
+\.\C[4](Should I still... go through with this trade?)
+##
+
+#Choice#
+Trade 20 tokens
+Refuse trade
+##
+
+<20枚交換を　行う>
+
+{Sara} [Keiji: Turned to side, slight smile / cara2-14]
+#Message#
+"Let's trade, Keiji."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Thanks, Sara."
+##
+
+{N/A}
+#Message#
+\.\C[3]Traded 20 Me-Tokens with Keiji.
+##
+
+<取引を断る>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+"Sorry, I'm afraid I can't trade."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Okie-dokie."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."If you've had some premonition...
+ Maybe I'll hold onto these for now, myself."
+##
+
+<Choice End>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\C[4](Well... That's it for negotiations.)
+##
+

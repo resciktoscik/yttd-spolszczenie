@@ -1,0 +1,402 @@
+**********Common581********** (交渉２ー昼　レコ)
+{Reko} [Reko: Default / cara6-1]
+#Message#
+"Sara, wanna trade 30 tokens?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"I've been thinking about stuff..."
+##
+
+#Message#
+\."In the end, your own tokens are useless, right?"
+##
+
+#Message#
+\."So I wanted to make sure I could trade
+ for some items at the Prize Exchange..."
+##
+
+#Message#
+\."...How about it? 30 tokens. Let's trade."
+##
+
+{Sara}
+#Message#
+\.\C[4](30... That's quite a few.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."Good shit!
+ I'll pour some coffee."
+##
+
+{Sara}
+#Message#
+\."Thank you very much."
+##
+
+{Reko}
+#Message#
+\."Hm? What's up? You nervous?"
+##
+
+{Sara}
+#Message#
+\."No... Of course not..."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Hey, Sara... I'm not up to something, okay?"
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."I just thought it'd be good
+ to get trading some tokens."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Since holding onto your own
+ seems to be pretty pointless after all..."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."You can even trade for Clear Chips
+ using other people's tokens, can't ya?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah, she's right...)
+##
+
+{Reko} [Reko: Default / cara6-1]
+{SE: Accent21-1}
+#Message#
+\."Or... is 30 too many?"
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."...Ah! Sara, lemme guess..."
+##
+
+[Reko: Smile / cara6-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You afraid of me knowing your personal info?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh, that's right... If I trade her 30 now,
+ Reko will have 50 of my tokens, too.)
+##
+
+#Choice#
+I'm fine with you knowing
+I don't want you to know
+I want to know yours
+##
+
+<知られても別にいい>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+\."Reko, I don't really mind if you know."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Listen, Sara."
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."So long as I know who you are now...
+ The past doesn't mean crap."
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Even if you were a criminal or a real asshole..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Right now, you're our guiding hero,
+ standing up against all difficulties."
+##
+
+#Message#
+\."It ain't gonna change that.
+ ...Am I wrong?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Haven't got any intention of looking
+ at your personal info anyway, so relax."
+##
+
+<知られたくない>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+\."I... don't want people knowing my personal info."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Listen, Sara."
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."So long as I know who you are now...
+ The past doesn't mean crap."
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Even if you were a criminal or a real asshole..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Right now, you're our guiding hero,
+ standing up against all difficulties."
+##
+
+#Message#
+\."It ain't gonna change that.
+ ...Am I wrong?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Haven't got any intention of looking
+ at your personal info anyway, so relax."
+##
+
+<レコさんの個人情報が知りたい>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Oh! Yeah, you'd know about mine too, huh!"
+##
+
+#Message#
+\."Dammit... I dunno what they wrote, but..."
+##
+
+#Message#
+\."I bet they didn't write about that one time...
+ or that other time, right?!"
+##
+
+{Sara}
+#Message#
+\."...Have some things to hide in your past?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Nah! Nothin', but...! An embarrassing thing or two...
+ like anybody does, y'know?!"
+##
+
+{Sara}
+#Message#
+\."Embarrassing things...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Don't think about it!!"
+##
+
+#Message#
+\."Listen, Sara!
+ Let's not look at each other's info, okay?!
+ Our priority is getting Clear Chips, right?"
+##
+
+{Sara}
+#Message#
+\."That's true, but... Embarrassing things..."
+##
+
+{Reko}
+#Message#
+\."Here! Pinky promise! A vow between women!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]She forcibly wrapped her pinky around mine,
+and we made a promise.
+##
+
+<Choice End>
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Or maybe... you can't trust me...?"
+##
+
+{Sara}
+#Message#
+\."That's not..."
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+{SE: Accent28-1}
+#Message#
+\."...I trust you, Sara.
+ I think we're equals."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Even if we might not be the same age
+ or live the same way..."
+##
+
+[Reko: Smile / cara6-4]
+{SE: Accent21-1}
+#Message#
+\."I think we could be close friends!"
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."If we weren't in this shitty situation...
+ I'm sure we could be way closer..."
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Well, for whether we trade or not...
+ I'll respect your wishes, Sara."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."What do you say?
+ Will you trade 30 tokens?"
+##
+
+{Sara}
+#Message#
+\.\C[4](30... That's quite a few.)
+##
+
+#Message#
+\.\C[4](Should I still... go through with this trade?)
+##
+
+#Choice#
+Trade 30 tokens
+Refuse trade
+##
+
+<30枚交換を　行う>
+
+{Sara} [Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+"Understood. Let's trade, Reko."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."It's a deal, Sara."
+##
+
+{N/A}
+#Message#
+\.\C[3]Traded 30 Me-Tokens with Reko.
+##
+
+<取引を断る>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+"Sorry, I'm afraid I can't trade."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."..."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."...Alright.
+ Nothin' I can do about that..."
+##
+
+<Choice End>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+\C[4](Well... That's it for negotiations.)
+##
+

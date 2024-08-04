@@ -1,0 +1,23 @@
+**********Common1523********** (⑦アンズB選択)
+{N/A}
+#Message#
+"T-The mood's so tense...
+ Let's loosen it up with some \C[2]jokes\C[0]!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

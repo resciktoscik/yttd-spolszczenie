@@ -1,0 +1,147 @@
+**********Common1633********** (●ｱﾘｽ「ﾋﾂｷﾞ見分け」)
+{Alice}
+#Message#
+"Is there not something?!
+ Some way to \C[2]see things the eye cannot\C[0]...!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"That's not right at all, now is it?!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"Hmph... Have you thought of something, Sara Chidouin?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Things the eye can't see...)
+##
+
+#Choice#
+Use our ears or noses
+Use an item
+Trust in luck
+##
+
+<耳や鼻を使う>
+
+{Sara} [Alice: Glance to side, sweating / cara11-4]
+{SE: Accent40-1}
+#Message#
+"How about we judge by using our ears or noses...
+ in other words, by smell or sound?"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent21-1}
+#Message#
+\."So you say, but they're soundproofed.
+ We cannot hear anything inside..."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Thunder10}
+#Message#
+\."And also... I'm getting a slight nasal inflammation!
+ I must trust it to you all...!"
+##
+
+{Sara}
+#Message#
+\."N-Never mind, let's not...!"
+##
+
+<道具を使う>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent40-1}
+#Message#
+"How about we use an item?"
+##
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: Accent21-1}
+#Message#
+\."Hmph... It seems you have an idea.
+ Then show it to me! This so-called "item"...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll present it to him...)
+##
+
+<運を信じる>
+
+{Sara} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: Accent40-1}
+#Message#
+"Let's bet on the 1-in-8 chance.
+ Don't worry, I'm a lucky girl."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."Yeek!! Please don't say such absurd things!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Courage is not the same as recklessness!
+ You must learn this...!"
+##
+
+<Choice End>
+

@@ -1,0 +1,17 @@
+**********Common1473********** (⑤ケイジB選択)
+{N/A}
+#Message#
+"*pant*...!! *pant*...!!"
+##
+
+#Choice#
+Calm him down
+Cancel
+##
+
+<落ち着かせる>
+
+<やめる>
+
+<Choice End>
+

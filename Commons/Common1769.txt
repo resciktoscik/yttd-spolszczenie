@@ -1,0 +1,118 @@
+**********Common1769********** (※▲ﾋﾅｺ「腕って笑」)
+{Hinako}
+#Message#
+"\N[4] is with the organization...
+ He can freely use everything in this facility."
+##
+
+#Message#
+"...Being able to take your hand off
+ doesn't necessarily mean you're a doll."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Hinako} [Hinako: Small grin / cara93-3]
+#Message#
+"...There's no such thing as "impossible.""
+##
+
+[Hinako: Mouth open / cara93-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"\N[4]'s hand came off, too..."
+##
+
+[Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent21-1}
+#Message#
+\."But that could've been a \C[2]prop\C[0]
+ to make it look like he was a doll."
+##
+
+{Sara}
+#Message#
+\.\C[4](A prop? Hmm...)
+##
+
+{SE: Accent40-1}
+#Message#
+\."So are you thinking that
+ \N[4] is the human, Hinako?"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."I can't say that for sure yet..."
+##
+
+[Hinako: Furrowed brow / cara93-9]
+#Message#
+\."But... just remember this."
+##
+
+[Hinako: Eyes closed, mouth open / cara93-5]
+{SE: sceneswitch2}
+#Message#
+\."\N[4] is with the organization...
+ He can freely use everything in this facility."
+##
+
+[Hinako: Small grin / cara93-3]
+{SE: Accent28-1}
+#Message#
+\."...There's no such thing as "impossible.""
+##
+

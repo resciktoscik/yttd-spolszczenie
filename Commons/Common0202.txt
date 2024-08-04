@@ -1,0 +1,108 @@
+**********Common202********** (⑧進展●「空の箱」)
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"So you're lying, huh, Nao."
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."Wha...?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."There was nothing in the box... Nothing at all."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."What?! T-That can't be right...!!"
+##
+
+{Sara}
+#Message#
+\."It's true, Nao."
+##
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."What's that?! I don't know anything!
+ The professor was with me the whole time!!"
+##
+
+[Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."Where did he go?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Hrm... Is this an act...?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Nao ain't that kind of gal!
+ There's gotta be a reason it vanished!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."The mystery of the vanishing head..."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."If Nao is just acting, then..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Can't really put together
+ why she'd need to lie to us here."
+##
+
+{Sara}
+#Message#
+\.\C[4](What's going on...?! I don't understand!)
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I... certainly lost sight of myself...
+ But I've done nothing suspicious!
+ And I don't know... why it disappeared!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Nao respected Professor Mishima!
+ Maybe her shock was so great that she
+ unconsciously did something strange?!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"It must've gotten swapped at some point
+ with another box the kidnappers prepared!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"The contents of the box warped, meow!
+ L-Like a dimensional teleporter thing, woof!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"Miss Nao being manipulated by the kidnappers...
+ Is that a possibility...?"
+##
+
+{Sara}
+#Message#
+\C[4](Is there no good lead...?!)
+##
+

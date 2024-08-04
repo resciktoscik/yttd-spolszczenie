@@ -1,0 +1,455 @@
+=====Map152===== (==Q Collapsed)
+
+**********Event1********** (Qtaro) (8,6)
+-----Page1-----
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Huh, Q-taro...?"
+##
+
+#Message#
+\.\C[4](Is he asleep?)
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\.\C[3]There's blood coming from his mouth.
+##
+
+{Gin} [Gin: Looking up, wide eyes / cara9-16]
+#Message#
+".........."
+##
+
+[Gin: Looking up, wide eyes with shadow / cara9-17]
+{SE: Accent21-1}
+#Message#
+\."...Huh...?"
+##
+
+[Gin: Looking up, wide eyes, grave look / cara9-18]
+#Message#
+\.\sp[15]"Muscle gorilla...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{SE: Accent28-1}
+#Message#
+\."It's okay... He's breathing!"
+##
+
+#Message#
+\."But he's not conscious! Why in the world...?!"
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]Q-taro has passed out in the chair.
+##
+
+{Sara}
+#Message#
+\.\C[4](Why in the world?!)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\.\C[3]Q-taro has passed out in the chair.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."At any rate... We can't leave him like this."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Yeah...
+ But can you carry him, meow?"
+##
+
+{Sara}
+#Message#
+\."Let's see..."
+##
+
+#Choice#
+I'll try carrying him
+I'll call for someone
+##
+
+<試しにかついでみよう>
+
+{Sara} [Gin: Worried / cara9-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Okay... Ready, set...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]He's too heavy to even lift.
+##
+
+{Sara}
+#Message#
+\.\C[4](I was able to carry Alice, though...!)
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+"Yeah, we should call someone, meow..."
+##
+
+<誰か呼んでこよう>
+
+{Sara} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+"I'll call for someone."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+"Q-taro...!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."What happened here...?!"
+##
+
+{Sara}
+#Message#
+\."We can explain later...
+ Q-taro is okay, right...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hmm... Might take a while before
+ he regains consciousness, it looks like."
+##
+
+{Sara}
+#Message#
+\."I see..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."...We'll meet up in the lobby later, Sara."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."I'll give him a piggyback ride if I have to...
+ 'Cause you're onto a way to escape, right?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Yes...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Do what you gotta... alright?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Keiji... Could you take Q-taro and Kanna,
+ and all gather in the lobby later?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We... might know a way to escape."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."What...?!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."R-Really...?!"
+##
+
+{Sara}
+#Message#
+\."Yeah. Sou's attempting something right now."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+\."Sou...!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Okie-dokie. I'm half-believing.
+ But if you say so, I'll trust you."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Thank you very much...!"
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\.\C[3]Q-taro has passed out in the chair.
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"He's about 220 pounds, right...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Seems more like a pro wrestler
+ than a baseball player to me."
+##
+
+-----Page5-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff*...
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."I get a little bit of a burnt smell
+ from his clothes, meow..."
+##
+
+
+**********Event2********** (pad) (6,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a tablet on the ground.
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's a tablet on the ground.
+##
+
+{Sara}
+#Message#
+\."I'll pick this up..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Tablet.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Is this Q-taro's tablet...?)
+##
+
+#Message#
+\.\C[4](Why is it on the floor?)
+##
+
+
+**********Event3********** (sutan) (11,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's some strange device on the ground.
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's some strange device on the ground.
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Big sis Sara!! I've seen this on TV, meow!!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+\."It's... a stun gun, woof!!"
+##
+
+{Sara}
+#Message#
+\."Say what...?!"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."If it touches you,
+ you get zapped and can't move, meow..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Stun Gun.
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+\."And also...
+ It's got a label saying "one use," meow."
+##
+
+{Sara}
+#Message#
+\."No way... Did someone use this to knock out Q-taro?"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."Y-Yeah... There's no power in it anymore,
+ so I think that's it, woof."
+##
+
+{Sara}
+#Message#
+\.\C[4](What happened here...?!)
+##
+
+
+**********Event19********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event20********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event21********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event22********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event23********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event24********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event25********** (monita) (5,1)
+-----Page1-----
+#Message#
+\.\C[3]A monitor without power.
+##
+
+
+**********Event31********** (konp) (5,4)
+-----Page1-----
+#Message#
+\.\C[3]A machine emitting red light.
+##
+
+#Message#
+\.\C[3]There doesn't seem to be a plug nor a cord
+that would be needed to power a computer.
+##
+
+
+**********Event37********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

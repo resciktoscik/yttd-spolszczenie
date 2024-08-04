@@ -1,0 +1,82 @@
+**********Common247********** (ﾅｵ「2票の身代」)
+{Nao}
+#Message#
+"The \C[10]Sacrifice\C[0] gets to vote twice, right...?
+ Is the \C[10]Sacrifice\C[0] someone who received two votes...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Um... So what about that...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Err... I don't really follow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"I thought we could exclude anyone
+ with 1 vote or less from being the Sacrifice, but..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Everyone had 2 or more votes... oogh..."
+##
+

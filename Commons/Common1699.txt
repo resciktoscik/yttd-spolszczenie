@@ -1,0 +1,81 @@
+**********Common1699********** (◆ﾊﾔｻｶ「白紙へ！」)
+{Hayasaka}
+#Message#
+"Our reasoning was all wrong!
+ Should we reconsider it all from step one?!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+"Hgggggh...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](We can't properly talk to each other right now...!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+"Hgggggh...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](We can't properly talk to each other right now...!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+"Won't you rethink things, miss Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's too rattled for us to talk calmly...!)
+##
+

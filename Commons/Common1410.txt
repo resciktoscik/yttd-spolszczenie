@@ -1,0 +1,18 @@
+**********Common1410********** (②レコB選択)
+{N/A}
+#Message#
+"If the liquid's safe, then I'm gonna dip in
+ and check the walls for anything weird!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

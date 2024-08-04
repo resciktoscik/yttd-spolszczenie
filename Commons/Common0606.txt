@@ -1,0 +1,111 @@
+**********Common606********** (ジョー④崩壊「会話」)
+{N/A}
+#Message#
+\C[10]"Hey, Sara."
+##
+
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+\C[10]"How you doing?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+\C[10]Good
+\C[10]Bad
+##
+
+<\C[10]良い>
+
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+\C[10]"Huh... Well, good for you."
+##
+
+#Message#
+\.\C[10]"I'm feeling awful, Sara."
+##
+
+<\C[10]悪い>
+
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+\C[10]"Huh... Why's that?
+ Isn't it great to be alive?"
+##
+
+#Message#
+\.\C[10]"I'm feeling awful, Sara."
+##
+
+<Choice End>
+
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+\.\C[10]"Hey, when you gonna come over here?"
+##
+
+#Choice#
+\C[10]I can't yet
+\C[10]I'll be there soon
+##
+
+<\C[10]まだ行けない>
+
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+\C[10]"What the hell... You still wanna live?"
+##
+
+#Message#
+\.\C[10]"You're just gonna kill more people
+ to survive anyhow, right?"
+##
+
+#Message#
+\.\C[10]"Hahaha... You're the worst."
+##
+
+<\C[10]もうすぐ行く>
+
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+\C[10]"Ohh, really? Hurry it up."
+##
+
+#Message#
+\.\C[10]"I can't wait. How do you wanna suffer in hell, Sara?"
+##
+
+#Message#
+\.\C[10]"Hahaha..."
+##
+
+<Choice End>
+
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+\.\C[10]"Die quick before you trouble everybody, Sara."
+##
+
+#Message#
+\.\C[10]"That's the kindest thing you can do."
+##
+
+#Message#
+\.\C[10]"Hahaha..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\.\C[10](Sorry, Joe. Just wait a little longer...)
+##
+

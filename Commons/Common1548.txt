@@ -1,0 +1,17 @@
+**********Common1548********** (⑧ハヤサカB選択)
+{N/A}
+#Message#
+"I-I'll absorb some charge..."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

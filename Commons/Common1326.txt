@@ -1,0 +1,593 @@
+**********Common1326********** (⑥過去正解の解答)
+{Keiji}
+#Message#
+\C[4](This ornament reminded him of baseball...
+ so apparently he threw it out.)
+##
+
+#Message#
+\.\C[4](Q-taro's mental state must've been dire...)
+##
+
+#Message#
+\C[4](This baseball-and-bats ornament...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."Right... That, huh?"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."...Think I might've remembered something."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."That ornament..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"Actually... I threw it out."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"It was a gift from a supporter, but..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It was painful to leave it out...?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent21-1}
+#Message#
+\."Can't hide nothin' from you, can I?"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."You got it in one.
+ Wanted anything to do with baseball out of sight..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent40-1}
+#Message#
+\."So I tossed it...
+ And just pretended I'd forgotten."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Then and now... I'm a weak person..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."...Only a strong person can admit they're weak."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\C[4](This wasn't actually a guitar case,
+ it was a big briefcase.)
+##
+
+#Message#
+\.\C[4](Apparently there was something inside
+ that brought Reko to tears...)
+##
+
+#Message#
+\C[4](This guitar case on the ground...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent21-1}
+#Message#
+\."Yep! Just gimme a sec."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Uhh... Wait, huh...?"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."That... ain't a guitar case."
+##
+
+{SE: sceneswitch2}
+#Message#
+"It was a big suitcase...!"
+##
+
+#Message#
+"We weren't talkin' about music!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."'Cause what came outta that briefcase
+ wasn't an instrument at all..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent21-1}
+#Message#
+\."Seeing what was inside... made my tears well up..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."I remember feelin' like total shit...!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Sorry... I'm rememberin' in bits and pieces.
+ Work with me a little longer, Sara..."
+##
+
+{Sara} [Sara: Stern look / cara0-27]
+#Message#
+\."Right!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Stern look / cara0-27]
+#Message#
+\C[4](That consent form was displayed on the monitor.)
+##
+
+#Message#
+\.\C[4](It seems \N[4] created it...)
+##
+
+#Message#
+\C[4](This top-left monitor on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Hmm... Sure, I guess."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.".........."
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: Accent21-1}
+#Message#
+\."...I remember."
+##
+
+{SE: shock1}
+#Message#
+"It was displayed on the screen... The consent form..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Huh...?!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It was the file for printing.
+ \N[4] must have made it..."
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: Accent21-1}
+#Message#
+\."I should've deleted that horrible file on sight."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Well... even if you did, he'd just make a new one."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."...Guess so."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+{SE: Accent41-1}
+#Message#
+\."But did you sign it too, Sou?
+ The consent form..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.".........."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](He won't talk about it...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](That consent form was up on the whiteboard...)
+##
+
+#Message#
+\.\C[4](What in the world took place here...?)
+##
+
+#Message#
+\C[4](This top-left part of the whiteboard...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+\."Meowww! All memories on deck, meow!!"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."...Oh."
+##
+
+[Gin: Worried / cara9-3]
+{SE: Accent42-1}
+#Message#
+\."Big sis Sara... I think..."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+\."I might've remembered something important, woof..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Huh?"
+##
+
+{Gin}
+{SE: shock1}
+#Message#
+"It was posted up there, meow... That consent form..."
+##
+
+{Sara}
+#Message#
+"The consent form...?!"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."I dunno why I forgot, meow... but..."
+##
+
+[Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Thinking back now, it was the same one, woof...!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."...!!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Maybe I... but... why...?"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+{SE: Accent21-1}
+#Message#
+\."Calm down... Take it slow."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."R-Right..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Gin: Worried / cara9-3]
+#Message#
+\C[4](That consent form was on the wall...)
+##
+
+#Message#
+\.\C[4](Kanna took notice and asked the clerk, yet...)
+##
+
+#Message#
+\C[4](The back wall of the room...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."U-Understood..."
+##
+
+[Kanna: Looking down to side, eyes looking back curiously / cara3-17]
+#Message#
+\."You know, I feel like something was on that wall..."
+##
+
+[Kanna: Upset look, horrified face, mouth closed / cara3-28]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ah...!!"
+##
+
+[Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."Why...? But that's..."
+##
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\."What's wrong, Kanna?!"
+##
+
+{Kanna} [Kanna: Upset look, horrified face, mouth open / cara3-29]
+{SE: Accent21-1}
+#Message#
+\."That's strange..."
+##
+
+{SE: shock1}
+#Message#
+"On the wall... was that consent form!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"What's that mean...?!"
+##
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+\."Kanna saw that form there...!!"
+##
+
+[Kanna: Upset look, mouth closed / cara3-30]
+{SE: Accent41-1}
+#Message#
+\."And she feels like she asked the clerk...
+ about what it was..."
+##
+
+[Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."And then after that... umm, uhh..."
+##
+
+[Kanna: Upset look, horrified face, mouth closed / cara3-28]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I can't... remember..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](What in the world is this...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\C[4](Alice was actually holding
+ an article about his murder case in his hand.)
+##
+
+#Message#
+\.\C[4](He tried to approach the guard holding it, but...)
+##
+
+#Message#
+\C[4](Around Alice's hand...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Trying to make an attack on me, you brute?!
+ You'll surely atrophy...!"
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."That day, I tried to talk with the guard..."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+{SE: Accent21-1}
+#Message#
+\."And now that I think of it,
+ I feel I was holding something in my hand when I did."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."I believe it was..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."An article... about my murder case."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Holding the article in my hand,
+ I tried to approach the guard..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Yet something surprised me... and I collapsed."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Naturally, I suppose it was his face that startled me.
+ Seeing as it was \N[4]'s..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](So that's it...)
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."The guard...
+ Why did he surprise me so?"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Hmm... What could it be?)
+##
+
+<やめる>
+
+<Choice End>
+

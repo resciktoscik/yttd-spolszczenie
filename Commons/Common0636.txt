@@ -1,0 +1,25 @@
+**********Common636********** (交渉ー地獄カイ)
+{Kai} [Kai: Hallucination / cara8-23]
+#Message#
+".........."
+##
+
+#Choice#
+Discuss
+Cut off his wrists
+Cancel
+##
+
+<話し合う>
+
+{Kai} [Kai: Hallucination / cara8-23]
+#Message#
+".........."
+##
+
+<手首を切り落とす>
+
+<やめる>
+
+<Choice End>
+

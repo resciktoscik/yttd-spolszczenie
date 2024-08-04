@@ -1,0 +1,118 @@
+**********Common740********** (ｹｲｼﾞ「Qとタッグ」)
+{Keiji}
+#Message#
+"It's all owed to the \C[2]power\C[0] of that card...
+ Even my noticing of Q-taro's \C[2]Keymaster\C[0]."
+##
+
+#Message#
+"When I learned about the \C[10]Sacrifice\C[0] incident,
+ I proposed to Q-taro that we team up."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Something the matter...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Hmm. Don't really follow you."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Hm...? Did I say anything strange?"
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+"That said, when I first spotted him,
+ I just pacified him since he was pissed..."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."But I ended up talking with Q-taro,
+ and we thought things over."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."In the \C[6]fourth trade\C[0], I traded my card
+ with Q-taro's \C[2]Keymaster\C[0]."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."But actually... I went and did this trade myself
+ while Q-taro was passed out."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Seems Q-taro figured it out during the Main Game
+ and was able to put the story together."
+##
+
+{SE: Accent28-1}
+#Message#
+\."It's all owed to the \C[2]power\C[0] of that card...
+ Even my noticing of Q-taro's \C[2]Keymaster\C[0]."
+##
+

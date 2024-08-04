@@ -1,0 +1,60 @@
+**********Common747********** (⑨進展●「ﾒﾀﾞﾙを!?」)
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent28-1}
+#Message#
+"You gave him all your tokens, meow...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Sure did... An' seems like that
+ landed way outside Sou's ballpark."
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."S... Shut up!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Running out of leeway, are we...?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."I... I've still got doubts!
+ I can't be convinced with just that!"
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."A-After all... Keiji! Why were you able to know
+ about Q-taro having the \C[2]Keymaster\C[0]?!"
+##
+
+[Sou: Hands out, mouth open / cara5-27]
+{SE: sceneswitch2}
+#Message#
+\."Isn't the only way to do that during the Main Game,
+ with the \C[3]Sage\C[0]'s power of \C[2]clairvoyance\C[0]?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Huh... So you still don't know..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Okie-dokie. Let's resume the discussion..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](We were able to extract a new statement from Sou!
+ I just have to keep going...!)
+##
+

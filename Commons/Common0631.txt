@@ -1,0 +1,93 @@
+**********Common631********** (犠牲者ﾋﾞﾃﾞｵ２再生)
+{Voice}
+#Message#
+"Dammit...!! You gotta be shittin' me!!"
+##
+
+{Man}
+#Message#
+"Don't screw with me!! God dammit!!"
+##
+
+#Message#
+\."I'm gonna kill you!!
+ All you bastards who set this shit up are dead!!"
+##
+
+#Message#
+\."You hearin' me?! I'm gonna slaughter you!!"
+##
+
+#Message#
+\."Dammit... dammit..."
+##
+
+#Message#
+\."I'm gonna kill every single one of you
+ who's treating me like this..."
+##
+
+#Message#
+\."Urghh... pieces of... shiiit...!"
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."Please..."
+##
+
+#Message#
+\."I can't move any further...!
+ Stop it... the walls..."
+##
+
+#Message#
+\."The walls..."
+##
+
+{Sara}
+#Message#
+\C[4](Ugggh...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]I can't look directly at it.
+##
+
+#Message#
+\.\C[3]The walls slowly move in, and in the end, the man...
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I'm betting... this was the First Trial.)
+##
+
+#Message#
+\.\C[4](If he'd survived, we likely would have met him...)
+##
+
+#Message#
+\.\C[4](Would he have assisted us...?
+ Would he antagonize us...?)
+##
+
+#Message#
+\.\C[4](I don't know...)
+##
+
+#Message#
+\.\C[4](Either way, we should have at least
+ been able to learn what he was like...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](I can't forget about this person...)
+##
+

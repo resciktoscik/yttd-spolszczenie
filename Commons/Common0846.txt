@@ -1,0 +1,214 @@
+**********Common846********** (㉑２章後編「おわり」)
+{Nao} [Nao: Hand on chest, relieved smile / cara7-25]
+{SE: Accent28-1}
+#Message#
+\."Thank you so much... Sara."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."No way!! Big sis Sara?! You betrayed us, meow?!"
+##
+
+{Sara} [Sara: Tired eyes / cara0-5]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Ha... haha... Can't be serious... You wouldn't..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."What the hell, Sara...?!
+ Aren't we allies...?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Is that your answer?! Sara Chidouin...!!"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+{SE: Accent21-1}
+#Message#
+\."This is... reality, Keiji."
+##
+
+[Sou: Hands out, mouth open, grim face / cara5-35]
+#Message#
+\."The strong will tell you...
+ "I'm your ally"... "Don't be afraid, trust me"..."
+##
+
+[Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And in the end, they'll betray you!!"
+##
+
+[Sou: Hands out, mouth open, angry eyes with bags, grim face / cara5-33]
+#Message#
+\."At the convenience and whims of the strong...!
+ The weak will die!!"
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Well? Learned a little something about
+ how uneasy a weakling always feels...?"
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+#Message#
+\.".........."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]I'm sorry... everyone.
+##
+
+#Message#
+\.\C[3]I'm so sorry...
+##
+
+#Message#
+\.\C[3]I've gotten tired...
+##
+
+#Message#
+\.\C[3]I don't want to die...
+##
+
+#Message#
+\.\C[3]I just want to go home...
+##
+
+#Message#
+\.\C[3]I don't want... to play this Death Game anymore...
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\sp[18]\C[10]Even if it costs all your lives...
+##
+
+#Message#
+\.\C[3]So...
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]...Goodbye...
+##
+
+#Message#
+\.\C[3]A sea of red unfolds before my eyes.
+##
+
+#Message#
+\.\C[3]There's no salvation.
+##
+
+#Message#
+\.\C[3]Tearfully, Safalin carried out exacting executions,
+one after another.
+##
+
+#Message#
+\.\C[3]Everyone's struggling and anguished screams...
+I didn't listen to them.
+##
+
+#Message#
+\.\C[3]There's... no way I could.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\.\C[3]Keiji, Gin, Kanna, Sou, Q-taro, Reko...
+##
+
+<Else>
+
+#Message#
+\.\C[3]Keiji, Gin, Kanna, Sou, Q-taro, Alice...
+##
+
+<Condition End>
+
+#Message#
+\.\C[3]I'm so sorry... I'm so sorry...
+##
+
+{Nao}
+{SE: Accent21-1}
+#Message#
+\."...Sara..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Don't cry, Sara."
+##
+
+#Message#
+\."From now on... I'll always be with you..."
+##
+
+#Message#
+\."When we get home... I'll make you delicious meals..."
+##
+
+#Message#
+\."We'll sleep soundly... bathe in the morning sun...
+ go on walks together..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Let's live happily for everyone..."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\.\sp[15]"It's okay... I'll bear this cross."
+##
+
+#Message#
+\.\sp[15]"You did nothing wrong, Sara..."
+##
+
+#Message#
+\.\sp[15]"You did nothing wrong... You did nothing wrong..."
+##
+
+{N/A}
+#Message#
+          \sp[15]\C[10]"Sara... You did nothing wrong..."\.\.
+##
+
+#Message#
+Ending 1 ... "Massacre"
+##
+

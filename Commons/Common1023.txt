@@ -1,0 +1,17 @@
+**********Common1023********** (①ヒナコB選択)
+{N/A}
+#Message#
+"...I'm fine fighting it if I've got a weapon, okay?"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

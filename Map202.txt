@@ -1,0 +1,705 @@
+=====Map202===== (⑤Circus)
+
+**********Event2********** (midori) (8,7)
+-----Page1-----
+{Sara}
+#Message#
+"\N[4]...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin (no collar) / cara19-9]
+{SE: Accent28-1}
+#Message#
+"Ahah! So you came!"
+##
+
+[Midori: Default grin (no collar) / cara19-1]
+#Message#
+\."Well? Are you done passing around
+ that dirty role of "being it"?"
+##
+
+{Sara}
+#Message#
+\."Grr...!!"
+##
+
+#Choice#
+That's not it at all!
+It was sublime
+##
+
+<そんなのは無い！>
+
+{Sara} [Midori: Default grin (no collar) / cara19-1]
+{SE: sceneswitch2}
+#Message#
+\."That's not it at all!!
+ We're all allies!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin (no collar) / cara19-9]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Is that sooo! That's perfect in its own way!
+ How beautiful!!"
+##
+
+<壮絶だった>
+
+{Sara} [Midori: Closed-eyes grin (no collar) / cara19-9]
+{SE: sceneswitch2}
+#Message#
+\."Yes, and it was truly sublime...!!"
+##
+
+{\N[4]}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ohh?! Tell me more! Ahaha!"
+##
+
+<Choice End>
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."More importantly... just checking, but..."
+##
+
+[Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent21-1}
+#Message#
+\."A gun is against the rules of tag... right?"
+##
+
+{\N[4]} [Midori: Default grin (no collar) / cara19-1]
+#Message#
+\."...Sure.
+ As long as you're going to follow the rules..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Hinako: Mouth open / cara93-2]
+{SE: sceneswitch2}
+#Message#
+\."Kept us waiting, \N[4]..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kurumada: Frown / cara95-2]
+{SE: sceneswitch2}
+#Message#
+\."W-We won't let you run anymore...!"
+##
+
+<Else>
+
+{Sou}
+{SE: sceneswitch2}
+#Message#
+\.".........."
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Reko} [Anzu: Hood over half of face, worried / cara96-12]
+{SE: sceneswitch2}
+#Message#
+\."Always skittering around...!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: sceneswitch2}
+#Message#
+\."Always skittering around...!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Alice} [Anzu: Hood over half of face, worried / cara96-12]
+{SE: sceneswitch2}
+#Message#
+\."Hmph... Your life as a runaway is over..."
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: sceneswitch2}
+#Message#
+\."Hmph... Your life as a runaway is over..."
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Gin} [Hayasaka: Default / cara94-1]
+{SE: sceneswitch2}
+#Message#
+\."I won't forgive you even if you apologize, meow!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+\."I'll really never forgive you, meow...!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{\N[4]} [Midori: Open-mouth frown (no collar) / cara19-8]
+#Message#
+\."Now this is troubling..."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."You're being disturbingly cocky..."
+##
+
+{\N[4]} [Midori: Closed-eyes grin (no collar) / cara19-9]
+#Message#
+\."No, I really am troubled..."
+##
+
+[Midori: Default grin (no collar) / cara19-1]
+{SE: Accent21-1}
+#Message#
+\."Because, look...
+ I don't even have a collar to play tag with."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Ah..."
+##
+
+[Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."What do we do, meow?!
+ Even if we tag him, there's no point, woof!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."N-No way...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."For real...?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."What in the world?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Closed-eyes grin (no collar) / cara19-9]
+{SE: Accent28-1}
+#Message#
+\."Ahaha. I did say you should've
+ given me back that collar, didn't I?"
+##
+
+[Midori: Default grin (no collar) / cara19-1]
+#Message#
+\."What will you do?
+ If you give it back, I'll put it on."
+##
+
+[Midori: Closed-eyes grin (no collar) / cara19-9]
+{SE: Accent21-1}
+#Message#
+\."But of course, only once you leave here...
+ Slowly..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+\."..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Closed-eyes grin (no collar) / cara19-9]
+#Message#
+\."Or else, do you want us to
+ kill each other violently after all?"
+##
+
+[Midori: Default grin (no collar) / cara19-1]
+#Message#
+\."Take your pick... miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."Enough..."
+##
+
+{\N[4]} [Midori: Default grin (no collar) / cara19-1]
+#Message#
+\."..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."What is it, Keiji...?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."What is it, Keiji?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."It's just strange, isn't it..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent21-1}
+#Message#
+\."It's too good to be true...
+ Feels like you've got something planned."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Planned...?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Planned, you say...?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{\N[4]} [Midori: Default grin (no collar) / cara19-1]
+#Message#
+\."..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."I can't see this futile chase
+ as anything but a time-waster..."
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: sceneswitch2}
+#Message#
+\."\N[4]...
+ I wonder if you're waiting?"
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: sceneswitch2}
+#Message#
+\."For something to happen within us..."
+##
+
+{Sara}
+{SE: heart1}
+#Message#
+\."Within...?"
+##
+
+#Choice#
+Our allies?
+Our bodies?
+##
+
+<仲間？>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Our allies...?"
+##
+
+<体内？>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Within... our bodies?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Wahaha... You're cute when you're dimwitted, Sara."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: Accent28-1}
+#Message#
+\."...I mean our allies."
+##
+
+<Choice End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."You mean the Dummies are gonna do something...?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Do the Dummies have some other objective?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."That's right. Ultimately,
+ they're assassins sent by \N[4]..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Maybe they have some kind of mission...?"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."..."
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."They're in cahoots with \N[4], meow?!"
+##
+
+[Gin: Looking up, sad / cara9-12]
+#Message#
+\."But, but...! But suit-and-specs and the others
+ went through all the same stuff as us..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."...That's true."
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Come to think of it...
+ Why aren't Q-taro and Mai here...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](It can't be... Is the Dummies' aim to...?!)
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Let's hurry and find muscle gorilla, meow...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Enough of this charade, \N[4]."
+##
+
+{\N[4]} [Midori: Default grin (no collar) / cara19-1]
+#Message#
+\."..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."What do you mean?! Sou...?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."What does that mean...? Sou?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."\N[4] isn't being serious
+ about this stupid game."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...He never once said
+ that if you lose at tag, you die."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."I'm sure he's just waiting
+ for something to happen."
+##
+
+{\N[4]} [Midori: Default grin (no collar) / cara19-1]
+#Message#
+\."..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."In short, what you've been doing..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Is try to destroy us from the inside..."
+##
+
+{Sara}
+{SE: heart1}
+#Message#
+\."From the inside...?"
+##
+
+#Choice#
+Our allies?
+Our bodies?
+##
+
+<仲間？>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Our allies...?"
+##
+
+<体内？>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Inside... our bodies?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."It's amazing how ridiculous you can be
+ at a time like this..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."...I mean our allies."
+##
+
+<Choice End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."You don't mean...
+ He's gonna make the Dummies do something?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Surely you don't mean...
+ He intends to have the Dummies do something?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: sceneswitch2}
+#Message#
+\."Right. They were just puppets."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."They're in cahoots with \N[4], meow?!"
+##
+
+[Gin: Looking up, sad / cara9-12]
+#Message#
+\."But, but...! But suit-and-specs and the others
+ went through all the same stuff as us..."
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."...Then why do you suppose
+ not everyone has assembled here?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's right... Q-taro and Mai aren't here!!)
+##
+
+#Message#
+\.\C[4](Don't tell me their aim is to...!!)
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."L-Let's look for muscle gorilla, meow!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+-----Page2-----
+{Sara}
+#Message#
+\C[4](It pains me to say, but...
+ Now's not the time to worry about \N[4]!!)
+##
+

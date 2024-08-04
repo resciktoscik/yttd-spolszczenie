@@ -1,0 +1,33 @@
+**********Common732********** (●激おこQタロウ)
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](If he's not going to talk...
+ I'll be just as stubborn!!)
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"...Why won't you deny it, Q-taro?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...I mean, you need a \C[2]Ring-Up Box\C[4] to trade.)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](If he used one on the spot...
+ Shouldn't we have seen him do it?!)
+##
+
+#Message#
+\.\C[4](What could he be hiding?!)
+##
+

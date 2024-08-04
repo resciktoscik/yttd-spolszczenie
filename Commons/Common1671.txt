@@ -1,0 +1,67 @@
+**********Common1671********** (◆Q「赤い血は人間」)
+{Q-taro}
+#Message#
+"That lamp says what's inside! \C[2]Red means red blood\C[0]...!
+ And that means there's a \C[2]human\C[0] in there!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Whatcha gettin' at there?!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Whatcha gettin' at there?!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Know it sounds stupid, but whether they got blood
+ is the big way to tell if somebody's a doll or not!"
+##
+

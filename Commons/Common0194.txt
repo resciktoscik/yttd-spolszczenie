@@ -1,0 +1,28 @@
+**********Common194********** (名前ヒント)
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](I want to say... it was a woman, right...?)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](It was a woman... And when Joe heard her name...
+ he got really energetic for some reason.)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](It was a woman...
+ And Joe got really excited when he heard the name...
+ Since she was a celebrity from magazines...?)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](It was a woman...
+ And Joe got really excited when he heard the name...
+ Since she was a celebrity from magazines...
+ A singer-songwriter, wasn't it...?)
+##
+

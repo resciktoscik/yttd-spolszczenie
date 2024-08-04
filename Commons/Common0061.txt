@@ -1,0 +1,170 @@
+**********Common61********** (ｼﾞｮｰ「反論できる？」)
+{Joe}
+#Message#
+"Well, Sara?
+ Can you think of any rebuttals?"
+##
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+{SE: Accent28-1}
+#Message#
+"Whoa! Nice one, Sara!
+ Attack with statements, just like that!"
+##
+
+{Sara}
+#Message#
+\."Answer me, Joe!
+ What do you think about this statement?!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."What're you pressing me for?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He gave me the slip...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+{SE: Accent28-1}
+#Message#
+"Got it, Sara?
+ Try \C[2]making two people's statements fight\C[0]!"
+##
+
+{N/A}
+#Message#
+Touch \C[2]VS\C[0] to pit one person's statement
+against someone else's statement.
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Have confidence!"
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"Don't look so nervous!
+ Put on your usual bigshot attitude!"
+##
+
+{Sara}
+#Message#
+\."Who do you even think I am...?"
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+{SE: Accent28-1}
+#Message#
+\."The Godfather of Sonobeno High School!"
+##
+
+{Sara}
+#Message#
+\."Urgh... Can you think about this seriously?"
+##
+
+#Choice#
+I don't know how to object
+I don't know how to gain trust
+##
+
+<反論の仕方がわからない>
+
+{Sara} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+"I feel like everyone's arguments are sound.
+ I have... no rebuttals to make."
+##
+
+<信頼の上げ方がわからない>
+
+{Sara} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+"It's hard to tell everyone to trust me.
+ I'm just... a regular high school student..."
+##
+
+<Choice End>
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."True... Thinking about it logically,
+ you don't have much ground to stand on, Sara."
+##
+
+[Joe: Default / cara1-11]
+#Message#
+\."In that case! How about you
+ \C[2]have two people's statements duke it out\C[0]?!"
+##
+
+{Sara}
+#Message#
+\."Duke it out...?"
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Yeah! Pit \C[2]opposing statements\C[0] against each other
+ to advance the discussion!"
+##
+
+{Sara}
+#Message#
+\."So you're saying to borrow the words of others...
+ I'll give it a try!"
+##
+
+{N/A}
+#Message#
+Controls
+##
+
+#Message#
+Touch \C[2]VS\C[0] to pit one person's statement
+against someone else's statement.
+##
+
+#Message#
+If the statements are \C[2]in conflict\C[0],
+the discussion will advance.
+##
+

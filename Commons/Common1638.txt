@@ -1,0 +1,72 @@
+**********Common1638********** (●ﾊﾔｻｶ「素材すごい」)
+{Hayasaka}
+#Message#
+"The coffins must be made with a special material
+ that glows in the lantern's light..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Hand in front, mouth open / cara94-5]
+#Message#
+"Just for example, I believe some ores like
+ ruby and diamond glow in ultraviolet light."
+##
+
+[Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Maybe those coffins are made of diamond, too..."
+##
+

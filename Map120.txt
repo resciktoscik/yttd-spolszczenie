@@ -1,0 +1,458 @@
+=====Map120===== (Room of Lies Finale)
+
+**********Event2********** (レコ生存ルートED) (1,0)
+-----Page1-----
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+"Reko!! Where's Reko?!"
+##
+
+{Sara}
+#Message#
+\."*pant*... *pant*... Alice...!
+ Please, calm down!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Whoa, you're in a real hurry, huh?"
+##
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."H-How did you get here first?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."You wanna meet Reko that badly, ya bastard?"
+##
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+{SE: Accent28-1}
+#Message#
+\."...!!"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."...Why are you saying it like that?!
+ Talk, you damn doll!!"
+##
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+\."...Ehh?"
+##
+
+#Message#
+\.".........."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: Accent21-1}
+#Message#
+\."Ahaha... Fine... I'll let you meet her."
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."R-Really...?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: flash-of-light-3}
+#Message#
+\."But first, I got a quiz for ya!"
+##
+
+[Ranger: Angry face sign / cara18-4]
+{SE: Accent28-1}
+#Message#
+\.\C[10]"What's the current status of Reko Yabusame?"
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."...H... Huh...?"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."W-What are you talking about...?!"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"1. Long since dead."
+##
+
+#Message#
+\.\C[10]"2. Dead from a trap in this room."
+##
+
+#Message#
+\.\C[10]"3. Watching over y'all as a severed head.
+ ...Pick one!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Huh...?
+##
+
+#Message#
+\.\C[3]What is he saying...?
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Don't be ridiculous!!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Stop it, stop it!!
+ I can't believe that... I can't!!"
+##
+
+#Message#
+\."Reko wouldn't die so easily!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Humans are all so fragile, y'know?"
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."Aren't I right, Safalin?"
+##
+
+{Safalin}
+#Message#
+"They... really are... aren't they..."
+##
+
+{N/A}
+#Message#
+\.\C[3]With that, Safalin appeared.
+##
+
+#Message#
+\.\C[3]In her hands... was...
+##
+
+#Message#
+\sp[10]\C[10]Was...\. Reko.
+##
+
+{Alice}
+#Message#
+\."...Huh?"
+##
+
+#Message#
+\.\sp[15]"...Are you kidding me...?"
+##
+
+#Message#
+\.\sp[15]"Inconceivable... Such blatant lies..."
+##
+
+#Message#
+\.\sp[10]"...All... lies..."
+##
+
+#Message#
+\.\sp[10]".........."
+##
+
+#Message#
+\.\C[10]"I'll kill you."
+##
+
+#Message#
+\.\{\C[10]"I'LL KILL YOOOOOOOOOOU!!!!"
+##
+
+{Ranger}
+#Message#
+\."Ahaha! You're scarin' me, Alice!"
+##
+
+{Alice}
+{SE: Damage4}
+#Message#
+\.\{\C[10]"YOU!! NO MATTER WHAT!!!!"
+##
+
+{Ranger}
+#Message#
+\."If you want her that bad, have her. Catch!"
+##
+
+{Alice}
+#Message#
+\."Reko...!!"
+##
+
+#Message#
+\."Ahhhh... Reko...!!"
+##
+
+{Sara}
+#Message#
+\."What..."
+##
+
+{N/A}
+#Message#
+\.\C[3]An intense... sound.
+##
+
+#Message#
+\.\C[3]A loud one... like something popping...
+##
+
+{Ranger}
+#Message#
+\."Huh... Sooorry, Reko's collar might've exploded."
+##
+
+#Message#
+\."Hmm... You okay?"
+##
+
+#Message#
+\.\C[10]"You got a big hole in your stomach."
+##
+
+{Alice}
+#Message#
+\."G... ghuh...!"
+##
+
+{Sara}
+#Message#
+\."Alice!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Aww, that's not great. You're gonna die, huh?"
+##
+
+{Sara}
+#Message#
+\."Don't joke with me!! This... this...!!"
+##
+
+{Alice}
+#Message#
+\sp[12]"...Re... ko..."
+##
+
+#Message#
+\.\sp[12]"...Wh... y... Reko..."
+##
+
+#Message#
+\.\sp[12]"...Aaaa... a... aa..."
+##
+
+{Sara}
+#Message#
+\."Nooooo...!! Alice!! Alice...!!"
+##
+
+#Message#
+\."Help...!! Please, treat him!!
+ Safalin...!!"
+##
+
+{Safalin}
+#Message#
+\.".........."
+##
+
+{Alice}
+#Message#
+\.\sp[15]"...................."
+##
+
+#Message#
+\.\sp[15]"...Re.......... ko.........."
+##
+
+#Message#
+\."..."\.\.
+##
+
+{Sara}
+#Message#
+\."Alice..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Why... did this happen...
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\.\C[3]As my mind went blank, I heard footsteps approach.
+##
+
+{Reko}
+{SE: Accent28-1}
+#Message#
+\."Bro...!!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."R... Reko...?"
+##
+
+{Reko} [Reko: Hands out, teary-eyed shout / cara6-15]
+#Message#
+\."You dumbass!! Bro!! Don't die on me!!"
+##
+
+{Alice}
+#Message#
+\."..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Open your eyes!! Bro!!
+ It's me!! It's Reko!!"
+##
+
+#Message#
+\."I'm alive...!!"
+##
+
+#Message#
+\."B... Bro...!!!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I looked to the center of the room,
+and saw an open pillar of sorts.
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't tell me... Reko was in there from the start?!)
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: Accent21-1}
+#Message#
+\."Well? This is the Room of Lies!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."The correct answer to the quiz was
+ "the real Reko is alive and tied up"!"
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."Didn't even notice it was a doll's head...
+ Goes to show how much a sibling bond is worth!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Ahahahahaha!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's underhanded..."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."...Eh?"
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."The moment it exploded...
+ The trap should've been over with."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."If you'd released me right away,
+ I could've at least told him I was alive!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Huhhh? What he was thinking doesn't change
+ that he was gonna die, does it?"
+##
+
+{Reko} [Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."It changes everything!!
+ It's totally different, dammit...!"
+##
+
+#Message#
+\."You damn heartless doll...!!"
+##
+
+{SE: Thunder8}
+#Message#
+\."That's it... \C[10]I'm gonna kill you...!!\C[0]"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Huhhh?"
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+{SE: Accent28-1}
+#Message#
+\."Hey, you should know... If you kill a Floor Master,
+ y'all are \C[2]all gonna die\C[0]."
+##
+
+#Message#
+\."We're being tested as Floor Masters too!
+ Get me?"
+##
+
+{Reko} [Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."You think I give a shit?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Reko started running at Ranger.
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Well... That's only if you beat me anyhow..."
+##
+
+{Reko} [Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."DIE!!"
+##
+

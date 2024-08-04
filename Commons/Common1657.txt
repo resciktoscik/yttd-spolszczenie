@@ -1,0 +1,72 @@
+**********Common1657********** (◆ﾋﾅｺ「どうせﾐﾄﾞﾘ」)
+{Hinako}
+#Message#
+"I imagine it had to have been \N[4]...
+ Surely the culprit wouldn't be one of us?"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+"How annoying..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+"How annoying..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+"Only \N[4] would get these weird ideas..."
+##
+
+[Hinako: Furrowed brow / cara93-9]
+#Message#
+\."What kind of intention did he have...?
+ Can't even be bothered to consider it."
+##
+

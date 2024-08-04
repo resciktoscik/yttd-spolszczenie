@@ -1,0 +1,68 @@
+**********Common128********** (ｷﾞﾝ「心を閉ざす」)
+{Gin}
+#Message#
+".........."
+##
+
+[Gin: Default / cara9-1]
+#Message#
+"My name is \C[2]Gin Ibushi\C[0]! Woof!"
+##
+
+#Message#
+\."Hmm...
+ I think I'm okay to trust big sis Sara, meow!"
+##
+
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin is trembling...)
+##
+
+#Choice#
+Kindly question him
+Fiercely question him
+Look him in the eye
+##
+
+<優しく話を聞き出す>
+
+{Sara} [Gin: Default / cara9-1]
+#Message#
+"Gin, it's okay.
+ Can you try to remember what you've
+ seen and noticed in this place?"
+##
+
+<厳しく話を聞き出す>
+
+{Sara} [Gin: Default / cara9-1]
+#Message#
+"Gin! You're a big boy, right?!
+ I know you've done a great job here!
+ Be brave and speak!"
+##
+
+<黙って眼を見つめる>
+
+{Sara} [Gin: Default / cara9-1]
+#Message#
+"Gin...?"
+##
+
+<Choice End>
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](It's no good... Gin's closed his heart...)
+##
+

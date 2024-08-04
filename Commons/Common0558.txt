@@ -1,0 +1,131 @@
+**********Common558********** (ｱﾘｽ「差があるハズ」)
+{Alice}
+#Message#
+"Even without meeting her for 2 and a half years,
+ Reko is Reko! I couldn't be mistaken!!"
+##
+
+#Message#
+"Perfectly replicating a human is impossible...!!
+ There absolutely must be a difference somewhere!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"What?! You got a problem?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Alice}
+#Message#
+"What?! You got a problem?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Be quiet! What is this?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](No good! He won't even listen...!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"The essence of a person... does not change!!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"And it's just not thinkable that I wouldn't
+ notice that difference, however slight!!"
+##
+
+{Sara}
+#Message#
+\."Calm down, please!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Yes... I've been in prison for 2 and a half years...
+ And I never had any contact with Reko."
+##
+
+#Message#
+\."And when we reunited, I did think
+ she was kinder... had changed a bit...!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."But I've realized in these past few days!
+ She hasn't changed! Reko is still Reko!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."That Reko, a fake...?!
+ Don't make me laugh!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Alice completely believes she's real...!)
+##
+

@@ -1,0 +1,26 @@
+=====Map158===== (Chapter 2 End Waiting Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{SE: Accent28-1}
+#Message#
+\C[3]Thank you for playing!
+##
+
+#Message#
+\.\C[3]This is a waiting room
+for until the next episode is released.
+##
+
+#Message#
+\.\C[3]Well then...
+Thank you very much for staying with it this far.
+##
+
+#Message#
+\.\C[3]Further down on the page is the official home page
+with the latest information, so please take a look!
+
+(A Your Turn To Die manga is also available!)
+##
+

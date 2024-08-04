@@ -1,0 +1,172 @@
+=====Map188===== (■Waiting Room Intro)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent28-1}
+#Message#
+\."Hey there. Doing your best, I see."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."It's a little early, but that's all for today...
+ How about a short break?"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent24-1}
+#Message#
+\."The next part is planned to be
+ updated tomorrow, \C[2]February 26th\C[0]..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."So... I hope you'll wait a bit until then."
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: Accent24-1}
+#Message#
+\."Sorry for my selfish request. But thanks!"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent11-1}
+#Message#
+\."I know! Want to save here?
+ You'll be able to start from here after the update!"
+##
+
+#Choice#
+Save
+Don't
+##
+
+<記録する>
+
+<しない>
+
+<Choice End>
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+{SE: Accent28-1}
+#Message#
+\."Well then... See you in another part!"
+##
+
+-----Page2-----
+{N/A}
+{SE: Machine}
+#Message#
+\C[3]Holding our breaths, we waited in the elevator.
+##
+
+#Message#
+\C[3]Everyone had the same nervous look.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...It's okay."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji...)
+##
+
+#Choice#
+Right...!
+What's okay?
+##
+
+<はい…！>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Right...!"
+##
+
+{Keiji} [Keiji: Turned to side, slight smile / cara2-14]
+#Message#
+\."Wahaha..."
+##
+
+<何がですか？>
+
+{Sara} [Keiji: Turned to side, slight smile / cara2-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+"What, exactly...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Always putting on the pressure, huh, Sara?"
+##
+
+<Choice End>
+
+{N/A} [Keiji: Scratching shoulder, surprised / cara2-8]
+{SE: sceneswitch2}
+#Message#
+\C[3]And quietly, the elevator stopped.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...Looks like we arrived without incident.)
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent28-1}
+#Message#
+\."...Hey. Long time no see."
+##
+
+{Sara}
+#Message#
+\."Good... So you arrived safely too."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."What a relief!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."If only something had happened, huh...?"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Guys, \N[4] might be on this floor.
+ Be cautious..."
+##
+
+{Sara}
+#Message#
+\."Right...!"
+##
+

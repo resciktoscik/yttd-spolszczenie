@@ -1,0 +1,313 @@
+**********Common1643********** (３前進展②光の数矛盾)
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Worried / cara96-2]
+{SE: Accent28-1}
+#Message#
+"All seven... glowed?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Y-Yeah...!"
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."Then... Why are only five glowing now?"
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+"Only five are glowin'...?"
+##
+
+{Sara}
+#Message#
+\."Y-Yes..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."What's that meant?! When we saw 'em in the cemetery,
+ it was definitely seven!"
+##
+
+<Condition End>
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent21-1}
+#Message#
+\."By the way, there exist no other coffins than these!"
+##
+
+{Sara}
+#Message#
+\.\C[4](So the seven glowing coffins
+ were reduced to five glowing coffins because...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent41-1}
+#Message#
+\."There are \C[2]coffins that lost their glow\C[0]...!"
+##
+
+<Else>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent41-1}
+#Message#
+\."Some of the coffins \C[2]lost their glow\C[0]."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Awright, why don't we think about why that is?!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{N/A}
+#Message#
+
+　　　　　　　　\C[3]The Coffins' Lost Glow
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent21-1}
+#Message#
+"Uhh, so first of all,
+ Anzu's #2 coffin isn't glowing..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+"Hmph... We can see plainly that
+ Anzu's #2 coffin isn't glowing."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+"Well... We can at least tell that
+ Anzu's #2 coffin isn't glowing..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+{SE: shock1}
+#Message#
+"I've lost my glow?!"
+##
+
+{Kurumada} [Kurumada: Damaged, angry / cara95-21]
+#Message#
+\."Ahem... Don't go addin' pointless statements."
+##
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+#Message#
+\."Ah...! I'll retract it!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"Maple exploded on top of Anzu's coffin.
+ Is that why...?"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Is it because Maple exploded
+ on top of that coffin, woof...?"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, mouth open / cara92-11]
+{SE: Accent21-1}
+#Message#
+"But... There should be another coffin
+ that's lost its glow too, right?"
+##
+
+{Hinako} [Hinako: Eyes closed / cara93-4]
+#Message#
+\."..."
+##
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Is there any other possible cause...?"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"But... There should be one other
+ coffin that lost its glow, shouldn't there?"
+##
+
+{Hinako} [Hinako: Eyes closed / cara93-4]
+#Message#
+\."..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Is there another cause besides the explosion...?"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{SE: Accent21-1}
+#Message#
+\C[4](Even little things matter here...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do any of you remember anything unusual
+ that happened to the coffins...?"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand in front, mouth open / cara94-5]
+#Message#
+"All I can think of is
+ how their peculiar \C[2]smell\C[0] bothers me..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+"Ahh... That's right, Hinako splashed \C[2]liquid\C[0] at me
+ and got my coffin all sticky..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+"Ranmaru... I'm asking you too."
+##
+
+{Ranmaru} [Ranmaru: Evil, closed mouth / cara91-39]
+#Message#
+".........."
+##
+
+[Ranmaru: Evil, mouth open / cara91-40]
+{SE: Accent40-1}
+#Message#
+"...That's right. Hinako splashed \C[2]liquid\C[0] at me
+ and got my coffin all sticky, I recall..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: Accent41-1}
+#Message#
+"Can't really... think of anything..."
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: flash-of-light-3}
+#Message#
+"Maybe the coffins actually use power to glow?
+ Surely... they \C[2]ran out of battery\C[0]!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent28-1}
+#Message#
+"Maybe the coffins actually glow using electricity?
+ Bet they \C[2]ran out of battery\C[0]."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+{SE: Accent21-1}
+#Message#
+"It's gotta be the explosion's fault, yeah?
+ \C[2]The heat of the blast\C[0], say..."
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+"I think it's gotta be that explosion, meow...
+ Like, \C[2]the heat of the blast\C[0]..."
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+

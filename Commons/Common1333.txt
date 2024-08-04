@@ -1,0 +1,286 @@
+**********Common1333********** (13、間違いどす)
+{Keiji}
+#Message#
+\C[4](This photo stand on the left...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."Right... Nothin' to it.
+ It's a photo of the guys at the orphanage..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Didn't have nothin' to do with baseball,
+ but I'd play with 'em, and teach 'em..."
+##
+
+[Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+#Message#
+\."This photo full'a smiles... It always propped me up."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\.\C[4](Propped him up, huh...)
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Wonder if it put more pressure on him sometimes...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\C[4](This grass on the building...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Probably just decorative grass."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."But in a place packed with buildings,
+ havin' plants sure helps the atmosphere."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."You gotta go someplace with good style
+ if you wanna polish your own style."
+##
+
+{Sara} [Sara: Yell / cara0-26]
+#Message#
+\."I'll keep that in mind!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Hey, that's the spirit!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+\C[4](This computer behind the chair...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Huh... You're curious?
+ Well, it's just a desktop computer, but..."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."This thing's a powerhouse. Even in the ever-evolving
+ computing world, this could last you five years..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."No differences in your memory here, I take it."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."R-Right... Let's move on."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+\C[4](This text on the whiteboard...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Hmm...
+ I don't think anything important was written there."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."It was something along the lines of
+ "let's talk about something fun!", woof."
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\.\C[4](Nothing unusual here...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\C[4](Kanna's sister's face...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Kanna...
+ Could you remember your sister's face a little more?"
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."...She was smiling kindly like always."
+##
+
+[Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Telling me "hurry up and pick,"
+ but really just waiting patiently..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\."..."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+{SE: Accent21-1}
+#Message#
+\."I can finally remember it...
+ Sister's smile..."
+##
+
+{Sara} [Sara: Hands on hips, groan / cara0-22]
+#Message#
+\."Sorry, Kanna..."
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Heehee... It's fine."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\C[4](This plain chair...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's just a chair."
+##
+
+[Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."Four legs... but no rollers!
+ No backrest, and of course, little cushioning!"
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\.\C[4](He's taking remembering the chair very seriously...!
+ Not that it seems very relevant...!)
+##
+
+<やめる>
+
+<Choice End>
+

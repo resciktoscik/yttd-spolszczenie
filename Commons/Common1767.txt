@@ -1,0 +1,264 @@
+**********Common1767********** (▼ﾗﾝﾏﾙ「腕取った！」)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru}
+#Message#
+"The \C[2]finger\C[0] Sara found me earlier...
+ was a \C[2]stun gun\C[0] Upgrade Part."
+##
+
+<Else>
+
+#Message#
+"That \C[2]finger\C[0] Sara found me...
+ was a \C[2]stun gun\C[0] Upgrade Part."
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+#Message#
+"U-Uh, hey... I replaced my hand, remember?
+ No way I'm human."
+##
+
+<Else>
+
+#Message#
+"...I replaced my whole hand, remember?
+ Still trying to call me human... hilarious."
+##
+
+<Condition End>
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<Else>
+
+[Ranmaru: Evil, mouth open / cara91-40]
+#Message#
+"Settle down, Sara..."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<Else>
+
+[Ranmaru: Evil, mouth open / cara91-40]
+#Message#
+"What's the matter...? Settle down..."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent21-1}
+#Message#
+"I... I feel bad about it... Seriously..."
+##
+
+<Else>
+
+[Ranmaru: Evil, mouth open / cara91-40]
+{SE: Accent21-1}
+#Message#
+"I didn't intend to harm you, Sara... Believe me."
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"And I sprayed steam! I've got zero human qualities!"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Is that all?
+Ah, I see
+##
+
+<それだけか？>
+
+{Sara} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent40-1}
+#Message#
+"Is that all, Ranmaru...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Urgh..."
+##
+
+[Ranmaru: Hand on face, looking to side and glancing toward camera / cara91-32]
+#Message#
+\."A... Actually..."
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: Accent28-1}
+#Message#
+"The \C[2]finger\C[0] you found me earlier...
+ was a \C[2]stun gun\C[0] Upgrade Part."
+##
+
+{Sara}
+#Message#
+\.\C[4](I see... And he used that on me...)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Look, I'm sorry, Sara...!"
+##
+
+<なるほどな>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+{SE: Accent40-1}
+#Message#
+"Ah, I see..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, raised-eyebrows smile / cara91-25]
+{SE: Accent21-1}
+#Message#
+\."You can believe me, Sara."
+##
+
+<Choice End>
+
+<Else>
+
+{Ranmaru} [Ranmaru: Evil, mouth open / cara91-40]
+{SE: Accent21-1}
+#Message#
+"And I even sprayed steam...
+ Hell, is anything about me human?"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Is that all?
+Ah, I see
+##
+
+<それだけか？>
+
+{Sara} [Ranmaru: Evil, mouth open / cara91-40]
+{SE: Accent40-1}
+#Message#
+"Is that all, Ranmaru...?"
+##
+
+{Ranmaru} [Ranmaru: Evil, closed mouth / cara91-39]
+#Message#
+\."..."
+##
+
+[Ranmaru: Evil, hands out, mouth open / cara91-42]
+{SE: Accent28-1}
+#Message#
+\."Right... And that \C[2]finger\C[0] you found me...
+ was a \C[2]stun gun\C[0] Upgrade Part."
+##
+
+{Sara}
+{SE: Accent42-1}
+#Message#
+\."I see. So you use that on me..."
+##
+
+{Ranmaru} [Ranmaru: Evil, mouth open / cara91-40]
+#Message#
+\."I didn't intend to harm you... Believe me."
+##
+
+<なるほどな>
+
+{Sara} [Ranmaru: Evil, mouth open / cara91-40]
+{SE: Accent40-1}
+#Message#
+"Ah, I see..."
+##
+
+{Ranmaru} [Ranmaru: Evil, closed mouth / cara91-39]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+<Condition End>
+

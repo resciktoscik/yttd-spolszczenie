@@ -1,0 +1,258 @@
+**********Common274********** (ジョーの死)
+{Sara}
+#Message#
+\."Joe... Please... respond..."
+##
+
+#Message#
+\."Open your eyes... Ryoko... your family...
+ You need to go home to them, don't you...?"
+##
+
+#Message#
+\."Let's go... to school together... with Ryoko..."
+##
+
+{N/A}
+#Message#
+\sp[15]clickclickclickclickclickclickclickclickclickclickclick\.\^
+##
+
+#Message#
+\.\C[3]With each press of the button, my heart crumbles.
+##
+
+#Message#
+\sp[15]clickclickclickclickclickclickclickclickclickclickclick\.\^
+##
+
+#Message#
+\.\C[3]Like I'm pounding my heart with a hammer.
+##
+
+#Message#
+\sp[15]clickclickclickclickclickclickclickclickclickclickclick\^
+##
+
+#Message#
+\sp[15]clickclickclickclickclick\.\.\^
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."Just stop, Sara..."
+##
+
+[Keiji: Stern / cara2-3]
+#Message#
+\."It's enough..."
+##
+
+{Sara}
+#Message#
+\."Waaaaaaaaaa... aaahhh...!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Eheehee, how cute you are even when you cry."
+##
+
+#Message#
+\."You were so close! It might have stopped
+ with just a little more. Ahaha...!"
+##
+
+{Sara}
+#Message#
+\."...Aaah... *sniffle*..."
+##
+
+#Message#
+\."Y... You're horrible...
+ As if you ever intended to... let me save him..."
+##
+
+{Miley}
+#Message#
+\."It's nothing to cry about, is it?
+ Your hard work let Jou Tazuna live just a bit longer."
+##
+
+{SE: shock1}
+#Message#
+\.\C[10]"With each button press of yours,
+ Joe suffered longer. Eheehee... Ahaha...!"
+##
+
+{Sara}
+#Message#
+\."...................."
+##
+
+{Miley}
+#Message#
+\."Ah... how boring.
+ Have you been broken?"
+##
+
+#Message#
+\."Oh, very well.
+ I have no time to spare for you."
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+\.\C[10]"For Kai Satou, you are the main event."
+##
+
+{Kai}
+#Message#
+"Unfortunately, I will not let you do as you wish."
+##
+
+[Kai: Holding up bleeding wrists / cara8-8]
+#Message#
+\."I will issue... my own death."
+##
+
+{Miley} [Miley: Angry / cara14-4]
+#Message#
+\."Y... You!! What selfishness...!!"
+##
+
+#Message#
+\."The knife from the kitchen?!
+ As if I'll allow you suicide..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\.\{\{"HRAAAAAAAAAAAAAAAHHH!!!!"
+##
+
+{Miley} [Miley: Angry / cara14-4]
+#Message#
+\."Graaah!!"
+##
+
+#Message#
+\."Dammit...!! Get off!! You idiot brute...!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Like hell!! I wouldn't let go if ya killed me!!"
+##
+
+{Miley} [Miley: Angry / cara14-4]
+#Message#
+\."Dammit...!! I can't... activate the device..."
+##
+
+{Kai} [Kai: Holding up bleeding wrists / cara8-8]
+#Message#
+\."Miss Sara. ...Can you hear me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Joe... I... this...)
+##
+
+{Kai} [Kai: Holding up bleeding wrists, shouting / cara8-10]
+#Message#
+\."Listen to me! Sara!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+{Kai} [Kai: Holding up bleeding wrists / cara8-8]
+#Message#
+\."This is... resistance."
+##
+
+#Message#
+\."Our lives toyed with to our enemy's whims,
+ we are unable to save even a single person..."
+##
+
+#Message#
+\."As we die off, this is... my feeble... resistance."
+##
+
+[Kai: Holding up bleeding wrists, smile / cara8-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But it is one large step... toward counterattack...!"
+##
+
+#Message#
+\."It is a step I was able to take...
+ because you bought me time."
+##
+
+#Message#
+\."It is surely... not futile."
+##
+
+#Message#
+\."I entrust them to you...!"
+##
+
+#Message#
+\."Our regrets...!! Our hopes...!!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."I... am satisfied."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Kai...!! KAI...!!!!!!"
+##
+
+{N/A}
+#Message#
+\."Tazuna, wasn't today your birthday?"
+##
+
+#Message#
+\."Huh? Good memory, Chidouin!
+ And hey, didn't I say "Joe" was fine?"
+##
+
+#Message#
+\."Then you should call me Sara, yourself.
+ Have this, Joe."
+##
+
+#Message#
+\."Waugh! What the heck, it's so cute!!
+ It's a... dog keychain?"
+##
+
+#Message#
+\."My friend Ryoko won it at an arcade.
+ You can take it."
+##
+
+#Message#
+\."Then I'll wear it here 'til graduation!"
+##
+
+#Message#
+\."That long? ...Don't get it confiscated."
+##
+
+#Message#
+\."Thanks, Sara!"
+##
+

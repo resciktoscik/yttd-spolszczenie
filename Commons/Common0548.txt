@@ -1,0 +1,553 @@
+**********Common548********** (⑧進展●トドメ)
+{Sara}
+#Message#
+\.\C[4](Have I... finally found it?)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](The discrepancy other than the injury on her hand...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](The border line... between the fake and real...!!)
+##
+
+#Message#
+\."...Reko. Let me confirm just one thing."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."W-What is it...?!"
+##
+
+{Sara}
+#Message#
+\."This "\rb[Sa,3]\rb[mu,6-]\rb[rai,Rai] \rb[On,ON-]\rb[na,7]" song...
+ Is that a song by your band?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Obviously!! I only sing my own songs!"
+##
+
+[Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."It's the ultimate song, named for my old band,
+ \rb[Sa,3]\rb[mu,6-]\rb[rai,Rai] \rb[Ya,8]\rb[i,1]\rb[ba,8]!!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Alice... You noticed."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Huh...?"
+##
+
+{Sara}
+#Message#
+\."Please... read this."
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."W-What's that scrap of paper...?!"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+\."...! This is..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."An article on... Samurai Yaiba's breakup!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Don't be stupid! Of course I remember this!
+ It's from after Alice was arrested...!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Yes, but what you don't remember...
+ are the wounds that this left on your heart!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...My heart...?!"
+##
+
+{Sara}
+#Message#
+\."Reko... Alice's arrest came as a shock to you!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."So much so... that you couldn't sing
+ your band's songs anymore...!"
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."...I... couldn't sing...?!"
+##
+
+{Sara}
+#Message#
+\."Read it, please!
+ It says it right in the article!"
+##
+
+#Message#
+\."Alice was a member in your previous band, right?"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...Indeed."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."That's why you couldn't do it anymore!"
+##
+
+#Message#
+\."Reko couldn't sing songs
+ that reminded her of her brother!!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."And yet... you proudly sang for me
+ a song from your old band!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."What's the meaning of this?!"
+##
+
+{Sara}
+#Message#
+\."This is what Ranger said."
+##
+
+#Message#
+\."The AI memories are updated regularly every 6 months,
+ and \C[2]personality every 3 years\C[0]..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."And only memory could be
+ brought up to date at any time."
+##
+
+{Reko}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."So I'm sure you do have
+ the memory of your band's breakup..."
+##
+
+#Message#
+\."But... your personality only got refreshed
+ once every three years!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If the last update was
+ over 2 and a half years ago, then...!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."It would be... before my murder case!"
+##
+
+{Sara}
+#Message#
+\."That's right!"
+##
+
+#Message#
+\."Before the incident that made Reko unable to sing,
+ forcing the band to break up!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Stop it...!"
+##
+
+{Sara}
+#Message#
+\."In other words..."
+##
+
+#Message#
+\."Your personality remains a time capsule
+ of Reko Yabusame from three years ago!!"
+##
+
+{Reko}
+#Message#
+\.\sp[15]"I... I'm..."
+##
+
+#Message#
+\.\sp[15]"I'm... real..."
+##
+
+#Message#
+\.\sp[15]"A fake...? A doll...?"
+##
+
+#Message#
+\.\sp[15]"Wrong....!! That's wrong!!"
+##
+
+#Message#
+\.\{"I'm real...!!"
+##
+
+#Message#
+\.\{"Because...!"
+##
+
+#Message#
+\.\{"I...!!"
+##
+
+#Message#
+\.\{"I'm alive...!!"
+##
+
+#Message#
+\.\{"My memories...!!"
+##
+
+#Message#
+\.\{"My feelings...!!"
+##
+
+#Message#
+\.\{"Overcoming their deaths...!!"
+##
+
+#Message#
+\.\{"My pain...!!"
+##
+
+#Message#
+\.\{"All of us helping each other..."
+##
+
+#Message#
+\.\sp[15]"Was it all... a program...?"
+##
+
+#Message#
+\.\sp[10]"Am I... a fake...?"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Accent28-1}
+#Message#
+\."Ahh, yep. You're a fake."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."...!"
+##
+
+{Reko} [Reko: Hands out, running makeup, scowl / cara6-16]
+#Message#
+\."L... Like hell!!"
+##
+
+#Message#
+\."That can't be right!! It ain't possible...!!"
+##
+
+[Reko: Hands out, running makeup, shout / cara6-18]
+#Message#
+\."Once you say that shit...!!
+ I just gotta admit it, don't I?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."What else didja want me to do?
+ The concept for the Room of Lies was
+ "once you see through it, it's over," okay?"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."I-I'm still half-believing...
+ That Reko is a doll?"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Reko... no, the fake...
+ was a ruse... meant to deceive us...?"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Accent21-1}
+#Message#
+\."Hmm... Wouldn't quite say that."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."The fake just really thinks she's Reko.
+ That's what a copy is!"
+##
+
+{Reko} [Reko: Hands out, running makeup, closed teeth / cara6-17]
+#Message#
+\."Th... then I'm... really..."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."...I'll explain it for ya."
+##
+
+#Message#
+\."First up, you bastards reasoned right! It was the
+ real Reko who broke Kazumi Mishima's monitor."
+##
+
+#Message#
+\."Seems Keiji and Nao witnessed it."
+##
+
+#Message#
+\."Day broke, and the real Reko went with Sara
+ into the Room of Lies."
+##
+
+#Message#
+\."Sensing danger, Sara grabbed the real Reko's hand,
+ but unfortunately, Reko got caught."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."And the one who came out was the fake Reko."
+##
+
+#Message#
+\."After that, it was the fake waltzing around...
+ But there were two problems."
+##
+
+#Message#
+\."First was that the memory updates hadn't caught up."
+##
+
+#Message#
+\."Since the real Reko came to the Room of Lies
+ less than a day after breaking the Mishima monitor..."
+##
+
+#Message#
+\."The memory of her smashing it never got put in!"
+##
+
+#Message#
+\."Second was that her last personality update
+ was 2 years and 8 months ago."
+##
+
+#Message#
+\."Seems like her personality changed a fair bit
+ from the shock of her brother Alice's arrest!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Ah well... Not much you can do about that stuff."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Where's the real Reko...?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Who can say? Try the Room of Lies?"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."If you did anything to her... I'll kill you...!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Aww... Already only concerned for the real one?"
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Makes me feel bad for the fake Reko here."
+##
+
+{Reko} [Reko: Hands out, running makeup, closed teeth / cara6-17]
+#Message#
+\."Urk..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."H-Hey... You solved it, right?!
+ Hurry...!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Yes, yes, hurry up!"
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: shock1}
+#Message#
+\.\C[10]"Since it's a fake Reko,
+ I'm sure you can push her without regrets..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."...Th... That..."
+##
+
+{Reko} [Reko: Hands out, running makeup, closed teeth / cara6-17]
+#Message#
+\."W... Wait!! Wait a sec!!"
+##
+
+[Reko: Hands out, running makeup, scowl / cara6-16]
+#Message#
+\."I'm... alive too...!!"
+##
+
+[Reko: Hands out, running makeup, shout / cara6-18]
+#Message#
+\."I don't... wanna die..."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."...Doesn't feel good.
+ Why is she able to cry, too...?
+ She's basically a human at this point..."
+##
+
+{Reko} [Reko: Hands out, running makeup, shout / cara6-18]
+#Message#
+\.\{"Help me...!! Guys!!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Is this... part of the emotion program, too?"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Ahahaha! You got it!"
+##
+
+{Kanna} [Kanna: Angry shout with tears (lightless eyes) / cara3-15]
+#Message#
+\."Awful... Awful!!
+ Isn't this just too cruel...?!"
+##
+
+#Message#
+\."If she has a heart... and feelings...
+ She's no different from a human!!"
+##
+
+#Message#
+\."She's not a fake at all...!
+ She's another Reko! She's alive...!!"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: shock1}
+#Message#
+\.\C[10]"If you think so... Just sacrifice Gin."
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Sara!! Make it quick!!"
+##
+
+#Message#
+\."It's... just a doll, y'hear?!
+ Can't be more important than a real human!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What now?! What do I do...?!)
+##
+
+{Reko} [Reko: Hands out, running makeup, scowl / cara6-16]
+#Message#
+\."Sara! Stop it...!!"
+##
+
+#Message#
+\."I... I thought you were my friend...!!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I just have to make a decision...!!)
+##
+

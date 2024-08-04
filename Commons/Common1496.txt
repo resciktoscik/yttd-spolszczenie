@@ -1,0 +1,18 @@
+**********Common1496********** (⑥アリスB選択)
+{N/A}
+#Message#
+"Hmph! Give some thought to her feelings, you fools!
+ It'll give a good impression to be quiet and listen!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,84 @@
+**********Common780********** (ｿｳ「…」)
+{Sou}
+#Message#
+".........."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"...Don't bother me."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"...I'm thinking right now. Don't bother me."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou is hardly saying anything...)
+##
+
+#Message#
+\.\C[4](I can't read his thoughts!)
+##
+

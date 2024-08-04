@@ -1,0 +1,17 @@
+**********Common1025********** (①ハヤサカB選択)
+{N/A}
+#Message#
+"Let's search for something to use as a weapon..."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

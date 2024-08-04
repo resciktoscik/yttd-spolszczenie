@@ -1,0 +1,245 @@
+**********Common387********** (１－昼後イベント)
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent28-1}
+#Message#
+\."Wooooof! It hurts, meow..."
+##
+
+{Sara}
+#Message#
+\."W-What's wrong, Gin?!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."The two of us went and did an attraction,
+ but I couldn't quite protect him..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Big sis Sara! I-I'm okay, meow! Just a scratch, woof!"
+##
+
+{Sara}
+#Message#
+\."But... you're bleeding!"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."I can lick it better, woof..."
+##
+
+{Keiji} [Keiji: Left arm down, frown / cara2-11]
+#Message#
+\."Would be nice to have somewhere to care for wounds..."
+##
+
+{Voice}
+#Message#
+\."Er..."
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+{SE: Accent28-1}
+#Message#
+\."Would you like to go to... the medical office?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."W-What do you want?! Scram, woof!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."B-But... It wouldn't be good if
+ the wound was left to fester..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."You've got no right to be worrying over me,
+ melon soda lady! Meow!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."*sniff*... Medical treatment for participants
+ is just part of my job, you see..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hmm, can't exactly believe you that easily."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Or are you willing to take a vow, Safalin?"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."I... I vow that I will cause him no harm...
+ I won't go back on my word."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Hmm."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Can't trust her, woof! I'd be mad if she
+ remodeled my body into some weird superhuman, meow!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hey, that sounds kinda cool."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."YOU do it if you want it that much, meow!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."I won't force it upon you, but...
+ I definitely do think you should get treatment..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What to do...?)
+##
+
+#Choice#
+Trust Safalin
+Don't trust Safalin
+##
+
+<ハンナキーを信じる>
+
+{Sara} [Safalin: Default frown / cara15-1]
+{SE: Accent28-1}
+#Message#
+\."Let's try trusting Safalin."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Big sis Sara! Are you serious, meow?!"
+##
+
+{Sara}
+#Message#
+\."Yeah. If she's about to do something bad,
+ Keiji and I will protect you."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Sounds good to me."
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Eheheh, thank you very muchhh..."
+##
+
+<ハンナキーを信じない>
+
+{Sara} [Safalin: Wide smile / cara15-4]
+#Message#
+\."I can't trust Safalin."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."*sniffle*..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."But I'll have you guide us to this medical office."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."...Aha. If there really is a medical office,
+ then we can handle the treatment ourselves."
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Yes! If that's fine with you..."
+##
+
+<Choice End>
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Please, follow me this way."
+##
+
+[Safalin: Wide smile / cara15-4]
+{SE: Accent21-1}
+#Message#
+\."This is the medical office."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."What's this place, meow?!
+ Does it lead outside, woof?!"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Ahh... no, everything you see as "outside"
+ is an image protected on the glass cabinets."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."An image...?"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+{SE: flash-of-light-3}
+#Message#
+\."Yes! Currently, we're displaying
+ a soothing tropical scene! How do you like it?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Huh... You're right, it does feel nice.
+ Feels like the AC's tuned just right for it, too."
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+{SE: Accent28-1}
+#Message#
+\."Eheheh, how observant.
+ I actually manage this room myself...
+ It serves as a laboratory as well..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Err... So can we heal Gin?"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Ah... yes...
+ The medical supplies are over here..."
+##
+

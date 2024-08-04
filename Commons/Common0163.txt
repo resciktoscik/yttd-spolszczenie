@@ -1,0 +1,231 @@
+**********Common163********** (1stﾒｲﾝ 議題①ｱﾘｽ逆恨み)
+{Q-taro}
+#Message#
+"...Think we jus' gotta choose the most suspicious,
+ least cooperative person here."
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"I've already settled on my pick..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Huh...?!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Curse me if you wanna! I..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Gonbee!!
+ I'm votin' fer you!!"
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\sp[20]".........."
+##
+
+[Alice: Default glare / cara11-1]
+{SE: Accent28-1}
+#Message#
+\."What about it?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Say what...?!"
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Mwahaha... Do what you like."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."D... Dumbass! What're you talkin' about?!
+ That means... you'll die!"
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."You're the fools... Just think for a second."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."How do you mean that...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."This vote... shouldn't be focused on one point."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Indeed, this is the preliminary vote.
+ If we were to unanimously vote for Mr. Gonbee..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Gonbee would be our only choice for the final vote..."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Oh man...
+ And if Gonbee is the \C[10]Sacrifice\C[0] or the \C[2]Keymaster\C[0]...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."We're all done feeeeer?!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."It's not as if we freely chose
+ which role cards we got, right?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](We were guided... into picking them up...!)
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."There is a possibility... that the kidnappers
+ granted the least-trustworthy Mr. Gonbee
+ a special role for their own amusement."
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."And now... The chaos ensues!
+ I'll watch closely as you all flail about..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Dammit...!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Whew... This game is
+ even more malicious than I thought."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."If we want to survive, we need to assemble
+ as close to 5 candidates as we can."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."We gotta suspect FIVE people?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]This is... the worst.
+##
+
+#Message#
+\.\C[3]An oppressive air covers the area.
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."Hmph... Already beaten at the first push?"
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."...I'll make a topic for you."
+##
+
+[Alice: Angry shout / cara11-8]
+{SE: flash-of-light-3}
+#Message#
+\."Sara Chidouin, I will vote for you!
+ Have you anything to say back?"
+##
+
+{Sara}
+#Message#
+\."Eh...?!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Hold on!! Sara's like our leader!!
+ What's your basis...?!"
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Haha... Then why don't we discuss
+ whether her actions are suspicious or not?"
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+"I found it suspicious from the word go...
+ How a mere high school girl became a leader."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Sara's almost always acted with others.
+ She couldn't do anything suspicious... right?"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+"Doubting the others is one thing,
+ but doubting Sara?! You're awful...!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Sara! Talk back to him!
+ Gonbee's just got the wrong idea about you!"
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... You sure have a lot of friends..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Have at you, Sara Chidouin...!"
+##
+

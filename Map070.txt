@@ -1,0 +1,14 @@
+=====Map70===== (Scrap②●Smoking Area Hall)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Voice}
+#Message#
+\."WAAAAAAAAAAaaaaah...!!"
+##
+
+{??}
+#Message#
+\.\C[4](That's miss Sara's voice...!)
+##
+

@@ -1,0 +1,123 @@
+**********Common566********** (●居合道一閃)
+#Message#
+\C[3]Now's not the time for attractions.
+##
+
+#Message#
+\C[3]I've already cleared this attraction.
+##
+
+{N/A}
+#Message#
+\C[3][Quick Draw]
+Participants: 2
+Clear Chip Reward: ★★
+Difficulty: Easy
+##
+
+#Message#
+\.\C[3]On the signal, quickly select
+the weapon that gets displayed to attack.
+Defeat the three dolls to win.
+##
+
+#Choice#
+Select partner
+Cancel
+##
+
+<相棒を選ぶ>
+
+#Choice#
+Sou
+Reko
+Nao
+Cancel
+##
+
+<ソウ>
+
+{N/A} [Sou: Mouth open / cara5-1]
+#Message#
+\.Sou Hiyori
+As Sou, you can see the type of weapon
+that will be displayed in advance.
+Difficulty: Easy
+##
+
+#Choice#
+Partner with Sou
+Reselect
+##
+
+<ソウを相棒にする>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."...I'll do my best."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<レコ>
+
+{Sou} [Reko: Default / cara6-1]
+#Message#
+\.Reko Yabusame
+As Reko, your intimidation lengthens the time
+between the signal and the enemy's attack.
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Reko
+Reselect
+##
+
+<レコを相棒にする>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Nice, Sara! I'll show you my combat abilities!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<ナオ>
+
+{Reko} [Nao: Mouth open / cara7-1]
+#Message#
+\.Nao Egokoro
+With her observant eye, she can sense
+a premonition 1 second before the signal.
+Difficulty: Easy
+##
+
+#Choice#
+Partner with Nao
+Reselect
+##
+
+<ナオを相棒にする>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Understood! I'll observe like I'm drawing a picture!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

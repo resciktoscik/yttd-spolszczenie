@@ -1,0 +1,76 @@
+**********Common760********** (ﾚｺ「ソウダメ」)
+{Reko}
+#Message#
+"Sou's an absolute no-go!
+ He's the most likely to pull this kinda trick!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Sara! Let's calm down!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Wait, wait! The hell is that about?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"But... I can't choose Nao or Kanna, dammit...!!"
+##
+

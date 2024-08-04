@@ -1,0 +1,110 @@
+**********Common792********** (ｱﾘｽ「死なせたい派」)
+{Alice}
+#Message#
+"Gashu meddled to kill Sou Hiyori,
+ the leader of the escape plot!!"
+##
+
+#Message#
+"Perhaps he sent the \C[10]Sacrifice\C[0] toward
+ someone who he wanted to kill..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"That's not relevant right now, surely!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"A perfect resolutiooooon!!
+ Be grateful, Sara Chidouin!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+"Think about it... Gashu has plenty of reason
+ to hold a grudge toward him."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."By formulating an escape plan...
+ he trampled on his honor as a Floor Master!"
+##
+
+{Sara}
+#Message#
+\."You're talking about...!"
+##
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\.\{"SOU HIYORIIIIIIIIII!!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+

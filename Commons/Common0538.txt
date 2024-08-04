@@ -1,0 +1,381 @@
+**********Common538********** (⑥進展●嘘の間で入替)
+{Sara}
+#Message#
+"This Web of Happiness, that broke apart earlier..."
+##
+
+#Message#
+\."I got this when I went with Reko
+ into the Room of Lies..."
+##
+
+#Message#
+\.\C[4](That's right... I remember.)
+##
+
+#Message#
+\.\C[4](As soon as I took the Web of Happiness...)
+##
+
+#Message#
+\.\C[4](The lights went out...)
+##
+
+{Reko}
+{SE: Damage4}
+#Message#
+\.\{\C[10]"WAAAAAAAAAAAAAAAAAAAAGH!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I heard Reko scream...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](And when I left the room,
+ I was only holding Reko's glove.)
+##
+
+#Message#
+\.\C[4](For just a short time,
+ Reko was by herself in the Room of Lies...!)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](And the Reko that left the room
+ was still wearing gloves on both hands!)
+##
+
+{SE: Accent21-1}
+#Message#
+"That's right...!"
+##
+
+#Message#
+\."At the time she left the Room of Lies...
+ Reko had already been replaced!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Sa... ra...!!"
+##
+
+{Sara}
+#Message#
+\."The lie in the Room of Lies...
+ wasn't just the Web of Happiness."
+##
+
+{SE: Thunder10}
+#Message#
+\."The kidnappers devised it as a trap
+ that would send out a fake to confuse us!!"
+##
+
+{Reko}
+#Message#
+\."...!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I get it... Then there was more to that room
+ than just putting out a dummy item."
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."...Say, Reko, shouldn't you give up soon?"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Or... You don't mean to deny miss Sara, do you...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\.".........."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."...................."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."No, Reko!! Disprove her, please!!"
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."You're wrong... I'm... not a fake..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Ain't there still a huge-ass problem...?!"
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."If you're saying I'm a fake..."
+##
+
+#Message#
+\."Then who the hell am I, really?!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."There's the nine of us here.
+ And even Ranger and Safalin..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."If someone took someone else's place,
+ there'd have to be fewer people, right?!"
+##
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+#Message#
+\."True..."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Ranger, please tell us...! Is there any person
+ on this floor we haven't met yet...?"
+##
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+\."Ehh? Got no obligation to tell y'all th..."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...There is not."
+##
+
+[Safalin: Default frown / cara15-1]
+{SE: Accent28-1}
+#Message#
+\."\C[2]No human you haven't met\C[0]
+ will be making an appearance here."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."It can't be...!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Get it now?! If nobody could take my place,
+ then there's no goddamn way there's a fake!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That can't be right!! We were just a step away...)
+##
+
+#Message#
+\.\C[4](But I don't know who this fake really is!)
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."...Sara Chidouin. Cease your doubting."
+##
+
+{Sara}
+#Message#
+\.\C[4](Alice...)
+##
+
+#Message#
+\.\C[4](It's not as if I believe
+ her own brother could mistake her, either...)
+##
+
+#Message#
+\.\C[4](But... no, wait. Sure enough...)
+##
+
+#Message#
+\.\C[4](Am I... uncertain?
+ That maybe, I've had a huge misunderstanding...)
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji is bewildered, too...)
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."If their identity is a person
+ Kanna and everyone has already met, then..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+{SE: horror_piano chord3}
+#Message#
+\."You don't mean... it's one of the victims...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Ridiculous...!)
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."But... but...!!
+ If we worry over this any more, Gin will...!!"
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."We need to drop the fake!!"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."...Nao."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If I'm a fake, Sara could be a fake too, y'know?"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Eh...?!"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Didn't she say it earlier?
+ Me and Sara went in the Room of Lies together."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Only I was replaced with a fake...?
+ How can you say that for sure, Nao?!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."I mean...!!"
+##
+
+{Sara}
+#Message#
+\."Nao! Don't give in to her arguments!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Sara! You've chosen Gin over me?!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Dammit... dammit...!!
+ I can't believe this shit... I trusted you!!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Don't be fooled, Nao...! Sara's trying to trick you
+ so the two of you can push me down!"
+##
+
+{Sara}
+#Message#
+\."You aren't Reko!!
+ You're a fake!!"
+##
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."Don't be absurd!! That's the real Reko!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Err... ummm...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Nao, please!! It's riding on you!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."*pant*...! *pant*...! *pant*...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](The fake is appealing to Nao to protect herself...!)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](In that case...
+ We have to have a fair and square discussion!!)
+##
+
+#Message#
+\."Reko... Let's talk one-on-one."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Sara...!!"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."I challenge you...! If I'm mistaken...
+ Cut me down with the blade of logic!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+{SE: sceneswitch2}
+#Message#
+\."Let's do it, Sara...!!
+ I'll open up your clouded eyes!!"
+##
+

@@ -1,0 +1,77 @@
+**********Common758********** (ｹｲｼﾞ「奪うには要ﾒﾀﾞﾙ」)
+{Keiji}
+#Message#
+"You'd need a certain amount of tokens to take
+ the \C[10]Sacrifice\C[0] from Sara in the \C[6]fifth trade\C[0]..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"...Thanks. I'll consider repaying it sometime."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Hmm... Wonder what you meant by that."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+"If you consider the token counts...
+ You'll get your answer."
+##
+

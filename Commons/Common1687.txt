@@ -1,0 +1,97 @@
+**********Common1687********** (※▲ｷﾞﾝ「マイ死に際」)
+{Gin}
+#Message#
+"Baker lady had two guns pointed at her head, meow...
+ She was pale... her gloved hands trembled, woof..."
+##
+
+#Message#
+"And also, baker lady... Her victim video
+ clearly showed her dying, meow..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+"That's the kinda thing they call "inhumane," meow..."
+##
+
+#Message#
+"It... didn't look like a fake video, meow..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: Accent21-1}
+#Message#
+\."But we can't advance if we're scared...
+ So I'll remember it, woof!"
+##
+
+[Gin: Looking to side / cara9-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Baker lady had two guns pointed at her head, meow...
+ She was pale... her gloved hands trembled, woof..."
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."She looked like she was suffering a lot...
+ I felt so bad for her, meow..."
+##
+

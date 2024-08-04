@@ -1,0 +1,133 @@
+=====Map187===== (Final Chapter Part One OP3)
+
+**********Event3********** (kaidan) (7,1)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]At the top of the stairs is a door
+that blends in with the background.
+##
+
+{Sara}
+#Message#
+\.\C[4](Should we go in...?)
+##
+
+#Choice#
+Enter
+Cancel
+##
+
+<入る>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+{SE: Close3}
+#Message#
+\C[3]We opened the door and entered.
+##
+
+{Sara}
+#Message#
+\C[4](It's pitch black... A long passage?)
+##
+
+{Keiji}
+#Message#
+"Everybody okay? Nobody fallen behind?"
+##
+
+{Gin}
+{SE: Accent28-1}
+#Message#
+"I'm fine, meow! Hold on tight to the clothes
+ of the person in front of you, woof!"
+##
+
+{Q-taro}
+#Message#
+"Ahh, 'zat right... Thought my back smarted.
+ So it was Gin's claws!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Reko}
+{SE: Onmtp-Surprise05-1}
+#Message#
+"Gyah?! W-Who's touchin' where they shouldn't?!"
+##
+
+{Kanna}
+#Message#
+"S-Sorry! It's Kanna..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Reko}
+#Message#
+"I-Is somebody near me...?
+ Ah! Is this Gin?"
+##
+
+{Keiji}
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Err... Nope, it's Mr. Policeman..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Alice}
+{SE: Accent21-1}
+#Message#
+"Hm...? Hey, you lot!
+ I've found a washtub of some sort..."
+##
+
+{Kanna}
+{SE: Onmtp-Surprise05-1}
+#Message#
+"Aaah...! That's Kanna's bucket!
+ Please give it back...!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Alice}
+{SE: sceneswitch2}
+#Message#
+"Mwahaha... Are you lot unsuited to such darkness?"
+##
+
+{Gin}
+#Message#
+"Guess the guy who locked himself in a locker
+ would be an authority, meow."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Ah...! I can see a faint light!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"What is that...?"
+##
+

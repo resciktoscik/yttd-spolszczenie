@@ -1,0 +1,183 @@
+**********Common133********** (ﾅｵ「先生の為に悲しむ」)
+{Nao}
+#Message#
+"Seeing that happen to Professor Mishima...
+ I was sad...! It hurt...!!"
+##
+
+#Message#
+\."I... certainly lost sight of myself...
+ But I've done nothing suspicious."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+"What the hell is that?! That won't work on me!"
+##
+
+{Player}
+#Message#
+(Shoot...! That was a mistake!)
+
+
+* HP decreased
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I don't understand what you're getting at, Sara!"
+##
+
+{Sara}
+#Message#
+\C[4](Oof... That didn't go well.)
+##
+
+{Nao}
+#Message#
+"I don't understand what you're getting at, Sara!"
+##
+
+{Sara}
+#Message#
+\C[4](Oof... That didn't go well.)
+##
+
+{Nao}
+#Message#
+"I don't understand what you're getting at, Sara!"
+##
+
+{Sara}
+#Message#
+\C[4](Oof... That didn't go well.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+"The pain... You all couldn't understand it...!"
+##
+
+[Nao: Wide eyes, mouth open / cara7-2]
+{SE: Accent28-1}
+#Message#
+"Sure enough... with all the box trouble...
+ I must have made you all suspect me..."
+##
+
+{Sara}
+#Message#
+\."That's just how much you respected Professor Mishima."
+##
+
+#Choice#
+Who did you vote for, Nao?
+How did you feel then?
+Were you always watching the box?
+##
+
+<あの時　ナオさんは誰に投票を？>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."K... Keiji had us refrain from
+ mentioning that, didn't he...?"
+##
+
+{Keiji}
+#Message#
+\."Sure did. Your friendly policeman
+ thinks there was no meaning to that vote."
+##
+
+#Message#
+\."If you can't grab at anything decisive...
+ Don't inquire into it, Sara."
+##
+
+<あの時　どんな感情だったんですか？>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."S... Seeing that happen to Professor Mishima...!"
+##
+
+#Message#
+\."I was sad...! It hurt...!!
+ I didn't want to believe it was reality...!!"
+##
+
+{Sara}
+#Message#
+\."...Anything else?"
+##
+
+{Nao}
+#Message#
+\."Huh...?
+ Is there something odd about what I said?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Something is bugging me...)
+##
+
+#Message#
+\.\C[4](Wasn't she curious about
+ who voted for Professor Mishima...?)
+##
+
+<箱はずっとナオさんが管理を？>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."I believe... I was with him the whole time."
+##
+
+#Message#
+\."I felt somewhat faint, like I was dreaming...
+ so I don't remember perfectly, but..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Like she was dreaming...?
+ Is it possible she fell asleep holding the box?)
+##
+
+<Choice End>
+

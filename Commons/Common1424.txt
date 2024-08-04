@@ -1,0 +1,18 @@
+**********Common1424********** (③アリスB選択)
+{N/A}
+#Message#
+"I can't think with this noise...! Very well,
+ I'll locate the source with my sharp senses!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

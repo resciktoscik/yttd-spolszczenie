@@ -1,0 +1,79 @@
+**********Common1765********** (●Q「概要」)
+{Q-taro}
+#Message#
+"The Dummies and \N[4]...
+ That group of seven's got one \C[2]human\C[0] in the mix!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"The Coffin Control System's got a color-code.
+ \C[12]Blue: human, \C[10]red: doll, \C[6]yellow: vacant\C[0]..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."And \C[12]Blue 1, \C[10]Red 6, \C[6]Yellow 0\C[0]...
+ If that's what was in the coffins at game start..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+\."It's clear as day... There's a \C[12]human\C[0] in the mix!"
+##
+

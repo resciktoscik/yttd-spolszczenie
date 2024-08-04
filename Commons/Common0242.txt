@@ -1,0 +1,125 @@
+**********Common242********** (ｹｲｼﾞ「ルールわかる？」)
+{Keiji}
+#Message#
+"If you want to review the rules, ask me anytime."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Sara, this isn't really the time
+ to be handing me this, now is it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Err... Take some deep breaths, Sara."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."It's okay, you can get through this dilemma.
+ Just keep a cool head."
+##
+
+{Sara}
+#Message#
+\.\C[4](Right...!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Want me to confirm the card roles for you?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."If the \C[2]Keymaster\C[0] is chosen as the victim,
+ everybody perishes."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."If the \C[10]Sacrifice\C[0] is the victim, the \C[10]Sacrifice\C[0] wins.
+ They can escape with one person they like...
+ but the rest perish."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."If the victim is a \C[4]Commoner\C[0] or the \C[3]Sage\C[0],
+ everybody's safe. Well, though the chosen person
+ and the \C[10]Sacrifice\C[0] die, of course..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."That's about the long and short of it.
+ It's all in the rulebook."
+##
+
+{N/A}
+#Message#
+\.\C[3]* When selecting items, you can sometimes
+  view a second page by touching the description.
+##
+
+<いいえ>
+
+<Choice End>
+

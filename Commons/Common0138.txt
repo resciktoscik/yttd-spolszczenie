@@ -1,0 +1,129 @@
+**********Common138********** (ﾚｺ「ガサツな男め！」)
+{Reko}
+#Message#
+"Come to think of it! Gin said he found
+ somethin' amazing searching that second floor room!"
+##
+
+#Message#
+"Gin's frightened!
+ And it's you crude-ass men to blame!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"And that's got shit to do with Gin?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"Uhhh... the hell's that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"Uhhh... the hell's that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+"Thing is... he didn't look happy at all..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Was thinking I'd ask about it once he cheered up."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"You say something too, Sara!"
+##
+
+{Sara}
+#Message#
+\."Reko...
+ Can you recall anything in particular that Gin did?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Err, well... hmm..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Ah..."
+##
+
+[Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."Come to think of it! Gin said he found
+ somethin' amazing searching that second floor room!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What exactly was it...?)
+##
+

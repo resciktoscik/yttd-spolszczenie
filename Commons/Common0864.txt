@@ -1,0 +1,87 @@
+**********Common864********** (ｿｳ「投票先知ってた。」)
+{Sou}
+#Message#
+"As much as I contribute...
+ everyone's going to choose me, right...?"
+##
+
+#Message#
+"I guess... it's clear who you'll vote for..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](I shouldn't...)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](I shouldn't...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+"...I'm tired..."
+##
+
+[Sou: Looking down to side, annoyed, tearing up / cara5-22]
+{SE: Accent21-1}
+#Message#
+\."As much as I contribute...
+ everyone's going to choose me, right...?"
+##
+

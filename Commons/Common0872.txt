@@ -1,0 +1,204 @@
+**********Common872********** (マイ)
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+#Message#
+"Our real selves died in the First Trial...
+ We were shown videos of that very moment.
+ ...Unforgivable, huh?"
+##
+
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Eeeee! It's cute little Sara!
+ You're going to chat with me?!"
+##
+
+{Sara}
+#Message#
+\."Not really a chat. I just need your info..."
+##
+
+{Mai} [Mai: Smile / cara92-2]
+#Message#
+\."Oh, like my measurements?"
+##
+
+{Sara}
+#Message#
+\."N-No, I mean regarding the Death Game...!"
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."If you tell me what your type is,
+ then I'll tell you what I know!"
+##
+
+{Sara}
+#Message#
+\."Ehh...?"
+##
+
+#Choice#
+Strong people
+Kind people
+Can't think of anything
+##
+
+<強い人>
+
+{Sara} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent21-1}
+#Message#
+\."Err, uh... Strong people, I guess?"
+##
+
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."I seeeee!
+ People who can support you are great, huh!"
+##
+
+{Sara}
+#Message#
+\."T-That's true."
+##
+
+{Mai} [Mai: Smile / cara92-2]
+{SE: horror_piano chord3}
+#Message#
+\."...But Sara, you're the strongest person
+ in this Death Game, aren't you...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Does she know about the victory rates...?)
+##
+
+<優しい人>
+
+{Sara} [Mai: Smile / cara92-2]
+{SE: Accent21-1}
+#Message#
+\."Err, I guess I'd have to say... Kind people?"
+##
+
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."I totally get that!
+ People who treat you nice are the best, after all!"
+##
+
+{Sara}
+#Message#
+\."Y-Yeah."
+##
+
+{Mai} [Mai: Smile / cara92-2]
+{SE: horror_piano chord3}
+#Message#
+\."...But kind people can't survive here, huh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+<考えつかない>
+
+{Sara} [Mai: Smile / cara92-2]
+{SE: Accent21-1}
+#Message#
+\."Urgh... I can't think of anything."
+##
+
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ahaha! So then your type is just
+ people you end up liking!"
+##
+
+{Sara}
+#Message#
+\."Huh, come to think of it...
+ Maybe it does happen in that order."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: flash-of-light-3}
+#Message#
+\."Gosh, you're too serious, Sara! So cuuute!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Ugh, she's hard for me to handle...)
+##
+
+<Choice End>
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent21-1}
+#Message#
+\."Ah... Sorry if I upset you!
+ Right, you wanted to hear my info!"
+##
+
+[Mai: Smile / cara92-2]
+#Message#
+\."Well, it's about us..."
+##
+
+[Mai: Mouth open / cara92-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Our real selves died in the First Trial."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Mai} [Mai: Smile / cara92-2]
+{SE: sceneswitch2}
+#Message#
+\."And we were shown these Victim Video things...
+ that showed the moment of our deaths."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Mai} [Mai: Mouth open / cara92-1]
+#Message#
+\."Let's be honest... It's unforgivable.
+ That they would do this to us..."
+##
+
+[Mai: Smile / cara92-2]
+#Message#
+\."So... I want to give my all, too...
+ And I want your aid as well, Sara. Please."
+##
+
+{Sara}
+#Message#
+\."O... Okay..."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: flash-of-light-3}
+#Message#
+\."Thank yooou, Sara!
+ We're not a pair, but let's do our best!"
+##
+

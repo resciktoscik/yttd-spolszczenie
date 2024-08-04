@@ -1,0 +1,139 @@
+**********Common958********** (ハンナキーの門番)
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+"Ah, ooh...!! Miss Sara!"
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."Right now, erm...
+ You're not allowed in the Room of Lies..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Seems it'll be hard to retrieve it right now."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+"Uhhhmmm... Miss Saraaa..."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."I'll repeat myself if I must...
+ But the Room of Lies is off-limits..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."She's not giving us an opening."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+"...Now!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+"Please stop it, miss Saraaa!"
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."The Room of Lies is off-limits! You caaan't!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."That was a good move, though..."
+##
+
+{Sara}
+{SE: flash-of-light-3}
+#Message#
+"Now's the time!!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+"Egh!! Miss Sara!!"
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."The Room of Lies is off-limits!! You shall not pass!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Suppose that never-say-die spirit is important..."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+"Ooooogh...! I won't let you come near...!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hrmm... Don't think we've got any time left to play."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+{SE: Accent28-1}
+#Message#
+"Ah... Where are you two headed...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Err... Just felt like telling some lies,
+ so the Room of Lies?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Ah, you can'ttt!"
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."Right now, it's... you're not allowed in..."
+##
+
+{Sara}
+#Message#
+\."Hold on, Safalin. Can you just decide that?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."B... But you see...
+ We can't leave the bodies there any longer..."
+##
+
+[Safalin: Default frown / cara15-1]
+{SE: Accent21-1}
+#Message#
+\."We need to hold a memorial service..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."No buts about it... Let's leave it for later, Sara."
+##
+
+{Sara}
+#Message#
+\."...Understood..."
+##
+

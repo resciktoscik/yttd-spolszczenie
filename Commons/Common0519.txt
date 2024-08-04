@@ -1,0 +1,151 @@
+**********Common519********** (ﾚｺ「身に覚えがない」)
+{Reko}
+#Message#
+"Mishima's monitor...?!
+ I've got no memory of that at all!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I'm telling you I don't remember that, Nao!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."I'm telling the truth!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Their statements are just going around in circles!)
+##
+
+#Message#
+\.\C[4](To break this down...
+ I want someone else's statement...!)
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Quit this stupid culprit-searching!
+ You better not push one of us down in a panic!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Ask for details
+Never mind
+##
+
+<話を詳しく聞く>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Professor Mishima's monitor...
+ ...You say it really wasn't you?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Obviously!!
+ I only found out it was broken way after!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Nao's got it all wrong!
+ This ain't funny!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Is Reko telling the truth?
+ Or is all of it lies...?)
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Believe me, Sara...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Is there a reason she'd have to lie...?)
+##
+
+#Message#
+\.\C[4](...I don't know...)
+##
+
+<話をやめる>
+
+<Choice End>
+

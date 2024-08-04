@@ -1,0 +1,86 @@
+**********Common1718********** (タッチ３)
+{Q-taro}
+#Message#
+"Hinako went "Eh...?" in surprise
+ 'cause she noticed something up with her coffin..."
+##
+
+#Message#
+"Hinako went "What's... this shaking?!",
+ 'cause in her pitch-black coffin,
+ she had to rely on info other than sight."
+##
+
+#Message#
+"Hinako sayin'
+ "You're kidding, right?! No way...! Why me?!"...
+ Seems she couldn't believe what was happenin' to her."
+##
+
+#Message#
+"Hinako started sayin' "This... c..." 'fore she died.
+ Maybe she was gonna say "this can't be happening"..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](Should I have him add this statement...?)
+##
+
+#Choice#
+Add
+Cancel
+##
+
+<加える>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Q-taro, please add that to your statement!"
+##
+
+{Q-taro}
+#Message#
+\."You got it!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro}
+#Message#
+"The talking \N[4] painting!
+ Bettin' it's somethin' simpler than a whole AI!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Should I have him add this statement...?)
+##
+
+#Choice#
+Add
+Cancel
+##
+
+<加える>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Q-taro, please add that to your statement!"
+##
+
+{Q-taro}
+#Message#
+\."You got it!"
+##
+
+<やめる>
+
+<Choice End>
+

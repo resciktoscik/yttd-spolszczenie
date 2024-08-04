@@ -1,0 +1,124 @@
+**********Common123********** (弐の試練のくだり)
+{N/A}
+#Message#
+\C[3]Suddenly, as I looked toward the exit...
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"Dammit! She got us!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou...?)
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Miss Sara... Look at this..."
+##
+
+{N/A}
+#Message#
+\C[3]Sou slowly closed the door to the room.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](There's a message here...!)
+##
+
+{Sou}
+#Message#
+\."Read it, miss Sara..."
+##
+
+{N/A}
+#Message#
+\.\C[3]"The Second Trial ~Practice Round~"
+##
+
+#Message#
+\.\C[3]"This is a practice for the Main Game.
+ The start is signaled by the doll's revival."
+##
+
+#Message#
+\.\C[3]"Follow instructions and hold a majority vote.
+ \C[10]The one with the most votes is to be sacrificed\C[3]."
+##
+
+#Message#
+\.\C[3]"However, this is a practice round.
+ If the votes come to \C[10]a draw\C[3], the game is forfeit."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](What...?!)
+##
+
+{Sou}
+{SE: Accent28-1}
+#Message#
+"\C[10]The Second Trial\C[0]...
+ It's named just like that first one we did..."
+##
+
+{Sara}
+#Message#
+\."We never noticed... this note...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Dammit! It's all 'cause I said to keep
+ the door open in case there was danger...!!"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."...We were clearly led into doing so.
+ This room had an ominous air even before entering."
+##
+
+{Joe} [Joe: Serious look, sweating / cara1-22]
+#Message#
+\."The game's forfeit if it's a draw?
+ Then... don't tell me...!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...If everyone had gotten the same votes...
+ Then there'd be no victim. Is that right?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Y... Yer kiddin' me!
+ S-So he died for nothin'?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](It was an avoidable trap!
+ If we'd just checked the door...!)
+##
+
+#Message#
+\.\C[4](Professor Mishima...)
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](I'm... worried about Nao...)
+##
+

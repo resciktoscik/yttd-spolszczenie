@@ -1,0 +1,162 @@
+=====Map134===== (Kanna's Death)
+
+**********Event1********** (EV001) (3,0)
+-----Page2-----
+{Kanna}
+#Message#
+"Aaaaah...!!"\|\^
+##
+
+-----Page4-----
+{Kanna}
+#Message#
+"Aahh... aahh...!!"\|\^
+##
+
+-----Page6-----
+{Kanna}
+#Message#
+"Waaaaaugh!! Nooooo...!!"\|\^
+##
+
+-----Page8-----
+{Kanna}
+#Message#
+"AAAAAAAAAAAAAAAAAAAAaaaaah...!!"\|\|\^
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Kanna}
+{SE: Paralyze2}
+#Message#
+"Urgh..."
+##
+
+#Message#
+\."My neck... hurts..."
+##
+
+{Safalin}
+#Message#
+\."Just now, Human Flower seeds were injected
+ by your necklace through your body."
+##
+
+{Sara}
+#Message#
+\."Stop, Safalin...!! What are you doing?!"
+##
+
+{Safalin}
+#Message#
+\."Please be at ease...
+ She won't suffer like miss Nao."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Roots will spread through her body... and feeling
+ a comforting numbness... she'll die beautifully..."
+##
+
+#Message#
+\."Now, they will bloom..."
+##
+
+{N/A}
+{SE: Transceiver}
+#Message#
+\C[10]Kanna expired.
+##
+
+{Safalin}
+#Message#
+"...This is how the chosen one meets her end."
+##
+
+#Message#
+\."So long as the flowers don't wilt...
+ her body will always be preserved beautifully..."
+##
+
+{N/A}
+#Message#
+\C[3]Kanna...
+##
+
+#Message#
+\C[3]I'm sorry, Kanna...
+##
+
+#Message#
+\C[3]We needed Sou to escape...
+##
+
+#Message#
+\C[3]I... chose logic...
+##
+
+#Message#
+\C[3]The worst possible choice...
+##
+
+#Message#
+\C[3]I...
+##
+
+#Message#
+\sp[15]\C[10]...I'll kill you...
+##
+
+#Message#
+\.\sp[15]\C[10]Worthless... It's all worthless...
+##
+
+#Message#
+\.\sp[15]\C[10]The Floor Masters... Sara...
+##
+
+#Message#
+\.\sp[15]\C[10]Every one of the riffraff...
+##
+
+#Message#
+\.\sp[15]\C[10]I'll kill every one of you who killed Kanna...!!
+##
+
+#Message#
+\.\sp[15]\C[10]That's right... and first... will be Sara...
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]I wonder where Sou is...
+##
+
+#Message#
+\.\C[3]I searched around, my mind dazed.
+##
+
+#Message#
+\.\C[3]I couldn't save Nao, or Kanna.
+##
+
+#Message#
+\.\C[3]...I don't care.
+##
+
+#Message#
+\.\C[3]I don't want to look at that reality anymore.
+##
+
+#Message#
+\.\C[3]For now... I'll look for Sou...
+##
+

@@ -1,0 +1,3719 @@
+=====Map228===== (⑤Battery Room)
+
+**********Event1********** (zyudenki-EV) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a big machine installed here.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, mouth open / cara91-15]
+{SE: Accent21-1}
+#Message#
+"Is this the charger...?"
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+\."Huh? It's not a drink machine?"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent24-1}
+#Message#
+\."I'm super thirsty! I wanna drink!"
+##
+
+<Condition End>
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."Do they have any hot drinks...?"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."Haha... Don't carelessly start drinking anything..."
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+#Message#
+\.\C[4](A charger.
+ Even if we know how to use it, Kurumada isn't here...)
+##
+
+<Else>
+
+#Message#
+\.\C[4](A charger.
+ Hope Kurumada can get better with this...)
+##
+
+<Condition End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's a big charger installed here.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](According to the manual,
+ this can recharge one person to full charge.)
+##
+
+#Message#
+\."Kurumada..."
+##
+
+#Choice#
+Let's charge his head
+Let's charge his torso
+##
+
+<頭を充電しましょう>
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\."Let's charge his head."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+#Message#
+\."Hang on, Sara... His head's still fine."
+##
+
+[Ranmaru: Hands in pockets, mouth closed / cara91-16]
+#Message#
+\."We should charge the torso, right?"
+##
+
+{Sara}
+#Message#
+\."Oh, right. Well, then..."
+##
+
+<胴体を充電しましょう>
+
+{Sara} [Ranmaru: Hands in pockets, mouth closed / cara91-16]
+{SE: Accent40-1}
+#Message#
+\."Let's charge his torso."
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+\."Alright... Let's connect him like the manual says."
+##
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent41-1}
+#Message#
+\."...No... I'm fine..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+\."Kurumada! Are you still...?!"
+##
+
+<Else>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."W-What're you saying, meow?!
+ If you don't hurry, your battery'll run out, woof!"
+##
+
+<Condition End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."...Just think about it..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: sceneswitch2}
+#Message#
+\."With this battery here...
+ you could extend the others' lives, right...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Eh...?"
+##
+
+<Else>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\.".........."
+##
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+{SE: Accent21-1}
+#Message#
+\."No... I don't need that..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."...Ehh?"
+##
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."You're gonna die, aren't you...?"
+##
+
+[Anzu: Hood over half of face, worried / cara96-12]
+{SE: Accent28-1}
+#Message#
+\."Aren't we allies...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, slight surprise / cara95-29]
+#Message#
+\."..."
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+{SE: Accent21-1}
+#Message#
+\."I don't need such a thing..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."...Ehh?"
+##
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+#Message#
+\."I-I mean... You'll die..."
+##
+
+[Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+{SE: Accent28-1}
+#Message#
+\."We're allies, aren't we?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, slight surprise / cara95-29]
+#Message#
+\."..."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent21-1}
+#Message#
+\."Just hurry up and use it."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."...Ehh?"
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+#Message#
+\."If we lose people, we're that much
+ more likely to be targeted, right?"
+##
+
+[Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent40-1}
+#Message#
+\."So stop saying such tiresome things.
+ ...Why not live?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{N/A}
+{SE: Accent40-1}
+#Message#
+\.\C[3]The Dummies attached Kurumada to the battery.
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada}
+#Message#
+\."...None of you idiots think things through..."
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."Should the guy who got himself injured like this
+ be saying that?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent21-1}
+#Message#
+\."...Hey, Sara. Listen."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{SE: Accent41-1}
+#Message#
+\."If a Floor Master \C[2]meets their doppelganger\C[0]...
+ \C[2]they die\C[0]."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Remember the unique info each of us got to hear...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."...That's mine."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."Heh... Don't even know what it means..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."And besides, what's it matter to me..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Why suddenly bring this up now...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."Hmph... just felt like it..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."'Cept, well..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent28-1}
+#Message#
+\."There goes the value of letting me live... I guess."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."...So you're saying
+ you want us to protect the others?"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Smile / cara96-6]
+#Message#
+\."Huh?! What, what? Is that how it is?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."...Quiet, you..."
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."..."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent21-1}
+#Message#
+\."Kurumada..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."As if... All I'm saying is do as you please..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Heehee..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Haha..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Heh..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Kurumada will be fine now...)
+##
+
+#Message#
+\.\C[4](Now... all that's left is Maple.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](We have to find a way to get downstairs!)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]There's a big charger installed here.
+##
+
+#Message#
+\C[3]There's a big charger installed here.
+##
+
+{Sara}
+#Message#
+\.\C[4](It seems it can also be used as a drink machine...
+ Though it consumes charge from the battery.)
+##
+
+#Choice#
+Give Ranmaru water
+Cancel
+##
+
+<ランマルに水を与える>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"Ranmaru, drink some water."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+"Wait, wha... What's this about now?!"
+##
+
+[Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."I mean... If we use this,
+ it'll use up battery from the charger..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Fine by me. You got an idea, don't ya?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Kurumada..."
+##
+
+[Ranmaru: Hand on face, looking to side, mouth hidden / cara91-35]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: sceneswitch2}
+#Message#
+\."Well, I'll have a ginger ale..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."Only sweet drinks for you, eh..."
+##
+
+{N/A}
+{SE: Accent40-1}
+#Message#
+\C[3]Ranmaru downed a ginger ale.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+"Dang, more acidic than I expected..."
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\."...So now what?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Now... maybe you can use the \C[2]steam spray\C[0]."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+\."Ah, got it...! Let's try it out!"
+##
+
+{Sara}
+#Message#
+\.\C[4](But it's not like we should just casually use it...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](If a good use comes along... we'll try it then.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+\C[3]There's a big charger installed here.
+##
+
+{Sara}
+#Message#
+\.\C[4](It seems it can also be used as a drink machine...
+ Though it consumes charge from the battery.)
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]There's a big charger in the middle of the room.
+##
+
+#Message#
+\C[3]There's a strange machine in the middle of the room.
+##
+
+{Keiji}
+#Message#
+\.\C[4](You don't suppose this is...)
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...That's a charger."
+##
+
+{Keiji}
+#Message#
+\."...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent41-1}
+#Message#
+\."To think it's so huge...
+ but only has enough for one full charge..."
+##
+
+{Keiji}
+#Message#
+\.\C[4](One full charge...?)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](Why does he know that? Don't tell me...)
+##
+
+#Message#
+\."You used it...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: sceneswitch2}
+#Message#
+\."...Yeah."
+##
+
+{Keiji}
+#Message#
+\."...!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Only half, though."
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."What...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."You think I'd hoard it all for myself...? Shit..."
+##
+
+{Keiji}
+#Message#
+\.\C[4](...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](So there's still half...)
+##
+
+{N/A}
+#Message#
+\C[3]There's a strange machine in the middle of the room.
+##
+
+{Keiji}
+#Message#
+\.\C[4](No way... Is this...?)
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]There's a big charger in the middle of the room.
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\.\C[4](I've got the instructions... should be able
+ to hook it up. But I'm sure Kurumada will see...)
+##
+
+#Choice#
+Connect it
+Cancel
+##
+
+<つなげる>
+
+{Keiji}
+{SE: Accent40-1}
+#Message#
+\.\C[4](...No choice...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]Connected \N[4]'s head to the charger.
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, slight surprise / cara95-29]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Huh...? Hey... that's..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."Ain't that \N[4]'s head...?!
+ Did you kill him?!"
+##
+
+{Keiji}
+#Message#
+\."Wrong... This is a doll head, and..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."Don't screw with me!! Then why're you spending
+ precious battery on that thing?!"
+##
+
+{Keiji}
+#Message#
+\."Urgh..."
+##
+
+#Choice#
+Explain the situation
+Buy time
+##
+
+<事情を説明する>
+
+{Keiji} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+"Calm down! I'll explain...!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."We're gonna use the AI-Ceiver, the machine that
+ birthed you guys, to create another \N[4]!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."What... That doesn't make any damn sense!!"
+##
+
+<時間を稼ぐ>
+
+{Keiji} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Now, now... Why don't we talk about this calmly?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+#Message#
+\."Don't talk down to me, bastard!!"
+##
+
+<Choice End>
+
+{N/A} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\C[3]Kurumada crawls closer.
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+"If you make another damn \N[4]...!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."Ain't that making a \C[2]doppelganger\C[0]?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+#Message#
+\."I didn't leave spare charge for shit like that!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."It was for the others...!!"
+##
+
+{N/A}
+#Message#
+\C[3]Kurumada crawls closer.
+##
+
+{Keiji}
+#Message#
+\.\C[4](What should I do?!)
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+#Message#
+"You're tryin' to kill \N[4], aren't you!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."Didn't we save you?!
+ Even my wounds... are 'cause of you!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+#Message#
+\."Even my wounds... I got 'cause of you!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."And yet... you're gonna forsake us?!"
+##
+
+{Keiji}
+#Message#
+\."No! This is just for the banquet...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry / cara95-30]
+#Message#
+\."I know... that's gotta be a lie...!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."Listen to me! Stop that right now!!"
+##
+
+{Keiji} [Mr. Policeman: Hallucination / cara22-99]
+#Message#
+\."Quit it...! Get away!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."You... traitor...!!"
+##
+
+{???}
+#Message#
+\C[10]"Keiji...!!"
+##
+
+{Keiji}
+{SE: horror_piano chord3}
+#Message#
+\."Ah... h..."
+##
+
+{???}
+#Message#
+\.\C[10]"You gonna kill me... again...?"
+##
+
+{Keiji}
+#Message#
+\."T-That's wrong..."
+##
+
+{???}
+#Message#
+\.\C[10]"No it's not. You can't save anyone."
+##
+
+{Keiji}
+#Message#
+\."I-I..."
+##
+
+{???}
+#Message#
+\.\C[10]"All that matters to you is yourself..."
+##
+
+{Keiji}
+#Message#
+\."D-Don't touch me..."
+##
+
+{???}
+#Message#
+\.\C[10]"Murderer..."
+##
+
+{Keiji}
+#Message#
+\."I said don't touch me...!!"
+##
+
+
+**********Event2********** (自動) (1,0)
+-----Page1-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand in front, mouth open / cara94-5]
+{SE: Accent21-1}
+#Message#
+"Sara, could you show me that instruction manual?"
+##
+
+{Sara}
+#Message#
+\."Here you go."
+##
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+#Message#
+\.".........."
+##
+
+[Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: Accent28-1}
+#Message#
+\."Aha! Sure enough, the device there
+ seems to be \C[2]a large-scale charger\C[0]!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+\."Really?!"
+##
+
+{Hayasaka} [Hayasaka: Mouth open / cara94-2]
+{SE: Accent21-1}
+#Message#
+\."Right. And with this manual,
+ we should be able to use it."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent21-1}
+#Message#
+"Hey, Sara... Show me that manual."
+##
+
+{Sara}
+#Message#
+\."Sure... here you go."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+{SE: Accent28-1}
+#Message#
+\."Ah... Sure enough, seems that device there
+ is \C[2]a large-scale charger\C[0]."
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+\."Really...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, mouth open / cara91-15]
+{SE: Accent21-1}
+#Message#
+\."Yep. And it should be usable with this manual."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: flash-of-light-3}
+#Message#
+\."Alright! Now we just have to bring the guy!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Now we just have to bring Kurumada here...!)
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+\."Let's go look for him, meow!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+"Hey, miss Sara, could you show me that manual?"
+##
+
+{Sara}
+#Message#
+\."S-Sure."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."...Tch..."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\.".........."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."Bingo... Sure enough, it seems that device there
+ is a \C[2]large-scale charger\C[0]."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+\."Really...?!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."And with this manual handy,
+ we should be able to use it."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, slight surprise / cara95-29]
+#Message#
+\."You... for real...?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Trust me, I'm no good at lying... Ahaha."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent40-1}
+#Message#
+\."Sorry to say, but it seems you'll be saved...
+ Good for you."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+-----Page3-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Um, Kurumada..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."Please, stay behind here."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."What're you... saying now, brat...?"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."...You can't try to hide it."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: sceneswitch2}
+#Message#
+\."Those shocks put you in a bad way again..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\.".........."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."If you stay here, you can charge at any time...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent21-1}
+#Message#
+\."...Fine."
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."Eh...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent28-1}
+#Message#
+\."...Don't die, Kanna."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent24-1}
+#Message#
+\."Right...!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+"You got a sec...?"
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: Accent41-1}
+#Message#
+\."Don't you think it's best
+ we have our encumbrance stay here?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."You lookin' at me when you say that...?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."I'm doing you a kindness."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."I can tell from your movements
+ how much that game just now wore you down."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You'd just be a hindrance bringing you along..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\."...Fine."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent28-1}
+#Message#
+\."To think I'd be gettin' sympathy from you..."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\.".........."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\.\C[4](That's right... We have the \C[2]transceivers\C[4].)
+##
+
+#Message#
+\."Kurumada, please hold onto one of these."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."Hm...?"
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Gave Kurumada one of the Transceivers.
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\."Aha... So I can keep in contact with this."
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: flash-of-light-3}
+#Message#
+\."Drop us a line if anything happens...
+ We're counting on you, haha..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."What am I, a fisherman...?
+ ...Whatever, just get goin'."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+#Message#
+\."I'll call if anything comes up.
+ ...Get goin'."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+-----Page5-----
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+"...!"
+##
+
+#Message#
+\.\C[4](That's Kurumada...?)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Is he... dead?)
+##
+
+
+**********Event3********** (tana-EV) (1,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There are drawers on the desk.
+##
+
+#Choice#
+Open
+Cancel
+##
+
+<開ける>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+{SE: Open1}
+#Message#
+\C[3]There are documents inside.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."What's this? Some kind of instruction manual?"
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained the Charger Instruction Manual.
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent21-1}
+#Message#
+\."Myah! It's all about the charger, meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Which means... the charger should be in here...)
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent28-1}
+#Message#
+\."Huh? What's that note in the back, meow?"
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained some kind of note.
+##
+
+#Message#
+\.\C[3]It says "Game Start: Blue 1, Red 6, Yellow 0."
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\.\C[4](What could this be?
+ Doesn't seem related to the charger...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's nothing in the drawers.
+##
+
+
+**********Event4********** (tobira-EV) (15,12)
+-----Page1-----
+{Sara}
+#Message#
+\C[4](For now... I'll follow Hinako...)
+##
+
+{N/A}
+#Message#
+\C[3]The door seems to open easily.
+##
+
+{Sara}
+#Message#
+\.\C[4](There could be a trap involved...
+ I want to search this room first.)
+##
+
+{N/A}
+#Message#
+\C[3]The door seems to open easily.
+##
+
+#Choice#
+Open
+Cancel
+##
+
+<開く>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](So these places are connected...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The door seems to open easily.
+##
+
+
+**********Event6********** (EV006) (7,5)
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's a transceiver on the table.
+##
+
+#Message#
+\C[3]The transceiver we gave Kurumada.
+##
+
+
+**********Event11********** (説明書の棚) (13,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There are papers scattered around.
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Hm? Well now, aren't these...)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained the Charger Instruction Manual.
+##
+
+{Keiji}
+#Message#
+\.\C[4](I'll try not to step on these...)
+##
+
+
+**********Event12********** (kurutaore-EV) (5,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Kurumada is lying on the ground.
+##
+
+{Keiji}
+{SE: horror_piano chord3}
+#Message#
+"Ah..."
+##
+
+#Message#
+\."...Did I..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Kill him...?"
+##
+
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, sad, mouth open / cara95-38]
+{SE: Accent21-1}
+#Message#
+\.\SP[15]"Please... Keiji..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, sad, clenched teeth / cara95-37]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\SP[12]"Don't... forsake... them..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, sad, crying / cara95-39]
+#Message#
+\.\SP[10]"Plea... se..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, crying, powered off / cara95-40]
+#Message#
+\.\SP[8]".........."
+##
+
+{Keiji}
+#Message#
+\C[4](Guh...!!)
+##
+
+{SE: Accent43-1}
+#Message#
+\.\C[4](I wouldn't... forsake anyone...!)
+##
+
+
+**********Event14********** (kurusuwari-EV) (9,11)
+-----Page1-----
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+"Do something about that damn woman downstairs..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Please stay put, Kurumada."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."I know, dammit..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+-----Page2-----
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+"The hell... Ain't the time to worry about me, is it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems he's talking more.)
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Sara} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent21-1}
+#Message#
+"How are you feeling?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."...Not too terrible."
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems he's charging up well...)
+##
+
+<灯ろうを使う>
+
+{Sara} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+"Kurumada, please look at this lantern."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+#Message#
+\."...Hah. Sorry to say, but I can't see too well."
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder if his eyes took some damage too...)
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, slight surprise / cara95-29]
+#Message#
+"The hell's... goin' on..."
+##
+
+-----Page5-----
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+"Anything happens, I'll call on the transceiver..."
+##
+
+
+**********Event15********** (kurayamihe-EV) (4,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a passage in the darkness.
+##
+
+#Choice#
+Proceed
+Cancel
+##
+
+<進む>
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's a passage in the darkness.
+##
+
+{Sara}
+#Message#
+\.\C[4](Nothing more to do here.)
+##
+
+
+**********Event37********** (kinnko-EV) (7,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a safe on the floor.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Huh? This has a place for a card, too...)
+##
+
+#Choice#
+Use the ID card
+Cancel
+##
+
+<IDカードを当てる>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]There's a photo inside.
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."Eh...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"What's that? A photo...?"
+##
+
+{Sara}
+#Message#
+\."Um... isn't this..."
+##
+
+{Reko}
+#Message#
+"..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Wha...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]The woman in the photo... It's clearly...
+##
+
+{Reko}
+#Message#
+\."A... Ain't this me?!"
+##
+
+#Message#
+\."The hell is this?! When was this taken...?!"
+##
+
+{Sara}
+#Message#
+\."This photo..."
+##
+
+#Choice#
+You don't remember it?
+Why is it here...?
+##
+
+<覚えが無いんですか？>
+
+{Sara} [Reko: Mouth open / cara6-2]
+{SE: Accent40-1}
+#Message#
+"You don't remember it?"
+##
+
+{Reko}
+#Message#
+\."H-Hell no...!"
+##
+
+<なぜこんな所に…？>
+
+{Sara} [Reko: Mouth open / cara6-2]
+{SE: Accent40-1}
+#Message#
+"Why is it here...?"
+##
+
+{Reko}
+#Message#
+\."H-How should I know...!"
+##
+
+#Message#
+\."I mean... I don't even remember it being taken!"
+##
+
+<Choice End>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Ah... well... I know the place, though..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's a local cafe.
+ Used to go there often with a band member..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Who could have taken this photo...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"...C-Creepy as shit, man..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent21-1}
+#Message#
+\."Let's use this light to look around more, meow!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Gin switched on the lantern.
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Waaaaaaughhh!!"
+##
+
+{SE: Damage4}
+#Message#
+"The hell do you mean, "false charges"...?!"
+##
+
+{???}
+{SE: electricity1}
+#Message#
+"It was an accident... It's true..."
+##
+
+{Reko}
+{SE: electricity1}
+#Message#
+"Alice... didn't kill him...?!"
+##
+
+{???}
+{SE: electricity1}
+#Message#
+"Don't cry, miss Reko..."
+##
+
+{SE: electricity1}
+#Message#
+\."Our organization... can help you out."
+##
+
+{\N[4]} [Midori: Closed-eyes grin (no collar) / cara19-9]
+{SE: horror_piano chord3}
+#Message#
+"I'm your only ally..."
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Hwaaaaaaahhhhh...!!!!"
+##
+
+{Sara}
+#Message#
+"Reko...!"
+##
+
+#Message#
+\."What in the world is it?! Reko...!"
+##
+
+{Reko}
+{SE: Accent41-1}
+#Message#
+"Did I... really meet him...?"
+##
+
+{Sara}
+#Message#
+\."Huh?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"I... saw \N[4]..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent21-1}
+#Message#
+\."We met in person... and had a talk..."
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Years ago...!!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Big sis Reko..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Why'd I forget?! How could I...?!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+#Message#
+\."Urgh..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Gin... Sorry, but turn that lantern off for me..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When I look into that light... my head hurts..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."R-Right!"
+##
+
+[Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+"Is that okay, meow...?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Yeah... Thanks..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Are these our lost memories?
+Don't overdo it right now
+##
+
+<これが失われた記憶…？>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent40-1}
+#Message#
+"Could these be our "lost memories"...?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...Could be."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I feel like I'm this close
+ to remembering more clearly..."
+##
+
+<今は無理をしちゃダメです>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent40-1}
+#Message#
+"Please get a little rest...
+ Don't push yourself right now."
+##
+
+{Reko}
+#Message#
+\."Sorry 'bout this, Sara..."
+##
+
+<Choice End>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\C[4](...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](What could Reko and \N[4]
+ have possibly talked about...?)
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[4](Maybe... something similar happened to me...?)
+##
+
+<Else>
+
+{Alice} [Alice: Surprised face / cara11-2]
+#Message#
+"Hm? What's this? A photo...?"
+##
+
+{Sara}
+#Message#
+\."Um... isn't this..."
+##
+
+{Alice}
+#Message#
+"..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Ah...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]The woman in the photo... It's clearly...
+##
+
+{Alice}
+#Message#
+\."Reko...?!"
+##
+
+#Message#
+\."What is this?! When was this taken...?!"
+##
+
+{Sara}
+#Message#
+"This photo..."
+##
+
+#Choice#
+You don't remember it?
+Why is it here...?
+##
+
+<見覚えは無いんですか？>
+
+{Sara} [Alice: Surprised face / cara11-2]
+{SE: Accent40-1}
+#Message#
+"You don't remember it?"
+##
+
+{Alice}
+#Message#
+"W... Well..."
+##
+
+#Message#
+\."No... I'm sure I don't... yet...!!"
+##
+
+<なぜこんな所に…？>
+
+{Sara} [Alice: Surprised face / cara11-2]
+{SE: Accent40-1}
+#Message#
+"Why is it here...?"
+##
+
+{Alice}
+#Message#
+"I know not... yet...!"
+##
+
+<Choice End>
+
+{Alice} [Alice: Surprised face / cara11-2]
+#Message#
+\."I do remember the place in this photo..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's a cafe Reko would often visit
+ with one of the band members..."
+##
+
+{Sara}
+#Message#
+".........."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Who could have taken this photo...?"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+".........."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent21-1}
+#Message#
+\."Let's use this light to look around more, meow!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Gin switched on the lantern.
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Hwoohhhhhhh!!"
+##
+
+{SE: Damage4}
+#Message#
+"Explain yourself, you...!!"
+##
+
+{SE: electricity1}
+#Message#
+"Why do you have this photo of Reko?!"
+##
+
+{???}
+{SE: electricity1}
+#Message#
+"Sheesh, what a bother... To think you'd go
+ open up my briefcase while I was out of my seat."
+##
+
+{Alice}
+{SE: electricity1}
+#Message#
+"And not just the one. So, so many photos...!!"
+##
+
+{???}
+{SE: electricity1}
+#Message#
+"...She's a friend.
+ They're simply photos from outings we had..."
+##
+
+{Alice}
+#Message#
+"Then what are all these documents?!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Death Game plans?! Participant lists?!
+ Are all these insane things true?!"
+##
+
+{???}
+{SE: Accent41-1}
+#Message#
+"...Ahhh... you read them all, did you?"
+##
+
+{Alice}
+#Message#
+"Answer me...!
+ What... what are you planning to do to Reko?!"
+##
+
+{???}
+#Message#
+"Now then, how shall I handle your memory of this..."
+##
+
+{Alice}
+#Message#
+\{"Answer me, dammittttt!!"\}
+##
+
+{???}
+#Message#
+"Waaah...!!"
+##
+
+{Alice}
+{SE: feed1}
+#Message#
+"*cough*...!\. *cough*...!"
+##
+
+{SE: feed1}
+#Message#
+\."Oww...!!"
+##
+
+{SE: feed1}
+#Message#
+\."He fell from the second-floor terrace...?!
+ Dammit! Where did he...?!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."...h..."
+##
+
+#Message#
+\."Ah..."
+##
+
+{SE: shock1}
+#Message#
+\SP[10]".........."
+##
+
+#Message#
+\.\SP[15]"...It... can't be..."
+##
+
+#Message#
+\.\SP[10]".........."
+##
+
+#Message#
+\.\SP[7]".........."
+##
+
+{Green-Haired Man}
+{SE: horror_piano chord3}
+#Message#
+\C[10]"That went poorly..."
+##
+
+{Alice}
+#Message#
+\."...?!"
+##
+
+{Green-Haired Man}
+#Message#
+\.\C[10]"An unthinkable mistake... an unamusing mistake."
+##
+
+{Alice}
+#Message#
+\.\SP[12]"Ah... ahhh..."
+##
+
+{Green-Haired Man}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]"I won't forgive you... Alice."
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[10]"My name... is Sou Hiyori."
+##
+
+{Sou Hiyori}
+#Message#
+\.\C[10]"Though... you'll forget it anyhow..."
+##
+
+#Message#
+\.\C[10]"Heeheehee... Ahahaha!!"
+##
+
+{Alice} [Alice: Tired face, closed teeth / cara11-25]
+#Message#
+"You... have to be kidding..."
+##
+
+{Sara}
+#Message#
+\."Alice...!!"
+##
+
+#Message#
+\."What in the world is it?! Alice...!"
+##
+
+{Alice}
+{SE: Accent41-1}
+#Message#
+\."They're all in on it..."
+##
+
+{Sara}
+#Message#
+\."Huh?"
+##
+
+{Alice}
+#Message#
+\."The police, the prosecutor..."
+##
+
+[Alice: Tired face, fist to palm, angry shout / cara11-30]
+#Message#
+\."They're all... connected to Asunaro...!!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."W-What's this all of a sudden, meow?!"
+##
+
+{Alice} [Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."When that incident happened...!
+ \C[2]He didn't even bleed\C[0]...!!"
+##
+
+[Alice: Tired face, clutching chest, angry shout / cara11-32]
+#Message#
+\."It was all twisted... to make me out as a murderer!!"
+##
+
+[Alice: Tired face, angry shout / cara11-28]
+#Message#
+\."I can't... let this stand!!"
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+{SE: Accent43-1}
+#Message#
+\."It wasn't just my own misfortune...!!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: Accent40-1}
+#Message#
+"Stripey..."
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\.".........."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Urk..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Gin... Sorry, could you turn off that lantern...?"
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When I look into its light... my head hurts..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."R-Right!"
+##
+
+[Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+"Is that okay, meow...?"
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."Hmph... I've regained a little composure..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Are these our lost memories?
+Don't overdo it right now
+##
+
+<これが失われた記憶…？>
+
+{Sara} [Alice: Look to side, sad look / cara11-17]
+{SE: Accent40-1}
+#Message#
+"Could these be your "lost memories"...?"
+##
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\.".........."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+{SE: Accent21-1}
+#Message#
+\."I'm unsure...
+ I feel as if there was still... something else..."
+##
+
+<今は無理をしちゃダメです>
+
+{Sara} [Alice: Look to side, sad look / cara11-17]
+{SE: Accent40-1}
+#Message#
+"Please get a little rest...
+ Don't push yourself right now."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."...Alright."
+##
+
+<Choice End>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+\C[4](...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](The one Alice killed...
+ wasn't the \C[2]human \N[4]\C[4]...)
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[4](Then who is the \N[4]
+ we're fighting against now...?)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's an open safe on the floor.
+##
+
+
+**********Event95********** (annzu-EV) (11,12)
+-----Page1-----
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"Hey, um... Are you okay...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](She's checking up on Kurumada...?)
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Sara} [Anzu: Concerned / cara96-4]
+{SE: Accent21-1}
+#Message#
+"How is he, Anzu?"
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+#Message#
+\."His wound's pretty gnarly, but he seems energetic!"
+##
+
+[Anzu: Concerned / cara96-4]
+#Message#
+\."Of course, I'll tell you right away
+ if I find any clues! I won't slack off in my search!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"How is he, Anzu?"
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent28-1}
+#Message#
+\."He kinda seems to be getting better, bit by bit!"
+##
+
+[Anzu: Worried / cara96-2]
+#Message#
+\."He keeps asking "don't you wanna charge?", though..."
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\.\C[4](So Kurumada can be kind to his fellow Dummies...)
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent24-1}
+#Message#
+\."But passing around the same charger
+ feels a little embarrassing..."
+##
+
+{Sara}
+#Message#
+\."...You're the same as ever, Anzu."
+##
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."I... In a good way, right?! Right, Sara?!"
+##
+
+<灯ろうを使う>
+
+{Sara} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+{SE: Accent21-1}
+#Message#
+"Look at this lantern for me, Anzu."
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."N... Nooooo! I'm like, not good with that stuff!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Wha...?! That's her reason?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event102********** (ranmaru-EV) (7,10)
+-----Page1-----
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: Accent21-1}
+#Message#
+"*pant*... *pant*..."
+##
+
+{Sara}
+#Message#
+\."Ranmaru!"
+##
+
+#Choice#
+There you are!
+Where's \N[4]?
+##
+
+<ここにいたのか！>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: se_maoudamashii_magical14}
+#Message#
+"So you were here...!"
+##
+
+<\N[4]は？>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Where did \N[4] go? Did he come here...?"
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."U... Urghhh..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: sceneswitch2}
+#Message#
+\."Hah... Your collar's glowin'."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."This tag shit again, huh...?"
+##
+
+{Sara}
+#Message#
+\."Ranmaru..."
+##
+
+#Choice#
+Let's hurry and look
+You can't give up
+##
+
+<早く探しに行こう>
+
+{Sara} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+"L-Let's hurry and look for him...!"
+##
+
+<諦めちゃダメだ>
+
+{Sara} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+"You can't give up...!"
+##
+
+<Choice End>
+
+{Sara} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."There's no one here but Kurumada...!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Ranmaru...?)
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: sceneswitch2}
+#Message#
+\."...Do it."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: Accent40-1}
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."What're you saying...?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You wanna live, right...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."...I..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."...Our futures..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."I can't see one for me..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+\."But... I can see one for you."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Don't you dare do that!
+Watch silently
+##
+
+<そんな事しちゃダメだ！>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+{SE: sceneswitch2}
+#Message#
+"Don't you dare...! Ranmaru!!"
+##
+
+<黙って見届ける>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+{SE: Accent42-1}
+#Message#
+".........."
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Urgh..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\.".........."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."..."
+##
+
+[Ranmaru: Hand on face, looking down fearfully / cara91-30]
+{SE: Accent21-1}
+#Message#
+\."What am I even doin'...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\.".........."
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking down fearfully / cara91-30]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I know... this is wrong..."
+##
+
+#Message#
+\."I've just lost the courage...
+ to stand against our enemy..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."...Then what're you gonna do?
+ If you beat \N[4], you'll just die..."
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking down fearfully / cara91-30]
+#Message#
+\."I dunno... What should I..."
+##
+
+{Hinako} [Hinako: Default / cara93-1]
+{SE: Accent21-1}
+#Message#
+"I can't stand to watch this..."
+##
+
+{Sara}
+#Message#
+\."Hinako...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+".........."
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Come on. We'll do something about that collar."
+##
+
+
+**********Event107********** (sinikakekuruma-EV) (2,11)
+-----Page1-----
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+"What's up...?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](I'd draw suspicion if I asked him
+ how to use the charger directly...)
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+"If a Floor Master \C[2]meets their doppelganger\C[0]...
+ \C[2]they die\C[0]."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+#Message#
+\."Don't have a clue... what that means, though..."
+##
+
+{N/A}
+#Message#
+\C[3]Kurumada isn't moving at all.
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Am I...)
+##
+
+#Message#
+\.\C[4](...too late?)
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent28-1}
+#Message#
+"...You look like... you're seein' a corpse..."
+##
+
+{Keiji}
+#Message#
+\."...!"
+##
+
+#Choice#
+You're alive?
+You found me...
+##
+
+<生きてたのか>
+
+{Keiji} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent21-1}
+#Message#
+"...You're alive?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."Ahh...? And whose fault
+ do you think it is I'm like this?"
+##
+
+<見つかってしまった…>
+
+{Keiji} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent21-1}
+#Message#
+"...Well, shoot. I've been spotted..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+#Message#
+\."Huh...? Somethin' you oughta say first, ain't there?"
+##
+
+<Choice End>
+
+{Keiji} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\.".........."
+##
+
+#Choice#
+Thank you
+Looks painful
+##
+
+<ありがとう>
+
+{Keiji} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent40-1}
+#Message#
+"...Thank you. I was able to
+ get out of the coffin safely..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\."Hah, good..."
+##
+
+<痛そう>
+
+{Keiji} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent40-1}
+#Message#
+"...Looks real painful."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+{SE: Accent42-1}
+#Message#
+\."You dumbass..."
+##
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."So like... why're you all by yourself?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."What about Mai?! You seen her...?!"
+##
+
+{Keiji}
+#Message#
+\."She's safe. She's down below."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent28-1}
+#Message#
+\."Oh yeah? Heh... Then I guess we'll meet up..."
+##
+
+{Keiji}
+#Message#
+\."Where's everybody else...?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+{SE: Accent40-1}
+#Message#
+\."They all headed down... It's just me here..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."'Course... I might be at my limit soon..."
+##
+
+{Keiji}
+#Message#
+\.\C[4](Just Kurumada...? Then...)
+##
+
+#Choice#
+Tell him about the banquet
+##
+
+<宴について話そう>
+
+{Keiji} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+\C[4](I should tell him about the banquet.)
+##
+
+<Choice End>
+
+{N/A} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\.\C[3]Explained the banquet to Kurumada.
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, slight surprise / cara95-29]
+#Message#
+"You serious with that...?"
+##
+
+{Keiji}
+#Message#
+\."...Sure am."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+#Message#
+\."Well, ain't that perfect! Haha...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\."Thought we'd just be wiped out in the end anyhow..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent28-1}
+#Message#
+\."If we can save even a single one...
+ we gotta take that bet..."
+##
+
+{Keiji}
+#Message#
+\."You..."
+##
+
+#Choice#
+When'd you turn so considerate?
+You've gotten kind
+##
+
+<いつから仲間想いに？>
+
+{Keiji} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+"Since when are you so considerate of your allies?"
+##
+
+<優しくなったねー>
+
+{Keiji} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+"You've gotten pretty kind, huh..."
+##
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."Ah... shaddup..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."Well, whatever. I'm feelin' good...
+ I'll tell you this too."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent41-1}
+#Message#
+\."If a Floor Master \C[2]meets their doppelganger\C[0]...
+ \C[2]they die\C[0]."
+##
+
+{Keiji}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](...?!)
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, frown / cara95-25]
+{SE: Accent21-1}
+#Message#
+\."What's up...?"
+##
+
+{Keiji}
+#Message#
+\."N-Nothing..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+\."Be grateful... 'cause that was info only I had."
+##
+
+{Keiji}
+#Message#
+\.\C[4](...This isn't good.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Now I can't tell him about \N[4]'s head...)
+##
+

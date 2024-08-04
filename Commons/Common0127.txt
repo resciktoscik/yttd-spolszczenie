@@ -1,0 +1,33 @@
+**********Common127********** (Q「ｷﾞﾝ　ﾅｵ　ｶﾝﾅ　選ぶ」)
+{Q-taro}
+#Message#
+"I'll be honest... Gin, Nao, Kanna.
+ You three're no help when it comes to exploring.
+ I'm votin' for one of you."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"...Call me a bastard if ya want.
+ I'm just lookin' for a way to keep living."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+"Whatever you say, my mind ain't changin'."
+##
+
+#Message#
+\."The capable remain, the unhelpful get chosen..."
+##
+
+#Message#
+\."To spin that around, Sara,
+ I definitely ain't gonna vote fer you."
+##
+
+{Sara}
+#Message#
+\.\C[4](Q-taro is serious...!)
+##
+

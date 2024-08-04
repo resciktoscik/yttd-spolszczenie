@@ -1,0 +1,802 @@
+=====Map25===== (Smoking Area Hallway)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"There's a red vending machine here."
+##
+
+#Message#
+\."Seems to sell cigarettes.
+ And in the back is a smoking area, I guess...?"
+##
+
+#Message#
+\."Don't buy any if you're underage, of course.
+ Can't go turning you into a delinquent, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Even lots of delinquents don't smoke, honestly...)
+##
+
+-----Page3-----
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"...Sara..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Kanna...!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."H-Hey, is it okay for you to be up?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...I... I..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What's the matter...?)
+##
+
+#Choice#
+Do you want to say something?
+Something happen in the hall?
+##
+
+<何か言いたいのか？>
+
+<広場で何かあったのか？>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."No... It's not that..."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."I just... really wanted to ask you..."
+##
+
+#Message#
+\."About my sister..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+{Kanna}
+#Message#
+\."Please... give me an answer..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Back then... could Kanna have...
+\! actually saved her sister...?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.".........."
+##
+
+{Kanna}
+#Message#
+\."I was disoriented...
+ so I didn't hear what everyone else said."
+##
+
+#Message#
+\."But you and Joe... and Mishima and Nao...
+ You all had the same trial, right...?"
+##
+
+#Message#
+\."Kanna..."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."...Could Kanna... have saved her?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+You could have
+You couldn't have
+Ask Joe
+##
+
+<救えた>
+
+{N/A} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\C[3]I was about to tell her the truth, when...
+##
+
+<救えなかった>
+
+{N/A} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\C[3]I was about to lie, hoping to relieve her, when...
+##
+
+<ジョーに聞け>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."K-Kanna... Listen..."
+##
+
+{N/A}
+#Message#
+\C[3]Joe was about to say something, when...
+##
+
+<Choice End>
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Oh my, miss Kanna.
+ Reko and Nao were looking for you, you know?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Ah..."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."I heard you talking here, so I came over."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\."Mr. Mishima..."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."..."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."Please tell me... I..."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."...You were unlucky, miss Kanna."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."Eh...?"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Because we only had one key, we..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."We had to remove the other restraints \C[2]by force\C[0]."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...!"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."...Luckily, miss Nao had myself,
+ and miss Sara had Joe."
+##
+
+#Message#
+\."Due to our having \C[2]a strong man\C[0],
+ we barely managed to survive."
+##
+
+{Kanna} [Kanna: Arms crossed, angry shout / cara3-5]
+#Message#
+\."N... No...! That's a lie... It can't be..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."I... It's not a lie! This is the truth, Kanna!"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."I suppose it was a trial of...
+ both assessing the situation, and of might."
+##
+
+#Message#
+\."For you and your sister...
+ It was a trial with hardly any chance of success..."
+##
+
+{Kanna} [Kanna: Arms crossed, angry shout / cara3-5]
+#Message#
+\."I... I don't believe it! I won't!
+ You're all trying to deceive me..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."It's true, Kanna."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."S... Sara..."
+##
+
+{Sara}
+#Message#
+\."E... Even if it sounds like a lie...
+ It won't change the reality..."
+##
+
+#Message#
+\."We're all telling you... the truth..."
+##
+
+{Kanna}
+#Message#
+\.".........."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Miss Kanna... You regret it, yes?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."I... Kanna..."
+##
+
+[Kanna: Arms crossed, angry shout with tears / cara3-6]
+#Message#
+\."...Killed her sister...!"
+##
+
+#Message#
+\."Her sister was frantically trying to help!
+ But Kanna's an idiot... She didn't listen...!!"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."What was your sister like...?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Sister..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."My sister was... kind..."
+##
+
+#Message#
+\."Even when we fought... she'd never be cruel...!"
+##
+
+[Kanna: Arms crossed, angry shout / cara3-5]
+#Message#
+\."She was always thinking about Kanna...!"
+##
+
+#Message#
+\."...!"
+##
+
+[Kanna: Arms crossed, angry shout with tears / cara3-6]
+#Message#
+\."Why... didn't she use the key for herself...?!"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Was it not that your very existence
+ gave your sister happiness?"
+##
+
+{Kanna} [Kanna: Arms crossed, angry shout with tears / cara3-6]
+#Message#
+\."...!"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Miss Kanna, I can sense that you were loved,
+ as if it were in the very air."
+##
+
+#Message#
+\."Surely... Surely, you were raised
+ with the utmost care, were you not?"
+##
+
+#Message#
+\."I'm sure she was a wonderful sister."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Ah..."
+##
+
+#Message#
+\."...Aah... *sniff*..."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Miss Sara, if you were her sister,
+ what would you say to her?"
+##
+
+{Sara}
+#Message#
+\.\C[4](If I... was her...?)
+##
+
+#Choice#
+Encourage her
+Show her affection
+##
+
+<勇気づける>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Kanna..."
+##
+
+#Message#
+\."You being there...
+ let me be strong even in hard times."
+##
+
+#Message#
+\."I'm sure... Even if we're apart,
+ I'll be there somewhere in your heart. So..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Don't give in...!"
+##
+
+<愛情をかける>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Kanna..."
+##
+
+#Message#
+\."When you smile, it makes me happy,
+ and when you cry, it makes me sad."
+##
+
+#Message#
+\."As your big sister...
+ Let me protect the little sister I cherish."
+##
+
+{SE: Accent28-1}
+#Message#
+\."The fact you're alive... makes me happy!"
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Sis... ter..."
+##
+
+#Message#
+\."I miss you... sister..."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Now, the time for blaming yourself has passed.
+ Your sister is surely watching you from somewhere."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Kanna..."
+##
+
+[Kanna: Arms crossed, angry shout with tears / cara3-6]
+#Message#
+\."Kanna won't give in...!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."Because... her sister is watching...!"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Kanna!!"
+##
+
+{Kanna} [Kanna: Arms crossed, default look / cara3-1]
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Dammit, you nutty professor!
+ What happened to "shout when you find her"?!"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Oh dear, it appears I'm being yelled at."
+##
+
+{Kanna} [Kanna: Arms crossed, default look / cara3-1]
+#Message#
+\."That's not it, Reko. See, um...
+ Let's go and I'll explain, okay?"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."...Hm? R-Really...?
+ Sure, okay..."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."I will return to searching, myself."
+##
+
+{Sara}
+#Message#
+\."Professor Mishima..."
+##
+
+#Choice#
+Thank you very much
+You're a good liar
+##
+
+<ありがとうございます>
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."No, I am thankful to you..."
+##
+
+<ウソが上手いんですね>
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Am I now?
+ ...What a hopeless adult I've become..."
+##
+
+<Choice End>
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."It's thanks to you two following along
+ that I was able to make something of it."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Nah, I couldn't do a thing..."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Miss Sara. Do you understand
+ why miss Kanna came to talk to you?"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Mishima}
+{SE: Accent28-1}
+#Message#
+\."It's surely because you resemble her sister.
+ That is why she wanted to hear it from you."
+##
+
+{Sara}
+#Message#
+\."...I do...?"
+##
+
+{Mishima}
+#Message#
+\."Miss Sara..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Until we can leave here... Please take the role
+ of miss Kanna's big sister for her."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Mishima}
+#Message#
+\."And Joe, her younger brother."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."C'mon, not the elder brother?!"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Hahaha... Well then, another time..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Me, act as Kanna's big sister?)
+##
+
+#Message#
+\.\C[4](I wonder if... I can do a thing like that...)
+##
+
+
+**********Event3********** (ダーツ) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fancy dart.
+It's extremely solidly-made.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event4********** (シガーカッター) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar cutter.
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Event5********** (はまき) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar with high-quality wrapping.
+##
+
+
+**********Event6********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event7********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event8********** (ダミー団) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Dummy bullets. I have 6. If you pull the trigger
+with these, it'll only make a sound.
+##
+
+
+**********Event9********** (あたり) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Live bullets. I have 3.
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Event10********** (１０００) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A 1000-yen bill.
+Paper money usable in Japan.
+##
+
+
+**********Event11********** (hama) (11,3)
+-----Page1-----
+#Message#
+\C[3]The vending machine is stocked with cigarettes.
+##
+
+#Message#
+\C[3]There's something in the dispensing slot...
+##
+
+#Message#
+\.\C[3]Obtained a Cigar.
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"It's a huge cigar! Like, mob-boss big!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"It's got a high-class feel, huh?"
+##
+
+-----Page2-----
+#Message#
+\C[3]The vending machine is stocked with cigarettes.
+##
+
+
+**********Event38********** (kitu) (14,4)
+-----Page1-----
+#Message#
+\C[3]The back seems to be a smoking area.
+##
+
+
+**********Event54********** (game) (4,1)
+-----Page1-----
+#Message#
+\C[3]A sign that reads "GAME."
+##
+

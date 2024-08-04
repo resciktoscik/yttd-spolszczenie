@@ -1,0 +1,190 @@
+**********Common1420********** (戦②進展あった系)
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Hup... Got you now, knife."
+##
+
+{Sara}
+#Message#
+\."Y-You seriously got it that way?!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Now that's impressive!
+ Flyin' that far with piss-poor elastic ropes..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent39-1}
+#Message#
+\."Oh yeah?
+ As far as my expectations, these seem pretty bouncy."
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Now the question is how to use that knife..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Gotta have an epiphany...
+ Sara found this precious item for us, after all."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"There's a switch on the wall!! I'll press it!"
+##
+
+[Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+"Alright! The left flow stopped!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."That'll slow the speed of the liquid!"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Right! Still ain't a solution,
+ but it'll give us more time to think!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: flash-of-light-3}
+#Message#
+\."Countin' on ya, Sara! Leave any athletic stuff to me!"
+##
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Hmph! Just as I devised it, I've discovered
+ a switch on the wall! And I WILL press it!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+"Mwahaha... It appears the flow has stopped..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."That'll slow the speed of the liquid!"
+##
+
+{Alice} [Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."It's your turn, Sara Chidouin!
+ Solve the puzzle within 10 seconds!!"
+##
+
+{Mai} [Mai: Clasped hands, wink with tongue out / cara92-7]
+{SE: flash-of-light-3}
+#Message#
+"I sliced it up nicely, Sara!"
+##
+
+{Sara}
+#Message#
+\.\C[4](She looks lackadaisical, but she works fast...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](Huh? The four posts got colored in...?)
+##
+
+{Hayasaka} [Hayasaka: Mouth open / cara94-2]
+#Message#
+\."Seems the ropes themselves are power cords...
+ And cutting the extraneous cords
+ made them light up the proper colors."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."I don't get ittt! What's that mean?"
+##
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+#Message#
+\."...It means we're probably getting closer
+ to the solution of this puzzle..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Exactly... These posts, and this puzzle...)
+##
+
+#Message#
+\.\C[4](The colors must be hiding the answer...!)
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+"It looks like by pressing this switch,
+ you can change the color of the post..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What color should he change it to?)
+##
+
+#Choice#
+White
+Blue
+Pink
+Yellow
+##
+
+<白>
+
+<青>
+
+<ピンク>
+
+<黄>
+
+<Choice End>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\.\C[4](Is this color right...?)
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent21-1}
+#Message#
+\."Thanks, Ranmaru. That'll do."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth closed / cara91-9]
+#Message#
+"Roger that."
+##
+

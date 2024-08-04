@@ -1,0 +1,71 @@
+**********Common1748********** (◆ｿｳ)
+{Sou}
+#Message#
+"Keiji's coffin is also one of the unglowing ones...!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"I don't know how we should consider this..."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Even now, after all this...
+ we have no idea if Keiji's in there..."
+##
+

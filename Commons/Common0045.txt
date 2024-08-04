@@ -1,0 +1,168 @@
+**********Common45********** (ｶｲ・自己紹介)
+{Kai}
+#Message#
+"I am Kai Satou.
+ A rather unremarkable homemaker."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+"It's quite concerning to have been brought here
+ with the laundry still out drying..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Yep, I'd remember it if I met such a weirdo...)
+##
+
+{Kai}
+#Message#
+"Hm... My best meal is Eggs Benedict."
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."A chef, eh?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."No, not a chef, but a homemaker.
+ Akin to a house-husband."
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Same difference if you both make tasty food."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."I suppose so..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I feel like... I've met this person somewhere.)
+##
+
+#Choice#
+Do you know me?
+Where did you get those utensils?
+##
+
+<私のことを知ってますか？>
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+"...?"
+##
+
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Ah, it's fine...
+ If you don't remember, it must just be me..."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."...Miss Sara...?"
+##
+
+{Sara}
+#Message#
+\."Huh?! You do know me?"
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."I simply heard your name earlier."
+##
+
+{Sara}
+#Message#
+\."So it's our first meeting after all..."
+##
+
+<背中の物はどこで入手しました？>
+
+{Kai} [Kai: Default / cara8-1]
+{SE: Accent28-1}
+#Message#
+"Oh, the frying pan and whatnot.
+ They were in a room I was in earlier."
+##
+
+{Sara}
+#Message#
+\."So you got them after arriving here."
+##
+
+{Kai}
+#Message#
+\."Yes, that's correct.
+ I felt they could offer protection."
+##
+
+[Kai: Raised eyebrows / cara8-2]
+#Message#
+\."Ah..."
+##
+
+#Message#
+\."It didn't even occur to me.
+ Would you... like to use one?"
+##
+
+{Sara}
+#Message#
+\."Huh...? For protection?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Yes, I'll offer anything but the frying pan..."
+##
+
+{Sara}
+#Message#
+\."Then I'll pass."
+##
+
+<Choice End>
+
+{Sara} [Kai: Default / cara8-1]
+#Message#
+\.\C[4](I felt like I'd met him somewhere...
+ But talking to him, it doesn't feel that way at all.)
+##
+
+#Message#
+\.\C[4](Is it just my imagination...?)
+##
+
+{Kai}
+#Message#
+\."Perhaps... I should discard my cookware."
+##
+
+{Sara}
+#Message#
+\."Hmm... But it could be useful for something."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."At the least, I bet I could make Eggs Benedict."
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah... I'd remember it if I met such a weirdo...)
+##
+

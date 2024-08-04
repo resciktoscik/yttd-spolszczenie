@@ -1,0 +1,87 @@
+**********Common986********** (ｱﾘｽ「ｶﾝﾅ証明ｿｳのみ」)
+{Alice}
+#Message#
+"Kanna Kizuchi typically acted with him...
+ Only Sou Hiyori can prove her actions."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"And what does that prove?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+"Of course, I was Kanna Kizuchi's conversation partner
+ for a short time as well..."
+##
+
+[Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."But it could be said we didn't hit it off!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I wasn't asking about that!)
+##
+

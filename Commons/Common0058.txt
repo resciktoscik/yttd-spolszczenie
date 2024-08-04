@@ -1,0 +1,126 @@
+**********Common58********** (ｹｲｼﾞ「Q信じない」)
+{Keiji}
+#Message#
+"I'll keep it simple too. Q-taro, even if you do
+ have experience, I can't trust you."
+##
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"I've got nothing else to say about that."
+##
+
+{Sara}
+#Message#
+\C[4](Maybe I should try a different statement...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"We don't have enough time.
+ Time to build trust, that is."
+##
+
+#Message#
+\."But my detective senses tell me
+ that we'll be just fine with Sara."
+##
+
+#Message#
+"We don't have enough time.
+ Time to build trust, that is."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."...Precisely."
+##
+
+#Message#
+\."And yet, it appears you are
+ very trusting of miss Sara..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Oh, you can tell?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."If I may offer my interpretation..."
+##
+
+#Message#
+\."Perhaps it's because Sara and Joe are acquainted?"
+##
+
+#Message#
+\."Because those two can vouch for each other,
+ you concluded they could be trusted, yes?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Do I look that calculating?
+ That comes as a real shock."
+##
+
+#Message#
+\."It's just intuition.
+ I'm confident in my eye for people."
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."I see..."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\."...However, there's a piece missing from your story."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Oh yeah?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."..."
+##
+

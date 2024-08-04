@@ -1,0 +1,78 @@
+**********Common216********** (▽ﾅｵ…肯定)
+{Sara}
+#Message#
+"Like Nao says!
+ She couldn't open the door to the kitchen!"
+##
+
+{Kai}
+#Message#
+\."And neither could I. In fact, the kitchen key
+ was \C[2]beyond the iron bars on the second floor\C[0], yes?"
+##
+
+#Message#
+\."I did not go to the second floor.
+ How do you explain the key's presence there?"
+##
+
+{Sara}
+#Message#
+"That's it! There were iron bars
+ just up the stairs from the first floor!
+ The key was thrown through the gaps!"
+##
+
+{Kai}
+#Message#
+\."Is that so? I understand..."
+##
+
+#Message#
+\."However, supposing I guided miss Nao to the kitchen,
+ do you believe I could threaten her?"
+##
+
+{Sara}
+#Message#
+"If she wasn't threatened, why would Nao hit Sou?!"
+##
+
+{Kai}
+#Message#
+\."I would love to know that myself."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk... No good...!)
+##
+
+#Message#
+"Maybe there was some conflict between Kai and Sou!"
+##
+
+{Kai}
+#Message#
+\."There is nothing."
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't prove it...!)
+##
+
+#Message#
+"Kai... He did this to cause discord between us!"
+##
+
+{Kai}
+#Message#
+\."Do you have proof?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh...!)
+##
+

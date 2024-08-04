@@ -1,0 +1,319 @@
+**********Common222********** (⑪進展●「猛反論」)
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+"Huh... So you won't admit it."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Obviously!
+ We nearly died in the First Trial, too!"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."Y... Yes, that's right! Something that terrifying...
+ There's no point in doing it yourself, is there...?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Did you really do the trial...?
+ You can't prove it, can you?"
+##
+
+{Kai} [Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\."You cannot prove yourself, either.
+ ...Though if we had the laptop here,
+ your lies would be exposed as well."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Even after your threat was exposed,
+ you're still staying stubborn, eh?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."For argument's sake, I might accept Kai's a bad guy,
+ but I can't get those two bein' our enemies!"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Eh...?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Back in Russian Roulette, it was Sara and Joe
+ bein' there that got us through safe!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Big sis Sara got me out of the cage, meow!!
+ You look weak, but you're real cheeky, woof!"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."H-Hold on a second... That isn't what..."
+##
+
+{Keiji} [Keiji: Left arm down, frown / cara2-11]
+{SE: Accent21-1}
+#Message#
+\."Just makin' sure here...
+ But you didn't read the emails wrong, did you?"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...H... Huh?"
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."Err..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."H-How strange..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."What's the matter, everybody...?
+ Think calmly now..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."L-Look, Kai and Nao's actions were proven!"
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Nao hit me... Made a big bump, even..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Doubting me now... it's illogical!"
+##
+
+#Message#
+\."This is... just weird..."
+##
+
+[Sou: Afraid look with lightless eyes / cara5-9]
+#Message#
+\."...W-Why does everybody believe miss Sara...?"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Hmph, how pitiful...
+ It seems the difference in trust between you
+ is the difference between heaven and earth."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."...What the hell...?!"
+##
+
+[Sou: Afraid look with lightless eyes / cara5-9]
+#Message#
+\."Open your eyes, everybody!!"
+##
+
+#Message#
+\."I'm...\.\. I'm telling you what's right...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Corner him
+Offer a helping hand
+##
+
+<追い詰める>
+
+{Sara} [Sou: Afraid look with lightless eyes / cara5-9]
+{SE: Accent28-1}
+#Message#
+\."Sou, you're a liar."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Actions and behavior are what build trust."
+##
+
+#Message#
+\."No one will believe the words of a liar."
+##
+
+{SE: Accent21-1}
+#Message#
+\."So would you please shut up?"
+##
+
+{Sou}
+#Message#
+\."..."
+##
+
+<救いの手を差し伸べる>
+
+{Sara} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: Accent28-1}
+#Message#
+\."Sou, even your words...
+ can't be fully denied, I don't think."
+##
+
+{Sou}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Myself, I have no connections to the kidnappers...
+ However."
+##
+
+#Message#
+\."I'm... also questioning who Kai really is."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Sou... It's thanks to you that became evident."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...What do you mean... thanks to me..."
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, annoyed, tearing up / cara5-22]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Enough..."
+##
+
+#Message#
+\.\C[10]"Hahahahahaha...!!"
+##
+
+#Message#
+\.\C[10]"Amazing, miss Sara.
+ You're a prodigy at seizing people's hearts!"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Sou}
+#Message#
+\.\C[10]"Shameful, the rest of you. The riffraff."
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\.\C[10]"Don't you value your lives?"
+##
+
+#Message#
+\.\C[10]"Don't you doubt when others are kind?"
+##
+
+#Message#
+\.\C[10]"Do you not even have brains to think for yourselves?"
+##
+
+#Message#
+\.\C[10]"Death is just a matter of time for you.
+ That's the way weaklings live!"
+##
+
+#Message#
+\."Hahahahahahahahahahaha!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."W-What the hell's happened to you...?!"
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."I've given up. On all you incompetents."
+##
+
+[Sou: Disdainful pose, smug eyes / cara5-14]
+#Message#
+\."Worthless... Every one of you..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."The loner snapped, meow...
+ I'm scared, woof..."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."I can't count on any of you anymore.
+ Miss Sara, let's talk it out ourselves."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Sou} [Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."This is the fastest way. Hahaha..."
+##
+

@@ -1,0 +1,148 @@
+**********Common871********** (ランマル)
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+"If we or any of the pairs get too far apart,
+ only my collar'll activate. So careful, Sara."
+##
+
+{SE: Accent28-1}
+#Message#
+"Uhh... So is just Sara fine?"
+##
+
+{Sara}
+#Message#
+\."Hmm..."
+##
+
+#Choice#
+Of course
+I'd prefer Chidouin
+Call me Mistress Sara
+##
+
+<もちろんだ>
+
+{Sara} [Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent21-1}
+#Message#
+\."Of course. We're probably about the same grade..."
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: flash-of-light-3}
+#Message#
+\."You sure? You aren't gonna come to me later
+ saying you were actually my senior?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't think this is the time to be
+ worried about junior-senior relations...)
+##
+
+<チドウインさん　と呼んでほしい>
+
+{Sara} [Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: Accent21-1}
+#Message#
+\."We've only just met, so call me Chidouin.
+ Got it, Ranmaru?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."No, wait, why do you get to call me that?!
+ That's weird, right?!"
+##
+
+{Sara}
+#Message#
+\."...Well, Ranmaru is the only name I heard..."
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."Ah... right... No, well, look, we can just use
+ each other's first names, right? Less of a pain..."
+##
+
+<サラ様　と呼んでほしい>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: flash-of-light-3}
+#Message#
+\."Could you call me Mistress Sara?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."Now that's just weird!
+ Don't go making this a master-servant relationship!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Guess that's a tough demand...)
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."You're just wanting to make fun of me
+ for my height, aren't you..."
+##
+
+<Choice End>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."More importantly, do you have any info?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: Accent28-1}
+#Message#
+\."I do."
+##
+
+[Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+\."It's about these red threads on our collars
+ that connect us..."
+##
+
+[Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If the people in a pair get some distance apart,
+ their collars activate and their heads fly off."
+##
+
+{Sara}
+#Message#
+\."What the...?!"
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+\."Well... actually, that's only for us supports.
+ Your collar won't activate, Sara."
+##
+
+{Sara}
+#Message#
+\."So only your collar would...?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."S-So don't get too far from me, okay?
+ Let's put our differences aside..."
+##
+
+{Sara}
+#Message#
+\."...Got it."
+##
+

@@ -1,0 +1,67 @@
+**********Common1691********** (・ｸﾙﾏﾀﾞ「ﾐﾄﾞﾘ差し金」)
+{Kurumada}
+#Message#
+"The fingerprint thing's a whim of \N[4]'s!
+ No point thinking about it...!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Kurumada} [Kurumada: Damaged, shouting / cara95-19]
+#Message#
+"\N[4] must've just registered
+ Mai's fingerprints as a sick joke!"
+##
+

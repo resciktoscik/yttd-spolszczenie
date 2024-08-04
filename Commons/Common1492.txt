@@ -1,0 +1,18 @@
+**********Common1492********** (⑥マイB選択)
+{N/A}
+#Message#
+"Hey! Would you let me read
+ the letter Ranmaru got...?!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

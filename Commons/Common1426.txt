@@ -1,0 +1,18 @@
+**********Common1426********** (③アンズB選択)
+{N/A}
+#Message#
+"I'll knock over a bookcase
+ and have it crash right onto them!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

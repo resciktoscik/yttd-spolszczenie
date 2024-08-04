@@ -1,0 +1,16 @@
+**********Common232********** (投票ソウ)
+#Message#
+Vote for \C[2]Sou\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

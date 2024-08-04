@@ -1,0 +1,119 @@
+**********Common164********** (ｼﾞｮｰ「ｻﾗ復習だ」)
+{Joe}
+#Message#
+"Sara! Talk back to him!
+ Gonbee's just got the wrong idea about you!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+{SE: Accent28-1}
+#Message#
+"You got it, Sara!
+ Strike back with an item just like that!"
+##
+
+{Sara}
+#Message#
+\."Don't try to fool me, Joe!
+ What do you think about this item?!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Saraaa! Is this really the time for that?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He won't answer me...!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+{SE: Accent28-1}
+#Message#
+"You remembered, Sara?!
+ Attack him with a statement, just like that!"
+##
+
+{Sara}
+#Message#
+\."Answer me, Joe!
+ What do you think about this statement?!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."You're really somethin' to joke around
+ when you're the one in crisis, huh?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I sure am...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"Shove some evidence in his face, like last time!"
+##
+
+{Sara}
+#Message#
+\."Yep, I've got this."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."So coooool!"
+##
+
+{N/A}
+#Message#
+\C[3]* When selecting items, you can sometimes
+  view a second page by touching the description.
+##
+

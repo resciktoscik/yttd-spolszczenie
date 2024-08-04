@@ -1,0 +1,386 @@
+=====Map173===== (★Kanna End: Room of Rubble)
+
+**********Event2********** (joe) (6,2)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]The screen is glowing.
+##
+
+{Sara}
+#Message#
+\."I wonder what it is..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I gazed at the screen absentmindedly.
+##
+
+{Joe}
+#Message#
+\sp[12]\sw[934]"Yo, Sara."\sw[935]
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."...Eh...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Is this some kind of joke again...?
+##
+
+#Message#
+\.\C[3]There was a familiar face.
+##
+
+#Message#
+\.\C[3]The face of my best friend, who I always saw at school.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...Joe..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Inconceivable...
+##
+
+#Message#
+\.\C[3]It's another hallucination.
+I've finally broken down.
+##
+
+#Message#
+\.\C[3]Because there shouldn't be an AI of Joe...
+##
+
+#Message#
+\.\C[3]But that doesn't matter to me right now.
+##
+
+{Sara}
+#Message#
+\."Joe...!! Is that you, Joe?!"
+##
+
+{Joe}
+#Message#
+\.\sw[934]"Yep. So, looks like you've been well!"\sw[935]
+##
+
+{Joe?}
+{SE: horror_piano chord3}
+#Message#
+\.\sp[12]\C[10]\sw[934]"You murderer!"\sw[935]
+##
+
+{Sara}
+#Message#
+\."...Eh...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]I should... have understood this.
+##
+
+#Message#
+\.\C[3]This was a hallucination... a false Joe I created.
+##
+
+{Sara}
+#Message#
+\."W... Wait... I..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I shouldn't... respond to it.
+##
+
+{Joe?}
+#Message#
+\.\C[10]\sw[934]"Lemme hear it! Who'd you kill this time?"\sw[935]
+##
+
+{Sara}
+#Message#
+\."You're wrong...!! I didn't kill...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Gotta ignore it...
+##
+
+{Joe?}
+#Message#
+\.\C[10]\sw[934]"...You voted, didn't you?"\sw[935]
+##
+
+#Message#
+\.\C[10]\sw[934]"You sacrificed someone weaker than you to survive."\sw[935]
+##
+
+{Sara}
+#Message#
+\."No...! That's wrong, Joe!! I mean...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]This... isn't Joe...!!
+##
+
+{Joe?}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]\sw[934]"Sara... You've really changed."\sw[935]
+##
+
+{Sara}
+#Message#
+\."*pant*... *pant*... *gasp*...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I can't breathe...
+##
+
+#Message#
+\.\C[3]I'm being killed... by my hallucinations...
+##
+
+{Joe?}
+{SE: Accent21-1}
+#Message#
+\.\C[10]\sw[934]"What's your excuse for this time, Sara?"\sw[935]
+##
+
+{Sara}
+#Message#
+\."Ugh...!! Urghhh...!!"
+##
+
+#Choice#
+Shut up
+You aren't Joe
+##
+
+<黙れ>
+
+{Sara}
+#Message#
+"Shut up!!
+ What do you know?!"
+##
+
+#Message#
+\."You left me... and died on your own...!!"
+##
+
+#Message#
+\."Just give me a break... Forgive me...!!"
+##
+
+{Joe?}
+#Message#
+\.\C[10]\sw[934]".........."\sw[935]
+##
+
+<お前はジョーじゃない>
+
+{Sara}
+#Message#
+"You... aren't Joe!!"
+##
+
+#Message#
+\."Don't show yourself to me! Please...!!"
+##
+
+#Message#
+\."Just give me a break... Forgive me...!!"
+##
+
+{Joe?}
+#Message#
+\.\C[10]\sw[934]".........."\sw[935]
+##
+
+<Choice End>
+
+{Joe?}
+{SE: sceneswitch2}
+#Message#
+\.\C[10]\sw[934]"Can't do that, Sara."\sw[935]
+##
+
+#Message#
+\.\C[10]\sw[934]"You know how much I suffered?"\sw[935]
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]\sw[934]"...I'll show you once more."\sw[935]
+##
+
+{Sara}
+#Message#
+\."...Eh...?"
+##
+
+#Message#
+\."...A... aa... a..."
+##
+
+{N/A}
+#Message#
+\.\C[3]A hellish sight.
+##
+
+#Message#
+\.\C[3]The last thing I want to remember. Joe's end.
+##
+
+{Sara}
+#Message#
+\.\sp[10]"...Waaahh..."\.\^
+##
+
+#Message#
+\.\sp[12]"Aaaaaaaaaa..."\.\^
+##
+
+#Message#
+\.\sp[15]"Aaaaaaaaaaaaaaaaaa...!!"\.\^
+##
+
+#Message#
+\.\{\sp[20]"AAAAAAAAAAAAAAAAAAAAAAAAAH!!!!"\|\.\.\^
+##
+
+{Voice} [Keiji: Stern / cara2-3]
+{SE: feed1}
+#Message#
+\."Sara...!!"
+##
+
+{Keiji}
+#Message#
+\."Are you okay, Sara...?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\sp[12]"Keiji..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."Thank goodness...!
+ Sara... Nothing wrong, is there?"
+##
+
+<Else>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+\."Big sis Sara!! You came to, meow!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."I...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."You were passed out in the Room of Rubble."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."In front of that video..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."That must've been an AI
+ of big bro Joe, right, meow...?"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."It was an AI of Jou Tazuna...
+ Why in the world was that there...?"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."It was a fake Joe somebody set up out of malice..."
+##
+
+[Keiji: Stern / cara2-3]
+#Message#
+\."Sara... Don't worry about anything it said."
+##
+
+{Sara}
+#Message#
+\.\sp[10]"....."
+##
+
+{N/A}
+#Message#
+\.\C[3]What are they talking about...?
+##
+
+{Sara}
+#Message#
+\.\sp[12]"Um..."
+##
+
+#Message#
+\.\sp[12]"Uhh... Keiji..."
+##
+
+#Message#
+\.\sp[10]\C[10]"Who is Joe...?"\.
+##
+
+{N/A}
+#Message#
+Your Turn To Die:\.\. Chapter 2\| End
+##
+
+#Message#
+To be continued in the Final Chapter\.\.
+##
+

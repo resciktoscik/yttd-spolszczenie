@@ -1,0 +1,103 @@
+**********Common246********** (ﾚｺ「ニット帽怪しい」)
+{Reko}
+#Message#
+"Honestly? That beanie sack of shit can't be trusted!
+ Makes my blood run cold!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"S-Sorry...! I don't get it...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Beanie! How much truth are you tellin', really?!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."All of it! Don't get the wrong idea, miss Reko."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."God dammit! This guy sucks ass!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I doubt this will advance the discussion...)
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"What's up with that statement...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+"I gotta go with my heart more than my reason."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."And that beanie guy is bad news!
+ Can't ask him 'bout shit!"
+##
+

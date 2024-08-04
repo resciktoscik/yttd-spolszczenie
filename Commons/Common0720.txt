@@ -1,0 +1,89 @@
+**********Common720********** (ｱﾘｽ「交換は50メダル」)
+{Alice}
+#Message#
+"Trading cards requires 50 tokens.
+ It's not as if just anyone could do it."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+"Hmph... What are you trying to say with this thing?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Hey! Think about what you're trying to refute!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"The token ranking, as I recall, put Cubetaro Hamburger
+ in first and Gin Ibushi in last."
+##
+
+[Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\."Nao Egokoro was also low-ranking..."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."Of the four candidates, I suppose Nao was the only one
+ who lacked the tokens to make a trade?"
+##
+

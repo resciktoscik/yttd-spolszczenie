@@ -1,0 +1,131 @@
+**********Common382********** (●腕相撲)
+{N/A}
+#Message#
+\C[3]Now's not the time for attractions.
+##
+
+#Message#
+\C[3]I've already cleared this attraction.
+##
+
+#Message#
+\C[3][Arm-Wrestling]
+Participants: 2
+Clear Chip Reward: ★★
+Difficulty: Normal
+##
+
+#Message#
+\.\C[3]Press the button when the power gauge is full
+to throw down the opponent's arm.
+Defeat the three dolls to win.
+##
+
+#Choice#
+Select partner
+Cancel
+##
+
+<相棒を選ぶ>
+
+#Choice#
+Keiji
+Q-taro
+Alice
+Cancel
+##
+
+<ケイジ>
+
+{N/A} [Keiji: Default smile / cara2-1]
+#Message#
+\.Keiji Shinogi
+As Keiji, your keen detective insight makes
+the button-press timing easier.
+Difficulty: Easy
+##
+
+#Choice#
+Partner with Keiji
+Reselect
+##
+
+<ケイジを相棒にする>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I'm pretty proud of my arm strength."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<Qタロウ>
+
+{Keiji} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\.Q-taro Burgerberg
+As Q-taro, your outstanding power makes you push
+the opponent's arm twice as much on successes.
+Difficulty: Normal
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."I know, Sara! If you partner with me,
+ I'll trade 10 Me-Tokens while we're at it!"
+##
+
+#Choice#
+Partner with Q-taro
+Reselect
+##
+
+<Qタロウを相棒にする>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."I'm itchin' to go!
+ You can rest assured wit' me, Sara!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<アリス>
+
+{Q-taro} [Alice: Default glare / cara11-1]
+#Message#
+\.Alice Yabusame
+As Alice, your cage-like defenses reduce the number
+of times you need to mash when defending.
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Alice
+Reselect
+##
+
+<アリスを相棒にする>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... You want to borrow my aid?
+ Good judgement if nothing else, Sara Chidouin..."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

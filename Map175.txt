@@ -1,0 +1,114 @@
+=====Map175===== (❹Black Room)
+
+**********Event1********** (syure) (4,8)
+-----Page1-----
+#Message#
+\C[3]An empty shredder.
+##
+
+
+**********Event3********** (koku) (4,1)
+-----Page1-----
+#Message#
+\C[3]A large blackboard with nothing written.
+##
+
+
+**********Event4********** (EV004) (5,4)
+-----Page2-----
+{N/A}
+#Message#
+\C[3]I can faintly make out some erased words.
+##
+
+#Message#
+\.\C[3]"Ab a nd on  you rs el f"
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+
+**********Event5********** (terasi) (11,0)
+-----Page1-----
+#Message#
+\C[3]The light is pointed at the blackboard.
+##
+
+
+**********Event39********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event40********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event41********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event42********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event43********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event44********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event46********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

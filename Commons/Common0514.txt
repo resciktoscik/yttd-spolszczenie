@@ -1,0 +1,161 @@
+**********Common514********** (ﾚｺ「身体切断」)
+{Reko}
+#Message#
+"Spare me any gory stuff, please...
+ I can't handle it..."
+##
+
+#Message#
+"D-Don't tell me, cut off parts of our bodies...?!
+ Oogh... I can't do somethin' that gross!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"Urgh... I'm gettin' queasy..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"If we don't have to "die," it's like that, right?!
+ Like... we gather up everybody's limbs..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Exactly
+I don't think so
+##
+
+<その通りです>
+
+{Sara} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."...Exactly."
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Y-You serious?!
+ I... I won't be able to play an instrument anymore!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](But it's definitely strange.
+ None of the traps have left lasting effects...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](And what if Q-taro had been in last?
+ Even if we all cut ourselves up,
+ we wouldn't be able to save him...)
+##
+
+#Message#
+\.\C[4](There must be some other way...)
+##
+
+<それは違うと思います>
+
+{Sara} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."No, think about what Ranger and Safalin said.
+ If Q-taro had been in last..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Even if we all cut ourselves up,
+ it wouldn't come to enough weight.
+ ...Certainly couldn't use our torsos or heads."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."That's some gross shit to be sayin' all cool...!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."But can we believe 'em?
+ That they wouldn't just be savage like that?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I think... I'm starting to see the meaning
+ of that item that's been mystifying me...!)
+##
+
+<Choice End>
+

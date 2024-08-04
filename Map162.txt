@@ -1,0 +1,32 @@
+=====Map162===== (❹OP Sou 3)
+
+**********Event1********** (EV001) (1,0)
+%ignore
+
+
+**********Event2********** (hurai) (8,7)
+-----Page1-----
+{Sou}
+#Message#
+\."What's this...?"
+##
+
+{N/A}
+{SE: horror_piano chord3}
+#Message#
+\.\C[3]Obtained a Frying Pan.
+##
+
+{Sou}
+#Message#
+\."..."
+##
+
+#Message#
+\."So gloomy..."
+##
+
+#Message#
+\."Dead men tell no tales... Right, Kai?"
+##
+

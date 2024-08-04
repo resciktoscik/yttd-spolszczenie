@@ -1,0 +1,23 @@
+**********Common295********** (◆最後でミス)
+{N/A} [Sara: Disturbed / cara0-4]
+#Message#
+\C[3]No... I messed up in the very last moment...
+##
+
+#Message#
+\.\C[3]With no decision made, the voting begins.
+##
+
+#Message#
+\.\C[3]Filled with irritation at my failure
+and fear of suspicion, my vision went black.
+##
+
+#Message#
+\.\C[3]I can hardly remember anything that came next...
+##
+
+#Message#
+\.\C[3]Not even... who was chosen... and who died.
+##
+

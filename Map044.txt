@@ -1,0 +1,1272 @@
+=====Map44===== (Main Game 1)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]An extremely heavy air dominates the space.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's different... This is nothing like
+ the discussions we've had before...)
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Heeheehee... Well, I shall go over
+ the basic rules one more time."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."A total of two votes will be held:
+ the \C[2]preliminary vote\C[0] in the middle of the discussion,
+ and the \C[2]final vote\C[0] at the finale."
+##
+
+[Miley: Default smile / cara14-1]
+#Message#
+\."5 candidates will be chosen in the preliminary vote,
+ and 1 victim will be selected in the final vote."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."If the chosen victim is the \C[2]Keymaster\C[0],
+ all lose, and all will die."
+##
+
+[Miley: Default smile / cara14-1]
+#Message#
+\."If the victim is the \C[10]Sacrifice\C[0], the \C[10]Sacrifice\C[0] wins,
+ and can escape with one person of their choosing."
+##
+
+#Message#
+\."If the victim is a \C[4]Commoner\C[0] or \C[3]Sage\C[0],
+ the chosen victim and the \C[10]Sacrifice\C[0] will die."
+##
+
+#Message#
+\."Ah, yes... I have left rulebooks on the desks.
+ Make use of them as items, everyone."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."That is all... Heeheehee.
+ Use your time however you please."
+##
+
+{N/A}
+#Message#
+\C[3]Miley quietly sat down in a chair.
+##
+
+#Message#
+\.\C[3]And... in dead silence... the Main Game began.
+##
+
+
+**********Event3********** (EV003) (2,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The discussion is stuck in \C[2]equilibrium\C[3],
+failing to come to an agreement...!
+##
+
+{Sara}
+#Message#
+\.\C[4](I need to swing the needle to either side...
+ or this balance will never collapse!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Want an explanation of Balance Battles?\.
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{N/A}
+#Message#
+\C[3]Both speakers will give statements at the same time.
+By \C[2]affirming\C[3] or \C[2]denying\C[3] one party's opinion,
+you can change their views.
+##
+
+#Message#
+\.\C[3]If all goes well, the balance will shift,
+and you can advance to the next dialogue.
+##
+
+#Message#
+\.\C[3]Note that there is no time limit, but there is
+a limit to the number of selections you can make.
+##
+
+<いいえ>
+
+<Choice End>
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The discussion is stuck in equilibrium,
+failing to come to an agreement...!
+##
+
+{Kai}
+#Message#
+\."Miss Nao, you are attempting to
+ drag in as many others as you can."
+##
+
+{Nao}
+#Message#
+\."You're wrong!!"
+##
+
+
+**********Event4********** (EV004) (3,0)
+-----Page1-----
+{Sara}
+{SE: Down1}
+#Message#
+\.\C[4](Ack...! I can't upset the balance!
+ Let's start over!)
+##
+
+-----Page3-----
+{Sara}
+{SE: Down1}
+#Message#
+\.\C[4](Ack...! I can't upset the balance!
+ Let's start over!)
+##
+
+
+**********Event5********** (EV005) (5,0)
+-----Page11-----
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+*pant*... *pant*...
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.*cough* *cough*
+"I'm exhausted... I feel kind of sick..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I think I refuted nearly all his remarks...)
+##
+
+#Message#
+\.\C[4](And yet... why...?)
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.*cough* *cough*
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Why is there this air of swirling suspicion...?)
+##
+
+#Message#
+\.\C[4](We only... damaged our own trust.)
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Enough..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Could you calm down for a second?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Ugh...!! I refuted most of his remarks...
+ Why does he look so unperturbed?!)
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Seems like everyone's just plain
+ unsure what's right anymore."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Suspicion... An unpleasant air swirls around us.)
+##
+
+#Message#
+\.\C[4](Sou...!! This is because of you!!)
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."G-Get a grip, everybody!
+ Doubting Sara just isn't right!!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."You want us all to be killed off?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."...Hey, what do you think would be worst for you?"
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."If a guy like me with no trust were a traitor...?
+ No, that can't be it."
+##
+
+[Sou: Smile with lightless eyes / cara5-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It'd be if miss Sara was your enemy... right?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Now see here..."
+##
+
+{N/A}
+#Message#
+"Yes, yes, your attention please."
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Eheehee... Sorry to intrude
+ while you're getting all fired up."
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+\."It's nearly time for the \C[2]preliminary vote\C[0]!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Wh...?!)
+##
+
+#Message#
+\."W-Wait! At a time like this...?!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."The hell do we do?! We've got no conclusions!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."How we gonna make a vote without regrets?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What can I say now...?!)
+##
+
+#Choice#
+I'm the Keymaster
+Don't say anything
+##
+
+<私は鍵番だ>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Everyone! I'm the \C[2]Keymaster\C[0]!!"
+##
+
+#Message#
+\."Please, don't forget about that...!!"
+##
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."Ahaha, coming in right at the end."
+##
+
+[Sou: Disdainful pose, smug eyes / cara5-14]
+{SE: Accent28-1}
+#Message#
+\."Of course, I'm the real \C[2]Keymaster\C[0].
+ You really are a slippery one."
+##
+
+{Sara}
+#Message#
+\."No... That's you!"
+##
+
+#Message#
+\."Sou... I won't be beaten by you...!!"
+##
+
+#Message#
+"I'm the \C[2]Keymaster\C[0]!!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Meow?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](If I let this chance go...
+ I'll never have a chance to say it!)
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."...Should've said that sooner."
+##
+
+[Sou: Disdainful pose, smug eyes / cara5-14]
+#Message#
+\."Saying that now just makes you
+ more suspicious, you know?"
+##
+
+{Sara}
+#Message#
+\."Even so... I'm saying it!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."Sou... I won't be beaten by you...!!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."*sigh*... Let's do the vote already."
+##
+
+<何も言わない>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\.\C[4](I have... nothing!)
+##
+
+#Message#
+\.\C[4](Now, I just have to believe in everyone...!)
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Sara...!"
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."Be brave, everybody."
+##
+
+#Message#
+\."Those feelings of not wanting to be betrayed
+ are just getting in the way."
+##
+
+[Sou: Disdainful pose, closed-eyes smile / cara5-12]
+{SE: Accent28-1}
+#Message#
+\."Doubting miss Sara... is a step forward!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Grr...!!)
+##
+
+#Message#
+\."Sou...!! You really are a...!!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Ahaha... Come on, let's vote already."
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."And now..."
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: sceneswitch2}
+#Message#
+\."It's your turn to die... miss Sara."\.
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+
+{N/A}
+#Message#
+Please choose who to vote for.
+##
+
+-----Page13-----
+{SE: Magic2}
+#Message#
+\C[3]...All votes have been received.
+##
+
+{SE: Magic1}
+#Message#
+\.\C[3]Displaying results...
+##
+
+#Message#
+
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]Fear... is welling up inside me...
+##
+
+{Miley} [Miley: Smug smile / cara14-6]
+#Message#
+\."Heehee... What do you think of the results?"
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Five will proceed to the final vote."
+##
+
+[Miley: Default smile / cara14-1]
+#Message#
+\."\C[2]Kanna Kizuchi.\C[0]"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."\C[2]Kai Satou.\C[0]"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."..."
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."\C[2]Jou Tazuna.\C[0]"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."...Why...?! Why me...?!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."\C[2]Sou Hiyori.\C[0]"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...I see..."
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."\C[2]Sara Chidouin.\C[0]"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]We'll die...?
+##
+
+#Message#
+\.\C[3]One of us five will, with certainty...
+##
+
+#Message#
+\.\C[3]I don't... want to die.
+##
+
+{Sara}
+#Message#
+\."...I..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I'm... the Keymaster..."
+##
+
+#Message#
+\."I'm the Keymaster...! Please believe me..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."...Sara..."
+##
+
+{N/A}
+#Message#
+\C[3]Why did that come out now?
+##
+
+#Message#
+\.\C[3]I want to survive...
+##
+
+#Message#
+\.\C[3]I still... want to live...
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."A-Am I... safe...?"
+##
+
+{Alice} [Alice: Surprised face / cara11-2]
+#Message#
+\."Y-You're kidding?! Me too?! Woohoo!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Dumbasses!!
+ It's the next part that's seriously bad!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+\."Our votes... will decide our fates."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."D-Do we... have to choose...?"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](...Why me...?)
+##
+
+#Message#
+\.\C[4](I've tried... so hard...)
+##
+
+#Message#
+\.\C[4](And not just for myself...)
+##
+
+#Message#
+\.\C[4](It was... so everyone could escape...
+ So why...)
+##
+
+#Message#
+\.\C[4](I don't want to die... I don't...)
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\.\{"Get a grip, Sara!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](...!!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Erm, I mean. Hey now, Sara.
+\! Your friendly policeman's with ya."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...Keiji...!)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Listen, everybody.
+ We need to narrow it down to just one person."
+##
+
+#Message#
+\."Forget your sympathy and your grudges.
+ Just remember the \C[2]roles\C[0]."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."If we choose the \C[2]Keymaster\C[0] or \C[10]Sacrifice\C[0],
+ we all die..."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."Y-Yes, indeed!!
+ We're far from safe at all, absolutely!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent28-1}
+#Message#
+\."Oh! Hey, is one of us a \C[3]Sage\C[0]?!"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+{SE: Accent21-1}
+#Message#
+\."If we've got a \C[3]Sage\C[0] on our side,
+ they'll know who's the \C[2]Keymaster\C[0]...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]....................
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: horror_piano chord3}
+#Message#
+\."Don't tell me... There isn't, meow...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."This's the worst...!! So it's one of the five?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Nothing to be done...
+ There's only one course of action."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Have the five prove it with words.
+ ...Isn't that right, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Yes
+##
+
+<はい>
+
+<Choice End>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+"Exactly."
+##
+
+#Message#
+\."I'll prove to you who the real Keymaster is!!"
+##
+
+{Keiji}
+#Message#
+\."...Good."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Remember people's words and actions in discussion...
+ That's where the path to victory lies."
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Heeheehee... The final 20 minutes...
+ Please use this endlessly short time effectively."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."I'll be praying... you don't all perish.
+ Aheehee."
+##
+
+{N/A}
+#Message#
+\.\C[3]Miley quietly sat in the chair again.
+##
+
+#Message#
+\.\C[3]The final battle begins...!
+##
+
+
+**********Event6********** (EV006) (6,0)
+-----Page1-----
+{Sara}
+#Message#
+"We don't know that yet!!"
+##
+
+{Sou}
+#Message#
+\."Huh? You're sticking up for him even after hearing
+ such dubious emails? Miss Sara, clearly you're..."
+##
+
+{Sara}
+#Message#
+\."T-That's not it!!"
+##
+
+{Sou}
+#Message#
+\."Hmm, I wonder?
+ Decide more calmly, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"Are those emails not just one of your lies, Sou?"
+##
+
+{Sou}
+#Message#
+\."Ahaha, you sure do want to call me a liar, it seems."
+##
+
+#Message#
+\."If you can't believe it, why not close your ears?
+ And I'll carry the conversation how I like."
+##
+
+{Sara}
+#Message#
+\.\C[4](Grr...! I need to beat him on his terms,
+ or I won't be able to shut him up...!)
+##
+
+#Message#
+"Hold on! You're wrong!
+ Where's your proof that I'm definitely with them?!"
+##
+
+{Sou}
+#Message#
+\."I think it can be inferred from the emails..."
+##
+
+{Sara}
+#Message#
+\."So that's all it is! A conjecture!!"
+##
+
+{Sou}
+#Message#
+\."...Hmph... I see."
+##
+
+-----Page3-----
+{Sara}
+#Message#
+"Sou, earlier you said that they were all
+ sent to different email addresses!"
+##
+
+{Sou}
+#Message#
+\."What about it?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."That means saying they all went to one person
+ is just your own assumption!"
+##
+
+{Sou}
+#Message#
+\."I'm pretty confident in it, myself.
+ ...Though I suppose there's no proof."
+##
+
+#Message#
+\."Well... I'm just claiming it, anyway."
+##
+
+{Sara}
+#Message#
+"Only he would know about that!"
+##
+
+{Sou}
+#Message#
+\."He wrote "I feel a deep affection."
+ Isn't that enough for you?"
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+{Sara}
+#Message#
+"Kai has no connection to my family!
+ He couldn't have any devotion!"
+##
+
+{Sou}
+#Message#
+\.""I'll offer myself up for the Chidouins"...
+ That line makes him sound almost like a servant.
+ Hey, I doubted my eyes too."
+##
+
+#Message#
+\."I saw it... so I just have to believe it, right?"
+##
+
+{Sara}
+#Message#
+\."Urgh..."
+##
+
+#Message#
+\.\C[4](Was Kai connected with my family
+ in some way I didn't know about...?!)
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+-----Page5-----
+{Sara}
+#Message#
+"No way...! That's absurd! We're just a normal family!"
+##
+
+{Sou}
+#Message#
+\."Maybe your mother, or your father...?"
+##
+
+#Message#
+\."Actually... It might be amusing
+ if you were the big boss yourself, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't call it "amusing"...!!)
+##
+
+#Message#
+"I don't remember anything about that!"
+##
+
+{Sou}
+#Message#
+\."If miss Sara comes to harm, you're my enemy...
+ That's what it says in the email."
+##
+
+#Message#
+\."Such a rebellious remark."
+##
+
+#Message#
+\."He'd go against another to protect you...
+ How envious, to be loved."
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"I understand how Kai is suspicious!
+ Even suspicion of me is inevitable... but..."
+##
+
+#Message#
+\."Suspecting the three of us as a group isn't right!"
+##
+
+#Message#
+\."You're just presenting this in a manipulative way!"
+##
+
+{Sou}
+#Message#
+\."Geez... That's a sharp remark."
+##
+
+#Message#
+\."Well, I'll say it like this for you."
+##
+
+-----Page7-----
+{Sara}
+#Message#
+"Wait, please!
+ Joe's name isn't even mentioned in the email!"
+##
+
+#Message#
+\."Making a conclusion off of that
+ is letting your assumptions go wild!"
+##
+
+{Sou}
+#Message#
+\."You like personal attacks, huh, miss Sara?"
+##
+
+#Message#
+\."Ah, well... I guess I'll acknowledge it."
+##
+
+#Message#
+\."That said, I'm not going to let you escape."
+##
+
+{Sara}
+#Message#
+"M-Maybe it's referring to something else!
+ Like video games, or sports!"
+##
+
+{Sou}
+#Message#
+\."Ahaha, you could list endless possibilities."
+##
+
+#Message#
+\."...The word Death Game is used at the start.
+ It's normal to think it's that, isn't it?"
+##
+
+{Sara}
+#Message#
+"B-But...!"
+##
+
+{Sou}
+#Message#
+\."Ahaha, what iiis it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"Please, stop talking as if
+ I'm enjoying the Death Game or something!"
+##
+
+{Sou}
+#Message#
+\."That you were looking forward to it
+ is why you're participating now, right?"
+##
+
+{Sara}
+#Message#
+\."Don't joke with me! You're just reading
+ the emails with a malicious intent!"
+##
+
+{Sou}
+#Message#
+\."I want to defeat these villains...
+ So of course I'm gonna take it seriously."
+##
+
+{Sara}
+#Message#
+\.\C[4](What a loathsome individual...!)
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+-----Page9-----
+{Sara}
+#Message#
+"What?! What list in the bar do you mean?!"
+##
+
+{Sou}
+#Message#
+\."Oh, you didn't know? There's that list of
+ people's names on the blackboard, right?"
+##
+
+#Message#
+\."Those are the names of the people brought here...
+ 20 in all."
+##
+
+#Message#
+\."And if you remove Sara, Kai, and Joe,
+ that's 17 people. It matches up, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Gah...! What's the meaning of this?!)
+##
+
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"No! We don't have any connection!"
+##
+
+{Sou}
+#Message#
+\."Ehh...? He went as far as threatening miss Nao
+ to keep the emails from being seen, right?"
+##
+
+#Message#
+\."Or is there some other reason...?"
+##
+
+{Sara}
+#Message#
+"...Err... um... maybe there are
+ some images he didn't want seen..."
+##
+
+{Sou}
+#Message#
+\."Take this more seriously, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](That was a failure...!)
+##
+
+#Message#
+"Of course I will!!
+ Isn't this all conjecture anyway?!"
+##
+
+{Sou}
+#Message#
+\."What's that...?"
+##
+
+{Sara}
+#Message#
+\."You provide some proof too, Sou!
+ Proof those emails were there!!"
+##
+
+{Sou}
+#Message#
+\."Funny you say that, after you guys stole it..."
+##
+
+#Message#
+\."So unfortunately... I don't have proof."
+##
+
+{Sara}
+#Message#
+\."Then we're in the same situation!
+ I'm denying those emails!"
+##
+
+{Sou}
+#Message#
+\."...!"
+##
+
+
+**********Event7********** (EV007) (7,0)
+-----Page2-----
+{Sou}
+#Message#
+"Looks like you can't say anything back."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page4-----
+{Sou}
+#Message#
+"Looks like you can't say anything back."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page6-----
+{Sou}
+#Message#
+"Looks like you can't say anything back."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page8-----
+{Sou}
+#Message#
+"Looks like you can't say anything back."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+
+-----Page10-----
+{Sou}
+#Message#
+"Looks like you can't say anything back."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I messed that up!)
+##
+

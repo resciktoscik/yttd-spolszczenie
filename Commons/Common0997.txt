@@ -1,0 +1,127 @@
+**********Common997********** (Q「責任を取る」)
+{Q-taro}
+#Message#
+"You think Sou blackmailed me or something?
+ There ain't nothin'..."
+##
+
+#Message#
+"I... went to Sou an' asked him to share the laptop."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Wha's that supposed to mean?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"How's that a rebuttal...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Even though the laptop was Kai's partin' gift..."
+##
+
+#Message#
+"I mean... I had a responsibility, y'know."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"When the token-gathering Sub-Game started, I..."
+##
+
+#Message#
+\."I gathered more tokens than anybody to survive."
+##
+
+#Message#
+\."Even the laptop I'd managed to get my hands on...
+ I handed it over in exchange for Sou's tokens..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I was possessed by the need for tokens
+ back then, y'hear...?!"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."Is that really the only reason...?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."O... Obviously..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent28-1}
+#Message#
+\."You think Sou blackmailed me or something?
+ There ain't nothin'..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Blackmail... Is there really nothing?)
+##
+

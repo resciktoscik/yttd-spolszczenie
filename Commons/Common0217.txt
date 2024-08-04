@@ -1,0 +1,71 @@
+**********Common217********** (▽ﾅｵ…否定)
+{Sara}
+#Message#
+"No! You could get in by breaking the window!"
+##
+
+{Nao}
+#Message#
+\."The window's not brokeeeeen!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Come to think of it...!)
+##
+
+#Message#
+"Throwing a key? What if it hit someone?!"
+##
+
+{Nao}
+#Message#
+\."I-Is that the issue...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](My diligence is betraying me...!)
+##
+
+#Message#
+"No! Kai has a good heart,
+ and wants to help those in need!"
+##
+
+{Nao}
+#Message#
+\."The same Kai who's troubling me now?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I see...!)
+##
+
+#Message#
+"There wasn't anything deep enough for resentment.
+ Which meant he had an objective \C[2]not tied to Sou\C[0]!"
+##
+
+{Kai}
+#Message#
+\."Hmm. If you insist that's the case,
+ what objective could I have had?"
+##
+
+{Sara}
+#Message#
+"No, the risk is too great for that."
+##
+
+{Nao}
+#Message#
+\."T... Then what exactly...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Hm.)
+##
+

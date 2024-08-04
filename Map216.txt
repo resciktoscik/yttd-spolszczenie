@@ -1,0 +1,692 @@
+=====Map216===== (★Battle Discussion Room)
+
+**********Event2********** (EV002) (4,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Maple is angry.
+##
+
+{Maple}
+#Message#
+\."So mean!! I won't forgive you!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+"C-Calm down...!"
+##
+
+{N/A}
+#Message#
+\C[3]Maple started crying.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."*sniff*... Why... So mean..."
+##
+
+{Ranmaru}
+#Message#
+"Huh?!
+ She's started to cry?!"
+##
+
+{N/A}
+#Message#
+\C[3]Maple started laughing.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."Heehee... Ahaha..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+"W-What?!
+ What's goin' on with her?!"
+##
+
+{Sara}
+#Message#
+\C[4](It seems Maple's emotions are all over the place...!)
+##
+
+{N/A}
+#Message#
+\C[3]Maple became angry.
+##
+
+{Maple}
+#Message#
+\."Give it back! Give it back! Give it back!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+"S... Sure enough, she's mad..."
+##
+
+{N/A}
+#Message#
+\C[3]Maple started crying.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."*sniff*... Why... So mean..."
+##
+
+{Ranmaru}
+#Message#
+"I do feel a little guilty, honestly..."
+##
+
+{N/A}
+#Message#
+\C[3]Maple started laughing.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."Heehee... Ahaha..."
+##
+
+{Ranmaru}
+#Message#
+"...This is when she's scariest."
+##
+
+{N/A}
+#Message#
+\C[3]Maple became angry.
+##
+
+{Maple}
+#Message#
+\."That's enough!! No mercy!! No mercy!!"
+##
+
+{Ranmaru}
+#Message#
+"Y-Yikes...! She's coming close!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](We have to get through this somehow...!)
+##
+
+#Message#
+\.\C[4](Maple attacks when she's angry!
+ We need to watch her and act accordingly...!)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Maple is angry.
+##
+
+{Maple}
+#Message#
+\."I won't forgive you!! Any of you!!"
+##
+
+{Hinako} [Hinako: Grave look / cara93-11]
+#Message#
+"So intense..."
+##
+
+{N/A}
+#Message#
+\C[3]Maple started crying.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."You're bullying me... You're all bullying me..."
+##
+
+{Ranmaru} [Kurumada: Narrowed eyes, shouting / cara95-14]
+#Message#
+"Ain't that our line?!"
+##
+
+{N/A}
+#Message#
+\C[3]Maple started laughing.
+##
+
+{Maple}
+#Message#
+\."Heehee, heeheehee.
+ I'll give you something good, heehee..."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Maple took out a handkerchief from a shelf.
+##
+
+{Maple}
+#Message#
+\."Won't you accept it? Heehee."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+"What's this all of a sudden? A trap...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."But... it might help us get closer with her!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Could be... It'd take guts to accept it."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"I dunno how to deal with all'a this!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Don't be afraid! I'm sure we can get along!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."It's tough... If only we had some hints..."
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Maple got angry.
+##
+
+#Message#
+\.\C[3]Maple quickly put away the handkerchief.
+##
+
+{Maple}
+#Message#
+\."I won't forgive you!! Any of you!!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"I can't keep up with all this, meow!"
+##
+
+{N/A}
+#Message#
+\C[3]Maple started crying.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."I've had enough... So sad... So sad..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Smiling, then angry, then crying...
+ Ain't her emotions changing in order?"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Joy, anger, sadness...
+ Hmph... It appears they're changing in order..."
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Maple started laughing.
+##
+
+{Maple}
+#Message#
+\."Heehee, heeheehee.
+ I'll give you something good, heehee..."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Maple took out a handkerchief from a shelf.
+##
+
+{Maple}
+#Message#
+\."Won't you accept it? Heehee."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"W-What should we do?
+ Should we accept it this time...?"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"S-Surely we're not accepting that...?"
+##
+
+<Condition End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Geez! Even if it's creepy, I'd rather
+ she just smiled all the time, meow!!"
+##
+
+{N/A}
+#Message#
+\C[3]Maple got angry.
+##
+
+#Message#
+\.\C[3]Maple quickly put away the handkerchief.
+##
+
+{Maple}
+#Message#
+\."Enough!! Give him back!! Hiyori!!"
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth, grim look / cara92-12]
+#Message#
+"O-Oh dear..."
+##
+
+{N/A}
+#Message#
+\C[3]Maple started crying.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."No one understands me... So cruel... So cruel..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+"W-We'll understand!
+ Please believe us, miss Maple!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Urgh... This really is a pain..."
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Maple started laughing.
+##
+
+{Maple}
+#Message#
+\."Heehee, heeheehee.
+ I'll give you something good, heehee..."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Maple took out a handkerchief from a shelf.
+##
+
+{Maple}
+#Message#
+\."Won't you accept it? Heehee."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"T... The third time...
+ Will we accept it this time?"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"Ugh, so stubborn...
+ Will we accept it this time...?"
+##
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+"At least she isn't attacking when she's smiling..."
+##
+
+{N/A}
+#Message#
+\C[3]Maple got angry.
+##
+
+#Message#
+\.\C[3]Maple quickly put away the handkerchief.
+##
+
+{Maple}
+#Message#
+\."Come on already!! I've told you again and again!!
+ Give it back...!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"...Might want to get ready to run."
+##
+
+{N/A}
+#Message#
+\C[3]Maple started crying.
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."I don't want to kill you...
+ I thought we were friends..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"H-Hey! Figure somethin' out, quick...!"
+##
+
+{N/A}
+#Message#
+\C[3]Maple started laughing.
+##
+
+{Maple}
+#Message#
+\."Eheheh. I want to say goodbye with a smile..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"Y-Yikes!!
+ She's gonna come for us soon!"
+##
+
+<Else>
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+"A... Ahemmm?!
+ Is your smile not looking rather sick?!"
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Maple got angry.
+##
+
+{Maple}
+#Message#
+\."This is the end!! I'll kill you...!!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"This is bad, Sara!!
+ We gotta reconcile, now...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Everyone's here...!
+ Is there any way to resolve this without fighting?!)
+##
+
+#Message#
+\.\C[4](We have to raise Maple's friendship level...
+ Let's watch her emotions and consider our actions!)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Q-taro is grabbing \N[4]'s legs.
+##
+
+#Message#
+\C[3]The monster is being held down.
+##
+
+#Message#
+\C[3]The monster is defenselessly trying to get up.
+##
+
+-----Page5-----
+%ignore
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Maple}
+{SE: horror_piano chord3}
+#Message#
+"No mercy! Give it back! Hiyori!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Yikes...! She's completely flipped her lid!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Do we have no choice but to fight after all...?!)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."The two of us've got no chance!
+ We gotta think of a way to escape...!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](She'll kill us if we give her the opportunity...!)
+##
+
+
+**********Event5********** (お手紙) (2,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Letter]
+A letter Maple received from \N[4].
+Just touching it makes her furious.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3][Maple's Instruction Manual]
+It describes how you need to
+\C[2]wait until her friendship is high\C[3] to \C[2]reconcile\C[3].
+##
+
+#Choice#
+Examine
+Cancel
+##
+
+<詳しく読む>
+
+{Instruction Manual}
+#Message#
+\C[6]The strongest doll, Maple, is a lonesome girl.
+##
+
+#Message#
+\.\C[6]You shouldn't use violence with her. What's important
+is sympathizing with her and being her friend.
+##
+
+#Message#
+\.\C[6]Understanding her emotions and
+becoming a good friend is the key to peace.
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event7********** (a) (3,3)
+-----Page1-----
+#Message#
+\C[3]Green books from the library.
+They're about the strongest doll, Maple.
+##
+
+#Choice#
+Read Volume 1
+Read Volume 2
+Read Volume 3
+Cancel
+##
+
+<１巻を読む>
+
+{Green Book}
+#Message#
+\C[6]Hey there! It's me!
+For Death Game participants around the nation
+troubled by Obstructors, I bear good tidings!
+##
+
+#Message#
+\.\C[6]Believe it or not, I'll tell you the weakness
+of the strongest Obstructor doll, Maple!
+##
+
+#Message#
+\.\C[6]It's the crevice in her back!
+Remember this, and you'll soon be an Obstructor Master!
+##
+
+<２巻を読む>
+
+{Green Book}
+#Message#
+\C[6]A follow-up report! A new weakness has been discovered
+for strongest of the dolls Maple!
+##
+
+#Message#
+\.\C[6]The key is the link between emotions and colors!
+Red is anger, blue is sadness, yellow is joy! WOW!
+##
+
+#Message#
+\.\C[6]Knowing is half the battle!
+Remember this, and you'll soon be an Obstructor King!
+##
+
+<３巻を読む>
+
+{Green Book}
+#Message#
+\C[6]The secret's out! The hitherto unknown weakness
+of strongest doll Maple, laid bare!
+##
+
+#Message#
+\.\C[6]"When she's happy, have fun together!"
+"When she's angry, hear her out!"
+"When she's sad, show her kindness!"
+##
+
+#Message#
+\.\C[6]Be sure to treat her with care!
+Remember this, and you'll soon be an Obstructor God!
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event9********** (ハンカチーフ) (4,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][Handkerchief]
+A cute lace handkerchief.
+It has a sweet smell.
+##
+
+
+**********Event10********** (IDカード) (1,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3][ID Card]
+An ID card with \N[4]
+(real name Sou Hiyori)'s face on it.
+##
+

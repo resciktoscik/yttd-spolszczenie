@@ -1,0 +1,16 @@
+**********Common113********** (投票カンナ)
+#Message#
+Vote for \C[2]Kanna\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

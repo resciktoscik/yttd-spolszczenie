@@ -1,0 +1,17 @@
+**********Common1546********** (⑧マイB選択)
+{N/A}
+#Message#
+"Urk... I'm scared, but I'll absorb the charge!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

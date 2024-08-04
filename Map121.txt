@@ -1,0 +1,24 @@
+=====Map121===== (★Chapter 2 END Quarantine)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{SE: Accent28-1}
+#Message#
+\C[3]Good job playing this far.
+##
+
+#Message#
+\.\C[3]This is a waiting room
+for until the next episode is released.
+##
+
+#Message#
+\.\C[3]If you save here, when the next episode is out,
+you can, you know... continue on all nicely.
+##
+
+#Message#
+\.\C[3]Well then...
+Thank you very much for staying with it this far.
+##
+

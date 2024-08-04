@@ -1,0 +1,112 @@
+**********Common1655********** (※◆ｱﾘｽ「誰かが塗料」)
+{Alice}
+#Message#
+"Surely \N[4] repainted some \C[2]old coffins\C[0]
+ that had been sitting around for some time...!"
+##
+
+#Message#
+"Hmph... Then someone painted the coffins
+ before we parted from Cubetaro Hamburger!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Don't find fault with me!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Don't find fault with me!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"This is an old facility... Surely those coffins were
+ left for a long time, and grew covered in mold...!"
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+"It's inconceivable that no one saw
+ such a suspicious act. Thus..."
+##
+
+[Alice: Angry shout / cara11-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It was much, much earlier...!"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."The very beginning!
+ Before the Death Game even begaaaaan!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Before it began...?)
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Don't gawk at me! What I mean is
+ they were \C[2]repainted\C[0] for the Death Game!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Surely \N[4] repainted some \C[2]old coffins\C[0]
+ that had been sitting around for some time...!"
+##
+
+{Sara}
+#Message#
+\C[4](He reused them...?)
+##
+

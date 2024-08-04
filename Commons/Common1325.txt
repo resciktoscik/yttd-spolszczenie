@@ -1,0 +1,558 @@
+**********Common1325********** (⑤過去正解の解答)
+{Keiji}
+#Message#
+\C[4](Q-taro had the curtain half-closed
+ so children couldn't see in...)
+##
+
+{Sara}
+#Message#
+\.\C[4](Not wanting to be seen when you're weak...
+ I definitely get that myself.)
+##
+
+{Keiji}
+#Message#
+\C[4](This pulled-back curtain...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."The curtain?
+ You just take interest in the weirdest places, huh?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Nothing of interest there?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."...Nah, wait."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."...There was. I think the curtain..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"It was half-closed so that
+ you couldn't see from the other room..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"That room... had kids in it, see."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent40-1}
+#Message#
+\."And they were baseball lovers.
+ In deep enough to even know 'bout me..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."To children... athletes are like superheroes."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."That's right... You understand, don'tcha?"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."I couldn't let those sick kids in the hospital
+ see me like that...!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](He didn't want them to see their hero discouraged...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](It seems Reko was crying at the time.)
+##
+
+#Message#
+\.\C[4](She was clinging onto the other person...
+ an uncharacteristic thing for Reko to do.)
+##
+
+#Message#
+\C[4](Reko's behavior...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember yourself a little more?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Myself...?"
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+{SE: Accent21-1}
+#Message#
+\."Actually... I don't think I was
+ feelin' all that good about meeting him..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."In fact, I..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."I was cryin', listening to him..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Maybe hopeful... maybe hopeless...
+ It was somethin' I didn't wanna believe..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent41-1}
+#Message#
+\."That's right... I feel like I was clingin' to him."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."What a goddamn miserable feeling...!
+ Why'd I forget somethin' like this?!"
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](True... It's hard to imagine
+ Reko doing something like that...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](The heater here was actually running at max heat.)
+##
+
+#Message#
+\.\C[4](Apparently Sou could only do that
+ when \N[4] wasn't around...)
+##
+
+#Message#
+\C[4](This warm-looking heater...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."...Find something curious about that?"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: flash-of-light-3}
+#Message#
+\."Yes!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Hmm..."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent21-1}
+#Message#
+\."...Ah.
+ Well, it's nothing major, but..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."The room was being heated at maximum power."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."You can catch a cold if it's too chilly, right?
+ So I like to turn up the heat."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."When there are all those machines...?
+ Is that safe?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: shrink1}
+#Message#
+\."That's why \N[4] would stop me.
+ He even complained about it..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: Accent24-1}
+#Message#
+\."It was pretty much only when he wasn't there
+ that I could turn the heat all the way up."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](When he wasn't there...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](There's a picture of a butterfly here
+ that Gin doesn't remember drawing.)
+##
+
+#Message#
+\.\C[4](He said it was like a big ink stain...)
+##
+
+#Message#
+\C[4](This butterfly picture on the whiteboard...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: flash-of-light-3}
+#Message#
+\."Roger, meow!
+ That's a picture I drew..."
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\."...Huh?"
+##
+
+[Gin: Worried / cara9-3]
+{SE: Accent41-1}
+#Message#
+\."I never drew a picture of a butterfly, woof."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."That was... a picture of a butterfly
+ the teacher brought, meow."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."It was a really sucky drawing...
+ like a big ink stain, woof!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](An ink stain...?
+ I feel like I've seen this kind of picture before...)
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."My pictures are way better, meow!"
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Big sis Sara, we should draw
+ portraits of each other someday, woof!"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."W-Well now, I wonder...!"
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+\."...You don't wanna, meow?"
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."N-No, not at all.
+ I look forward to it."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Yaaay!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](I just hope he doesn't cry when he sees it...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\C[4](Outside, it was actually evening.)
+##
+
+#Message#
+\.\C[4](That would be about the right time,
+ since she was coming home from school...)
+##
+
+#Message#
+\C[4](The scenery outside the window...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Right... Outside the window..."
+##
+
+[Kanna: Neutral smile / cara3-9]
+{SE: Accent21-1}
+#Message#
+\."Actually... I got it a little wrong."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."We visited that shop in the evening."
+##
+
+#Message#
+\."The ice cream we ate while
+ walking home from school was so tasty..."
+##
+
+[Kanna: Offended shout with sweat / cara3-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And it was earlier than usual,
+ so sister decided to go to a different shop!"
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+{SE: Accent42-1}
+#Message#
+\."To think they had cakes, too...
+ She must have been keeping quiet about it, I'm sure."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Do you eat that much, Kanna...?)
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Come to think of it, I wonder if us eating as
+ we walked home is why sunsets make my tummy rumble..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+{SE: Accent41-1}
+#Message#
+\."What's that called, again... Pavlov's Dog?"
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent28-1}
+#Message#
+\."Oh! Right, the doggy that ends up drooling
+ just from ringing his meal bell!"
+##
+
+[Kanna: Hands in front smile / cara3-18]
+#Message#
+\."..."
+##
+
+[Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."That's so mean, Sara!!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\C[4](There were bongos next to the ladder.)
+##
+
+#Message#
+\.\C[4](They were a gift from someone...
+ But it wasn't Reko...)
+##
+
+#Message#
+\C[4](Next to the ladder...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Surprised face / cara11-2]
+#Message#
+\."Whaaat? You're wondering about a place like that?"
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."Come to think of it... I feel something was there..."
+##
+
+[Alice: Surprised face / cara11-2]
+{SE: Accent21-1}
+#Message#
+\."Ah..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."...The bongos..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."That morning, they came in as a gift from someone..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Honestly... I gulped.
+ I thought, it couldn't be..."
+##
+
+{Sara} [Sara: Hands on hips, groan / cara0-22]
+#Message#
+\."..."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Yet... they weren't from Reko!
+ Damn it! What in the world were these...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Getting sent an instrument...
+ of course he'd think that...)
+##
+
+<やめる>
+
+<Choice End>
+

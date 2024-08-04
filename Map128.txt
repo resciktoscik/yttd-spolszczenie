@@ -1,0 +1,1231 @@
+=====Map128===== (❹Your Bedroom)
+
+**********Event4********** (EV004) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+"...Whew..."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]A Ring-Up Box has appeared in the back of my room.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]It's... quiet.
+##
+
+#Message#
+\.\C[3]Here in my room, I'm all alone.
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh...?)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]My hands are shaking.
+##
+
+{Sara}
+#Message#
+\.\C[4](...This...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Back there, I tried to cheer everyone up
+so they wouldn't be uneasy.
+##
+
+#Message#
+\.\C[3]I told myself I couldn't give in around them.
+##
+
+{Sara}
+#Message#
+\.\C[4](But when I'm alone... I'm so cowardly...)
+##
+
+#Message#
+\.\C[4](No, no... I can't get timid...)
+##
+
+#Message#
+\.\C[4](What the...?!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Suddenly, the tablet began making a sound.
+##
+
+{Sara}
+#Message#
+\.\C[4](Could this sound mean...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](It's begun...?)
+##
+
+{Tablet}
+#Message#
+\.\C[3]The \C[2]Trading Phase\C[3] of the Main Game will now begin.
+##
+
+#Message#
+\.\C[3]Now accessing your role card.
+##
+
+{Sara}
+#Message#
+\.\C[4](My role...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]A fateful moment.
+##
+
+#Message#
+\.\C[3]My heartbeat is loud and out of control.
+##
+
+#Message#
+\.\C[3]Subconsciously, I was praying.
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't do it...)
+##
+
+{N/A}
+{SE: shock1}
+#Message#
+\{\C[10]Anything but the one that killed Joe...
+##
+
+{Sara}
+#Message#
+\.\C[4](C... Commoner...)
+##
+
+#Message#
+\."I... see..."
+##
+
+{SE: landing1}
+#Message#
+\."...Hhaah...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Before I knew it, I'd dropped to the floor.
+##
+
+#Message#
+\.\C[3]Relief...
+##
+
+#Message#
+\.\C[3]I stayed there motionless for a few minutes.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Thank g..."
+##
+
+{Voice From Door}
+{SE: horror_piano chord3}
+#Message#
+"Hey, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+#Choice#
+Is that Keiji?
+Is that Nao?
+..........
+##
+
+<ケイジさんですか？>
+
+{Sara}
+#Message#
+\."U... Umm..."
+##
+
+#Message#
+\."...Is that you, Keiji?"
+##
+
+{Voice From Door}
+{SE: Accent28-1}
+#Message#
+\."Yep. Could you open up?
+ Can we talk in there?"
+##
+
+<ナオさんですか？>
+
+{Sara}
+#Message#
+\."U... Umm..."
+##
+
+#Message#
+\."...Is that you, Nao?"
+##
+
+{Voice From Door}
+#Message#
+\."Does my voice sound that cute?
+ Nope, it's your friendly policeman."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Keiji...!)
+##
+
+<………>
+
+{Voice From Door}
+#Message#
+\."...You okay? You on guard?"
+##
+
+#Message#
+\."Your friendly policeman just wants to
+ come in and chat... How about it?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](It's Keiji...!)
+##
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](Should I open the door and invite him in?)
+##
+
+#Choice#
+Open door and invite in
+Don't open and chat
+Silently ignore him
+Ask him for a password
+##
+
+<扉を開けて招き入れる>
+
+{Sara}
+#Message#
+\."I'll open it now."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...Thanks."
+##
+
+<開けずに会話する>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."For now, can we... just talk like this?"
+##
+
+{Voice From Door}
+#Message#
+\."...Okie-dokie. I'll just get straight to business."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Business...?)
+##
+
+<無言で無視する>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\.".........."
+##
+
+{Voice From Door}
+#Message#
+\."...Didn't want to have me at your door, huh?"
+##
+
+#Message#
+\."Hmm. I mean, caution's a good thing and all..."
+##
+
+#Message#
+\."Okie-dokie. I'll just get straight to business."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Business...?)
+##
+
+<合言葉を言わせる>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."If you're Keiji, you should know the password!
+ Tell it to me!"
+##
+
+{Voice From Door}
+#Message#
+\."...Now that's a toughie.
+ Guess this case is going unsolved."
+##
+
+{Sara}
+#Message#
+\.\C[4](I can only imagine Keiji giving
+ such an unmotivated reply...)
+##
+
+{Voice From Door}
+#Message#
+\."Okie-dokie. I'll just get straight to business."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Business...?)
+##
+
+<Choice End>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."What exactly... do you want?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...I'll get straight to the point, Sara."
+##
+
+{Sara}
+#Message#
+\."...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sara, you're..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: shock1}
+#Message#
+\."The \C[10]Sacrifice\C[0], right?"
+##
+
+{Sara}
+#Message#
+\."...Nwuh?"
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...Waha..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Hahahaaa! That's one obvious reaction, Sara..."
+##
+
+{Sara}
+#Message#
+\.\C[4](S... Shoot! I made a weird sound!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Ahh, thank goodness... If you really were
+ the \C[10]Sacrifice\C[0], I'd have been pretty worried."
+##
+
+{Sara}
+#Message#
+\."I-I haven't confirmed anything yet!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."You make it obvious, but you won't confess...
+ Sure enough, you're clever."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: shrink1}
+#Message#
+\."But you're still a bad liar, huh?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hrrrgh...)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Whew."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Well, I'm the \C[2]Keymaster\C[0]."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Not gonna trust me at my word though, are you..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."'Scuse me for a second."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Keiji slipped by me into the phone booth.
+##
+
+{Sara}
+#Message#
+\."What are you doing?!"
+##
+
+{Keiji}
+#Message#
+\."...Presenting proof, I guess?"
+##
+
+{N/A}
+{SE: Put a coin}
+#Message#
+\.\C[3]Keiji went on inserting token after token.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Ahoy-hoy..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't tell me...!!)
+##
+
+#Message#
+\.\C[4](The tablet again...!)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](My role... changed!)
+##
+
+{Tablet}
+#Message#
+\.\C[3]The first trade has just been performed.
+##
+
+{Sara}
+#Message#
+\.\C[4](A trade?!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Huh... So you were a \C[4]Commoner\C[0], Sara."
+##
+
+{Sara}
+#Message#
+\."Did you just trade?!
+ Your \C[2]Keymaster\C[0]... for my \C[4]Commoner\C[0]!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."That proves it to you, right?
+ Your friendly policeman's the Keym..."
+##
+
+{Sara}
+#Message#
+\."What were you thinking?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Uh..."
+##
+
+{Sara}
+#Message#
+\."That was a valuable chance for a trade!
+ Why did you go and waste it on this?!"
+##
+
+{Voice From Door}
+#Message#
+\."Sara, you're..."
+##
+
+{SE: shock1}
+#Message#
+\."The \C[10]Sacrifice\C[0], right?"
+##
+
+{Sara}
+#Message#
+\."...Nwuh?"
+##
+
+{Voice From Door}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Waha..."
+##
+
+#Message#
+\."Hahahaaa! That's one obvious reaction, Sara..."
+##
+
+{Sara}
+#Message#
+\.\C[4](S... Shoot! I made a weird sound!)
+##
+
+{Voice From Door}
+#Message#
+\."Ahh, thank goodness... If you really were
+ the \C[10]Sacrifice\C[0], I'd have been pretty worried."
+##
+
+{Sara}
+#Message#
+\."I-I haven't confirmed anything yet!"
+##
+
+{Voice From Door}
+#Message#
+\."You make it obvious, but you won't confess...
+ Sure enough, you're clever."
+##
+
+{SE: shrink1}
+#Message#
+\."But you're still a bad liar, huh?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hrrrgh...)
+##
+
+{Voice From Door}
+#Message#
+\."...Whew."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Well, I'm the \C[2]Keymaster\C[0]."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Voice From Door}
+#Message#
+\."Not gonna trust me at my word though, are you..."
+##
+
+#Message#
+\."Just hold on a sec, Sara."
+##
+
+{N/A}
+#Message#
+\.\C[3]I hear footsteps trailing away from my door.
+##
+
+{Sara}
+#Message#
+\.\C[4](What's he going to do...?)
+##
+
+#Message#
+\.\C[4](Huh?!)
+##
+
+#Message#
+\.\C[4](The tablet again...!)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](My role... changed!)
+##
+
+{Tablet}
+#Message#
+\.\C[3]The first trade has just been performed.
+##
+
+{Sara}
+#Message#
+\.\C[4](A trade?!)
+##
+
+{Voice From Door}
+{SE: Accent28-1}
+#Message#
+"Well? I traded you my \C[2]Keymaster\C[0]."
+##
+
+{Sara}
+#Message#
+\."Wh...?!"
+##
+
+{N/A} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[3]Practically on reflex, I opened my door.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Thanks. So, Sara, you were a \C[4]Commoner\C[0]."
+##
+
+{Sara}
+#Message#
+\."What were you thinking?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Uh..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I dragged him into the room and closed the door.
+##
+
+{Sara}
+#Message#
+\."That was a valuable chance for a trade!
+ Why did you go and waste it on this?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Huh... You're mad at me?"
+##
+
+{Sara}
+#Message#
+\."I'm not mad!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."Just... wanted you to trust me."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."We've only got 3 hours.
+ No time to waste suspecting each other over roles."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."'Cause we're... gonna make our escape."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+#Message#
+\."...I understand."
+##
+
+#Message#
+\."You must have an idea. Tell it to me."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Right..."
+##
+
+
+**********Event5********** (keikei) (7,5)
+-----Page1-----
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Say, Sara.
+ What sorts of methods could we escape by, you think?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Methods...?)
+##
+
+#Choice#
+Secretly look for an exit
+Defeat our enemy and leave
+Destroy the Death Game
+##
+
+<出口をこっそり探す>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+"We could search for an exit
+ without letting the kidnappers find us out."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."That's true. Maybe we can avoid
+ the watchful eye of the Floor Masters."
+##
+
+<敵を倒して帰る>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: flash-of-light-3}
+#Message#
+"Let's defeat the kidnappers and return home
+ gloriously out the front door."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Whoa, so courageous.
+ They might have weapons, y'know."
+##
+
+{Sara}
+#Message#
+\.\C[4](Still, maybe Q-taro could...!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...You're makin' me feel bad for Q-taro, Sara."
+##
+
+<デスゲームをぶっ壊す>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."We could cause a stir, to the point that they're like
+ "the Death Game is neither here nor there!"..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Hmm. Then what, should we make a time bomb?"
+##
+
+{Sara}
+{SE: flash-of-light-3}
+#Message#
+\."Yes, please."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+\."Sure enough, the thing we need... is information."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Where is this place? What sort of building is it?"
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."If we just had a floor map, at least,
+ we'd have half a chance."
+##
+
+{Sara}
+#Message#
+\."A floor map...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Which of us would know about something like that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh?! Wait, is there someone...?)
+##
+
+#Choice#
+Sou
+Mishima
+Kai
+Keiji
+##
+
+<ソウさん>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+"Sou... He's done a lot of suspicious stuff.
+ Maybe he knows something..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Hmm... It's true he's boundlessly suspicious."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."But I doubt we could investigate him
+ even if we had all the time in the world."
+##
+
+{Sara}
+#Message#
+\.\C[4](True... It'd be a pain.)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."So try someone else."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."...Kai."
+##
+
+<ミシマ先生>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+"Professor Mishima...?"
+##
+
+{Keiji}
+#Message#
+\."...That's a funny idea."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Mishima died and reappeared as an AI, but..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."What if some floor map data was put in him...?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Heh... As if."
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko destroyed the professor's AI, anyway...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."So then, the person I was thinking was..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."...Kai."
+##
+
+<カイさん>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+"Kai... of course."
+##
+
+{Keiji}
+#Message#
+\."Exactly.
+ Way to go, Sara."
+##
+
+<ケイジさん>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: flash-of-light-3}
+#Message#
+"Keiji... It's you, right?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I dunno a thing."
+##
+
+{Sara}
+#Message#
+\."Please, just fess up."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+\."Okay, I'll confess who I was thinking of."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."...Kai."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Kai was connected with the baddies."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Even if he didn't know the details of the Death Game,
+ he might have known something about this facility."
+##
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\.\C[4](But Kai's gone now...)
+##
+
+{SE: Accent21-1}
+#Message#
+\."So then... the laptop he left behind?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Yep. There's still info
+ we haven't checked on that laptop."
+##
+
+{Sara} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\.\C[4](Q-taro got his hands on it once,
+ but it ran out of battery...)
+##
+
+#Message#
+\.\C[4](And now, it's back in Sou's hands...)
+##
+
+#Message#
+\.\C[4](...It'll be hard to get back.)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And that brings us to..."
+##
+
+{Sara}
+#Message#
+\."...?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."You remember the place we found it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](That room full of rubble...?)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Well, I did a little detectiving there."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."You got a sec, Sara?"
+##
+
+{Sara}
+#Message#
+\."W... What is it?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji whispered in my ear.
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."...Kai came to that room."
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Now, let's move. There's no time."
+##
+
+{Sara}
+#Message#
+\."H... Hold on, Keiji!"
+##
+
+#Message#
+\.\C[4](Kai was in that room?)
+##
+
+#Message#
+\.\C[4](But before we even came to the third floor...
+ Kai was already...)
+##
+
+
+**********Event6********** (mosimo) (4,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A Ring-Up Box is built into the alcove.
+##
+
+{Sara}
+#Message#
+\.\C[4](So there's one in every bedroom...)
+##
+
+
+**********Event13********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event14********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event15********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event16********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event17********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event18********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event33********** (akari) (8,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A dim light illuminates the room.
+##
+
+
+**********Event47********** (sarahuton) (13,4)
+-----Page1-----
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+"...Smells good like big sis Sara, meow."
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't pick up any strange tastes, Gin...)
+##
+
+
+**********Event52********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

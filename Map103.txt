@@ -1,0 +1,125 @@
+=====Map103===== (Hide and Seek)
+
+**********Event5********** (sara) (1,12)
+-----Page1-----
+{Sara}
+#Message#
+"A huge monster, over 6 and a half feet tall..."
+##
+
+#Message#
+"Looks like scary masks showed up, too...!"
+##
+
+#Message#
+"Looks like we've wandered into
+ one heck of a haunted house!"
+##
+
+-----Page2-----
+{Sara}
+#Message#
+"All I can do... is cheer on...!"
+##
+
+
+**********Event8********** (aibo) (15,12)
+-----Page1-----
+{Keiji}
+#Message#
+"Raise all three evenly, or quickly raise them
+ one at a time... We'd better make a decision."
+##
+
+#Message#
+"Sensing more enemies. ...Let's be careful."
+##
+
+#Message#
+"Down to the last one.
+ Find a good opportunity and go for it."
+##
+
+-----Page2-----
+{Kanna}
+#Message#
+"If we're not touching the levers...
+ The output will gradually go down...!"
+##
+
+#Message#
+"M... My mind's racing faster and faster..."
+##
+
+#Message#
+"Urgh... Need to be courageous...!"
+##
+
+-----Page3-----
+{Alice}
+#Message#
+"Hmph... I was adept at hiding from wardens.
+ Don't make light of me!"
+##
+
+#Message#
+"A... Are there more enemies?
+ I didn't hear of this, Sara Chidouin!"
+##
+
+#Message#
+"I don't wanna do this anymooore!
+ They're all so creepy!!"
+##
+
+
+**********Event27********** (EV027) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."We'll start with me...!"
+##
+
+{Keiji}
+#Message#
+\."Let's keep a careful lookout."
+##
+
+{Kanna}
+#Message#
+\."G-Good luck!"
+##
+
+{Alice}
+#Message#
+\."Hmph. Let us hide carefully!"
+##
+
+{N/A}
+#Message#
+Hide and Seek ~Rules~
+##
+
+#Message#
+\.Touch the three levers to move to them
+and build their energy up to the maximum.
+Touch the rock to hide before the demon turns around.
+##
+
+#Choice#
+Hear it again
+Just try it
+##
+
+<もう一度説明を聞く>
+
+<とりあえずやってみる>
+
+{N/A}
+#Message#
+\.Touching your ally's icon will give you
+advice and the like, so... Good luck.
+##
+
+<Choice End>
+

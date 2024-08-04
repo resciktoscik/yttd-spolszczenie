@@ -1,0 +1,22 @@
+**********Common1513********** (⑦カンナB選択)
+{N/A}
+#Message#
+"Kanna will try \C[2]persuading\C[0] them to not be violent!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

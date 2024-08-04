@@ -1,0 +1,126 @@
+**********Common1345********** (25、間違いどす)
+{Sara}
+#Message#
+\C[4](This center monitor on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Making me remember the bad parts...
+ It's just a monitor."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."If I didn't understand a program or something,
+ \N[4] would put it on there and explain."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Not only that, he'd type the next lines of code
+ while starting directly at me..."
+##
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\.\C[4](Creepy...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\C[4](This shelf with stationery in it...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think there was just
+ stationery and stuff in it like I remember, meow."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Is there something suspicious, woof?"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Seems not...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This book on the table...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Right... I believe it was some religious book.
+ I had little interest for it, but..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."If God or Buddha truly exist, I would rather
+ that fiend be punished than myself be saved."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](...)
+##
+
+<やめる>
+
+<Choice End>
+

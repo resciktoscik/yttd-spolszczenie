@@ -1,0 +1,161 @@
+**********Common616********** (ﾅｵ「考えるですよね！」)
+{Nao}
+#Message#
+"Then the left LCD would be the venom timer.
+ It's ticking down moment by moment..."
+##
+
+#Message#
+"We have to \C[2]think\C[0]... right, Sara?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"U-Um, I think we should discuss right now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+{Nao}
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+{Nao}
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"Bit by bit, I'm calming down."
+##
+
+[Nao: Mouth open / cara7-1]
+#Message#
+\."Thank you very much..."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"First, umm... what should we start with...!"
+##
+
+{Sara}
+#Message#
+\."Nao, stay calm.
+ ...Think about what we're able to do first."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Y-Yes, sorry..."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent28-1}
+#Message#
+\."What I can do is observe...!"
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."And what I'm curious about here is, um..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why are these two LCDs here, I wonder...?"
+##
+
+{Sara}
+#Message#
+\."I'm guessing one of them is the timer
+ counting down to when the venomous stinger fires."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Yes... that's right."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent28-1}
+#Message#
+\."Then the left LCD would be the venom timer.
+ It's ticking down moment by moment..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Good... Nao's regained her composure!)
+##
+

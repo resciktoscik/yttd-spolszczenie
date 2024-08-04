@@ -1,0 +1,71 @@
+**********Common1679********** (・ｷﾞﾝ「ヒツギ証明」)
+{Gin}
+#Message#
+"I kinda feel like it's gonna be hard to theorize
+ just from the color of the lamp, woof...!!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"What do we do, woof?! This isn't good, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh... Gin's uneasy...)
+##
+

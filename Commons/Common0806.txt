@@ -1,0 +1,81 @@
+**********Common806********** (ﾅｵ「ﾅｵは本名」)
+{Nao}
+#Message#
+"This is my real name!! Professor Mishima
+ always called me "miss Nao," remember?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Looking up and to side, sweatdrop / cara7-27]
+#Message#
+"Is this... anything...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+"It's really not an alias, okay!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+"Please believe me! Saraaa!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I do really doubt it's an alias...)
+##
+

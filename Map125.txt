@@ -1,0 +1,689 @@
+=====Map125===== (❹Relaxation Room)
+
+**********Event2********** (QQQ) (11,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Q-taro is sitting silently.
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Sou and Kanna are cooped up in their room...
+ Can't even negotiate."
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+"Now, what am I gonna do..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Feels like he's breathing a little easy.)
+##
+
+#Choice#
+What are you doing now?
+Scare him from behind
+##
+
+<これからどうするんですか>
+
+{Sara} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: Accent28-1}
+#Message#
+"Q-taro... What are you going to do now?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Oh, Sara. I was thinkin', this is exactly the sort of
+ time to leisurely think about clues for escape..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But I'm havin' a humdinger of a time
+ on account'a findin' diddly squat."
+##
+
+{Sara}
+#Message#
+\."Um... hmm...?"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: Accent21-1}
+#Message#
+\."...I'm sayin' I haven't found anything."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Well, but I guess there's one thing..."
+##
+
+<背後から驚かす>
+
+{Sara} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\{"Boo!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Hwooohhhooohhh?!"
+##
+
+{Sara}
+#Message#
+\."Are you looking for leads on escape, Q-taro?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."Don't casually switch over to conversation!!
+ You freaked me out!!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown with sweat / cara4-15]
+#Message#
+\."I'm lookin', but... Sure 'nuff, nothin' new..."
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+\."Kai's laptop... 's pretty much all I got..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Would be nice to persuade Sou...
+ But he ain't leavin' his room."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And Kanna's with him too...
+ Hope he don't use her for nothin' evil."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]I sense impatience from Q-taro...
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Maybe the reason he's not entirely at wit's end...
+ is because he's got lots of tokens."
+##
+
+
+**********Event3********** (rekoshi) (14,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Reko is conversing quietly.
+##
+
+{Reko} [Reko: No makeup, fists out, angry sad eyes / cara6-26]
+#Message#
+"Can't spare the time to reapply my makeup..."
+##
+
+#Message#
+"Can't believe you, Kanna... Is Sou really...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](They're talking about Sou...?)
+##
+
+#Choice#
+Talk to her
+Ignore
+##
+
+<声をかける>
+
+{Sara} [Reko: No makeup, fists out, angry sad eyes / cara6-26]
+{SE: Accent21-1}
+#Message#
+"Reko..."
+##
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+\."...Hey."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Reko slapped my shoulder with an accepting smile.
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko...)
+##
+
+<無視する>
+
+{Sara} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+".........."
+##
+
+{Reko} [Reko: No makeup, hands out, worried look / cara6-32]
+#Message#
+\."Wha?! Sara!! You just made eye contact, right?!"
+##
+
+{Sara}
+#Message#
+\."Sorry... I thought I'd be butting in."
+##
+
+{Reko} [Reko: No makeup, fists out, angry sad eyes / cara6-26]
+#Message#
+\."Huh, is that why...
+ I was feeling a little down..."
+##
+
+<Choice End>
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+{SE: Accent21-1}
+#Message#
+\."I see you've got some color back in your face.
+ Glad you're okay, Sara."
+##
+
+{Sara}
+#Message#
+\."I'm sorry... at the time, I..."
+##
+
+{Reko} [Reko: No makeup, sad eyes / cara6-22]
+#Message#
+\."It's fine, don't say a thing.
+ We actually kept looking at the laptop..."
+##
+
+[Reko: No makeup, sad eyes, closed teeth / cara6-24]
+#Message#
+\."But there wasn't anything major."
+##
+
+{Sara}
+#Message#
+\."I see..."
+##
+
+{Reko} [Reko: No makeup, fists out, angry sad eyes / cara6-26]
+#Message#
+\."If I knew a little more about computers,
+ maybe I could do something..."
+##
+
+[Reko: No makeup, angry eyes, closed teeth / cara6-25]
+#Message#
+\."But that ain't happening.
+ Gotta think of something else..."
+##
+
+-----Page2-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff*...
+##
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+{SE: Equip2}
+#Message#
+\."Hmm? You want a hug, Gin? C'mere."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Mya?! Mya?!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Stop it, woof!! I'm seriously searching, meow!!"
+##
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+\."Hahaha! Sure you are, sure you are!"
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Alice is quietly listening to Kanna.
+##
+
+[Alice: Tired face / cara11-22]
+#Message#
+\C[3]Whenever Kanna looks uneasy,
+Alice lowers his head a little.
+##
+
+{Sara}
+#Message#
+\.\C[4](He's properly listening to her...)
+##
+
+{Alice} [Alice: Tired face, clutching chest / cara11-31]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Such scary eyes... And yet he's talking with Kanna...)
+##
+
+#Choice#
+Talk to him
+Ignore
+##
+
+<声をかける>
+
+{Sara} [Alice: Tired face, clutching chest / cara11-31]
+{SE: Accent21-1}
+#Message#
+"Alice..."
+##
+
+{Alice} [Alice: Tired face, eyes open / cara11-26]
+#Message#
+\."Sara Chidouin..."
+##
+
+[Alice: Tired face, mouth open / cara11-23]
+{SE: Accent28-1}
+#Message#
+\."Hmph... For how blue in the face you were
+ when you ran off, you're looking better now."
+##
+
+{Sara}
+#Message#
+\."So you were worried for me..."
+##
+
+{Alice} [Alice: Tired face, closed teeth / cara11-25]
+{SE: Accent21-1}
+#Message#
+\."Me, worried...? That's for someone
+ far more gullible... Fool..."
+##
+
+{Sara}
+#Message#
+".........."
+##
+
+<無視する>
+
+{Sara} [Alice: Tired face, closed teeth / cara11-25]
+#Message#
+".........."
+##
+
+{Alice}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ignoring me, Sara Chidouin...?"
+##
+
+[Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."Though it's fine.
+ You've always been too nosy..."
+##
+
+[Alice: Tired face, fist to palm, closed teeth / cara11-29]
+{SE: sceneswitch2}
+#Message#
+\."It's our fate to fight...
+ It's best you drop half-baked ideas of friendship."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](I ignore him, and suddenly he gets chatty...)
+##
+
+<Choice End>
+
+{Alice} [Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."Sara Chidouin, after you left,
+ we did continue to investigate the laptop..."
+##
+
+[Alice: Tired face / cara11-22]
+#Message#
+\."But there was no great information.
+ ...I'm just letting you know."
+##
+
+{Sara}
+#Message#
+\."Thank you very much..."
+##
+
+{Alice} [Alice: Tired face, mouth open / cara11-23]
+#Message#
+\."More importantly, would you take my place
+ as Kanna Kizuchi's conversation partner?"
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."She's treating me just like a friend.
+ Has she not forgotten I'm a murderer...?"
+##
+
+{Sara}
+#Message#
+\."I'm in a hurry, so..."
+##
+
+{Alice} [Alice: Tired face / cara11-22]
+#Message#
+\."...Mgh..."
+##
+
+-----Page4-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff*...
+##
+
+[Gin: Smile, hands in front / cara9-5]
+{SE: Accent21-1}
+#Message#
+\."Smells like a prison, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Wonder what kind of smell that is...)
+##
+
+
+**********Event4********** (kannnnna) (12,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Kanna is quietly conversing.
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Kanna... needs to search for
+ anything she can do too...!"
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+"Yes... Sou really has done a lot to help us escape..."
+##
+
+{Sara}
+#Message#
+\.\C[4](They're talking about Sou...?)
+##
+
+#Choice#
+Talk to her
+Shout loudly
+##
+
+<声をかける>
+
+{Sara} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+"Kanna..."
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Accent28-1}
+#Message#
+\."Sara!! Are you okay now?"
+##
+
+{Sara}
+#Message#
+\."Yeah... I just wasn't feeling well earlier."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Please, sit down! By all means!"
+##
+
+{Sara}
+#Message#
+\."Nah, I'm fine... You were sitting here first."
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: flash-of-light-3}
+#Message#
+\."T-Then I'll sit on your lap, Sara!"
+##
+
+{Sara}
+#Message#
+\."No thanks... Anyway, what's this about Sou?"
+##
+
+<大きな声をかける>
+
+{Sara} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\{"KANNA!!"
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."HyaaaAAAaaaAAAaaa?!"
+##
+
+{Sara}
+#Message#
+\."Talking about Sou? Let me hear it."
+##
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."Aahh... You scared me, sist...!!"
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."I-I mean, Sara."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Earlier... I went to return the laptop to Sou..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: sceneswitch2}
+#Message#
+\."And it looked like he was making progress
+ on a plan to escape...!"
+##
+
+{Sara}
+#Message#
+\."I... Is that right?!"
+##
+
+#Message#
+\.\C[4](Was what he said before really true...?)
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I'm sure Sou can come up with a way
+ for all of us to leave...!"
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+\."So..."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+{SE: horror_piano chord3}
+#Message#
+\."...Whatever role card you have...
+ It doesn't matter, Sara."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+#Message#
+\.\C[4](Kanna...?)
+##
+
+-----Page2-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff*...
+##
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."Yaaah!! Nooo!!"
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Meooow?! That hurt, woof!!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Huh...?! I-I'm sorry..."
+##
+
+
+**********Event23********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event24********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event25********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event26********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event27********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event28********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event30********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

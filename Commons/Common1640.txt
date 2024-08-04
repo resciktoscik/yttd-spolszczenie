@@ -1,0 +1,214 @@
+**********Common1640********** (◆ﾋﾅｺ「光いくつ？」)
+{Hinako}
+#Message#
+"So there are \C[2]five\C[0] glowing coffins in all...
+ Aha, I see..."
+##
+
+#Message#
+"Sara-senpai, give it a spin around.
+ Tell us how many glowing coffins there are!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"What's that? Are you even listening?!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"I don't think I get what you're going for!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Hinako} [Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+"Have to picture the scene in my head..."
+##
+
+[Hinako: Sad eyes, mouth open / cara93-8]
+{SE: Accent21-1}
+#Message#
+"Well...? Have you determined it?"
+##
+
+{Sara}
+#Message#
+\."Yeah. The number of glowing coffins is..."
+##
+
+#Choice#
+Three
+Five
+Seven
+All of them
+Don't know yet
+##
+
+<３つ>
+
+{Sara} [Hinako: Sad eyes, mouth open / cara93-8]
+{SE: Accent40-1}
+#Message#
+"Three."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Oh, are there really...!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: shrink1}
+#Message#
+\."...That may be a guess."
+##
+
+{Hinako} [Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\."Hey...! Count them accurately!!"
+##
+
+<５つ>
+
+{Sara} [Hinako: Grave look, eyes closed / cara93-13]
+{SE: Accent40-1}
+#Message#
+"Five."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Oh, are there really...!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yes...!"
+##
+
+{Hinako} [Hinako: Grave look, eyes closed / cara93-13]
+{SE: Accent28-1}
+#Message#
+\."All right... So there are \C[2]five\C[0] glowing coffins...
+ Aha, I see..."
+##
+
+{Sara}
+#Message#
+\C[4](This has to be a lead... Let me think about it.)
+##
+
+<７つ>
+
+{Sara} [Hinako: Grave look, eyes closed / cara93-13]
+{SE: Accent40-1}
+#Message#
+"Seven."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Oh, are there really...!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: shrink1}
+#Message#
+\."...I'm not confident."
+##
+
+{Hinako} [Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\."Hey...! Count them accurately!!"
+##
+
+<全部>
+
+{Sara} [Hinako: Grave look, eyes closed / cara93-13]
+{SE: Accent40-1}
+#Message#
+"It's all of them."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."So, nine...?!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: shrink1}
+#Message#
+\."...I might be wrong."
+##
+
+{Hinako} [Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\."Hey...! Count them accurately!!"
+##
+
+<まだわからない>
+
+{Sara} [Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\C[4](I should go count them...)
+##
+
+<Choice End>
+

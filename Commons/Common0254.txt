@@ -1,0 +1,81 @@
+**********Common254********** (Q「ジョー賢者？」)
+{Q-taro}
+#Message#
+"I was about to believe Joe earlier...
+ But is he really the \C[3]Sage\C[0]?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Sara! We got the time for you to point at me?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Doesn't seem too relevant to me, y'know?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Feels like it might be possible that
+ Joe's the \C[10]Sacrifice\C[0], even...! Grgggh...!"
+##
+
+#Message#
+\."Think... We gotta think...!!"
+##
+

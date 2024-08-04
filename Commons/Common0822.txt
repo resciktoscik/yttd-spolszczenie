@@ -1,0 +1,127 @@
+**********Common822********** (ﾅｵ「ﾃｽﾄﾌﾟﾚｲ」)
+{Nao}
+#Message#
+"Gashu said that the AIs in the Monitor Room were
+ the candidates who survived the First Trial..."
+##
+
+#Message#
+"You said they determined these chances of victory
+ by running simulations with AIs, right...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+"Hweh?! Umm... What is it?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Oof... I don't really get it...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+"In the digital world... we must have been made
+ to kill each other again and again..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Our AI selves must have killed each other
+ over and over to produce this data!
+ And then been reset to do it all over again...!"
+##
+
+[Nao: Hand on chest, head lowered, grim look / cara7-24]
+{SE: Accent28-1}
+#Message#
+\."Could that Monitor Room have been
+ the place they did the test runs?!"
+##
+
+{SE: Accent21-1}
+#Message#
+"Ah... wait... They're AIs,
+ so they'd only have to fight digitally..."
+##
+
+{Sara}
+#Message#
+\.\C[4](True... No reason they would have
+ needed to assemble in that room.)
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Come to think of it... I heard there was
+ something unique about the AIs in the Monitor Room."
+##
+
+[Nao: Looking up and to side, sweatdrop / cara7-27]
+{SE: sceneswitch2}
+#Message#
+\."That they were all the candidates
+ who survived the First Trial..."
+##
+
+{Sara}
+#Message#
+\.\C[4](All the candidates...)
+##
+

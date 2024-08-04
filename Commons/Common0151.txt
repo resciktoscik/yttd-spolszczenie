@@ -1,0 +1,116 @@
+**********Common151********** (ソウ豹変　保存)
+{Sou} [Sou: Afraid look with lightless eyes / cara5-9]
+#Message#
+\."Dammit! Why do you all...!
+ Why do you believe miss Sara so much?!"
+##
+
+#Message#
+\."It's cruel!
+ I'm just telling you the facts...!"
+##
+
+#Message#
+\."There's something off with you all!
+\! This is all wrong!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...And?"
+##
+
+{Sou} [Sou: Afraid look with lightless eyes / cara5-9]
+#Message#
+\."Huh...?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...You're not that kinda guy, Sou.
+ What lie you got for us next?"
+##
+
+{Sou} [Sou: Afraid look with lightless eyes / cara5-9]
+#Message#
+\."Urgh...!!"
+##
+
+#Message#
+\."You're cruel...! So cruel...!!"
+##
+
+#Message#
+\."Urrrgh... oogh..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[10]"Hahahahaha...!!"
+##
+
+#Message#
+\.\C[10]"Amazing, miss Sara.
+ You're a prodigy at seizing people's hearts!"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Sou}
+#Message#
+\.\C[10]"Shameful, the rest of you. The riffraff."
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\.\C[10]"Don't you value your lives?"
+##
+
+#Message#
+\.\C[10]"Are you too scared to doubt others?"
+##
+
+#Message#
+\.\C[10]"Do you not even have brains to think for yourselves?"
+##
+
+#Message#
+\.\C[10]"Death is just a matter of time for you.
+ That's the way weaklings live!"
+##
+
+#Message#
+\."Hahahahahaha!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."W-What the hell's happened to you...?!"
+##
+
+{Sou} [Sou: Sarcastic eyes / cara5-10]
+#Message#
+\."I've given up. On all you incompetents."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."Worthless... Every one of you..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Now this is a shocker.
+ It's worth prodding the shady ones."
+##
+

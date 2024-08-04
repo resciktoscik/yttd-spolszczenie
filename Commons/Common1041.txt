@@ -1,0 +1,36 @@
+**********Common1041********** (戦①胴ヨロイ破壊)
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+"Awright!
+ Destroyed that armor what was protecting its body!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Not bad at all, pro-wrestler old-timer."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I'mma baseball-playin' young-timer!!
+ Now think up our next plan already!"
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: Accent28-1}
+#Message#
+"...There. That'll do, right?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Destroying armor with a shovel...
+ You're really something."
+##
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+#Message#
+\."...I mean, my arm is tingling a little."
+##
+

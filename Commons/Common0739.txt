@@ -1,0 +1,677 @@
+**********Common739********** (⑧進展●「ｿｳとQ」)
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: sceneswitch2}
+#Message#
+"Sou, you had yet another objective
+ on top of tokens and the "Sara" folder."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."To control the \C[10]Sacrifice\C[0] as you wanted."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\.".........."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent21-1}
+#Message#
+\."...You got it."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+{Sou} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."After the \C[6]second trade\C[0],
+ me and Kanna were working on the escape plan."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Then I heard Q-taro through the door.
+ "Wanna make a deal?", he said."
+##
+
+#Message#
+\."I didn't care to listen,
+ but he slid his tablet under the door..."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."And there I saw it: \C[10]Sacrifice\C[0]."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."How brave of him to go as far as offering up info
+ just so I'd share the laptop."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."What do you know...?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Sara..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You... saw that 1F security footage, right..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Well... it's the truth."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."I haven't discussed my First Trial, have I?"
+##
+
+#Message#
+\."It was one absurd trial, I tell ya..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: Accent28-1}
+#Message#
+\."They told me...
+ "Set up the props used for the Death Game"..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Then it's true? You set up the cards?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yeah...
+ 'Course, I didn't know what they meant yet..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: sceneswitch2}
+#Message#
+\."Once I found out, I knew Kai's fate was set...!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."It's like I killed 'im!!
+ Kai took the \C[3]Sage\C[0] card I just placed at random...!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."That's why I at least wanted to
+ get Kai's laptop back, one more time...!!"
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."...Such an emotional story."
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+{SE: Accent28-1}
+#Message#
+\."So that's what drove you to give me
+ a whole 100 tokens."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."O... One hundred, meow?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."No shit?! That's enough for two trades!!"
+##
+
+<Else>
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."That's enough for two trades!! Are you insane?!"
+##
+
+<Condition End>
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+{SE: Accent21-1}
+#Message#
+\."But you left yourself enough for just one trade."
+##
+
+[Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."How cunning. Pretending to risk your life,
+ but not forgetting to protect yourself."
+##
+
+[Sou: Disdainful pose, smug eyes / cara5-14]
+#Message#
+\."What a dirty adult you are."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Say again...?!"
+##
+
+{Sou} [Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."All told, you left yourself an escape route.
+ If you were in a pickle, you could pass
+ the \C[10]Sacrifice\C[0] away from yourself."
+##
+
+[Sou: Disdainful pose / cara5-11]
+#Message#
+\."That's why I decided to act first,
+ and send the \C[10]Sacrifice\C[0] to someone else."
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+{SE: shock1}
+#Message#
+\."To miss Sara... always thinking of her allies."
+##
+
+{Sara}
+#Message#
+\."Is that the truth of the \C[6]third trade\C[0]...?!"
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Ahaha. I was hopeful it might make you
+ tear off your sheep's clothing."
+##
+
+{Sara}
+#Message#
+\.\C[4](Why does he do all this to me...?!)
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But... You went above and beyond my expectations."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Eh...?"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."The \C[6]fourth trade\C[0]... was you, wasn't it, miss Sara?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Um?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."What're you talking about?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."What do you mean by that...?!"
+##
+
+<Condition End>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: horror_piano chord3}
+#Message#
+\."I mean, the \C[10]Sacrifice\C[0] is what killed Joe, yes...?"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+#Choice#
+I didn't do any trade
+I didn't have tokens
+##
+
+<交換なんてしてません>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+"Your guess is off the mark there.
+ I didn't do any trades."
+##
+
+#Message#
+\."In fact... I couldn't.
+ Someone stole my wallet..."
+##
+
+{Sou}
+#Message#
+\."That's a poor excuse."
+##
+
+#Message#
+\."In fact... I couldn't.
+ Because I didn't have the tokens..."
+##
+
+#Message#
+\."That's a poor excuse."
+##
+
+<メダルを持ってませんでした>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."I didn't even have enough tokens.
+ I couldn't do any trades."
+##
+
+#Message#
+\."No tokens...? That's hard to believe."
+##
+
+<Choice End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Quiet, loner!! I was with big sis Sara
+ for the \C[6]fourth trade\C[0], woof!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."So was I...!
+ Sara didn't do any trade then!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent21-1}
+#Message#
+\."Hmm, well then... It must've been an \C[2]ally\C[0]
+ who did it for you."
+##
+
+[Sou: Smile / cara5-2]
+{SE: sceneswitch2}
+#Message#
+\."Keiji, you took the \C[10]Sacrifice\C[0]
+ from miss Sara, didn't you?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Wha...?!)
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."What's the meaning of this...?!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."It's really very simple."
+##
+
+[Keiji: Evil grin / cara2-19]
+{SE: Accent28-1}
+#Message#
+\."The two of them were accomplices."
+##
+
+{Sara}
+#Message#
+\."A... Ahem?!"
+##
+
+{Sou}
+#Message#
+\."Miss Sara and Keiji formed a terrifying plan
+ involving the \C[10]Sacrifice\C[0]."
+##
+
+{SE: shock1}
+#Message#
+\."To achieve victory in the Main Game...
+ by way of said \C[10]Sacrifice\C[0]."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."They schemed to escape by working together
+ and having Keiji win the vote."
+##
+
+[Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I suspect the \C[6]fifth trade\C[0] that followed
+ was miss Sara and Keiji making a bluff."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."They just picked two random \C[5]Commoners\C[0] to have trade."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Then the \C[10]Sacrifice\C[0] is Keiji...?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Then you say Keiji Shinogi has the \C[10]Sacrifice\C[0]...?!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."That's all a wild fabrication!!"
+##
+
+#Message#
+\.\C[4](I mean... The \C[10]Sacrifice\C[4] I had
+ was taken away by \C[6]the fifth trade\C[4]!)
+##
+
+#Message#
+\.\C[4](Sou's spouting nonsense to lead everyone by the nose!)
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."If my reasoning is correct..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Keiji is the \C[10]Sacrifice\C[0],
+ and the \C[3]Sage\C[0] is... miss Nao, perhaps?"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."I-I-I'm the \C[3]Sage\C[0]?!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Yep. So it may well be fine
+ to have miss Nao die this time."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."W-Wait a second!!"
+##
+
+[Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."At the start, you said you were the \C[10]Sacrifice\C[0]..."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."Yep, that was a lie. I'm a \C[5]Commoner\C[0]."
+##
+
+{Nao} [Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."No way...!!
+ Then... wouldn't you be in the same boat as me?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Huh, I see... Guess choosing anybody but Keiji
+ is the same in the end..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: horror_piano chord3}
+#Message#
+\."Then let's vote for Kanna.
+ Since she's the least valuable."
+##
+
+{Kanna} [Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+\."S... Sou..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: sceneswitch2}
+#Message#
+\."Enough."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."...Hm?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."It's been a long time
+ since I've hated somebody this much..."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+{SE: Accent28-1}
+#Message#
+\."Here's a friendly little police report...
+ I long since used up all my tokens."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Ahaha... And you want me to just believe that?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Sou, you're just dying to say I ended up
+ being the \C[10]Sacrifice\C[0], aren't you...?"
+##
+
+{SE: Accent28-1}
+#Message#
+\."Unfortunately... I'm the \C[2]Keymaster\C[0]."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Huh...?"
+##
+
+[Sou: Scared look / cara5-25]
+#Message#
+\."W... What are you saying...?"
+##
+
+[Sou: Scared look, grave face / cara5-26]
+#Message#
+\."The \C[2]Keymaster\C[0] is Q-taro, though..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...Looks like we got 'im good."
+##
+
+{SE: Accent28-1}
+#Message#
+\."My real role is \C[3]Sage\C[0]...!!"
+##
+
+{Sara}
+#Message#
+\."Q-taro's the \C[3]Sage\C[0]?!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."R-Ridiculous!! That's impossible...!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."It's possible, all right!!
+ And as the \C[3]Sage\C[0], I'm makin' an announcement...!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Keiji's without a doubt... the \C[2]Keymaster\C[0]!!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."It can't be true... That's all...!!"
+##
+
+{Keiji} [Keiji: Turned to side tousling hair / cara2-20]
+#Message#
+\."You were on the right track to think accomplices..."
+##
+
+[Keiji: Turned to side tousling hair, slight smile / cara2-21]
+{SE: Accent21-1}
+#Message#
+\."But it wasn't Sara I teamed up with... it was Q-taro."
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Turned to side tousling hair / cara2-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Let's tell the truth of the \C[6]fourth trade\C[0], shall we?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."The trade between Mr. Policeman and Q-taro."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"First, when Sou betrayed me with the \C[10]Sacrifice\C[0]...
+ I went stompin' around in a rage!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"When I heard what happened,
+ I proposed to Q-taro that we team up."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"And so in the \C[0]fourth trade\C[0],
+ Keiji and Q-taro's cards got traded?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"And so in the \C[0]fourth trade\C[0]...
+ You two traded your cards?!"
+##
+
+<Condition End>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"That \C[6]fourth trade\C[0] sure ended up
+ punishing the loner now, meow..."
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+"Hold on! Q-taro, weren't you passed out
+ during the \C[6]fourth trade\C[0]?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

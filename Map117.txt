@@ -1,0 +1,456 @@
+=====Map117===== (★Fake Lobby)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Alice and Reko were talking in the lobby.
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+".........."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+#Message#
+\."...If it's nothin', then I'm outta here."
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."W-Wait...!! Reko!"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+{SE: Accent28-1}
+#Message#
+\."Aren't these bongos yours...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."That's...!! Why do you...?!"
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."...I found them at the Prize Exchange."
+##
+
+#Message#
+\."I was surprised.
+ I thought you'd long since thrown them out..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...Yeah.
+ I always thought about tossing 'em."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But I could never do it..."
+##
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."Because of me, right?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."That day..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."When you sent me that letter telling me
+ you were cutting contact, rather than shock..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."I just thought... "yeah, I figured.""
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."You are... a musical demon overflowing with talent."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."I thought you were quick to forget your garbage,
+ deadweight brother, living life as it suited you."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent21-1}
+#Message#
+\."I told myself that... to find relief."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."To confirm that my actions had no effect on you..."
+##
+
+#Message#
+\."But..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."You couldn't throw away those bongos..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."Hahaha... They sell these just anywhere..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."The traces of use... and of careful maintenance
+ to conceal that fact... The more I look at them,
+ the more they look like traces of your suffering."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Urk...!!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Shaddup! What're you getting at?!"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Reko..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."Let me apologize.
+ I made you and our parents... suffer for so long..."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."It may sound flimsy!
+ But it's how I really feel...!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."I'm truly sorry... Reko..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Would you accept these...?"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]Alice offered the bongos, hands trembling.
+##
+
+#Message#
+\.\C[3]Reko took the bongos, seeming unable to bear it...
+##
+
+#Message#
+\.\sp[12]\C[10]And threw them to the ground.
+##
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\.".........."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: Accent21-1}
+#Message#
+\."Huh...?
+\! R... Reko...?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."...Such a piece of shit."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Didn't I tell ya? I was always thinking
+ I'd throw these damn things out."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...Reko..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Don't act like a big brother, Alice."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."You and me are complete strangers now."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."You think this crap'll let us reconcile?
+ You even realized you took a person's life...?"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...For 2 and a half years,
+ I've never once forgotten about my crime..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Then why would you ever interact with me again?!"
+##
+
+#Message#
+\."Don't get in my goddamn way!! \C[10]Murderer!!\C[0]"
+##
+
+{Sara}
+#Message#
+\C[4](This is... awful...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I'd believed they would be able to reconcile.
+##
+
+#Message#
+\.\C[3]I'd never seen Reko look so terrifying.
+##
+
+#Message#
+\.\C[3]This wasn't a matter for an outsider to speak on.
+##
+
+{Sara}
+#Message#
+\.\C[4](But...!!)
+##
+
+#Message#
+\."Please, wait!! Reko!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: Accent21-1}
+#Message#
+\."Sara...!!"
+##
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\.\{"Don't meddle with us, Sara!!"
+##
+
+{Sara}
+#Message#
+\."B-But...!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Tch...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko!!)
+##
+
+#Choice#
+Go after Reko
+Talk to Alice
+##
+
+<レコを追う>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+\."Please, wait! Reko!"
+##
+
+<アリスと話す>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\.\C[4](For now... talking with Alice is a priority.)
+##
+
+#Message#
+\."Alice..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Alice was picking up the pieces of the broken bongos.
+##
+
+#Message#
+\.\C[3]Very delicately, not missing a single small piece.
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Reko... hadn't changed at all."
+##
+
+#Message#
+\."At least... not when she's around me."
+##
+
+{Sara}
+#Message#
+\."Alice..."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."...Sara."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I ask that you don't hate Reko."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."Just because you saw one side of her...
+ doesn't mean that's all she is."
+##
+
+#Message#
+\."Believe in... the Reko you know."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+I understand
+..........
+##
+
+<わかりました>
+
+{Sara} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."...I understand."
+##
+
+<………>
+
+{Sara} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\.".........."
+##
+
+[Alice: Default glare / cara11-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You've helped me this far, Sara Chidouin."
+##
+
+#Message#
+\."I feel... I was finally able to take a step."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+#Message#
+\."I'm in your debt..."
+##
+
+{N/A}
+#Message#
+\C[3]As Alice left...\! I saw he was crying.
+##
+
+{Sara}
+#Message#
+\.\C[4](That was... another side of Reko...)
+##
+
+#Message#
+\.\C[4](A Reko I don't know...
+ That only Alice knows...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Time passed me by as I racked my brain.
+##
+
+<Choice End>
+

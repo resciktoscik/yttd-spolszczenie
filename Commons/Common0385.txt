@@ -1,0 +1,658 @@
+**********Common385********** (交渉１－昼　カンナ)
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"U... Um, Sara, it's not a trade or anything, but...
+ Can we talk...?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+"Sou seems to have gotten tired and fallen asleep.
+ I can only talk now while he's resting, so..."
+##
+
+{Sara}
+#Message#
+\."Don't tell me... Did you learn something important?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I... I'm sorry!
+ It's nothing like that, I'm afraid..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Come to think of it, I've never really
+ gotten to have a calm talk with Kanna before.)
+##
+
+#Message#
+\.\C[4](Kanna... just wants to chat with someone.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent28-1}
+#Message#
+\."R-Really?! Hooray!"
+##
+
+{Sara}
+#Message#
+\."I wanted to talk to you too, Kanna."
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Sara...!
+ U-Um... I'll pour some tea!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I've never seen Kanna so cheerful before...)
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Kanna feels like... she's been a burden
+ for a long while now..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna...)
+##
+
+#Choice#
+Don't worry about it
+Do you regret it?
+You should reflect
+##
+
+<気にするな>
+
+{Sara} [Kanna: Default look / cara3-10]
+#Message#
+"Don't worry about it.
+ All the things you've done... you couldn't help it."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."B-But... Sara and Nao, both of you...
+ are being positive and moving ahead..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."Kanna's... a hopeless girl.
+ On her own, she can't walk... or even stand..."
+##
+
+{Sara}
+#Message#
+\."You're standing and walking now.
+ ...Doesn't that count?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Sara..."
+##
+
+<後悔してるのか？>
+
+{Sara} [Kanna: Default look / cara3-10]
+#Message#
+"Do you regret your actions...?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."..."
+##
+
+#Message#
+\."...Yes..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Kanna's... a hopeless girl.
+ On her own, she can't walk... or even stand..."
+##
+
+{Sara}
+#Message#
+\."You're standing and walking now.
+ ...Doesn't that count?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Sara..."
+##
+
+<反省するべきだ>
+
+{Sara} [Kanna: Default look / cara3-10]
+#Message#
+"...You should reflect on it. To help yourself grow."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."...Yes. I... regret it."
+##
+
+{Sara}
+#Message#
+\."Regret and reflection aren't the same, Kanna."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Sara..."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."U-Um... Sara, you..."
+##
+
+[Kanna: Neutral smile / cara3-9]
+{SE: flash-of-light-3}
+#Message#
+\."You're like a warrior..."
+##
+
+{Sara}
+#Message#
+\."...Hmm?"
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Like a samurai... I could see you with a katana..."
+##
+
+{Sara}
+#Message#
+\."Well, I was in the kendo club in middle school."
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Whoa, I knew it!"
+##
+
+[Kanna: Hands in front smile / cara3-18]
+#Message#
+\."If you were a senior at Kanna's school,
+ she'd look up to you so much!"
+##
+
+[Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: flash-of-light-3}
+#Message#
+\."You must be so popular!"
+##
+
+{Sara}
+#Message#
+\."E... Err...?"
+##
+
+#Message#
+\."I mean, I did get a love letter
+ from a younger girl once, but..."
+##
+
+{Kanna}
+#Message#
+\."Sure enough!"
+##
+
+{N/A}
+#Message#
+\.\C[3]A frivolous chat.
+##
+
+#Message#
+\.\C[3]An empty conversation that was just fun.
+##
+
+#Message#
+\.\C[3]I realized I'd forgotten about them for so long...
+##
+
+#Message#
+\.\C[3]Those peaceful, ordinary days...
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Kanna... likes how cool you sound, Sara."
+##
+
+{Sara}
+#Message#
+\."Haha, thanks."
+##
+
+#Message#
+\."Actually, once I got to high school,
+ I tried to cure myself of talking like this."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent28-1}
+#Message#
+\."Eh...? Did you really?"
+##
+
+{Sara}
+#Message#
+\."I mean, it was a little embarrassing,
+ since most girls aren't quite so brusque..."
+##
+
+#Message#
+\."But... he..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."No... It's nothing."
+##
+
+{Kanna}
+#Message#
+\."...Sara..."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+{SE: Accent28-1}
+#Message#
+\."You're just like... my sister."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."Both in strength... and in kindness."
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+\."..."
+##
+
+#Message#
+\."But my sister..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Wasn't always kind from the moment we met."
+##
+
+{Sara}
+#Message#
+\.\C[4](The moment they met...?)
+##
+
+#Choice#
+You aren't blood-related?
+Guess I win
+##
+
+<血がつながってないのか？>
+
+{Sara} [Kanna: Default look / cara3-10]
+#Message#
+\."...Kanna.
+ Are you and your sister not blood-related...?"
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."...Right..."
+##
+
+<私の勝ちだな>
+
+{Sara} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."I was nice from the start, so guess I win."
+##
+
+{Kanna}
+#Message#
+\."Ah... Even the way you say weird things like that
+ is just like my sister..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Strangely, that just got her more emotional...)
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...See, Kanna's adopted."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."She came to her current family 
+ from an orphanage, when she was little."
+##
+
+{Sara}
+#Message#
+\."So you and her had different parents..."
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."Mom and dad were really kind..."
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+\."Kanna... was determined to always smile,
+ childishly thinking "I can't trouble them.""
+##
+
+#Message#
+\."...And Kanna's sister didn't seem to like that..."
+##
+
+{Mom}
+{SE: feed1}
+#Message#
+\."Stop it, Kugie!
+ Why do you do such cruel things?!"
+##
+
+{Kanna}
+#Message#
+\."No, it's fine! Kanna's not angry...
+ She's not, really..."
+##
+
+#Message#
+\."Look, see! Ahaha... Ehehehehe..."
+##
+
+{Kugie}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...What're you always laughing for?"
+##
+
+{Kanna}
+#Message#
+\."Huh...?"
+##
+
+{Kugie}
+{SE: sceneswitch2}
+#Message#
+\."...You're creepy. I hate it."
+##
+
+{Dad}
+{SE: feed1}
+#Message#
+\."Hey, stop that! Apologize, Kugie!"
+##
+
+{Kanna}
+#Message#
+\."Even then, I kept on smiling...
+ I didn't... want to make my sister out as a villain."
+##
+
+#Message#
+\."But once day, when it became unbearable...
+ I ran away from home."
+##
+
+#Message#
+\."\}...*sniff*... *sob*...\{"
+##
+
+#Message#
+\."I couldn't go home. I didn't want to...
+ Thinking that to myself, I sat in the park
+ with a bucket on my head and cried."
+##
+
+{Brat}
+#Message#
+\."Hey! Whatcha doin'?"
+##
+
+#Message#
+\."What's with the bucket?! Yer funny!"
+##
+
+{Kanna}
+#Message#
+\."\}...*sniff*... *sniffle*...\{"
+##
+
+{Brat}
+#Message#
+\."Huh? You cryin'?!"
+##
+
+{Kanna}
+#Message#
+\.".........."
+##
+
+{Brat}
+#Message#
+\."...Alright."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."How's that! Ehh?! Look at me!
+ C'mon! Funny, right?"
+##
+
+{Kanna}
+#Message#
+\."\}...uuuuu...\{"
+##
+
+{Voice}
+#Message#
+\."What're you doing?!"
+##
+
+{Brat}
+#Message#
+\."...Huh...?"
+##
+
+{Kugie}
+{SE: feed1}
+#Message#
+\."How dare you! Putting a bucket on her head
+ and making fun of her?! Beat it, you!!"
+##
+
+{Brat}
+{SE: feed1}
+#Message#
+\."I-I wasn't teasin' her!"
+##
+
+{Kugie}
+#Message#
+\."Liar!! Kanna's crying, isn't she?!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."D... Don't be cruel to my little sister!!"
+##
+
+{Kanna}
+#Message#
+\."...That was the first time
+ she called me "little sister"..."
+##
+
+{Kugie}
+#Message#
+\."...You still crying?"
+##
+
+{Kanna}
+#Message#
+\."S-Sorry... sister..."
+##
+
+{Kugie}
+#Message#
+\."..."
+##
+
+#Message#
+\."...So you cry too, Kanna."
+##
+
+{Kanna}
+#Message#
+\.".........."
+##
+
+{Kugie}
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Kanna... I'm sorry..."
+##
+
+{Kanna}
+#Message#
+\."...Sister..."
+##
+
+{Kugie}
+#Message#
+\."Mom and dad are worried,
+ so let's get home quick, okay?"
+##
+
+{Kanna}
+{SE: Accent28-1}
+#Message#
+\."O-Okay! Eheheh..."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+#Message#
+\."...Ever since then, my sister and I
+ got along really well."
+##
+
+{Sara}
+#Message#
+\."I see..."
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Without any blood relation... Kanna and her sister
+ got along really... really well..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Kanna..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+#Message#
+\."Kanna... will definitely go home!"
+##
+
+#Message#
+\."Because she needs to tell mom and dad...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Determination...
+##
+
+#Message#
+\.\C[3]A kind of determination...
+much too heavy for a girl her age to bear.
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\."...I should be going soon.
+ Sou might wake up, after all..."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Thank you very much... Sara."
+##
+
+{Sara}
+#Message#
+\C[4](Well... That's it for discussions.)
+##
+

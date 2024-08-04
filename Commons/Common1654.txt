@@ -1,0 +1,152 @@
+**********Common1654********** (※◆ﾚｺ「誰かが塗料」)
+{Reko}
+#Message#
+"I'm sure \N[4] repainted some \C[2]old coffins\C[0]
+ that'd been sitting around a long time!"
+##
+
+#Message#
+"Then someone painted the coffins
+ sometime before we separated from Q-taro!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Wha...?! Uhh?!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Wha...?! Uhh?!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+"This facility's old... I'm sure the coffins must've
+ reeked like hell from being left there for years!"
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+"But we wouldn't just miss
+ somethin' that suspicious, would we?"
+##
+
+[Reko: Fists out, angry sad eyes / cara6-38]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So it was when nobody was watching..."
+##
+
+[Reko: Fists out, angry eyes, mouth open / cara6-40]
+{SE: sceneswitch2}
+#Message#
+\."Way back before we even met \N[4]!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Before starting...?)
+##
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent21-1}
+#Message#
+\."Yeah, to prepare for the game!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."I'm sure \N[4] repainted some \C[2]old coffins\C[0]
+ that'd been sitting around a long time!"
+##
+
+{Sara}
+#Message#
+\C[4](Is it plausible that's when he used the paint...?)
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+"Nobody saw anything so suspicious, meaning..."
+##
+
+[Reko: Fists out, angry eyes / cara6-39]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It was much, much earlier...!"
+##
+
+[Reko: Fists out, shocked eyes, mouth open / cara6-41]
+{SE: sceneswitch2}
+#Message#
+\."At the very start... Before the Death Game began!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Before it began...?)
+##
+
+{Reko}
+{SE: Accent21-1}
+#Message#
+\."Basically, they got \C[2]their color repainted\C[0]
+ for the sake of the Death Game, yeah?!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I'm sure \N[4] repainted some \C[2]old coffins\C[0]
+ that'd been sitting around a long time!"
+##
+
+{Sara}
+#Message#
+\C[4](He reused them...?)
+##
+

@@ -1,0 +1,297 @@
+=====Map144===== (❹Pink Room)
+
+**********Event1********** (hatohato) (9,4)
+-----Page1-----
+#Message#
+\C[3]A heart-shaped vent.
+##
+
+-----Page2-----
+#Message#
+\C[3]A heart-shaped vent.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The door's open..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."It's big enough for a person to fit into. Hmm..."
+##
+
+{Sara}
+#Message#
+\.\C[4](It's pitch black through there...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."It might lead somewhere else entirely."
+##
+
+#Message#
+\."The door's open. Want to go through?"
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Go through the vent
+Cancel
+##
+
+<通気口を通る>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Even knowing the dangers, eh...
+ Let's go."
+##
+
+{Sara}
+#Message#
+\.\C[4](I've never seen this room before...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Watch your step..."
+##
+
+<やめる>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\."Let's look elsewhere a little more..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Right, let's do that."
+##
+
+<Choice End>
+
+-----Page3-----
+#Message#
+\C[3]A heart-shaped vent.
+##
+
+#Choice#
+Go through the vent
+Cancel
+##
+
+<通気口を通る>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Gin}
+{SE: warning2}
+#Message#
+"Meooooowww!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+"That was...!"
+##
+
+{Sara}
+#Message#
+\."Gin?!"
+##
+
+#Choice#
+Where are you, Gin?!
+Listen for his voice
+##
+
+<どこだ!? ギン!?>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\."Where are you, Gin?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Quiet...
+ You're putting us in danger too, y'know..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What should we do...?!)
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."I don't hear his voice anymore..."
+##
+
+<声に耳をすませる>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.\C[4](Where did that voice come from...?!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."...No good. Can't hear him anymore."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin...!)
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."The situation's changed. ...Thinking safety-wise,
+ we should probably head back for now..."
+##
+
+{Sara}
+#Message#
+\."No...! You want us to abandon Gin?!"
+##
+
+#Message#
+\."I refuse to give up...!!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\.".........."
+##
+
+[Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."...You're right."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Let's look around, Sara."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...No more losing anybody."
+##
+
+{Sara}
+#Message#
+\."Right...!"
+##
+
+
+**********Event12********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event13********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event14********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event15********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event16********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event17********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event19********** (nui) (5,5)
+-----Page1-----
+#Message#
+\C[3]Eerie stuffed animals.
+##
+
+
+**********Event30********** (tana) (2,4)
+-----Page1-----
+#Message#
+\C[3]There's nothing on the shelves.
+##
+
+
+**********Event56********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

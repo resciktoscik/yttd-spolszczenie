@@ -1,0 +1,40 @@
+**********Common155********** (取り調べ　参る)
+{Keiji}
+#Message#
+"Okay, you ready?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+{Keiji}
+#Message#
+"I won't make you do anything too hard.
+ So... don't look so sulky."
+##
+
+<Choice End>
+
+{Keiji}
+#Message#
+"Okie-dokie. Then we'll begin."
+##
+
+{N/A} [Alice: Default glare / cara11-1]
+{SE: Attack2}
+#Message#
+\C[3]~Questioning~
+##
+
+[Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Just so it's clear, me and you are equals.
+ Don't think I'll obediently listen to you."
+##
+

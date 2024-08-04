@@ -1,0 +1,116 @@
+**********Common1665********** (※◆Q2「誰かが塗料」代理)
+{Q-taro}
+#Message#
+"\N[4] must've had some \C[2]old coffins\C[0]
+ lying around that he repainted!"
+##
+
+#Message#
+"Somebody painted the coffins
+ before I separated from Sara and the others!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Whatchamahuh?!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"I ain't followin'!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"This facility's old... Bet the coffins were
+ rusty old scrap from sittin' around for years!"
+##
+
+#Message#
+"Since nobody saw nothin' suspicious like that..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It must've been much, much earlier...!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: sceneswitch2}
+#Message#
+\."At the very start, before the Death Game began!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Before it began...?)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."So basically...! He \C[2]reapplied their color\C[0]
+ to prepare for the Death Game!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."\N[4] must've had some \C[2]old coffins\C[0]
+ lying around that he repainted!"
+##
+
+{Sara}
+#Message#
+\C[4](He reused them...?)
+##
+

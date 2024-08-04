@@ -1,0 +1,502 @@
+=====Map178===== (❹Exit of Despair)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\C[4](It... it can't be...)
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+"W... What the heck is this...?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]This? This is the exit...?
+##
+
+#Message#
+\.\C[3]It's nothing but rocks...
+Almost like there'd been a landslide...
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Ridiculous...!! I mean, this means..."
+##
+
+[Sou: Hands out, mouth open, eyes with bags / cara5-31]
+#Message#
+\."The exit is blocked...?!"
+##
+
+{N/A}
+#Message#
+\C[3]The security had indeed been neutralized.
+##
+
+#Message#
+\.\C[3]But without a door... there was no point.
+##
+
+{Sara}
+#Message#
+\.\sp[15]"Haha... ha..."
+##
+
+{N/A}
+{SE: shock1}
+#Message#
+\.\C[3]There was no hope.
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."No...!!"
+##
+
+{Nao} [Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."Ahh... ahhhhh..."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: No makeup, hands out, worried look / cara6-32]
+#Message#
+\."This shit ain't what I signed up for...!!!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Don't be ridiculous...!! What in the wooorld?!"
+##
+
+<Condition End>
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."We... can't go home... meow...?"
+##
+
+{Sou} [Sou: Hands out, mouth open, eyes with bags / cara5-31]
+#Message#
+\."It can't be!! This is all... a lie!!"
+##
+
+{Voice}
+#Message#
+"It is not a lie."
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...This is the truth you sought out."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."An external explosion was used to make a physical lid.
+\! Long before the Death Game began..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: No makeup, fists out, enraged face / cara6-31]
+#Message#
+\.\{"You bastard!!!! Gashu!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Stop, Reko!!"
+##
+
+{Reko} [Reko: No makeup, fists out, enraged face / cara6-31]
+{SE: Thunder10}
+#Message#
+\."I'll kill you!! You're gonna...!!"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."That act has no meaning."
+##
+
+{Reko} [Reko: No makeup, angry eyes, closed teeth / cara6-30]
+{SE: Accent28-1}
+#Message#
+\."Wha...?!"
+##
+
+[Reko: No makeup, hands out, worried look / cara6-32]
+#Message#
+\."W-What's going on... That thing on your neck...!!"
+##
+
+{Gashu}
+{SE: shock1}
+#Message#
+"We are held captive as well."
+##
+
+#Message#
+\."Until it is all over... our fates are intertwined."
+##
+
+{Sara}
+#Message#
+\C[4](A collar...! Even the Floor Masters are...?!)
+##
+
+{Reko} [Reko: No makeup, angry eyes, closed teeth / cara6-30]
+{SE: Accent28-1}
+#Message#
+"What the shit..."
+##
+
+[Reko: No makeup, hands out, worried look / cara6-32]
+#Message#
+\."WHAT THE SHIT?! What the hell are you guys?!"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\.".........."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Damn you...!!"
+##
+
+{Gashu} [Gashu: Holding gun / cara16-7]
+#Message#
+\."...Ahem. I have it this time."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."...!!"
+##
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+#Message#
+\."Please forgive my rudeness.
+ I do not wish to use violence."
+##
+
+<Condition End>
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."Now, everyone, it is time to stop dreaming."
+##
+
+[Gashu: Default / cara16-1]
+{SE: Thunder10}
+#Message#
+\."You must win...!
+ Only for the victor will the path open!!"
+##
+
+[Gashu: Head tilt / cara16-6]
+#Message#
+\."You have only a brief time left...
+ Spend your last moments before the Main Game well."
+##
+
+{Sara}
+#Message#
+\C[4](It's over...)
+##
+
+#Message#
+\.\C[4](It's all... over...)
+##
+
+{N/A}
+{SE: heart2}
+#Message#
+\C[3]All that's left... is this card...
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh...)
+##
+
+#Message#
+\.\C[4](I guess so, huh... haha...)
+##
+
+#Message#
+\.\C[4](Having hope... having it broken...)
+##
+
+#Message#
+\.\C[4](Over and over...?)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+{Joe?} [Joe: Hallucination (blacked-out face) / cara1-26]
+{SE: horror_piano chord3}
+#Message#
+\C[10]"Sara..."
+##
+
+#Message#
+\.\C[10]"Think it's time you face reality."
+##
+
+#Message#
+\.\C[10]"There was always only one choice."
+##
+
+#Message#
+\.\C[10]"Which do you choose?"
+##
+
+#Choice#
+Trust the others and accept death
+Trick the others if I must to live
+##
+
+<みんなに託して死を受け入れる>
+
+<みんなをだましてでも生き延びる>
+
+<Choice End>
+
+{Joe?} [Joe: Hallucination (blacked-out face) / cara1-26]
+{SE: Accent21-1}
+#Message#
+\C[10]"..."
+##
+
+#Message#
+\.\C[10]"So that's your choice..."
+##
+
+#Message#
+\.\C[10]"Well, good luck..."
+##
+
+{Sara}
+#Message#
+\C[4](...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Before I knew it,
+everyone had gone off to do their own thing.
+##
+
+#Message#
+\.\C[3]To use this final time granted to us meaningfully.
+##
+
+
+**********Event2********** (keikei) (8,6)
+-----Page1-----
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]Keiji is clearing rocks.
+##
+
+{Sara}
+#Message#
+\."Keiji...?"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Just can't find it in me to give up..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."It might be futile... but I'm gonna struggle."
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"...Fool."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."What can you do without heavy machinery...?"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."You're a fool beyond saving..."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]Alice, too, began clearing the rubble.
+##
+
+<Else>
+
+{Sara}
+#Message#
+\C[4](Keiji...)
+##
+
+<Condition End>
+
+-----Page2-----
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+"Wonder if I can open a way. Even the tiniest gap..."
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."*pant*... *gasp*...
+ Don't flap your mouth, move your hands...!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\C[4](This seems like it's on a whole other level
+ than what can be accomplished by human strength...)
+##
+
+
+**********Event5********** (QQ) (9,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Q-taro is still passed out.
+##
+
+
+**********Event21********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event22********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event23********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event24********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event25********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event26********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event28********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+
+
+**********Event29********** (ariari) (0,12)
+-----Page1-----
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+"Dammit! Dammit...!!"
+##
+
+{Sara}
+#Message#
+\C[4](As many rocks as you move... there's no time...)
+##
+
+
+**********Event31********** (hizyo) (8,2)
+-----Page1-----
+#Message#
+\C[3]An emergency exit sign.
+##
+
+{Sara}
+#Message#
+\.\C[4](There certainly must be a door under these rocks...)
+##
+

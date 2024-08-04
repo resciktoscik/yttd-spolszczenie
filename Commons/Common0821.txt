@@ -1,0 +1,115 @@
+**********Common821********** (ﾚｺ「16人気になる」)
+{Reko}
+#Message#
+"Could the 4 not on the roster...
+ be dolls or something, maybe?!"
+##
+
+#Message#
+"There only being 16 names makes you wonder, right?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"So... What exactly does this mean?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"...Don't really get it... Sorry."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"16 humans and 4 dolls...
+ That's the reality of this Death Game...!"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Sou seemed to believe these were
+ accurate to our chances of victory..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."But what about the chances
+ for the four who aren't listed?!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Who knows, their actions could even
+ affect the chances for these 16!"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Maybe the reason they're not on here..."
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Is 'cause those four... are dolls or something?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Dolls...?)
+##
+

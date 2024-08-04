@@ -1,0 +1,18 @@
+**********Common1470********** (⑤ソウB選択　３)
+{N/A}
+#Message#
+"Urgh... Keiji! It doesn't matter how!
+ Find a way to catch him...!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

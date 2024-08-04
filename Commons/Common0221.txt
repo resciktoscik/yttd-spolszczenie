@@ -1,0 +1,98 @@
+**********Common221********** (ｼﾞｮｰ「異常行動だ」)
+{Joe}
+#Message#
+"If we were with the kidnappers,
+ obviously we wouldn't do that dangerous trial!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Forget that, you gotta object to Sou!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Was something weird about my statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Joe}
+#Message#
+"Was something weird about my statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+"We can't even trust the contents
+ of those emails to start with!"
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+\."What if Sou is just making it up as he goes?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](If Sou's opinion catches on like this,
+ we'll be in danger...!)
+##
+

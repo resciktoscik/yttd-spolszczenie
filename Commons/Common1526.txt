@@ -1,0 +1,223 @@
+**********Common1526********** (★ﾊﾞﾄﾙ⑦流れ)
+{Sara}
+{SE: Accent41-1}
+#Message#
+\C[4](W... What...?)
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Maple}
+#Message#
+\."Hiyori...!!"
+##
+
+#Message#
+\."Please... release me...!!"
+##
+
+#Message#
+\."Ahhh... ahhhhh... ahhhh...!!!!"
+##
+
+<Else>
+
+#Message#
+\."No...! My body won't listen to me...!!"
+##
+
+#Message#
+\."Ahhh... ahhhhh... ahhhh...!!!!"
+##
+
+<Condition End>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+"...Waugh."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."*sigh* So you were useless after all..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Time to scrap this piece of junk."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Is that how you talk to an ally?!"
+##
+
+{Mai} [Mai: Looking down at hand, mouth open, teary eyes / cara92-23]
+#Message#
+\."Maple loved you!!
+ And you just...!!"
+##
+
+{Maple}
+#Message#
+"...THANK YOU... EVERYONE..."
+##
+
+#Message#
+\."I'VE WOKEN UP..."
+##
+
+#Message#
+\."HEY, HIYORI..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\SP[15]"...SHALL WE DIE TOGETHER...?"
+##
+
+<Else>
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+"...Awww."
+##
+
+{Maple}
+#Message#
+".........."
+##
+
+{\N[4]}
+#Message#
+"Even if I rushed fixing her...
+ This is just terrible."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."Time to scrap this piece of junk."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."You fine with that, Maple...?"
+##
+
+{N/A}
+{SE: Damage5}
+#Message#
+"Ahh... gah..."
+##
+
+{Mai}
+{SE: sceneswitch2}
+#Message#
+\SP[15]"...No way..."
+##
+
+{Q-taro}
+#Message#
+"Mai...!!"
+##
+
+{Mai}
+{SE: Accent21-1}
+#Message#
+\SP[15]"I still... have a promise to..."
+##
+
+{\N[4]}
+#Message#
+"Now, Maple, don't do that!"
+##
+
+#Message#
+\."She'll just end up like Kurumada that way."
+##
+
+{SE: Accent42-1}
+#Message#
+\."You have to finish her off..."
+##
+
+{Sara}
+#Message#
+"Stop...! \N[4]!!"
+##
+
+{Mai}
+{SE: Accent21-1}
+#Message#
+\SP[15]"Q... taro..."
+##
+
+#Message#
+\.\SP[10]"I'm so... rry..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+"Aaahhhhh...!! Mai...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Good for you! You did the job right!"
+##
+
+{Sara}
+#Message#
+\.\C[4](No...!!)
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."Ahaha... What would you like as a reward, Maple?!"
+##
+
+{Maple}
+#Message#
+"...I DON'T NEED ONE..."
+##
+
+#Message#
+\."HEY, HIYORI..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\SP[15]"...SHALL WE DIE TOGETHER...?"
+##
+
+<Condition End>
+
+{\N[4]}
+#Message#
+".........."
+##
+
+#Message#
+\."..."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, grin / cara19-20]
+{SE: Accent41-1}
+#Message#
+\."...Huhh...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

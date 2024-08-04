@@ -1,0 +1,127 @@
+=====Map108===== (Stay On Target Game)
+
+**********Event5********** (sara) (1,12)
+-----Page1-----
+{Sara}
+#Message#
+"Touch the lips...!"
+##
+
+#Message#
+"Hope this doesn't get on my clothes..."
+##
+
+#Message#
+"It's like modern art!"
+##
+
+-----Page2-----
+{Sara}
+#Message#
+"All I can do... is cheer on...!"
+##
+
+
+**********Event8********** (aibo) (15,12)
+-----Page1-----
+{Sou}
+#Message#
+"Endure and match the movements!
+ It's a test of fortitude."
+##
+
+#Message#
+"Can my reflexes... do this?"
+##
+
+#Message#
+"Miss Sara, I'm sure you can handle
+ even the most tricky moves!"
+##
+
+#Message#
+"It all comes down to guts...! Hang in there!"
+##
+
+-----Page2-----
+{Reko}
+#Message#
+"Gotta keep a close eye on the movements!"
+##
+
+#Message#
+"It's getting more intense! Gotta focus harder..."
+##
+
+#Message#
+"Gotta observe...!
+ This should be doable for sure!"
+##
+
+-----Page3-----
+{Alice}
+#Message#
+"Get in the area and stay locked up in it?
+ A piece of cake, then..."
+##
+
+#Message#
+"Our opponent has finesse...
+ I must show the true power of a shut-in."
+##
+
+#Message#
+"At your last, it comes down to guts!
+ I absolutely won't die, I swear!"
+##
+
+
+**********Event19********** (EV019) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."We'll start with me...!"
+##
+
+{Alice}
+#Message#
+\."Hmph... Let's see what you've got."
+##
+
+{Sou}
+#Message#
+\."This should be cake for you, miss Sara."
+##
+
+{Reko}
+#Message#
+\."Believe in yourself, Sara!"
+##
+
+{N/A}
+#Message#
+Stay On Target ~Rules~
+##
+
+#Message#
+\.Keep touching the area presented by your opponent,
+following it and not leaving the bounds.
+##
+
+#Choice#
+Hear it again
+Just try it
+##
+
+<もう一度説明を聞く>
+
+<とりあえずやってみる>
+
+{N/A}
+#Message#
+\.Touching your ally's icon will give you
+advice and the like, so... Good luck.
+##
+
+<Choice End>
+

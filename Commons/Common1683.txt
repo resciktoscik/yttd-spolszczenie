@@ -1,0 +1,67 @@
+**********Common1683********** (◆ｿｳ「概要」)
+{Sou}
+#Message#
+"I did think it was weird that Mai was
+ the only one who passed the fingerprint scan..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"But is it fair to lump her
+ with the organization over that...?"
+##
+

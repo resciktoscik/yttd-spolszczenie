@@ -1,0 +1,751 @@
+=====Map137===== (Sub-Game)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]When I woke up... I was on an island.
+##
+
+#Choice#
+Skip the opening
+Watch it
+##
+
+<オープニングをスキップ>
+
+<ちゃんと見る>
+
+<Choice End>
+
+<If Variable #476 (■ｻﾌﾞｹﾞｰﾑ主人公ID) == 11 (Mishima)>
+
+{N/A}
+#Message#
+
+##
+
+#Message#
+\."Where in the world might this be...?"
+##
+
+#Message#
+\.\C[3]I am \C[2]Mishima\C[3], a high school teacher.
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\.\C[3]Following our first meeting in some time,
+I was driving my former student, miss \C[2]Nao\C[3], back home.
+But along the way, I lost consciousness.
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I guess... we've been kidnapped after all...?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Ah... You guys think so too?"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."I mean, I've sure never heard of
+ kidnapping people to an island before..."
+##
+
+{Sara} [Sara: Hands on hips, sweatdrop / cara0-23]
+#Message#
+\."But gathering this many people together...
+ What do they intend to do with us?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Anyhow, we oughta get lookin' for a way to escape!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Seems we've got no choice but to work together...
+ Cooperation is key."
+##
+
+{Mishima} [Mishima: Hand on chin, grin / cara12-13]
+{SE: Accent21-1}
+#Message#
+\."That can wait until we get to know each other.
+ Shall we do introductions...?"
+##
+
+#Choice#
+Do introductions
+Skip it
+##
+
+<自己紹介をする>
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+{SE: Accent28-1}
+#Message#
+\."Err...
+ My name's \C[2]Sara Chidouin\C[0].
+ I'm just a high school student."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+{SE: Accent39-1}
+#Message#
+\."I'm \C[2]Jou Tazuna\C[0], but just call me Joe!
+ I'm Sara's bud! Ask me anything about her!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."I'm \C[2]Keiji Shinogi\C[0]...
+ Workin' as a policeman."
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."I'm \C[2]Kanna Kizuchi\C[0], a middle schooler!
+ ...And she's not here, but I have a big sister!"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."\C[2]Q-taro Burgerberg\C[0]'s the name!
+ I'mma pro baseballer! ...Second-string, tho!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: stupid3}
+#Message#
+\."I'm \C[2]Sou Hiyori\C[0]. I don't really want to say it, but...
+ I guess you'd call me a job-hopper."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent24-1}
+#Message#
+\."Name's \C[2]Reko Yabusame\C[0].
+ I'm a singer-songwriter."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+{SE: Accent28-1}
+#Message#
+\."My name's \C[2]Nao Egokoro\C[0]!
+ I'm attending art college right now!"
+##
+
+{Kai} [Kai: Default / cara8-1]
+{SE: Applause1}
+#Message#
+\."I am \C[2]Kai Satou\C[0].
+ As you can see, I work as a homemaker."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: cat_like1a}
+#Message#
+\."I'm \C[2]Gin Ibushi\C[0], meow! Don't underestimate me
+ 'cause I'm just a grade-schooler, woof!!"
+##
+
+{Mishima} [Mishima: Hand on chin, grin / cara12-13]
+{SE: Accent21-1}
+#Message#
+\."I am \C[2]Kazumi Mishima\C[0].
+ I work as a high school teacher,
+ teaching the subjects of art and Japanese."
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."...\C[2]Gonbee Yamada\C[0].
+ My occupation is that of a model prisoner...
+ I won't be taking any further questions."
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Seems we've got a dangerous one among us..."
+##
+
+{Sara} [Sara: Hands on hips, surprise / cara0-15]
+#Message#
+\."Um... Come to think of it, what about you?"
+##
+
+<割愛する>
+
+{Mishima} [Mishima: Adjusting glasses, grin / cara12-22]
+{SE: flash-of-light-3}
+#Message#
+\."Ahh, what truly wonderful introductions, all!"
+##
+
+<Choice End>
+
+{???} [Mishima: Adjusting glasses, grin / cara12-22]
+{SE: sceneswitch2}
+#Message#
+\."Eheehee... What fun you look to be having."
+##
+
+<Condition End>
+
+[Miley: Closed-eyes smile / cara14-2]
+{SE: Accent28-1}
+#Message#
+\."Ahaha... Hello there."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."W... Who the hell're you?!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."I am the Island Master, \C[2]Sue Miley\C[0], the Laughing Doll."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+{SE: Accent21-1}
+#Message#
+\."Well, everyone? Are you pleased with the island?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Are YOU our kidnapper, meow?!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ahaha... What a dreadful way to put it."
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+\."I merely issued you all an invitation
+ to this wonderful \C[2]Isle of Memories\C[0]."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+{SE: Accent21-1}
+#Message#
+\."What in the world do you mean to have us do?"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Eheehee... A most wonderful game of survival."
+##
+
+[Miley: Smug smile / cara14-6]
+{SE: Accent28-1}
+#Message#
+\."It's all very simple.
+ You must merely \C[2]survive here\C[0] for \C[2]30 days\C[0]."
+##
+
+[Miley: Default smile / cara14-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Go foraging for food, craft defenses for your base,
+ and keep your lives amongst dangerous creatures
+ and trap-laden facilities."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."W-What are you talking about?!
+ Let us go right now...!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Ahaha... Please do give it your all."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Dammit!! You hold the hell up, lassie!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Looks like she got away..."
+##
+
+{Gonbee} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+\."Hmph... What of it?
+ At a mere 30 days, this is practically a vacation."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Th... That's awfully positive of you...?"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Nothing we can do.
+ Let's all work together to overcome this."
+##
+
+{N/A}
+#Message#
+\C[3]Constructed a base!
+##
+
+#Message#
+\C[3][Instructions]
+##
+
+#Message#
+\.\C[3]Touch the face icons to pick each character's action,
+then touch "Next" to advance time!
+##
+
+#Message#
+\.\C[3]Also, with a \C[2]right-click\C[3] (or \C[2]two-finger tap\C[3]),
+you can look at each character's stats!
+(The View button also works!)
+##
+
+#Message#
+\.\C[3]If \C[2]the protagonist dies\C[3] or \C[2]your Base points hit 0\C[3],
+it's game over!
+##
+
+
+**********Event16********** (EV016) (5,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]\>[Fishing Net]\<
+\>Once a day, you can spend 1 Food to get more Food.\<
+\>Can sometimes fail.\<
+##
+
+#Choice#
+Throw net
+Cancel
+##
+
+<仕掛ける>
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]\>[Fishing Net]\<
+\>Once a day, you can spend 1 Food to get more Food.\<
+\>Can sometimes fail.\<
+##
+
+#Choice#
+Remove net
+Cancel
+##
+
+<仕掛けを外す>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event17********** (kusuri) (2,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]\>[Medical Station]\<
+\>Use food to make medicine,\<
+\>which will restore health slightly.\<
+##
+
+#Choice#
+Use
+Cancel
+##
+
+<使用する>
+
+{N/A}
+#Message#
+\C[3]Select who to heal by \C[2]touching their face icon\C[3].
+##
+
+#Message#
+\.\C[3]Healing a single stage of damage costs 1 Food.
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event18********** (EV018) (13,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]\>[Radio]\<
+\>Gives somewhat important info for survival.\<
+\>Can also listen to music on it.\<
+##
+
+#Choice#
+Listen for info
+Play song
+Cancel
+##
+
+<情報を聞く>
+
+{Ranger}
+#Message#
+"Hey, bastards! It's the Rio Ranger Station,
+ bringing you some hot survival tips!"
+##
+
+#Message#
+\."Here's a tip for ya!
+ If you choose to have Sara Forage,
+ sometimes she'll go foraging a second time!
+ ...Bet she's good at finding faults, too."
+##
+
+#Message#
+\."Here's a tip for ya!
+ When Joe Rests, sometimes he gets buddy-buddy,
+ and makes everyone's Fondness go up a li'l.
+ ...Everybody's friend, eh? Hate those types."
+##
+
+#Message#
+\."Here's a tip for ya!
+ When you have Keiji Train, seems that
+ he'll train a second time on occasion.
+ ...You beefy guys gross me out."
+##
+
+#Message#
+\."Here's a tip for ya!
+ When Kanna Rests, apparently she'll sometimes
+ heal a wounded ally by one stage.
+ ...What a hypocrite, right? Don't get betrayed!"
+##
+
+#Message#
+\."Here's a tip for ya!
+ When Q-taro faces a foe in battle,
+ he might sometimes block attacks on the base.
+ ...Would love to see him die the hero."
+##
+
+#Message#
+\."Here's a tip for ya!
+ Even if Sou's about to kick it from starvation,
+ he might be able to stick it out!
+ ...What are ya, a cactus?"
+##
+
+#Message#
+\."Here's a tip for ya!
+ When you have Reko Train, rest easy,
+ 'cause it seems she never gets hurt doing it.
+ ...Is she a robot made of steel or what?"
+##
+
+#Message#
+\."Here's a tip for ya!
+ When you have Nao Craft,
+ sometimes she'll Craft a second time.
+ ...Ah, must be a shut-in, huh?"
+##
+
+#Message#
+\."Here's a tip for ya!
+ When you have Kai Craft,
+ I hear he'll sometimes find a serving of food.
+ ...Is he layin' eggs like a chicken?"
+##
+
+#Message#
+\."Here's a tip for ya!
+ When you choose to have Gin Rest,
+ sometimes all his stats'll go up.
+ ...Those clothes won't fit if you get tall, y'know!"
+##
+
+#Message#
+\."Here's a tip for ya!
+ When Mishima gets injured Crafting, Foraging,
+ or Training, sometimes all his stats'll go up.
+ ...You one of those monkey aliens, or what?"
+##
+
+#Message#
+\."Here's a tip for ya!
+ After Gonbee attacks in a battle,
+ he'll sometimes attack for you again.
+ ...No tellin' what a brutal criminal will do."
+##
+
+#Message#
+\."Hunger happens in about 4 stages!
+ A green face is bad news - eat or you'll lose health.
+ A purple face is on the verge of death - eat or die!"
+##
+
+#Message#
+\."You ever see wood on the ground around the base?
+ Pick that stuff up!"
+##
+
+#Message#
+\."If you see an icon pop up on screen,
+ you should try touching it! Should have an effect."
+##
+
+#Message#
+\."You know about Life Shards?
+ I hear they can be used to raise Fondness.
+ How to get 'em...? You'll know when you get one."
+##
+
+#Message#
+\."When a heart icon pops up, touch it!
+ You might get friendlier with somebody."
+##
+
+#Message#
+\."Keep making new weapons, got it?
+ It'll increase your Fighting stat.
+ Seems there's a limit to that, though."
+##
+
+#Message#
+\."When you make armor,
+ it'll only block a single enemy attack.
+ Doesn't look like there's any upgrading it."
+##
+
+#Message#
+\."As the days go on, the enemies attacking the base
+ will probably get stronger and stronger..."
+##
+
+#Message#
+\."To make the base bigger,
+ you gotta gather materials and get to Crafting!"
+##
+
+#Message#
+\."Foraging has the highest odds of injury!
+ 'Course, if you just coop up indoors, you'll die."
+##
+
+#Message#
+\."Resting normally recovers you by one stage.
+ But get a good sleep, and it'll be a full recovery!"
+##
+
+#Choice#
+Keep listening
+Cancel
+##
+
+<もっと聞く>
+
+<やめる>
+
+<Choice End>
+
+<曲をかける>
+
+{Gashu}
+#Message#
+"...Welcome to DJ Gashu's All Night Island.
+ This is the song we present you today..."
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event20********** (EV020) (14,5)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Using a Life Shard on someone will increase fondness.
+##
+
+#Message#
+\.\C[3]If you use it on the same person repeatedly,
+they'll build a resistance to it
+and the effect will gradually lessen.
+##
+
+#Message#
+\.\C[3]Select who to give the Life Shard to
+by \C[2]touching their face icon\C[3].
+##
+
+
+**********Event21********** (EV021) (15,5)
+-----Page1-----
+<If Variable #476 (■ｻﾌﾞｹﾞｰﾑ主人公ID) == 11 (Mishima)>
+
+{Mishima} [Mishima: Standing proud, happy grin / cara12-25]
+{SE: Accent28-1}
+#Message#
+\."It seems it's about time for the base to get larger."
+##
+
+<Condition End>
+
+<If Variable #476 (■ｻﾌﾞｹﾞｰﾑ主人公ID) == 11 (Mishima)>
+
+{SE: flash-of-light-3}
+#Message#
+"We've done it!
+ It's now a bigger base than before!"
+##
+
+[Mishima: Adjusting glasses, grin / cara12-22]
+#Message#
+\."And using the new workbench inside,
+ we can now \C[2]construct the tools\C[0] we need!"
+##
+
+[Mishima: Standing proud, happy grin / cara12-25]
+{SE: flash-of-light-3}
+#Message#
+"Fantastic!
+ It's now a sufficient base for habitation indeed!"
+##
+
+[Mishima: Adjusting glasses, grin / cara12-22]
+#Message#
+\."We can construct more on the workbench,
+ and above all, the building looks better than ever!"
+##
+
+[Mishima: Standing proud, happy grin / cara12-25]
+{SE: flash-of-light-3}
+#Message#
+"Ohh! Just incredible!
+ To think our base would become so splendid!"
+##
+
+[Mishima: Adjusting glasses, grin / cara12-22]
+#Message#
+\."At this size, we might as well make it a school!
+ A school built on a deserted island! How dreamy!"
+##
+
+[Mishima: Standing proud, happy grin / cara12-25]
+{SE: flash-of-light-3}
+#Message#
+"What a thing to behold!
+ We've built ourselves a castle...!!"
+##
+
+[Mishima: Adjusting glasses, grin / cara12-22]
+#Message#
+\."Provided we had a stable food supply,
+ I might not mind spending the rest of my life here!
+ Indeed!"
+##
+
+<Condition End>
+
+
+**********Event22********** (EV022) (11,7)
+-----Page1-----
+{N/A}
+{SE: Chest2}
+#Message#
+\C[3]Got \V[474] Material.
+##
+
+
+**********Event23********** (EV023) (8,7)
+-----Page1-----
+{N/A}
+{SE: Chest2}
+#Message#
+\C[3]Got \V[474] Material.
+##
+
+
+**********Event24********** (EV024) (4,7)
+-----Page1-----
+{N/A}
+{SE: Chest2}
+#Message#
+\C[3]Got \V[474] Material.
+##
+
+
+**********Event25********** (EV025) (15,6)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Changes have come to the base!
+##
+
+#Message#
+\.\C[3]Touch any \C[2]icons\C[3] that appear on the right side!
+Something will happen!
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Changes have come to the base!
+##
+
+#Message#
+\.\C[3]Touch any \C[2]icons\C[3] that appear on the right side!
+Something will happen!
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Changes have come to the base!
+##
+
+#Message#
+\.\C[3]Touch any \C[2]icons\C[3] that appear on the right side!
+Something will happen!
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]Changes have come to the base!
+##
+
+#Message#
+\.\C[3]Touch any \C[2]icons\C[3] that appear on the right side!
+Something will happen!
+##
+

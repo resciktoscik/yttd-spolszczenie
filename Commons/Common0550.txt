@@ -1,0 +1,67 @@
+**********Common550********** (つっぱりやめます？)
+{N/A}
+#Message#
+\C[3]Give up on pushing her off?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[10]Will you let Gin die and save the fake?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](I... can't do it...!!)
+##
+
+#Message#
+\.\C[4](Even knowing it's not the real Reko...)
+##
+
+#Message#
+\.\C[4](I can't kill this person...!!)
+##
+
+{Reko} [Reko: Hands out, running makeup, closed teeth / cara6-17]
+#Message#
+\."Sara..."
+##
+
+[Reko: Hands out, running makeup, shout / cara6-18]
+{SE: Accent28-1}
+#Message#
+\."Thank you..."
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Sara...!!"
+##
+

@@ -1,0 +1,247 @@
+**********Common1419********** (戦②サラの行動)
+{Sara}
+{SE: Accent28-1}
+#Message#
+"This isn't magma at all...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Say what?! You for real, Sara?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Whaaat?! Is that the truth?!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."I'm not sure what it actually is...
+ But it seems it's no problem if you touch it!"
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."So even if the level rises, it should be fine!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."Hold on a sec...
+ Humans might be fine, but what about us?!"
+##
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: Accent21-1}
+#Message#
+\."True... Are we properly waterproofed?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ahh... Could be bad if there's an electric shock."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That ain't funny!! We'll be screwed too!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Crap! Gotta think what we can do...!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Tch...! You're all so unreliable!
+ Well, I've got an idea!!"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"These ropes...
+ Some of them are soft, and some are hard!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"There's two types of ropes, meow?!
+ Why, woof?!"
+##
+
+{Sara}
+#Message#
+\."Not sure about that part..."
+##
+
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Accent21-1}
+#Message#
+\."Hmm, could there be something inside them?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent11-1}
+#Message#
+\."Then should we open up the ropes to look inside?"
+##
+
+{Sara}
+#Message#
+\."Well... But I doubt the hard ropes could be cut,
+ even with something sharp..."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: flash-of-light-3}
+#Message#
+\."Perhaps we should try
+ cutting the soft ropes, at least!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Bet there's a difference in what they contain..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."How about for now, we cut the ropes we can
+ to check what's inside them?"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](It's possible, with the proper tool...)
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+"W-Whoa?! The post lit up?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."I see... It's being lit from within!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."The other posts are glowing the same way...
+ Now this is kinda suspicious!"
+##
+
+{Sara}
+#Message#
+\."That's true..."
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent28-1}
+#Message#
+\."Alright... I'll check this post some more, Sara.
+ You think of a plan in the meantime!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"There's a knife stuck to the ceiling...!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+"There really is! It'll be dangerous if it falls!
+ Is it a trap?!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent21-1}
+#Message#
+\."Naw, don'tcha think we need it for this puzzle?!"
+##
+
+<Else>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"Why's there a knife there, meow?"
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."It could be necessary to solve the puzzle..."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."That's possible...!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."But even Q-taro isn't tall enough to reach that!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Anybody got any ideas?!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent28-1}
+#Message#
+\."Hmm... Gotta think of a way to get it."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Guess Mr. Policeman'd better pitch in..."
+##
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+

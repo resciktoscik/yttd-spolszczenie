@@ -1,0 +1,109 @@
+**********Common137********** (Q「ｷﾞﾝ有能の証明を！」)
+{Q-taro}
+#Message#
+"We've got no time.
+ Gin, prove that you've been useful to everybody!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"What about that proves anythin', Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"What about that proves anythin', Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Q-taro}
+#Message#
+"What about that proves anythin', Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"...Call me a bastard if ya want.
+ I'm just lookin' for a way to keep living."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"People who drag things down...
+ are doomed to die sooner or later...!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That's true for me...
+ and it's true for you too, right?"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Don't matter if you're an adult or a kid right now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Q-taro is serious...!)
+##
+

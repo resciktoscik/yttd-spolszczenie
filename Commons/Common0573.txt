@@ -1,0 +1,150 @@
+**********Common573********** (2日目－昼前イベント)
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+"Sara."
+##
+
+{Sara}
+#Message#
+\."Kanna... You aren't with Sou?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."He doesn't seem to feel well, so he's sleeping."
+##
+
+[Kanna: Neutral smile / cara3-9]
+#Message#
+\."And... it seems Alice is keeping an eye on him..."
+##
+
+{Sara}
+#Message#
+\."Alice...?"
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Yes...
+ It seems he has a kind side, too."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is it... kindness, I wonder?)
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."So... Um...
+ I found somewhere interesting while exploring..."
+##
+
+#Message#
+\."It was over toward the Ruined Corridor..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+#Message#
+\.\C[4](It couldn't be that room we found, could it...?)
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Sara, I'd like you to come with me."
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Let's go together
+Confirm about the laptop
+Suggest someone else
+##
+
+<一緒に行く>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Got it. Let's go together, Kanna."
+##
+
+<パソコンについて確かめる>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+#Message#
+\."...Did you find a room by
+ getting through the rubble or something?"
+##
+
+{Kanna} [Kanna: Looking down to side, eyes looking back curiously / cara3-17]
+#Message#
+\."Through the rubble...?
+ No... There was a door in a hard-to-notice place."
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems she's talking about something else, then.)
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Please come with me, Sara!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Can't refuse her.)
+##
+
+#Message#
+\."Got it. Let's go."
+##
+
+<他の人を勧める>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Hmm... How about asking Q-taro?
+ He's strong and all..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ah... she's gonna cry. Is she scared...?)
+##
+
+#Message#
+\."...Got it. Let's go together."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Thank you so much!"
+##
+
+#Message#
+\."I haven't gone in yet, so... I was uneasy."
+##
+
+{Sara}
+#Message#
+\."I see... Let's check it out."
+##
+

@@ -1,0 +1,121 @@
+**********Common140********** (③進展●「ウソはダメ」)
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+"Gin! Show it to 'em! The amazing thing
+ you found searching the second floor room!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Amazin' thing...?!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Dunno... anything about that, meow..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Wh... what'd you say...?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Reko..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Ya got a fine attitude... but see here."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It ain't right to go an' spout lies
+ to protect people, alright?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Augggh...!!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."No!! I... I tell you... I'm not lying!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Somebody's gotta die in his place...
+ Maybe it'll be you?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."H-Hold the hell up!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."...Woof...
+ Big sis Reko..."
+##
+
+{Sara}
+#Message#
+\.\C[4](We need to spur on Gin...!)
+##
+
+#Choice#
+Instigate him
+Gently admonish him
+##
+
+<焚きつける>
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+\."You see, Gin?! Reko's being called a liar
+ just for speaking up for you! Don't you feel bad?!"
+##
+
+<優しく諭す>
+
+{Sara} [Gin: Horrified look / cara9-4]
+{SE: Accent28-1}
+#Message#
+\."Gin, tell the truth and stick up for Reko.
+ Don't you feel bad seeing her be insulted?"
+##
+
+<Choice End>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...I do...
+ I do, meow... but... but..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What a cowardly kid! You call yourself a man?!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."...Uuuu... *sniffle*...!"
+##
+

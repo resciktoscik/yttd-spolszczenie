@@ -1,0 +1,44 @@
+=====Map62===== (New Move Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+Proceed to the second part?
+##
+
+#Choice#
+Yes
+No (To Title)
+Save
+##
+
+<はい>
+
+<いいえ（タイトルへ）>
+
+{N/A}
+#Message#
+Really return to title?
+##
+
+#Choice#
+Return to title
+Rethink it
+##
+
+<タイトルへ戻る>
+
+{N/A}
+#Message#
+Thank you for playing this far.
+##
+
+<考え直す>
+
+<Choice End>
+
+<セーブする>
+
+<Choice End>
+

@@ -1,0 +1,20 @@
+**********Common310********** (2章前編【移動ｺﾏﾝﾄﾞ】)
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Sara... It's dangerous to go that way on your own."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Should I come with you, miss Sara?"
+##
+
+{Sara}
+#Message#
+\."...No, that's fine."
+##
+
+#Message#
+\.\C[4](It'd be hard to go there right now...)
+##
+

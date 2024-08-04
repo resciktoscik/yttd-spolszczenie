@@ -1,0 +1,16 @@
+**********Common835********** (★選択用カイ)
+#Message#
+\C[5]Vote for \C[2]Kai\C[5]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

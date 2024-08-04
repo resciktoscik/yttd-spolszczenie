@@ -1,0 +1,16 @@
+**********Common116********** (投票レコ)
+#Message#
+Vote for \C[2]Reko\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

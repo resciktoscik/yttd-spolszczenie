@@ -1,0 +1,55 @@
+=====Map15===== (Introduction Time)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+"Ahem... So then, I think we should all
+ get to know each other a li'l more."
+##
+
+{Strange Child} [Gin: Default / cara9-1]
+#Message#
+\."Myeow so? Mom tells me not to give personal info
+ to strange guys I don't know, woof!"
+##
+
+{Man in Suit} [Mishima: Default smile / cara12-1]
+{SE: Accent28-1}
+#Message#
+\."Stupendous! A level-headed child
+ who does as his parents teach him!"
+##
+
+#Message#
+\."Yet, this is indeed an emergency... Hrmmm."
+##
+
+#Message#
+\."Then we must prove that we adults
+ are not suspicious characters... Mwahaha..."
+##
+
+{Strange Child} [Gin: Default / cara9-1]
+#Message#
+\."Waugh... Super suspicious, woof."
+##
+
+{Man in Apron} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Nothing for it. Well, where should we start?"
+##
+
+-----Page3-----
+{Beanie Man} [Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+\."Ah... I should introduce myself too soon, huh."
+##
+
+{Strange Child} [Gin: Default / cara9-1]
+#Message#
+\."Fine, I can read the room, woof!
+ It's, you know, the mature response, meow!"
+##
+

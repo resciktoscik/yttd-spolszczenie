@@ -1,0 +1,87 @@
+**********Common719********** (ﾚｺ「交換は50メダル」)
+{Reko}
+#Message#
+"Trading cards required 50 tokens!
+ So only so many people could make trades!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Urk... What's this?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I'm just stating a fact, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"The token rankings had Q-taro in first
+ and Gin in last, if I heard right."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Me, you, and Nao were near the bottom, right...?"
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."I don't think we had enough tokens to trade cards..."
+##
+

@@ -1,0 +1,324 @@
+**********Common265********** (⑭進展●終わり)
+{Kai} [Kai: Default / cara8-1]
+#Message#
+".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]Right now, I'm seeing the worst outcome in my head.
+##
+
+#Message#
+\.\C[3]This is just an uncertain line of logic.
+##
+
+#Message#
+\.\C[3]An imperfect hole of the kidnappers' design.
+##
+
+#Message#
+\.\C[3]If all my guesses are correct, it's over.
+##
+
+#Message#
+\.\C[3]It's all over.
+##
+
+{Sara}
+#Message#
+\.\C[4](Please... Let me be wrong...!!)
+##
+
+#Message#
+\.\C[4](I don't have anywhere left to go... but forward!!)
+##
+
+#Message#
+\."Kai..."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Yes...?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Please tell me... the results of your divination..."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\.".........."
+##
+
+{Joe} [Joe: Serious look, sweating / cara1-22]
+#Message#
+\."Quit it, Sara!! Talking to Kai now
+ is just a waste of time! Believe in me!!"
+##
+
+{Kai} [Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\."...................."
+##
+
+{Sara}
+#Message#
+\."...You won't say... will you, Kai?"
+##
+
+{SE: Accent28-1}
+#Message#
+\."Because... you can't say...?"
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."What're you...?!"
+##
+
+{Sara}
+#Message#
+\."It says this in Rulebook 2..."
+##
+
+#Message#
+\."The \C[3]Sage\C[0] knows who the \C[2]Keymaster\C[0] is via divination,
+ but cannot lie about the results of divination."
+##
+
+{SE: Accent21-1}
+#Message#
+\."All it says is \C[2]they know who it is\C[0]..."
+##
+
+{Kai} [Kai: Looking down and to side / cara8-6]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Plus, they "can't lie about the results"...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](The real \C[3]Sage\C[4] \C[2]couldn't see\C[4] any design...!)
+##
+
+{SE: Thunder6}
+#Message#
+\.\C[4](So Kai, who didn't say a design, is the Sage...!)
+##
+
+{Kai} [Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](But...)
+##
+
+#Message#
+\.\C[4](If that's it, then why...)
+##
+
+{N/A} [Joe: Serious look / cara1-14]
+#Message#
+    \sp[8]\{\C[10]Why did Joe claim to be the Sage?
+##
+
+#Choice#
+Present it all to Kai
+Keep it all inside
+##
+
+<カイさんに全てをつきつける>
+
+{Sara} [Joe: Serious look / cara1-14]
+#Message#
+"Kai, who won't mention a design... is the Sage..."
+##
+
+<全てを胸にしまう>
+
+{N/A} [Sou: Smile / cara5-2]
+#Message#
+\.\C[10]I can't...
+##
+
+#Message#
+\.\C[10]I can't say it... No... This is wrong...
+##
+
+#Message#
+\.\C[10]It was all mistaken... Something's wrong with me...
+##
+
+{Sou}
+#Message#
+"Since Kai couldn't say a design, he's the Sage."
+##
+
+{Sara}
+#Message#
+\.\C[10]"..........!!!!"
+##
+
+<Choice End>
+
+{Kai} [Kai: Looking down and to side / cara8-6]
+#Message#
+\."..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Ha."
+##
+
+[Kai: Looking down and to side, grinning grimly / cara8-7]
+#Message#
+\."Hahahahaha..."
+##
+
+[Kai: Looking down and to side, sweating nervously / cara8-12]
+#Message#
+\."My fate... has been set, then."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent21-1}
+#Message#
+\."It was a close one."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Huh... So Kai was the Sage."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Y-You!! Sure 'nuff, you had Kanna lie for you!!"
+##
+
+{Sou} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."More importantly, we should listen to Kai."
+##
+
+[Sou: Disdainful pose / cara5-11]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"Kai's last words, that is."
+##
+
+{Kai} [Kai: Looking down and to side, sweating nervously / cara8-12]
+#Message#
+\."When we came to the subject of designs...
+ I realized I was in danger."
+##
+
+#Message#
+\."I thought I might play dumb...
+ But it was clear I would be the most-voted
+ simply due to my lack of trust..."
+##
+
+#Message#
+\."Yet... yet... I..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."I do not wish... to die..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Kai..."
+##
+
+{Kai} [Kai: Looking down and to side, sweating nervously / cara8-12]
+{SE: Accent21-1}
+#Message#
+\."The \C[10]Sacrifice\C[0]... is surely Joe."
+##
+
+{N/A}
+#Message#
+\.\C[3]Joe...?
+##
+
+{Kai}
+#Message#
+\."I am convinced... He purposefully took actions
+ that could be read as those of the Sage."
+##
+
+[Kai: Looking down and to side, furrowed brow shout, sweating / cara8-13]
+#Message#
+\."And thus, please... Please vote for Sou!!"
+##
+
+{Sou} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."Ahaha, why me?"
+##
+
+{Kai} [Kai: Looking down and to side, furrowed brow shout, sweating / cara8-13]
+#Message#
+\."He is a dangerous man!!
+ He will certainly disturb our teamwork,
+ and lead everyone into danger...!!"
+##
+
+#Message#
+\."I did indeed have contact with the kidnappers!
+ But if you let me live, I will tell everything!"
+##
+
+#Message#
+\."I have vital information for our escape...!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."See ya, Kai."
+##
+
+{Joe} [Joe: Serious look and eyebags, sweating bullets / cara1-23]
+#Message#
+\."G... Guys... Don't be fooled... I... I'm the Sage..."
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."It's time to vote. Please refrain from whisperings."
+##
+
+{Kai} [Kai: Looking down and to side, furrowed brow shout, sweating / cara8-13]
+#Message#
+\.\{\C[10]"Please... don't kill me...!!"
+##
+
+{N/A}
+#Message#
+Please choose who to vote for.
+##
+

@@ -1,0 +1,1065 @@
+=====Map205===== (⑤Outside 2F Elevator)
+
+**********Event2********** (suuzi) (12,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]"5" is written on the wall.
+##
+
+{Sara}
+#Message#
+\.\C[4](So is this the fifth floor?)
+##
+
+
+**********Event3********** (erebe-ta-) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The elevator seems to only go down.
+##
+
+-----Page2-----
+{Sara}
+#Message#
+".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Huh? The buttons... aren't doing anything...?)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+"Huh...?! Why ain't it workin'?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"What's that...?! Why is it out of order?!"
+##
+
+<Condition End>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+{SE: horror_piano chord3}
+#Message#
+\."Did Maple... break it...?"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."What do we do, meow?!
+ Muscle gorilla and Mr. Policeman are both gonna...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."We gotta go back...!"
+##
+
+[Reko: Fists out, shocked eyes, mouth open / cara6-41]
+{SE: sceneswitch2}
+#Message#
+\."Let's see if any machines in the control room
+ can activate the elevator!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Oof...! We must go back for now!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: sceneswitch2}
+#Message#
+\."Let us see if any machines in the control room
+ can activate the elevator!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](Come on! We're in a hurry here...!)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The elevator won't move.
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]The elevator seems to only go down.
+##
+
+
+**********Event4********** (kamimap) (4,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's paper on the ground.
+##
+
+{Sara}
+#Message#
+\."Wonder what this is...?"
+##
+
+{Paper}
+{SE: Accent28-1}
+#Message#
+\.\C[6]Is everyone well?
+I'm getting very bored, so I wrote you this letter.
+I'll give you a map, so please come meet me soon.
+- \N[4]
+##
+
+{Sara}
+#Message#
+\.\C[4](What a weird letter...
+ By map, does he mean...?)
+##
+
+{SE: Accent28-1}
+#Message#
+\."Sure enough, it's a map of this floor."
+##
+
+#Message#
+\.\C[4](This is where we are now...)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\C[3]You can now switch between floor maps.
+##
+
+
+**********Event55********** (EV055) (1,0)
+-----Page1-----
+{Kurumada's Voice}
+{SE: sceneswitch2}
+#Message#
+"Outta the damn way!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+"I'm gonna kill that damn Maple...!"
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."Please, stop!!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kanna! Kurumada!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."You guys... Didn't you go to save Mai and Q-taro?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+You'll be killed
+The elevator doesn't work
+##
+
+<殺されますよ>
+
+{Sara} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+{SE: Accent40-1}
+#Message#
+"You'll be killed, Kurumada..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."Don't get... in my damn way...!"
+##
+
+<エレベーターは動かない>
+
+{Sara} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+{SE: Accent40-1}
+#Message#
+"The elevator isn't working..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada}
+#Message#
+\."Don't... lie to me, dammit...!"
+##
+
+<Choice End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent42-1}
+#Message#
+\."I won't stand for bein' a loser..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."I-It's not like you're going to win..."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+\."We found a way to save you...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."I don't need that crap!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](K-Kurumada...!)
+##
+
+#Choice#
+Please believe us
+Just calm down and listen
+Defeat us, then you can go
+##
+
+<信じて下さい>
+
+{Sara} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+{SE: Accent40-1}
+#Message#
+"Please believe us... We found a charger."
+##
+
+#Message#
+\."We can save you, Kurumada!"
+##
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+#Message#
+\."R-Really...?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."Shad... dup...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."Stop... getting... in my way!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."I'm free... to do what I want...!!"
+##
+
+<落ち着いて話だけでも>
+
+{Sara} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+{SE: Accent40-1}
+#Message#
+"Calm down... Just listen to what we have to say!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."Shad... dup...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."Stop... getting... in my way!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."I'm free... to do what I want...!!"
+##
+
+<私を倒してから行ってください>
+
+{Sara} [Kurumada: Fatally damaged, angry, shouting / cara95-32]
+{SE: flash-of-light-3}
+#Message#
+"In that case... Defeat us, and then you can go..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent42-1}
+#Message#
+\."Hah... I'll make you cry and then some..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Kurumada, Sara, you both stop it!
+ What's wrong with you guys?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."Stop... getting... in my way!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, shouting / cara95-32]
+#Message#
+\."I'm free... to do what I want...!!"
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Angry shout (lightless eyes) / cara3-14]
+#Message#
+\."Please, just cut it out!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+".........."
+##
+
+{Kanna} [Kanna: Angry shout (lightless eyes) / cara3-14]
+#Message#
+\."Right now, Kurumada..."
+##
+
+[Kanna: Angry shout with tears (lightless eyes) / cara3-15]
+{SE: sceneswitch2}
+#Message#
+\."It's as if... you're trying to die."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Just like Sou was then..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: Accent21-1}
+#Message#
+\."Sou did it to protect Kanna..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."And Kurumada..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent41-1}
+#Message#
+\."You're trying to \C[2]protect\C[0] all the Dummies, aren't you?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Eh...?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."An Obstructor's goal should be complete
+ after they \C[2]destroy one of you\C[0]..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."And yet, Maple's rampage didn't stop."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Kurumada, you must think that's because..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent28-1}
+#Message#
+\."She thinks \C[2]you're still alive\C[0]... right?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent21-1}
+#Message#
+\."That's why... you're trying to die..."
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."No way..."
+##
+
+<Else>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Kurumada..."
+##
+
+<Condition End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."Shut up... Don't make up... wild assumptions..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But I don't want any more of that..."
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+\."Don't think "it would be better if I died"...!"
+##
+
+[Kanna: Angry shout / cara3-23]
+#Message#
+\."Please, try to live!
+ Kurumada...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...We found a charger."
+##
+
+#Message#
+\."We can save you..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."You want me... to live...? Dammit..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, shouting / cara95-28]
+#Message#
+\."I'll smash it...!
+ Even if I do charge, how long's it gonna last?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+\."I can hardly even walk anymore!!"
+##
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+{SE: Accent43-1}
+#Message#
+\."Kanna will be your legs...!"
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Kanna lent Kurumada her shoulder to support him.
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I can't carry you fully...
+ But I can give at least half support!"
+##
+
+[Kanna: Angry shout / cara3-23]
+{SE: sceneswitch2}
+#Message#
+\."Let's go, Kurumada...!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\C[4](Let's take him to the room with the charger...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I... won't let him die.)
+##
+
+-----Page4-----
+%ignore
+
+
+**********Event56********** (hinako-EV) (2,12)
+-----Page1-----
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+"Ahh, I see..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems to be carefully looking over
+ the area around the elevator...)
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Sara} [Hinako: Mouth open / cara93-2]
+{SE: Accent21-1}
+#Message#
+"I wonder if the breaker was really shut off..."
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+#Message#
+\."The buttons don't even respond, right?"
+##
+
+[Hinako: Eyes closed, grin / cara93-6]
+#Message#
+\."Somebody downstairs must've made it unusable..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"Noticed anything, Hinako?"
+##
+
+{Hinako} [Hinako: Eyes closed / cara93-4]
+#Message#
+\."You know, Sara-senpai..."
+##
+
+[Hinako: Mouth open / cara93-2]
+{SE: Accent41-1}
+#Message#
+\."You think... the breaker was shut off?"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+#Message#
+\."The breaker for the elevator was on \C[2]Floor 4\C[0]."
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\."You mean..."
+##
+
+#Choice#
+Maple...?
+Someone downstairs...?
+##
+
+<メイプルが…？>
+
+{Sara} [Hinako: Eyes closed, grin / cara93-6]
+{SE: Accent40-1}
+#Message#
+"Did Maple...?"
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+\."Can't imagine that lady would be capable
+ of that kind of judgement on her rampage."
+##
+
+[Hinako: Small grin / cara93-3]
+#Message#
+\."Maybe Mai, or Q-taro...? Surely not Keiji...?
+ Haha..."
+##
+
+<下の階にいる誰かが…？>
+
+{Sara} [Hinako: Small grin / cara93-3]
+{SE: Accent40-1}
+#Message#
+"Did someone downstairs do that...?"
+##
+
+{Hinako}
+#Message#
+\."Maybe Mai, or Q-taro...? Surely not Keiji...?
+ Haha..."
+##
+
+<Choice End>
+
+{Sara} [Hinako: Small grin / cara93-3]
+#Message#
+\."...!"
+##
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+#Message#
+\."...Heehee. I don't know who did it or why..."
+##
+
+[Hinako: Mouth open / cara93-2]
+{SE: horror_piano chord3}
+#Message#
+\."But watch your back, Sara-senpai."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<灯ろうを使う>
+
+{Sara} [Hinako: Mouth open / cara93-2]
+{SE: Accent21-1}
+#Message#
+"Take a look at this lantern, Hinako."
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."What...? I don't have that kind of time."
+##
+
+{Sara}
+#Message#
+\.\C[4](Oof... She's just not having it.)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event58********** (housou-EV) (6,12)
+-----Page1-----
+{Keiji}
+#Message#
+\C[4](*pant*... *pant*...)
+##
+
+#Message#
+\.\C[4](I charged it...
+ Now I just have to get back to the lower floor...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Calm down... This plan is all so no one sees me...)
+##
+
+{???}
+#Message#
+\C[6]"Testing, testing... Can you hear me?"
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Huh...?)
+##
+
+{Keiji's Voice}
+{SE: Accent41-1}
+#Message#
+\C[6]"It's your friendly policeman on the air...
+ How's everybody doing?"
+##
+
+{Keiji}
+#Message#
+\C[4](..........)
+##
+
+#Message#
+\.\C[4](What...?!)
+##
+
+{Keiji's Voice}
+#Message#
+\C[6]"Would love to explain everything,
+ but unfortunately, there's no time."
+##
+
+#Message#
+\.\C[6]"If you can hear my voice...
+ I've got a request for you."
+##
+
+#Message#
+\.\C[6]"Bring the ID card to the classroom."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[6]"I need Sara to do it, and for her to come alone.
+ Counting on you..."
+##
+
+{Keiji}
+#Message#
+"What the hell... was that?!"
+##
+
+#Message#
+\.\C[4](That was my voice...!)
+##
+
+#Message#
+\.\C[4](Damn it... What do I do?)
+##
+
+
+**********Event80********** (midorierebe-EV) (9,12)
+-----Page1-----
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+"It's gonna clooose! Hurry, hurry!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Buzz off, bastard!! You want us to get on with you?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Has he lost his mind?! Us getting on together...?!"
+##
+
+<Condition End>
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](What should we do?!)
+##
+
+#Choice#
+Get on with him
+Don't get on
+##
+
+<相乗りする>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: sceneswitch2}
+#Message#
+"...We're just moving together! It'll be fine...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Yeah! I'd hate to let him walk all over me..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...Guh...!"
+##
+
+<Condition End>
+
+<乗らない>
+
+{Sara} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Why don't you just go on ahead, \N[4]?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent42-1}
+#Message#
+\."Okay, I'll go on and kill Keiji for you!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."We got no choice, Sara...!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Don't be a chicken!
+ We cannot allow him to get ahead of us...!"
+##
+
+<Condition End>
+
+<Choice End>
+
+{N/A} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: heart2}
+#Message#
+\C[3]Long...
+##
+
+#Message#
+\.\C[3]Going down just one floor feels unbearably long.
+##
+
+{SE: heart2}
+#Message#
+\.\C[3]Because next to us... is the enemy we need to kill.
+##
+
+{\N[4]}
+{SE: Accent28-1}
+#Message#
+\."You're too nervous, miss Sara."
+##
+
+{N/A}
+#Message#
+\.\C[3]Even when he's this close, I can't do anything.
+##
+
+{\N[4]}
+#Message#
+\."Heeheehee... Ahaha..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Let's go! Beat \N[4] to the punch!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Get out quickly! We must not spare him a second...!"
+##
+
+<Condition End>
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\."...I'll just take my sweet time."
+##
+

@@ -1,0 +1,547 @@
+**********Common1132********** (呼・闇②優勝すれば)
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden / cara91-35]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Hey... Sara."
+##
+
+{Sara}
+#Message#
+\."What is it...? Hurry...!"
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden, sweating fearfully / cara91-36]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent21-1}
+#Message#
+\."I... don't want you to die, Sara..."
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\."...Ranmaru."
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden, sweating fearfully / cara91-36]
+#Message#
+\."S... So... um..."
+##
+
+[Ranmaru: Hand on face, looking to side, mouth hidden, sweating / cara91-37]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."What do you think about... winning...?"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+#Message#
+\.\C[4](What's he saying all of a sudden?)
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden, sweating fearfully / cara91-36]
+#Message#
+\."Maple told us, right...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Winning...
+##
+
+#Message#
+\.\C[3]What does he mean?
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]Betraying everyone, and...?
+##
+
+{Sara}
+#Message#
+\."Don't get such strange ideas, Ranmaru!"
+##
+
+#Message#
+\."I want us all to escape together...!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."..."
+##
+
+[Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."...Y-Yeah, of course..."
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent40-1}
+#Message#
+\."We'll all... escape, together."
+##
+
+#Message#
+\."..."
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+{SE: Accent43-1}
+#Message#
+\."But... is that really gonna be possible?"
+##
+
+{Sara}
+#Message#
+\."Ranmaru...!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Look, I...! When I'm with you, Sara,
+ I feel more and more like I wanna live!"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."The more serious I get...
+ the more afraid I am to die!"
+##
+
+[Ranmaru: Hand on face, looking to side, mouth hidden / cara91-35]
+#Message#
+\."Seeing Kurumada... I realized..."
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."I don't wanna die now...!!"
+##
+
+{Sara}
+#Message#
+\."That's the same for all of us...!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hand on face, looking to side, mouth hidden / cara91-35]
+{SE: Accent21-1}
+#Message#
+\."...Which is why you have to win, right?"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden, sweating fearfully / cara91-36]
+#Message#
+\."If I wanna get out of this alive...
+ All I have to do is take you out, Sara."
+##
+
+[Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."But... I can't do something like that."
+##
+
+[Ranmaru: Hands in pockets, eyes to side, mouth wide open / cara91-29]
+#Message#
+\."On the other hand..."
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, clenched teeth, grim look / cara91-26]
+{SE: horror_piano chord3}
+#Message#
+\."I'm sure I could kill... anyone else...!!"
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Listen, Sara..."
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Win for me..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+#Message#
+\."..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."Ranmaru..."
+##
+
+{\C[10]Sara}
+{SE: horror_piano chord3}
+#Message#
+\.\sp[15]\C[10]"That won't go well..."
+##
+
+{N/A}
+#Message#
+Eh...? What am I...
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"I-It'll be fine!! Sara...!"
+##
+
+{\C[10]Sara}
+#Message#
+\.\C[10]"I... could never kill an ally."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\."I know that...!
+ I'll... I'll do it all myself!!"
+##
+
+{N/A}
+#Message#
+Idiot! What are you...?!
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent28-1}
+#Message#
+"That's not something you want! Right...?!
+ So it'll all be... something I did on my own!!"
+##
+
+{\C[10]Sara}
+#Message#
+\.\C[10]"..."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[10]"Don't do it, Ranmaru...
+ I don't want to make you do such a thing..."
+##
+
+{Ranmaru}
+#Message#
+\."It's okay, Sara... I..."
+##
+
+{\C[10]Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]"I don't want to hurt you, Ranmaru...
+ My precious... friend..."
+##
+
+{Ranmaru}
+#Message#
+\."I'll be okay... Thank you..."
+##
+
+{SE: Accent42-1}
+#Message#
+\."I'll handle it skillfully..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+#Message#
+\."Reko... and Kanna..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\."Reko... and Sou..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+#Message#
+\."Alice... and Kanna..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\."Alice... and Sou..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+[Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+{SE: heart2}
+#Message#
+"And Keiji..."\.
+##
+
+[Ranmaru: Hands in pockets, surprised eyes, closed teeth / cara91-19]
+#Message#
+\."S... Sara...?"
+##
+
+{Sara}
+#Message#
+\."*pant*...! *pant*...!!"
+##
+
+#Message#
+\."You can't...!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+#Message#
+\."This... This is all wrong...!"
+##
+
+#Message#
+\."All of us...! Together!! Urghh...!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."H-Hey!!"
+##
+
+{N/A}
+#Message#
+\C[3]Something's welling up in me.
+##
+
+#Message#
+\.\C[3]Something putrid, black, and slimy.
+##
+
+#Message#
+\.\C[3]It fills my body, and runs rampant.
+##
+
+#Message#
+\.\C[3]How good it would be
+to spew it all out and feel relief.
+##
+
+#Message#
+\.\C[3]I don't know anymore...
+##
+
+#Message#
+\.\C[3]What I really think... my feelings for others...
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Not even my own heart...
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+\."...You calmed down?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: Accent40-1}
+#Message#
+\."Forget it... All of that just now..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+<Else (Switch #822 (★ソウ生存ルート))>
+
+{Sara}
+#Message#
+\."Ranmaru...!!"
+##
+
+[Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+\."Get a grip!!"
+##
+
+#Message#
+\."We're all allies!
+ We've overcome hardship together!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\."Reko, Q-taro...
+ They protected us, even as they were hurt!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+#Message#
+\."When Q-taro and Alice were shaken,
+ they still never tried to abandon us!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+#Message#
+\."When Gin and Kanna were taken by suspicion,
+ they still believed in us and gave us courage!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\."When Gin was taken by suspicion,
+ he still believed in us and gave us courage!"
+##
+
+#Message#
+\."Even Sou, deep in his heart, was worried for
+ his allies and considered escape above all else!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\."So never say something like that again...!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."....."
+##
+
+#Message#
+\."..."
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: Accent21-1}
+#Message#
+\."Sorry..."
+##
+
+[Ranmaru: Hand on face, looking down fearfully / cara91-30]
+#Message#
+\."I'm... such a piece of shit..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I had no right to be your friend..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."*s-sniff*... Urgh..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The more you want to live, the more real death feels.
+##
+
+#Message#
+\.\C[3]I'm sure Ranmaru... had given up, at first.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]It was me who gave him hope.
+##
+
+#Message#
+\.\C[3]But I can't make a choice like that.
+##
+
+{Sara}
+#Message#
+\."...I..."
+##
+
+#Message#
+\C[4](...This is no time to be crying.)
+##
+
+#Message#
+\.\C[4](We'll all return together...)
+##
+
+#Message#
+\.\C[4](I don't intend to abandon anyone.)
+##
+
+{SE: Accent40-1}
+#Message#
+\.\C[4](Ranmaru... that includes you.)
+##
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+

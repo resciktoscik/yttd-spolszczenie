@@ -1,0 +1,18 @@
+**********Common1027********** (①ソウB選択)
+{N/A}
+#Message#
+"Hmm... Maybe I can burn it with the torch
+ if I find an opportunity... Who knows."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

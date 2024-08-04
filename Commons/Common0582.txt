@@ -1,0 +1,263 @@
+**********Common582********** (交渉２ー昼　ナオ)
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+"Sara, if it's okay with you...
+ Could we trade 30 tokens?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+"Um... I've been too scared to trade tokens at all..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."I've been worried that...
+ trading will lead to something bad happening..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."But everyone else seems to be doing it...
+ So now it's just making me uneasy."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."But if I can trade with you, I'll feel secure..."
+##
+
+{Sara}
+#Message#
+\.\C[4](30 tokens... That's a fair amount.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Raised finger / cara7-4]
+{SE: Accent28-1}
+#Message#
+\."Thank you very much!
+ Even just for talking to me...!"
+##
+
+{Sara}
+#Message#
+\."You want to trade that badly?"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Yes... I've hardly traded with anyone.
+ I've got quite a lot left..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I thought... it was about time I start trading these."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."If it's okay with you...
+ I want you to be who I trade with..."
+##
+
+{Sara}
+#Message#
+\."Really...?"
+##
+
+#Choice#
+Why with me?
+What of the personal info risk?
+30 tokens is a lot
+##
+
+<なぜ私と？>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Huh? I mean... there's no one I could
+ feel more safe with than you, Sara."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."If it were Sou or Alice, um...
+ It'd be a little scary..."
+##
+
+[Nao: Mouth open / cara7-1]
+{SE: flash-of-light-3}
+#Message#
+\."But Sara... Why, I wouldn't even be opposed
+ if we traded our own clothes!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't really know where THAT came from...
+ But she trusts me that much?)
+##
+
+<個人情報を知られるリスクは？>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent28-1}
+#Message#
+\."...I won't really mind
+ if you know my personal info, Sara."
+##
+
+[Nao: Mouth open / cara7-1]
+#Message#
+\."In fact, I'd sort of want you to know
+ so you can trust me more...!"
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."But... I've just led a normal life.
+ It'll probably be boring to learn about..."
+##
+
+{Sara}
+#Message#
+\.\C[4](So she trusts me that much?)
+##
+
+{Nao}
+#Message#
+\."You need to trade 50 tokens to view personal info..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."If it's just 30 tokens...
+ There should be no risk for either of us."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent28-1}
+#Message#
+\."Besides, if you don't want me looking, Sara...
+ I wouldn't even think of checking it out."
+##
+
+{Sara}
+#Message#
+\.\C[4](She's certainly not making this offer thoughtlessly.)
+##
+
+<30枚は多いですね>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Sorry... Still, I'd like it to be 30 tokens."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."It's just for my own convenience,
+ but there's no point in half-measures."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."...Sorry for being selfish."
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems she doesn't intend to change her mind.)
+##
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Please, don't hold back on me.
+ ...If you can't do it, just turn me down."
+##
+
+#Message#
+\."It's kind of scary, but...
+ I can consider asking someone else."
+##
+
+#Message#
+\."Sara...
+ Would you trade 30 tokens with me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Message#
+\.\C[4](Should I make this trade?)
+##
+
+#Choice#
+Trade 30 tokens
+Refuse trade
+##
+
+<30枚交換を　行う>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent28-1}
+#Message#
+"Understood. Let's trade, Nao."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Thank you so much!
+ You're very kind, Sara..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Traded 30 Me-Tokens with Nao.
+##
+
+<取引を断る>
+
+{Sara} [Nao: Mouth open / cara7-1]
+#Message#
+"Sorry, I'm afraid I can't trade."
+##
+
+{Nao} [Nao: Closed eyes / cara7-16]
+#Message#
+\."...I understand..."
+##
+
+[Nao: Mouth open / cara7-1]
+#Message#
+\."I'm glad we could at least talk.
+ ...Thank you very much."
+##
+
+<Choice End>
+
+{Sara} [Nao: Mouth open / cara7-1]
+#Message#
+\C[4](Well... That's it for negotiations.)
+##
+

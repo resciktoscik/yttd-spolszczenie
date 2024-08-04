@@ -1,0 +1,99 @@
+**********Common630********** (犠牲者ﾋﾞﾃﾞｵ１再生)
+{Voice}
+#Message#
+"Nooo...!!
+ What is this...?!"
+##
+
+{Girl}
+{SE: se_maoudamashii_magical14}
+#Message#
+"I can't move!! My legs...!!"
+##
+
+{N/A}
+#Message#
+\."10 seconds until the end of the First Trial."
+##
+
+{Girl}
+#Message#
+\."Who?! Why are you doing this to me?!"
+##
+
+#Message#
+\."I've had it with this!!
+ This trial stuff... I don't get it!!"
+##
+
+#Message#
+\."Mom!! Dad!! Somebodyyy!!"
+##
+
+#Message#
+\."Help... meee...!!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\."...Time is up."
+##
+
+#Message#
+\."The device will activate shortly."
+##
+
+#Message#
+\."In commemoration, you may say some final words."
+##
+
+{Girl}
+#Message#
+\."Stooop!! I don't wanna dieeeee!!"
+##
+
+#Message#
+\sp[12]"Ga... a... a..."
+##
+
+#Message#
+\.\sp[12]"It... hurts...
+ \sp[10]M... m... om..."
+##
+
+{Sara}
+#Message#
+\C[4](Awful...)
+##
+
+{N/A}
+#Message#
+\.\C[3]A middle school, maybe high school student...
+A girl about my age was mercilessly killed.
+##
+
+{Sara}
+#Message#
+\.\C[4](And... they're making a show of it...!)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](She was toyed with just so they could
+ make this video as a "prize"...!!)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\.\C[4](I don't even know this girl's name, but...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](I want to avenge you...)
+##
+

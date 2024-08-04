@@ -1,0 +1,101 @@
+**********Common737********** (▽ｿｳ…否定)
+{Sara}
+#Message#
+"No, you didn't go to the bathroom!"
+##
+
+{Sou}
+#Message#
+"...Were you watching me?"
+##
+
+{Sara}
+#Message#
+"I mean..."
+##
+
+{Sou}
+#Message#
+"Thought not. Glad you're not a pervert."
+##
+
+{Sara}
+#Message#
+\C[4](Wrong...! This won't move things forward!)
+##
+
+#Message#
+"No... Peeking would be impossible!!"
+##
+
+{Sou}
+#Message#
+"Oh yeah? Then I guess I couldn't have done it."
+##
+
+#Message#
+\."...Is my suspicion cleared?"
+##
+
+{Sara}
+#Message#
+\C[4](That was wrong...!!)
+##
+
+#Message#
+"O-Of course I wasn't watching, right?!"
+##
+
+{Sou}
+#Message#
+"Then it's all an accusation... Gimme a break."
+##
+
+{Sara}
+#Message#
+\C[4](I don't mean it like that, though...!!)
+##
+
+#Message#
+"No, you were brave!!"
+##
+
+{Sou}
+#Message#
+\."Nah, I was trembling like a puppy. Ahaha."
+##
+
+#Message#
+\."Miss Sara, don't lump strangers in with
+ weirdly-powerful high school girls like yourself."
+##
+
+{Sara}
+#Message#
+\C[4](What do you mean, weirdly-powerful?!)
+##
+
+#Message#
+"No! He wasn't considering it!!"
+##
+
+{Sou}
+#Message#
+"...Q-taro must be pretty pure, huh."
+##
+
+{Sara}
+#Message#
+"He has the eyes of a young boy...!!"
+##
+
+{Sou}
+#Message#
+"Hey, can you be serious here?"
+##
+
+{Sara}
+#Message#
+\C[4](That was wrong...!!)
+##
+

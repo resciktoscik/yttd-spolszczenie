@@ -1,0 +1,23 @@
+**********Common1521********** (⑦クルマダB選択)
+{N/A}
+#Message#
+"I can use my \C[2]fists\C[0] to wreck
+ at least one of those monitors...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

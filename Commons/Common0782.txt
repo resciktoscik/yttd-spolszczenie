@@ -1,0 +1,82 @@
+**********Common782********** (ﾚｺ「ﾏｼﾝｴﾗｰ」)
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko}
+#Message#
+"You can't trust electronics for shit!
+ The tablet errored and the trade got messed up!"
+##
+
+<Else>
+
+<Condition End>
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"That ain't an explanation, Sara...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"That isn't provin' a damn thing...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"It ain't unthinkable, right Sara?!"
+##
+

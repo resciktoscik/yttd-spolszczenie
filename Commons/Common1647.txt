@@ -1,0 +1,195 @@
+**********Common1647********** (■ﾗﾝﾏﾙ「ﾎｯﾄｺｺｱ」)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru}
+#Message#
+"\C[2]Hot cocoa\C[0] got spilled on my coffin...
+ But that doesn't matter, does it?"
+##
+
+<Else>
+
+#Message#
+"\C[2]Hot cocoa\C[0] got spilled on my coffin...
+ But that's not relevant, is it?"
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+#Message#
+"Ahh... That's right, Hinako splashed \C[2]liquid\C[0] at me
+ and got my coffin all sticky..."
+##
+
+<Else>
+
+#Message#
+"...That's right. Hinako splashed \C[2]liquid\C[0] at me
+ and got my coffin all sticky, I recall..."
+##
+
+<Condition End>
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+"What's that supposed to mean?"
+##
+
+<Else>
+
+[Ranmaru: Evil, smile / cara91-38]
+#Message#
+".........."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+"What's that supposed to mean?"
+##
+
+<Else>
+
+[Ranmaru: Evil, smile / cara91-38]
+#Message#
+".........."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+"If you wanna know why I wiped it...
+ I just felt like I should, I guess."
+##
+
+<Else>
+
+[Ranmaru: Evil, smile / cara91-38]
+#Message#
+"Gettin' kinda thirsty now... For cocoa..."
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+[Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+"See, Hinako was having me hold her cocoa..."
+##
+
+[Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: Accent21-1}
+#Message#
+\."And I said "it's hot, carry it yourself.""
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: Accent28-1}
+#Message#
+\."Then she crumpled it up,
+ and splashed it all over my coffin..."
+##
+
+[Ranmaru: Hands in pockets, mouth closed / cara91-16]
+#Message#
+\."...I had no choice but to wipe it off myself."
+##
+
+[Ranmaru: Hands in pockets, mouth open / cara91-15]
+#Message#
+\."But... That ain't important, is it?"
+##
+
+<Else>
+
+[Ranmaru: Evil, closed mouth / cara91-39]
+#Message#
+"Hinako had me hold her cocoa, you know."
+##
+
+[Ranmaru: Evil, mouth open / cara91-40]
+{SE: Accent21-1}
+#Message#
+\."I told her, "it's hot, carry it yourself"..."
+##
+
+[Ranmaru: Evil, thin mouth / cara91-41]
+{SE: Accent28-1}
+#Message#
+\."Then she crumpled it up
+ and splashed it all over my coffin..."
+##
+
+[Ranmaru: Evil, mouth open / cara91-40]
+#Message#
+\."...I had no choice but to wipe it off myself."
+##
+
+[Ranmaru: Evil, closed mouth / cara91-39]
+#Message#
+\."But what of it? That ain't relevant, is it?"
+##
+
+<Condition End>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](I can't overlook this statement...!)
+##
+

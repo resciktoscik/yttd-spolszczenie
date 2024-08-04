@@ -1,0 +1,552 @@
+**********Common844********** (⑳進展●「ｿｳとｶﾝﾅ」)
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent28-1}
+#Message#
+"Huh...?"
+##
+
+[Sou: Afraid look with lightless eyes / cara5-9]
+#Message#
+\."Wh... what are you..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent21-1}
+#Message#
+\."Please... vote for Kanna."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."What're you sayin'?! Kanna!!"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."I'm sure you understand!! Between Sou and Kanna...
+ which of us isn't necessary?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Stupid... Don't say that!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...!!"
+##
+
+<Condition End>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+{SE: sceneswitch2}
+#Message#
+\."Kanna already intended to die from the moment
+ she tried to trade for Sara's \C[10]Sacrifice\C[0]...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Kan... na...)
+##
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+\."Please...
+ This is about the only thing Kanna can do..."
+##
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."..."
+##
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+{SE: Accent28-1}
+#Message#
+\."In exchange..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I want you to believe in Sou..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: Accent21-1}
+#Message#
+\."Because he's really... not a bad person..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]...Why can't I say anything?
+##
+
+#Message#
+\.\C[3]Kanna's throwing her life away to protect Sou...
+##
+
+#Message#
+\.\C[3]Am I just going to watch in silence...?
+##
+
+{Sara}
+#Message#
+\."...Kanna...!"
+##
+
+{Sou} [Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\.\{"Don't be ridiculous, Kanna!!"
+##
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+{SE: Accent21-1}
+#Message#
+\."S... Sou..."
+##
+
+{Sou} [Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."Self-sacrifice...?! That's worthless!!"
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."You really are a kid, Kanna..."
+##
+
+[Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."A thoughtless kid with a backwards notion
+ that if she dies, it'll solve everything!!"
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: sceneswitch2}
+#Message#
+\."...My feelings won't change."
+##
+
+{Sou} [Sou: Hands out, mouth open, grim face / cara5-35]
+#Message#
+\."Be quiet, Kanna...!!"
+##
+
+[Sou: Hands out, mouth open, angry eyes with bags, grim face / cara5-33]
+#Message#
+\."Guys!! We have our conclusion!! Hurry up and vote!!"
+##
+
+[Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+{SE: Accent28-1}
+#Message#
+\."Sara!! You hated me from deep down, right?!
+ Aren't I awful?!"
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."You won't get another chance like this!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Sou...!!)
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kanna doesn't have any wisdom,
+ and can't even hack...!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."I told you to shut up, Kanna...!!"
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."Please, remember the first Main Game!"
+##
+
+[Kai: Holding up bleeding wrists, smile / cara8-9]
+#Message#
+\."We all... chose Kai as the victim...!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."For our survival, we didn't choose
+ by "feelings," but "logic"!!"
+##
+
+[Kanna: Angry shout with sweat / cara3-24]
+{SE: sceneswitch2}
+#Message#
+\."But wasn't that a mistake?!"
+##
+
+[Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."Real failure... is wavering!"
+##
+
+[Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."Not trusting your beliefs is weakness!!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."...Stop... it..."
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."And this time, the right thing is to choose logic,
+ so that you can escape!!"
+##
+
+[Kanna: Angry shout with tears (lightless eyes) / cara3-15]
+#Message#
+\.\{"You should choose Kanna!!"
+##
+
+{Sou} [Sou: Hands out, mouth open, grim face / cara5-35]
+#Message#
+\.\{"JUST STOOOOOOOOOOP IIIIIT...!!!!!!"\|\|\|\^
+##
+
+{N/A}
+#Message#
+\.\C[3]....................
+##
+
+#Message#
+\.\C[3]..........
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+{SE: Accent21-1}
+#Message#
+"...It's time to vote.\! I cannot wait any longer..."
+##
+
+[Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."Touch your voting tablets...!
+ Or everyone will die...!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."...Got it."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Mr. Policeman..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: shock1}
+#Message#
+\."Just voted for Kanna."
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."Keiji!!"
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent28-1}
+#Message#
+\."...Thank you very much."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."This ain't a joke!! I'm ashamed of you, Keiji!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Sacrificin' a kid for the sake of adults...
+ That's a demonic choice you just can't make!!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm votin' for Sou...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."You're right, Q-taro...!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."I don't think Kanna's a burden at all!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: sceneswitch2}
+#Message#
+\."My vote... is for Sou!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\.".........."
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+{SE: Accent28-1}
+#Message#
+\."Alice... You chose Kanna, right?!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\.".........."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: Accent21-1}
+#Message#
+\."...I can't... choose anyone's little sister..."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+#Message#
+\."Shin Tsukimi... I'm voting for you..."
+##
+
+<Condition End>
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."Fine by me!
+ Now if we just vote for ourselves, that's 3 to 2!!"
+##
+
+[Sou: Disdainful pose, closed-eyes smile / cara5-12]
+{SE: Accent28-1}
+#Message#
+\."Gin... It should be an easy choice
+ for you too, right?"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."I... I..."
+##
+
+[Gin: Looking up, tearful / cara9-14]
+#Message#
+\."I do... hate the loner..."
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+{SE: sceneswitch2}
+#Message#
+\."But... it's not like I want him to die..."
+##
+
+{Sou} [Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."D... Dumbass!! If you don't choose me,
+ I'll use you next and get you killed!!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\."Urghhh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Save Gin
+Suggest a way out
+##
+
+<ギンを救う>
+
+<逃げ道を提案する>
+
+<Choice End>
+
+{Sara} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+"You don't have to take responsibility, Gin."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."If you vote for Kanna... it'll be tied 3 to 3."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Your vote won't cause anyone to die."
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\."B-But then... big sis Sara, your vote will..."
+##
+
+{Sara}
+#Message#
+\."It's okay, Gin.
+ I'll take responsibility...!"
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\.".........."
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+{SE: horror_piano chord3}
+#Message#
+\."I voted... for bucket girl, meow..."
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Now... it's just me...)
+##
+
+#Message#
+\.\C[4](My vote will decide everything...)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](It'll... decide it all...!!)
+##
+
+{Voice}
+{SE: Accent28-1}
+#Message#
+"Ahaha..."
+##
+
+{Nao} [Nao: Hand on chest, relieved smile / cara7-25]
+{SE: Accent21-1}
+#Message#
+\."We did it... Sara..."
+##
+
+{Sara}
+#Message#
+\."Nao...?"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: sceneswitch2}
+#Message#
+\."Do you remember the conditions
+ for the \C[10]Sacrifice\C[0] to win...?"
+##
+
+[Nao: Hand on chest, relieved smile / cara7-25]
+{SE: Accent28-1}
+#Message#
+\."The \C[10]Sacrifice\C[0] wins... even if it's \C[2]a tie for first\C[0]."
+##
+
+{Keiji} [Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+\."...?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Now, Sou has 3 votes... Kanna has 3 votes..."
+##
+
+[Nao: Hand on chest, relieved smile / cara7-25]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And... as the \C[10]Sacrifice\C[0], I can vote for myself twice."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Thunder10}
+#Message#
+\."If you vote for me, that's 3 votes for everyone...!
+ I can win by \C[2]a tie for first\C[0]!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Say what?!"
+##
+
+{Nao} [Nao: Hand on chest, relieved smile / cara7-25]
+{SE: Accent21-1}
+#Message#
+\."Let's return home together, Sara..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Big sis Sara!! You won't do that, right...?!"
+##
+
+{N/A}
+#Message#
+\C[5]Please select \C[2]who to vote for\C[5].
+##
+

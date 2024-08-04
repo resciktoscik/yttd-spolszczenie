@@ -1,0 +1,73 @@
+**********Common1674********** (・ｸﾙﾏﾀﾞ「性別」)
+{Kurumada}
+#Message#
+"Hey, could it be \C[2]gender\C[0] or somethin'? Lotsa bathrooms
+ in Japan use red for girls, blue for boys, yeah?"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+"That's why I got laughed at for havin'
+ a red backpack as a kid! Pisses me off...!"
+##
+
+[Kurumada: Damaged, shouting / cara95-19]
+#Message#
+"So anyway, the person in coffin #\V[981]'s a girl!
+ No mistakin' it!"
+##
+

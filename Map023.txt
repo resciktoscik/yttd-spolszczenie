@@ -1,0 +1,464 @@
+=====Map23===== (Torso Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"W-What's this room...?"
+##
+
+{Sara}
+#Message#
+\."This place has... a pretty different mood."
+##
+
+{Sou}
+#Message#
+\."But that just makes it creepy..."
+##
+
+-----Page2-----
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Whoa... This is a weird room."
+##
+
+{Sara}
+#Message#
+\."...Let's be careful."
+##
+
+
+**********Event3********** (tama) (12,6)
+-----Page1-----
+#Message#
+\C[3]Something's sitting next to the stuffed animals.
+##
+
+#Message#
+\.\C[3]Obtained bullets.
+##
+
+{Sara}
+#Message#
+\.\C[4](These feel pretty light...)
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Hey... Let me look at those."
+##
+
+#Message#
+\."...Ahh.
+ These are dummy bullets."
+##
+
+{Sara}
+#Message#
+\."Dummies?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."They're like toys.
+ If you put these in a gun, they won't fire."
+##
+
+{Sara}
+#Message#
+\."So they're not real bullets."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Yeah, they're safe, at any rate."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."I know, let's have Keiji look at these.
+ He should have more expertise than us,
+ so maybe he can tell us something."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm hoping they can give us
+ some kind of clue about the culprits...)
+##
+
+-----Page2-----
+#Message#
+\C[3]Eerie stuffed animals.
+##
+
+
+**********Event4********** (hime) (8,6)
+-----Page1-----
+#Message#
+\C[3]A clothed doll torso leans against the wall.
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."I... It's not gonna move, is it?"
+##
+
+{Sara}
+#Message#
+\."Could this be..."
+##
+
+#Choice#
+Related to the head in the box?
+Usable as a blunt weapon?
+##
+
+<箱に入ってた顔と関係が？>
+
+{Sara} [Sou: Mouth open / cara5-1]
+#Message#
+\."Do you remember that note Keiji read?"
+##
+
+{Sou}
+#Message#
+\."Find the \C[2]body\C[0]...!
+ Right, there was that note in there."
+##
+
+<鈍器として使えるのでは？>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Your imagination has some wild quirks."
+##
+
+{Sara}
+#Message#
+\."Quirks...?"
+##
+
+{Sou}
+#Message#
+\."M-More importantly... Don't you think it's related
+ to that doll head in the box?"
+##
+
+#Message#
+\."Find the \C[2]body\C[0]...
+ There was that note, wasn't there?"
+##
+
+<Choice End>
+
+{Sara} [Sou: Mouth open / cara5-1]
+#Message#
+\."I wonder if the doll head from the box
+ can be combined with this torso..."
+##
+
+{Sou}
+#Message#
+\."Will that make something happen?"
+##
+
+{Sara}
+#Message#
+\."It might. Which is a little scary..."
+##
+
+{Sou}
+#Message#
+\."Y-Yeah, right! Let's search around some more first!
+ A... Ahaha..."
+##
+
+-----Page2-----
+#Message#
+\C[3]A clothed doll torso leans against the wall.
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"We can put this off for now, right...?
+ Right?"
+##
+
+-----Page3-----
+#Message#
+\C[3]A clothed doll torso leans against the wall.
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"What is this...?!"
+##
+
+{Sara}
+#Message#
+\."Could this be..."
+##
+
+#Choice#
+Related to the head in the box?
+Used as a blunt weapon?
+##
+
+<箱に入ってた顔と関係が？>
+
+{Sara} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."You remember that note Keiji read?"
+##
+
+{Joe}
+#Message#
+\."Find the \C[2]body\C[0]...!
+ Yeah, there was that note...!"
+##
+
+<鈍器として使えるかも？>
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+"S... Sara...? You get some amazing ideas..."
+##
+
+{Sara}
+#Message#
+\."I'm kidding, Joe."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."I can't imagine why you'd wanna joke!
+ Anyway, don't you think this could be
+ related to that doll head in the box?"
+##
+
+[Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Find the \C[2]body\C[0]...
+ There was that note, right?"
+##
+
+<Choice End>
+
+{Sara} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."I wonder if the doll head from the box
+ can be combined with this torso..."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Combined...?! I bet something'd happen!"
+##
+
+{Sara}
+#Message#
+\."Okay, maybe we'll try that
+ once we run out of other places to search."
+##
+
+{Joe}
+#Message#
+\."Agreed! Let's search elsewhere!"
+##
+
+-----Page4-----
+#Message#
+\C[3]A clothed doll torso leans against the wall.
+##
+
+{Sara}
+#Message#
+\C[4](Head, left arm, right arm, left leg, right leg...
+ This should be everything.)
+##
+
+#Message#
+\C[4](Should I... attach them?)
+##
+
+#Choice#
+Attach to body
+Prepare myself first (Cancel)
+##
+
+<身体を取り付ける>
+
+<心の準備をしてから（やめる）>
+
+<Choice End>
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"Let's search elsewhere first, Sara."
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+"...We're doing it...!
+ Okay, I'll call the others!"
+##
+
+
+**********Event5********** (ダーツ) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fancy dart.
+It's extremely solidly-made.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event6********** (シガーカッター) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar cutter.
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Event7********** (はまき) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar with high-quality wrapping.
+##
+
+
+**********Event8********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event9********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event10********** (ダミー団) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Dummy bullets. I have 6. If you pull the trigger
+with these, it'll only make a sound.
+##
+
+
+**********Event11********** (あたり) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Live bullets. I have 3.
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Event12********** (１０００) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A 1000-yen bill.
+Paper money usable in Japan.
+##
+
+
+**********Event23********** (nui) (5,6)
+-----Page1-----
+#Message#
+\C[3]Eerie stuffed animals.
+##
+
+
+**********Event31********** (hato) (8,2)
+-----Page1-----
+#Message#
+\C[3]There's a heart-shaped vent on the wall.
+##
+
+
+**********Event39********** (tana) (4,4)
+-----Page1-----
+#Message#
+\C[3]There's nothing on the shelves.
+##
+

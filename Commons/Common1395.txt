@@ -1,0 +1,104 @@
+**********Common1395********** (呼・ランマル映像)
+{Voice}
+#Message#
+"Urgh..."
+##
+
+{Ranmaru}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Dammit... This is awful..."
+##
+
+#Message#
+\."Why did this... happen to me..."
+##
+
+#Message#
+\.".........."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Is there... someone there?"
+##
+
+#Message#
+\."...There is, right...?
+ Answer me..."
+##
+
+#Message#
+\."Am I... gonna die...?"
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."Ahh, this sucks ass... Seriously...?"
+##
+
+#Message#
+\."Sure, my life was pretty boring,
+ and I didn't care about the future..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."But now...?"
+##
+
+#Message#
+\.".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ain't it strange...? It doesn't hurt at all..."
+##
+
+#Message#
+\."When I'm bleeding this much from my gut?
+ Why doesn't it hurt..."
+##
+
+#Message#
+\."Doesn't feel like... I'm really dyin'..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."Hey..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Am I... still alive...?"
+##
+
+#Message#
+\."Hey..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\.\sp[15]"..............."
+##
+
+#Message#
+\.\sp[10]"...................."\|\^
+##
+
+{N/A}
+#Message#
+\.\C[3]The video ends here.
+##
+

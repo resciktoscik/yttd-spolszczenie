@@ -1,0 +1,111 @@
+**********Common1742********** (■ｱﾘｽ「アンズよ」)
+{Alice}
+#Message#
+"No doubt it's because Anzu's coffin was the only one
+ we knew the contents of from the staaart!!"
+##
+
+#Message#
+"Are you not curious about
+ why \N[4] chose Anzu's coffin...?!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Your intentions aren't clear at all!!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"But...! Even so, what could that mean?!"
+##
+
+#Message#
+"To \N[4], indeed,
+ choosing any of them would have been fine..."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."But of all things, he chose Anzu's!
+ There's surely a great significance to it...!"
+##
+
+{Sara}
+#Message#
+\."Alice! What would the reason be...?!"
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Ehh?! You're askin me?!
+ Um, like, give me a sec...!"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\.".........."
+##
+
+[Alice: Confused shout, grim look / cara11-12]
+{SE: Accent28-1}
+#Message#
+\."No doubt it's because Anzu's coffin was the only one
+ we knew the contents of from the staaart!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](True... Anzu's coffin is the only one like that!)
+##
+

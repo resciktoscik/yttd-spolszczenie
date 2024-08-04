@@ -1,0 +1,541 @@
+=====Map74===== (Bedroom)
+
+**********Event1********** (joe) (4,4)
+-----Page2-----
+{Sara}
+#Message#
+\."You... You aren't Joe!!"
+##
+
+#Message#
+\."This is... just a nightmare...!!"
+##
+
+{Joe}
+#Message#
+\.\C[10]"So cold, man. Aren't we best friends?"
+##
+
+{Sara}
+#Message#
+\."Shut up...!!"
+##
+
+#Choice#
+Break the mirror
+Run out of the room
+##
+
+<窓をたたき割る>
+
+{Sara}
+#Message#
+\."Ah..."
+##
+
+{N/A}
+#Message#
+\.\C[3]A sharp pain spread through my body.
+##
+
+<部屋から逃げだす>
+
+{Joe}
+#Message#
+\.\C[10]"You really shouldn't go that way!"\|\^
+##
+
+{Sara}
+{SE: Damage5}
+#Message#
+\."Ah..."
+##
+
+{N/A}
+#Message#
+\.\C[3]A sharp pain spread through my body.
+##
+
+<Choice End>
+
+{Sara}
+#Message#
+\."I... It hurts..."
+##
+
+#Message#
+\."Help me... someone..."
+##
+
+{Joe}
+#Message#
+\.\C[10]"I'll make you more comfortable."
+##
+
+{Sara}
+#Message#
+\."Stop...!! I can't breathe... Joe...!!"
+##
+
+{Joe}
+#Message#
+\.\C[10]"I love ya... Sara."
+##
+
+{Sara}
+#Message#
+\."St... op...!!"
+##
+
+{N/A}
+#Message#
+\.\C[10]"Sara..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]"Get a grip!!\C[0] ...Sara!"
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."Can you understand me?"
+##
+
+{Sara}
+#Message#
+\."Ah...\.\. Kei... ji..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Yep. Your friendly policeman in the flesh."
+##
+
+{N/A}
+#Message#
+\C[3]The room... is still clean.
+##
+
+{Sara}
+#Message#
+\.\C[4](Ow...
+ Did I go running around and hurt myself...?)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Show me your wounds.
+ Heard some pretty loud noises... Something happen?"
+##
+
+{Sara}
+#Message#
+\."Um..."
+##
+
+#Choice#
+It's nothing
+I saw an illusion of Joe
+##
+
+<なんでもありません>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."No need to hide it. You had a \C[2]hallucination\C[0].
+ Isn't that right, Sara?"
+##
+
+{Sara}
+#Message#
+\."How... do you know that...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Mr. Policeman knows everything."
+##
+
+<ジョーの影を見た>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."So you had... a \C[2]hallucination\C[0] of Joe."
+##
+
+{Sara}
+#Message#
+\."...Yes."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Glad you didn't get any major injuries.
+ C'mon, sit down on the bed."
+##
+
+{Sara}
+#Message#
+\."...Where is this place?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."This is \C[2]the third floor\C[0]. There's rooms prepared here,
+ one for each person. In other words, "get some rest.""
+##
+
+{Sara}
+#Message#
+\."Oh, I see..."
+##
+
+#Choice#
+Thank you very much
+How long did I sleep?
+Let's resume searching now
+##
+
+<ありがとうございます>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Don't mention it.
+ ...But I think you should sleep a little longer."
+##
+
+{Sara}
+#Message#
+\."I don't want to worry everyone..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Everybody else is resting too.
+ No need for you alone to push it."
+##
+
+<どれくらい寝てましたか？>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hmm... No clocks around, so..."
+##
+
+#Message#
+\."But everyone else is still resting.
+ You should rest yourself, Sara."
+##
+
+<早く探索に戻りましょう>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...With how unsteady you're looking,
+ you'd just get in the way."
+##
+
+#Message#
+\."Rest for now, Sara.
+ Everybody else is sleeping too."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."You've come this far without a break...
+ You at least deserve to sleep."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I don't... want to sleep."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."What...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Please stay with me
+I want to move around
+##
+
+<一緒に居てください>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I'll stay in your room, sure. So sleep easy."
+##
+
+{Sara}
+#Message#
+\."...No. ...I don't want to lie down."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."..."
+##
+
+<今は動きたいんです>
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+#Message#
+\."No way. I can't let you go into danger."
+##
+
+{Sara}
+#Message#
+\."...Please move aside...
+ I'd rather do that than lie down alone."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Whew... Alright, fine."
+##
+
+#Message#
+\."I'll lend you a shoulder. Rest just a little more."
+##
+
+{Sara}
+#Message#
+\."...Understood."
+##
+
+{Keiji}
+#Message#
+\."...Sara."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Keiji}
+#Message#
+\."...Nodded off, eh..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."Well, shucks..."
+##
+
+#Message#
+\."You too, huh, Sara...?"
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."...You can't... acknowledge the hallucinations."
+##
+
+#Message#
+\."Once they're burned into your brain..."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."...Don't end up like Mr. Policeman."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."Looks like you managed to rest some."
+##
+
+{Sara}
+#Message#
+\."...Yes. Thank you very much."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Want to go show your face to everyone?
+ They're worried, so..."
+##
+
+{Sara}
+#Message#
+\."...Yes."
+##
+
+
+**********Event2********** (EV002) (13,0)
+-----Page1-----
+{Sara}
+#Message#
+\."*pant*...!! *pant*...!!"
+##
+
+#Message#
+\.\C[4](A dream... That was just a dream...!)
+##
+
+#Message#
+\.\C[4](I need to calm down...! Need to...!)
+##
+
+#Message#
+\.\C[4](Urgh... My head is spinning...)
+##
+
+#Message#
+\.\C[4](Where is this...?)
+##
+
+
+**********Event5********** (akari) (11,4)
+-----Page1-----
+#Message#
+\C[3]A bright light illuminates the room.
+##
+
+{Sara}
+#Message#
+\.\C[4](This looks just like a hotel room...)
+##
+
+-----Page2-----
+#Message#
+\C[3]A bright light illuminates the room.
+##
+
+-----Page3-----
+#Message#
+\C[10]The light went out.
+##
+
+
+**********Event9********** (mishima) (7,4)
+-----Page1-----
+#Message#
+\C[10]Professor Mishima...
+##
+
+
+**********Event10********** (kai) (2,6)
+-----Page1-----
+#Message#
+\C[10]Kai...
+##
+
+
+**********Event11********** (akanaga) (8,4)
+-----Page1-----
+#Message#
+\C[3]A bright light illuminates the room.
+##
+
+{Sara}
+#Message#
+\.\C[4](This looks just like a hotel room...)
+##
+
+-----Page2-----
+#Message#
+\C[3]A bright light illuminates the room.
+##
+
+-----Page3-----
+#Message#
+\C[3]A bright light illuminates the room.
+##
+
+-----Page4-----
+#Message#
+\C[10]Something's dripping from the light.
+##
+
+-----Page5-----
+#Message#
+\C[10]Something's dripping from the light.
+##
+
+-----Page6-----
+#Message#
+\C[10]Something's dripping from the light.
+##
+
+-----Page7-----
+#Message#
+\C[10]Something's dripping from the light.
+##
+
+
+**********Event15********** (EV015) (15,0)
+-----Page1-----
+#Message#
+\C[10]"How long are you going to run...?"
+##
+
+-----Page3-----
+#Message#
+\C[10]"Die with me, Sara."
+##
+
+
+**********Event16********** (madomado) (0,0)
+-----Page1-----
+{N/A} [Sara: Tired eyes / cara0-5]
+#Message#
+\C[3]I can see my reflection in the window.
+##
+
+{Sara}
+#Message#
+\.\C[4](What an awful face... I look lifeless.)
+##
+
+#Message#
+\C[4](Enough... This is no time to be
+ looking in the mirror...)
+##
+
+{N/A}
+#Message#
+\.\C[10]"Sara..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Eh...?)
+##
+

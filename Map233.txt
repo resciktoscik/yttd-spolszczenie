@@ -1,0 +1,1194 @@
+=====Map233===== (★Battle Cemetery 2 (Locker) Maple EX)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Sorrowful AI}
+{SE: WON-robo5}
+#Message#
+"Run away... everyone..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Gwoooh?! What's even goin' on here?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Ahaha! I stuffed some powerful AIs into her!"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent24-1}
+#Message#
+\."She may look hideous... but I think
+ it's what's on the inside that counts!"
+##
+
+{Angry AI}
+{SE: WON-robo5}
+#Message#
+"I'm gonna slaughter all you bastards together!"
+##
+
+{Sneering AI}
+{SE: WON-robo5}
+#Message#
+"My, my... So you're my prey?"
+##
+
+{Frightened AI}
+{SE: WON-robo5}
+#Message#
+"H-Help me... Guys... Hiyori..."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: flash-of-light-3}
+#Message#
+"Now go, Maple! Run wild 'til your battery gives out!"
+##
+
+{Sara}
+#Message#
+\C[4](Her \C[2]battery\C[4]...?)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"W-We gotta fight this thing?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"We're fighting this?!
+ That's totally not even Maple anymore!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+{SE: Accent41-1}
+#Message#
+\."Listen! At this point, our only option
+ is to \C[2]run down her battery\C[0]...!!"
+##
+
+[Hinako: Grave look / cara93-11]
+#Message#
+\."Find a way to make her do things
+ that consume a lot of power!"
+##
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+\."O-Okay...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"What do we do against this thing, meow?!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent21-1}
+#Message#
+\."...Settle down."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."As much as her appearance's changed,
+ she's the same inside..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent41-1}
+#Message#
+\."If we make her \C[2]spend her battery\C[0],
+ she won't be able to move anymore."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."In other words, make her do actions that cost
+ lots of energy, and she'll run out in no time."
+##
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Evil, smile / cara91-38]
+{SE: horror_piano chord3}
+#Message#
+\."Hope it can go as smoothly as that..."
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+
+**********Event3********** (EV003) (4,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The Angry AI started up.
+##
+
+{Angry AI}
+{SE: Accent42-1}
+#Message#
+\."No mercy for you bastards!
+ I'll kill you! You're DEAD!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+{SE: Accent41-1}
+#Message#
+"He's giving you guys a serious glare..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](He has a strong hatred of humans.
+ If we can stimulate that somehow...)
+##
+
+{N/A}
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Sneering AI started up.
+##
+
+{Sneering AI}
+{SE: Accent42-1}
+#Message#
+\."Oh my, I see miss Nao isn't there.
+ Did you all kill her?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+"Guh..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Don't let him bewilder you, Q-taro...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I-I get that, but... urgh...!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](He has a deceptive personality...
+ We can't go against him carelessly!)
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+{SE: Accent42-1}
+#Message#
+"Here's some assistance..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+#Message#
+\C[3]Ranmaru tripped \C[2]\V[921]\C[3]!
+##
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+"Yahhh...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+"Gwoooh?!"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+"Waugh...?!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Gah...?! Bastard!!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Meowww?! What're you doing, woof?!"
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"Ooh, now that HURT!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"Hwah...?!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+"Why, you...!!"
+##
+
+{Mai} [Mai: Worried eyebrows, mouth open / cara92-11]
+#Message#
+"Yaaaaah!!"
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+"Huhhh?!"
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+"Waaaaah?!"
+##
+
+{N/A}
+{SE: down3}
+#Message#
+\C[3]\V[921] fell and can't move.
+##
+
+{Sara}
+#Message#
+"Stop it, Ranmaru...!!"
+##
+
+{Ranmaru} [Ranmaru: Evil, mouth open / cara91-40]
+{SE: Accent42-1}
+#Message#
+"You just shut up and watch, Sara..."
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{N/A}
+#Message#
+\C[3]\V[921] stood back up.
+##
+
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Sorrowful AI started up.
+##
+
+{Sorrowful AI}
+{SE: Accent42-1}
+#Message#
+\."I'm sorry, I'm sorry..."
+##
+
+#Message#
+\."I can't do anything but hurt you..."
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"Maple, be strong...!
+ You don't want to do this, right?!"
+##
+
+{N/A}
+#Message#
+\C[3]Maple attacked \C[2]Mai\C[3]!
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+"M... Maple...!!"
+##
+
+{N/A}
+{SE: WON-robo2}
+#Message#
+\C[3]Mai just barely avoided the attack.
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+"A... Ahhhh..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Maple doesn't like fighting...
+ But she can't defy \N[4]'s orders...!)
+##
+
+{N/A}
+#Message#
+\C[3]Mai stood back up.
+##
+
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Frightened AI started up.
+##
+
+{Frightened AI}
+{SE: Accent42-1}
+#Message#
+\."Everyone, please stop...! I don't wanna die...!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Big sis Sara! Can't we save that guy, meow?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](With them running on the same battery...
+ I don't see any way we can...)
+##
+
+{N/A}
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Angry AI started up.
+##
+
+{Angry AI}
+{SE: Accent42-1}
+#Message#
+\."Hey! Hurry up and die already!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{N/A}
+#Message#
+\.\C[3]Maple attacked \C[2]Hayasaka\C[3]!
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+"S-Stay awaaaaayyy!!"
+##
+
+{N/A}
+{SE: dash-soil1}
+#Message#
+\C[3]Hayasaka is running around wildly.
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Good job, meow!! Keep running just like that, woof!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."*pant*...! *pant*...! H-Help...!!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+#Message#
+\C[3]Maple attacked \C[2]Q-taro\C[3]!
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Gahh...!!"
+##
+
+{N/A}
+{SE: down3}
+#Message#
+\C[3]Q-taro crouched down from being kicked.
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Myooow!! How dare you, woof!!
+ Muscle gorilla, are you okay, meow?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Owww... The nerve...!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[3]Hayasaka came back.
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+#Message#
+\C[3]Q-taro stood back up.
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Sneering AI started up.
+##
+
+{Sneering AI}
+#Message#
+\."Hahahahaha..."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{N/A}
+#Message#
+\.\C[3]Maple attacked \C[2]Mai\C[3]!
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+"N... No! What...?!"
+##
+
+{Sneering AI}
+{SE: Accent42-1}
+#Message#
+\."Bottoms up... Hohoho."
+##
+
+{N/A}
+{SE: Poison}
+#Message#
+\.\C[3]Maple absorbed some of Mai's energy.
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+"U-Urgh..."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{N/A}
+#Message#
+\.\C[3]He looks to be sizing us up.
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Sorrowful AI started up.
+##
+
+{Sorrowful AI}
+{SE: Accent42-1}
+#Message#
+\."Can't betray Hiyori... Can't betray Hiyori..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple swung her arm around fiercely!
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"Y-Yikes! We can't approach...!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Tch...! We can't approach such a thing!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"I-It'd be dangerous to get close to that, meow!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{N/A}
+#Message#
+\C[3]Maple's swinging left hand hit her right hand.
+##
+
+{Sorrowful AI}
+{SE: Accent21-1}
+#Message#
+\."A-Ahhh... My hand..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+"I can't watch this...! Dammit!!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+{SE: Accent42-1}
+#Message#
+"You're not gonna have your way..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+#Message#
+\C[3]Ranmaru held down \C[2]\V[921]\C[3]!
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+"It hurts...! Let me go!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"You...! Why're you doing this?!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+"S-Stop...! Don't get in the way!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Don't screw with me, bastard!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Hisssss!! You're making me mad, cotton candy! Woof!"
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"You... Don't touch me...!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"L-Let go!! Idiot!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+"Ngh! You ungrateful little...!!"
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth, grim look / cara92-12]
+#Message#
+"Owieee...! Get a grip!!"
+##
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+"Gyaaah?! Where are you touching, stupid?!"
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+"Ow-ow-ow...! Do you have no sense of gratitude?!"
+##
+
+{N/A}
+{SE: Damage2}
+#Message#
+\C[3]\V[921] shook off Ranmaru!
+##
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+#Message#
+"Tch! You brutal woman...!"
+##
+
+{N/A}
+{SE: Damage2}
+#Message#
+\C[3]\V[921] shook off Ranmaru!
+##
+
+{Ranmaru}
+#Message#
+"Tch! You brute...!"
+##
+
+{N/A}
+{SE: down3}
+#Message#
+\C[3]\V[921] can't move.
+##
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, angry mouth / cara91-45]
+{SE: Accent42-1}
+#Message#
+"I'll impede you in every way...!"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{N/A}
+#Message#
+\C[3]\V[921] can move again.
+##
+
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Frightened AI started up.
+##
+
+{Frightened AI}
+{SE: Accent42-1}
+#Message#
+\."Please, Hiyori...! Stop this already!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+"No, no! Show me your cool side, Shin!"
+##
+
+{Frightened AI}
+#Message#
+"*sniff*... Oogh... Hiyori..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"So cruel...! He clearly doesn't want this!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+".........."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{N/A}
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Angry AI started up.
+##
+
+{Angry AI}
+{SE: Accent42-1}
+#Message#
+\."Y'all bastards are goin' straight to hell!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple attacked \C[2]Sara\C[3] with her weapon!
+##
+
+{Sara}
+#Message#
+\.\C[4](Wh...?!)
+##
+
+#Choice#
+Dodge right
+Dodge left
+##
+
+<右に避ける>
+
+{Sara} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Right! Gotta dodge it...!)
+##
+
+<左に避ける>
+
+{Sara} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Left, opposite where the weapon's going...!)
+##
+
+<Choice End>
+
+{N/A} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: Evasion1}
+#Message#
+\.\C[3]Managed to dodge the attack.
+##
+
+{Angry AI}
+#Message#
+\."Tch... Can't control this very..."
+##
+
+{N/A}
+#Message#
+\C[3]Maple fell over, and the weapon broke off.
+##
+
+{Angry AI}
+#Message#
+\.\C[10]"So annoying... Why...
+ Can't move right... Wanna kill... Wanna kill..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Careful now! They still got a weapon!!"
+##
+
+{N/A}
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Sneering AI started up.
+##
+
+{Sneering AI}
+{SE: Accent41-1}
+#Message#
+\."Actually, I know who the mastermind is..."
+##
+
+{Sara}
+#Message#
+\."W-What...?"
+##
+
+{Sneering AI}
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Miss Sara, you are the mastermind behind this all!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"No, big sis Sara's the nice-termind
+ in front of it all, meow!!"
+##
+
+{Sneering AI}
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Don't be deceived, Gin! Hurry, over here!"
+##
+
+{Gin}
+#Message#
+"Don't underestimate me 'cause I'm a kid, meowwwww!!"
+##
+
+{N/A}
+#Message#
+\C[3]The AIs are watching things unfold...
+##
+
+#Message#
+\C[3]The Sorrowful AI started up.
+##
+
+{Sorrowful AI}
+{SE: Accent42-1}
+#Message#
+\."It's no use... I can't control it...
+ Please... run..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"Not good! She's comin' toward us!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If we don't settle this now, it'll be bad...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Hey...! She's acting erratically!"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If we don't finish this here, it could be bad..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Looking pretty bad... We should ready ourselves."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If we don't settle it here... could be trouble."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](He has a strong hatred of humans.
+ If we can stimulate that somehow...)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](He has a deceptive personality...
+ We can't go against him carelessly!)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](Maple doesn't like fighting...
+ But she can't defy \N[4]'s orders...!)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](Shin is afraid... It seems he can talk,
+  but there's no guarantee we can save him...!)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](He has a strong hatred of humans.
+ If we can stimulate that somehow...)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](He has a deceptive personality...
+ We can't go against him carelessly!)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](Maple doesn't like fighting...
+ But she can't defy \N[4]'s orders...!)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](Shin is afraid... It seems he can talk,
+  but there's no guarantee we can save him...!)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](He has a strong hatred of humans.
+ If we can stimulate that somehow...)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](He has a deceptive personality...
+ We can't go against him carelessly!)
+##
+
+#Message#
+\.\C[4](They're technically Obstructors... I thought their
+ targets were just the Dummies, but is that true?)
+##
+
+#Message#
+\.\C[4](Maple doesn't like fighting...
+ But she can't defy \N[4]'s orders...!)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Q-taro is grabbing \N[4]'s legs.
+##
+
+#Message#
+\C[3]The monster is being held down.
+##
+
+#Message#
+\C[3]The monster is defenselessly trying to get up.
+##
+

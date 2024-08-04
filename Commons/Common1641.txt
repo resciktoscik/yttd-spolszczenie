@@ -1,0 +1,95 @@
+**********Common1641********** (・Q「４階でも光」)
+{Q-taro}
+#Message#
+"When we used the lantern in the cemetery,
+ \C[2]all seven coffins started glowin'\C[0]!"
+##
+
+#Message#
+"We saw the coffins glowin' like this
+ when we were off on our own, too!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"That ain't it!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"That ain't it!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+"There was no mistakin' it!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Never would've guessed the same lantern
+ would be on Floor 5 too..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When we used it in the cemetery...
+ \C[2]all seven coffins\C[0] started glowin'!"
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\.\C[4](All seven coffins...?)
+##
+
+{SE: Accent28-1}
+#Message#
+\C[4](This is an important statement...!)
+##
+

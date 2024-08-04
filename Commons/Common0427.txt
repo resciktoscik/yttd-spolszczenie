@@ -1,0 +1,86 @@
+**********Common427********** (刹那失敗・ゲームオーバー)
+{Sara}
+#Message#
+"Agh...!! Is this it for me...?!"
+##
+
+{Nao}
+#Message#
+\."I-I'll fight! Sara... Please step back!"
+##
+
+{Sou}
+#Message#
+\."Hoo boy... Guess I've gotta do it...!"
+##
+
+{Reko}
+#Message#
+\."How dare you do that to Sara!!
+ I'm gonna crush ya!"
+##
+
+{Nao}
+#Message#
+"Too strong... There was nothing... I could..."
+##
+
+{Sara}
+#Message#
+\."Ahh... Nao! Open your eyes...!"
+##
+
+{Sou}
+#Message#
+"How strange... to mess up here..."
+##
+
+{Sara}
+#Message#
+\."Sou! Please, stay with me...!"
+##
+
+{Reko}
+#Message#
+"Dammit... Sara... sorry..."
+##
+
+{Sara}
+#Message#
+\."Reko...! No... you can't...!!"
+##
+
+#Message#
+\."S... Stay away! Don't...!"
+##
+
+{Sou}
+#Message#
+\."This... can't be..."
+##
+
+{Sara}
+#Message#
+\."S... Stop...!"
+##
+
+{Reko}
+#Message#
+"Graaahh!! Sara! Run away!"
+##
+
+{Sara}
+#Message#
+\."S... Stop...!"
+##
+
+{Nao}
+#Message#
+\."Save yourself, Sara... Run...!"
+##
+
+{Sara}
+#Message#
+\."I... I can't move..."
+##
+

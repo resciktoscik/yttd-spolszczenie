@@ -1,0 +1,18 @@
+**********Common1497********** (⑥ランマルB選択)
+{N/A}
+#Message#
+"Okay, I'll give back the letter! That'll tell her
+ we don't have ill will and calm things down!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

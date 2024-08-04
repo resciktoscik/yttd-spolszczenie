@@ -1,0 +1,297 @@
+**********Common562********** (ﾅｵ「数字の単位」)
+{Nao}
+#Message#
+"35.5 kilograms...
+ would be about the weight of a grade-schooler..."
+##
+
+#Message#
+"S-Sure enough, maybe I should try
+ cutting 35.5 centimeters off my hair first...!"
+##
+
+#Message#
+"If we drew out 35.5 liters of blood,
+ would that save Gin...?"
+##
+
+#Message#
+"What's important is the units on "Left: 35.5"...!
+ Length, weight, volume...
+ If we know the units, will we solve the mystery...?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"U-Um, I think we should discuss right now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+{Nao}
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+{Nao}
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"Sara, do you want to rethink it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](The most relevant thing to the number 35.5...)
+##
+
+#Choice#
+Length
+Weight
+Volume
+Cancel
+##
+
+<長さ>
+
+{Sara} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."How about length?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."35.5 centimeters... 35.5 meters... Umm..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."S-Sure enough, maybe I should
+ try cutting my hair first...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't let her cut her hair in such a panic...!)
+##
+
+<重さ>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."How about weight?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."35.5 kilograms... 35.5 grams... Umm..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."35.5 kilograms...
+ would be about the weight of a grade-schooler..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](The weight... of a grade-schooler?)
+##
+
+<量>
+
+{Sara} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."How about volume?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."35.5 pints... 35.5 gallons... 35.5 liters... Umm..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: shock1}
+#Message#
+\."If we drew out 35.5 liters of blood,
+ would that save Gin...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](No, no! That'd be an absurd number
+ of people to sacrifice...!!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"It'll take time, but we need to narrow it down...!"
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Sara, between length, weight, and volume,
+ which do you think is most relevant?"
+##
+
+{Sara}
+#Message#
+\.\C[4](The most relevant thing to the number 35.5...)
+##
+
+#Choice#
+Length
+Weight
+Volume
+##
+
+<長さ>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."How about length?!"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."35.5 centimeters... 35.5 meters... Umm..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."S-Sure enough, maybe I should
+ try cutting my hair first...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't let her cut her hair in such a panic...!)
+##
+
+<重さ>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent28-1}
+#Message#
+\."How about weight?!"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."35.5 kilograms... 35.5 grams... Umm..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."35.5 kilograms...
+ would be about the weight of a grade-schooler..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](The weight... of a grade-schooler?)
+##
+
+<量>
+
+{Sara} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."How about volume?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."35.5 pints... 35.5 gallons... 35.5 liters... Umm..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: shock1}
+#Message#
+\."If we drew out 35.5 liters of blood,
+ would that save Gin...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](No, no! That'd be an absurd number
+ of people to sacrifice...!!)
+##
+
+<Choice End>
+

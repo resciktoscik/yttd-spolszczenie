@@ -1,0 +1,271 @@
+=====Map230===== (Outside Shutter)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Mya...?! The shutter's closed,
+ so we can't get in the cemetery, woof!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Oh, right! It's still closed like we left it...)
+##
+
+#Message#
+\.\C[4](In fact, this shutter...)
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[4](Seems to have taken damage
+ from something big and sharp...)
+##
+
+#Choice#
+Maple did this
+Q-taro did this
+##
+
+<メイプルがやった>
+
+{Sara} [Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+"Maple inflicted this damage..."
+##
+
+#Message#
+\.\C[4](Such strength...
+ To do this much to a bulky, sturdy shutter...)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Seems a whole lot stronger than \N[4]..."
+##
+
+<Qタロウさんがやった>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+{SE: sceneswitch2}
+#Message#
+"Q-taro inflicted this damage...
+ I truly underestimated his brute strength."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Uh, nah, he ain't that powerful..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."It was Maple...
+ To think she did this to such a solid shutter..."
+##
+
+<Else>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."It was Maple, obviously. That's some strength..."
+##
+
+<Condition End>
+
+<Choice End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent21-1}
+#Message#
+\."But... it ain't been pierced through."
+##
+
+<Else>
+
+{Alice} [Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\."...However, it appears it hasn't been breached."
+##
+
+<Condition End>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Then Keiji must be safe in there...!)
+##
+
+#Choice#
+Try knocking
+Try yelling loudly
+Calmly look around
+##
+
+<ノックしてみる>
+
+{N/A} [Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\C[3]I knocked, but I couldn't tell
+if there was a response from within.
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder if it's soundproof...)
+##
+
+#Message#
+\.\C[4](I'll look to see if there's anything around here.)
+##
+
+<大声で呼んでみる>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+"Keijiii!! Are you okaaay?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+\."U-Um...!
+ What if Maple notices us?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Glad to see you're cautious, Kanna...)
+##
+
+<Else>
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."S-Stop it! Maple's gonna notice!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...That even got Sou antsy, huh?)
+##
+
+<Condition End>
+
+#Message#
+\C[4](I'll look to see if there's anything around here.)
+##
+
+<冷静に辺りを見回す>
+
+{Sara} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+{SE: sceneswitch2}
+#Message#
+\C[4](I'll search to see if there's anything here...)
+##
+
+<Choice End>
+
+
+**********Event2********** (syatta-EV) (7,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The shutter has deep gashes in it,
+seemingly carved by a powerful force.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The passage leads to the cemetery.
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji...)
+##
+
+#Choice#
+Proceed
+Cancel
+##
+
+<進む>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event21********** (kadori-EV) (15,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's what looks like a card reader on the wall.
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder...)
+##
+
+#Choice#
+Use the ID card
+Cancel
+##
+
+<IDカードを使う>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](If we open it with the ID card...!)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Accent28-1}
+#Message#
+"All right! It opened, Sara!"
+##
+
+<Else>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+"Ahaha... It's open."
+##
+
+<Condition End>
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](He must be waiting up ahead...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's what looks like a card reader on the wall.
+##
+

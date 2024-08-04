@@ -1,0 +1,158 @@
+**********Common259********** (⑬進展●判別一つの方法)
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"What's on the cards...?"
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\."Just maybe..."
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Eheehee... Three minutes leeeft!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Let's take a gamble on it..."
+##
+
+[Keiji: Left arm down, default smile / cara2-10]
+#Message#
+\."Listen up, everyone. This is the last discussion."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Joe, I'll ask you."
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."R... Right! Ask me anything!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."What's on the \C[2]Keymaster\C[0] card...
+ In other words, what's the \C[2]design\C[0]?"
+##
+
+{Joe} [Joe: Serious look, sweating / cara1-22]
+#Message#
+\."...!!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Huh? You can answer, can't you? As the \C[3]Sage\C[0]..."
+##
+
+{Joe} [Joe: Serious look and eyebags, sweating bullets / cara1-23]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Well done, Keiji!
+ You've revealed the truth with just one question!"
+##
+
+{Joe} [Joe: Serious look, sweating / cara1-22]
+#Message#
+\."Don't take me lightly, will ya?"
+##
+
+[Joe: Furrowed brow / cara1-15]
+{SE: Accent28-1}
+#Message#
+\."Obviously, it's a picture of a key!!"
+##
+
+{Sou} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."Ahahahahaha!!"
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."The \C[2]Keymaster\C[0], so it's a key...?
+ Too bad. Actually..."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Kanna... What did it look like to you?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."It was a picture of... a \C[2]lock\C[0]."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."...Correct. The design for the \C[2]Keymaster\C[0] is a \C[2]lock\C[0]..."
+##
+
+#Message#
+\."Slipped up right at the very end, Joe."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."W-What're you talking about?!"
+##
+
+#Message#
+\."I saw it for sure!! A picture of a key!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...There's no time."
+##
+
+#Message#
+\."This is your last chance, Sara."
+##
+
+{Sara}
+{SE: sei_ge_matti_tukeru01}
+#Message#
+\.\C[4](The last...! Right, there's no time
+ to keep drawing out statements...!)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](I need to deal the final blow in just one action,
+ or we all lose...!)
+##
+

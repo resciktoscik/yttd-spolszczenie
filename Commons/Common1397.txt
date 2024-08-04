@@ -1,0 +1,69 @@
+**********Common1397********** (呼・アンズ映像)
+{Voice}
+#Message#
+"Nooo...!!
+ What is this...?!"
+##
+
+{Anzu}
+{SE: se_maoudamashii_magical14}
+#Message#
+"I can't move!! My legs...!!"
+##
+
+{N/A}
+#Message#
+\."10 seconds until the end of the First Trial."
+##
+
+{Anzu}
+#Message#
+\."Who?! Why are you doing this to me?!"
+##
+
+#Message#
+\."I've had it with this!!
+ This trial stuff... I don't get it!!"
+##
+
+#Message#
+\."Mom!! Dad!! Somebodyyy!!"
+##
+
+#Message#
+\."Help... meee...!!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\."...Time is up."
+##
+
+#Message#
+\."The device will activate shortly."
+##
+
+#Message#
+\."In commemoration, you may say some final words."
+##
+
+{Anzu}
+#Message#
+\."Stooop!! I don't wanna dieeeee!!"
+##
+
+#Message#
+\sp[12]"Ga... a... a..."
+##
+
+#Message#
+\.\sp[12]"It... hurts...
+ \sp[10]M... m... om..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The video ends here.
+##
+

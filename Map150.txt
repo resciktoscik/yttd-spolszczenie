@@ -1,0 +1,122 @@
+=====Map150===== (❹Game Room)
+
+**********Event1********** (aka) (3,6)
+-----Page1-----
+#Message#
+\C[3]The red door is shut fast.
+##
+
+
+**********Event2********** (ao) (1,5)
+-----Page1-----
+#Message#
+\C[3]This leads to the Blue Room.
+##
+
+#Choice#
+Enter the Blue Room
+Cancel
+##
+
+<青い部屋へ入る>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event3********** (da-tu) (7,4)
+-----Page1-----
+#Message#
+\C[3]The dartboard has no power and gives off no light.
+##
+
+
+**********Event5********** (aka) (3,5)
+-----Page1-----
+#Message#
+\C[3]The red door is shut fast.
+##
+
+
+**********Event6********** (aka) (3,4)
+-----Page1-----
+#Message#
+\C[3]The red door is shut fast.
+##
+
+
+**********Event15********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event16********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event17********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event18********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event19********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event20********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event22********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

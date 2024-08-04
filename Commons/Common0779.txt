@@ -1,0 +1,131 @@
+**********Common779********** (Q「ｶﾝﾅのﾐｽ」)
+{Q-taro}
+#Message#
+"Wasn't Miley talkin' about some
+ transgression of Gashu's jus' before the Main Game?!"
+##
+
+#Message#
+"Maybe Kanna just messed up
+ who she was trading with or somethin'?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"What does that prove?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"This's one worthless argument!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"Sara! How 'bout it?! Any revelations?!"
+##
+
+#Message#
+\."I dunno how the Ring-Up Boxes work, but..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."If you're just sayin' names into the receiver,
+ there could be mistakes!"
+##
+
+{Sara}
+#Message#
+\."And yet my \C[10]Sacrifice\C[0] definitely moved!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Urk...! If it ain't Kanna's mistake, then..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent28-1}
+#Message#
+\."Maybe the Floor Master purposefully
+ changed the destination... somethin' like that."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Gashu... changed the trade...?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, eyes clearing up / cara4-14]
+#Message#
+\."Hm? Come to think..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Wasn't Miley talkin' about some
+ transgression of Gashu's jus' before the Main Game?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+

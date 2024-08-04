@@ -1,0 +1,18 @@
+**********Common1429********** (③QタロウB選択)
+{N/A}
+#Message#
+"Fight books wit' books!
+ I'll knock 'em down by tossin' books their way!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

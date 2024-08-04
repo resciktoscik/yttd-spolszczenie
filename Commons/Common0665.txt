@@ -1,0 +1,109 @@
+**********Common665********** (ｷﾞﾝ「犠牲者のﾋﾞﾃﾞｵ」)
+{Gin}
+#Message#
+"I got scared and left the room right away, but...
+ I'm sure that was a victim video, meow..."
+##
+
+#Message#
+"Actually, while I was searching the dark first floor,
+ I saw a weird video, meow..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I saying something weird, meow...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"I'll repeat that back to you, meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Woof... Did you see something similar, big sis Sara?"
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent28-1}
+#Message#
+"There was a guy with glasses...
+ and something like an axe swung at his head..."
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."T-Then he... said big sis Sara's name..."
+##
+
+{Sara}
+#Message#
+\.\C[4](It can't be... That video?!)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Of course, I don't suspect you or anything, meow!!"
+##
+
+[Gin: Horrified look / cara9-4]
+#Message#
+\."I got scared and left the room right away, but...
+ I'm sure that was a victim video, meow..."
+##
+

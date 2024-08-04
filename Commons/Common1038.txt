@@ -1,0 +1,36 @@
+**********Common1038********** (戦①武器探した)
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"We're in luck...
+ I found a long shovel in the darkness."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained a long shovel.
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent21-1}
+#Message#
+\."...Sure seems like they put it there on purpose."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."That is a little awkward, but let's use it.
+ Doubt it's a trap."
+##
+
+<Else>
+
+{Keiji} [Keiji: Turned to side, slight smile / cara2-14]
+#Message#
+\."So what? Let's be grateful and use it..."
+##
+
+<Condition End>
+

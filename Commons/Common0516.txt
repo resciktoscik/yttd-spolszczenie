@@ -1,0 +1,752 @@
+**********Common516********** (③進展●幸せのクモの糸)
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](This rope that's had me mystified...)
+##
+
+#Message#
+\."What if this Web of Happiness...
+ is a wire rope prepared for just this occasion?!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."The thing from back then?!
+ You think that's gonna be...?!"
+##
+
+{Sara}
+#Message#
+\."Please think back, Reko."
+##
+
+{N/A}
+#Message#
+\.\C[3]On top of the plate, there was also a note.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]This is the \C[2]Web of Happiness\C[3].
+In the final attraction, it may just save your lives.
+##
+
+{Sara}
+#Message#
+\."It definitely said that!"
+##
+
+{Reko}
+#Message#
+\."Say what?!"
+##
+
+{Sara}
+#Message#
+\."I completely forgot about it myself
+ after I collected enough Clear Chips..."
+##
+
+{SE: Thunder10}
+#Message#
+\."But... this is the only place left to use it!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent28-1}
+#Message#
+\."Yes! A wire rope of this thickness
+ should let someone hang from it and descend!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Earlier, Safalin misspoke...)
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\.\C[3]"If Q-taro had placed last,
+ he would be over 100 kilograms, so..."
+##
+
+#Message#
+\.\C[3]"I imagine all three of you would have had to \C[2]descend\C[3]
+ in order to save him."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](She said \C[2]"descend"\C[4]...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](She never once said "fall"...!)
+##
+
+#Message#
+\.\C[4](Was this Safalin's mistake?
+ Or else... did she want us to...)
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."What's up, Sara...?"
+##
+
+{Sara}
+#Message#
+\."Nothing..."
+##
+
+#Message#
+\."...If we fall from such a height,
+ we'll definitely hit the spikes and die, but..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."If we descend with the rope,
+ we can stand between the spikes...!"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."A... All right! So we can save Gin!!"
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."Th-Thank goodness!
+ Where did you get such a thing?"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."The Room of Lies."
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."Room of... Lies...?"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Wait a second!!
+ Um... is this okay...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."...Uh?
+ ...Y-You don't mean..."
+##
+
+{N/A}
+{SE: Paralyze1}
+#Message#
+\.\C[3]Reko pulled firmly on the Web of Happiness.
+##
+
+{Reko}
+#Message#
+\."...Wha...?"
+##
+
+#Message#
+\."You're... kidding..."
+##
+
+{N/A}
+{SE: warning2}
+#Message#
+\.\C[3]The Web of Happiness... snapped easily.
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."N-No..."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."...?!"
+##
+
+{Ranger} [Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."Ahahahahaaa!!"
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"So close... If you'd just believed a little more,
+ I could've seen you get skewered..."
+##
+
+{Sara}
+#Message#
+\."How far... how far do these traps go...?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."W... What kind of "happiness"...!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."It just showed us hope... and ripped it away!!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."This goddamn thing... it's a Web of Misfortune!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](So this was the lie in the Room of Lies...!!)
+##
+
+{Ranger} [Ranger: Smirk-in-profile sign / cara18-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's what I'm telling y'all!
+ You oughta sacrifice someone!"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](What do we do... What do we do?!)
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](This is no good...
+ If no one talks, we're just wasting time!)
+##
+
+#Message#
+\.\C[4](But what can we do?!)
+##
+
+#Message#
+\.\C[4](What options are left...?)
+##
+
+#Choice#
+Sacrifice myself
+Sacrifice Nao
+Sacrifice Reko
+Give up
+##
+
+<自分が犠牲になる>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.\C[4](...Haha... ha...)
+##
+
+#Message#
+\.\C[4](Isn't it simple...?)
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\C[4](If I really want to save Gin...
+ To save who I want to save...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](...I should sacrifice myself.)
+##
+
+#Message#
+\.\C[4](There's no more need to worry... or suffer...)
+##
+
+#Message#
+\.\C[4](That's... my answer...)
+##
+
+{Voice}
+#Message#
+"That isn't much like you."
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+{Voice}
+#Message#
+\."Miss Sara, this would be a waste
+ of the feelings you were entrusted."
+##
+
+#Message#
+\."A Steelmind like yourself cannot give up
+ over such a thing."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Steel... mind...?)
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."That ain't like you, Sara."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+<ナオさんを犠牲にする>
+
+{Sara} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\C[4](If I really want to save Gin...
+ To save who I want to save...)
+##
+
+[Nao: Wide eyes, closed teeth, grim look / cara7-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](...I need to decide.)
+##
+
+#Message#
+\.\C[4](Nao has done nothing wrong... but...!
+ I like her... but... but still...!!)
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\.\C[4](If I don't want to feel the same way I did
+ when I couldn't save him, then...!!)
+##
+
+{Voice}
+#Message#
+"That isn't much like you."
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+{Voice}
+#Message#
+\."Miss Sara, this would be a waste
+ of the feelings you were entrusted."
+##
+
+#Message#
+\."A Steelmind like yourself cannot give up
+ over such a thing."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Steel... mind...?)
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."That ain't like you, Sara."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+<レコさんを犠牲にする>
+
+{Sara} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\C[4](If I really want to save Gin...
+ To save who I want to save...)
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](...I need to decide.)
+##
+
+#Message#
+\.\C[4](Reko has done nothing wrong... but...!
+ I like her... but... but still...!!)
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\.\C[4](If I don't want to feel the same way I did
+ when I couldn't save him, then...!!)
+##
+
+{Voice}
+#Message#
+"That isn't much like you."
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+{Voice}
+#Message#
+\."Miss Sara, this would be a waste
+ of the feelings you were entrusted."
+##
+
+#Message#
+\."A Steelmind like yourself cannot give up
+ over such a thing."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Steel... mind...?)
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."That ain't like you, Sara."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+<諦める>
+
+{Sara} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\C[4](...I can't...)
+##
+
+#Message#
+\.\C[4](I'm sorry... Gin...)
+##
+
+#Message#
+\.\C[4](I can't do anything...)
+##
+
+#Message#
+\.\C[4](I can't chose my own death...
+ nor choose someone as a sacrifice...)
+##
+
+#Message#
+\.\C[4](I can't be burdened with any more...)
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\.\C[4](My heart... is at its limit...)
+##
+
+{Voice}
+#Message#
+"That isn't much like you."
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+{Voice}
+#Message#
+\."Miss Sara, this would be a waste
+ of the feelings you were entrusted."
+##
+
+#Message#
+\."A Steelmind like yourself cannot give up
+ over such a thing."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Steel... mind...?)
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."That ain't like you, Sara."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+<Choice End>
+
+{Sara} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."We can't give up yet...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There's still time!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."It's impossible. ...Give up, Sara."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Even you realize, right?
+ There's no way left to save him..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."B-But...!
+ I can't desert Gin...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."You think I don't feel the same way?!
+ But let's quit sugarcoating it."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."We can't save Gin...
+ We just have to give up on him..."
+##
+
+{Sara}
+#Message#
+\.\C[4](N... No...)
+##
+
+{Nao}
+{SE: Accent21-1}
+#Message#
+\."...That's wrong..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Something's... off..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Eh...?"
+##
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."Reko... would never say something like that...!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."It's not how I really feel either, alright?!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."But look, Nao...
+ Could you really sacrifice yourself for this?!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I can't do it!!
+ So... I'm just saying what I mean...!!"
+##
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."No! That's bizarre!"
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."It's like... it's like you're not Reko...!!"
+##
+
+{Sara}
+#Message#
+\."Please, stop it!!
+ This isn't the time for a petty quarrel!"
+##
+
+{Nao}
+#Message#
+\."Reko... you've changed!!
+ You were so... full of affection...!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Don't act like you know me after
+ how little we've been together!!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."I'm... I'm me!! And I'm just accepting the facts...!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."No, you HAVE changed!!
+ Now that I think about it... ever since...!!"
+##
+
+{Sara}
+#Message#
+\."Both of you! Get a grip!!"
+##
+
+{Nao}
+#Message#
+\."Sara, please listen!
+ I'm perfectly calm!!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There's something I kept quiet about...!"
+##
+
+{Sara}
+#Message#
+\."Huh?"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."I know..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."The one who broke Professor Mishima's monitor...
+ was Reko...!"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."...?!"
+##
+
+{Nao}
+#Message#
+\."I saw it! I saw when Reko
+ destroyed Professor Mishima's monitor!!"
+##
+
+#Message#
+\."But I believed in Reko!!
+ That's why I didn't tell anyone... I...!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."What're you talking about?!
+ I've got no memory of that at all!!"
+##
+
+#Message#
+\."Cool it, Nao!
+ There's somethin' wrong with you!!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."W-Wait, please!
+ T... This isn't the time to talk about this...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna is right...
+ This is no more than a feud!)
+##
+
+#Message#
+\.\C[4](And yet...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Nao seems abnormally serious about this...!)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Should I entertain this subject?!)
+##
+

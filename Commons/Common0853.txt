@@ -1,0 +1,131 @@
+**********Common853********** (ナオ会話)
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff sniff*...
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Smells like big sis Nao, meow!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."That is a good thing, isn't it?!"
+##
+
+#Message#
+"If I see Gashu... I'll keep him busy!"
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"I hope the Floor Master
+ doesn't find out about this plan..."
+##
+
+{Sara}
+#Message#
+\."If Gashu saw us, that would be bad, wouldn't it..."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."After the incident with the fake Mishima AI...
+ They might soon notice something's going on...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](They're going to be very cautious if so...)
+##
+
+#Choice#
+Where's Sou?
+Let's keep Gashu busy
+##
+
+<ソウさんはどこに？>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+"Is Sou still in your bedroom?"
+##
+
+{Nao} [Nao: Looking up and to side / cara7-26]
+{SE: Accent28-1}
+#Message#
+\."Err... It seems he headed to the Monitor Room."
+##
+
+{Sara}
+#Message#
+\."Don't tell me the secret room's there?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."It may just be...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I ought to check over by the Monitor Room!)
+##
+
+<ガシューを足止めしよう>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+"Let's keep Gashu busy."
+##
+
+{Nao} [Nao: Looking up and to side / cara7-26]
+#Message#
+\."Come to think of it... When we passed each other,
+ he was looking for Safalin."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."If they get talking to each other,
+ we may have some time."
+##
+
+{Sara}
+#Message#
+\.\C[4](I see...)
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Um... Sara."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent28-1}
+#Message#
+\."It seems Sou headed toward the Monitor Room..."
+##
+
+{Sara}
+#Message#
+\."Huh?! Don't tell me the secret room's there...!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Maybe...! Would you go check on things?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Okay... The Monitor Room it is!)
+##
+
+<Choice End>
+

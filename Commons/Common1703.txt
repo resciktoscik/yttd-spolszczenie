@@ -1,0 +1,108 @@
+**********Common1703********** (▲ｶﾝﾅ「人形的行動」)
+{Kanna}
+#Message#
+"Did Hinako do anything like \C[2]switch parts\C[0]
+ that only a doll could do...?"
+##
+
+#Message#
+"According to the hint, Hinako was \C[12]human\C[0]..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Sorry...! Kanna doesn't get it..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Sorry...! Kanna doesn't get it..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+"Or else spraying steam, or charging,
+ or removing her head..."
+##
+
+[Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."Is there anything definite like that...?"
+##
+
+[Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent41-1}
+#Message#
+"That drill doesn't have any blood on it..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."But then, if we could judge based on that,
+ that would remove the need for a hint..."
+##
+
+{Sara}
+#Message#
+\.\C[4](It might be designed so we can't
+ put it together using blood, yeah...)
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I guess... all we can do is think about
+ Hinako's past actions!"
+##
+
+[Kanna: Offended shout with sweat / cara3-22]
+{SE: sceneswitch2}
+#Message#
+\."Did Hinako do anything like \C[2]switch parts\C[0]
+ that only a doll could do...?"
+##
+

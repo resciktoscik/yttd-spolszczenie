@@ -1,0 +1,1649 @@
+=====Map200===== (⑤Library)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+\."So many books... 'Zis a library?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Pretty complex for a library.
+ It's like a maze..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Just follow the map, don't go any weird directions,
+ and you won't get lost, alright?"
+##
+
+<Else>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."If you don't want to get lost, just use the map...
+ Simply don't go in any improper directions."
+##
+
+<Condition End>
+
+-----Page3-----
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](If there were a center room accessible
+ from this maze-like library... It'd be this way!)
+##
+
+-----Page4-----
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Where'd you go, meow?! Seaweed-heeead!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Everyone, stop! Let's listen for his footsteps
+ to find out where he's going!"
+##
+
+<Else>
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."Listen for his footsteps!
+ Then we'll know where he ran to!!"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Gah, loud...! What's this noise?!
+ I can't hear jack shit!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."What is this noise?!
+ It's too loud to make anything out!"
+##
+
+<Condition End>
+
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Hey, I wonder what that is?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Saw \N[4] somewhere?!"
+##
+
+{Mai} [Mai: Mouth open / cara92-1]
+#Message#
+\."No, look, over there..."
+##
+
+[Mai: Worried eyebrows, mouth open / cara92-11]
+#Message#
+\."Something's... coming... clos..."
+##
+
+-----Page5-----
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: Accent28-1}
+#Message#
+\."Are you okay, suit-and-specs?"
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."I'm alright.
+ More importantly... where's \N[4]...?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."He got away..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."We need to find him quickly, or Sara's collar...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Gotta find him and tag him quick..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Right... My collar...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]When I bring my hand near it,
+a red light shines on my skin.
+##
+
+{Sara}
+#Message#
+\.\C[4](How many minutes passed there...?)
+##
+
+[Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](Not good... If I don't hurry, it'll...!)
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Hayasaka}
+#Message#
+\."Dammit...!! Stay away from me!!"
+##
+
+#Message#
+\."*pant*...! *pant*...!!"
+##
+
+#Message#
+\."Gwah...! O-Ow...!!"
+##
+
+#Message#
+\."Stop ittt!!
+ I'm... not food...!!"
+##
+
+#Message#
+\."STOOOOOOOOOOOOOOOOOOOOP!!"\|\|\^
+##
+
+{Sara}
+{SE: horror_piano chord3}
+#Message#
+\."A... Ahh..."
+##
+
+{Gin} [Gin: Looking up, wide eyes / cara9-16]
+{SE: Accent21-1}
+#Message#
+\."Suit-and... specs...?"
+##
+
+[Gin: Looking up, wide eyes with shadow / cara9-17]
+#Message#
+\."Wake up, meow... Hey..."
+##
+
+[Gin: Looking up, wide eyes, grave look / cara9-18]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Gin...!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Gin was faintly trembling.
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."...I..."
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."*sniff*... I can't protect... anyone, meow..."
+##
+
+{Sara}
+#Message#
+\."That's not true!! Gin, you...!!"
+##
+
+{N/A} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[3]I can't even hug him.
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]If I touch Gin, it'll count as tagging him.
+##
+
+{Sara}
+#Message#
+\.\C[4](I... I've had enough...
+ Enough of this horrible game of death!!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Whether human or doll,
+like Hayasaka before me, we're being killed.
+##
+
+{Sara}
+#Message#
+\.\C[4](And in this game of tag, too...
+ We have to catch \N[4]...)
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+{SE: Paralyze1}
+#Message#
+\C[3]Huh? Is my collar tightening...?
+##
+
+{Sara}
+#Message#
+"*pant*...! Hahh...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Sara?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."What?! Sara Chidouin...!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara} [Sara: Disturbed / cara0-4]
+{SE: Accent21-1}
+#Message#
+\.\C[4](No... It's my imagination...)
+##
+
+#Message#
+\.\C[4](I know... I know, don't I?!)
+##
+
+#Message#
+\.\C[4](I've overcome this kind of thing again and again!)
+##
+
+#Message#
+\.\C[4](Again and...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I don't... want to die...)
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]I've had... enough.
+##
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](You could never... get used to this...)
+##
+
+#Message#
+\."*pant*...! *pant*...!!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]Why is it always me...
+##
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](No...! I can't look uneasy!!)
+##
+
+#Message#
+\.\C[4](My allies are watching!)
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]It's because... I even have allies...
+##
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I'm providing everyone support, so I...!)
+##
+
+#Message#
+\."Hahhh...!!!! Hahhh...!!!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+{SE: Accent28-1}
+#Message#
+\."Please... Let Kanna do it."
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]I feel a warm hand on my back.
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."When we first met...
+ You calmed me down like this, Sara..."
+##
+
+{Sara}
+#Message#
+"W-What're you doing, Kanna?!
+ Stop...!"
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+{SE: Accent21-1}
+#Message#
+\."It's okay.
+ ...I don't intend to become a sacrifice."
+##
+
+[Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent28-1}
+#Message#
+\."I'm sure we can do something.
+ Let's find \N[4]... okay?"
+##
+
+{Sara}
+#Message#
+\."Kan... na..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+\."Well, I respect the attitude, Kanna."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Keiji gently touched Kanna's shoulder.
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Ah...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: flash-of-light-3}
+#Message#
+\."...It's Mr. Ex-Policeman's turn.
+ Gotta apprehend the bad guy..."
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."That's the ticket, Keiji!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Haha... An adult sending out a kid to
+ walk on thin ice... that'd just be pathetic."
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Mmgh..."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Mr. Policemaaan..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...Hey, Sara.
+ Seems you're not "it" anymore."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{N/A} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent28-1}
+#Message#
+\.\C[3]I forcefully hugged Gin.
+##
+
+{Gin}
+{SE: Accent21-1}
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\."Gin...! You can't cry, okay?!
+ You're a big boy...!!"
+##
+
+{Gin}
+#Message#
+\."...Yeah..."
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: Thunder10}
+#Message#
+\."Let's look for seaweed-head, meow!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."Now, we need everyone on this.
+ Let's split up again and search."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Yeah!! We're gonna find him and end this!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph...! You can rely on me!
+ I know the mind of an escaped convict...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+{SE: Accent28-1}
+#Message#
+\."We'll definitely find him...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent28-1}
+#Message#
+\."Well, if it's to defeat \N[4]...
+ I'll do it."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+\."Raaawr!! Then let's go, woof!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Everyone...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Thank you...)
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent28-1}
+#Message#
+\."I'll... do it."
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{N/A}
+{SE: sceneswitch2}
+#Message#
+\.\C[3]Ranmaru took my limp hand.
+##
+
+{Sara}
+#Message#
+\."What are you thinking?!
+ Your collar...!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."I'm telling you... I'll take your place!"
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: Accent21-1}
+#Message#
+\."What's gotten into you...?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Shaddup... I can do what I want, right?"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Bwahaha..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Err...
+ Kinda got beaten to the punch there."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Keiji... We've filled in the map.
+ A policeman should be good at searching, right?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...Of course."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Please... It's not like I wanna be a sacrifice!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Okie-dokie...
+ Gotta apprehend the bad guy."
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Show what kinda man you are!! Ya gotta do it!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Mr. Policemaaan..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...Hey, Sara.
+ Seems you're not "it" anymore."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{N/A} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent28-1}
+#Message#
+\.\C[3]I forcefully hugged Gin.
+##
+
+{Gin}
+{SE: Accent21-1}
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\."Gin...! You can't cry, okay?!
+ You're a big boy...!!"
+##
+
+{Gin}
+#Message#
+\."...Yeah..."
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: Thunder10}
+#Message#
+\."Let's look for seaweed-head, meow!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."Now, we need everyone on this.
+ Let's split up again and search."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Yeah!! We're gonna find him and end this!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph...! You can rely on me!
+ I know the mind of an escaped convict...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+{SE: Accent28-1}
+#Message#
+\."We'll definitely find him...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent28-1}
+#Message#
+\."Well, if it's to defeat \N[4]...
+ I'll do it."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+\."Raaawr!! Then let's go, woof!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Everyone...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Thank you...)
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+-----Page7-----
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."What's this?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."Heard a heck of a sound..."
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."What's this? Stairs...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."\N[4] might be up there..."
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."Sara-senpai...! Go on ahead!
+ We'll call everyone over the PA!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Alright. Let's move, Sara."
+##
+
+{Hinako} [Hinako: Grave look / cara93-11]
+#Message#
+\."Idiot...! My head's going to fly off!"
+##
+
+[Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."You watch here that \N[4] doesn't escape
+ until the broadcast ends!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Roger that..."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+\."We just gotta go, Sara..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."Right! We won't let him get away again...!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+
+**********Event3********** (akahon) (11,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's an unnatural gap in the red books.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's an unnatural gap in the red books.
+##
+
+{Sara}
+#Message#
+\.\C[4](I have a red book, too...)
+##
+
+#Choice#
+Insert into gap
+Cancel
+##
+
+<すき間にはめ込む>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Inserted the book.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The red books are neatly lined up.
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]The red books are neatly lined up.
+##
+
+
+**********Event4********** (midorihon) (8,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's an unnatural gap in the green books.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's an unnatural gap in the green books.
+##
+
+{Sara}
+#Message#
+\.\C[4](I have a green book, too...)
+##
+
+#Choice#
+Insert into gap
+Cancel
+##
+
+<すき間にはめ込む>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Inserted the book.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The green books are neatly lined up.
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]The green books are neatly lined up.
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent28-1}
+#Message#
+\."This is the one.
+ The book that mentions Maple's weakness."
+##
+
+{N/A}
+#Message#
+\C[3]Obtained the Green Book.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"Is just one gonna be enough?
+ Might as well take 'em all."
+##
+
+<Else>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+"Hmph... Why stop at just one?
+ Why not take them all while you're at it?"
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Obtained all the Green Books.
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"The bookcase staircase closed back up, meow!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."D-Dangerous... If somebody had been
+ caught in that, that'd kill them right there."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+\."Now we just need to know where she is..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+\."Now I'd just like to know where she is..."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."All we got's to go on is a name! Nngh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Even with only a name... someone does come to mind.)
+##
+
+#Message#
+\C[4](That girl in the \C[2]Discussion Room\C[4]...)
+##
+
+#Message#
+\.\C[4](She didn't look like a violent Obstructor, but...)
+##
+
+#Message#
+\C[4](I guess... we'll just have to go see.)
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]There's a gap in the books.
+##
+
+-----Page6-----
+{N/A}
+#Message#
+\C[3]There's a gap in the books.
+##
+
+-----Page7-----
+{N/A}
+#Message#
+\C[3]The green books are neatly lined up.
+##
+
+-----Page8-----
+{N/A}
+#Message#
+\C[3]There's a gap in the books.
+##
+
+-----Page9-----
+{N/A}
+#Message#
+\C[3]There's a gap in the books.
+##
+
+
+**********Event5********** (uekaihe) (7,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A staircase of bookshelves.
+##
+
+{Sara}
+#Message#
+\.\C[4](We haven't seen \N[4]
+ in any of the other rooms, so...!)
+##
+
+#Choice#
+Go
+Cancel
+##
+
+<行く>
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A staircase of bookshelves.
+##
+
+{Sara}
+#Message#
+\.\C[4](We haven't seen \N[4]
+ in any of the other rooms, so...!)
+##
+
+#Choice#
+Go
+Cancel
+##
+
+<行く>
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A staircase of bookshelves.
+##
+
+#Choice#
+Go up
+Cancel
+##
+
+<上へ進む>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event6********** (hayasi) (8,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Hayasaka is lying here with exposed internals.
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+"Dammit... Hayasaka...!"
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Hayasaka is lying here with exposed internals.
+##
+
+
+**********Event14********** (kihon) (1,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's an unnatural gap in the yellow books.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's an unnatural gap in the yellow books.
+##
+
+{Sara}
+#Message#
+\.\C[4](I have a yellow book, too...)
+##
+
+#Choice#
+Insert into gap
+Cancel
+##
+
+<すき間にはめ込む>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Inserted the book.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The yellow books are neatly lined up.
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]The yellow books are neatly lined up.
+##
+
+
+**********Event15********** (aohon) (11,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's an unnatural gap in the blue books.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's an unnatural gap in the blue books.
+##
+
+{Sara}
+#Message#
+\.\C[4](I have a blue book, too...)
+##
+
+#Choice#
+Insert into gap
+Cancel
+##
+
+<すき間にはめ込む>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Inserted the book.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The blue books are neatly lined up.
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]The blue books are neatly lined up.
+##
+
+
+**********Event31********** (soukan-EV) (12,12)
+-----Page1-----
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+"This book is... really something..."
+##
+
+{Sara}
+#Message#
+\.\C[4](She's reading intently...)
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Sara} [Kanna: Looking down to side with smile / cara3-16]
+{SE: Accent21-1}
+#Message#
+"...You almost done with that?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."Well... It's so complex,
+ my head's sort of overheating..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hrm... Should I have her stop?)
+##
+
+{SE: Accent21-1}
+#Message#
+"What're you reading?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The "Shin Tsukimi AI Test Data" we found earlier."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."If we learn \N[4] and Sou's relationship...
+ we might learn something about the past, I thought."
+##
+
+{Sara}
+#Message#
+\."Found anything of interest?"
+##
+
+{Kanna}
+#Message#
+\.'U... Um..."
+##
+
+[Kanna: Default look / cara3-10]
+{SE: Accent41-1}
+#Message#
+\."There's this entry here titled
+ "Shin Swept by Eternal Wind, Smile Beaming"..."
+##
+
+{Sara}
+#Message#
+\."Hang on! That's like the title of a poem...!"
+##
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+#Message#
+\."T-That's exactly right...!
+ It's test data in the form of a poem!"
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent21-1}
+#Message#
+\."It'll... take some time to decipher like this..."
+##
+
+{Sara}
+#Message#
+\.\C[4](She's right, that book really is something...)
+##
+
+<灯ろうを使う>
+
+{Sara} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\C[4](I shouldn't make her push herself any more...)
+##
+
+#Message#
+"Kanna.
+ Can we talk about your lost memories...?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."My... memories?"
+##
+
+{Sara}
+#Message#
+\."Yeah. Work with me to find
+ the truth we need to stand against \N[4]."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."I guess we do need to do that..."
+##
+
+{Sara}
+#Message#
+\."But... looking back at your memories
+ might be a difficult task..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent21-1}
+#Message#
+\."You mean... my sister, right?"
+##
+
+[Kanna: Hands in front smile / cara3-18]
+#Message#
+\."But it's all right. Kanna's gotten
+ at least a little stronger than before."
+##
+
+[Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent28-1}
+#Message#
+\."And you're here with her, Sara."
+##
+
+{Sara}
+#Message#
+\."Thanks, Kanna...
+ All right then."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: sceneswitch2}
+#Message#
+\."Okay...! Go ahead!"
+##
+
+#Message#
+\."Okay...! Kanna will keep going to the end!"
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Yeesh... This book..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He looks almost pained reading it...)
+##
+
+#Choice#
+Talk
+Use lantern
+Cancel
+##
+
+<話をする>
+
+{Sara} [Sou: Looking down to side, annoyed / cara5-20]
+{SE: Accent21-1}
+#Message#
+"...You almost done with that?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."...Not at all. I want to just tear it up already."
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\.\C[4](Well, but when you're as strong as Sou is...)
+##
+
+{SE: Accent21-1}
+#Message#
+"What're you reading?"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The "Shin Tsukimi AI Test Data" we found before..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."I was wondering what it could possibly say...
+ and it's truly nonsense."
+##
+
+{Sara}
+{SE: Equip2}
+#Message#
+\."Please show me! What's in there...?!"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: feed1}
+#Message#
+\."Ack...!!"
+##
+
+{Sara}
+{SE: Accent41-1}
+#Message#
+\."This entry here is titled
+ "Shin Swept by Eternal Wind, Smile Beaming"..."
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth / cara5-28]
+#Message#
+\."Give it back...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](W-What the...! It's a bunch of poems!)
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."*pant*... *pant*..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This... seems like it'll take time to decipher."
+##
+
+#Message#
+\."And it doesn't feel very good to read, either."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."We can agree on that..."
+##
+
+<灯ろうを使う>
+
+{Sara} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\C[4](I shouldn't make him push himself any more...)
+##
+
+#Message#
+"Sou.
+ Can we talk about your lost memories?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Ahaha... Why should I talk to you?"
+##
+
+{Sara}
+#Message#
+\."You had the deepest connection to \N[4]..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."But... do you really know everything about him?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."..."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Getting right to the heart of it, huh?"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."It's true that we were friends..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."But... I know nothing about what was inside him.
+ I didn't dare peer into that unknowable darkness."
+##
+
+[Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So, want to peer together, miss Sara...?"
+##
+
+{Sara}
+#Message#
+\."...That's what I was hoping to do."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: sceneswitch2}
+#Message#
+\."Well then... Let's go."
+##
+
+#Message#
+\."Fine by me.
+ I won't be satisfied leaving it unfinished."
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"Sara, what's the matter?"
+##
+
+{Sara}
+#Message#
+\."Have you seen Ranmaru...?!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."S-Sorry, I haven't..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ugh! Where did he...?!)
+##
+
+-----Page4-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"What's the rush?"
+##
+
+{Sara}
+#Message#
+\."Have you seen Ranmaru...?!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+\."Nah, I haven't."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ugh! Where did he...?!)
+##
+

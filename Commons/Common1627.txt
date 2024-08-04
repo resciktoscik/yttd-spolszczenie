@@ -1,0 +1,36 @@
+**********Common1627********** (３前【議論思い返し】)
+{Sara}
+#Message#
+\C[4](Our discussion so far...)
+##
+
+#Message#
+\.\C[4](We have to locate \N[4] in one of
+ the 9 coffins... But we can't distinguish them.)
+##
+
+#Message#
+\.\C[4](There's no way they'd have us
+ decide victory by pure luck...!)
+##
+
+#Message#
+\.\C[4](I'm sure there's something about those coffins
+ that can't be seen by the naked eye...)
+##
+
+#Message#
+\.\C[4](We have to locate \N[4]
+ in one of the 9 coffins...)
+##
+
+#Message#
+\.\C[4](We found that if we use the lantern,
+ some of the coffins glow.)
+##
+
+#Message#
+\.\C[4](Why they glow... I have no clue.
+ We'll have to inspect the coffins closely...)
+##
+

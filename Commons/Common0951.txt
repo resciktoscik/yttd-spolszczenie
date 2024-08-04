@@ -1,0 +1,222 @@
+**********Common951********** (１回目の交換)
+{N/A}
+#Message#
+\>[First Trade]\<
+\>Performed By: Keiji\<
+
+\>??? (\C[2]Keymaster\C[0]) ⇔ Sara (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [First Trade]
+Cancel
+##
+
+<考察【１回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Keiji traded someone's \C[2]Keymaster\C[4] with my \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](Apparently the power of the \C[3]Sage\C[4] lets you
+ know the \C[2]Keymaster\C[4] even before the Main Game.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[First Trade]\<
+\>Performed By: Keiji\<
+
+\>??? (\C[2]Keymaster\C[0]) ⇔ Sara (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [First Trade]
+Cancel
+##
+
+<考察【１回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Keiji traded someone's \C[2]Keymaster\C[4] with my \C[5]Commoner\C[4]...)
+##
+
+#Message#
+\.\C[4](To think that the power of the \C[3]Sage\C[4] let you
+ know the \C[2]Keymaster\C[4] even before the Main Game...)
+##
+
+#Message#
+\.\C[4](Did Keiji do this just to earn my trust...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[First Trade]\<
+\>Performed By: Keiji\<
+
+\>??? (\C[2]Keymaster\C[0]) ⇔ Sara (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [First Trade]
+Cancel
+##
+
+<考察【１回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Keiji traded someone's \C[2]Keymaster\C[4] with my \C[5]Commoner\C[4]...)
+##
+
+#Message#
+\.\C[4](To think that the power of the \C[3]Sage\C[4] let you
+ know the \C[2]Keymaster\C[4] even before the Main Game...)
+##
+
+#Message#
+\.\C[4](Did Keiji do this just to earn my trust...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[First Trade]\<
+\>Performed By: Keiji\<
+
+\>??? (\C[2]Keymaster\C[0]) ⇔ Sara (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [First Trade]
+Cancel
+##
+
+<考察【１回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Keiji traded someone's \C[2]Keymaster\C[4] with my \C[5]Commoner\C[4]...)
+##
+
+#Message#
+\.\C[4](To think that the power of the \C[3]Sage\C[4] let you
+ know the \C[2]Keymaster\C[4] even before the Main Game...)
+##
+
+#Message#
+\.\C[4](Did Keiji do this just to earn my trust...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[First Trade]\<
+\>Performed By: Keiji\<
+
+\>??? (\C[2]Keymaster\C[0]) ⇔ Sara (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [First Trade]
+Cancel
+##
+
+<考察【１回目の交換】>
+
+{Sara}
+#Message#
+\C[4](Keiji traded someone's \C[2]Keymaster\C[4] with my \C[5]Commoner\C[4]...)
+##
+
+#Message#
+\.\C[4](To think that the power of the \C[3]Sage\C[4] let you
+ know the \C[2]Keymaster\C[4] even before the Main Game...)
+##
+
+#Message#
+\.\C[4](Did Keiji do this just to earn my trust...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[First Trade]\<
+\>Performed By: Keiji\<
+
+\>Keiji (\C[2]Keymaster\C[0]) ⇔ Sara (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [First Trade]
+Cancel
+##
+
+<考察【１回目の交換】>
+
+{Sara}
+#Message#
+\C[4](There's no question that Keiji
+ initiated the \C[6]first trade\C[4].)
+##
+
+#Message#
+\.\C[4](My \C[5]Commoner\C[4] and Keiji's \C[2]Keymaster\C[4] were swapped.
+ No room for doubt... at least, I thought...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[First Trade]\<
+\>Performed By: Keiji\<
+
+\>Keiji (\C[2]Keymaster\C[0]) ⇔ Sara (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [First Trade]
+Cancel
+##
+
+<考察【１回目の交換】>
+
+{Sara}
+#Message#
+\C[4](There's no question that Keiji
+ initiated the \C[6]first trade\C[4].)
+##
+
+#Message#
+\.\C[4](My \C[5]Commoner\C[4] and Keiji's \C[2]Keymaster\C[4] were swapped.
+ No room for doubt, I think.)
+##
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,21 @@
+**********Common507********** (交換所　買う)
+#Message#
+\C[3]Make the trade?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{SE: Shop1}
+#Message#
+\C[3]Transaction complete!
+##
+
+<いいえ>
+
+<Choice End>
+

@@ -1,0 +1,16 @@
+**********Common373********** (あらすじ退出)
+#Message#
+Done with the summaries?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

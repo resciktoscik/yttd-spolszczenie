@@ -1,0 +1,203 @@
+=====Map97===== (Fly Swatting Game)
+
+**********Event1********** (タイマー+成否) (3,0)
+-----Page2-----
+{Gin}
+#Message#
+"Go for it!! Big sis Saraaa!!"
+##
+
+#Message#
+"Go for it!! Big sis Saraaa!!"
+##
+
+
+**********Event5********** (sara) (1,12)
+-----Page1-----
+{Sara}
+#Message#
+"Urgh... Huge fly monsters...?!"
+##
+
+#Message#
+"They look like daddy long-legs...
+ Or maybe more like fireflies?"
+##
+
+#Message#
+"These aren't even bugs anymore...!"
+##
+
+-----Page2-----
+{Sara}
+#Message#
+"All I can do... is cheer on...!"
+##
+
+
+**********Event6********** (EV006) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."We'll start with me...!"
+##
+
+{Kanna}
+#Message#
+\."G-Good luck!"
+##
+
+{Nao}
+#Message#
+\."How courageous, Sara!"
+##
+
+{Gin}
+#Message#
+\."So cool, meow...!
+ But be careful, woof..."
+##
+
+{N/A}
+#Message#
+Fly Swatter ~Rules~
+##
+
+#Message#
+\.An insect charmer will release many bugs.
+Touch and defeat all of them in the time limit.
+##
+
+#Choice#
+Hear it again
+Just try it
+##
+
+<もう一度説明を聞く>
+
+<とりあえずやってみる>
+
+{N/A}
+#Message#
+\.Touching your ally's icon will give you
+advice and the like, so... Good luck.
+##
+
+<Choice End>
+
+
+**********Event8********** (aibo) (15,12)
+-----Page1-----
+{Kanna}
+#Message#
+"Waaah! We're fighting bugs this large?!"
+##
+
+#Message#
+"Urrrgh, I don't like it... I don't like bugs..."
+##
+
+#Message#
+"Long-legged spiders!! Nooooo...!!"
+##
+
+#Message#
+"Ooogh... I'm getting goosebumps...!"
+##
+
+#Message#
+"Are these even bugs at this point...?"
+##
+
+#Message#
+"They may not be bugs anymore, but...
+ That makes them that much less scary!"
+##
+
+-----Page2-----
+{Nao}
+#Message#
+"I've never seen these creatures before...
+ Are they real bugs...?"
+##
+
+#Message#
+"What family are these bugs in, even?
+ I want to sketch them...!"
+##
+
+#Message#
+"Another strange bug...!
+ Where could their native habitat even be?!"
+##
+
+#Message#
+"Yes, I must sketch this bizarre bug!
+ This mysterious new creature!"
+##
+
+#Message#
+"I... Is this a bug?
+ What a strange creature..."
+##
+
+#Message#
+"Right now, we can't lose at any cost!
+ The sketch can wait until later!"
+##
+
+-----Page3-----
+{Gin}
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"Big sis Sara!
+ You can't lose to the gross bugs, meow!!"
+##
+
+#Message#
+"Myooooh!! Bugs, woof!! They're gross, meow!!"
+##
+
+#Message#
+"I hate bugs, woof!! I wanna go home, meow!!"
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"Big sis Sara... Urgh... I can only cheer you on...
+ But good luck, meow!!"
+##
+
+#Message#
+"All kinds of bugs, woof!
+ And they're all gross, meow!!"
+##
+
+#Message#
+"I'll do my best for big sis Sara, meowww...
+ My heart's gonna give in, woofff..."
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"Big sis Sara... You're cool, meow!!"
+##
+
+#Message#
+"At last, a monster shows up, meow! Scary, woof!!"
+##
+
+#Message#
+"There's no way we can lose, meow!
+ I vowed to protect big sis Sara, woof!!"
+##
+

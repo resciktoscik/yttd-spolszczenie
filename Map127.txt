@@ -1,0 +1,377 @@
+=====Map127===== (❹Room of Rubble)
+
+**********Event1********** (zidou) (1,0)
+-----Page1-----
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: Accent21-1}
+#Message#
+\."Sara, hide...!"
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Looks like we're not alone."
+##
+
+{N/A}
+#Message#
+\.\C[3]I can hear rummaging sounds in the pitch dark room.
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](That's... Gin?!)
+##
+
+#Choice#
+Call to Gin
+Watch things unfold
+Defer to Keiji
+##
+
+<ギンに声をかける>
+
+{N/A} [Gin: Default / cara9-1]
+#Message#
+\C[3]The moment I tried to call to him...
+##
+
+{Gin}
+#Message#
+\."...This is it, meow!"
+##
+
+<様子を見る>
+
+{Sara} [Gin: Default / cara9-1]
+#Message#
+\C[4](What in the world is he doing...?)
+##
+
+{Gin}
+#Message#
+\."...This is it, meow!"
+##
+
+<ケイジに任せる>
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Let's see what happens..."
+##
+
+{N/A}
+#Message#
+\C[3]Gin is timidly messing with the machine.
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."...This is it, meow!"
+##
+
+<Choice End>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent28-1}
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](A passage appeared!!)
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."...See, I can...!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+"Not good. He's going in alone...!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Let's stop Gin!
+Let's tail him unnoticed
+##
+
+<ギンを止めましょう！>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+"There might be danger...!
+ Let's go stop Gin!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Right. Let's go."
+##
+
+<気付かれない様に尾行しましょう>
+
+{Sara} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+"Let's tail him."
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Why did Gin know about this room...?)
+##
+
+#Message#
+\.\C[4](If he just happened to find it, that's fine, but...)
+##
+
+#Message#
+\.\C[4](If he actually knew something...!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Hurts to suspect a kid, huh."
+##
+
+<Choice End>
+
+
+**********Event3********** (oriro) (8,4)
+-----Page1-----
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."You prepared?"
+##
+
+#Choice#
+Yes
+Cancel
+##
+
+<はい>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."Okie-dokie.
+ But promise me one thing."
+##
+
+{Sara}
+#Message#
+\."...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."On the off chance there's something dangerous
+ waiting up ahead..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You'll be able to run away
+ even if it means going alone, won't you?"
+##
+
+{Sara}
+#Message#
+\."...Yes.
+ And you too, Keiji."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Wahaha... Roger that."
+##
+
+{N/A}
+#Message#
+\.\C[3]The passage is lit by a dim light,
+and gently slopes downward.
+##
+
+#Message#
+\.\C[3]The further we advance, the steeper the slope gets.
+##
+
+{Keiji}
+#Message#
+\."Careful not to slip."
+##
+
+{Sara}
+#Message#
+\."Y-Yeah."
+##
+
+#Message#
+\.\C[4](Gin... How far did you go...?)
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."Hm...? It's a dead end."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."Ah...! Keiji, isn't this..."
+##
+
+{N/A}
+#Message#
+\.\C[3]There's a hole like a trash chute in the floor.
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin must be through here!)
+##
+
+{Keiji}
+#Message#
+\."Let's drop down."
+##
+
+{Sara}
+#Message#
+\.\C[4](What room is this...?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Huh? It seems somehow familiar...)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event8********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+
+
+**********Event9********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event10********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event11********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event12********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event14********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event15********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event16********** (konp) (5,4)
+-----Page1-----
+#Message#
+\.\C[3]A machine emitting red light.
+##
+
+#Message#
+\.\C[3]There doesn't seem to be a plug nor a cord
+that would be needed to power a computer.
+##
+
+
+**********Event19********** (monita) (5,1)
+-----Page1-----
+#Message#
+\.\C[3]A monitor without power.
+##
+

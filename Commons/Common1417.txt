@@ -1,0 +1,49 @@
+**********Common1417********** (★ﾊﾞﾄﾙ②流れ)
+{N/A}
+#Message#
+\C[3]The liquid finally began to fill the ring.
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Urgh! I can't put my thoughts together...!"
+##
+
+{Kurumada} [Kurumada: Angry, shouting / cara95-10]
+#Message#
+"God dammit, wait!! What's gonna happen to us?!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."The liquid...! It's rising so fast!!"
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."We're gonna drooown..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."M... My feet can't touch bottom! What should I...?!"
+##
+
+#Message#
+\."Ahhhh...!!!!"
+##
+
+{N/A}
+#Message#
+\C[3]The liquid gradually filled the room.
+##
+
+#Message#
+\.\C[3]We headed upward, seeking air.
+##
+
+#Message#
+\.\C[3]By the time it was all full,
+hope had been closed to us.
+##
+

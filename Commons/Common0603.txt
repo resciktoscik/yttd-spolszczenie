@@ -1,0 +1,19 @@
+**********Common603********** (ジョー①崩壊「ｶﾁｶﾁ」)
+{N/A}
+#Message#
+\C[10]\sp[15]\}clickclickclclickclickclickickclickclickclickclickclickclickclickclickclickclickclickclickclick\.\^
+##
+
+{Sara}
+#Message#
+\."Urgh...!!"
+##
+
+#Message#
+\.\C[4](What was that...)
+##
+
+#Message#
+\.\C[4](Calm down... Gotta stay calm...)
+##
+

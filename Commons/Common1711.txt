@@ -1,0 +1,91 @@
+**********Common1711********** (◆ｿｳ「死は演技」)
+{Sou}
+#Message#
+"Nothing obvious was pictured,
+ such as sharp objects or execution devices..."
+##
+
+#Message#
+"Does it mean Hinako was just
+ acting as if she died in that video...?"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Put alongside the other Dummies,
+ we were just convinced she died, that's all..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+"If you think about it,
+ nothing obviously deadly was shown..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Despite all the other Dummies having sharp things,
+ axes, or other execution devices around, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Now that you mention it, yeah...)
+##
+

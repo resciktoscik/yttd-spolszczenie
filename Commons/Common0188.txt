@@ -1,0 +1,24 @@
+**********Common188********** (ｿｳ 八分雨？)
+[Sou: Mouth open / cara5-1]
+#Message#
+\C[3]Select Sou as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Sou: Mouth open / cara5-1]
+#Message#
+\.\C[4](No! Sou is Sou Hiyori!
+ It's easy to remember "sunny weather"...
+ He kind of reflects his name, I guess.)
+##
+
+<いいえ>
+
+<Choice End>
+

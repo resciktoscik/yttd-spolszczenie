@@ -1,0 +1,182 @@
+**********Common950********** (手持ちカード)
+{N/A}
+#Message#
+\>\C[3]My conjecture on the initial distribution of cards.\<
+##
+
+#Choice#
+Ponder [Distributed Cards]
+Cancel
+##
+
+<考察【配られたカード】>
+
+{Sara}
+#Message#
+\C[4](The first card I had was \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](And Keiji was the \C[3]Sage\C[0].)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>\C[3]My conjecture on the initial distribution of cards.\<
+##
+
+#Choice#
+Ponder [Distributed Cards]
+Cancel
+##
+
+<考察【配られたカード】>
+
+{Sara}
+#Message#
+\C[4](The first card I had was \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](And Keiji was the \C[3]Sage\C[0].
+ I was completely fooled...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>\C[3]My conjecture on the initial distribution of cards.\<
+##
+
+#Choice#
+Ponder [Distributed Cards]
+Cancel
+##
+
+<考察【配られたカード】>
+
+{Sara}
+#Message#
+\C[4](The first card I had was \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](And Keiji was the \C[3]Sage\C[0].
+ I was completely fooled...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>\C[3]My conjecture on the initial distribution of cards.\<
+##
+
+#Choice#
+Ponder [Distributed Cards]
+Cancel
+##
+
+<考察【配られたカード】>
+
+{Sara}
+#Message#
+\C[4](The first card I had was \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](And Keiji was the \C[3]Sage\C[0].
+ I was completely fooled...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>\C[3]My conjecture on the initial distribution of cards.\<
+##
+
+#Choice#
+Ponder [Distributed Cards]
+Cancel
+##
+
+<考察【配られたカード】>
+
+{Sara}
+#Message#
+\C[4](The first card I had was \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](And Keiji was the \C[3]Sage\C[0].
+ I was completely fooled...)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>\C[3]My conjecture on the initial distribution of cards.\<
+##
+
+#Choice#
+Ponder [Distributed Cards]
+Cancel
+##
+
+<考察【配られたカード】>
+
+{Sara}
+#Message#
+\C[4](The first card I had was \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](Keiji traded me \C[2]Keymaster\C[4] in the \C[6]first trade\C[4],
+ so Keiji's initial card should be \C[2]Keymaster\C[4].)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>\C[3]My conjecture on the initial distribution of cards.\<
+##
+
+#Choice#
+Ponder [Distributed Cards]
+Cancel
+##
+
+<考察【配られたカード】>
+
+{Sara}
+#Message#
+\C[4](The first card I had was \C[5]Commoner\C[4].)
+##
+
+#Message#
+\.\C[4](Keiji traded me \C[2]Keymaster\C[4] in the \C[6]first trade\C[4],
+ so Keiji's initial card should be \C[2]Keymaster\C[4].)
+##
+
+<やめる>
+
+<Choice End>
+

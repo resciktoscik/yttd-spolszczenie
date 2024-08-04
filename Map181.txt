@@ -1,0 +1,341 @@
+=====Map181===== (❹Room of Lies)
+
+**********Event2********** (noelatama) (15,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The head of Rio Ranger.
+##
+
+{Sara}
+#Message#
+\.\C[4](He was a doll, just like the fake Reko...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Joe's hairclip remains in his hair.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+Take the hairclip
+Cancel
+##
+
+<ヘアピンを取る>
+
+{Sara}
+#Message#
+\.\C[4](Give it back...! This is Joe's!!)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Joe's hairclip.
+##
+
+{Ranger}
+#Message#
+\.".........."
+##
+
+<やめる>
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The head of Rio Ranger.
+##
+
+{Sara}
+#Message#
+\.\C[4](It'd be bad if the chip got damaged...
+ How should we extract it?)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Hmm... Would like to take the head for inspection,
+ but if we got caught, we'd tip them off for sure."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm worried for Gin... Let's go to the Monitor Room
+ and check the surveillance system first!)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The head of Rio Ranger.
+##
+
+{Sara}
+#Message#
+\.\C[4](He was a doll, just like the fake Reko...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Joe's hairclip remains in his hair.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+Take the hairclip
+Cancel
+##
+
+<ヘアピンを取る>
+
+{Sara}
+#Message#
+\.\C[4](Give it back...! This is Joe's!!)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Joe's hairclip.
+##
+
+{Ranger}
+#Message#
+\.".........."
+##
+
+<やめる>
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Choice End>
+
+
+**********Event4********** (noel) (4,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The torso of Rio Ranger.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Sara}
+#Message#
+\.\C[4](Because of Ranger... Alice and the fake Reko both...)
+##
+
+<Else>
+
+#Message#
+\.\C[4](Because of Ranger... Reko and the fake Reko both...)
+##
+
+<Condition End>
+
+
+**********Event5********** (arireko) (8,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Alice lies in the center of the Room of Lies.
+##
+
+{Sara}
+#Message#
+\.\C[4](There's... a huge hole in his stomach...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Reko lies in the center of the Room of Lies.
+##
+
+{Sara}
+#Message#
+\.\C[4](Tons of blood is pouring from her chest...)
+##
+
+
+**********Event6********** (naorin) (2,8)
+-----Page1-----
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[3]Nao is staring directly at Alice's body.
+##
+
+<Else>
+
+#Message#
+\C[3]Nao is staring directly at Reko's body.
+##
+
+<Condition End>
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\.\C[3]She doesn't seem to notice us at all.
+##
+
+{Sara}
+#Message#
+\.\C[4](Sure enough, she's acting strange...!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Sara... Not right now..."
+##
+
+{Sara}
+#Message#
+\C[4](Urgh...!)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]I sense pressing emotions from Nao...
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"...There's no time right now, Sara."
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]Nao is spacing out.
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\.\C[3]She doesn't seem to notice us at all.
+##
+
+{Sara}
+#Message#
+\.\C[4](What's wrong, Nao...?!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Sara... We don't have time..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh...!)
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]I don't sense any vitality from Nao...
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Wonder what in the world happened..."
+##
+
+
+**********Event36********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+
+
+**********Event38********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event39********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event40********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event41********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event42********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event43********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+

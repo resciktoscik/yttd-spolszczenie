@@ -1,0 +1,94 @@
+**********Common724********** (ﾚｺ「皆でPC見てた時」)
+{Reko}
+#Message#
+"The \C[6]third trade\C[0] happened
+ while everyone was sharing the laptop...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"W... What the hell?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Quit with the weird rebuttals!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+"I was worried 'cause you were acting strange, Sara..."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."To think you'd been traded the \C[10]Sacrifice\C[0]...!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Damn Q-taro... You gonna make that trade
+ on the spot and then act all innocent...?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Huh? Something's strange here...)
+##
+

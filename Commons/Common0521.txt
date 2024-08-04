@@ -1,0 +1,83 @@
+**********Common521********** (ｶﾝﾅ「知りません」)
+{Kanna}
+#Message#
+"K... Kanna doesn't know anything!
+ It's true, Sara...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Sara, please! While you're worrying about Kanna...
+ Time is just ticking away!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Sara! Is Kanna that suspicious?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"When Mishima's monitor was broken...
+ Kanna was in another room with Sou..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't think she's lying...)
+##
+

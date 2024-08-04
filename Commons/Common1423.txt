@@ -1,0 +1,18 @@
+**********Common1423********** (③レコB選択)
+{N/A}
+#Message#
+"I can't help bein' distracted by this noise...!
+ I'll go find where it's coming from!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

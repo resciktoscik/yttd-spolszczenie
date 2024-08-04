@@ -1,0 +1,101 @@
+**********Common1768********** (▼ｷﾞﾝ「腕取った！」)
+{Gin}
+#Message#
+"Anyway! I can't imagine anyone but a doll
+ being able to equip \C[2]Upgrade Parts\C[0], meow!"
+##
+
+#Message#
+"Cotton candy replaced his hand, meow!
+ I can't imagine he was human, woof!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+"Go, Steam Jetman! Use your Steam Spray, meow...!"
+##
+
+#Message#
+"And being able to use cool moves like spraying steam?!
+ It's unfair, woof!!"
+##
+
+{Sara}
+{SE: shrink1}
+#Message#
+\."Is that... cool?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Meow! Wouldn't you want that, big sis Sara?!
+ Steam from your hands!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... Sounds like it'd get hot.)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+\."Anyway! I can't imagine anyone but a doll
+ being able to equip \C[2]Upgrade Parts\C[0], meow!"
+##
+

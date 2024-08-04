@@ -1,0 +1,114 @@
+**********Common771********** (ｷﾞﾝ「スマホ見つけた」)
+{Gin}
+#Message#
+"There was a smartphone on the stairs, woof."
+##
+
+#Message#
+"I was searching all by myself
+ to see if there were any other exits, meow!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"I don't need this, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"W... Why'd you object to that, woof?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"Is that useful for anything, meow?"
+##
+
+[Gin: Horrified look / cara9-4]
+#Message#
+"I didn't see those three, meow... Sorry, woof."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Come to think of it, didn't you tell me
+ you found something while searching?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Meow...? Yeah..."
+##
+
+[Gin: Default / cara9-1]
+{SE: Accent28-1}
+#Message#
+\."There was a smartphone on the stairs, woof."
+##
+
+{Sara}
+#Message#
+\."What...?"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."But it wouldn't even make calls...
+ It was useless for escape, meow."
+##
+

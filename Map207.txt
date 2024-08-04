@@ -1,0 +1,943 @@
+=====Map207===== (⑤Discussion Room)
+
+**********Event2********** (beddo) (8,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fluffy bed.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, mouth open / cara91-15]
+#Message#
+"Sure feels like a girl's room..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...I mean, this is a lot different from my room...)
+##
+
+
+**********Event4********** (mado) (13,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Light shines through the window.
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+"Doubt it's actual sunlight, though..."
+##
+
+
+**********Event5********** (sohuxaa) (1,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A comfortable sofa.
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, mouth closed / cara91-16]
+#Message#
+"The whole room has this nice smell..."
+##
+
+
+**********Event6********** (hana) (11,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Red flowers.
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+"Isn't watering flowers a pain?"
+##
+
+{Sara}
+#Message#
+\."If you have love, even watering can be fun."
+##
+
+
+**********Event7********** (tansu) (15,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A compact dresser.
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I open it...?)
+##
+
+#Choice#
+Open
+Cancel
+##
+
+<開ける>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+{SE: Open4}
+#Message#
+\C[3]Opened a drawer.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."A paintbrush and paints...?"
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained a paintbrush and paints.
+##
+
+{Girl}
+{SE: horror_piano chord3}
+#Message#
+"What're you doing?"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Girl}
+{SE: Accent21-1}
+#Message#
+\."Eheehee. If you want that, you can have it.
+ Anyway, here's your tea."
+##
+
+{Sara}
+#Message#
+\."S-Sure... Thank you..."
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+\."H-Hey... Are you not an Obstructor...?"
+##
+
+{Girl}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Oh, no, I'm an Obstructor.
+ But... I don't like to fight..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I like to listen to people talk here.
+ This is the Discussion Room."
+##
+
+{Sara}
+#Message#
+\."Discussion Room...?"
+##
+
+{Girl}
+#Message#
+\."Sara, you've always been with your allies.
+ You never had time to think to yourself, right?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Girl}
+{SE: Accent28-1}
+#Message#
+\."Take another look at your feelings.
+ Speak the truth, and you can sort out your mind."
+##
+
+{Sara}
+#Message#
+\."...The truth..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Huh, this tea's good. Doesn't seem poisoned!"
+##
+
+{Sara}
+#Message#
+\.\C[4](So Ranmaru's drinking it too...)
+##
+
+#Message#
+\C[4](...)
+##
+
+#Choice#
+Drink the tea
+Don't drink it
+##
+
+<紅茶を飲む>
+
+<飲まない>
+
+{N/A} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\C[3]*smile...*
+##
+
+{Sara}
+#Message#
+\.\C[4](She's really laying on the pressure...)
+##
+
+<Choice End>
+
+{N/A} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\.\C[3]I took a sip of the tea.
+##
+
+{SE: Accent24-1}
+#Message#
+\.\C[3]I was able to relax just a little.
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Always with my allies, huh...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Maybe she was right.
+##
+
+#Message#
+\.\C[3]I'd hardly had the time to think calmly to myself.
+##
+
+#Message#
+\.\C[3]Because I knew if I showed such an opening,
+despair would fill my heart.
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](But... it's different right now.)
+##
+
+{N/A}
+#Message#
+\.\C[3]There's... no one here.
+##
+
+{Sara}
+#Message#
+\.\C[4](I...)
+##
+
+#Choice#
+Want to escape with everyone
+Don't want to die
+##
+
+<みんなと一緒に脱出したい>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\C[4](Sure enough... I want to escape with everyone...)
+##
+
+<死にたくない>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\C[4](I don't want to die...)
+##
+
+#Message#
+\.\C[4](But... everyone else thinks that, too.)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](So I want us to all escape together...)
+##
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\.\C[4](I was tormented by hallucinations of Joe...
+ But that wasn't really it.)
+##
+
+#Message#
+\.\C[4](That was my own voice...
+ I was having Joe say the thoughts I was suppressing.)
+##
+
+<Else>
+
+{N/A}
+#Message#
+\C[10]Is that true...?
+##
+
+{Sara}
+#Message#
+\.\C[4](...They're all precious allies...)
+##
+
+{N/A}
+#Message#
+\C[10]"Allies" again.
+##
+
+<Condition End>
+
+{Girl}
+{SE: sceneswitch2}
+#Message#
+\."\C[2]Victory\C[0] is on the line, right?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Victory...?"
+##
+
+{Girl}
+{SE: horror_piano chord3}
+#Message#
+\."Only one person can survive...
+ Then the Death Game will end."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]End...?
+##
+
+<Condition End>
+
+{Girl}
+#Message#
+\."Such a scary thing..."
+##
+
+{Sara}
+#Message#
+\."Wait a sec... So only one person
+ can survive this game after all?!"
+##
+
+{Girl}
+{SE: shock1}
+#Message#
+\."Yeah..."
+##
+
+#Message#
+\."Six people left... The decision is near."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."It might even be within the day..."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]Only one person can survive.
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."Inconceivable...! We won't sacrifice anyone else!!"
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth closed / cara91-4]
+#Message#
+\."But... y'know..."
+##
+
+[Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."...Can you kill \N[4]?"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."I can't sympathize with a lowlife like that, but..."
+##
+
+[Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When I see somebody moving around...
+ I guess I can't help but see them as human..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+I can kill him
+I don't know
+##
+
+<殺せる>
+
+{Sara} [Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: sceneswitch2}
+#Message#
+\."...I can kill him..."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]Kill.
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."If it's to protect my allies... I'll kill him...!!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]Wrong. For me.
+##
+
+<Condition End>
+
+<わからない>
+
+{Sara} [Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: sceneswitch2}
+#Message#
+\."...I don't know."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]Is there a point?
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."I don't know, but...! I...!!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]Killing him won't end it.
+##
+
+<Condition End>
+
+<Choice End>
+
+{Sara} [Ranmaru: Hand up, mouth closed / cara91-2]
+#Message#
+\."I'm going to end this Death Game...!!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{N/A}
+#Message#
+\C[10]If I win... it'll end.
+##
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+#Message#
+\."*pant*...!! *gasp*...!!"
+##
+
+{Girl}
+{SE: Accent28-1}
+#Message#
+\."What about you, Ranmaru?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+\."Huh...?"
+##
+
+{Girl}
+#Message#
+\."Are you a pair for the objective's sake?
+ Or are you partners?"
+##
+
+#Message#
+\."You can get another look at yourself, too."
+##
+
+{Ranmaru}
+#Message#
+\."..."
+##
+
+{Girl}
+{SE: Accent21-1}
+#Message#
+\."...Come back sometime, both of you."
+##
+
+#Message#
+\."Because this is a place to find yourself..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm exhausted...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A compact dresser.
+##
+
+
+**********Event19********** (EV019) (2,0)
+-----Page1-----
+{Girl}
+{SE: Accent21-1}
+#Message#
+\."Ah, welcome! So you came back."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."Sara... Only pairs can enter this room, right?"
+##
+
+{Sara}
+#Message#
+\."Yeah.
+ "So \N[4] wouldn't be here," right?"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Still, he could take advantage of that assumption..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, mouth closed / cara91-13]
+#Message#
+\."I... guess that's true.
+ Seems like a Floor Master can do whatever..."
+##
+
+{Girl}
+{SE: Accent21-1}
+#Message#
+\."Floor Master... You mean Hiyori?"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+{Ranmaru}
+#Message#
+\."Uh...? Right, yeah.
+ Could you tell us about him?"
+##
+
+{Girl}
+#Message#
+\."Hiyori..."
+##
+
+#Message#
+\."Hiyori... Hiyori..."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: Accent21-1}
+#Message#
+\."S-She's acting kinda funny, huh...?"
+##
+
+{Sara}
+#Message#
+\."For now, let's search this room..."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+
+**********Event20********** (akahon) (3,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bright red book.
+##
+
+#Message#
+\.\C[3]On the back, it says "Please return on time."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is this a borrowed book...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bright red book.
+##
+
+#Message#
+\.\C[3]On the back, it says "Please return on time."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent21-1}
+#Message#
+\."Wouldn't this be a book from the library?"
+##
+
+{Sara}
+#Message#
+\."Seems like it..."
+##
+
+#Choice#
+Take it
+Cancel
+##
+
+<手に取る>
+
+<やめる>
+
+<Choice End>
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End>
+
+{N/A} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: button17}
+#Message#
+\.\C[3]Obtained a Red Book.
+##
+
+
+**********Event60********** (EV060) (3,0)
+-----Page1-----
+{Girl}
+{SE: Accent21-1}
+#Message#
+"Ah! Sara, Ranmaru! I'm glad you came back!"
+##
+
+{Sara}
+#Message#
+\."H-Hey..."
+##
+
+{Girl}
+{SE: Accent28-1}
+#Message#
+\."I'll get tea. Tell me how it's been for you two!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+"Well... For now, let's talk,
+ and \C[2]be careful not to offend her\C[0]..."
+##
+
+{Sara}
+#Message#
+\."Right..."
+##
+
+{Girl}
+#Message#
+"It's ready! Let's have a relaxing chat, heehee."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Let's talk to Maple once we're prepared...)
+##
+
+-----Page3-----
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Maple}
+#Message#
+\."I-I can't..."
+##
+
+{Sara}
+{SE: electricity1}
+#Message#
+\.\C[4](She's still acting strange...!)
+##
+
+{Maple}
+#Message#
+\."I'll kill you...! No...!!"
+##
+
+#Message#
+\."Run, everyone...!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."No way! We can't get away...!!"
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, shouting / cara95-14]
+#Message#
+\."Dammit...! Enough of this shit!!"
+##
+
+#Message#
+"Just doin' whatever you please!
+ I'm gonna smash you!!"
+##
+
+{Ranmaru}
+#Message#
+\."D-Dumbass! Get away!!"
+##
+
+{Kurumada}
+#Message#
+\."Don't be a chicken! Her attacks come from the back!"
+##
+
+#Message#
+\."If I just close the distance, they don't mean shit!"
+##
+
+#Message#
+\."I'll crush that head of yours...!!"
+##
+
+#Message#
+\."Gah..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+"Ahh!! Kurumada!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"Kurumada...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Maple}
+#Message#
+\."OooOooOOOoo...!! AaaAAaAAAaaaAA...!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+{SE: sceneswitch2}
+#Message#
+\."Run! To Floor 5!!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: sceneswitch2}
+#Message#
+\."Grab my shoulder, Kurumada!!"
+##
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+\."Ghuh...!!"
+##
+
+{Maple}
+#Message#
+\."Hurry...!!! WaaAAaAAAAAaaah...!!"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Kurumada}
+#Message#
+"Just doin' whatever you please!
+ I'm gonna smash you!!"
+##
+
+{Ranmaru}
+#Message#
+\."D-Dumbass! Get away!!"
+##
+
+{Kurumada}
+#Message#
+\."Don't be a chicken! Her attacks come from the back!"
+##
+
+#Message#
+\."If I just close the distance, they don't mean shit!"
+##
+
+#Message#
+\."I'll crush that head of yours...!!"
+##
+
+#Message#
+\."Gah..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+"Ahh!! Kurumada!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"Kurumada...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Maple}
+#Message#
+\."I'll kill you!! All of you...!!"
+##
+
+#Message#
+\."OooOooOOOoo...!! AaaAAaAAAaaaAA...!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+{SE: sceneswitch2}
+#Message#
+\."Run! To Floor 5!!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: sceneswitch2}
+#Message#
+\."Grab my shoulder, Kurumada!!"
+##
+
+{Kurumada} [Kurumada: Fatally damaged, mouth open / cara95-24]
+#Message#
+\."Ghuh...!!"
+##
+
+{Maple}
+#Message#
+\."You won't escape...!!!! WaaAAaAAAAAaaah...!!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+

@@ -1,0 +1,108 @@
+**********Common984********** (Q「ｶﾝﾅｿｳは一緒」)
+{Q-taro}
+#Message#
+"Later in the trading phase...
+ Did seem like she was acting alone."
+##
+
+#Message#
+"Kanna...
+ At first, she just holed up in Sou's room."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"What the heck's this about, huh?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Gimme a better rebuttal than that!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Can't say much 'bout Kanna's other actions..."
+##
+
+#Message#
+"Though..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+\."Later in the trading phase...
+ Did seem like she was acting alone."
+##
+
+{Sara}
+#Message#
+\."Is that true?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."But well, through said latter half...
+ I was knocked out, so I hardly got a clue."
+##
+
+{Sara}
+#Message#
+\.\C[4](In that case... I can't rely on him.)
+##
+

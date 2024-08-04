@@ -1,0 +1,113 @@
+**********Common1689********** (・ﾗﾝﾏﾙ「not悪党」)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru}
+#Message#
+"It is kinda scary how she puts on an act...
+ But Mai couldn't be a full-on villain...!"
+##
+
+<Else>
+
+#Message#
+"She can be scary with how she puts on an act...
+ But Mai couldn't become a villain like me."
+##
+
+<Condition End>
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<やめる>
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+"I'm sure her not killing Q-taro then..."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+\."Was because her heart resisted...!"
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent40-1}
+#Message#
+\."The kind part of her!"
+##
+
+<Else>
+
+[Ranmaru: Evil, thin mouth / cara91-41]
+#Message#
+"I'm sure her not killing Q-taro then..."
+##
+
+[Ranmaru: Evil, mouth open / cara91-40]
+{SE: Accent21-1}
+#Message#
+\."Was because her heart fought back..."
+##
+
+[Ranmaru: Evil, hands out, thin mouth / cara91-43]
+{SE: Accent40-1}
+#Message#
+\."Without breaking free of that,
+ she could never seriously stab him..."
+##
+
+<Condition End>
+

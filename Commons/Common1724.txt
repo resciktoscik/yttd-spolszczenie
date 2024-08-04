@@ -1,0 +1,586 @@
+**********Common1724********** (３前進展⑪別人のヒナコ)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: Accent28-1}
+#Message#
+"Hold it, Q-taro!
+ Ain't those almost Hinako's features?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent28-1}
+#Message#
+"Ahem, Barbecue-Taro!!
+ Does that not almost describe Hinako...?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Muscle gorilla! Those features are
+ pretty much the same as Shorty's, meow...!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."H-Hey... Calm down, now."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Similar as they might be,
+ her most distinctive \C[2]pink hair\C[0]'s different!"
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Havin' the same clothes but different hair...
+ That'd just be..."
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+{SE: Accent41-1}
+#Message#
+\."...A \C[2]different person\C[0]..."
+##
+
+#Message#
+\.".........."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\.\{"A-A different person...?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+{SE: sceneswitch2}
+#Message#
+\."Seems it's lookin' more credible...!"
+##
+
+[Reko: Fists out, angry eyes / cara6-39]
+#Message#
+\."Listen up, everybody!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"The paintings in the gallery are all \C[2]victims\C[0]
+ who got involved in the Death Game and died!"
+##
+
+{SE: Accent40-1}
+#Message#
+"Naturally, that girl should be one too...!"
+##
+
+#Message#
+\."But... nobody's seen this \C[2]black-haired girl\C[0]!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."That's gotta be... because she died
+ in the \C[2]First Trial\C[0] without meeting anyone!"
+##
+
+{SE: Accent42-1}
+#Message#
+"And also, Hinako's video!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."In the video of the \C[2]First Trial\C[0]...
+ She's clearly being called "\C[2]Hinako\C[0]"!"
+##
+
+#Message#
+\."Meaning... this \C[2]black-haired girl\C[0] is
+ the real \C[2]Hinako Mishuku\C[0] who was killed in the video!!"
+##
+
+#Message#
+"And the Dummies Hinako..."
+##
+
+[Hinako: Default / cara93-1]
+#Message#
+"Was an entirely separate \C[12]human\C[0] taking her place...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: sceneswitch2}
+#Message#
+\."It appears it's gaining credibility...!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Now! Listen well, all of you...!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"All those depicted in the gallery are \C[2]victims\C[0]
+ who died in the course of the Death Game!"
+##
+
+{SE: Accent40-1}
+#Message#
+"So naturally, that girl should be a victim as well!"
+##
+
+#Message#
+\."Yet... no one has seen such a \C[2]black-haired girl\C[0]!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."Because, surely... she died in the \C[2]First Trial\C[0],
+ never getting to meet anyone!"
+##
+
+{SE: Accent42-1}
+#Message#
+"And regarding Hinako's video...!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."In this \C[2]First Trial\C[0] footage...
+ She's clearly referred to as "\C[2]Hinako\C[0]"!"
+##
+
+#Message#
+\."In other words... this \C[2]black-haired girl\C[0] is
+ the real \C[2]Hinako Mishuku\C[0], killed in the video!"
+##
+
+#Message#
+"And the Hinako of the Dummies..."
+##
+
+[Hinako: Default / cara93-1]
+#Message#
+"Was a separate \C[12]human\C[0], taking her place...!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: sceneswitch2}
+#Message#
+\."Seems to have some credibility now, doesn't it?"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."All right... Listen up, would you?"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"The paintings in the gallery are all \C[2]victims\C[0]
+ who died during the Death Game."
+##
+
+{SE: Accent40-1}
+#Message#
+"So it's a given the girl in that painting
+ was also a victim here."
+##
+
+#Message#
+\."But... no one's seen this \C[2]black-haired girl\C[0]."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Surely because she died in the \C[2]First Trial\C[0]
+ before meeting anyone..."
+##
+
+{SE: Accent42-1}
+#Message#
+"Now then, Hinako's video."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's a video of her \C[2]First Trial\C[0]...
+ where she's clearly being called "\C[2]Hinako\C[0].""
+##
+
+#Message#
+\."Meaning... the \C[2]black-haired girl\C[0] was
+ the real \C[2]Hinako Mishuku\C[0] who was killed in the video."
+##
+
+#Message#
+"As for the Dummies Hinako..."
+##
+
+[Hinako: Default / cara93-1]
+#Message#
+"It was a separate \C[12]human\C[0], taking her place..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"No way... Can't be...!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."Hinako was...?!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Hinako was...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, furrowed brow, closed mouth / cara91-48]
+#Message#
+\."Hinako was...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Shorty was a human, meow?!"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."H-Hey... But then, is \N[4] not \C[12]human\C[0]?!"
+##
+
+[Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."I have \C[12]\N[4]'s human hands\C[0], don't I...?!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."I-In that case...
+ wouldn't \N[4] not be \C[12]human\C[0]?!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."But Mai had \C[12]\N[4]'s human hands\C[0]!
+ Didn't she?!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+#Message#
+\."Uh... well...!"
+##
+
+#Message#
+\.\C[4](I don't know...)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](But I can't imagine either theory is wrong!)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](What is the truth about \N[4]...?!)
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+"Haha... You seem troubled..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent41-1}
+#Message#
+\."I'll make one rebuttal of my own to your theory."
+##
+
+{Sara}
+#Message#
+\."What...?"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."The Dummies were explained to you at the start..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."They were picked from \C[2]those who had no connection
+ with any other survivors\C[0]."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Meaning..."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Uh-huh! I picked \C[2]the real Hinako\C[0]!"
+##
+
+[Hinako: Default / cara93-1]
+#Message#
+"Supposing there were another one...
+ Even I'd stick to the rules."
+##
+
+[Hinako: Real Hinako silhouette / cara93-14]
+{SE: sceneswitch2}
+#Message#
+\."Which is to say, \C[2]the Dummies would've included
+ a black-haired Hinako\C[0]!"
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"A black-haired Hinako in the Dummies...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."Yep!"
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: Accent21-1}
+#Message#
+\."Well? Did anyone meet black-haired Hinako,
+ even just one time?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\.".........."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\.".........."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\.".........."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\.".........."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."N-No... we didn't..."
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent24-1}
+#Message#
+\."Oh dear... Then it looks like your reasoning's
+ gone wrong again, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](No way...!)
+##
+
+#Message#
+\."Does no one have any ideas?!"
+##
+
+#Message#
+\."I mean, does anyone remember
+ talking to her even a little...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Ahaha..."
+##
+
+{Sara}
+#Message#
+\."Urgh...!!"
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+"Wait..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent41-1}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Reko...?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent41-1}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Alice...?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent41-1}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Q-taro...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{N/A}
+#Message#
+
+　　　　　　　　　\C[3]Connection to Hinako
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent21-1}
+#Message#
+"There's something... I've been wondering about..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+{SE: Accent21-1}
+#Message#
+"I feel this sensation,
+ as if there's a thorn stuck deep in my heart..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+"I've been curious 'bout this a long time..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+

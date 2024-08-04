@@ -1,0 +1,110 @@
+**********Common1754********** (３前進展⑱打つ手なし)
+{Sara}
+#Message#
+\C[4](It's no use! I can't see any options
+ other than using our hint...!)
+##
+
+#Message#
+\.\C[4](And if that's only going to come up \C[10]red\C[4],
+ like \N[4] says...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](It'll be one in three...)
+##
+
+#Message#
+\.\C[4](And since Gin's coffin is already known...)
+##
+
+{SE: shock1}
+#Message#
+\.\C[4](If we miss, Gin's life...
+ really is forfeit this time...!)
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent28-1}
+#Message#
+"You just have to try, meow..."
+##
+
+{Sara}
+#Message#
+\."Gin..."
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+{SE: Accent21-1}
+#Message#
+\."I'm... ready, woof."
+##
+
+[Gin: Looking to side, raised eyebrows / cara9-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'll be okay... whatever the result is..."
+##
+
+[Gin: Looking to side / cara9-21]
+{SE: Accent40-1}
+#Message#
+\."I want us to stand against this together, meow...!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."Gin..."
+##
+
+#Choice#
+Alright
+Let's stand firm
+##
+
+<わかった>
+
+{Sara} [Gin: Looking to side / cara9-21]
+{SE: Accent28-1}
+#Message#
+"Alright... got it."
+##
+
+<立ち向う>
+
+{Sara} [Gin: Looking to side / cara9-21]
+{SE: Accent28-1}
+#Message#
+"We'll stand... against \N[4]."
+##
+
+<Choice End>
+
+{Sara} [Gin: Looking to side / cara9-21]
+#Message#
+\C[4](I'm prepared, too...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End>
+
+{N/A}
+{SE: WON-machine_check3-1}
+#Message#
+
+　　　　　　　　　　 \C[3]The Final Hint
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\C[4](I'll use the hint on a non-glowing coffin...)
+##
+

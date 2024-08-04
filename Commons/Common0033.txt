@@ -1,0 +1,132 @@
+**********Common33********** (サラ)
+{Sara}
+#Message#
+"I like them about the same.
+ ...Liking both... Isn't that fine?"
+##
+
+#Message#
+"Hmm... I kinda like both.
+ Honestly, it's like a 50-50 split."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+{SE: Accent28-1}
+#Message#
+"Whoaaa! Scary! I guess them being bamboo shoots
+ doesn't necessarily mean they look cute, huh?!"
+##
+
+{Sara} [Sara: Default (no collar) / cara0-1]
+#Message#
+"What does that have to do with my statement?"
+##
+
+{Player}
+#Message#
+(Shoot...! That was a mistake!)
+
+
+* HP decreased
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+{SE: Accent28-1}
+#Message#
+"I guess I prefer Takenoko no Sato.
+ It just looks sorta cute, y'know?"
+##
+
+{Sara} [Sara: Default (no collar) / cara0-1]
+#Message#
+"I don't... really think that's relevant, myself..."
+##
+
+{Player}
+#Message#
+(Shoot...! That was a mistake!)
+
+
+* HP decreased
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default (no collar) / cara0-1]
+#Message#
+"There's nothing left, got it?"
+##
+
+#Message#
+"Isn't liking both... fine?"
+##
+
+{Player}
+#Message#
+\.Does this statement seem important?
+##
+
+#Choice#
+Have her add her opinion
+Cancel
+##
+
+<意見に追加してもらう>
+
+{Player} [Sara: Default (no collar) / cara0-1]
+{SE: Accent28-1}
+#Message#
+\."Please, append that opinion!"
+##
+
+{Sara}
+#Message#
+\."G... Got it!"
+##
+
+<やめる>
+
+<Choice End>
+

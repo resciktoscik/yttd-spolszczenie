@@ -1,0 +1,63 @@
+=====Map164===== (Nao Game)
+
+**********Event1********** (te) (3,7)
+-----Page2-----
+{Nao}
+#Message#
+"I don't want to die...!!"\.\.\^
+##
+
+#Message#
+\."Don't... push it..."\.\.\^
+##
+
+#Message#
+"Wait...!"\.\^
+##
+
+#Message#
+"Don't press it...!!"\.\^
+##
+
+#Message#
+"I don't want to die yet...!!"\.\^
+##
+
+#Message#
+"Nooo...!!"\.\^
+##
+
+#Message#
+"Don't... Sara...!!"\.\^
+##
+
+#Message#
+"I don't... want to die...!!"\.\^
+##
+
+#Message#
+"Gah...!!"\.\^
+##
+
+#Message#
+"U... rgh..."\.\^
+##
+
+#Message#
+".........."\.\^
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Safalin}
+#Message#
+"...Begin..."
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[10]Nao expired.
+##
+

@@ -1,0 +1,179 @@
+**********Common1740********** (▲ｷﾞﾝ「悪者ズ」)
+{Gin}
+#Message#
+"Shorty must've \C[2]worked with seaweed head\C[0],
+ or she couldn't have blended in as a fake, meow..."
+##
+
+#Message#
+"Hey, hey! Shouldn't we be thinking about
+ whose side Meister is on, meow?!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Muscle gorilla! Don't be fooled, meow!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."W-What's that, Gin?!"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."You say they were all allies...
+ But Shorty might've been an enemy, meow..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."G-Guess so, but...! Even Hinako was killed..."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent21-1}
+#Message#
+\."I wanna believe in her too, but..."
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: sceneswitch2}
+#Message#
+\."Will we find the answer that way, woof?!
+ Can we really win, meow?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Urk...!!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Sorry...! Lemme think this over!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](It seems Q-taro reworked his statement...)
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+"I didn't wanna think Shorty was bad, but..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+"I don't think we should trust him, woof!!"
+##
+
+#Message#
+\."He's just acting impartial...
+ But really, he's on seaweed head's side, woof!!"
+##
+
+[Gin: Looking up, sad / cara9-12]
+{SE: Accent21-1}
+#Message#
+\."And Shorty, too..."
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."I don't wanna suspect her...
+ But maybe she was with the bad guys, meow!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Gin..."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."I mean, it has to be, right...?"
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent41-1}
+#Message#
+\."Shorty must've \C[2]worked with seaweed head\C[0],
+ or she couldn't have blended in as a fake, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He has a point...)
+##
+
+#Message#
+\.\C[4](If both Meister and Hinako
+ are on \N[4]'s side...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](There may be traces of them
+ preparing things for this banquet...)
+##
+

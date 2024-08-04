@@ -1,0 +1,146 @@
+**********Common536********** (ﾅｵ「ﾆｾﾓﾉです！」)
+{Nao}
+#Message#
+"There's no time to hesitate!!
+ We can't save Gin unless we drop the fake there!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I... don't really understand!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Nao}
+#Message#
+"I... don't really understand!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"I'm not brainwashed or anything...!
+ I'm speaking of my own volition!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"No, something's definitely wrong!!
+ Nao wouldn't speak so bravely...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](There's no basis to their arguments...!
+ I need to find a clue with someone else!)
+##
+
+{Reko}
+#Message#
+"That's mean as shit, Nao...!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Say whatever you like...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](There's no basis to their arguments...!
+ I need to find a clue with someone else!)
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Is that related to something...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"*pant*... *pant*...!"
+##
+
+#Message#
+"I'm aware what I'm saying is absurd!
+ But..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."There's no time left!!
+ We... we need to hurry...!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Our only option is to drop her...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't believe Nao would say that herself...!)
+##
+
+#Message#
+\.\C[4](It's not like her...
+ Am I just overthinking it...?)
+##
+

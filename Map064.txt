@@ -1,0 +1,82 @@
+=====Map64===== (Puppet Show)
+
+**********Event1********** (EV001) (0,0)
+-----Page1-----
+#Message#
+\C[3]There was once a high school student
+named Sara who was very cool.
+##
+
+#Message#
+\!\C[3]Walking home with her best friend Joe,
+they ran from a scary, scary stalker back home...
+##
+
+#Message#
+\!\C[3]Then she found her mother had collapsed,
+her father was gone, and the rooms were a mess...
+Sara was disoriented.
+##
+
+#Message#
+\!\C[3]When she came to, she was in an unfamiliar room.
+And 10 unfamiliar people appeared before her.
+##
+
+#Message#
+\!\C[3]A policeman who once shot a person, Keiji.
+A muscle gorilla of a pro baseball player, Q-taro.
+##
+
+#Message#
+\!\C[3]A weak and loner-ish job-hopper, Sou.
+A musician with striking makeup, Reko.
+##
+
+#Message#
+\!\C[3]An awfully dubious teacher, Mishima.
+His former student, Nao.
+##
+
+#Message#
+\!\C[3]A strange, aloof homemaker, Kai.
+A woofing and mewoing grade-schooler, Gin.
+##
+
+#Message#
+\!\C[3]And a girl who lost her big sister
+in the First Trial, Kanna.
+##
+
+#Message#
+\!\C[3]Sara worked with everyone to overcome various trials.
+##
+
+#Message#
+\!\C[3]But she remembered that the homemaker, Kai,
+was her stalker.
+##
+
+#Message#
+\!\C[3]And then Mishima died in a practice round
+due to someone's vote.
+##
+
+#Message#
+\!\C[3]Sou was hit in the head by someone.
+##
+
+#Message#
+\!\C[3]The suddenly-appearing murderer Alice
+confessed to being Reko's brother.
+##
+
+#Message#
+\!\C[3]Even so, they worked together to advance, and...
+##
+
+#Message#
+\!\C[3]Her best friend Joe
+and the information-possessing Kai died.
+##
+

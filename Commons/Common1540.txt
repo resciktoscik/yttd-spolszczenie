@@ -1,0 +1,17 @@
+**********Common1540********** (⑧レコB選択)
+{N/A}
+#Message#
+"I'll absorb charge! I got this!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

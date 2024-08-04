@@ -1,0 +1,75 @@
+**********Common30********** (テスト発言メガネ)
+{Strange Man}
+{SE: select05}
+#Message#
+We should discuss which is superior,
+Kinoko no Yama or Takenoko no Sato!
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題にする>
+
+<やめる>
+
+<Choice End>
+
+{Strange Man} [Mishima: Default smile / cara12-1]
+{SE: Accent28-1}
+#Message#
+"Well then, how about we discuss which is tastier -
+ \C[2]Kinoko no Yama\C[0] or \C[2]Takenoko no Sato\C[0]."
+##
+
+{Sara} [Sara: Default (no collar) / cara0-1]
+#Message#
+\."What the heck... Are we really going with that?"
+##
+
+{Strange Man} [Mishima: Default smile / cara12-1]
+#Message#
+\."It's irrelevant to the main story, of course.
+ ...Let's give it a test run."
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."Test, huh? What should we do?"
+##
+
+{Strange Man} [Mishima: Default smile / cara12-1]
+#Message#
+\."Simply \C[2]state your opinion\C[0].
+ And you, player, please advance the discussion
+ by some means or another."
+##
+
+{N/A}
+#Message#
+Discussion ~Begins~
+
+
+(* Planning to display a logo for this)
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+"I guess I prefer Takenoko no Sato.
+ It just looks sorta cute, y'know?"
+##
+
+{Strange Man} [Mishima: Default smile / cara12-1]
+#Message#
+"I would say Kinoko no Yama.
+ The smooth exterior whets my appetite."
+##
+
+{Sara} [Sara: Default (no collar) / cara0-1]
+#Message#
+"Hmm... I kinda like both.
+ Honestly, it's like a 50-50 split."
+##
+

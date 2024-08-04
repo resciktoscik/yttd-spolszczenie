@@ -1,0 +1,25 @@
+=====Map139===== (❹OP Sou 1)
+
+**********Event2********** (kabe) (4,1)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[10]I need to tear these all off and throw them out.
+##
+
+
+**********Event26********** (syure) (4,7)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[10]I need to dispose of all the documents in the shredder.
+##
+
+
+**********Event30********** (EV030) (1,0)
+-----Page4-----
+{Sou}
+#Message#
+\."So gloomy..."
+##
+

@@ -1,0 +1,606 @@
+**********Common1324********** (④過去正解の解答)
+{Keiji}
+#Message#
+\C[4](Q-taro could no longer turn on the hospital TV...)
+##
+
+#Message#
+\.\C[4](Because if he did, he'd be met with baseball news,
+ whether he liked it or not.)
+##
+
+#Message#
+\C[4](This television...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."You got it!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent41-1}
+#Message#
+\."The TV... Yeah, I got an idea about that..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."It's a li'l embarrassing, but..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"I couldn't watch TV no more..."
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+"Huh... Why's that?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."When I turned on the TV...
+ Like it or not, there'd be news programs goin'."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent21-1}
+#Message#
+\."And I'd catch sight of some baseball news..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent41-1}
+#Message#
+\."It wasn't TV you couldn't watch, but baseball...?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."I'm heartless, I swear...
+ Can't even cheer for my teammates."
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+{SE: Accent40-1}
+#Message#
+\."Watchin' baseball... it was pure sufferin'..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Ahh... I get how you feel."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: Accent28-1}
+#Message#
+\."Bet you can't watch detective shows no more either..."
+##
+
+{Keiji} [Keiji: Right hand under face, sweating / cara2-9]
+{SE: Accent08-1}
+#Message#
+\."Sure... guess we'll say that."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Around that time... I was thinkin' about death
+ a lot more than baseball..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Q-taro..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."...Don't go tellin' nobody."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\C[4](Reko was meeting with \N[4]...)
+##
+
+#Message#
+\.\C[4](And they discussed Alice's murder case...
+ What could this mean?)
+##
+
+#Message#
+\C[4](This guy who looks like a band member...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Yeah... Uh, I think..."
+##
+
+[Reko: Default / cara6-1]
+#Message#
+\."I met with a member to talk about the band..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."No... That can't be it..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...!!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."No, it wasn't a bandmate I was with...!"
+##
+
+{SE: shock1}
+#Message#
+\."I was meetin'... with \N[4]!!"
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"What the hell?! How'd I forget something like that?!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."What did you and \N[4] even discuss?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Shit, what was it...?!
+ What the hell was I talking to him about?!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."No, wait... There's nothin' else it could be!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Alice...! We were talking about his murder case!!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Dammit, but I can't remember our conversation...!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."P-Please, calm down!
+ Let's just take this slow...!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Y-Yeah...! You're right, Sara."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\C[4](A note on the wall with passwords on it disappeared.)
+##
+
+#Message#
+\.\C[4](Did \N[4] remove it?
+ His reasons are unclear, though...)
+##
+
+#Message#
+\C[4](These notes on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Huh... You're curious about that?"
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."...Come to think of it."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."A note that had passwords on it... was missing."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+"I assumed maybe the tape fell off
+ and it got lost somewhere..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+\."But I bet \N[4] got rid of it."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."Why...?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Who knows. Not knowing what they were used for,
+ I would've thought they didn't matter, but..."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Maybe they were actually important passwords?
+ Gimme a break..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then again, he's always doing meaningless things
+ and making it seem otherwise..."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](Is that so...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](This wasn't a first-aid kit...
+ It was a speaker.)
+##
+
+#Message#
+\.\C[4](Apparently, it was used to calm his nerves?
+ That sounds like counseling...)
+##
+
+#Message#
+\C[4](This awfully large first-aid kit...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Mya... You're right,
+ it is really big for a first-aid kit, woof..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: Accent21-1}
+#Message#
+\."Oh yeah! I remember, woof!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."It wasn't a first-aid kit...
+ I think it was a speaker, meow!"
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent41-1}
+#Message#
+"Teacher always said it would help me relax
+ to play music while we talked, woof."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Which means they were discussing
+ things that made him nervous...?)
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+\."We talked about school... and home...
+ and all sorts of stuff, meow."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](I wonder... this situation I'm looking at...)
+##
+
+{SE: Accent42-1}
+#Message#
+\.\C[4](Is it Gin getting counseling...?)
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."What is it, meow?"
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."No, it's nothing."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\C[4](This was actually a light with an ice cream design.)
+##
+
+#Message#
+\.\C[4](So from outside, it looks like an ice cream shop...
+ But the truth was that it sold many other sweets.)
+##
+
+#Message#
+\C[4](This light hanging from the ceiling...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Y-Yes... Give me a moment..."
+##
+
+[Kanna: Neutral smile / cara3-9]
+{SE: Accent21-1}
+#Message#
+\."Ah! I've remembered!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."That was... a big glowing ice cream!"
+##
+
+[Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: flash-of-light-3}
+#Message#
+"Isn't that really cute?!
+ Kanna wants to have one at her house!"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\.\C[4](I do think it's fancy, but to have it in a room...?)
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Kanna always figured this was an ice cream shop...
+ Probably because she saw the light from outside."
+##
+
+{SE: Accent24-1}
+#Message#
+\."In reality, it was the shop of her dreams,
+ filled with so many more kinds of sweets!"
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+\."She knew her sister often went there, too."
+##
+
+{SE: Accent28-1}
+#Message#
+\."When she met up with me on the way home...
+ she'd wait there with ice cream in both hands."
+##
+
+{SE: Accent21-1}
+#Message#
+\."We would eat our ice cream while chatting...
+ And then..."
+##
+
+#Message#
+\.".........."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+{SE: Accent40-1}
+#Message#
+\."Kanna..."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."...It's all right.
+ I'm the one who decided I'd face up to it."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kanna: Default look / cara3-10]
+#Message#
+\C[4](There was apparently a scarf in the spot
+ where there was usually a trash can...)
+##
+
+#Message#
+\.\C[4](Not only that, it was \N[4]'s...
+ Alice wouldn't have mistook it, right?)
+##
+
+#Message#
+\C[4](This trash can in the hallway, past the bars...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Finding faults with me, Sara Chidouin...?!"
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Yet, indeed... I feel it wasn't a trash can.
+ On that day only..."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."...That's it."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."It was... a scarf...?"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Not only that...
+ It was \N[4]'s scarf!!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Damn it! What is this?!
+ Now that I remember it, it's clearly bizarre!!"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."Please don't go on a rampage...!
+ Relax and take deep breaths!"
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."Say what?! Don't treat me like
+ some kind of strange beast, you!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](I'm not treating you like that...!)
+##
+
+<やめる>
+
+<Choice End>
+

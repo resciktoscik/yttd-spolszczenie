@@ -1,0 +1,115 @@
+**********Common791********** (ﾚｺ「死なせたい派」)
+{Reko}
+#Message#
+"He tampered with the cards to kill Sou, for making
+ an escape plan and ruining his Floor Master honor!"
+##
+
+#Message#
+"You think he had the \C[10]Sacrifice\C[0]
+ go to someone he wanted to kill?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"What're you going for there, Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"That ain't proof that denies my statement...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"It makes sense...! A stupid old coot might just
+ value his worthless honor and pride!!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"The coot hates one of us in particular!!"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent21-1}
+#Message#
+\."He wanted 'em to be killed via the \C[10]Sacrifice\C[0]
+ in the Main Game, even if it meant tampering!"
+##
+
+{Sara}
+#Message#
+\."But who in the world would that be?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Obviously, it's gotta be the guy who made an
+ escape plan and ruined his honor as a Floor Master!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."The hacker man himself... Sou!!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+

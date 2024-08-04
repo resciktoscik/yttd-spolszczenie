@@ -1,0 +1,10 @@
+**********Common122********** (後編①【新移動コマンド】)
+{N/A}
+#Message#
+\C[3]I'm worried about Nao.
+##
+
+#Message#
+\C[3]The red door is tightly shut and can't be opened.
+##
+

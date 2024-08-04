@@ -1,0 +1,515 @@
+**********Common786********** (⑭進展●ガシューの狙い)
+{Sara}
+{SE: Accent21-1}
+#Message#
+"There was a possibility..."
+##
+
+#Message#
+\."Something separate from Sou's hacking..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."And an irregularity that definitely occurred...!"
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+"The transgression by Floor Master Gashu!!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Eh...?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Say what...?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Excuse MEEEEeeeeEEEE?!"
+##
+
+<Condition End>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Remember what Miley said before the Main Game."
+##
+
+{Miley} [Miley: Angry / cara14-4]
+#Message#
+\."Gashu, are you listening?!
+ You've really gone and mucked things up...!"
+##
+
+#Message#
+\."You've made a flagrant transgression...!!
+ One that shakes the very core of the Main Game!!"
+##
+
+{Sara}
+#Message#
+"And despite being such a huge transgression...
+ It hasn't shown itself at all thus far!"
+##
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+#Message#
+\."..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."And now... this illogical movement of the cards
+ that's tormenting us..."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."Could this very issue be Gashu's transgression?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."If we believe Kanna... That's the only explanation!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."You're sayin' the coot
+ tampered with the card movement?!"
+##
+
+<Else>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."So Uncle Crabstache manipulated
+ the movement of the cards, meow?!"
+##
+
+<Condition End>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."But for the Floor Master...
+ what would be the merit of doing that?!"
+##
+
+{Sara}
+#Message#
+\."Well..."
+##
+
+#Choice#
+I don't know
+There's no merit
+There's some merit
+##
+
+<わからない>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent21-1}
+#Message#
+\."I don't know...!"
+##
+
+#Message#
+\."We don't know the Floor Master's goal!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."To flip that around... If there was some merit,
+ Gashu'd have a reason to meddle."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+\."We might figure out who he moved the \C[10]Sacrifice\C[0] to."
+##
+
+<メリットはない>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."...Maybe there was no merit..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."No... There has to be one."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."At the very least... He must have had a goal in mind."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+\."If we can figure out what that is,
+ we might know who he moved the \C[10]Sacrifice\C[0] to."
+##
+
+<何らかのメリットがある>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+"There was some sort of merit...!
+ And that's why Gashu pushed us through the argument!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I see...
+ If his goal could be made clear, maybe we'd know..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+\."Who he moved the \C[10]Sacrifice\C[0] to, that is."
+##
+
+<Choice End>
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+{SE: Accent28-1}
+#Message#
+\."Hm... Quite the off-mark inference."
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\."Is it all right for you
+ to be using your time on this?"
+##
+
+{Sara}
+#Message#
+\."Gashu..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If you haven't engaged in any misconduct...
+ then promise us."
+##
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+#Message#
+\."Hm...?"
+##
+
+{Sara}
+#Message#
+\."I know the \C[2]Floor Master's code\C[0]..."
+##
+
+{SE: Thunder10}
+#Message#
+\."If we can expose your transgression...
+ This Main Game won't count."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."We demand \C[2]a second attempt\C[0] 24 hours later!!"
+##
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+#Message#
+\."...!"
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\."Haha..."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."Hahahahaha..."
+##
+
+[Gashu: Eyes closed / cara16-5]
+#Message#
+\."You just know everything, don't you?
+ As to be expected from Ms. Sara Chidouin...!"
+##
+
+[Gashu: Default / cara16-1]
+{SE: Accent28-1}
+#Message#
+\."Promise or no promise...
+ I will simply carry out my duty as per the code."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Hwoooooooooohhh...!! You for real?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."With 24 hours, we could make another shot at escape!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."He said it!!
+ With 24 hours, we could even reattempt our escape!!"
+##
+
+<Condition End>
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+{SE: Accent21-1}
+#Message#
+\."...But are you certain?"
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If you cannot prove it, you will only be
+ losing time to spend on other reasoning..."
+##
+
+{Sara}
+#Message#
+\.\C[4](It's okay.)
+##
+
+#Message#
+\.\C[4](This new possibility we've spun...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](This theory... wasn't being directed at Gashu!!)
+##
+
+#Message#
+\."Sou! Please tell us the truth!!"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: heart2}
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."The other possibility... is that you did
+ some sort of hacking to the role cards, Sou."
+##
+
+#Message#
+\."If we know whether that claim is true or not,
+ we can fight!"
+##
+
+#Message#
+\."Let's all combine forces to win an extension!!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."....."
+##
+
+#Message#
+\.".........."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+{SE: Accent21-1}
+#Message#
+\."Kanna..."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Y... Yes...?"
+##
+
+{Sou} [Sou: Afraid look with lightless eyes / cara5-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Y-You really... don't have the \C[10]Sacrifice\C[0]...?"
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\."..."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+{SE: Accent28-1}
+#Message#
+\."It's okay... Kanna really doesn't have the \C[10]Sacrifice\C[0]."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."...I see..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."...I..."
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth / cara5-28]
+#Message#
+\."I didn't access the role cards...!"
+##
+
+[Sou: Hands out, mouth open, angry eyes with bags / cara5-32]
+#Message#
+\."I didn't do any hacking to them!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Sou...!!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth / cara5-28]
+#Message#
+\."That's the truth, miss Sara...
+ No lies, no tricks."
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."Alright...? Let's quit deceiving each other."
+##
+
+[Sou: Hands out, mouth open / cara5-27]
+#Message#
+\."Let's work to expose Gashu's transgression...!"
+##
+
+{Sara}
+#Message#
+\."Just what I wanted to hear!!"
+##
+
+#Message#
+\.\C[4](This is a turning point in our destiny...!)
+##
+
+#Message#
+\.\C[4](A path we could never have reached
+ if we were trapped by endless suspicion!)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](The path of us all trusting each other...
+ and battling the kidnappers head-on!!)
+##
+
+[Gashu: Default / cara16-1]
+{SE: Thunder10}
+#Message#
+\.\C[4](Together... we'll expose \C[2]Gashu's misdeed\C[4]!!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+<Condition End>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Gashu had something to gain from
+ tampering with the trade...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"You think he had the \C[10]Sacrifice\C[0]
+ go to someone he wanted to kill?!"
+##
+
+<Else>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"Perhaps he sent the \C[10]Sacrifice\C[0] toward
+ someone who he wanted to kill..."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"Or else, you think there was somebody
+ who Gashu didn't want to die?!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Is there an answer in the clues we have left...?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"There's a fundamental issue... Maybe the \C[10]Sacrifice\C[0]
+ wasn't actually sent to anybody?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

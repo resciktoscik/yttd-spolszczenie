@@ -1,0 +1,152 @@
+**********Common563********** (追加進展●ギンの体重)
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Wait, Nao! What'd you just say?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."E-Err, that 35.5 kilograms is
+ about the weight of a grade-schooler."
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."I wonder if..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Hey! Gin!! You weigh yourself at school, right?!"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."...Meow?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Tell us your weight in kilograms!!
+ How much is it?!"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\.".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...35.5... woof..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."That's exactly it!!
+ The number on the LCD...!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Is this just a coincidence...?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's too exact to be a coincidence!"
+##
+
+{Nao}
+#Message#
+\."But what in the world does it mean?!"
+##
+
+{Sara}
+#Message#
+\."Hmm..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."We're thinking it's "Left: 35.5kg," right?!
+ So then..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."Either increasing or decreasing the value
+ should give us the answer!"
+##
+
+{Sara}
+#Message#
+\.\\C[4](Increase or decrease 35.5 kilograms...
+ What...? Where...? Who...?)
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Let's think about this again!
+ Just say whatever you can think of!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Weight... weight... decrease... increase...?
+ 35.5 kilograms...?"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."It's no good! I'm starting to panic!"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent28-1}
+#Message#
+\."Wait a sec, I just got it!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Huh?!"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."This platform we're riding..."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The Impression Room itself is
+ a giant pressure switch!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."N-No way...!!"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."It's saying we need 35.5 more kilograms
+ to press down the switch!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."So it's displaying "Left: 35.5kg" because..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."If we add 35.5 kilograms of weight to the platform,
+ maybe some machine to rescue Gin will start up?!"
+##
+

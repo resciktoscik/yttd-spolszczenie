@@ -1,0 +1,53 @@
+**********Common358********** (ソウ後回しの時用)
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Dammit... He wasn't anywhere!!
+ The damn beanie bastard...!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sure is a troublesome guy. He's worth apprehending."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Should we leave him be?
+ There's a time limit on the Sub-Game, yeah?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I'm more worried about the loner, meow!
+ He can't make pairs or clear any attractions
+ if he's alone, woof!"
+##
+
+{Sara}
+#Message#
+\."Hmm..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."I'm gonna take that bastard out, I swear...!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I bet he's just hiding under the bed
+ in his room or something, woof!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Perfect spot for a treacherous ass like him!
+ Let's check it out!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](What the...?!)
+##
+

@@ -1,0 +1,100 @@
+**********Common243********** (ｶﾝﾅ「言うことなし」)
+{Kanna}
+#Message#
+"I have... nothing to say..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"W... What is it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"Kanna... doesn't really understand..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"...There's... nothing to speak about..."
+##
+
+{Sara}
+#Message#
+\."Please, Kanna! Anything!
+ Give me information...!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\.".........."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed, wet skirt / cara3-8]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I'm sorry..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh...! We don't have time!)
+##
+

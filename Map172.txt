@@ -1,0 +1,802 @@
+=====Map172===== (★Sou End: Room of Rubble)
+
+**********Event1********** (sousi) (5,3)
+-----Page1-----
+{Sara}
+#Message#
+\."Sou!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Sou's body is limp.
+##
+
+{Sara}
+#Message#
+\."...No...!!"
+##
+
+#Message#
+\."You can't!!
+ Even after you got your collar off...?!"
+##
+
+#Message#
+\."You said you wouldn't let the kidnappers
+ do what they wanted, right?!"
+##
+
+#Message#
+\."Please... please, respond...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I keep shaking him, but he isn't moving a muscle.
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[3]...He's not breathing.
+##
+
+{Sara}
+#Message#
+\."...No..."
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Sou has already... expired.
+##
+
+{Sara}
+#Message#
+\.\sp[10]"...Aaa... aa... h..."
+##
+
+#Message#
+\."Waaaaaaaaaaaaaaahhhh...!!"
+##
+
+#Message#
+\.\C[4](Even... Sou...)
+##
+
+#Message#
+\.\C[4](Everyone just keeps dying...)
+##
+
+#Message#
+\.\C[4](Whatever I do, as much as I struggle...)
+##
+
+#Message#
+\.\C[4](It was all meaningless...)
+##
+
+#Message#
+\.\C[4](I'm powerless...)
+##
+
+#Message#
+\.\C[4](I can't...)
+##
+
+#Message#
+\.\sp[15]\C[10](Stand up... anymore...)
+##
+
+{N/A}
+#Message#
+\C[3]Zz...\. zzt...\.\.\.      zzzt...\.  zz...
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]I hear a noise from the monitor.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Why is this on, I wonder...)
+##
+
+#Message#
+\.\C[4](No, that doesn't matter...
+ I don't want to think anymore...)
+##
+
+#Message#
+\.\C[4](Nothing is going to change now.
+ My actions can't affect anything...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Everyone is dying...
+##
+
+#Message#
+\.\C[3]Just like Sou here...
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]Something's off...
+##
+
+#Message#
+\.\C[3]Why is Sou in this position?
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't tell me, Sou was...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Trying... to use this machine?)
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Looking closely at the keyboard by his hands,
+there were bloodstains from him using it.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Did Sou turn on this monitor...?)
+##
+
+#Message#
+\.\C[4](But for what...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]I looked at the monitor.
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+"Huh...?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Wha...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Is this some kind of joke again...?
+##
+
+#Message#
+\.\C[3]There was a familiar face.
+##
+
+#Message#
+\.\C[3]The face of my best friend, who I always saw at school.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...Joe..."
+##
+
+{Joe}
+#Message#
+\."Is that... Sara?
+ What's goin' on with me...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Inconceivable...
+##
+
+#Message#
+\.\C[3]It's another hallucination.
+I've finally broken down.
+##
+
+#Message#
+\.\C[3]Because there shouldn't be an AI of Joe...
+##
+
+#Message#
+\.\C[3]But that doesn't matter to me right now.
+##
+
+{Sara}
+#Message#
+\."Joe...!! Is that you, Joe?!"
+##
+
+{Joe}
+#Message#
+\."Huh? Yeah..."
+##
+
+{Sara}
+#Message#
+\."I...! I...!!"
+##
+
+{Joe}
+#Message#
+\."Sara...?"
+##
+
+#Message#
+\."Sara?
+ What're you crying for?"
+##
+
+{Sara}
+#Message#
+\."I...!!"
+##
+
+#Message#
+\."I couldn't do anything!!"
+##
+
+#Message#
+\."I killed you...!!"
+##
+
+#Message#
+\."Even though you were my best friend...!!"
+##
+
+{Joe}
+#Message#
+\."Sara...?"
+##
+
+{Sara}
+#Message#
+\."But... but still..."
+##
+
+#Message#
+\."I vowed to everyone that we would escape together..."
+##
+
+{Joe}
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."And yet they've... they've kept dying!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\."Professor Mishima, and Kai, and Alice,
+ and Nao, and Sou...!!"
+##
+
+<Else>
+
+#Message#
+\."Professor Mishima, and Kai, and Reko,
+ and Nao, and Sou...!!"
+##
+
+<Condition End>
+
+#Message#
+\."I can't protect anyone!! I can't save anyone!!"
+##
+
+#Message#
+\."I can't do anything...!!"
+##
+
+#Message#
+\.\sp[15]"My heart... has buckled under..."
+##
+
+{Joe}
+#Message#
+"..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."Get a hold of yourself, Sara."
+##
+
+{Sara}
+#Message#
+\."...Joe..."
+##
+
+{Joe}
+#Message#
+\."When'd you become such a whiner?"
+##
+
+{Sara}
+#Message#
+\."I-I mean...!"
+##
+
+{Joe}
+{SE: Accent21-1}
+#Message#
+\."Those tears don't suit ya, Sara."
+##
+
+{Sara}
+#Message#
+\."W... why..."
+##
+
+#Message#
+\."You're so cold... Joe..."
+##
+
+{Joe}
+#Message#
+\."..."
+##
+
+#Message#
+\."...You know..."
+##
+
+#Message#
+\."We were hanging out all the time
+ before we even knew it, huh?"
+##
+
+#Message#
+\."Having stupid talks on summer break, buying junk food
+ after school, getting Ryoko laughing at us..."
+##
+
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."And when my grades tanked, you were the one
+ freaking out, Sara! Never asked to go studying."
+##
+
+#Message#
+\."Oh, and I remember all those
+ dumb requests you made me sing at karaoke!
+ I sang with all I had, so you were cracking up!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Joe}
+#Message#
+\."..."
+##
+
+#Message#
+\."Every day was super fun, man."
+##
+
+#Message#
+\."And when bad stuff happened and it wasn't fun,
+ you were there talking to me."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Joe}
+#Message#
+\."Sara."
+##
+
+#Message#
+\."I feel nothin' but gratitude for ya."
+##
+
+{Sara}
+#Message#
+\."...Grati... tude...?"
+##
+
+{Joe}
+#Message#
+\."I dunno about all this betrayal or dyin'...
+ Don't have any memory of that part..."
+##
+
+#Message#
+\."But I know this."
+##
+
+#Message#
+\."You'll always make choices I can trust, Sara."
+##
+
+{Sara}
+#Message#
+\."...Joe..."
+##
+
+{Joe}
+#Message#
+\."Were you thinking I hated you or something?"
+##
+
+#Message#
+\."Don't put me down, Sara!
+ I'm not that self-righteous a guy!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Joe}
+#Message#
+\."Heheh..."
+##
+
+#Message#
+\."So don't cry anymore, Sara."
+##
+
+{Sara}
+#Message#
+\.\sp[12]"..."
+##
+
+#Message#
+\.\sp[12]"...Aah..."
+##
+
+#Message#
+\.\sp[12]"S... So cheeky..."
+##
+
+#Message#
+\.\sp[15]"When you're... Joe, of all people..."
+##
+
+{Joe}
+#Message#
+\."..."
+##
+
+#Message#
+\."...Sara."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Believe in yourself."
+##
+
+#Message#
+\."I'll always follow ya."
+##
+
+#Message#
+\."Y'know... like a dog!"
+##
+
+{Sara}
+#Message#
+\.\sp[8]"..."
+##
+
+#Message#
+\.\sp[10]"...Ha... haha..."
+##
+
+{Joe}
+#Message#
+\."..."
+##
+
+#Message#
+\."Ahh, that's right..."
+##
+
+#Message#
+\."Guess I should say, uh..."
+##
+
+#Message#
+\."Well,\. it's hard for a guy and a girl
+ to say this sorta stuff to each other,\. but..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...I love ya, Sara.
+\! You're my best friend!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."...I always wanted to say that, too."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Joe... you're my best friend."
+##
+
+{Joe}
+#Message#
+\."Heheh..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."I won't cry anymore..."
+##
+
+#Message#
+\."I won't lose..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Please, always watch me from close by...!"
+##
+
+{Joe}
+#Message#
+\."Yeah...!"
+##
+
+{Sara}
+#Message#
+\."Thank you... Joe..."
+##
+
+#Message#
+\."And also..."
+##
+
+#Message#
+\."Sou..."
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](It was always clinging to me...)
+##
+
+#Message#
+\.\C[4](This false hallucination I created.)
+##
+
+#Message#
+\.\C[4](But now...)
+##
+
+#Message#
+\.\C[4](I won't look at it anymore...)
+##
+
+#Message#
+\.\C[4](I'll move forward...!)
+##
+
+#Message#
+\.\C[4](And I'll end this Death Game!!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Sara!"
+##
+
+<Else>
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Sara...!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."...I'm okay now."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+\."Big sis Sara!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, eyes clearing up / cara4-14]
+#Message#
+\."That look on yer face..."
+##
+
+{Sara}
+#Message#
+\."Listen to me, everyone."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."We aren't going to kill each other anymore."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."...!"
+##
+
+{Sara}
+#Message#
+\."They won't make us do that ever again...!"
+##
+
+#Message#
+\."I'm going to end the Death Game...!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Wahaha..."
+##
+
+[Keiji: Turned to side tousling hair, slight smile / cara2-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm on board. No matter how tricky our opponent..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."I'm gonna fight too!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Yeah, that's right!!
+ I'll avenge Nao and Alice...!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."I shall avenge Reko and Nao...!!"
+##
+
+<Condition End>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."I... don't want anyone to die either!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'll make them learn Sou's regret, meow!!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I won't submit anymore.
+##
+
+#Message#
+\.\C[3]Everyone is prepared.
+##
+
+#Message#
+\.\C[3]We won't lose our way.
+##
+
+{Sara}
+#Message#
+\."Let's claim our future...!!"
+##
+
+{N/A}
+#Message#
+\.Your Turn To Die:\.\. Chapter 2\| End
+##
+
+{???}
+#Message#
+\."Ahahaha..."
+##
+
+[Sara's Father: Brown suit, face in shadow / cara17-5]
+{SE: Accent28-1}
+#Message#
+\."You're doing well, Sara."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."You're..."
+##
+
+{???} [Sara's Father: Brown suit, hat in hand / cara17-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Your father's glad you've survived..."
+##
+
+[Sara's Father: Brown suit, eyes closed smile / cara17-6]
+#Message#
+\."Now, let's begin, shall we?"
+##
+
+#Message#
+\.\sp[12]"...The final Death Game."
+##
+
+{N/A}
+#Message#
+To be continued in the Final Chapter\.\.
+##
+

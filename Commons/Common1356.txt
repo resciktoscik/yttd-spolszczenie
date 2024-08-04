@@ -1,0 +1,118 @@
+**********Common1356********** (呼・くらえロッカー)
+{N/A}
+#Message#
+\C[3]You can touch!
+##
+
+#Message#
+\C[3]The light is red, and it won't open.
+##
+
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Choice#
+Put held item inside
+Cancel
+##
+
+<持ってる物を入れる>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Message#
+\C[3]The light is green.
+##
+
+#Message#
+\C[3]The light is red, and it won't open.
+##
+
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Choice#
+Put held item inside
+Cancel
+##
+
+<持ってる物を入れる>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Message#
+\C[3]The light is green.
+##
+
+#Message#
+\C[3]The light is red, and it won't open.
+##
+
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Choice#
+Put held item inside
+Cancel
+##
+
+<持ってる物を入れる>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Message#
+\C[3]The light is green.
+##
+
+#Message#
+\C[3]The light is red, and it won't open.
+##
+
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Choice#
+Put held item inside
+Cancel
+##
+
+<持ってる物を入れる>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Message#
+\C[3]The light is green.
+##
+

@@ -1,0 +1,18 @@
+**********Common1467********** (⑤カンナB選択２)
+{N/A}
+#Message#
+"Please, Kurumada...!
+ Help me to catch \N[4]!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

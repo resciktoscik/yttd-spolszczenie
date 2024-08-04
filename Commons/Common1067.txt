@@ -1,0 +1,27 @@
+**********Common1067********** (墓地へ移動)
+{N/A}
+{SE: asioto1}
+#Message#
+\C[3]We ran as fast as we could.
+##
+
+#Message#
+\.\C[3]Nearly tripping over ourselves,
+we headed for the cemetery where Q-taro was.
+##
+
+#Message#
+\.\C[3]A large knife stabbed into his back.
+##
+
+#Message#
+\.\C[3]The blood pouring out was burned into my mind.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](It's okay...!
+ If anyone can survive that... it's Q-taro...!!)
+##
+

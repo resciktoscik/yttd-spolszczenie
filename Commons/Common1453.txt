@@ -1,0 +1,20 @@
+**********Common1453********** (★５F探索後)
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."...!!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Feh... It's a police box?"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+#Message#
+\."Kind of makes my heart pound to visit here..."
+##
+
+<Condition End>
+

@@ -1,0 +1,747 @@
+**********Common354********** (カンナとソウイベント①)
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+{SE: Accent28-1}
+#Message#
+\."E-Err... Could all of you focus on attractions...
+ while I search for Sou...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Kanna...!"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]Kanna looked directly into my eyes.
+##
+
+{Kanna}
+#Message#
+\."It's natural for you to hate Kanna... but...
+ She'll at least keep an eye on Sou..."
+##
+
+#Message#
+\."...Please believe her..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."No way, Kanna!!
+ Don't you go near that guy on your own!!"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."It's... my responsibility..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna... was working with Sou...)
+##
+
+#Message#
+\.\C[4](No, or maybe she was just being used...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Do what you want
+I'm going with you
+##
+
+<勝手にすればいい>
+
+{Sara} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"...Fine..."
+##
+
+{SE: shock1}
+#Message#
+\C[10]"...Do whatever you want..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."S... Sara!!"
+##
+
+{Sara}
+#Message#
+\."Whatever you do, Kanna..."
+##
+
+#Message#
+\.\C[10]"It has... nothing to do with me."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\.".........."
+##
+
+<私も一緒に行く>
+
+{Sara} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...No. I'm going with you."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"If it's only Kanna...
+ She'll just be used by Sou again."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."H... Hey! Putting it like that ain't...!"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."You won't... trust me...?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\.\{"Stop this, you guys!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Huh...?"
+##
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."All this tension is just what the kidnappers want!
+ Are you dumb or what?!"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."Looking at you... It's like sisters quarreling...
+ I hate it!!"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\.".........."
+##
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Just reconcile, if only in appearance!!"
+##
+
+#Message#
+\."The feelings...\.\. can be appended after the fact!!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](Reconcile...?)
+##
+
+[Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Reconcile
+Superficially reconcile
+##
+
+<仲直りする>
+
+{Sara} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\.\C[4](What...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](What am I even doing...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]No one's done anything wrong here.
+##
+
+#Message#
+\.\C[3]It's like I'm pinning the reasons
+for Joe's death onto Kanna and Sou.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I..."
+##
+
+#Message#
+\."I lost my calm..."
+##
+
+#Message#
+\."We're all victims here, forced to vote...
+ ...Losing people dear to us."
+##
+
+#Message#
+\."Joe's fate... couldn't be changed
+ as soon as he drew the \C[10]Sacrifice card\C[0]."
+##
+
+#Message#
+\."It's... not Kanna's fault."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I'm sorry, Kanna.
+ Can we... be friends again?"
+##
+
+<形だけでも仲直りする>
+
+{Sara} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\.\C[4](Why...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Why... am I being so hateful toward Kanna?)
+##
+
+{N/A}
+#Message#
+\.\C[3]No one's done anything wrong here.
+##
+
+#Message#
+\.\C[3]It's like I'm pinning the reasons
+for Joe's death onto Kanna and Sou.
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."...I..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I lost a dear friend..."
+##
+
+#Message#
+\."But, Kanna... You lost your sister..."
+##
+
+#Message#
+\."We're all victims here, forced to vote...
+ I know we shouldn't hate each other..."
+##
+
+#Message#
+\."And I know... Joe's fate was decided
+ as soon as he drew the \C[10]Sacrifice card\C[0]."
+##
+
+#Message#
+\."But..."
+##
+
+#Message#
+\."It takes time... to get over feelings..."
+##
+
+#Message#
+\."So... While I can't get
+ the splinters out of my heart yet..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Kanna, even if it's only superficial...
+ Can we reconcile?"
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Arms crossed, angry shout with tears / cara3-6]
+{SE: sceneswitch2}
+#Message#
+\."Sara...!"
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."...Well said, Sara."
+##
+
+[Reko: Default / cara6-1]
+#Message#
+\."And what really pisses me off is Mr. Beanie."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."You just got used by him too, right Kanna?
+ Don't feel so responsible, alright?"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\.".........."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent28-1}
+#Message#
+\."...That's wrong."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kanna... tipped the scales...!"
+##
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+#Message#
+\."The scales...?"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Kai said he had contact with the kidnappers..."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."But... He drew the \C[3]Sage card\C[0],
+ and became the victim..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."I'm sure that means...
+ he didn't know all the details of the Main Game."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."But... Sou..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."He \C[2]did know things\C[0] about the Main Game...!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."What...?"
+##
+
+{Kanna}
+#Message#
+\."I was taking a break with Sou before the Main Game."
+##
+
+#Message#
+\."Then... I found a glowing card
+ behind the sliding door in the bar..."
+##
+
+#Message#
+\."What's this...?"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."\C[10]Sacrifice\C[0]...?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: horror_piano chord3}
+#Message#
+\."You ought to toss that."
+##
+
+{Kanna}
+#Message#
+\."A... Ahh... This is... um...!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."If someone finds out you have the card, you die...
+\! ...Did it say something like that?"
+##
+
+{Kanna}
+#Message#
+\."...!!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."Relax. That's a dummy rule."
+##
+
+{Kanna}
+#Message#
+\."What...?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Seems the kidnappers want to distribute
+ one of those cards to each person."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...Anyway, that's a dangerous card.
+ Trust me and hand it over, okay...?"
+##
+
+{Kanna}
+#Message#
+\."I gave Sou the \C[10]Sacrifice card\C[0]..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."And Sou... gave me a \C[4]Commoner\C[0] card..."
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+\."He let me know about the Main Game
+ that was going to happen..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And... about a strategy to survive...!"
+##
+
+#Message#
+\."Everything was the way Sou explained it...
+ That's why... that's why Kanna..."
+##
+
+{SE: shock1}
+#Message#
+\."Thought that instead of Kai...
+ Sou should be left alive...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](Is that... what happened?)
+##
+
+#Message#
+\.\C[4](So Kanna... wasn't necessarily
+ just being used by Sou...)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."A dummy rule... Can't prove it, though."
+##
+
+{Sara}
+#Message#
+\."...No, hold on."
+##
+
+#Message#
+\."In that secret room where Kai's laptop was..."
+##
+
+#Message#
+\."While Sou was still knocked out
+ after being attacked by Nao..."
+##
+
+#Message#
+\."I saw a card under the desk."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Yes... It was the \C[10]Sacrifice card\C[0]!"
+##
+
+#Message#
+\."If that was Sou's card,
+ it's strange that he didn't die from me seeing it..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."In short... It really is a dummy rule!"
+##
+
+#Message#
+\."I didn't see what card it was..."
+##
+
+#Message#
+\."But if that was Sou's \C[10]Sacrifice card\C[0]...
+ It's strange that he didn't die from me finding it."
+##
+
+{SE: Accent28-1}
+#Message#
+\."In short... It really is a dummy rule!"
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+\."Meow...? That's kind of strange, woof..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."'Cause that loner \C[2]got knocked out\C[0]
+ \C[2]before\C[0] the loner and bucket girl rested, meow!"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Isn't the order weird, woof?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."B... Bucket girl..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What was the order of
+ them obtaining the \C[10]Sacrifice card\C[4]...?)
+##
+
+#Choice#
+Kanna got it first
+Sou got it first
+Keiji, what do you think?
+##
+
+<カンナが先に手にした>
+
+{Sara} [Kanna: Default look / cara3-10]
+#Message#
+\.\C[4](No... That's wrong.)
+##
+
+#Message#
+\.\C[4](Gin has it right. Sou was knocked out
+ \C[2]before\C[4] Kanna handed over the \C[10]Sacrifice card\C[4].)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Just maybe..."
+##
+
+#Message#
+\."First, Sou was attacked
+ in the hidden room and fainted."
+##
+
+#Message#
+\."Later, he picked up the \C[10]Sacrifice card\C[0]
+ and a \C[4]Commoner card\C[0], then rested."
+##
+
+#Message#
+\."He placed the \C[10]Sacrifice card\C[0]
+ somewhere where Kanna would find it..."
+##
+
+#Message#
+\."And when Kanna picked it up..."
+##
+
+#Message#
+\."Sou offered to trade it for a \C[4]Commoner card\C[0]..."
+##
+
+#Message#
+\."...As if to put her in his debt."
+##
+
+<ソウが先に手にした>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\.\C[4](...!)
+##
+
+#Message#
+\.\C[4](Just maybe...!)
+##
+
+#Message#
+\.\C[4](This is just a theory, supposing that card
+ I didn't inspect was the \C[10]Sacrifice card\C[4], but...)
+##
+
+#Message#
+\."First, Sou was attacked
+ in the hidden room and fainted."
+##
+
+#Message#
+\."Afterward, he got the \C[10]Sacrifice card\C[0]
+ and \C[4]Commoner card\C[0], then rested."
+##
+
+#Message#
+\."He purposefully placed the \C[10]Sacrifice card\C[0]
+ for Kanna to find..."
+##
+
+#Message#
+\."And when Kanna took it..."
+##
+
+#Message#
+\."Sou offered a trade for the \C[4]Commoner card\C[0]..."
+##
+
+#Message#
+\."As if to put her in his debt...!"
+##
+
+<ケイジさん　どう思いますか？>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Just maybe..."
+##
+
+#Message#
+\."First, Sou was attacked
+ in the hidden room and fainted."
+##
+
+#Message#
+\."Later, he picked up the \C[10]Sacrifice card\C[0]
+ and a \C[4]Commoner card\C[0], then rested."
+##
+
+#Message#
+\."He placed the \C[10]Sacrifice card\C[0]
+ somewhere where Kanna would find it..."
+##
+
+#Message#
+\."And when Kanna picked it up..."
+##
+
+#Message#
+\."Sou offered to trade it for a \C[4]Commoner card\C[0]..."
+##
+
+#Message#
+\."...As if to put her in his debt."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."That can't be...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Sure enough, the damn beanie guy
+ was just completely using Kanna!!"
+##
+
+{Sara}
+#Message#
+\."That's not the only thing..."
+##
+
+#Message#
+\."The \C[10]Sacrifice card\C[0] ultimately ended up with Joe."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: shock1}
+#Message#
+\."Meaning... maybe he purposefully had Joe pick it up."
+##
+

@@ -1,0 +1,138 @@
+**********Common1631********** (3rdﾒｲﾝ　議題②)
+{Q-taro}
+#Message#
+"We oughta think about
+ how we can differentiate the coffins...!"
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+"Alright...! Let's observe!"
+##
+
+{Sara}
+#Message#
+\C[4](So he says, but...)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+"They all look pretty much the same..."
+##
+
+<Else>
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+"There's hardly any differences in appearance."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](The only one we can identify is \C[2]Anzu's coffin\C[4].)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That means there's only
+ a one in eight chance that we hit \N[4]."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Don't forget we could hit Gin too!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."There's also the possibility we hit Gin...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent42-1}
+#Message#
+\."And the same odds that we hit Gin..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Meowww?!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."That's a problem, woof!!
+ I can't die like this, woof!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Right, but what difference in appearance is there?!)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."There's gotta be something, right...?!
+ Like a way to \C[2]see things the eye can't see\C[0]...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Is there not something?!
+ Some way to \C[2]see things the eye cannot\C[0]...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent21-1}
+#Message#
+\."...Can you think of anything, miss Sara?
+ A way to \C[2]see what the eye can't see\C[0]..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Let me think about it...)
+##
+

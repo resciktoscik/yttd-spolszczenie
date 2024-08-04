@@ -1,0 +1,149 @@
+**********Common568********** (●かくれんぼ)
+#Message#
+\C[3]Now's not the time for attractions.
+##
+
+#Message#
+\C[3]I've already cleared this attraction.
+##
+
+{N/A}
+#Message#
+\C[3][Hide and Seek]
+Participants: 2
+Clear Chip Reward: ★★
+Difficulty: Normal
+##
+
+#Message#
+\.\C[3]While hiding from the wicked dolls,
+pull 3 levers until they reach max energy to win.
+##
+
+#Choice#
+Select partner
+Cancel
+##
+
+<相棒を選ぶ>
+
+#Choice#
+Keiji
+Kanna
+Alice
+Cancel
+##
+
+<ケイジ>
+
+{N/A} [Keiji: Default smile / cara2-1]
+#Message#
+\.Keiji Shinogi
+As Keiji, energy will not decrease over time.
+
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Keiji
+Reselect
+##
+
+<ケイジを相棒にする>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Okie-dokie.
+ Tailing and stakeouts are a policeman's job."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<カンナ>
+
+{Keiji} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\.Kanna Kizuchi
+As Kanna, rate of energy-filling increases.
+
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Kanna
+Reselect
+##
+
+<カンナを相棒にする>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.".........."
+##
+
+<選びなおす>
+
+<Choice End>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\.Kanna Kizuchi
+As Kanna, rate of energy-filling increases.
+
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Kanna
+Reselect
+##
+
+<カンナを相棒にする>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."I've never done serious hide and seek before...
+ I'll do my best...!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<アリス>
+
+{Kanna} [Alice: Default glare / cara11-1]
+#Message#
+\.Alice Yabusame
+As Alice, your prisoner intuition warns you
+1 second before the enemy turns around.
+Difficulty: Easy
+##
+
+#Choice#
+Partner with Alice
+Reselect
+##
+
+<アリスを相棒にする>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... Avoiding jailers' eyes is my forte...
+ Rejoice, Sara Chidouin."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

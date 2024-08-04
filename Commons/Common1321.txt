@@ -1,0 +1,740 @@
+**********Common1321********** (①過去正解の解答)
+{Keiji}
+#Message#
+\C[4](Bandages were wrapped around Q-taro's head.)
+##
+
+#Message#
+\.\C[4](He said he lost most of his eyesight...
+ But why can't he remember being treated?)
+##
+
+#Message#
+\C[4](Q-taro's face...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember your own face some more?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Now that's a weird question. But lessee..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Come to think, somethin' was different...
+ Now what was it..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Back then, I had..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"Bandages...!
+ There were bandages wrapped 'round my head!!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"That ain't right...!
+ Was it not just my leg that got injured?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."Was your head... injured too...?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Nah..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."My eyes..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."I lost nearly all my eyesight then...!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."...!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."W-What's goin' on here?
+ If that's true, why can I see now...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Maybe your treatment or surgeries went well?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Then why've I got no memory of that...?!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."If they were erased, that's quite a mystery..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."I wanna remember quick... Everything..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\C[4](Apparently the weather was really bad that day.)
+##
+
+#Message#
+\.\C[4](Yet there was someone she wanted to meet regardless...
+ And it's rare for Reko to care that much about a man.)
+##
+
+#Message#
+\C[4](The weather outside...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."The weather, huh? Wonder if that's something..."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Uhh..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Come to think of it... yeah, that ain't it."
+##
+
+{SE: sceneswitch2}
+#Message#
+"The weather that day was real awful."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+"Think I said somethin' like
+ "whether it rains or snows, meet with me!"..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Wonder why... Know it's weird for me to say,
+ but I ain't one to show that kinda concern for a man."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Must've been pretty important...
+ Shit, what the hell happened?"
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\."It's alright. Let's take it one step at a time..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Right... Countin' on ya, Sara."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+\C[4](Sou was wearing a scarf.)
+##
+
+#Message#
+\.\C[4](But it wasn't always Sou's, apparently.
+ A hand-me-down...?)
+##
+
+#Message#
+\C[4](Sou's appearance...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Sou... Could you remember yourself a little more?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...All right."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.".........."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Come to think of it...
+ There's something I forgot to mention."
+##
+
+{SE: sceneswitch2}
+#Message#
+"\N[4]'s scarf...
+ I had somehow come to wear it myself."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+"I wonder why? I don't want to admit it, but..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+{SE: Accent21-1}
+#Message#
+\."When he suddenly went away... maybe I felt lonely?"
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Of course, at the time, I had no idea
+ the sort of things he was plotting..."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.".........."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](Gin apparently went to school
+ in the same outfit he's wearing now.)
+##
+
+#Message#
+\.\C[4](It's not a problem now, but he used to be
+ unable to go out unless he was wearing it...)
+##
+
+#Message#
+\C[4](Gin's outfit...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Gin... Could you remember yourself a little more?"
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Of course, meow! I mean, when it's myself..."
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\.".........."
+##
+
+[Gin: Looking up, sad / cara9-12]
+#Message#
+\."Big sis Sara... Sorry, woof. I lied, meow..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"Back then...
+ I was wearing the same outfit I am now, woof..."
+##
+
+{Sara} [Sara: Surprise / cara0-16]
+#Message#
+"Why are you apologizing? Sure, it's uncommon
+ to go to school in an outfit like that, but..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."...Um..."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm okay now, but I used to not be able
+ to go out if I wasn't wearing this, meow..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."..."
+##
+
+#Choice#
+Don't ask reason
+Why's that?
+Must've been cold
+##
+
+<理由は聞かない>
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+{SE: Accent21-1}
+#Message#
+"I see... Well, nothing wrong with that."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I-It's not weird, woof...?"
+##
+
+{Sara} [Sara: Hands on hips, wink / cara0-21]
+#Message#
+\."Nah. You're good where it counts, Gin."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."R-Really, meow?! I'm cool, woof?"
+##
+
+{Sara} [Sara: Hands on hips, closed-eyes smile / cara0-18]
+#Message#
+\."Of course! You've saved us time and again, Gin."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."I'll try even harder to save
+ big sis Sara and everyone else, meow!"
+##
+
+<どうしてだ？>
+
+{Sara} [Sara: Serious look / cara0-31]
+{SE: Accent21-1}
+#Message#
+"Why's that...?"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Because..."
+##
+
+#Message#
+\.".........."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."You don't want to say...?"
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+{SE: Accent21-1}
+#Message#
+\."Sorry, meow... I know I decided
+ not to keep secrets from you, big sis Sara..."
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."You can tell me anytime if you want to, Gin.
+ No matter what it is, it won't make me hate you."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Big sis Sara..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+\."Meowww! I love you, big sis Sara!
+ That's definitely the truth, woof!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara} [Sara: Hands on hips, wink / cara0-21]
+{SE: Accent21-1}
+#Message#
+\."And the same to you, Gin."
+##
+
+<Else>
+
+{SE: Accent21-1}
+#Message#
+\."Right, I know that."
+##
+
+<Condition End>
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Yeah!!"
+##
+
+<寒いもんな>
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+{SE: Accent21-1}
+#Message#
+"Must get cold, living in a snowy place..."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Huh?! No I don't, meow!!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Is that right...?"
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."It's not about temperature... I just... um..."
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\.".........."
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+"...So you really were just cold?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."B-Big sis Sara! Don't tease me..."
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+{SE: Accent28-1}
+#Message#
+"...You can tell me when you're warmer.
+ Either your body, or your heart."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent24-1}
+#Message#
+\."...!"
+##
+
+{Sara} [Sara: Hands on hips, wink / cara0-21]
+{SE: flash-of-light-3}
+#Message#
+\."I'll be there for you anytime
+ if you want to warm up together."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{SE: Accent40-1}
+#Message#
+\."We're allies, after all."
+##
+
+<Else>
+
+<Condition End>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Big sis Sara..."
+##
+
+#Message#
+\.".........."
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Got it, meow!
+ Thanks, big sis Sara!"
+##
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](I never paid it much mind before,
+ but maybe that outfit...)
+##
+
+[Sara: Looking away / cara0-25]
+#Message#
+\.\C[4](It could be very important to knowing Gin...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Looking away / cara0-25]
+#Message#
+\C[4](This clerk had \N[4]'s face...)
+##
+
+#Message#
+\.\C[4](So did Kanna meet \N[4] here?)
+##
+
+#Message#
+\C[4](The clerk's face...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this person a little more?"
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."R-Right... Umm..."
+##
+
+[Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."Huh...?! Come to think of it, that clerk...!!"
+##
+
+{SE: sceneswitch2}
+#Message#
+"He had the same face as \N[4]...!"
+##
+
+[Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+\."What does that mean?!
+ Why was that man there...?!"
+##
+
+[Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."Has Kanna... met him before...?!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.".........."
+##
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."And also... sister..."
+##
+
+[Kanna: Upset look, horrified face, mouth closed / cara3-28]
+{SE: Accent41-1}
+#Message#
+\."How long had sister been going to that shop...?"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](Maybe they really have been preparing for this
+ for much longer than we thought...?)
+##
+
+{Kanna} [Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."*pant*... *pant*..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Calm down, Kanna... You want to rest a little?"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+\."No, I'm fine...! Let me continue!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\C[4](This high-up emblem on the wall
+ actually had an "AS" logo on it...)
+##
+
+#Message#
+\.\C[4](AS, huh...?
+ The kidnappers' organization is ASU-NARO...)
+##
+
+#Message#
+\C[4](This emblem-like design high up on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Hmph... As I recall..."
+##
+
+[Alice: Surprised face / cara11-2]
+#Message#
+\."Mm?!
+ Come to think of it..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."That's it! There was an "AS" logo
+ carved into the emblem on the wall!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."What does it mean...?! Isn't that the same logo
+ on the coffins in the cemetery?!"
+##
+
+{Sara} [Sara: Hands on hips, nervous sweat / cara0-20]
+#Message#
+\."P-Please calm down...!"
+##
+
+[Sara: Hands on hips, groan / cara0-22]
+#Message#
+\."I know how you feel...
+ But for now, focus on sorting out your memories!"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Y-Yes... you're right."
+##
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,143 @@
+**********Common1552********** (戦⑧電気受け)
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+"Oww...!!"
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent28-1}
+#Message#
+\."Alright! I've collected enough...!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Urrrgh...!!"
+##
+
+[Sara: Tired eyes, mouth open / cara0-6]
+#Message#
+\.\SP[15]"No... more..."
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Waah...!!"
+##
+
+[Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\.\SP[15]"I'm... sor... ry..."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Ugh...!!"
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.\SP[15]"Vision's... going black..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"Hoooh...!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\.\SP[15]"...ain't... good... My vision..."
+##
+
+{Reko} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+#Message#
+"Gaaah...!"
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\.\SP[15]"I'm at... my limit..."
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+"Gyaaaaaah!!"
+##
+
+[Alice: Confused shout, grim look / cara11-12]
+#Message#
+\.\SP[15]"I can't... stand it... any..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Meooowww!!"
+##
+
+#Message#
+\.\SP[15]"...Mya...? It's going... dark..."
+##
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+#Message#
+"Nnh...!!"
+##
+
+[Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\.\SP[15]"I can't... do this..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, clenched teeth / cara95-27]
+#Message#
+"Nngh...!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\.\SP[15]"No good... I'm in... no state to..."
+##
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+#Message#
+"Yaaah!!"
+##
+
+[Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\.\SP[15]"No... can't... stand it any..."
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+"Hygaah!!"
+##
+
+[Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\.\SP[15]"...done... for..."
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+"Guh...!!"
+##
+
+[Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+\.\SP[15]"Sor... ry... I..."
+##
+

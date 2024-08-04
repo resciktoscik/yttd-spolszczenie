@@ -1,0 +1,128 @@
+**********Common239********** (2nd　議題)
+{Keiji}
+#Message#
+"...Alright, let's not be hasty.
+ Anyone wants to confess their role, go ahead..."
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Okie-dokie. If anyone wants to confess the role
+ on their card, let's go in order."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"I have... nothing to say..."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."K-Kanna..."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"I have little to say myself.
+ You are free to imagine what you wish."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"*sigh*... I'm the \C[2]Keymaster\C[0].
+ I'm the one who's been saying it from the start."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Honestly? This beanie sack of shit can't be trusted!
+ Makes my blood run cold!"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Hmph... I'll believe in Sou.
+ And whoever tries to protect him is the \C[3]Sage\C[0]...
+ That's where we ought to aim."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Why aim for the \C[3]Sage\C[0], woof?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The \C[3]Sage\C[0] can divine, but if they're outed, it's over.
+\! Like, "oh, if that's the Sage, I can vote for 'em!""
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."So the \C[3]Sage\C[0] can't confess? Meaww..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+"Hey, yeah! If Kanna really wants to die,
+ wouldn't she say "I'm the \C[3]Sage\C[0]"...?!"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Also... the \C[10]Sacrifice\C[0] gets to vote twice, right...?
+ Is the \C[10]Sacrifice\C[0] someone who received two votes...?"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."This is hard, meow...
+ Don't want a massacre, woof..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Joe, you're not talking... What's your role?"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+"H-Huh...? Who cares..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Okay then...
+ And Sara, you're the \C[2]Keymaster\C[0]?"
+##
+
+{Sara}
+#Message#
+\."Yes...!"
+##
+
+{Keiji}
+#Message#
+\."Okay, that's all our statements.
+ Let's give this some real focus, everybody."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Oh yeah, Sara. If you want to review the rules,
+ ask me anytime. ...Though we don't have much time."
+##
+

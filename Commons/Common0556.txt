@@ -1,0 +1,369 @@
+**********Common556********** (ﾚｺ「人間の証明」)
+{Reko}
+#Message#
+"What's important to me is music! I've even kicked
+ members in the face. That's just how serious I am!!"
+##
+
+#Message#
+"If I looked into the victim of Alice's murder,
+ I'd have to admit it as reality... So I didn't."
+##
+
+#Message#
+"I remember everything! Mishima's death, Nao's shock,
+ Joe and Kai's last moments in the Main Game..."
+##
+
+#Message#
+"How's that?! I just sang my hit concert song...
+ \rb[Sa,3]\rb[mu,6-]\rb[rai,Rai] \rb[On,ON-]\rb[na,7]!!"
+##
+
+#Message#
+"I'll prove that I'm a human, alright?!
+ What do you want?! I'll do anything!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"What part of that is proof?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"What part of that is proof?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"What part of that is proof?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Tell me something a machine or doll
+ definitely couldn't do!"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."And I'll do it with ease!!
+ I'll open your eyes, Sara!"
+##
+
+{Sara}
+#Message#
+\."Understood.
+ Let me make a request..."
+##
+
+#Choice#
+Ask what she values
+Question about her brother
+Ask about her memories
+Have her sing a song
+##
+
+<大切なものについて聞く>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+\."I want to know what you value most!"
+##
+
+{Reko}
+#Message#
+\."What I... value?"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."...Can I be honest?"
+##
+
+{Sara}
+#Message#
+\."Yes...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Well... music."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."I've tossed aside a lot for it."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I've cut off people who dragged me down...
+ Made crying and apologizing band members
+ get a taste of my boot..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."That's just how serious I was!
+ For music alone... I have no regrets!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](She's looking right at me...!
+ I can't see her as lying at all!!)
+##
+
+<兄についての質問をする>
+
+{Sara} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: Accent28-1}
+#Message#
+\."Your brother...
+ Tell me what kind of person Alice is to you!!"
+##
+
+{Reko}
+#Message#
+\."A-Alice...?!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Alice... ain't my brother anymore...!!
+ We're complete strangers..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I... sent him a letter saying as much,
+ while he was in prison."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."I still don't get it... Why'd Alice kill somebody...?"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent21-1}
+#Message#
+\."I couldn't even...
+ bring myself to look into who the victim was."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...Wonder why?"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+\."Maybe 'cause if I did, I'd have to recognize
+ Alice's crime as reality..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I thought he was a pretty lousy brother, but..."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I... I didn't hate him."
+##
+
+{Sara}
+#Message#
+\.\C[4](I can sense her complex emotions toward Alice...!)
+##
+
+#Message#
+\.\C[4](Is my reasoning really on the mark...?!)
+##
+
+<これまでの記憶について聞く>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+\."Your memories up to now...!
+ Please, tell me those!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Memories, huh?! Well... alright, let's see..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."I got abducted, woke up in a strange room...
+ Was made to do this First Trial crap..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Mishima died... Nao was so shocked that she
+ lost herself for a while... I remember all of it."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]And she went on telling me everything
+that had happened so far in the Death Game.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](It all lines up!
+ All but her memory of destroying the monitor...!)
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Well?! Do I gotta talk about stuff
+ even further back to satisfy you, Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](No good... There's no time for her
+ to tell me any more memories!!)
+##
+
+<歌を歌ってもらう>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+\."I want you to sing a song!!"
+##
+
+{Reko}
+#Message#
+\."A song?!
+ Okay, got it!!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: flash-of-light-3}
+#Message#
+\."Singing is my life... So open those ears!!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Her song echoes through the room.
+##
+
+#Message#
+\.\C[3]It's a song full of feeling
+that makes you body tremble when heard up close.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]In it, I sense a certain feeling...
+"I want you to believe me."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."How's that?! This is the big hit I play at concerts...
+ \rb[Sa,3]\rb[mu,6-]\rb[rai,Rai] \rb[On,ON-]\rb[na,7]!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I've never heard a song from Reko's band,
+ so I can't compare her singing with the real deal...)
+##
+
+#Message#
+\.\C[4](Even so... Could a doll perform vocals
+ so full of emotion...?!)
+##
+
+<Choice End>
+

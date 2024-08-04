@@ -1,0 +1,18 @@
+**********Common1446********** (④ヒナコB選択)
+{N/A}
+#Message#
+"There's no way to deal with this!
+ There's nothing we can do...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

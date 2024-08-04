@@ -1,0 +1,124 @@
+**********Common1758********** (３前進展㉑選べミドリ)
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](From the beginning, \N[4] has been thinking
+ that coffin didn't contain Keiji...)
+##
+
+{SE: Accent40-1}
+#Message#
+\C[4](But rather, \C[2]his collar\C[4] from the control room...)
+##
+
+#Message#
+\C[4](So he was convinced it would be \C[10]red\C[4].)
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, grin / cara19-27]
+#Message#
+\.".........."
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+{SE: Accent41-1}
+#Message#
+\."You're saying... it's all wrong...?"
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open / cara19-22]
+#Message#
+\."Then... who's in there...?"
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open in confusion / cara19-23]
+#Message#
+\."Is it Keiji...?"
+##
+
+[Midori: Gripping arm with sweat, open-mouth frown / cara19-25]
+#Message#
+\."It definitely... can't be Gin."
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+#Message#
+\."Gin... that above all would be impossible..."
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."Yes... I'm certain..."
+##
+
+[Midori: Head bowed / cara19-33]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](You have no allies to support you
+ when you're faced with a dilemma...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Because you killed them all yourself...!
+ \N[4]...!!)
+##
+
+#Message#
+\."Now... choose."
+##
+
+#Message#
+\."Decide your fate, \N[4]...!!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."...Urk..."
+##
+
+[Midori: Head bowed / cara19-33]
+#Message#
+\."Oogh... ghh..."
+##
+
+#Message#
+\."Hurrrrghghhhghghghhghhghhhhh...!!!!!!"
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+#Message#
+"Alright, I'll choose...!!"
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."Meister!! The coffin I'm picking is...!!"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent41-1}
+#Message#
+"I see... This one?"
+##
+
+{N/A}
+{SE: WON-baratto01}
+#Message#
+\.\C[3]Meister selected the coffin.
+##
+

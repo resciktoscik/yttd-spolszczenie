@@ -1,0 +1,81 @@
+**********Common245********** (ｿｳ「ボクは鍵番」)
+{Sou}
+#Message#
+"*sigh*... I'm the \C[2]Keymaster\C[0].
+ I'm the one who's been saying it from the start."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+"What about it, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Disdainful pose, smug eyes / cara5-14]
+#Message#
+"Ahaha, um... Does that actually refute anything?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+"Ahaha. You've got scary eyes, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Now might not be the time to bother with him...)
+##
+

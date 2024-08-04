@@ -1,0 +1,364 @@
+=====Map51===== (Down Ladder)
+
+**********Event25********** (gin) (7,3)
+-----Page1-----
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Gin! Are you okay?!"
+##
+
+{Gin}
+#Message#
+\.".........."
+##
+
+
+**********Event26********** (monita) (5,7)
+-----Page1-----
+#Message#
+\C[3]This appears to be a computer screen.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."I'm lousy with machines..."
+##
+
+{Sara}
+#Message#
+\."Something's written here."
+##
+
+{N/A}
+#Message#
+\.\C[3]~Birdcage Game~
+##
+
+#Message#
+\.\C[3]Free the bird (hostage) in the cage.
+##
+
+#Message#
+\.\C[3]Hold down the green switch to raise output to maximum.
+##
+
+#Message#
+\.\C[3]Don't let your guard down.
+Wicked masks will come kill those pressing the switch.
+##
+
+#Message#
+\.\C[3]Shine holy light on the masks,
+and wait for an opportunity to keep holding.
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Err... So we just have to hold down this button...
+ But if masks appear, let go and shine holy light...?"
+##
+
+#Message#
+\."Wonder what light it means."
+##
+
+{Sara}
+#Message#
+\."Ah! There's a flashlight below the machine!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Ahh, that'd be our holy light."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Picked up the Flashlight.
+##
+
+-----Page2-----
+#Message#
+\C[3]This appears to be a computer screen.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hold down the green button
+ while the masks aren't watching... Was that it?"
+##
+
+{Sara}
+#Message#
+\."And when they appear, repel them... Right."
+##
+
+
+**********Event27********** (EV027) (11,7)
+-----Page1-----
+#Message#
+\C[3]A green switch.
+##
+
+{Sara}
+#Message#
+\.\C[4](Shouldn't go carelessly touching anything else...)
+##
+
+-----Page2-----
+#Message#
+\C[3]A green switch.
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I press it...?)
+##
+
+#Choice#
+Press
+Cancel
+##
+
+<押す>
+
+{Sara}
+#Message#
+\.\C[4](What...?!)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Looks like it's starting."
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page4-----
+#Message#
+\C[3]A green switch.
+##
+
+{Sara}
+#Message#
+\.\C[4](Shouldn't go carelessly touching anything else...)
+##
+
+
+**********Event28********** (EV028) (15,4)
+-----Page1-----
+{Sara}
+#Message#
+\."Whew... Can he be freed now...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hm... The flashlight's stopped working too.
+ Oh well."
+##
+
+#Message#
+\."Gin, can you open it up and come down?"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Gin..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...I bet that was scary.
+ It's okay now."
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji picked up the trembling Gin and set him down.
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."..."
+##
+
+#Message#
+\."...Big sis Sara."
+##
+
+{N/A}
+#Message#
+\.\C[3]Gin dove into my chest.
+##
+
+{Sara}
+#Message#
+\."Gin...
+ It's okay... It's okay..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...*sniff*... *sniffle*..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Now, let's go."
+##
+
+
+**********Event29********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event30********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event31********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event33********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event45********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event46********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event47********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event48********** (EV048) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event49********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event50********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event51********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event52********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event53********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event54********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+
+
+**********Event55********** (りぼるばー) (8,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A regular flashlight that shines holy light.
+##
+

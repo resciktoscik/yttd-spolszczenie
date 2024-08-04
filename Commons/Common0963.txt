@@ -1,0 +1,297 @@
+**********Common963********** (ｿｳ用移動ｺﾏﾝﾄﾞ)
+{???}
+#Message#
+\."..."
+##
+
+{Voice}
+#Message#
+\.\C[10]"How far are you going to run...?"
+##
+
+{???}
+#Message#
+\."Run...? Me?"
+##
+
+{Voice}
+#Message#
+\.\C[10]"No one needs you. Why do you live?"
+##
+
+{???}
+#Message#
+\."..."
+##
+
+#Message#
+\."I'm astonished by everyone just refusing
+ to ever doubt that you're right."
+##
+
+{Voice}
+#Message#
+\.\C[10]"Isn't this enough?"
+##
+
+[Sara / cara0-s]
+#Message#
+\.\C[10]"Here, I'll kill you."
+##
+
+{???}
+#Message#
+\."...!"
+##
+
+#Message#
+\."Sure enough... That's your true nature..."
+##
+
+{Voice}
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"It's your turn to die... Sou."
+##
+
+{Sou}
+#Message#
+\." \{...Sara!!\} "
+##
+
+{Voice} [Kanna: Offended shout / cara3-13]
+{SE: Thunder8}
+#Message#
+\."Sou!!"
+##
+
+{Kanna}
+{SE: Accent28-1}
+#Message#
+\."Please, wake up!"
+##
+
+{Sou}
+#Message#
+\."Urgh..."
+##
+
+#Message#
+\."Kanna..."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](This is... my room...)
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Don't startle me all of a sudden...!"
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Y-You're all I have left, Sou..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+#Message#
+\."Please... don't suddenly collapse..."
+##
+
+{Sou}
+#Message#
+\.".........."
+##
+
+#Choice#
+You're right
+Sorry
+##
+
+<そうだね>
+
+{Sou} [Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: Accent28-1}
+#Message#
+\."...You're right."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."You've betrayed miss Sara twice now.
+ There's nowhere for you to go back to."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\.".........."
+##
+
+<ごめん>
+
+{Sou} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent28-1}
+#Message#
+\."...Sorry."
+##
+
+#Message#
+\."Just relax.
+ If you're obedient, I'll tell you how to survive."
+##
+
+{Kanna}
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Sou} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\."Kanna."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."Don't you betray me."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.".........."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Okay."
+##
+
+{Sou}
+#Message#
+\."Well then... Let's start our strategy meeting."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."...You too, Q-taro."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+{Sou}
+#Message#
+\."Hahaha... This is getting to be fun."
+##
+
+{N/A}
+#Message#
+"...Hey."
+##
+
+#Message#
+\."Is playing an instrument fun...?"
+##
+
+{Reko}
+{SE: Accent28-1}
+#Message#
+"What? You interested, bro?"
+##
+
+{Alice}
+#Message#
+"Watching you makes me wanna play, Reko."
+##
+
+{Reko}
+#Message#
+"You're too clumsy, bro. Doubt you even can."
+##
+
+{Alice}
+#Message#
+"So meeean!"
+##
+
+{Reko}
+#Message#
+"Ahaha! Don't whine about it!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Alright. I'll teach you."
+##
+
+{Alice}
+{SE: Onmtp-Surprise03-1}
+#Message#
+"You mean it?!"
+##
+
+{Reko}
+#Message#
+"And if you get bored of it, I'll kick your butt."
+##
+
+{Alice}
+#Message#
+"Of course I won't get bored! Heeheehee..."
+##
+
+#Message#
+\."...Hey, Reko."
+##
+
+{Reko}
+#Message#
+"Haha... What's up?"
+##
+
+{Alice}
+{SE: Accent28-1}
+#Message#
+"Someday... Let's make a band and have our debut."
+##
+
+{Reko}
+#Message#
+"...For real?"
+##
+
+{Alice}
+{SE: Accent21-1}
+#Message#
+"I'll make songs and you'll sing them!
+ Doesn't that sound wonderful?!"
+##
+
+{Reko}
+#Message#
+"Haha...!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sounds great! Don't forget it, bro!"
+##
+
+{N/A}
+#Message#
+"Don't you... ever forget."\.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

@@ -1,0 +1,241 @@
+**********Common1343********** (23、間違いどす)
+{Sara}
+#Message#
+\C[4](These figures inside the building...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Probably just customers at the other place."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Can't imagine there was anybody shady...
+ Figure they were all just regular people."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](If Reko says so... I'll believe her.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This top-right monitor on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Huh... You're curious?
+ Well, it's just a monitor..."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Using lots of monitors is handy...
+ But I couldn't handle that many in practice."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Nothing much of interest here...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This shelf with beige files on it...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think it was just filled with
+ files and stuff like I remember, meow."
+##
+
+[Gin: Smile, hands in front / cara9-5]
+#Message#
+\."I was like "they really keep this organized!", woof."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](As expected, but they sure do...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This clerk's outfit...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this person a little more?"
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."I thought it was a cute uniform!"
+##
+
+[Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Kanna wants to wear those clothes
+ and make delicious ice cream and cakes, too!"
+##
+
+{Sara} [Sara: Smug smile / cara0-29]
+#Message#
+\."I'm sure they'd suit you."
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Eheheh!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Nothing out of the ordinary here...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](These papers on the floor...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."...They were reports on my murder case."
+##
+
+#Message#
+\."I was trying to gather them using
+ my limited information network in the prison."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."I... knew not a single correct thing
+ about my own incident."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."Reko and I were targeted by that Sou Hiyori...
+ and I killed him to protect us."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."What lay at the root of it...?"
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."...Did I arrive at that truth?
+ And thus my memories had to be erased...?"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."I don't know, but..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Reko is here no longer...
+ That much... is a fact."
+##
+
+{Sara} [Sara: Hands on hips, groan / cara0-22]
+#Message#
+\.\C[4](Alice...)
+##
+
+<やめる>
+
+<Choice End>
+

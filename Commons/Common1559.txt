@@ -1,0 +1,20 @@
+**********Common1559********** (⑨サラB選択)
+{N/A}
+#Message#
+\C[4](I have to... talk to him.)
+##
+
+#Choice#
+Go with this
+Save game
+Cancel
+##
+
+<意見を採用する>
+
+<セーブをする>
+
+<やめる>
+
+<Choice End>
+

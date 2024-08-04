@@ -1,0 +1,341 @@
+=====Map68===== (Scrap②▽Passage to Bar)
+
+**********Event2********** (EV002) (0,0)
+-----Page1-----
+#Message#
+\C[3]I hear a faint sound...
+##
+
+{Keiji}
+#Message#
+\.\C[4](Is this singing...?)
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+"Meow... Mr. Policeman, woof..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."H-Hey! 'Sdangerous to act alone!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Quiet, muscle gorilla!!
+ I've got to talk to the policeman, woof!!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Talk...?)
+##
+
+#Choice#
+What's the matter?
+An incident?
+##
+
+<どうしたんだ？>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...I picked this up, woof..."
+##
+
+<事件か？>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...Umm, I picked this up, woof..."
+##
+
+<Choice End>
+
+{Keiji} [Gin: Worried / cara9-3]
+#Message#
+\.\C[4](This is...)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."That thing Joe had in his breast pocket..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."What should I do, meow...?
+ Should I give it to big sis Sara, woof?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Sure you should
+I'll give it to her
+Better if you didn't
+##
+
+<渡した方がいいねー>
+
+{Keiji} [Gin: Worried / cara9-3]
+#Message#
+"...It's important. You should give it to her."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."I-I'm scared... but okay, meow..."
+##
+
+<おまわりさんが渡すよ>
+
+{Keiji} [Gin: Horrified look / cara9-4]
+#Message#
+"A memento...
+ I'll give it to her, Gin."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Th-Thanks, meow..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Accepted the Dog Keychain.
+##
+
+<それは…見せない方が良い>
+
+{Keiji} [Gin: Worried / cara9-3]
+#Message#
+"No, don't, Gin. You can't show it to her."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."But we can't throw it away, meow...
+ I mean, it's big bro Joe's..."
+##
+
+{Keiji}
+#Message#
+\."Okay then, I'll hold onto it."
+##
+
+{Gin}
+#Message#
+\."S-Sure..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Accepted the Dog Keychain.
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."C'mon, Gin. You stay with Reko and Nao."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I don't want you ordering me around, meow!
+ Don't drag me down, woof!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Gimme a break... Guess I'll go alone.)
+##
+
+
+**********Event3********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event4********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event5********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event6********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event7********** (EV007) (1,0)
+-----Page1-----
+#Message#
+\C[3]I hear a faint sound...
+##
+
+{??}
+#Message#
+\.\C[4](Is this singing...?)
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent21-1}
+#Message#
+"Meow... You guys...!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Loner #1 and #2!! I hate you, meow!
+ Don't come near me!!"
+##
+
+{??}
+#Message#
+\."Aww... Seems I'm pretty hated now..."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."That's just... natural, isn't it...?"
+##
+
+{??}
+#Message#
+\."Natural...?"
+##
+
+{N/A}
+{SE: Paralyze2}
+#Message#
+\>\C[10]Even though I worked so hard for everyone...?\<\|\^
+##
+
+{??}
+#Message#
+\."Hmm...? I don't really get it..."
+##
+
+
+**********Event8********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event9********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event10********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event11********** (EV011) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event12********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event13********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event14********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event15********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event16********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event48********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

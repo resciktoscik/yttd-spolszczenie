@@ -1,0 +1,592 @@
+**********Common981********** (議題～不信な人は？～)
+{Keiji}
+#Message#
+"First, let's discuss to get four candidates.
+ Who should survive, and who can die..."
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Okie-dokie. Seems you're ready."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Hold up, Keiji! Unlike last time,
+ there's been a bunch of \C[2]card trades\C[0]!"
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+{SE: Accent21-1}
+#Message#
+\."If we logic it out, I'm sure we can figure out
+ who has the \C[10]Sacrifice\C[0] and \C[2]Keymaster\C[0]
+ without going around suspecting each other!"
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...If everyone speaks honestly."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: sceneswitch2}
+#Message#
+\."Would they lie...?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."At the very least, the \C[10]Sacrifice\C[0]
+ can't tell the truth, now can they?"
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."So it's fine to start with finding four candidates."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Uh-huh.
+ Because those who aren't candidates can be honest."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Yep. And also, if we prove
+ what everyone's cards are right now..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Voting... is gonna be hell..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."...!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."It'll be pure blame-throwing.
+ "That guy should die," "this guy should die"..."
+##
+
+#Message#
+\."It'll be cruel, and leave no trace
+ of any bonds we've got."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."Fine, I get it!! I'm on board, Keiji..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."And so I'm gonna say it...!
+ Sou!! You're the most suspicious in my book!!"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Huh...?"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Wait, Reko!
+ Sou contributed so much to our escape...!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."I know that!
+ But then who do I vote for...?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Eh...?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I can't possibly choose anybody else!
+ If I'm gonna vote, it's gotta be for Sou...!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."This is how I really feel!
+ Sou! Get a grip, be honest, and clear our doubts!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Seems I just don't click with
+ people who speak from emotion."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Shaddup!
+ I'm telling you, say what you're really..."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."Then I'm fine being the first candidate."
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Nwah?!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."After all, I..."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."...am the \C[10]Sacrifice\C[0]."
+##
+
+{Reko}
+#Message#
+\."H-Hwaaaaah?! Were you even listening to us?!
+ This ain't the time to say your role..."
+##
+
+<Else>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... Keiji Shinogi... Are you a fool or what?"
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Have you forgotten that unlike the first Main Game,
+ there have been many \C[2]card trades\C[0]?"
+##
+
+[Alice: Look to side, glare / cara11-14]
+{SE: Accent28-1}
+#Message#
+\."There's no need for worthless suspicion.
+ We can reason out the \C[10]Sacrifice\C[0] and \C[2]Keymaster\C[0]."
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...If everyone speaks honestly."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."For how much you talk of allies,
+ are you not being rather suspicious...?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."At the very least, the \C[10]Sacrifice\C[0]
+ can't tell the truth, now can they?"
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."So it's fine to start with finding four candidates."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Uh-huh.
+ Because those who aren't candidates can be honest."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Yep. And also, if we prove
+ what everyone's cards are right now..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Voting... is gonna be hell..."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."It'll be pure blame-throwing.
+ "That guy should die," "this guy should die"..."
+##
+
+#Message#
+\."It'll be cruel, and leave no trace
+ of any bonds we've got."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I get it."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Very well. If it'll protect your pitiful bonds,
+ then I suppose I'll go along with this."
+##
+
+[Alice: Angry shout / cara11-8]
+#Message#
+\."And thus, allow me to say...
+ Sou Hiyori!! You are the most suspicious of all!!"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Huh...?"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Please, wait! Sou has contributed so much
+ to helping us escape!"
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."...Yet it doesn't change that he can't be trusted."
+##
+
+[Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."Everything from his history on is unclear!
+ Unless you yourself speak your true colors,
+ I will continue to..."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."Then I'm fine being the first candidate."
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."...Eh? Erm..."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."After all, I..."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."...am the \C[10]Sacrifice\C[0]."
+##
+
+{Alice}
+#Message#
+\."What's that about?! Were you listening?!
+ Talking about roles is for later...!"
+##
+
+<Condition End>
+
+{Sou} [Sou: Sarcastic eyes / cara5-10]
+#Message#
+\."Was there a rule against confessing your own?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."So I see..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Sorry, Keiji. I just didn't feel comfy
+ letting you take the initiative."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."I know! I'll nominate the next suspicious person!
+ How about that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's got some no-good idea again...!)
+##
+
+#Choice#
+Agree with Sou
+Oppose Sou
+##
+
+<ソウに賛成する>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"Understood...
+ If it'll advance the discussion, go ahead."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."You're so calm, miss Sara."
+##
+
+<ソウに反対する>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+"You can't! An approach where whoever's chosen
+ nominates the next person is just...!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Huh? Are you panicking, miss Sara?"
+##
+
+{Sara}
+#Message#
+\."I'm not panicking...!"
+##
+
+<Choice End>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."I nominate Kanna."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Eh...?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."Bastard...!! Now what're you saying?!"
+##
+
+<Else>
+
+{Kanna} [Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."That's... why...?!"
+##
+
+<Condition End>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Everyone should already understand this."
+##
+
+[Sou: Looking down to side with smug smirk / cara5-16]
+{SE: horror_piano chord3}
+#Message#
+\."She's easily tricked, timid, and lacks ability.
+ What does she even have besides sympathy?"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\.".........."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."Shut the hell up!! Ain't it you who used her?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Wasn't it you who tricked and used her?!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](After using her so cruelly...
+ Is Sou trying to betray her?!)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: Accent21-1}
+#Message#
+\."...So, you're giving Kanna time to vindicate herself."
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."...Huh?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."Sure thing. Let's have a discussion
+ about \C[2]Kanna's actions\C[0] during the Death Game."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."So that we can trust her."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Kanna...
+ At first, she just holed up in Sou's room."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"They've generally acted together... Sou should be
+ the one who can prove her worth, dammit!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Kanna Kizuchi typically acted with him...
+ Only Sou Hiyori can prove her actions."
+##
+
+<Condition End>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Let's see... Kanna was dead weight the whole time.
+ What a hindrance..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Hin... drance...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Hmm... Kanna looks like
+ she's pretty shocked to hear that."
+##
+
+{Sara}
+#Message#
+\.\C[4](I couldn't blame her...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."I'm sure you understand, Sara.
+ You can \C[2]extract\C[0] statements from them."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And also... you've got a new weapon, too."
+##
+
+{Sara}
+#Message#
+\."Huh?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."You know, from when we were searching together?
+ Your shrewd detective vision..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."When someone \C[2]makes a statement\C[0]...
+ you might notice \C[2]someone else having a reaction\C[0]."
+##
+
+{Sara}
+#Message#
+\.\C[4](I can do that...?)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Now let's get to it, partner."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

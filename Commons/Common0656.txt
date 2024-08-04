@@ -1,0 +1,83 @@
+**********Common656********** (ﾚｺ「PC他の情報なし」)
+{Reko}
+#Message#
+"After Sara suddenly took off running, we stayed and
+ looked at the laptop, but there wasn't much else."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Y... You doubting me?! Sara...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Eh...?! What're you trying to say?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+"After we were done looking, we sorta split up...
+ Went searching here and there."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."I don't have a whole-ass alibi or nothin'...
+ But I ain't the culprit."
+##
+

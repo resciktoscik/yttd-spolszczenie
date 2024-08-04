@@ -1,0 +1,73 @@
+**********Common451********** (怨霊攻撃・ゲームオーバー)
+{Keiji}
+#Message#
+"Is this... it...?"
+##
+
+{Sara}
+#Message#
+\."No... no way!! Keiji...!!"
+##
+
+{Reko}
+#Message#
+"S... Stay away from me, ghosts...!!"
+##
+
+{Sara}
+#Message#
+\."R... Run, Reko...!!"
+##
+
+{Nao}
+#Message#
+"Going... limp..."
+##
+
+{Sara}
+#Message#
+\."Nao...! Don't...!!"
+##
+
+#Message#
+\."I-I can't breathe...!!"
+##
+
+{Reko}
+#Message#
+\."S... Stop!! Sara!!"
+##
+
+{Nao}
+#Message#
+\."S... Sara...! Sara!!"
+##
+
+{Keiji}
+#Message#
+\."W-Wait! At least start with me...!!"
+##
+
+{Sara}
+{SE: Battle2}
+#Message#
+"Agh...!! Is this it for me...?!"
+##
+
+{Reko}
+#Message#
+\."A... Ahh...!! I-It's o-okay, Sara!
+ D-Damn ghosts! I-I'm gonna... kick your asses...!!"
+##
+
+{Nao}
+#Message#
+\."Sara! Over here!
+ I'll photograph these ghosts now!!"
+##
+
+{Keiji}
+#Message#
+\."Okie-dokie, Sara. Time for me to serve and protect."
+##
+

@@ -1,0 +1,53 @@
+**********Common1044********** (戦①火で燃やす)
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+"*pant*...! *pant*...!
+ Kanna did it!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."You can see under the bandages now, meow!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: Accent21-1}
+#Message#
+\."I'm curious about the red thing on its chest..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Hmph... Burns well, huh?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."You can see under the bandages now, meow!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: Accent21-1}
+#Message#
+\."I'm curious about the red thing on its chest..."
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Hm, that went well..."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."You can see under the bandages now, meow!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: Accent21-1}
+#Message#
+\."I'm curious about the red thing on its chest..."
+##
+

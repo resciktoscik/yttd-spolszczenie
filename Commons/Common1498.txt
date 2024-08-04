@@ -1,0 +1,18 @@
+**********Common1498********** (⑥ヒナコB選択)
+{N/A}
+#Message#
+"Conversations are key to good communication, right?
+ I'll have a chat with her..."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

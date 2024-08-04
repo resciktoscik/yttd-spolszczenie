@@ -1,0 +1,255 @@
+=====Map47===== (②□Women's Bath)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\.\C[4](She's not here...!)
+##
+
+-----Page4-----
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Looks like it's a spa."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Our enemies offer some pretty good amenities."
+##
+
+{Sara}
+#Message#
+\."That's true. If there's hot water,
+ we could get enough moisture to live for days."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Feels like you could stay positive
+ while the whole world's ending, Sara."
+##
+
+
+**********Event3********** (sen) (3,6)
+-----Page2-----
+#Message#
+\C[3]There's something in the bottom of the bath.
+##
+
+#Message#
+\.\C[3]Obtained a Bath Stopper.
+##
+
+
+**********Event4********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event5********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event6********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event7********** (yu) (3,4)
+-----Page1-----
+#Message#
+\C[3]The spa is full of warm water.
+##
+
+#Choice#
+Fill the Bottle
+Wanna take a dip...
+Cancel
+##
+
+<ボトルにお湯を入れる>
+
+#Message#
+\C[3]It's already filled.
+##
+
+#Message#
+\C[3]Put hot water in the Bottle.
+##
+
+<入りたい>
+
+{Sara}
+#Message#
+\C[4](I must resist...! For now...! Urgh...)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event8********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event32********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event33********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event34********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event35********** (EV035) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event36********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event37********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event38********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event39********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event40********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event41********** (mukuge) (2,2)
+-----Page1-----
+#Message#
+\C[3]A statue of what looks like a penguin.
+##
+
+{Statue}
+#Message#
+\.\}\C[5]"i'm not a penguin..."
+##
+
+{N/A}
+#Message#
+\.\C[3]...?
+##
+
+
+**********Event45********** (syannpu-) (15,4)
+-----Page1-----
+#Message#
+\C[3]Despite there being no shower,
+there's shampoo and the like here.
+##
+
+
+**********Event46********** (kagami) (16,3)
+-----Page1-----
+#Message#
+\C[3]A row of mirrors.
+##
+
+
+**********Event55********** (sauna) (10,3)
+-----Page1-----
+#Message#
+\C[3]There's a small sauna in the darkness. It's not warm.
+##
+
+
+**********Event57********** (huzi) (4,1)
+-----Page1-----
+#Message#
+\C[3]An elegant painting of Mt. Fuji.
+##
+
+
+**********Event71********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

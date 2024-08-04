@@ -1,0 +1,29 @@
+**********Common301********** (全員発言　ヒント)
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Hold on...! I have all these statements!
+ Maybe items aren't necessary!)\.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](I have lots of statements...! No need for items...
+ And if I extract, I can get new statements!)\.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](I have lots of statements...! No need for items...
+ Any statements I extract must be important!
+ Even if at a glance, they're nothing...!)\.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](I have lots of statements...! No need for items...
+ Any statements I extract must be important!
+ Even if at a glance, they're nothing...!
+ Okay, let's contrast those extracted statements!)\.
+##
+

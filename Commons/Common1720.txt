@@ -1,0 +1,35 @@
+**********Common1720********** (タッチ５)
+{Q-taro}
+#Message#
+"Guessin' this was Kanna's sister who got killed
+ by the bed device in the First Trial..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Should I have him add this statement...?)
+##
+
+#Choice#
+Add
+Cancel
+##
+
+<加える>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Q-taro, please add that to your statement!"
+##
+
+{Q-taro}
+#Message#
+\."You got it!"
+##
+
+<やめる>
+
+<Choice End>
+

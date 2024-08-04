@@ -1,0 +1,518 @@
+**********Common1505********** (戦⑥その他)
+{Maple}
+{SE: Accent28-1}
+#Message#
+"Recon... cile...?"
+##
+
+{Sara} [Sara: Hands on hips, groan / cara0-22]
+#Message#
+"Yes... We're really sorry
+ for doing something so mean to you..."
+##
+
+[Sara: Disturbed / cara0-4]
+#Message#
+\."But... we simply need the ID card!
+ It's to save Keiji's life...!"
+##
+
+{Maple}
+#Message#
+"All right, Sara."
+##
+
+#Message#
+\."You'll give it back later, right?
+ I should have trusted you..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I'm glad... no one got hurt."
+##
+
+{Sara}
+#Message#
+\.\C[4](Maple...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](Good... We were able to reconcile...)
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+"Reconcile...?
+ That's right, we were arguing..."
+##
+
+#Message#
+\."No... I remember... Never forgive.
+ Never forgive you, Sara, never forgive..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's happiness disappeared.
+##
+
+{Sara}
+#Message#
+\C[4](It's no good! I guess we don't have
+ enough good will to reconcile...!)
+##
+
+{Maple}
+#Message#
+"What're you saying?! We can't reconcile!!
+ No mercy for stealing my treasure, Sara!!"
+##
+
+{N/A}
+#Message#
+\C[3]Maple's rage increased.
+##
+
+{Sara}
+#Message#
+\C[4](It's no good! I guess we don't have
+ enough good will to reconcile...!)
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+"Reconcile...? I can't... I can't...
+ I'm so sad... so betrayed... it's impossible..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness increased.
+##
+
+{Sara}
+#Message#
+\C[4](It's no good! I guess we don't have
+ enough good will to reconcile...!)
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+"Recon... cile...?"
+##
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+#Message#
+"We did something really awful to you...
+ We want to apologize... Sorry..."
+##
+
+[Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+\."But, look! We really need that ID card!
+ There's this Keiji person whose life is on the line!"
+##
+
+{Maple}
+#Message#
+"All right, Anzu."
+##
+
+#Message#
+\."You'll give it back later, right?
+ I should have trusted you..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I'm glad... no one got hurt."
+##
+
+{Anzu} [Anzu: Hood over half of face, smile / cara96-13]
+#Message#
+"...Maple..."
+##
+
+[Anzu: Smile / cara96-6]
+{SE: Accent28-1}
+#Message#
+\."Now... we're all friends again!"
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+"Reconcile...?
+ That's right, we were arguing..."
+##
+
+#Message#
+\."No... I remember... Never forgive.
+ You too, Anzu, won't forgive a friend of Sara's..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's happiness disappeared.
+##
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+"Eeeee!! We definitely aren't on good enough terms!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Run, Anzu...!)
+##
+
+{Maple}
+#Message#
+"What're you saying?! We can't reconcile!!
+ No mercy for glossing over my stolen treasure, Anzu!!"
+##
+
+{N/A}
+#Message#
+\C[3]Maple's rage increased.
+##
+
+{Anzu}
+#Message#
+"Eeeee!! We definitely aren't on good enough terms!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Run, Anzu...!)
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+"Reconcile...? I can't... I can't...
+ I'm so sad... so betrayed... it's impossible..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple's sadness increased.
+##
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+"No good! We definitely aren't on good enough terms!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Run, Anzu...!)
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Hmm... This situation is a real handful.
+ She's lost control of her emotions..."
+##
+
+[Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+#Message#
+\."Even if she's a doll like us,
+ her offensive capabilities are entirely different."
+##
+
+[Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."Without some kind of instruction manual...
+ She'd never be brought to market, I'm sure."
+##
+
+{Sara}
+#Message#
+\.\C[4](An instruction manual...)
+##
+
+{Hayasaka}
+{SE: se_maoudamashii_magical14}
+#Message#
+"If you want my opinion, I'll give advice...
+ We don't have much time, so just one piece of it."
+##
+
+#Choice#
+What to do when she's smiling?
+What to do when she's crying?
+What to do when she's angry?
+Never mind
+##
+
+<笑ってる時はどうする？>
+
+{Hayasaka} [Hayasaka: Hand in front, mouth open / cara94-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+"When she's smiling, you shouldn't rain on her parade.
+ It would probably be good to share the happy moment."
+##
+
+[Hayasaka: Mouth open / cara94-2]
+{SE: Accent21-1}
+#Message#
+\."Like telling her something funny, maybe..."
+##
+
+<泣いてる時はどうする？>
+
+{Hayasaka} [Hayasaka: Hand in front, mouth open / cara94-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+"When she's crying... don't be cold to her.
+ It's best to show her kindness."
+##
+
+[Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+{SE: Accent21-1}
+#Message#
+\."Staying silent will make her lonely.
+ So be proactive about it! All right?"
+##
+
+<怒ってる時はどうする？>
+
+{Hayasaka} [Hayasaka: Hand in front, mouth open / cara94-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+"When she's mad, don't add fuel to the fire.
+ Just be quiet and listen to her."
+##
+
+[Hayasaka: Mouth open / cara94-2]
+{SE: Accent21-1}
+#Message#
+\."When you're angry... even if others say kind things,
+ you can't just accept them at face value."
+##
+
+<やめておきます>
+
+{Hayasaka} [Hayasaka: Hand in front, teeth clenched, sweating / cara94-6]
+#Message#
+\."O-Oh, okay... I do technically have
+ more life experience than you, but... Urk..."
+##
+
+<Choice End>
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Raise2}
+#Message#
+"There's a sweet smell all around here, meow..."
+##
+
+[Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."But that means my nose is no use, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](The perfume's getting in the way...?!)
+##
+
+{Mai} [Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Hold on a sec!
+ This letter... it's all about this girl...!"
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+\."Well, I mean... It's a love letter \N[4]
+ wrote to curry favor with her, ain't it?"
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent28-1}
+#Message#
+\."I don't mean like that!
+ It's an \C[2]instruction manual\C[0]!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Y'serious?! Then let's read it!!"
+##
+
+{Mai} [Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+#Message#
+\."A-hem!
+ Let's see here..."
+##
+
+[Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent21-1}
+#Message#
+\."The strongest doll, Maple, is a lonesome girl."
+##
+
+[Mai: Looking down at hand, mouth open / cara92-20]
+#Message#
+\."You shouldn't use violence with her. What's important
+ is sympathizing with her and being her friend."
+##
+
+[Mai: Worried eyebrows, mouth open / cara92-11]
+{SE: Accent28-1}
+#Message#
+\."Understanding her emotions and
+ becoming a good friend is the key to peace."
+##
+
+[Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+{SE: Accent39-1}
+#Message#
+\."...Ahah! That was some good info!"
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, clenched teeth, sweating / cara95-13]
+#Message#
+\."This ain't funny! Is there anything in the world
+ more of a pain to deal with than a woman's heart?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."I understand if it's not your forte, but please...!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Same here... This could be a tough one."
+##
+
+<Condition End>
+
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Accent21-1}
+#Message#
+\."Oh, look! That thing on her stomach!
+ It says that's her "friendship meter"!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Well then, we should keep an eye on it and
+ \C[2]reconcile when her friendship is high enough\C[0]!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Alright. You deal the final blow, Anzu!"
+##
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."Whaaa?! I have to do the reconciling?!"
+##
+
+{Kurumada} [Kurumada: Shouting mouth / cara95-5]
+#Message#
+\."Damn right you do!!"
+##
+
+{Anzu} [Anzu: Horrified look, mouth closed / cara96-9]
+#Message#
+\."A-Alright already!
+ The rest of you make sure to build friendship, okay?!"
+##
+
+<Else>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So we should \C[2]watch the friendship meter\C[0]
+ and \C[2]reconcile when it's high enough\C[0], meow!"
+##
+
+{Mai} [Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+{SE: sceneswitch2}
+#Message#
+\."Hey... For the important reconciliation step...
+ Could I ask you to do it, Sara?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Me?"
+##
+
+#Choice#
+Leave it to me
+That's my forte
+I'm not confident
+##
+
+<任せてくれ>
+
+{Sara} [Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+{SE: Accent28-1}
+#Message#
+\."Leave it to me...
+ I'll finish this!"
+##
+
+<得意だ>
+
+{Sara} [Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+{SE: Accent28-1}
+#Message#
+\."Hahah... My forte!
+ I'll finish this!"
+##
+
+<自信がない>
+
+{Sara} [Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+{SE: Accent28-1}
+#Message#
+\."I'm not too confident... but oh well...!"
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+{SE: Accent21-1}
+#Message#
+\."I'm sure ya can do it...
+ You've always kept us in line, Sara!"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+

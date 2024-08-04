@@ -1,0 +1,18 @@
+**********Common1018********** (保管・①QタロウB選択)
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"I'm gonna hold its arms behind its back
+ to keep it from movin'!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

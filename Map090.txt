@@ -1,0 +1,285 @@
+=====Map90===== (■Negotiations Lobby)
+
+**********Event3********** (noeru) (12,8)
+-----Page1-----
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+"You collecting those tokens, ya bastard?"
+##
+
+{Sara}
+#Message#
+\."Tokens..."
+##
+
+#Choice#
+I am
+I'm not
+##
+
+<集めてる>
+
+{Sara} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Yeah..."
+##
+
+{Ranger} [Ranger: Mishima face sign / cara18-5]
+{SE: flash-of-light-3}
+#Message#
+\."How wonderful, miss Sara!
+ You're a fine girl for doing as the teacher says!"
+##
+
+{Sara}
+#Message#
+\."Are we done?"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."So stubborn! Your heart getting worn down?"
+##
+
+<集めてない>
+
+{Sara} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Nah..."
+##
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Whaaa! After all I said?
+ Some rebellious streak you got!"
+##
+
+{Sara}
+#Message#
+\."I'm not going to do what you people say."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Hmph, you know it's your own loss, right?
+ Don't come crawlin' to me, y'all!"
+##
+
+<Choice End>
+
+{Sara} [Ranger: Smile sign / cara18-1]
+#Message#
+\.".........."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Well, anyhow. By the way, you peeped any of the
+ personal info you can get at the Prize Exchange?"
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: Accent28-1}
+#Message#
+\."With those prizes, you can boot up AIs
+ in the Monitor Room and talk to 'em! Amazing, huh?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Artificial intelligences...
+ There's still so much we don't know about that.)
+##
+
+#Message#
+\."Ranger, could you tell me more about the AIs?"
+##
+
+{Ranger}
+{SE: extend1}
+#Message#
+\."You've got a bad attitude!
+ Ask cutely and I'll think about it!"
+##
+
+{Sara}
+#Message#
+\.\C[4](S-Say what...?!)
+##
+
+#Choice#
+Ask cutely
+Ask forcefully
+Ask with fake tears
+##
+
+<かわいく頼む>
+
+{Sara} [Ranger: Smile sign / cara18-1]
+{SE: flash-of-light-3}
+#Message#
+\."M-Mr. Ranger, pwease tell me...?"
+##
+
+{Ranger}
+#Message#
+\."What if I don't wanna?"
+##
+
+{Sara}
+#Message#
+\."Coward! Just tell me, Ranger!!"
+##
+
+<威圧して頼む>
+
+{Sara} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Don't be stupid...
+ Shouldn't a Floor Master offer explanations?"
+##
+
+{Ranger}
+#Message#
+\."Seems you don't like me, do ya?"
+##
+
+<泣き真似して頼む>
+
+{Sara} [Ranger: Smile sign / cara18-1]
+#Message#
+\."*sniff*... Please, Ranger... I want you to tell me...
+ *sniffle*... Please."
+##
+
+{Ranger}
+#Message#
+\."Damn, you're depressing! Ahaha!"
+##
+
+<Choice End>
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Well, whatever. I'll tell you!"
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: Accent21-1}
+#Message#
+\."The AIs are basically super-detailed reproductions
+ based on y'all, the participants."
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."In fact, they're AIs with hearts,
+ possessing superb emotional capabilities!"
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Their personalities and memories, too,
+ are all based on info gotten from
+ observing all y'all for ages!"
+##
+
+{Sara}
+#Message#
+\."Observing us for ages?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yep! And we update your memories periodically,
+ every 6 months."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Though if we get serious about it,
+ we can get them up to date in a day!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Truth is, it was planned to steadily update 'em
+ with your memories during the Death Game too..."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: sceneswitch2}
+#Message#
+\.\C[10]"But when we tried putting memories of his own death
+ in the Mishima AI, it bugged out... Ahahaha..."
+##
+
+{Sara}
+#Message#
+\."Why, you...!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."But y'know... Constructing the personality
+ for the AIs is a lot harder than that."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Unlike memories, it's enough work just to
+ \C[2]update the personality every 3 years\C[0]!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Every 3 years...?
+ Then just how long have we been...?!)
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"You realized yet? Your day to day lives
+ have been watched over tirelessly..."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Anyway, guess that's about that."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Do your best not to die, Sara Chidouin!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Though if you do die, I'll be taking
+ those clothes off your hands... Got me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's a real piece of work...)
+##
+
+#Message#
+\.\C[4](Okay... Let's proceed with attractions.)
+##
+
+
+**********Event24********** (gin) (6,8)
+-----Page1-----
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Is big sis Nao... okay, meow...?"
+##
+

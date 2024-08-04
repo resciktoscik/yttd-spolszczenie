@@ -1,0 +1,1082 @@
+=====Map37===== (②▽Bar)
+
+**********Event2********** (zyo-) (8,8)
+-----Page1-----
+#Message#
+\.\C[3]Joe sits alone, hanging his head.
+##
+
+{Sara}
+#Message#
+\.\C[4](Wants to be left alone, huh...)
+##
+
+#Choice#
+Talk to him
+Leave in silence
+Joke around with him
+##
+
+<声をかける>
+
+{Sara}
+#Message#
+"Joe... Can we talk a little?"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."...Geez...
+ Didn't I tell you to leave me alone?"
+##
+
+{Sara}
+#Message#
+\."I guess I'm just nosy."
+##
+
+<無言で去る>
+
+{Sara} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\.\C[4](I can't talk to him right now...)
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."...Oh, Sara."
+##
+
+{Sara}
+#Message#
+\."...Ulp. You noticed me, Joe..."
+##
+
+<おちゃらけてみる>
+
+{Sara} [Joe: Serious look / cara1-14]
+{SE: flash-of-light-3}
+#Message#
+"Why so droopy, Joe?
+ That ain't like you at all!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."...I'd say that right back to you, Sara."
+##
+
+{Sara}
+#Message#
+\."Well, yeah..."
+##
+
+<Choice End>
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Folded arms wondering / cara1-17]
+#Message#
+\."It's kinda calming here, somehow..."
+##
+
+[Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Wonder why...
+ I've never had a drink in my life."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Folded arms wondering / cara1-17]
+#Message#
+\."...Hey, Sara."
+##
+
+[Joe: Serious look, sweating / cara1-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do you really think Keiji's a cop?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Eh...?"
+##
+
+#Message#
+\."Joe... Have you been doubting it the whole time?"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."I-I mean... Just wanted your opinion, Sara."
+##
+
+{Sara}
+#Message#
+\."I..."
+##
+
+#Choice#
+I think Keiji's a cop
+Keiji is lying
+##
+
+<ケイジさんは警察官だと思う>
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Huh...
+ Right, okay..."
+##
+
+[Joe: Serious look / cara1-14]
+#Message#
+\.".........."
+##
+
+[Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Damn, I'm a loser, aren't I...
+ Just a little difference in opinion's got me uneasy."
+##
+
+<ケイジさんはウソを吐いている>
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."For real?! What makes you think so?!"
+##
+
+{Sara}
+#Message#
+\."I-It's just a hunch, I guess...?
+ I feel like... no policeman acts like that..."
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Well, there's cops in plainclothes!
+ I don't think it's good to suspect... just..."
+##
+
+{Sara}
+#Message#
+\."Huh... So you do believe him, Joe?"
+##
+
+<Choice End>
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Folded arms wondering / cara1-17]
+#Message#
+\."...Me, I can't think there's someone
+ siding with the kidnappers among that bunch."
+##
+
+{Sara}
+{SE: horror_piano chord3}
+#Message#
+\."Huh...?"
+##
+
+#Message#
+\.\C[4](Now that's strange...
+ Wasn't Joe the first one to suggest there was?)
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."But the more I try to believe,
+ the more suspicious I get..."
+##
+
+[Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Default / cara1-11]
+#Message#
+\."Listen, Sara."
+##
+
+[Joe: Serious look / cara1-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Could you... look into Keiji a little?"
+##
+
+{Sara}
+#Message#
+\."Me...?"
+##
+
+{Joe}
+#Message#
+\.".........."
+##
+
+[Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."...Nah, sorry.
+ Yeah, pretend I never asked."
+##
+
+{Sara}
+#Message#
+\.\C[4](Because he wants to believe... he suspects...)
+##
+
+#Message#
+\.\C[4](One thing's for sure...
+ It's better if we know more about each other.)
+##
+
+{N/A}
+#Message#
+      \fs[50]\C[10]For my own survival, too.\|\|\^
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Sara...?"
+##
+
+{Sara}
+#Message#
+\."I... It's nothing."
+##
+
+#Message#
+\.\C[4](What am I thinking...?)
+##
+
+#Message#
+\."Leave it to me, Joe."
+##
+
+{Joe} [Joe: Serious look, sweating / cara1-22]
+#Message#
+\."Y-You serious?"
+##
+
+#Message#
+\."...Don't push yourself too much, Sara."
+##
+
+-----Page2-----
+#Message#
+\.\C[3]Joe sits alone, hanging his head.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll leave him be.)
+##
+
+-----Page4-----
+#Message#
+\.\C[3]Joe is sitting down wearily.
+##
+
+{Sara}
+#Message#
+\.\C[4](He's staring at something in his hand...)
+##
+
+#Choice#
+Try talking to him
+Peek unseen from behind
+Startle him
+##
+
+<声をかけてみる>
+
+{Sara}
+#Message#
+"What's the matter, Joe?"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Waugh! Sara! You startled me!"
+##
+
+<バレない様に背後からのぞく>
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\C[4](A piece of paper...?
+ Kind of seems like... a card...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Don't tell me...!)
+##
+
+#Message#
+\."Waugh! Sara! You startled me!"
+##
+
+<ワッ！と脅かしてみる>
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\{\{\{"BAAAH!!!!"
+##
+
+#Message#
+\."GYAAAAAAAAAAHHH!!
+\! What the hell!! Sara?!"
+##
+
+{Sara}
+#Message#
+\."Ahh... sorry."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Don't do that and then take it back!
+ At least laugh!"
+##
+
+<Choice End>
+
+{Sara} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."What are you looking at?"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Folded arms wondering / cara1-17]
+#Message#
+\."This was in my inside pocket."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."That's..."
+##
+
+{N/A}
+{SE: Book1}
+#Message#
+\.\C[3]It was a photo of me, Joe, and Ryoko.
+##
+
+#Message#
+\.\C[3]We were at a cafe, having a fun chat together.
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Do you miss Ryoko?
+I'm so photogenic
+What a narcissist
+##
+
+<リョーコに会いたいか？>
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+"..."
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."...Yeah."
+##
+
+<私は写真うつりがいいな>
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Hey, you said it. Hahaha."
+##
+
+{Sara}
+#Message#
+\."...Ryoko looks cute here, too."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."...Sure does."
+##
+
+<ナルシストだな>
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+"How'd you arrive at that?!"
+##
+
+{Sara}
+#Message#
+\."...Ryoko... Wonder what she's doing now..."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."...Haha, no kidding."
+##
+
+<Choice End>
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+{SE: Accent21-1}
+#Message#
+\."...Man, I miss her."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Sure enough, it's unthinkable for me to suspect Joe.
+##
+
+#Message#
+\.\C[3]Sou... He must be just...
+seeing shadows where there aren't any.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Suddenly, I thought back.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Joe got involved in this because he came to my house.
+##
+
+#Message#
+\.\C[3]If he'd gone straight home,
+wouldn't he be living life as normal right now?
+##
+
+#Message#
+\.\C[3]How late a realization is that...?
+##
+
+#Message#
+\.\C[3]I was so focused on myself...
+##
+
+#Message#
+\.\C[3]I didn't consider Joe's perspective for a second...
+##
+
+{Joe} [Joe: Folded arms wondering / cara1-17]
+{SE: Accent28-1}
+#Message#
+\."...I had my first proper date with Ryoko that day..."
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Heheh, I was so nervous I couldn't talk at all."
+##
+
+[Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Somehow, we ended up talking about you, Sara."
+##
+
+{Sara}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Eh?"
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Do you remember that time you tried to sit
+ on a traffic cone and fell on your butt?!
+ I couldn't stop laughing!"
+##
+
+{Sara}
+#Message#
+\."Wahhh?!
+ You promised you wouldn't tell anyone!"
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Hahaha! It sure got the conversation lively!"
+##
+
+[Joe: Default / cara1-11]
+#Message#
+\."...So then I sorta asked her
+ why she decided to go out with me."
+##
+
+{Ryoko}
+#Message#
+\."Huh? What do you mean, "why"...?"
+##
+
+{Joe}
+#Message#
+\."I mean, you didn't know me that much, yeah?"
+##
+
+{Ryoko}
+#Message#
+\."Ahaha, really?"
+##
+
+#Message#
+\."Well, no friend of Sara's
+ could be a bad person... you know?"
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Hahaha... Funny, right?!"
+##
+
+[Joe: Eyes-open smile / cara1-12]
+{SE: Accent21-1}
+#Message#
+\."'Cause I was thinking the same thing."
+##
+
+{Sara}
+#Message#
+\."Joe..."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+{SE: Accent28-1}
+#Message#
+\."Ryoko and me made an agreement.
+ \C[2]"If anyone makes Sara cry, we'll make them cry!"\C[0]"
+##
+
+[Joe: Eyes-open smile / cara1-12]
+#Message#
+\."So, like...
+\! Stop lookin' like you're on the verge of tears."
+##
+
+{Sara}
+#Message#
+\."I mean, Joe, you're..."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."If I make you cry, Sara,
+ that means Ryoko's gotta sock me, right?!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."...Heehee."
+##
+
+{SE: Accent21-1}
+#Message#
+\."You're right, Joe.
+ I'd better have you protect me."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+{SE: flash-of-light-3}
+#Message#
+\."Yeah!
+ Whenever I see a traffic cone, I'll exterminate it!"
+##
+
+{Sara}
+#Message#
+\."Erase that from your memory! I mean it!"
+##
+
+-----Page5-----
+#Message#
+\.\C[3]Joe is sitting down.
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."I'll rest a little, then get back to searching."
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Joe} [Joe: Default / cara1-11]
+{SE: Accent28-1}
+#Message#
+"Sara!"
+##
+
+{Sara}
+#Message#
+\."Joe!
+ Did you find Nao?!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."S... She wasn't on the second floor?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Ya mean she's up and vanished?!"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Oh no..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Looking around the room,
+I found almost everyone but Nao had already assembled.
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."Just what is going on...?"
+##
+
+#Message#
+\."Oh...? Just what is going on...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Err, well... Now everybody calm down..."
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Erm.
+ Who is the person tied up there...?"
+##
+
+{???}
+#Message#
+\."Hmph, such an annoying bunch..."
+##
+
+{Man in Stripes} [Alice: Default glare / cara11-1]
+{SE: Accent21-1}
+#Message#
+\."You all... plus this "Nao" makes everyone, right?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Ah...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hey, ya woke up."
+##
+
+{Man in Stripes} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...Remove these ropes.
+ So long as you don't want me to crush you..."
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."This guy's... a little riotous.
+ That's troublesome..."
+##
+
+{Man in Stripes} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Heh... All chicken, are you...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I might have brought in someone dangerous...)
+##
+
+#Choice#
+Talk to him
+Ignore
+##
+
+<話しかける>
+
+{Sara} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Um... Do you have a second?"
+##
+
+<無視する>
+
+{Sara} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Everyone, we should focus on Nao..."
+##
+
+<Choice End>
+
+{Man in Stripes} [Alice: Surprised face / cara11-2]
+#Message#
+\."Hm...? You..."
+##
+
+#Message#
+\."Eee..."
+##
+
+[Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."EYAAAAAAAAAAGH!!"
+##
+
+[Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Why is SHE walking around freely?!
+ Hurry, hurry! Somebody capture her!!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."W... What's this all'a sudden?!"
+##
+
+{Man in Stripes} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."I know! Oh yes I do! This girl is bad news!!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."C... Calm down! Could you start at the beginning?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."...And could you drop that weird tone of yours?"
+##
+
+{Man in Stripes} [Alice: Surprised face / cara11-2]
+#Message#
+\.".........."
+##
+
+[Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: Accent21-1}
+#Message#
+\."Hmph... Look at me, getting so disconcerted."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Is this guy playin' a joke on us...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Listen, we don't have time to spend on you."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."But... I'll allow a little time for inquiries.
+ We'll decide whether to untie you after that."
+##
+
+{Man in Stripes} [Alice: Default glare / cara11-1]
+#Message#
+\."Say again...?!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph...! Do not try to act superior, blond rascal!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Oooh, scary.
+ You handle the questioning, Sara."
+##
+
+{Sara}
+#Message#
+\."Whaaa?! I'm doing that, too?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Mr. Policeman's shakin' over here."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ugh...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Talk to me whenever you're ready."
+##
+
+
+**********Event4********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event5********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event6********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event7********** (sou) (1,8)
+-----Page1-----
+#Message#
+\.\C[3]Sou and Kanna are resting in the corner.
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"...You okay, Kanna...?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't want to put any burden on Kanna...
+ I'll keep checking on her from a distance.)
+##
+
+
+**********Event8********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event33********** (EV033) (2,1)
+-----Page1-----
+#Message#
+\C[3]There's a bunch of names on the blackboard.
+##
+
+#Message#
+\.\C[3][Can Drink]
+Alice, Kai, Kazumi, Keiji, Shunsuke,
+Sou, Naomichi, Mai, Megumi, Reko, Q-taro
+##
+
+#Message#
+\.\C[3][Can't Drink]
+Anzu, Kanna, Gin, Kugie, Sara, Joe,
+Nao, Hinako, Ranmaru
+##
+
+
+**********Event39********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event40********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event41********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event42********** (EV042) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event43********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event44********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event45********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event46********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event47********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event48********** (sake) (4,0)
+-----Page1-----
+#Message#
+\C[3]A variety of alcoholic drinks.
+##
+
+{Sara}
+#Message#
+\.\C[4](None of the drinks seem especially notable.)
+##
+
+
+**********Event67********** (hikido) (10,6)
+-----Page1-----
+#Message#
+\C[3]The cabinet is empty.
+##
+
+
+**********Event75********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

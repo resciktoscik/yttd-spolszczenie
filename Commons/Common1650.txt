@@ -1,0 +1,68 @@
+**********Common1650********** (◆ｿｳ「電動ヒツギ」)
+{Sou}
+#Message#
+"Maybe the coffins actually glow using electricity?
+ Bet they \C[2]ran out of battery\C[0]."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...Sara, you idiot."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...Sara, you idiot."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent24-1}
+#Message#
+"The Dummies run on battery, don't they?
+ Maybe their coffins do, too."
+##
+

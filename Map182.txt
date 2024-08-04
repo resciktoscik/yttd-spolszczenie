@@ -1,0 +1,723 @@
+=====Map182===== (★Final Chapter Summary)
+
+**********Event1********** (本番用) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[5]"Hey there. Can you hear me?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{N/A}
+#Message#
+\C[5]"Good... Glad you responded."
+##
+
+<いいえ>
+
+{N/A}
+#Message#
+\C[5]"Hahaha. Well, shucks."
+##
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[5]"...I'd like to know soon.
+ About that Death Game you were involved in."
+##
+
+#Message#
+\.\C[5]"It's not anything too difficult, is it?
+ I'm begging you..."
+##
+
+#Choice#
+Retrace memories
+Leave
+##
+
+<記憶をたどる>
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[5]"...Thanks."
+##
+
+<帰る>
+
+{N/A}
+#Message#
+\C[5]"Got it. Some other time."
+##
+
+#Message#
+\.\C[5]"...Contact me whenever you wanna talk."
+##
+
+<Choice End>
+
+{N/A} [Joe: Folded arms wondering / cara1-17]
+#Message#
+A normal high school girl, \C[2]Sara Chidouin\C[0].
+And her best friend, \C[2]Jou Tazuna (Joe)\C[0].
+##
+
+#Message#
+One day, they were pulled into a cruel Death Game...
+##
+
+#Message#
+Rather than submit to fear,
+they chose to cooperate with the other participants...\|\|
+##
+
+#Message#
+But alas, high school teacher \C[2]Kazumi Mishima\C[0]
+became the first victim.
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+There was no stopping that they would \C[10]kill each other\C[0].
+##
+
+[Kai: Holding up bleeding wrists, smile / cara8-9]
+#Message#
+After a cruel majority vote,
+homemaker \C[2]Kai Satou\C[0] died...
+##
+
+[Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+And Sara's best friend Joe died as well,
+unable to defy his fate.
+##
+
+[Joe: Hallucination (visible face) / cara1-25]
+{SE: shock1}
+#Message#
+\C[10]Sara became tormented by hallucinations...
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+As her heart crumbled, the peril only continued...
+##
+
+{SE: Accent28-1}
+#Message#
+\C[5]Now, a question.
+##
+
+#Message#
+\C[5]Which of these two died?
+##
+
+-----Page3-----
+<If Switch #642 (★レコ生存ルート) is OFF>
+
+{N/A}
+#Message#
+The next victim was singer-songwriter \C[2]Reko Yabusame\C[0].
+##
+
+<Else>
+
+#Message#
+The next victim was murderer \C[2]Alice Yabusame\C[0].
+##
+
+<Condition End>
+
+[Gashu: Gun to head, smile / cara16-16]
+#Message#
+As desperately as they tried to grasp escape,
+their enemies gave their very lives to stop it.
+##
+
+[Nao: Hand on chest, relieved smile / cara7-25]
+#Message#
+When the Main Game occurred once more,
+art student \C[2]Nao Egokoro\C[0] died.
+##
+
+{SE: Accent28-1}
+#Message#
+\C[5]Now then, another question.
+##
+
+#Message#
+\C[5]Which of these two died?
+##
+
+-----Page5-----
+<If Switch #821 (★カンナ生存ルート) is OFF>
+
+{N/A}
+#Message#
+The next victim was middle-schooler \C[2]Kanna Kizuchi\C[0].
+##
+
+#Message#
+And \C[2]Sou Hiyori\C[0], who'd failed to protect Kanna,
+was left with a strong hatred of Sara.
+##
+
+#Message#
+Due to a malicious Joe AI...
+##
+
+#Message#
+\.Sara forgot that Joe even existed...
+##
+
+<Else>
+
+#Message#
+The next victim was
+self-described job-hopper \C[2]Sou Hiyori\C[0].
+##
+
+#Message#
+After removing his collar,
+using the last of his strength...
+##
+
+#Message#
+He started up a Joe AI.
+##
+
+#Message#
+\.At last, Sara reunited with her best friend,
+and awoke from her long nightmare.
+##
+
+<Condition End>
+
+#Message#
+The Death Game... is not over yet.
+##
+
+#Message#
+
+
+                       \C[10]6 Remain
+##
+
+
+**********Event5********** (体験版用) (16,12)
+-----Page1-----
+#Message#
+\C[3]※ Warning!
+This game is a paid product! Publicizing its contents
+in videos or the like is forbidden!
+##
+
+{Weird Guy} [Botsun / cara999-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Hey! Hi! Good day!"
+##
+
+#Message#
+\."This is the Your Turn To Die -Death Game By Majority-
+ \C[2]Final Chapter (Chapter 3) Part One Demo\C[0]!"
+##
+
+#Message#
+\."Are you familiar with Your Turn To Die?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+{Weird Guy} [Botsun / cara999-1]
+#Message#
+"You see, Your Turn To Die is a story where
+ the characters are trapped in a cruel Death Game,
+ and take each other's lives by majority vote!"
+##
+
+#Message#
+\."As such! It's recommended you play Chapters 1 and 2
+ before you start this demo!"
+##
+
+#Message#
+\."Worry not! Chapters 1 and 2 can be played for free
+ on a site called... (checks notes)... vgperson.com!
+ On a smartphone or on a computer!"
+##
+
+#Message#
+\."...Or else, if you don't give a care,
+ are you prepared for spoilers galore?"
+##
+
+#Choice#
+Start the demo
+I'll play Chapters 1 & 2 first
+##
+
+<体験版を進める>
+
+{Weird Guy} [Botsun / cara999-1]
+#Message#
+\."OK by me! Now let's get started...
+ with a summary of the adventure thus far!"
+##
+
+<先に１章～２章をやってくる>
+
+{Weird Guy} [Botsun / cara999-1]
+#Message#
+\."Hey, thanks! You can scan the QR code on the package
+ for a link to the Japanese site, but English-speakers
+ should just do a web search for Your Turn To Die!"
+##
+
+#Message#
+\."Good luuuck!"
+##
+
+<Choice End>
+
+<Choice End>
+
+{Weird Guy} [Botsun / cara999-1]
+#Message#
+\."Great! By the way, do you know what's happened
+ up to the latest part - that is, Chapter 2, Part Two?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+{Weird Guy} [Botsun / cara999-1]
+#Message#
+"Oh! Well you see, Your Turn To Die is a story
+ where the characters are trapped in a cruel Death Game,
+ and take each other's lives by majority vote!"
+##
+
+#Message#
+\."Inevitably, this demo's gonna contain
+ spoilers up to Chapter 2, Part Two!
+ I recommend playing that far first!"
+##
+
+#Message#
+\."Worry not! Chapters 1 and 2 can be played for free
+ on a site called... (checks notes)... vgperson.com!
+ On a smartphone or on a computer!"
+##
+
+#Message#
+\."...Or else, if you don't give a care,
+ are you prepared for spoilers galore?"
+##
+
+#Choice#
+Start the demo
+I'll play Chapters 1 & 2 first
+##
+
+<体験版を進める>
+
+{Weird Guy} [Botsun / cara999-1]
+#Message#
+\."OK by me! Now let's get started...
+ with a summary of the adventure thus far!"
+##
+
+<先に１章～２章をやってくる>
+
+{Weird Guy} [Botsun / cara999-1]
+#Message#
+\."Hey, thanks! You can scan the QR code on the package
+ for a link to the Japanese site, but English-speakers
+ should just do a web search for Your Turn To Die!"
+##
+
+#Message#
+\."Good luuuck!"
+##
+
+<Choice End>
+
+<Choice End>
+
+{Weird Guy} [Botsun / cara999-1]
+#Message#
+\."Hooray! You're all set!
+ Then have some fun for a little while!"
+##
+
+#Message#
+\."First, let's check out a summary of the story so far!"
+##
+
+{N/A} [Joe: Folded arms wondering / cara1-17]
+#Message#
+The protagonist, normal high school girl \C[2]Sara Chidouin\C[0].
+And her best friend, \C[2]Jou Tazuna (Joe)\C[0].
+
+One day, they were pulled into a cruel Death Game...
+##
+
+#Message#
+Though not understanding the situation,
+they cleared a \C[2]First Trial\C[0], then many more...
+##
+
+#Message#
+They chose to cooperate with the other participants
+in order to survive.\|\|
+##
+
+#Message#
+But their cooperation was in vain,
+as high school teacher \C[2]Kazumi Mishima\C[0] died.
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+Then the Death Game began to pick up the pace...
+##
+
+[Kai: Holding up bleeding wrists, smile / cara8-9]
+#Message#
+After a cruel majority vote, \C[2]Kai Satou\C[0] died...
+##
+
+[Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+And Sara's best friend Joe died as well,
+unable to defy his fate.
+##
+
+[Joe: Hallucination (visible face) / cara1-25]
+{SE: shock1}
+#Message#
+\C[10]Sara became tormented by hallucinations...
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+Continuing onto the third floor,
+a Sub-Game called the \C[2]Trust Barter Game\C[0] was held.
+##
+
+{Weird Guy} [Botsun / cara999-1]
+{SE: Accent28-1}
+#Message#
+"And now, it's time for a quiz!"
+##
+
+#Message#
+"Which of these was the victim of the Sub-Game?"
+##
+
+-----Page3-----
+<If Switch #642 (★レコ生存ルート) is OFF>
+
+{N/A}
+#Message#
+The victim was \C[2]Reko Yabusame\C[0].
+##
+
+<Else>
+
+#Message#
+The victim was \C[2]Alice Yabusame\C[0].
+##
+
+<Condition End>
+
+[Ranger: Looking up at hole in forehead / cara18-9]
+#Message#
+Rio Ranger, the doll run amok, was purged...
+##
+
+[Gashu: Gun to head, smile / cara16-16]
+#Message#
+And Gashu, too, took his own life.
+##
+
+[Nao: Hand on chest, relieved smile / cara7-25]
+#Message#
+The Main Game occurred once more, and \C[2]Nao Egokoro\C[0] died.
+##
+
+{Weird Guy} [Botsun / cara999-1]
+{SE: Accent28-1}
+#Message#
+"So, your second question!"
+##
+
+#Message#
+"Which of these was the other victim
+ of the second Main Game?"
+##
+
+-----Page5-----
+<If Switch #821 (★カンナ生存ルート) is OFF>
+
+{N/A}
+#Message#
+The victim was \C[2]Kanna Kizuchi\C[0].
+##
+
+<Else>
+
+#Message#
+The victim was \C[2]Sou Hiyori\C[0].
+##
+
+<Condition End>
+
+#Message#
+The Death Game... is not over yet.
+##
+
+#Message#
+
+
+                       \C[10]6 Remain
+##
+
+
+**********Event6********** (本番用) (15,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[5]"Hey there. Can you hear me?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{N/A}
+#Message#
+\C[5]"Good... Glad you responded."
+##
+
+<いいえ>
+
+{N/A}
+#Message#
+\C[5]"Hahaha. Well, shucks."
+##
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[5]"...I'd like to know soon.
+ About that Death Game you were involved in."
+##
+
+#Message#
+\.\C[5]"It's not anything too difficult, is it?
+ I'm begging you..."
+##
+
+#Choice#
+Retrace memories
+Leave
+##
+
+<記憶をたどる>
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[5]"...Thanks."
+##
+
+<帰る>
+
+{N/A}
+#Message#
+\C[5]"Got it. Some other time."
+##
+
+#Message#
+\.\C[5]"...Contact me whenever you wanna talk."
+##
+
+<Choice End>
+
+{N/A} [Joe: Folded arms wondering / cara1-17]
+#Message#
+A normal high school girl, \C[2]Sara Chidouin\C[0].
+And her best friend, \C[2]Jou Tazuna (Joe)\C[0].
+##
+
+#Message#
+One day, they were pulled into a cruel Death Game...
+##
+
+#Message#
+Rather than submit to fear,
+they chose to cooperate with the other participants...\|\|
+##
+
+#Message#
+But alas, high school teacher \C[2]Kazumi Mishima\C[0]
+became the first victim.
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+There was no stopping that they would \C[10]kill each other\C[0].
+##
+
+[Kai: Holding up bleeding wrists, smile / cara8-9]
+#Message#
+After a cruel majority vote,
+homemaker \C[2]Kai Satou\C[0] died...
+##
+
+[Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+And Sara's best friend Joe died as well,
+unable to defy his fate.
+##
+
+[Joe: Hallucination (visible face) / cara1-25]
+{SE: shock1}
+#Message#
+\C[10]Sara became tormented by hallucinations...
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+As her heart crumbled, the peril only continued...
+##
+
+{SE: Accent28-1}
+#Message#
+\C[5]Now, a question.
+##
+
+#Message#
+\C[5]Which of these two died?
+##
+
+-----Page3-----
+<If Switch #642 (★レコ生存ルート) is OFF>
+
+{N/A}
+#Message#
+The next victim was singer-songwriter \C[2]Reko Yabusame\C[0].
+##
+
+<Else>
+
+#Message#
+The next victim was murderer \C[2]Alice Yabusame\C[0].
+##
+
+<Condition End>
+
+[Gashu: Gun to head, smile / cara16-16]
+#Message#
+As desperately as they tried to grasp escape,
+their enemies gave their very lives to stop it.
+##
+
+[Nao: Hand on chest, relieved smile / cara7-25]
+#Message#
+When the Main Game occurred once more,
+art student \C[2]Nao Egokoro\C[0] died.
+##
+
+{SE: Accent28-1}
+#Message#
+\C[5]Now then, another question.
+##
+
+#Message#
+\C[5]Which of these two died?
+##
+
+-----Page5-----
+<If Switch #821 (★カンナ生存ルート) is OFF>
+
+{N/A}
+#Message#
+The next victim was middle-schooler \C[2]Kanna Kizuchi\C[0].
+##
+
+#Message#
+And \C[2]Sou Hiyori\C[0], who'd failed to protect Kanna,
+was left with a strong hatred of Sara.
+##
+
+#Message#
+Due to a malicious Joe AI...
+##
+
+#Message#
+\.Sara forgot that Joe even existed...
+##
+
+<Else>
+
+#Message#
+The next victim was
+self-described job-hopper \C[2]Sou Hiyori\C[0].
+##
+
+#Message#
+After removing his collar,
+using the last of his strength...
+##
+
+#Message#
+He started up a Joe AI.
+##
+
+#Message#
+\.At last, Sara reunited with her best friend,
+and awoke from her long nightmare.
+##
+
+<Condition End>
+
+#Message#
+The Death Game... is not over yet.
+##
+
+#Message#
+
+
+                       \C[10]6 Remain
+##
+

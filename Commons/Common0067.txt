@@ -1,0 +1,59 @@
+**********Common67********** (ｹｲｼﾞ「人を撃った」)
+{Keiji}
+#Message#
+"...I shot a person.
+ Since then... I haven't been able to fire a gun."
+##
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"I've got nothing else to say about that."
+##
+
+{Sara}
+#Message#
+\C[4](Maybe I should try a different statement...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"*sigh*... Look what you've made me say."
+##
+
+#Message#
+\."But... well, guess it's a load off my shoulders."
+##
+

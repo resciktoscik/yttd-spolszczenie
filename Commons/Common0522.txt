@@ -1,0 +1,82 @@
+**********Common522********** (ｿｳ「寝てた」)
+{Sou}
+#Message#
+"Sorry to inform you, but at the time,
+ I was just sleeping. Remember...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"Miss Sara... Could you be serious?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"...I've got nothing else to say."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"If you really want to save Gin...
+ You should do the best you can, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](I know that...!)
+##
+

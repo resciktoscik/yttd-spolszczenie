@@ -1,0 +1,1249 @@
+=====Map26===== (Blue Russian Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Whoa, what are those?"
+##
+
+{N/A}
+#Message#
+There are human-shaped figures sitting in the chairs.
+##
+
+{Sou}
+#Message#
+"Let's get closer and check them out..."
+##
+
+-----Page3-----
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Hey, Sara. You found anything out?"
+##
+
+{Sara}
+#Message#
+\."No... There's still plenty I don't get."
+##
+
+#Message#
+\."What's especially strange to me
+ is how there were a gun and bullets in this room."
+##
+
+#Message#
+\."What meaning could there be to
+ the kidnappers giving us a weapon...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Might want to cause discord."
+##
+
+{Sara}
+#Message#
+\."Discord?"
+##
+
+{Keiji}
+#Message#
+\."A weapon that puts one person at an advantage...
+ Who'd wanna hand that over to someone else?"
+##
+
+{Sara}
+#Message#
+\.\C[4](A fight over the weapon...
+ Yeah, that is plausible.)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."But we've got good ol' Sara with us,
+ so we won't fall for that trap."
+##
+
+{Sara}
+#Message#
+\."...Why do you trust me so much?"
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."Only 'cause you're so darn cute."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Keiji's been intentionally guiding everyone
+ to put their trust in me.)
+##
+
+#Message#
+\.\C[4](I wonder why...?)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Didn't expect you to respond to a compliment
+ with such a dubious look."
+##
+
+{Sara}
+#Message#
+\."Oh right, Keiji.
+ I found these dummy bullets in the cafeteria."
+##
+
+{Keiji}
+#Message#
+\."...What's that?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Handed the Dummy Bullets to Keiji.
+##
+
+{Sara}
+#Message#
+\."Do these seem like a clue?"
+##
+
+{Keiji}
+#Message#
+\."...I'll check 'em out."
+##
+
+{N/A}
+#Message#
+\C[3]Now... What to do while he's investigating?
+##
+
+-----Page5-----
+{Sara}
+#Message#
+\C[4](I guess I'll search elsewhere...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Oh, Sara. Hold on a sec..."
+##
+
+{Sara}
+#Message#
+\."Yes?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Before leaving the room, I turned around, and...
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Huh? Miss Sara, aren't you coming?"
+##
+
+#Message#
+"Waugh...?!\.\.
+ What the?!"
+##
+
+#Message#
+\."Miss Sara! Are you okay?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Iron bars appeared over the door,
+separating me from Sou...!
+##
+
+{Sara}
+#Message#
+\.\C[4](We've been locked in?!)
+##
+
+{Sou}
+#Message#
+\."...Gah!"
+##
+
+#Message#
+\."It won't open...!
+ I... I'll look for something to pry with!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Well, this sure is bad."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Sara! You hurt?!"
+##
+
+{Sara}
+#Message#
+\."No... I'm okay, but..."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Dammit, it's a trap!
+ Who knows what'll happen! Stay alert!"
+##
+
+{N/A}
+#Message#
+\.\sw[99]"Hey now, don't put yourselves so on guard."\sw[100]
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Wha?! Whose voice was that?!"
+##
+
+{N/A}
+#Message#
+\.\sw[99]"Ha ha ha.
+ Don't sweat the details."\sw[100]
+##
+
+#Message#
+\.\sw[99]"I'm the master of this room.
+ You can call me Meister."\sw[100]
+##
+
+#Message#
+\.\sw[99]"Now, to get right to it,
+ lemme explain the rules of the next game."\sw[100]
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."T... The rules...?"
+##
+
+{N/A}
+#Message#
+\.\sw[99]"Well, of course! You wanna stake your life
+ without even knowin' the rules?!
+ You're a real character, man!"\sw[100]
+##
+
+{Kai} [Kai: Default / cara8-1]
+{SE: Accent28-1}
+#Message#
+\."Stake... my life?"
+##
+
+{N/A}
+#Message#
+\.\sw[99]"This one's simple! Right now,
+ there's you \C[2]five\C[0] humans in this room, right?"\sw[100]
+##
+
+#Message#
+\.\sw[99]"Glance around the room...!
+ There's \C[2]four\C[0] open seats."\sw[100]
+##
+
+#Message#
+\.\sw[99]"One will be the Challenger,
+ and the other four'll sit down and be targets."\sw[100]
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Targets...? Targets fer what?!"
+##
+
+{N/A}
+#Message#
+\.\sw[99]"Well, I gave ya that cool weapon
+ here in this room, didn't I?"\sw[100]
+##
+
+{Q-taro}
+#Message#
+\."W... We're gonna be targets for a revolver?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."And? What are the rules to this?
+ Surely there's an outcome where nobody dies."
+##
+
+{N/A}
+#Message#
+\.\sw[99]"Ha ha ha! Naturally!
+ A regular deathtrap is just old-hat, get me?"\sw[100]
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sw[99]"But, see... First you'll have to
+ \C[2]decide who'll be the Challenger\C[0] for me."\sw[100]
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."You're tellin' us to decide who's gonna shoot
+ without knowin' what the game is?!
+ Who's gonna want to be the targets?!"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\.".........."
+##
+
+#Message#
+\."Will the Challenger be safe?"
+##
+
+{N/A}
+#Message#
+\.\sw[99]"Yep! Only the targets get to relish the thrill!
+ What a shame!"\sw[100]
+##
+
+{Joe}
+#Message#
+\."...I see."
+##
+
+[Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Sara, can I ask you to be the Challenger?"
+##
+
+{Sara}
+#Message#
+\."...Wha?!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."D... Don't kid me!
+ Ya can't decide that all on yer own!"
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."I suppose it may not be proper
+ to make a young girl handle a gun..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I'm in favor of it myself.
+ Sara's got a clear head."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Well, Sara? You confident?"
+##
+
+{Sara}
+#Message#
+\."Confident...?"
+##
+
+#Choice#
+I am
+I'm not
+##
+
+<ある>
+
+{Sara} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](Joe...)
+##
+
+#Message#
+\.\C[4](In that trial, he did what I counted on him to do...)
+##
+
+#Message#
+\.\C[4](Now, he's making a request of me...!)
+##
+
+#Message#
+\.\C[4](I'll handle this...! Definitely!)
+##
+
+<ない>
+
+{Sara} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](Joe...)
+##
+
+#Message#
+\.\C[4](In that trial, he did what I counted on him to do...)
+##
+
+#Message#
+\.\C[4](Now, he's making a request of me...!)
+##
+
+#Message#
+\.\C[4](I can't possibly tell him I'm not confident!!)
+##
+
+<Choice End>
+
+{Sara} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...Please, let me do it."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."..."
+##
+
+#Message#
+\."No way. Can't approve'a that."
+##
+
+#Message#
+\."'Snot like I don't trust ya...
+ Don't think badly of me."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."..."
+##
+
+#Message#
+\."...Holding it to \C[2]a vote\C[0]..."\|
+##
+
+#Message#
+\."Perhaps... that is the best way to settle this."
+##
+
+#Message#
+\."Why don't we discuss it,
+ and then hold a majority vote?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Yeah... Might be the only way."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Right...!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."...Gotcha. Let's do it."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Talk to me when you're all set.
+ I'll be standing right here."
+##
+
+
+**********Event2********** (Qtaro) (0,6)
+-----Page1-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Sure is a suspicious place, I tell you what."
+##
+
+{Sara}
+#Message#
+\."What are you doing, Q-taro?"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Jus' gettin' a big ol' view of the room."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."But these guys... They're checkin' every corner,
+ no hesitation... Ain't they scared of traps?"
+##
+
+-----Page2-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Well now... Doesn't seem there's security cameras."
+##
+
+
+**********Event3********** (joe) (2,5)
+-----Page1-----
+{Joe} [Joe: Default / cara1-11]
+#Message#
+"Wonder what this big painting is for?"
+##
+
+{Sara}
+#Message#
+\."Finding it curious?"
+##
+
+{Joe}
+#Message#
+\."Yeah..."
+##
+
+{Sara}
+#Message#
+\."Maybe try taking it off the wall."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."I think I'll check the easy things first,
+ like these chairs."
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Besides, Sara,
+ it's just barely out of your reach, huh?"
+##
+
+{Sara}
+#Message#
+\."Hey, I grew a centimeter since last year.
+ Don't take me lightly!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."D... Don't put me down, man."
+##
+
+{Sara}
+#Message#
+\."I'll be calling you "shorty" someday."
+##
+
+{Joe}
+#Message#
+\."Urgh...!"
+##
+
+-----Page2-----
+{Joe} [Joe: Default / cara1-11]
+#Message#
+"Uhh... Sou, was it?"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Ahaha, I'm glad you remembered my name."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."'Course, man!
+ Keep watch of Sara for me!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...Ahaha. I think I need to worry more
+ about not dragging her down."
+##
+
+-----Page3-----
+{Joe} [Joe: Default / cara1-11]
+#Message#
+"I tried taking this painting off the wall earlier..."
+##
+
+#Message#
+\."But it's stuck on there tight, so no dice."
+##
+
+{Sara}
+#Message#
+\."Can't investigate it any more, huh..."
+##
+
+
+**********Event4********** (kei) (5,5)
+-----Page1-----
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Hey, Sara. Put out your hand."
+##
+
+{Sara}
+#Message#
+\."Um?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Received 3 bullets.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Wait, these are..."
+##
+
+{Keiji}
+#Message#
+\."No, they're not mine.
+ Found 'em while checking the seats."
+##
+
+{Sara}
+#Message#
+\."I've... never seen these in real life.
+ Are these real bullets?"
+##
+
+{Keiji}
+#Message#
+\."Probably. Dangerous stuff.
+ So would you take 'em?"
+##
+
+{Sara}
+#Message#
+\."Why me...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Joe'll get antsy if I have 'em."
+##
+
+#Message#
+\."That said, I can't give them to Joe either."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."So I'm counting on ya, Sara."
+##
+
+-----Page2-----
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"I'll take a close look at these dummy bullets."
+##
+
+#Message#
+\."Just gimme a little time."
+##
+
+#Message#
+"Alright... Better be a good policeman
+ and look around a little more."
+##
+
+#Message#
+\."You keep it up too, you two."
+##
+
+
+**********Event5********** (kai) (13,6)
+-----Page1-----
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"It would appear this is a doll."
+##
+
+{Sara}
+#Message#
+\."Its placement here seems significant."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."The head has a weighty feel."
+##
+
+#Message#
+\."When I shake it, I hear this... sloshing sound."
+##
+
+{Sara}
+#Message#
+\."Is there liquid inside...?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Perhaps the kidnappers' aim is to have us
+ stick a straw in here for hydration
+ when we find ourselves thirsty."
+##
+
+{Sara}
+#Message#
+\."The head seems pretty solidly-built, though."
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."..."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."...Apologies.
+ I was trying to tell a joke."
+##
+
+{Sara}
+#Message#
+\."At a time like this...?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Truly sorry..."
+##
+
+-----Page2-----
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"I will search diligently."
+##
+
+
+**********Event6********** (isu) (10,3)
+-----Page1-----
+#Message#
+\C[3]A dubious doll sits in the chair.
+##
+
+#Message#
+\C[3]Something strange is sitting in the chair.
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Looks like... it's a doll."
+##
+
+{Sara}
+#Message#
+\."A doll, huh..."
+##
+
+#Choice#
+Let's inspect it
+Let's not touch it
+##
+
+<調べてみましょう>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Let's take it off the chair and inspect it."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Hm...? The doll's attached to the chair."
+##
+
+{Sara}
+#Message#
+\."It feels like there's something to this."
+##
+
+<触れないでおきましょう>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."It's dangerous to touch things carelessly.
+ Let's observe it a little."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Good point."
+##
+
+{N/A}
+#Message#
+\.\C[3]I looked the doll over closely.
+##
+
+#Message#
+\.\C[3]It appeared to be affixed to the chair,
+made so that it couldn't be moved.
+##
+
+{Sara}
+#Message#
+\."It feels like there's something to this."
+##
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Well, that's good, anyway.
+ I don't know what I'd do if it suddenly attacked!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm...?)
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Taking a closer look, there's something
+between the doll and the chair.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is this... a \C[2]gun\C[4]?)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Revolver.
+##
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\."...What are you going to do with that, Sara?"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Ahh, sorry, miss Sara."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Hey, would you give me that?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Give Sou the gun
+Don't give it
+##
+
+<ソウに拳銃を渡す>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...Ahaha, aren't you scared?
+ Giving this to a total stranger..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Thinking it's safe because there aren't any bullets?"
+##
+
+#Message#
+\."No way, miss Sara. You carry this yourself.
+ Don't hand it to someone so easily."
+##
+
+{Sara}
+#Message#
+\."I understand..."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."I'm happy you trust me, though. Ahaha."
+##
+
+<渡さない>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."..."
+##
+
+#Message#
+\."Ahaha, that's right.
+ You shouldn't let it leave your sight."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."It doesn't seem to have bullets...
+ But definitely don't hand it over to someone else."
+##
+
+{Sara}
+#Message#
+\."I understand..."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."..."
+##
+
+<Choice End>
+
+-----Page2-----
+#Message#
+\C[3]A dubious doll sits in the chair.
+##
+
+#Message#
+\C[3]Something strange is sitting in the chair.
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Looks like... it's a doll."
+##
+
+{Sara}
+#Message#
+\."A doll, huh..."
+##
+
+#Choice#
+Let's inspect it
+Let's not touch it
+##
+
+<調べてみましょう>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Let's take it off the chair and inspect it."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Hm...? The doll's attached to the chair."
+##
+
+{Sara}
+#Message#
+\."It feels like there's something to this."
+##
+
+<触れないでおきましょう>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."It's dangerous to touch things carelessly.
+ Let's observe it a little."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Good point."
+##
+
+{N/A}
+#Message#
+\.\C[3]I looked the doll over closely.
+##
+
+#Message#
+\.\C[3]It appeared to be affixed to the chair,
+made so that it couldn't be moved.
+##
+
+{Sara}
+#Message#
+\."It feels like there's something to this."
+##
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Well, that's good, anyway.
+ I don't know what I'd do if it suddenly attacked!"
+##
+
+
+**********Event7********** (isu2) (10,6)
+-----Page1-----
+#Message#
+\C[3]A dubious doll sits in the chair.
+##
+
+#Message#
+\C[3]Something strange is sitting in the chair.
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Looks like... it's a doll."
+##
+
+{Sara}
+#Message#
+\."A doll, huh..."
+##
+
+#Choice#
+Let's inspect it
+Let's not touch it
+##
+
+<調べてみましょう>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Let's take it off the chair and inspect it."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Hm...? The doll's attached to the chair."
+##
+
+{Sara}
+#Message#
+\."It feels like there's something to this."
+##
+
+<触れないでおきましょう>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."It's dangerous to touch things carelessly.
+ Let's observe it a little."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Good point."
+##
+
+{N/A}
+#Message#
+\.\C[3]I looked the doll over closely.
+##
+
+#Message#
+\.\C[3]It appeared to be affixed to the chair,
+made so that it couldn't be moved.
+##
+
+{Sara}
+#Message#
+\."It feels like there's something to this."
+##
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Well, that's good, anyway.
+ I don't know what I'd do if it suddenly attacked!"
+##
+
+
+**********Event11********** (ダーツ) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fancy dart.
+It's extremely solidly-made.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event12********** (シガーカッター) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar cutter.
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Event13********** (はまき) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar with high-quality wrapping.
+##
+
+
+**********Event14********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event15********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event16********** (ダミー団) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Dummy bullets. I have 6. If you pull the trigger
+with these, it'll only make a sound.
+##
+
+
+**********Event17********** (あたり) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Live bullets. I have 3.
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Event18********** (１０００) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A 1000-yen bill.
+Paper money usable in Japan.
+##
+

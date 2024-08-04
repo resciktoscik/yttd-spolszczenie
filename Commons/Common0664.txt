@@ -1,0 +1,133 @@
+**********Common664********** (ﾅｵ「あの人の映像」)
+{Nao}
+#Message#
+"The video I'm talking about is...
+ that video I watched with you before, Sara..."
+##
+
+#Message#
+"There's... this video I've been curious about.
+ So there's a certain someone I suspect a little..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"P... Please listen to meee...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+"Hyah...?! Did I get something wrong?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+"A woman tied up in chains... while a man in front..."
+##
+
+{Sara}
+#Message#
+\.\C[4](If it's that video... maybe I can show it.)
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+"Actually, this video...
+ When I first watched it, I was too scared to look..."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So I used the fake Professor Mishima's monitor
+ to play it again."
+##
+
+{Sara}
+#Message#
+\."What sort of video was this?"
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\."U-Umm... well..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."It's possible it was just faked, right...?
+ So I don't want to say anything irresponsible..."
+##
+
+{Sara}
+#Message#
+\."I won't know unless you tell me."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent21-1}
+#Message#
+\."W-Well, look... It's that video
+ I \C[2]watched with you\C[0] before, Sara..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](A video I saw with her...)
+##
+

@@ -1,0 +1,192 @@
+**********Common125********** (1stﾒｲﾝ　議題①)
+{Q-taro}
+#Message#
+"...We just gotta choose
+ the most suspicious and incapable person."
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Let's find our resolve, everybody.
+ We can't run from it no more."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+".........."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."If nobody's gonna talk, I'll say it for ya."
+##
+
+#Message#
+\."Don't wanna jus' keep quiet and regret it."
+##
+
+#Message#
+"I'm thinkin' about survival. Ain't no proof
+ we can go home alive once this Main Game's over."
+##
+
+{Nao}
+#Message#
+\."Y... You're saying it won't end?!"
+##
+
+{Q-taro}
+#Message#
+\."They're gonna play with us... 'til we're all dead."
+##
+
+{Keiji}
+#Message#
+\."What are you getting at...?"
+##
+
+{Q-taro}
+#Message#
+\."If we're gonna keep exploring,
+ running into life-threatening traps..."
+##
+
+#Message#
+\."Then we gotta pick the people
+ who ain't no use for searching here, right?"
+##
+
+{Reko}
+#Message#
+\."The hell...? You don't mean...!!"
+##
+
+{Q-taro}
+#Message#
+\."I'll be honest... Gin, Nao, Kanna.
+ You three're no help when it comes to exploring.
+ I'm votin' for one of you."
+##
+
+{Nao}
+#Message#
+\."Huh...?!"
+##
+
+{Gin}
+#Message#
+\."...!!"
+##
+
+{Kanna}
+#Message#
+\.".........."
+##
+
+{Reko}
+#Message#
+\."Like shit you are, you superhuman gorilla!!
+ Don't make yourself out as useful just 'cause
+ you've got strength, god dammit!!"
+##
+
+{Q-taro}
+#Message#
+\."Then go ahead and choose me!!"
+##
+
+{Reko}
+#Message#
+\."Wha...?!"
+##
+
+{Q-taro}
+#Message#
+\."Vote with yer own will!! If I'm unnecessary,
+ take responsibility and kill me, Reko!!"
+##
+
+{Keiji}
+#Message#
+\."Q-taro...!"
+##
+
+{Q-taro}
+#Message#
+\."That's what I mean by resolve!!"
+##
+
+{Reko}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Nao! Kanna! Gin!
+ Tell him! Use your words... to prove your worth!!"
+##
+
+{Nao}
+#Message#
+\."...Ah... I... I...!"
+##
+
+[Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."I searched as best I could!! And I found things!
+ Lots of things...!!"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."K... Kanna..."
+##
+
+{Sou}
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\.".........."
+##
+
+{Q-taro}
+#Message#
+\."If ya don't talk... it's over...!"
+##
+
+{Keiji}
+#Message#
+\."...Looks bad, Sara.
+ Q-taro is serious."
+##
+
+{Sara}
+#Message#
+\."What should I...?!"
+##
+
+{Keiji}
+#Message#
+\."...Draw it out of 'em.
+ That's something only you can do."
+##
+
+{Sara}
+#Message#
+\.\C[4](Only I can...?!)
+##
+

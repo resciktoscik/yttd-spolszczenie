@@ -1,0 +1,167 @@
+**********Common612********** (クリアチップ集めきった)
+{N/A}
+#Message#
+\C[3]...
+##
+
+#Message#
+\.\C[3]One, two, three...
+##
+
+#Message#
+\.\C[3]...Ten.
+##
+
+#Message#
+\.\C[3]I count them over and over, and there's no mistake.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]I collected enough Clear Chips.
+##
+
+#Message#
+\.\C[3]I'm safe now.
+##
+
+#Message#
+\.\C[3]I survived the Sub-Game.
+##
+
+#Message#
+\.\C[3]It's over.
+##
+
+#Message#
+\.\C[3]..........
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Over...?
+##
+
+#Message#
+\.\C[3]No, it's about to begin again.
+##
+
+{SE: shock1}
+#Message#
+\.\C[10]The Main Game.
+##
+
+{Sara}
+#Message#
+\.\C[4](No...)
+##
+
+{N/A}
+#Message#
+\.\C[10]Someone will die again.
+##
+
+{Sara}
+{SE: feed1}
+#Message#
+\.\C[4](No... no... no...!!)
+##
+
+{SE: Damage4}
+#Message#
+\.\C[4](...No...)
+##
+
+#Message#
+\."Ugh..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I'd fallen asleep without realizing it.
+Deeply, like the dead.
+##
+
+#Message#
+\.\C[3]I can't get up.
+##
+
+#Message#
+\.\C[3]As if gravity is crushing me, I can't move.
+##
+
+{Sara}
+#Message#
+\.\C[4](Has all my exhaustion... caught up to me?)
+##
+
+#Message#
+\.\C[4](Was everyone else...
+ able to collect enough Clear Chips?)
+##
+
+{N/A}
+#Message#
+\.\C[3]My eyes quickly glanced around the room.
+##
+
+[Miley: Default smile (darkened) / cara14-7]
+{SE: sceneswitch2}
+#Message#
+\.\C[10]I realized there was someone there.
+##
+
+{Sara}
+#Message#
+\.\C[4](Wh...?!)
+##
+
+{N/A}
+#Message#
+\.\C[10]I can't move my body.
+##
+
+{Sara}
+#Message#
+\.\C[4](H... Help...!)
+##
+
+{???}
+#Message#
+\.".........."
+##
+
+[Miley: Smile smile (darkened) / cara14-8]
+#Message#
+\.\sp[15]"You can't show anyone..."
+##
+
+{N/A}
+#Message#
+\.\C[3]There was a rustling on top of the chair...
+##
+
+#Message#
+\.\C[3]And before I knew it, they were gone.
+##
+
+{Sara}
+#Message#
+\.\C[4](W... Who...)
+##
+
+{SE: Accent28-1}
+#Message#
+\."Ah...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Sitting up hastily, my body felt very light.
+##
+
+{Sara}
+#Message#
+\.\C[4](I slept like I was dead...)
+##
+

@@ -1,0 +1,215 @@
+**********Common63********** (ｹｲｼﾞ「……」)
+{Keiji}
+#Message#
+"..."
+##
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"..."
+##
+
+{Sara}
+#Message#
+\C[4](I need to hear more information first,
+ or I won't know what to do...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji's lips are sealed...)
+##
+
+#Choice#
+Have you never fired a gun?
+Why are you silent?
+Why make me do it?
+##
+
+<銃を撃ったことがない？>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+"Keiji... Have you never actually fired a gun?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I have."
+##
+
+{Sara}
+#Message#
+\.\C[4](He answered that easily, and yet...)
+##
+
+<黙る理由は何？>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+"Keiji... Why are you staying silent?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+#Message#
+\."Answer me!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Whoa."
+##
+
+{Sara}
+#Message#
+\."We're all being serious!
+ If you don't say what you're thinking, we won't know!"
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...Hahah."
+##
+
+#Message#
+\."Hah hah hah hah!"
+##
+
+#Message#
+\."What are you, my mom? Hahaha!"
+##
+
+#Message#
+\."Wahah..."
+##
+
+#Message#
+\."..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Ahh, that was a good laugh...
+ All right, I'll explain."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...\C[2]I shot a person\C[0].
+ Since then... I haven't been able to fire a gun."
+##
+
+{Sara}
+#Message#
+\."...Huh?!"
+##
+
+{Keiji}
+#Message#
+\."I know it's pathetic. Should've been
+ prepared for that when I became a detective."
+##
+
+{Sara}
+#Message#
+\."But... If something like that happened,
+ wouldn't it make the news...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Reality's not only what comes to the surface."
+##
+
+#Message#
+\."...That's all I got. It's the truth."
+##
+
+{Sara}
+#Message#
+\.\C[4](I doubt he'll tell me any more...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](But... It seems I've extracted
+ a new statement out of Keiji.)
+##
+
+<なぜ私にやらせたい？>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+"Keiji... Why do you want me to do it so badly?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."'Cause you're so darn cute."
+##
+
+#Message#
+\."How many times are you gonna make me say it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's clearly evading the question...)
+##
+
+<Choice End>
+

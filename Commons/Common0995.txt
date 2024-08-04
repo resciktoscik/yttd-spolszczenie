@@ -1,0 +1,326 @@
+**********Common995********** (②進展●PCﾊﾟｽ抜いた！)
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent28-1}
+#Message#
+\."Um... Kanna, could it be that
+ you didn't use the laptop to hack..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But rather, you solved the password
+ for \C[2]the laptop itself\C[0]?"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+\."...Yes."
+##
+
+{Sara}
+#Message#
+\.\C[4](I see...)
+##
+
+#Message#
+\.\C[4](Before the laptop was \C[2]handed to Sou\C[4]...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I was the last one to enter the password.)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](And my fingers left marks...
+ Little bits of dirt from when I pressed the keys!)
+##
+
+#Message#
+\."When did you solve the password?"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent28-1}
+#Message#
+\."It was \C[2]before the trading phase began\C[0]."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Hold on a sec!!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Don'tcha think that sounds funny, Sara?!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+That it does
+Does it?
+##
+
+<そうですね>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."...That it does. It's unusual."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Because we thought Sou \C[2]shared the laptop\C[0]
+ so that \C[2]he could learn the password from us\C[0]."
+##
+
+<そうですか？>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Does it?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."I mean, Sou \C[2]shared the laptop\C[0] wit' us
+ so he could \C[2]learn the password\C[0], didn't he?!"
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."But accordin' to you..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."You peeked inside \C[2]before\C[0] sharing
+ the laptop with everybody?!"
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\."..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yes..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Then there was no reason to join forces...?!"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."That's wrong! Sou wanted an opportunity
+ to reconcile with everyone..."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: sceneswitch2}
+#Message#
+\."Kanna... Sorry to say,
+ but there was another reason."
+##
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+\."Eh...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Why did Sou share the laptop with us...?)
+##
+
+#Choice#
+He awakened to goodness
+He wanted to be friends
+To view the "Sara" folder
+##
+
+<善意に目覚めた>
+
+{Sara} [Kanna: Upset look / cara3-27]
+{SE: Accent28-1}
+#Message#
+""I mustn't harass them any more"...
+ That's what you thought, right, Sou?"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Ahaha, I've never harassed anybody."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Your existence is harassment, meow!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sou, you were trying to look inside
+ the "Sara" folder on the laptop, weren't you?"
+##
+
+<友達になりたかった>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Like Kanna says, Sou wanted friends."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Calm down, Sara! Sou ain't that kind of guy!!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."That just can't be the case!!
+ Sara Chidouin!! You'll be penalized
+ for your ridiculous statements!"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sou, you were trying to look inside
+ the "Sara" folder on the laptop, weren't you?"
+##
+
+<【紗良】フォルダを見るため>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"To look in the "Sara" folder on the laptop...!"
+##
+
+{Keiji}
+#Message#
+\."Yep... That's gotta be it."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."The "Sara" folder had a separate password,
+ which was the name of Sara's mother."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Y... You gotta be kiddin'!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Sou!! You accepted \C[2]my deal\C[0]
+ without sayin' nothin' about this?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh?!)
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Ahaha... What of it?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Why, you...!!"
+##
+
+{Sara}
+#Message#
+\."Hold on a second!
+ What deal is this?!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."Ahaha... Don't sweat it. It's just between us."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."I don't think so."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."I thought it was strange from the get-go..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But it seems there was a deal going on
+ behind the sharing of the laptop."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...I'll have you tell us everything."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."About this suspicious \C[2]deal\C[0]."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"I... went to Sou an' asked him to share the laptop."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+"I was surprised. Q-taro said he would
+ give me his tokens in exchange."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"The two talked to each other, separated by
+ Sou's bedroom door... Kanna heard it too..."
+##
+

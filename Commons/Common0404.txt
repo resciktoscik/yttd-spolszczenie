@@ -1,0 +1,51 @@
+**********Common404********** (腕相撲敗北・ゲームオーバー)
+{Keiji}
+#Message#
+"Ugh... Such power... Never thought I'd lose..."
+##
+
+{Sara}
+#Message#
+\."N-No... Keiji...!"
+##
+
+{Q-taro}
+#Message#
+"I... lost a test of strength...?!
+ You gotta be kiddin' me..."
+##
+
+{Sara}
+#Message#
+\."Q... Q-taro...!"
+##
+
+{Alice}
+#Message#
+"My arm... my armmm...!!"
+##
+
+{Sara}
+#Message#
+\."No!! Alice...!!"
+##
+
+#Message#
+\.\sp[10]"W... a... ah... Stop..."
+##
+
+{Keiji}
+#Message#
+\.\sp[10]"...g... haa..."
+##
+
+{Q-taro}
+#Message#
+\.\sp[10]"Let... go...!"
+##
+
+{Alice}
+#Message#
+\.\sp[10]"Please... sto... p..."
+##
+

@@ -1,0 +1,10 @@
+=====Map235===== (★Battle Classroom)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\C[4](Is that... Keiji...?)
+##
+

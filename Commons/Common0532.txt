@@ -1,0 +1,85 @@
+**********Common532********** (ｹｲｼﾞ「変装した人は誰」)
+{Keiji}
+#Message#
+"...And there's another big problem.
+ What's the real identity of the fake...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Nope, that's not it. It's okay, Sara.
+ Stay cool and be quick."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+#Message#
+"Not that, Sara.
+ Onto the next one. There's no time."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"There's us, of course...
+ And Ranger and Safalin are both present."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Is the identity of the fake...
+ somebody we don't know?"
+##
+

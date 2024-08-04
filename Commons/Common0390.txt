@@ -1,0 +1,406 @@
+**********Common390********** (交渉１－夜　レコ)
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+"Sara, it's not a trade, but you wanna talk?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"Just wanna chat. You need breaks, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](A break, huh...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."Alright. I'll pour you some coffee."
+##
+
+{Sara}
+#Message#
+\."Thanks a lot."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."So... How you feeling, Sara?"
+##
+
+{Sara}
+#Message#
+\."Err..."
+##
+
+#Choice#
+I'm great
+I'm exhausted
+##
+
+<元気です>
+
+{Sara} [Reko: Default / cara6-1]
+{SE: Accent28-1}
+#Message#
+\."I'm feeling great.
+ ...I'll have plenty of Clear Chips at this rate."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."A-Amazing stuff, Sara..."
+##
+
+[Reko: Default / cara6-1]
+#Message#
+\."You aren't pushing yourself, are you?"
+##
+
+{Sara}
+#Message#
+\."No..."
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Huh... Maybe you were trained better than me... Hmm."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+<疲れました>
+
+{Sara} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."I have to admit... I'm exhausted."
+##
+
+{Reko}
+#Message#
+\."No doubt... 'Course you would be."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."We can't get rest, for our minds or our bodies."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Yo, Sara. You like singing?"
+##
+
+{Sara}
+#Message#
+\."Singing?"
+##
+
+#Choice#
+I like it
+I don't like it
+Let's sing!
+##
+
+<好きです>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+\."I do. Both listening to it, and singing myself..."
+##
+
+{Reko}
+{SE: Accent28-1}
+#Message#
+\."Oh, really...!"
+##
+
+<苦手です>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+\."Hmm... Not really..."
+##
+
+{Reko}
+#Message#
+\."What's the matter, Sara? Didn't take you for it,
+ but are you tone deaf or something?"
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."Doesn't matter! Your skill at singing
+ comes down to if you can sing with your soul!"
+##
+
+{Sara}
+#Message#
+\."Is that how it is...?"
+##
+
+<歌いますね>
+
+{Sara} [Reko: Mouth open / cara6-2]
+#Message#
+\."Now then, please listen. This song is called..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Hold up! What's the matter, Sara?!"
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."You're gonna sing?! Alright, we'll sing together!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Suddenly giving ourselves to the flow,
+we sang a song together.
+##
+
+{Reko} [Reko: Hands out, closed-eyes smile / cara6-13]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Feels good, huh, Sara?!"
+##
+
+{Sara}
+#Message#
+\."Yes...!"
+##
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+{SE: Accent21-1}
+#Message#
+\."I've loved singing since I was a kid."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."I got a lot of attention.
+ Called me a gifted student in grade school."
+##
+
+{Sara}
+#Message#
+\."So you were pretty amazing even then."
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."But it wasn't all sunshine and rainbows..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...Some weird guys approached me,
+ and got me making shitty songs I didn't wanna make."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I had a pretty long delinquent period, too..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Until I settled with my current one...
+ I smashed through all kinds of bands."
+##
+
+[Reko: Default / cara6-1]
+{SE: Accent21-1}
+#Message#
+\."...I made trouble for Alice, too."
+##
+
+{Sara}
+#Message#
+\."Alice...?"
+##
+
+#Message#
+\."Reko... Do you know about Alice's case in detail?"
+##
+
+{Reko}
+#Message#
+\."..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Nah... barely know anything."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."In fact, I didn't wanna know...
+ I acted like I never heard what info did come in."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Honestly... It was a shock..."
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."I changed since then, too...
+ I took a good look at myself."
+##
+
+[Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."And I realized all over again.
+ That yeah, I loved music."
+##
+
+{Sara}
+#Message#
+\."A lot must have happened."
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Yep."
+##
+
+[Reko: Default / cara6-1]
+#Message#
+\."That's why... my band now is precious."
+##
+
+{Sara}
+#Message#
+\."A treasure, I bet?"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent21-1}
+#Message#
+\."Yeah! ...On the level of my beloved bongos."
+##
+
+{Sara}
+#Message#
+\."Bongos... Come to think of it,
+ you mentioned that when you introduced yourself."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Huh...? Yeah."
+##
+
+{Sara}
+#Message#
+\."Do you have an attachment to them?"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\.".........."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."They're just regular bongos you could find anywhere.
+ ...But."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."They're precious bongos like none other in the world."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Well, anyway! Enough about me!
+ Tell me about yourself, Sara."
+##
+
+{Sara}
+#Message#
+\."Huh? O-Okay."
+##
+
+{N/A}
+#Message#
+\.\C[3]I continued having an enjoyable chat with Reko.
+##
+
+#Message#
+\.\C[3]I felt like I came to know her a little more deeply.
+##
+
+#Message#
+\.\C[3]But whether that was a good thing... I don't know.
+##
+
+#Message#
+\.\C[3]We would be killing each other again in the Main Game.
+##
+
+#Message#
+\.\C[3]If I knew nothing, maybe I could be heartless.
+...Sometimes I found myself thinking that way.
+##
+
+{Reko}
+#Message#
+\."That was a blast, Sara. See ya."
+##
+
+{Sara}
+#Message#
+\C[4](Well... That's it for discussions.)
+##
+

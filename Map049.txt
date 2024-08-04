@@ -1,0 +1,810 @@
+=====Map49===== (②■Hidden Room)
+
+**********Event1********** (PC) (6,5)
+-----Page1-----
+#Message#
+\C[3]There's something placed on the desk.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](...! It's a laptop computer!)
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Very intriguing, right?"
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."I did try starting it up.
+ There's no power cord, but it seems to be
+ running on battery power."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."So once the battery's dead, it's over.
+ Want to investigate what's on it, but..."
+##
+
+{Sara}
+#Message#
+\."Right..."
+##
+
+#Choice#
+What is on it?
+This might be a trap, too
+##
+
+<中身は何が？>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Umm... About that..."
+##
+
+<これも罠かもしれませんね>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"I'm aware of that.
+ But we can't not investigate it, you know?"
+##
+
+#Message#
+\."However... There's a problem."
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."This laptop is locked with a password."
+##
+
+{Sara}
+#Message#
+\."So you can't see what's stored on it?"
+##
+
+{Sou}
+#Message#
+\."I tried some random passwords,
+ but all I accomplished was draining the battery..."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."...You got any ideas?"
+##
+
+{Sara}
+#Message#
+\."Hmm..."
+##
+
+#Choice#
+Someone's name
+The kidnappers' organization
+A birthday
+##
+
+<誰かの人名>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"Aha! That's a possibility."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."And if it opens with someone's name...
+ There's a good chance they're the laptop's owner!"
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."...But if it's a name we don't know,
+ there'd be no way for us to learn it."
+##
+
+<誘拐犯の組織名>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+"Don't tell me... You know the name
+ of the organization behind this?!"
+##
+
+{Sara}
+#Message#
+\."No... I don't."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."R-Right, of course... Oof..."
+##
+
+<誕生日>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"Ah, the classic password.
+ ...In a bad way."
+##
+
+{Sara}
+{SE: flash-of-light-3}
+#Message#
+\."If it's a birthday,
+ then we'll find the answer in 365 tries!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Ahaha... ahem.
+ I'm guessing you wanna make me do it."
+##
+
+<Choice End>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."It'd be best if we could just conveniently
+ find a piece of paper with the password..."
+##
+
+{Sara}
+#Message#
+\."Now that would definitely be a trap."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...Yeah."
+##
+
+#Message#
+\."Hmm... If we just had a hint..."
+##
+
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+#Message#
+\."Ahh...
+ ...A hint, huh?"
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Maybe this is a hint from the kidnappers."
+##
+
+{Sara}
+#Message#
+\."What do you mean?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."There's probably information on here
+ that's valuable to us, but worthless to them."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."\C[2]Solve the riddle, and we'll generously give it out.
+ If you can't, it doesn't matter to us\C[0]... Like that."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."And we can't see it once the battery goes dead,
+ so it's like a time-limited treasure chest."
+##
+
+{Sara}
+#Message#
+\.\C[4](...I can't see them being that kind.)
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Okay, I'm going to stay here
+ and work on figuring out the password!
+ Miss Sara, tell me if you find any clues."
+##
+
+{Sara}
+#Message#
+\.\C[4](...I shouldn't get too hopeful.)
+##
+
+#Message#
+\.\C[4](But without hope, I can't think positive...)
+##
+
+#Message#
+\.\C[4](Until the battery runs out...
+ maybe Sou will be able to think positive, too.)
+##
+
+-----Page2-----
+#Message#
+\C[3]A laptop is placed on the desk.
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."I'll try to crack the password, miss Sara."
+##
+
+-----Page3-----
+#Message#
+\C[3]A laptop is placed on the desk.
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Ahh, sorry, sorry. I'm here."
+##
+
+[Sou: Stunned look / cara5-7]
+#Message#
+\."Waugh?!
+ Who's that guy?!"
+##
+
+#Message#
+\."I... I can't lend a hand there.
+ Sorry..."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."I was sitting in the darkness,
+ trying to think about the password."
+##
+
+[Sou: Stunned look / cara5-7]
+#Message#
+\."Miss Nao and Gin...?
+ They haven't come by here."
+##
+
+-----Page5-----
+#Message#
+\C[3]There's nothing on the desk.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](The laptop that was here is gone...!!)
+##
+
+#Choice#
+Check under the desk
+Look up at the ceiling
+##
+
+<机の下を調べる>
+
+<天井を見上げる>
+
+{Sara}
+#Message#
+\.\C[4](...Nothing of note on the ceiling...)
+##
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]While looking under the desk,
+I saw a green glow toward the back.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](It's...!!)
+##
+
+{N/A}
+#Message#
+\.\C[3]A familiar card...
+##
+
+{Sara}
+#Message#
+\.\C[4](...Keiji and Gin aren't looking this way...)
+##
+
+#Choice#
+Flip over the card
+Don't touch the card
+##
+
+<カードをめくる>
+
+{N/A}
+#Message#
+\.\C[3]I... grabbed the card.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](\C[2]Sacrifice\C[4]...?)
+##
+
+{Sou} [Sou: Smile with lightless eyes / cara5-8]
+#Message#
+\."Sara."
+##
+
+<カードに触れない>
+
+{Sara} [Sou: Smile with lightless eyes / cara5-8]
+#Message#
+\C[4](I... don't know any card.
+ I'm not looking at anything. It's fine.)
+##
+
+{N/A}
+#Message#
+\.\C[3]I got out from underneath the desk and raised my head.
+##
+
+{Sou}
+#Message#
+\."Sara."
+##
+
+<Choice End>
+
+{N/A} [Sou: Smile with lightless eyes / cara5-8]
+#Message#
+\.\C[3]I quickly returned the card to where it was.
+##
+
+{Sara}
+#Message#
+\."S... Sou...!
+\! You've come to!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Did he... see that...?
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Ugh...!!"
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Oww... Did I pass out...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."You got whacked in the back of the head.
+ Doesn't seem to have caused bleeding, though."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."That's awful... Who would do that...?"
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Ack... I've been had!
+ The laptop's gone..."
+##
+
+{Sara}
+#Message#
+\."It must have been stolen..."
+##
+
+#Choice#
+Did you see what was on it?
+What was the password?
+##
+
+<パソコンの中身は見ましたか？>
+
+<パスワードは何でしたか？>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, annoyed, tearing up / cara5-22]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I didn't figure anything out.
+ Not the password... or what data was on it..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Oh well..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."It must've been inconvenient for somebody.
+ So somebody used the confusion to steal it."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Somebody... on the first floor."
+##
+
+{Sara}
+#Message#
+\.\C[4](Who could that be...?!)
+##
+
+#Choice#
+Let's look for the culprit
+Let's find Nao first
+Let's all meet up
+##
+
+<持ち去った犯人を捜しましょう>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hold your horses, Sara.
+ If you get restless... you'll let it all get away."
+##
+
+<今は ナオさんを捜しましょう>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Hold up. Joe's searching the first floor.
+ We shouldn't be hasty just yet."
+##
+
+<みんなと合流しましょう>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Good point. Don't want our feelings nor our actions
+ to be all over the place."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."We'll round everyone up.
+ ...We should take the time to sort things out."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is there... someone malicious in our midst...?)
+##
+
+#Message#
+\.\C[4](...I don't know what's going on.)
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Hey,\.\. miss Sara..."
+##
+
+[Sou: Grave glare / cara5-5]
+#Message#
+\."Were you... looking at something earlier?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+Dodge the question
+Deny it
+##
+
+<はぐらかす>
+
+{Sara} [Sou: Grave glare / cara5-5]
+#Message#
+\."...I don't know.
+\! What are you talking about?"
+##
+
+<否定する>
+
+{Sara} [Sou: Grave glare / cara5-5]
+#Message#
+\."...No, I wasn't looking at anything."
+##
+
+<Choice End>
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\."..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."...Huh, I see."
+##
+
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Dark, isn't it?
+ There's only the light from that stand."
+##
+
+{Sara}
+#Message#
+\."What did you want to show me in this place?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Check what's on the desk."
+##
+
+
+**********Event3********** (hon) (11,5)
+-----Page1-----
+#Message#
+\C[3]It's hard to see in the dark,
+but there are bookshelves.
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."They've got proper covers...
+ But they're all blank notebooks on the inside."
+##
+
+#Message#
+\."Keiji was saying there might be a meaning
+ to the ordering of the books, though."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji came here, too...?)
+##
+
+-----Page2-----
+#Message#
+\C[3]It's hard to see in the dark,
+but there are bookshelves.
+##
+
+
+**********Event5********** (sou) (11,7)
+-----Page1-----
+{Sara}
+{SE: warning2}
+#Message#
+\C[10]"Sou?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Sou was lying face-down in the darkness.
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."...Ahhh..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."...It's okay, he's breathing.
+ Hey, get a hold of yourself."
+##
+
+{N/A}
+#Message#
+\.\C[3]Sou's body is limp.
+##
+
+{Keiji}
+#Message#
+\."...Sara, check the surroundings."
+##
+
+{Sara}
+#Message#
+\."R... Right!"
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Gin, could you look outside the room?"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+-----Page2-----
+#Message#
+\.\C[3]Sou's body is limp.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."There's signs of him being whacked in the head..."
+##
+
+
+**********Event6********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event7********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event8********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event9********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event18********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event19********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event20********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event21********** (EV021) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event22********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event23********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event24********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event25********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event26********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event27********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

@@ -1,0 +1,1083 @@
+**********Common1101********** (★メイプル戦前)
+{Girl}
+{SE: Accent28-1}
+#Message#
+"Heehee! Well, shall we have a tea party?"
+##
+
+{N/A}
+#Message#
+\.\C[3]She began pouring tea into cups.
+##
+
+{Girl}
+#Message#
+\."Here you go!
+ Can you tell what this is by the smell? Heehee..."
+##
+
+{Sara}
+#Message#
+\.\C[4](This fruity aroma must be...)
+##
+
+#Choice#
+Chamomile
+A caffe latte
+Don't drink it
+##
+
+<カモミール>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"It's chamomile."
+##
+
+{Girl}
+{SE: Accent24-1}
+#Message#
+\."Correct! I'm glad, Sara. You know your tea!"
+##
+
+{Sara}
+#Message#
+\."Haha, well..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Took a sip of the tea.
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+\."Nice one, Sara...
+ Let's keep it up and act friendly..."
+##
+
+<カフェラテ>
+
+{Sara} [Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent21-1}
+#Message#
+"It's a caffe latte."
+##
+
+{Girl}
+{SE: shrink1}
+#Message#
+\."That's not it. Did you want a caffe latte?
+ Sorry, Sara..."
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+\."S... Sara! It's clearly not a caffe latte!
+ Answer seriously here...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Guess my plan to soften the mood failed...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Took a sip of the tea.
+##
+
+<飲まない>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+{SE: Accent21-1}
+#Message#
+"No... I can't drink this stuff."
+##
+
+{Girl}
+{SE: warning2}
+#Message#
+\."So sad... So sad...
+ I wanted to be friends with you, Sara..."
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."Sara! We gotta be friendly here...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Mgh... My stomach's going to get all flabby...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Took a sip of the tea.
+##
+
+<Choice End>
+
+{Girl} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."Hey, hey, I had a question for you two..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Have you gotten friendly with each other?
+ I'll be happy if you have..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Have we become friendly or not...?)
+##
+
+#Choice#
+We've become friendly
+No, we haven't
+It's an unspeakable relationship
+##
+
+<仲良しになった>
+
+{Sara} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+{SE: Accent21-1}
+#Message#
+"Yeah, we're on pretty good terms now."
+##
+
+{Girl}
+{SE: Accent24-1}
+#Message#
+\."Good, I'm glad!
+ I always believed you two could become friends!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."Friends, huh..."
+##
+
+<なってない>
+
+{Sara} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+{SE: Accent21-1}
+#Message#
+"No, we haven't gotten there yet..."
+##
+
+{Girl}
+{SE: warning2}
+#Message#
+\."Why not...? Do you hate him?
+ Can you not become friends...?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."No, no! We're just so friendly that
+ we can make jokes like that! Right, Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](It's not good to just say what comes to mind...)
+##
+
+<もはや言えない関係>
+
+{Sara} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+{SE: Accent21-1}
+#Message#
+"At this point, I can't really
+ talk about the relationship we have..."
+##
+
+{Ranmaru}
+#Message#
+\."Bfffhh!!"
+##
+
+{Girl}
+{SE: warning2}
+#Message#
+\."Ranmaru, you spat it out... Do you hate tea...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."N-No! It's my, organs, y'know... They shorted out..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ngh! And we were having a good chat, too...!)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."W... Was that my fault?"
+##
+
+<Choice End>
+
+{Girl} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."You're both acting a little strange..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."You seem nervous, like you want to
+ talk to me about something. Am I wrong?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk... Can't let her suspect us...)
+##
+
+#Choice#
+It's not really anything
+I want to know your name
+I want to talk about something
+##
+
+<別に何もないさ>
+
+{Sara} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent21-1}
+#Message#
+"...Haha, it's nothing. Don't be so on edge."
+##
+
+{Girl}
+{SE: warning2}
+#Message#
+\."Oh, Sara, I don't want us to keep secrets.
+ I'm just worried... I feel a wall between us..."
+##
+
+{Sara}
+#Message#
+\."H-Hold on...! There's no wall at all!"
+##
+
+{Girl}
+#Message#
+\."I bet you felt distant from me because
+ I never told you my name... I'm sorry..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."I'm \C[2]Maple\C[0]... Technically an Obstructor..."
+##
+
+<名前が知りたい>
+
+{Sara} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent21-1}
+#Message#
+"Actually, I wanted to know your name.
+ You never told us, right?"
+##
+
+{Girl}
+{SE: Accent24-1}
+#Message#
+\."I'm glad! So you're interested in me, Sara..."
+##
+
+#Message#
+\."Sorry for not telling you my name before."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."I'm \C[2]Maple\C[0]... Technically an Obstructor..."
+##
+
+<話したいことがある>
+
+{Sara} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent21-1}
+#Message#
+"Actually... there's something I want to talk about!"
+##
+
+{Girl}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sara... You look so serious! I'll answer...!"
+##
+
+#Message#
+\."Come to think of it,
+ I never properly introduced myself, did I?"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."I'm the Obstructor \C[2]Maple\C[0].
+ But right now, I'm your discussion partner."
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+\."I knew it, you're the...!
+ ...Uh, so, your name's Maple?"
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."Yeah!
+ I'm happy to hear you use my name, Ranmaru."
+##
+
+#Message#
+\."Hey, could it be you two..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Want to ask about Hiyori...?"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+#Choice#
+We do
+We don't
+##
+
+<聞きたい>
+
+{Sara} [Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent21-1}
+#Message#
+"Yes... We want to know!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Please tell us, Maple...!"
+##
+
+<聞きたくない>
+
+{Sara} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+"No... I'd rather not..."
+##
+
+{Ranmaru}
+#Message#
+\."The hell are you saying, Sara?!
+ Tell us, Maple...!"
+##
+
+<Choice End>
+
+{Maple} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\.".........."
+##
+
+#Message#
+\."I really like Hiyori..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I'm in love with him."
+##
+
+#Message#
+\."But Hiyori doesn't like me yet."
+##
+
+{SE: Accent24-1}
+#Message#
+\."But we're getting closer, little by little. Heehee."
+##
+
+{Sara}
+#Message#
+\.\C[4](Little by little, huh...)
+##
+
+#Choice#
+Did you get a present?
+Terrible taste
+You're a good match
+##
+
+<プレゼントをもらった？>
+
+{Sara} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+"Did you get some kind of
+ present from him, perhaps...?"
+##
+
+{Maple}
+{SE: Accent24-1}
+#Message#
+\."Wow! I'm impressed you knew, Sara!"
+##
+
+#Message#
+\."I was really happy about the present Hiyori gave me."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's a very, very precious letter... Heehee..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Letter...)
+##
+
+<趣味が悪い>
+
+{Sara} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+"You've got terrible taste."
+##
+
+{Maple}
+{SE: warning2}
+#Message#
+\."How awful, Sara...
+ Some things just aren't right to say..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! I just said it without thinking!!)
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."S-So what if others don't understand?!
+ Love, uh... it's just like that... right...? \}I guess...?\{"
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+\."I suppose that's true... Thank you, Ranmaru."
+##
+
+#Message#
+\."I'm the only one who gets Hiyori...
+ Kind Hiyori, who gave me that letter..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Letter...)
+##
+
+<お似合いだ>
+
+{Sara} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+{SE: Accent21-1}
+#Message#
+"I think you're a good match for him, Maple."
+##
+
+{Maple}
+{SE: Accent24-1}
+#Message#
+\."Really? I'm glad! Thank you, Sara!"
+##
+
+#Message#
+\."Hiyori's so nice.
+ He gave me a letter..."
+##
+
+#Message#
+\."A letter filled with so much love, I'm sure!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Letter...)
+##
+
+<Choice End>
+
+{Maple} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."I want to walk by Hiyori's side, and live with him..."
+##
+
+#Message#
+\."But I shouldn't be selfish, should I..."
+##
+
+{Sara}
+#Message#
+\."Hey... Maple..."
+##
+
+#Choice#
+Show me the letter
+Did you get anything else?
+Let me tear it up!
+##
+
+<手紙を見せてくれ>
+
+{Sara} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+{SE: Accent21-1}
+#Message#
+"I'd like to see that precious letter for myself."
+##
+
+{Maple}
+{SE: Accent24-1}
+#Message#
+\."Ehehe, here it is."
+##
+
+#Message#
+\."But the contents are a secret. It's embarrassing!"
+##
+
+{Sara}
+#Message#
+\."I see..."
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+\."Sorry. Really, I'd love to boast about it...
+ And about Hiyori's card, too..."
+##
+
+<他にも何かもらった？>
+
+{Sara} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+{SE: Accent21-1}
+#Message#
+"Did you get anything else, maybe...?"
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+\."How observant! I did!"
+##
+
+#Message#
+\."This letter is my treasure,
+ but I received something even more amazing!"
+##
+
+{Sara}
+#Message#
+\."Which is...?"
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+\."Hiyori's card...!"
+##
+
+<破かせてくれ！>
+
+{Sara} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+{SE: Accent21-1}
+#Message#
+"Let me rip that letter to shreds...!"
+##
+
+{Maple}
+{SE: warning2}
+#Message#
+\."If you did that, I wouldn't forgive even you, Sara."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Ha... haha... Sara really loves to joke around...
+ Haha..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Get a grip, Ranmaru!
+ A followup like that won't convince her...!)
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+\."Oh, so it was a joke.
+ Still, Sara, don't joke like that."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Hiyori's letter... is my treasure, after all."
+##
+
+{Sara}
+#Message#
+\."I see..."
+##
+
+{Maple}
+{SE: Accent28-1}
+#Message#
+\."Sorry. Really, I'd love to boast about it...
+ And about Hiyori's card, too..."
+##
+
+<Choice End>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Card...?"
+##
+
+{Maple}
+{SE: Accent21-1}
+#Message#
+\."Yes! It's a most wonderful card...
+ When I insert it, I can sense Hiyori inside me...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Could that be the ID card?!)
+##
+
+#Message#
+\.\C[4](What does she mean "insert," though...?)
+##
+
+{Maple}
+#Message#
+\."Eheheh, I'm having such fun..."
+##
+
+#Message#
+\."Sorry for going on about myself.
+ I want to hear more about you two."
+##
+
+#Message#
+\."Hey, hey, both of you..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."Do you feel like... you'll \C[2]win\C[0]...?"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+#Choice#
+I don't know
+I'm not trying for it
+##
+
+<わからない>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: Accent21-1}
+#Message#
+"I don't know... I have no idea if..."
+##
+
+<狙ってない>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: Accent21-1}
+#Message#
+"I'm... not trying for such a thing..."
+##
+
+<Choice End>
+
+{Maple} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\.".........."
+##
+
+{SE: Accent42-1}
+#Message#
+\."Well then, I'll tell you something special."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."If you win, Sara and Ranmaru,
+ \C[2]you two can leave together\C[0]."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+\."Wha...?!"
+##
+
+{Maple}
+#Message#
+\."Sara, what's the smallest number of people
+ who can do a majority vote?"
+##
+
+{Sara}
+#Message#
+\."That would be..."
+##
+
+#Choice#
+One
+Two
+Three
+##
+
+<１人>
+
+{Sara} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+{SE: Accent21-1}
+#Message#
+"One...?"
+##
+
+{Maple}
+#Message#
+\."You're funny, Sara.
+ But that's incorrect."
+##
+
+#Message#
+\."The answer is three.
+ It has to be at least 2 against 1 to be a vote."
+##
+
+<２人>
+
+{Sara} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+{SE: Accent21-1}
+#Message#
+"Two...?"
+##
+
+{Maple}
+#Message#
+\."No, with two people it'd be 1 against 1.
+ You can't do a majority vote with that."
+##
+
+#Message#
+\."The answer is three.
+ It has to be at least 2 against 1 to be a vote."
+##
+
+<３人>
+
+{Sara} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+{SE: Accent21-1}
+#Message#
+\."That would be... three, right?"
+##
+
+{Maple}
+#Message#
+\."Correct. You need to have at least 2 against 1,
+ or it can't be a majority vote."
+##
+
+<Choice End>
+
+{Maple} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But what if all but two people died...?"
+##
+
+{Sara}
+#Message#
+\."Then you couldn't have a vote."
+##
+
+{Maple}
+{SE: sceneswitch2}
+#Message#
+\."Right. So there's \C[2]a final round rule\C[0]."
+##
+
+#Message#
+\."The two survivors live together for a while..."
+##
+
+#Message#
+\."Then pledge an oath that one will be a \C[2]human\C[0],
+ and one will be a \C[2]doll\C[0]."
+##
+
+{SE: Accent21-1}
+#Message#
+\."They decide through a discussion, and end the ritual."
+##
+
+{Sara}
+#Message#
+\."I-Is that true...?"
+##
+
+{Maple}
+#Message#
+\."But right now we're in a bonus stage,
+ with special rules."
+##
+
+{SE: Thunder10}
+#Message#
+\."So if you survive as a pair, you can win as a pair."
+##
+
+{Ranmaru}
+#Message#
+\."...!!"
+##
+
+{Maple}
+#Message#
+\."I'd be happier that way.
+ I want Hiyori to live."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I want you to win, Sara."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Else>
+
+{Ranmaru}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."S... Sara?"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+{SE: Accent41-1}
+#Message#
+\.\C[10]"Why are you... smiling...?"\.
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](Huh...?)
+##
+
+<Condition End>
+
+{Maple}
+#Message#
+\."Huh? I sense people outside the door..."
+##
+
+#Message#
+\."Are your friends waiting outside...?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, surprised eyes, mouth closed / cara91-18]
+#Message#
+\."Ah..."
+##
+
+{Maple}
+#Message#
+\."Sorry for the long chat. I hope we can talk again!"
+##
+
+{Sara}
+#Message#
+\."Ah... Hold on... The ID card..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Maple is cleaning up the tableware.
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk...! What do we do?!)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+"Sara..."
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: sceneswitch2}
+#Message#
+\."Look at Maple's back..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"The ID card!"
+##
+
+{Ranmaru}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Now's our only chance to grab it...!"
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+"...!"
+##
+
+#Choice#
+Pull it out
+Don't
+##
+
+<抜く>
+
+{N/A} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]I reached toward Maple.
+##
+
+<抜かない>
+
+{Sara} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I can't...! She'll notice me!"
+##
+
+{Ranmaru}
+#Message#
+"What're you chickening out for, Sara?!
+ Look...!"
+##
+
+{Sara}
+#Message#
+"Stop! Ranmaru...!"
+##
+
+<Choice End>
+
+{Maple} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: horror_piano chord3}
+#Message#
+"...What?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Ah, um...!"
+##
+
+{Maple}
+#Message#
+\."...Are you thinking something mean...?"
+##
+
+{Sara}
+#Message#
+\."T-That's not...!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Tch...!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Ranmaru took the letter from the table.
+##
+
+{Ranmaru}
+#Message#
+\."Please, Maple...!
+ Give us the ID card!"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."We need it so \N[4] can write
+ the followup to this letter... alright?"
+##
+
+{Maple}
+{SE: sceneswitch2}
+#Message#
+\."Don't touch that..."
+##
+
+{Ranmaru}
+#Message#
+\."Eh?"
+##
+
+{Maple}
+#Message#
+\."Don't touch Hiyori's letter!!"
+##
+

@@ -1,0 +1,17 @@
+**********Common1021********** (①QタロウB選択)
+{N/A}
+#Message#
+"I'll grab its body and give it a hurl!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

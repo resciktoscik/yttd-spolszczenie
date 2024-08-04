@@ -1,0 +1,140 @@
+**********Common766********** (ｶﾝﾅ「うろうろ」)
+{Kanna}
+#Message#
+"Kanna was looking for something she dropped..."
+##
+
+#Message#
+"Kanna... wasn't really doing anything...
+ Just wandering absentmindedly..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"K-Kanna won't give in..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+"I-I wonder what you mean..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+"And I wasn't able to find it in the end...
+ We just ran out of time."
+##
+
+[Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna... Why aren't you speaking...?)
+##
+
+#Choice#
+Question her
+Cancel
+##
+
+<問い詰める>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kanna: Arms crossed, dead-eyed / cara3-4]
+{SE: Accent21-1}
+#Message#
+\."Are you hiding something, Kanna?"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Eh...?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Come to think of it, I feel like you were
+ the only one I didn't see around then."
+##
+
+#Message#
+\."Really, where were you?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."I... I mean..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent28-1}
+#Message#
+\."Ah...! I was looking for something I dropped..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Something she dropped...?)
+##
+

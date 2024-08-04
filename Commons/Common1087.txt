@@ -1,0 +1,1014 @@
+**********Common1087********** (■移動せずイベント)
+{Sara}
+#Message#
+\.\C[4](I should search here a little more...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."Sara, you done searching here?"
+##
+
+{Sara}
+#Message#
+\."Yes. I don't see anything else of note..."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."In 'zat case... It means we've searched
+ all the rooms on the floor map."
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Tch... Where did that \N[4] hide?"
+##
+
+<Else>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Damn \N[4]...
+ He wasn't nowhere!"
+##
+
+<Condition End>
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."There was that door that wouldn't open...
+ And I'm wondering about the elevator, too."
+##
+
+<Else>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."There were a few places we couldn't go, too...
+ What should we do?"
+##
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth closed / cara91-9]
+{SE: sceneswitch2}
+#Message#
+\."Hey, just an idea, but..."
+##
+
+[Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent28-1}
+#Message#
+\."Maybe we could split up and search in pairs?"
+##
+
+[Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."We've seen all the traps in the rooms.
+ More efficient than searching as a big group, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's right... And we do have a time limit.)
+##
+
+#Choice#
+Let's search separately
+We should all stay together
+##
+
+<別々に探索しよう>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: Accent21-1}
+#Message#
+\."Alright. Let's search separately."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."Right, now you're talking."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Kanna... has to go with this person...?"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Too bad. I'm no good at babysitting neither."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."I'm going with you, Kanna!
+ Who knows what this guy'll pull."
+##
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+\."Tch... So what, her and the annoying big sister
+ are a package deal?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Damn, what a pest..."
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+\."..."
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."We need an adult here...
+ Alice, you protect Kanna."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."What...?! You would have me look after her?!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: flash-of-light-3}
+#Message#
+\."Just my specialty...!
+ So you respect my brotherly ability, Keiji Shinogi!"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Oogh..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Left arm down, default smile / cara2-10]
+{SE: Accent21-1}
+#Message#
+\."...Oh yeah, Sara. You got a minute?"
+##
+
+{Sara}
+#Message#
+\."Yes...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji got close to my ear.
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...You should keep an eye on what the pairs do."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...I understand."
+##
+
+{Keiji} [Keiji: Left arm down, default smile / cara2-10]
+#Message#
+\."Wahaha... I see..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."What're you talking about? Let's get going, Sara."
+##
+
+{Sara}
+#Message#
+\."...Right."
+##
+
+<みんなで一緒にいるべきだ>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent21-1}
+#Message#
+\."No, splitting up is dangerous...
+ We should move as a group."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Hmm..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Sara, you got a minute?"
+##
+
+{Sara}
+#Message#
+\."Yes...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji got close to my ear.
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Just a feeling I've been getting, but..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I think... there's somebody acting shady among them."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+#Message#
+\."Who is it...?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I can't pin that part down...
+ Hard to get a hold on their actions in a big group."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."So won't you let the pairs split off?
+ One-on-one makes it easy to watch 'em."
+##
+
+{Sara}
+#Message#
+\."But..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."All of us've gone through hell after hell
+ on our way here. It'll be okay."
+##
+
+{Sara}
+#Message#
+\."Understood..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+\."So then... We'll be acting separately."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Kanna... has to go with this person...?"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."Too bad. I'm no good at babysitting neither."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."I'm going with you, Kanna!
+ Who knows what this guy'll pull."
+##
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+\."Tch... So what, her and the annoying big sister
+ are a package deal?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Damn, what a pest..."
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+\."..."
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."We need an adult here...
+ Alice, you protect Kanna."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."What...?! You would have me look after her?!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: flash-of-light-3}
+#Message#
+\."Just my specialty...!
+ So you respect my brotherly ability, Keiji Shinogi!"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Oogh..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Mai} [Mai: Mouth open / cara92-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Oh, really?
+ I wanted to have more fun together... Too bad."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."Alright. Let's go, Sara."
+##
+
+{Sara}
+#Message#
+\."...Right."
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+#Message#
+"Hey, don't leave!"
+##
+
+[Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+\."Sara... Uh..."
+##
+
+[Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Can we talk for a sec?"
+##
+
+{Sara}
+#Message#
+\."Let's head back first...
+ I'm a little tired."
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."No, it's important... It has to be now..."
+##
+
+{Sara}
+#Message#
+\."...?"
+##
+
+#Choice#
+Tell me
+I don't want to hear it
+Professing your love?
+##
+
+<話してくれ>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: Accent21-1}
+#Message#
+"Alright. Tell me."
+##
+
+{Ranmaru}
+#Message#
+\."Right... You see..."
+##
+
+<聞きたくない>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: Accent21-1}
+#Message#
+"...I don't want to hear it right now."
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+\."Look, just listen...!"
+##
+
+[Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."You see..."
+##
+
+<告白ですか？>
+
+{Sara} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: flash-of-light-3}
+#Message#
+"Are you professing your love unto me...?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."Pppph...!! What's with that flowery language?!"
+##
+
+{Sara}
+#Message#
+\."I'm joking. So what's the important thing?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth closed / cara91-11]
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: sceneswitch2}
+#Message#
+\."There's... a person from Asunaro in our midst."
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent21-1}
+#Message#
+\."I'm thinking this is special info only I have..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Asunaro... In other words, there's someone
+ who's part of the kidnappers' organization...?)
+##
+
+#Choice#
+One of the Dummies?
+One of the survivors?
+Is it just one?
+##
+
+<ダミーズの誰かか？>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent21-1}
+#Message#
+\."Is it... one of the Dummies?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."All I know is...
+ there's a \C[2]human\C[0] from Asunaro."
+##
+
+[Ranmaru: Hand up, mouth open / cara91-1]
+#Message#
+\."...And the Dummies are dolls, right?"
+##
+
+<生存者の誰かか？>
+
+{Sara} [Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent21-1}
+#Message#
+\."Is it... one of the survivors?"
+##
+
+{Ranmaru}
+#Message#
+\."All I know is...
+ there's a \C[2]human\C[0] from Asunaro."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."The Dummies are dolls, so...
+ If you think about it, it's as you say..."
+##
+
+<ひとりだけか？>
+
+{Sara} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: Accent21-1}
+#Message#
+\."Is there only one...?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, mouth closed / cara91-13]
+#Message#
+\."Huh...?"
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."I... I didn't consider that..."
+##
+
+[Ranmaru: Hand up, mouth open / cara91-1]
+{SE: Accent21-1}
+#Message#
+\."All I know is...
+ there's a \C[2]human\C[0] from Asunaro."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."I dunno if that could mean there's more, but..."
+##
+
+[Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."At the very least... the Dummies are dolls, so..."
+##
+
+<Choice End>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."No way...!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Unthinkable... Keiji, Kanna, Reko...
+ One of them might be from Asunaro...?)
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\.\C[4](Unthinkable... Keiji, Q-taro, Reko...
+ One of them might be from Asunaro...?)
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+#Message#
+\.\C[4](Unthinkable... Keiji, Kanna, Alice...
+ One of them might be from Asunaro...?)
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\.\C[4](Unthinkable... Keiji, Q-taro, Alice...
+ One of them might be from Asunaro...?)
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+#Message#
+\.\C[4](I can't conceive of it...)
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth closed / cara91-11]
+#Message#
+\."Sorry for troubling you..."
+##
+
+[Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."But now was the only time I could say it."
+##
+
+{Sara}
+#Message#
+\."R-Right..."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+#Message#
+\."I dunno you at all, Sara, but..."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth closed / cara91-11]
+{SE: Accent21-1}
+#Message#
+\."Being just a pair... I kinda don't like it..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, mouth open / cara91-15]
+#Message#
+\."Sara, just one more thing..."
+##
+
+{Sara}
+#Message#
+\."...What?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+#Message#
+\."Nah, sorry. It's nothin'..."
+##
+
+{Sara}
+#Message#
+\."...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: Accent21-1}
+#Message#
+\."Huh...? Looking at the map,
+ we've been everywhere on this floor..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."And \N[4] wasn't anywhere, dammit!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Hey! Where are you?!
+ \N[4]...!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](Strange... We should've been everywhere...)
+##
+
+#Choice#
+Is there somewhere we didn't go?
+Did he pass us and go down a floor?
+##
+
+<まだ行ってない部屋が？>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Is there somewhere we haven't been yet?)
+##
+
+#Message#
+\.\C[4](Like... a secret room, say...)
+##
+
+<入れ違いで下の階へ？>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Did \N[4] pass us by
+ and go down to the lower floor...?)
+##
+
+#Message#
+\.\C[4](There are two elevators, so that's not impossible...)
+##
+
+#Message#
+\.\C[4](But... wait...)
+##
+
+<Choice End>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Come to think of it, I feel like this Floor 5 map
+ is \C[2]strange compared to Floor 4\C[4]...)
+##
+
+#Message#
+\.\C[4](It's this spot here...!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Let's search a little more, Sara."
+##
+
+{Girl}
+#Message#
+"What a shame... Are you going already?"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+\."Our bad. We're in a hurry."
+##
+
+{Girl}
+#Message#
+\."It's okay! You two look busy.
+ It must be hard..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Hey, have you become friends?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Friends...)
+##
+
+#Choice#
+We've become friends
+We're allies
+Just normal
+Don't really like him
+##
+
+<友達になれた>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yeah... We've become friends."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."It's fine... You don't have to force an answer..."
+##
+
+{Girl}
+#Message#
+\."Heehee, I'm happy you're getting along. Come again."
+##
+
+<仲間だ>
+
+{Sara} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We're... allies."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth closed / cara91-9]
+#Message#
+\.".........."
+##
+
+{Girl}
+#Message#
+\."Heehee, I'm happy you're getting along. Come again."
+##
+
+<ふつうだ>
+
+{Sara} [Ranmaru: Hand tilted, mouth closed / cara91-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Well... it's just normal between us."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: shrink1}
+#Message#
+\."...It seems a little off to say
+ "for now, we're just normal"..."
+##
+
+{Girl}
+#Message#
+\."I'm sure you can become friendlier.
+ Come again."
+##
+
+<あんまり好きじゃない>
+
+{Sara} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I don't really like him..."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."Urk...!!
+ It's not about liking me or not, right?!"
+##
+
+{Girl}
+#Message#
+\."I'm sure you can become friendlier.
+ Come again."
+##
+
+<Choice End>
+
+{\N[4]'s Voice} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Ah... No need to search."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+"...Tag is over."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](He put on a spare collar...?!)
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Showing yourself as boldly as always...
+ Gonna flaunt that gun again?"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\."No trust at all, huh? Fine, I'll give it to you."
+##
+
+{N/A}
+{SE: Attack3}
+#Message#
+\.\C[3]\N[4] took something out of his pocket
+and tossed it toward Keiji.
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...?"
+##
+
+#Message#
+\.".........."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."...!!"
+##
+
+#Message#
+\."This is..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+[Keiji: Turned to side, gripping face in fear / cara2-17]
+#Message#
+"Guh...!!"
+##
+
+[Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+\."It's my..."
+##
+
+[Keiji: Gripping shadowed face, sweating (bloodshot eyes) / cara2-36]
+#Message#
+\."Why... do you have the one from...?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]Keiji suddenly began writhing.
+##
+
+{Sara}
+#Message#
+\."W-What is it...?!"
+##
+

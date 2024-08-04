@@ -1,0 +1,24 @@
+**********Common192********** (ｷﾞﾝ 八分雨？)
+[Gin: Default / cara9-1]
+#Message#
+\C[3]Select Gin as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Gin: Default / cara9-1]
+#Message#
+\.\C[4](No! Gin is Gin Ibushi!
+ It's a pretty stoic name for a kid,
+ so I remember it...)
+##
+
+<いいえ>
+
+<Choice End>
+

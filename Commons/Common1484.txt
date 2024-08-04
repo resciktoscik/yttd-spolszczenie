@@ -1,0 +1,33 @@
+**********Common1484********** (⑥前・サラB選択)
+{N/A}
+#Message#
+"We have to pound on the door and call for help...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+"I'll get behind Maple and pull out the ID card...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

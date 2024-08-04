@@ -1,0 +1,12 @@
+**********Common594********** (８－昼（イベなし次のターンへ）)
+{Sara}
+#Message#
+\C[4](This is the last chance
+ to collect Clear Chips before time's up...!)
+##
+
+#Message#
+\.\C[4](I can't idle about!
+ Let's do those attractions!)
+##
+

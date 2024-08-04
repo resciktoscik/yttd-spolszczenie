@@ -1,0 +1,55 @@
+**********Common397********** (●交渉をしない)
+{N/A}
+#Message#
+\C[3]Don't negotiate with hallucinations and advance time?
+##
+
+#Message#
+\C[3]Don't negotiate with anyone and advance time?
+##
+
+#Choice#
+Don't negotiate
+Think it over
+##
+
+<誰とも交渉はしない>
+
+<もう一度考える>
+
+<Choice End>
+
+{Sara}
+#Message#
+\C[4](What... is this...)
+##
+
+#Message#
+\.\C[4](Am I... dreaming...?)
+##
+
+#Message#
+\C[4](They vanished...)
+##
+
+#Message#
+\.\C[4](Just... hallucinations.)
+##
+
+#Message#
+\.\C[4](Hahaha... What's happened to me...?)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I'm not going to give in...)
+##
+
+#Message#
+\C[4](This time... I think I won't.)
+##
+

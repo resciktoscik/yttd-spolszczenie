@@ -1,0 +1,12 @@
+**********Common304********** (BGMボックス)
+#Choice#
+Select BGM
+Cancel
+##
+
+<BGMを選択する>
+
+<やめる>
+
+<Choice End>
+

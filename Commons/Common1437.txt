@@ -1,0 +1,16 @@
+**********Common1437********** (★ﾊﾞﾄﾙ③流れ)
+{N/A}
+#Message#
+\C[3]The books flew toward Hayasaka all at once.
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Not good! Run...!!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+"W... Wahhh!! Don't...!!"
+##
+

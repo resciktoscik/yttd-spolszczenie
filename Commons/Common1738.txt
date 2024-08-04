@@ -1,0 +1,151 @@
+**********Common1738********** (●Q1「みんな良いヤツ」)
+{Q-taro}
+#Message#
+"\V[983], Hinako, \V[988], Anzu...!
+ They were all our allies in the end!!"
+##
+
+#Message#
+"Listen, we can't accept a loss!!
+ We've got the Dummies' regrets on our backs!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Muscle gorilla! Don't be fooled, meow!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."W-What's that, Gin?!"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."You say they were all allies...
+ But Shorty might've been an enemy, meow..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."G-Guess so, but...! Even Hinako was killed..."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent21-1}
+#Message#
+\."I wanna believe in her too, but..."
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: sceneswitch2}
+#Message#
+\."Will we find the answer that way, woof?!
+ Can we really win, meow?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Urk...!!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Sorry...! Lemme think this over!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](It seems Q-taro reworked his statement...)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+"I wanted to bring 'em all back myself..."
+##
+
+{SE: Accent21-1}
+#Message#
+"The Dummies were created to kill us, but..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."That don't matter none!!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+\."\V[983], Hinako, \V[988], Anzu...!
+ They were all our allies in the end!!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."We gotta show him the weight of that...!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Q-taro...)
+##
+

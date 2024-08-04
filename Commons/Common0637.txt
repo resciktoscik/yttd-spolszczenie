@@ -1,0 +1,25 @@
+**********Common637********** (交渉ー地獄ミシマ)
+{Mishima} [Mishima: Hallucination / cara12-6]
+#Message#
+".........."
+##
+
+#Choice#
+Discuss
+Burn off his head
+Cancel
+##
+
+<話し合う>
+
+{Mishima} [Mishima: Hallucination / cara12-6]
+#Message#
+".........."
+##
+
+<首を焼き切る>
+
+<やめる>
+
+<Choice End>
+

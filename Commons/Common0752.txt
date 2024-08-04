@@ -1,0 +1,112 @@
+**********Common752********** (ﾚｺ「ｿｳﾅｵｶﾝﾅに身代が」)
+{Reko}
+#Message#
+"Who did the fifth trade... Sou or Kanna...?"
+##
+
+#Message#
+"If Keiji's the \C[2]Keymaster\C[0],
+ Sou, Kanna, or Nao should be the \C[10]Sacrifice\C[0], right?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+"Hand me whatever, Sara, but don't expect anything..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Am I... wrong somehow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Dammit, what's this foreboding I feel...?!"
+##
+
+#Message#
+"Sara... You really didn't have tokens, right?
+ You didn't hand someone the \C[10]Sacrifice\C[0]?"
+##
+
+{Sara}
+#Message#
+\."Please believe me...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent21-1}
+#Message#
+\."Alright...!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."In that case, it's gotta be someone with tokens
+ who made it to the final vote, yeah...?!"
+##
+
+#Message#
+\.".........."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: Accent28-1}
+#Message#
+\."Sou... or Kanna...?"
+##
+

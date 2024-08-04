@@ -1,0 +1,54 @@
+**********Common100********** (おわり)
+{N/A}
+#Message#
+\sw[99]"You okay with that?"\sw[100]
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A}
+#Message#
+\sw[99]"Alright, lock in the barrel!"\sw[100]
+##
+
+#Message#
+\sw[99]"And let the barrel spin!"\sw[100]
+##
+
+{SE: kaiten}
+#Message#
+\.\sp[12]Shaka-shaka-shaka-shaka-shaka...\^
+##
+
+#Message#
+\sw[99]"It's stopped! Now fire in any order you want!"\sw[100]
+##
+
+#Message#
+\.\sw[99]"Oh, but of course, shooting the same target twice
+ or discussing with the targets is against the rules!"\sw[100]
+##
+
+#Message#
+\.\sw[99]"Hey, there's only three real bullets.
+ It's simple!"\sw[100]
+##
+
+{Sara}
+#Message#
+\.\C[4](This is one thing I can't mess up...)
+##
+
+#Message#
+\.\C[4](I'm going to do this, on my own...!)
+##
+

@@ -1,0 +1,183 @@
+**********Common211********** (ﾅｵ「カイに脅された」)
+{Nao}
+#Message#
+"Kai threatened me...
+ to strike Sou in the head..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+"..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No response...)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+"..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No response...)
+##
+
+{Nao}
+#Message#
+"..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No response...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+"After the body collection announcement,
+ I ran with the box to the cafeteria, where..."
+##
+
+#Message#
+\."Suddenly, Kai pulled me by the hand
+ and pushed me into the kitchen."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"Remain quiet...
+ If you hide here, you won't be found."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"O... Okay..."
+##
+
+#Message#
+\."Kai protected me..."
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."It's quite admirable of you
+ to stand up to the kidnappers, miss Nao."
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."Please!! Don't tell anyone about this!!"
+##
+
+#Message#
+\."Once Kai knew the situation, he made me a proposal."
+##
+
+{Kai} [Kai: Looking down and to side, holding up ladle / cara8-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Well then, miss Nao,
+ would you indulge a request of mine?"
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."W... What kind of request...?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."That is enough."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Don't be a wet blanket.
+ We were just getting to the good part."
+##
+
+{Kai} [Kai: Default / cara8-1]
+{SE: Accent21-1}
+#Message#
+\."I am astonished you would tell such a lie, miss Nao."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."I... It's not a lie!!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Kai... You deny threatening her?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Indeed. If she had been threatened,
+ she would surely tell all at the start."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+{SE: Accent28-1}
+#Message#
+\."For miss Nao has no reason to defend me."
+##
+
+#Message#
+\."It is quite different from when Alice
+ stood up for miss Reko."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."Awful... You're awful, Kai...!!"
+##
+

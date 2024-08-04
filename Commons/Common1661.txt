@@ -1,0 +1,79 @@
+**********Common1661********** (◆ｱﾝｽﾞ「犯人はﾒｲﾌﾟﾙ」)
+{Anzu}
+#Message#
+"Got it! The culprit is Maple!
+ She's the one who applied the paint!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"Whatcha mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"Whatcha mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"See, when we couldn't go down to Floor 4...
+ She was there slapping on the paint!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."But wasn't the shutter closed
+ so no one could get into the cemetery?"
+##
+
+{Anzu} [Anzu: Scared look, mouth closed / cara96-7]
+#Message#
+\."Oh yeah, huh!! Sorry!!"
+##
+

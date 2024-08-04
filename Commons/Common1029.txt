@@ -1,0 +1,19 @@
+**********Common1029********** (①アリスB選択)
+{N/A}
+#Message#
+"Hmph... Leave it to me.
+ I'll take aim at a weak spot
+ and strike it down with the shovel...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

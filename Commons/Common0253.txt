@@ -1,0 +1,144 @@
+**********Common253********** (ｹｲｼﾞ「ソウ＆カンナ」)
+{Keiji}
+#Message#
+"You got a way to determine the roles?"
+##
+
+#Message#
+"Sou and Kanna are working together.
+ ...I've got no doubt."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Sara, this isn't really the time
+ to be handing me this, now is it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Hmm... That doesn't seem right."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Keiji}
+#Message#
+"Hmm... That doesn't seem right."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Keiji}
+#Message#
+"Hmm... That doesn't seem right."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"...I'll wait 'til the last second."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+"I know that much... But I don't know their roles."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."If there were some way to determine them..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is there a way to do that...?)
+##
+
+#Choice#
+There is
+There isn't
+##
+
+<存在する>
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+{SE: Accent28-1}
+#Message#
+"...Oh, really?"
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."...That's good. Guess I'll persist
+ until you can figure it out, Sara..."
+##
+
+<存在しない>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"...Figures."
+##
+
+<Choice End>
+

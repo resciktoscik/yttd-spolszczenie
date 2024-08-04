@@ -1,0 +1,18 @@
+**********Common1412********** (②マイB選択)
+{N/A}
+#Message#
+"Soft ropes? I'll use the knife
+ to cut through those like bread!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

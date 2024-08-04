@@ -1,0 +1,237 @@
+**********Common476********** (ﾅｵ「重さ…罰則…」)
+{Nao}
+#Message#
+"Is the Impression Room... meant to punish us?!"
+##
+
+#Message#
+"Weight... weight... decrease... increase...?
+ 35.5 kilograms...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+"U-Um, I think we should discuss right now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+{Nao}
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+{Nao}
+#Message#
+"E-Err..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good...! She's just hesitating...!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"If that's what it was, then..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+{SE: Accent28-1}
+#Message#
+"Um... Sara."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Despite what Reko says...
+ I wonder if we're really irrelevant?"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Nao}
+#Message#
+\."The poison timer, and the "Left: 35.5kg" display..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why are they here where only we can see them...?"
+##
+
+{Sara}
+#Message#
+\."Ah..."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."And also...
+ Why were just the three of us separated out?"
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Ranger said we had a "special invitation," but..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Sure enough, there's too many oddities
+ for that to be the case.)
+##
+
+#Choice#
+The high-placers aren't here
+It's not good for viewing
+##
+
+<成績上位者がいない>
+
+{Sara} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Ranger said this was a reward for our efforts..."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Y... Yes."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But considering that, it's bizarre that
+ it's only those of us who placed low here."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."...Huh...?"
+##
+
+[Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."I-I wonder...
+ Is the goal of this Impression Room..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent28-1}
+#Message#
+\."To be a penalty...?!
+ It's to punish the flunking students...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](It's not unthinkable...)
+##
+
+<鑑賞するには見づらい>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."It's... hard to get
+ a good "impression" from here, isn't it?"
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."That's true...! It is hard to see...
+ I wonder what that means..."
+##
+
+{Sara}
+#Message#
+\."Is there a way to improve things
+ for a better view...?"
+##
+
+{Nao}
+#Message#
+\."..."
+##
+
+#Message#
+\."I'm starting to feel like it's not that..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm off the mark... I just wasted time!)
+##
+
+<Choice End>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Give me a little more time to think...!"
+##
+

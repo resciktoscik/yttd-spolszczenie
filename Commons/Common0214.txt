@@ -1,0 +1,84 @@
+**********Common214********** (▽ｶｲ…肯定)
+{Sara}
+#Message#
+"It's just as Kai says.
+ What's even to be done with you, Nao?"
+##
+
+{Nao}
+#Message#
+\."Please believe me, Sara!!"
+##
+
+{Kai}
+#Message#
+\."Oh dear, you still won't admit it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](That isn't shifting the balance...!)
+##
+
+#Message#
+"It certainly could.
+ With your own lockpicking skills, Kai!"
+##
+
+{Kai}
+#Message#
+\."My proficiency is cooking.
+ Do you have proof I can pick a lock?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I... don't!)
+##
+
+#Message#
+"Exactly! If you took advantage of her weakness,
+ namely the professor's head...!"
+##
+
+{Kai}
+#Message#
+\."Would miss Nao hit a person with all her might
+ just because of that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I need... a little more proof...!)
+##
+
+#Message#
+"That's true...
+ Wouldn't it be better to hit him yourself...?"
+##
+
+{Kai}
+#Message#
+\."Indeed, as I have greater arm strength."
+##
+
+{Sara}
+#Message#
+\.\C[4](This... isn't it.)
+##
+
+#Message#
+"So you admit it, Kai!"
+##
+
+{Kai}
+#Message#
+\."Oh? What are you referring to?"
+##
+
+{Sara}
+{SE: flash-of-light-3}
+#Message#
+"Kai, you wanted to steal the \C[2]laptop\C[0] Sou had!"
+##
+

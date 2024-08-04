@@ -1,0 +1,213 @@
+**********Common395********** (★クリアチップ事後処理)
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Managed to do it... I'm exhausted."
+##
+
+#Message#
+\."Here's the Clear Chips.
+ We'll take one each."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+"U-Um! Was I... of use?!"
+##
+
+#Message#
+\."Now... let's split these Clear Chips, okay?"
+##
+
+#Message#
+"U-Um! Was I... of use?!"
+##
+
+#Message#
+\."Now... let's split these Clear Chips, okay?"
+##
+
+#Message#
+"U-Um! Was I... of use?!"
+##
+
+#Message#
+\."Now... let's split these Clear Chips, okay?"
+##
+
+[Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\."..........
+ Let's split the Clear Chips."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 2 Clear Chips.
+##
+
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Good work! You're really somethin'!"
+##
+
+#Message#
+\."So these are Clear Chips... Let's take one each!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Q-taro}
+#Message#
+\."Well then, as promised, let's trade tokens!
+ It's a trade of trust, y'know."
+##
+
+{N/A}
+#Message#
+\.\C[3]Traded 10 Me-Tokens with Q-taro.
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Ahaha, that was a close one.
+ I'd have died without you there, miss Sara."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."And there's the Clear Chips.
+ As promised, I'll take two."
+##
+
+#Message#
+\."And there's the Clear Chips.
+ Let's be friendly and share them."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+"Hell yes! Piece of cake, Sara!"
+##
+
+#Message#
+\."Sorry to be selfish... But I'm taking 2 Clear Chips.
+ To make up for it, I'll give you 30 tokens."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 30 Reko Me-Tokens.
+##
+
+#Message#
+\."Here, the Clear Chips! Half and half!"
+##
+
+#Message#
+\.\C[3]Obtained 2 Clear Chips.
+##
+
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+"We've done it, Sara!
+ We made it back safely!"
+##
+
+#Message#
+\."Let's share the Clear Chips!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Woohoo, meow! Big sis Sara!
+ We're the ultimate team, woof!"
+##
+
+#Message#
+\."Let's share these stars too, meow!
+ Two for big sis Sara, two for me!
+ Sparkly, meow!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 2 Clear Chips.
+##
+
+#Message#
+\."Let's share these stars too, meow!
+ One for big sis Sara, one for me!"
+##
+
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+\."Hmph... That was nothing much..."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Seniority first, Sara Chidouin.
+ You will receive but one Clear Chip...!"
+##
+
+[Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Worry not, Sara Chidouin.
+ We will split the Clear Chips equally."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Sara}
+#Message#
+\.\C[4](I've got a Clear Chip, so maybe I should
+ skip on attractions and rest this time...)
+##
+
+#Message#
+\.\C[4](With that, this attraction is done.)
+##
+
+#Message#
+\.\C[4](I should give my extra Clear Chips
+ to someone who doesn't have enough...)
+##
+

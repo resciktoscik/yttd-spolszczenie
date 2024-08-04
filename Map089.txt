@@ -1,0 +1,246 @@
+=====Map89===== (Memory Dance Game)
+
+**********Event1********** (sara) (1,12)
+-----Page1-----
+{Sara}
+#Message#
+"Stay calm... I just have to do
+ the same moves as my opponent."
+##
+
+#Message#
+"When they flash yellow, I'll do a pose...!"
+\C[4](By touching my own body...!)
+##
+
+#Message#
+"Can't be overwhelmed by their weird appearance!
+ Gotta remember the moves!"
+##
+
+#Message#
+"When the opponent flashes, I'll do a pose!"
+\C[4](By touching my own body...!)
+##
+
+#Message#
+"Here comes an awfully cute foe...!"
+##
+
+#Message#
+"When the opponent flashes, I'll do a pose!"
+\C[4](By touching my own body...!)
+##
+
+-----Page2-----
+{Sara}
+#Message#
+"Please... do your... best...!"
+##
+
+
+**********Event2********** (aibo) (15,12)
+-----Page1-----
+{Kanna}
+#Message#
+"...Oof... What a creepy opponent..."
+##
+
+#Message#
+"Even Kanna can remember three moves...!"
+##
+
+#Message#
+"Wahhh... What an unapproachable opponent..."
+##
+
+#Message#
+"The first moves are fast...
+ But there's probably a pattern."
+##
+
+#Message#
+"The final opponent...! She's a pretty one..."
+##
+
+#Message#
+"Oogh... These are difficult moves..."
+##
+
+#Message#
+".........."
+##
+
+-----Page2-----
+{Reko}
+#Message#
+"I'm gonna bring up a perfect memory of the moves...!"
+
+\C[3](Will remember all moves, but only once.)
+##
+
+#Choice#
+Use perfect memory
+Cancel
+##
+
+<完全記憶を使う>
+
+{Reko}
+{SE: Accent21-1}
+#Message#
+"Remembered it...!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko}
+#Message#
+"A hairy eyeball doin' dances?
+ That's some real rock 'n' roll shit!"
+##
+
+#Message#
+"You better remember dance moves this simple."
+##
+
+#Message#
+"What a gross look and moves...
+ Kinda want 'em for my band."
+##
+
+#Message#
+"Bet there's a pattern to the quick opening moves!"
+##
+
+#Message#
+"Gah...!! This one's got some moves!!"
+##
+
+#Message#
+"My pride won't allow losin' to this chick!"
+##
+
+-----Page3-----
+{Gin}
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"Wooooof! Good luck, big sis Sara!"
+##
+
+#Message#
+"Eyeball monsters are gross, meow!"
+##
+
+#Message#
+"That thing's gross, but good luck, meow!"
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"Wooooof! Good luck, big sis Sara!"
+##
+
+#Message#
+"Icky! All red and slimy...
+ This one's gross too, meow!"
+##
+
+#Message#
+"Meow! I'm gonna protect you, big sis Sara!"
+##
+
+#Message#
+\."Give it your all, meow!!"
+##
+
+#Message#
+"Wooooof! Good luck, big sis Sara!"
+##
+
+#Message#
+"A girl opponent, meow!
+ But you're cooler, big sis Sara! Woof!"
+##
+
+#Message#
+"I'm the only one who can protect big sis Sara, meow!"
+##
+
+
+**********Event6********** (EV006) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."We'll start with me...!"
+##
+
+{Kanna}
+#Message#
+\."Please do your best, Sara...!"
+##
+
+#Message#
+\."Please do your best, Sara...!"
+##
+
+#Message#
+\."O... Okay..."
+##
+
+{Reko}
+#Message#
+\."Have fun out there!"
+##
+
+{Gin}
+#Message#
+\."Meow! Good luck, big sis Sara!
+ I'm rooting for you, woof!!"
+##
+
+{N/A}
+#Message#
+Memory Dance ~Rules~
+##
+
+#Message#
+\.Remember the order of the moves your opponent does,
+and repeat them back.
+##
+
+#Message#
+\.The moves are \C[2]Up, Down, Right, Left, and Body\C[0].
+\C[2]Body\C[0] is done by touching the character's body.
+##
+
+#Message#
+\.Some characters may remember the moves for you.
+Remembered moves are displayed at the bottom.
+##
+
+#Choice#
+Hear it again
+Just try it
+##
+
+<もう一度説明を聞く>
+
+<とりあえずやってみる>
+
+{N/A}
+#Message#
+\.Touching your ally's icon will give you
+advice and the like, so... Good luck.
+##
+
+<Choice End>
+

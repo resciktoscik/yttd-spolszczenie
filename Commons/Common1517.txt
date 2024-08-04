@@ -1,0 +1,22 @@
+**********Common1517********** (⑦アリスB選択)
+{N/A}
+#Message#
+"Heh... It's simple. We need only \C[2]provoke\C[0] them...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

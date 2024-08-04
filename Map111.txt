@@ -1,0 +1,1140 @@
+=====Map111===== (★AI Room)
+
+**********Event2********** (mishima) (11,4)
+-----Page1-----
+#Message#
+\C[3]The monitor is broken.
+##
+
+{Sara}
+#Message#
+\.\C[4](Professor Mishima...)
+##
+
+
+**********Event4********** (gin) (5,6)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Gin is displayed on the back.
+##
+
+-----Page2-----
+{Gin}
+#Message#
+\.\sw[564]"Myaaawn...? Woof!
+ Why'd you wake me up, big sis Sara?"\sw[567]
+##
+
+{Sara}
+#Message#
+\.\C[4](This is... an AI of Gin...)
+##
+
+#Message#
+\."Sorry. Can we talk for a bit, Gin?"
+##
+
+{Gin}
+#Message#
+\.\sw[564]"Of course, meow!
+ Woohoo!!"\sw[567]
+##
+
+{Sara}
+#Message#
+\.\C[4](Heehee, he's so cheerful...)
+##
+
+{Gin}
+#Message#
+\.\sw[564]"Still wanna ask questions, meow?"\sw[567]
+##
+
+#Choice#
+History
+Physical info
+Relatives
+Death Game info
+What he holds dear
+Cancel
+##
+
+<経歴>
+
+{Gin}
+#Message#
+\.\sw[564]"...History? What should I talk about, woof?"\sw[567]
+##
+
+{Sara}
+#Message#
+\."Hm... Just an introduction would make me happy."
+##
+
+{Gin}
+#Message#
+\.\sw[564]"Gin Ibushi from Heiwa Elementary Class 6-3!
+ I'm 12 years old, meow!"\sw[567]
+##
+
+#Message#
+\.\sw[564]"I take care of the animals, meow!!"\sw[567]
+##
+
+{Sara}
+#Message#
+\."Is school fun for you?"
+##
+
+{Gin}
+#Message#
+\.\sw[564]"Hmm... It's not that fun
+ 'cause of some guys I don't like, meow."\sw[567]
+##
+
+#Message#
+\.\sw[564]"But it's fun to meet friends, woof!
+ We play games together, meooow!"\sw[567]
+##
+
+{Sara}
+#Message#
+\."Do you wear that outfit to school, too?"
+##
+
+{Gin}
+#Message#
+\.\sw[564]"Nah, because people get mad.
+ It's only when I'm at home, woof!"\sw[567]
+##
+
+#Message#
+\.\sw[564]"...It's kinda easier to talk when I wear this, meow.
+ But I can't wear it to school, so I get uneasy, woof."\sw[567]
+##
+
+#Message#
+\.\sw[564]"So people at school tell me I'm obedient, woof!
+ But that's wrong... meow..."\sw[567]
+##
+
+{Sara}
+#Message#
+\.\C[4](Maybe... he's not good at communicating
+ unless he's wearing those clothes.)
+##
+
+{Gin}
+#Message#
+\.\sw[564]"My aspirations are to
+ live with animals all the time, meow!"\sw[567]
+##
+
+{Sara}
+#Message#
+\."Heehee... What kinds of animals?"
+##
+
+{Gin}
+#Message#
+\.\sw[564]"I'm way into gators right now, meow!
+ They're cute, wooooof!"\sw[567]
+##
+
+{Sara}
+#Message#
+\.\C[4](H-Huh... Maybe because he's a boy...)
+##
+
+<身体的な情報>
+
+{Gin}
+#Message#
+\.\sw[564]"I'm 138 centimeters and 35.5 kilograms, meow!
+ That's 4 foot 6 inches and 78 pounds, woof!"\sw[567]
+##
+
+#Message#
+\.\sw[564]"And I grew 2 centimeters at my last checkup, meow!"\sw[567]
+##
+
+{Sara}
+#Message#
+\."Your growth spurt and voice change
+ must be coming up soon."
+##
+
+{Gin}
+#Message#
+\.\sw[564]"Obviously, meow!
+ I'm gonna be bigger than you, big sis Sara!"\sw[567]
+##
+
+{Sara}
+#Message#
+\."Ahaha, I'm sure you'll look really cool.
+ I've got high hopes for you."
+##
+
+{Gin}
+#Message#
+\.\sw[564]"Yeah! I'll sweep you off your feet, meow!
+ Be grateful, woof!"\sw[567]
+##
+
+{Sara}
+#Message#
+\."Okay, let's make it a promise."
+##
+
+{Gin}
+#Message#
+\.\sw[564]"Got it, meow!
+ A promise for when I outgrow you, woof!"\sw[567]
+##
+
+{Sara}
+#Message#
+\.\C[4](A promise for the future...)
+##
+
+#Message#
+\.\C[4](Gin and I both have a future.)
+##
+
+#Message#
+\.\C[4](We definitely... can't die.)
+##
+
+<親族について>
+
+{Gin}
+#Message#
+\.\sw[564]"My family's a double-income household, meow!"\sw[567]
+##
+
+#Message#
+\.\sw[564]"I don't have siblings, so...
+ It's lonely when I'm there by myself, meow..."\sw[567]
+##
+
+#Message#
+\.\sw[564]"My mom's super nice even when she's exhausted, woof."\sw[567]
+##
+
+#Message#
+\.\sw[564]"No matter how late she gets home,
+ she always makes dinner... And no matter how much
+ I tell her not to overwork herself..."\sw[567]
+##
+
+{Sara}
+#Message#
+\."Do you like your mom?"
+##
+
+{Gin}
+#Message#
+\.\sw[564]"I love her, meow!
+ I'm worried how she's even busier lately, woof..."\sw[567]
+##
+
+{Sara}
+#Message#
+\."What about your dad?"
+##
+
+{Gin}
+#Message#
+\.\sw[564]"I don't like some things... but I like him, meow."\sw[567]
+##
+
+#Message#
+\.\sw[564]"But I super hate when he's a drunkard
+ who causes trouble, meow! It's embarrassing, woof!"\sw[567]
+##
+
+#Message#
+\.\sw[564]"And he's always getting yelled at by mom and
+ apologizing, so it's like he's got no dignity, woof."\sw[567]
+##
+
+#Message#
+\.\sw[564]"I don't wanna be that kind of
+ pathetic grown-up, meooow!"\sw[567]
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh... So it's a decent enough family...)
+##
+
+{Gin}
+#Message#
+\.\sw[564]"...But I'm sure I won't, meow.
+ 'Cause I'm not blood-related to dad, woof."\sw[567]
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Gin}
+#Message#
+\.\sw[564]"I heard he married mom when I was 2, meow!
+ So that genetics stuff won't make me
+ turn out like him, woof!"\sw[567]
+##
+
+{Sara}
+#Message#
+\."Is that so...?"
+##
+
+{Gin}
+#Message#
+\.\sw[564]"Well, it's not like I hate dad, woof.
+ It's true, meow!"\sw[567]
+##
+
+<デスゲームの情報>
+
+{Gin}
+#Message#
+\.\sw[564]"I dunno, meow...
+ It's scary, woof..."\sw[567]
+##
+
+#Message#
+\.\sw[564]"What's dying feel like, meow...?"\sw[567]
+##
+
+{Sara}
+#Message#
+\."I... don't know either."
+##
+
+{Gin}
+#Message#
+\.\sw[564]"I don't wanna never meet mom and dad again, meow..."\sw[567]
+##
+
+#Message#
+\.\sw[564]"Big sis Sara... are you scared too, meow?"\sw[567]
+##
+
+{Sara}
+#Message#
+\."...Yeah, I am.
+ ...Really scared..."
+##
+
+{Gin}
+#Message#
+\.\sw[564]".........."\sw[567]
+##
+
+#Message#
+\.\sw[564]"I'll definitely protect you, meow!
+ Come see me anytime, woof!"\sw[567]
+##
+
+{Sara}
+#Message#
+\."Heehee... Thanks..."
+##
+
+<大切な物について>
+
+{Gin}
+#Message#
+\.\sw[564]"What I hold dear...? That's hard, meowww."\sw[567]
+##
+
+#Message#
+\.\sw[564]"Hmm... It's gotta be mom and dad, meow!
+ I'd be sad if they went away, woof!"\sw[567]
+##
+
+#Message#
+\.\sw[564]"Ah! And the Mew-chan cushion I'm always with!
+ They're super precious to me, meow!"\sw[567]
+##
+
+#Message#
+\.\sw[564]"We're always together, so I forgot, meow!
+ Sorry, Mew-chaaan! Woof..."\sw[567]
+##
+
+{Sara}
+#Message#
+\."Mew-chan is family to you too, huh?"
+##
+
+{Gin}
+#Message#
+\.\sw[564]"That's right, meow!
+ I got seriously mad when dad was gonna
+ throw them away, meow! Unforgivable, woof!"\sw[567]
+##
+
+#Message#
+\.\sw[564]"Get me a new one?! No way, meow!!
+ You're a dummy, woof!"\sw[567]
+##
+
+#Message#
+\.\sw[564]"I'm getting furious just remembering, woof!
+ Mom should yell at him again, meowww!"\sw[567]
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event5********** (alice) (5,2)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Alice is displayed on the back.
+##
+
+
+**********Event6********** (reko) (5,4)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Reko is displayed on the back.
+##
+
+-----Page2-----
+{Reko}
+#Message#
+\.\sw[560]"Hm...? Yo, Sara. What's up?"\sw[565]
+##
+
+{Sara}
+#Message#
+\.\C[4](This is... an AI of Reko...)
+##
+
+{Reko}
+#Message#
+\.\sw[560]"Huh...? Something's weird.
+ Right, I'm an AI, aren't I..."\sw[565]
+##
+
+{Sara}
+#Message#
+\."...Is it okay if I ask you things?"
+##
+
+{Reko}
+#Message#
+\.\sw[560]"Hell yeah, ask away."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Still got something to ask?"\sw[565]
+##
+
+#Choice#
+History
+Physical info
+Relatives
+Death Game info
+What she holds dear
+Cancel
+##
+
+<経歴>
+
+{Reko}
+#Message#
+\.\sw[560]"Err... I'mma super cool,
+ 23-year-old singer-songwriter...
+ Something like that?"\sw[565]
+##
+
+#Message#
+\.\sw[560]"I've liked music since I was a kid.
+ Classical, folk, heavy metal...
+ I listened to all of it."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Think around grade school,
+ I found myself starting to compose and write lyrics.
+ My instincts moved my body."\sw[565]
+##
+
+#Message#
+\.\sw[560]"That was a fun time... People praised me,
+ and my parents were just plain happy..."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Once they started calling me a gifted kid...
+ Then there started being more noise."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Old bastards in the music industry wanting money...
+ My pops craving the limelight... Before I knew it,
+ I was making music that my heart wasn't in."\sw[565]
+##
+
+#Message#
+\.\sw[560]"In middle school, I rebelled. I was a rocker!
+ I made tons of songs nobody even wanted!"\sw[565]
+##
+
+#Message#
+\.\sw[560]"But even then, noise swarmed around me.
+ Man, even my spirit had to give in."\sw[565]
+##
+
+#Message#
+\.\sw[560]"From high school on, all the spice was gone...
+ Didn't even have anger... My activity dried up."\sw[565]
+##
+
+#Message#
+\.\sw[560]"I had tons of chances to be famous.
+ But I smashed 'em all. I was totally just
+ the industry's problem child."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Everybody kept their distance from me.
+ Once I couldn't even gather members,
+ I borrowed Alice to make a band... Hahaha."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Then two and a half years ago...
+ He caused that incident..."\sw[565]
+##
+
+#Message#
+\.\sw[560]"..."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Well, at any rate, I am who I am now
+ 'cause of that shitty past."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Learn something from that, Sara?"\sw[565]
+##
+
+<身体的な情報>
+
+{Reko}
+#Message#
+\.\sw[560]"5 foot 7, 121 pounds.
+ Pretty proud of my reflexes! And I can remember
+ choreography in a snap, so... My memory's bangin'!"\sw[565]
+##
+
+#Message#
+\.\sw[560]"Well... I'm not great at baseball and stuff...
+ Hell, maybe I'm not great at anything
+ that's got nothing to do with music."\sw[565]
+##
+
+{Sara}
+#Message#
+\."By the way, what are your measurements?"
+##
+
+{Reko}
+#Message#
+\.\sw[560]"N-No reason to tell you that, right...?"\sw[565]
+##
+
+{Sara}
+#Message#
+\.\C[4](So she won't answer just anything...
+ Even her AI can be kind of troublesome.)
+##
+
+<親族について>
+
+{Reko}
+#Message#
+\.\sw[560]"Family... Well, uh..."\sw[565]
+##
+
+#Message#
+\.\sw[560]"...I like my mom. Though she's a little weird.
+ She's affectionate... and I cause her lots of trouble.
+ Yeah, I gotta show my appreciation more."\sw[565]
+##
+
+#Message#
+\.\sw[560]"My old man... Well, he's a good guy...
+ But let's say he gives in to temptation.
+ He's not the most true to his convictions."\sw[565]
+##
+
+#Message#
+\.\sw[560]"I hated him for the longest time...
+ But he's woken up now, and gone back to
+ his plain and simple personality."\sw[565]
+##
+
+#Message#
+\.\sw[560]"After them is... Alice, huh."\sw[565]
+##
+
+#Message#
+\.\sw[560]"He's... what should I say?
+ Why'd he do something like that...?"\sw[565]
+##
+
+#Message#
+\.\sw[560]"A while after he got arrested...
+ I left music."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Ahh... I just remembered.
+ At the time, I wrote in my diary, which is rare..."\sw[565]
+##
+
+#Message#
+\.\sw[560]"I wrote that music, the thing I'd poured
+ my soul into all this time... suddenly felt like
+ a cold series of notes... this inorganic thing."\sw[565]
+##
+
+#Message#
+\.\sw[560]"I wondered, was this how music sounded
+ to people who didn't care about it...?"\sw[565]
+##
+
+#Message#
+\.\sw[560]".........."\sw[565]
+##
+
+#Message#
+\.\sw[560]"I always thought I didn't care about my brother,
+ and never listened to him, but..."\sw[565]
+##
+
+#Message#
+\.\sw[560]"Truth is... Maybe I was a little jealous of
+ my normal brother. And acted that way out of spite..."\sw[565]
+##
+
+#Message#
+\.\sw[560]"..."\sw[565]
+##
+
+#Message#
+\.\sw[560]"...You shouldn't ever murder somebody..."\sw[565]
+##
+
+<デスゲームの情報>
+
+{Reko}
+#Message#
+\.\sw[560]"Why do I gotta go through this shit...?"\sw[565]
+##
+
+#Message#
+\.\sw[560]"Do we have anything in common...?"\sw[565]
+##
+
+#Message#
+\.\sw[560]"I haven't got a clue..."\sw[565]
+##
+
+{Sara}
+#Message#
+\.\C[4](Something in common...?
+ I wonder if there is...)
+##
+
+<大切な物について>
+
+{Reko}
+#Message#
+\.\sw[560]"Believe it or not...
+ I think family's important, right?
+ I wanna show appreciation to my parents."\sw[565]
+##
+
+#Message#
+\.\sw[560]"But like, right now... The original me
+ is being put through this Death Game, yeah?"\sw[565]
+##
+
+#Message#
+\.\sw[560]"If she dies, she can't do... anything.
+ So when you think of it like that,
+ what's important's my own life, ain't it?"\sw[565]
+##
+
+{Sara}
+#Message#
+\."...What about your instruments?"
+##
+
+{Reko}
+#Message#
+\.\sw[560]"Instruments...?"\sw[565]
+##
+
+{Sara}
+#Message#
+\."When I first met Reko...
+ I heard she treasured her bongos."
+##
+
+{Reko}
+#Message#
+\.\sw[560]"Bongos...?"\sw[565]
+##
+
+#Message#
+\.\sw[560]"Well, sure.
+ I'm playing bongos in my new band, but..."\sw[565]
+##
+
+{Sara}
+#Message#
+\.\C[4](Bongos don't seem to be
+ ringing a bell for this AI Reko...)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event8********** (Qtaro) (11,2)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Q-taro is displayed on the back.
+##
+
+-----Page2-----
+{Q-taro}
+#Message#
+\.\sw[562]"Hm? Now where's this?"\sw[566]
+##
+
+{Sara}
+#Message#
+\.\C[4](This is... an AI of Q-taro...)
+##
+
+#Message#
+\."Um, Q-taro, could we talk?"
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"Yeah, s'okay with me.
+ If yer fine with an AI, we can have a chat."\sw[566]
+##
+
+{Sara}
+#Message#
+\."Thank you very much."
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"Quit with the formality!
+ Let's talk all casual-like!"\sw[566]
+##
+
+#Message#
+\.\sw[562]"I'll answer any question ya got!"\sw[566]
+##
+
+#Choice#
+History
+Physical info
+Relatives
+Death Game info
+What he holds dear
+Cancel
+##
+
+<経歴>
+
+{Q-taro}
+#Message#
+\.\sw[562]"I was raised up in an orphanage
+ that's just a mite bit weird."\sw[566]
+##
+
+#Message#
+\.\sw[562]"Had people from all sortsa countries.
+ I got a lotta dialects and stuff mixed in me..."\sw[566]
+##
+
+#Message#
+\.\sw[562]"On top'a compulsory education, they even put me
+ through high school... Can't thank the place enough."\sw[566]
+##
+
+#Message#
+\.\sw[562]"An' now, I'm a pro baseball player.
+ ...Kiddos at the orphanage root for me, too."\sw[566]
+##
+
+#Message#
+\.\sw[562]"I wanna hurry up and show 'em...
+ That even guys in situations like ours can
+ get on a mound and have the stadium roarin'..."\sw[566]
+##
+
+{Sara}
+#Message#
+\.\C[4](So he has an affection for the orphanage...)
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"Well, point is, I got no history yet.
+ I'm about to be makin' some radiant records!"\sw[566]
+##
+
+#Message#
+\.\sw[562]"Better get yer autographs early, Sara!"\sw[566]
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll ask the real Q-taro for one sometime...)
+##
+
+<身体的な情報>
+
+{Q-taro}
+#Message#
+\.\sw[562]"6 foot 4 inches! 230 pounds!
+ And lemme tell ya, it's all muscle, not fat!"\sw[566]
+##
+
+{Sara}
+#Message#
+\."W-Wow..."
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"My position's pitcher, but I got confidence
+ in my batting, base-running, and fielding!"\sw[566]
+##
+
+{Sara}
+#Message#
+\.\C[4](Not really familiar, but he sounds strong...!)
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"But my greatest weapon's my head.
+ Gotta be smart to be a first-class athlete."\sw[566]
+##
+
+{Sara}
+#Message#
+\."Do you, now?"
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"'Course, I'm reflecting on the time
+ I tore apart those puzzle rings by force, but..."\sw[566]
+##
+
+{Sara}
+#Message#
+\.\C[4](Whatever he's doing,
+ his physical abilities tower above the rest...)
+##
+
+<親族について>
+
+{Q-taro}
+#Message#
+\.\sw[562]".........."\sw[566]
+##
+
+{Sara}
+#Message#
+\."Is it hard to discuss...?"
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"Nah... there's just nothing to discuss."\sw[566]
+##
+
+#Message#
+\.\sw[562]"'Cause I've never seen my birth parents' faces.
+ Only place I knew was the orphanage."\sw[566]
+##
+
+#Message#
+\.\sw[562]"That's why... the people there were my moms and dads.
+ Doesn't matter our blood relation."\sw[566]
+##
+
+#Message#
+\.\sw[562]"But, well..."\sw[566]
+##
+
+#Message#
+\.\sw[562]"I do get thinkin' sometimes.
+ What kinda people was I born to,
+ and what kinda genetics do I got...?"\sw[566]
+##
+
+#Message#
+\.\sw[562]"I started baseball jus' for fun, but...
+ I've thought how if I pitch as a first-string pro...
+ maybe my birth parents'll be watchin'."\sw[566]
+##
+
+{Sara}
+#Message#
+\."...Do you want to meet them?"
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"If we could talk and laugh it up, that'd be the best.
+ All at ease, like "I'm havin' a great life"..."\sw[566]
+##
+
+{Sara}
+#Message#
+\.\C[4](Q-taro...)
+##
+
+<デスゲームの情報>
+
+{Q-taro}
+#Message#
+\.\sw[562]"Huh, you're doin' this Death Game, right...?"\sw[566]
+##
+
+#Message#
+\.\sw[562]"Knowin' me, I doubt I got even
+ the slightest notion of dyin'."\sw[566]
+##
+
+#Message#
+\.\sw[562]"Hell, to a second-stringer, baseball's a Death Game
+ with my life as a player on the line!"\sw[566]
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't joke about it like that...)
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"But to do some self-analysis..."\sw[566]
+##
+
+#Message#
+\.\sw[562]"I wonder if maybe I'll try an' win
+ within the rules of the game..."\sw[566]
+##
+
+#Message#
+\.\sw[562]"In the saga of a sports player,
+ ya tend to forget about breakin' the rules."\sw[566]
+##
+
+#Message#
+\.\sw[562]"Maybe somebody like you, young and not knowin' fear,
+ is more suited to findin' a path to survival."\sw[566]
+##
+
+{Sara}
+#Message#
+\."...Is that so..."
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"...Sorry to make it sound like it ain't my business.
+ I mean look, I'm an AI, y'know?"\sw[566]
+##
+
+<大切な物について>
+
+{Q-taro}
+#Message#
+\.\sw[562]"Hold dear, huh..."\sw[566]
+##
+
+#Message#
+\.\sw[562]"The caretakers at the orphanage, the kiddos...
+ Of course, baseball, and..."\sw[566]
+##
+
+#Message#
+\.\sw[562]"Myself... probably."\sw[566]
+##
+
+#Message#
+\.\sw[562]"I ain't gonna sugarcoat it.
+ I don't wanna die, and I don't want
+ the people I like to die."\sw[566]
+##
+
+#Message#
+\.\sw[562]"So I don't like to kick people...
+ But if I gotta, I got the resolve."\sw[566]
+##
+
+#Message#
+\.\sw[562]"But I hate the kinda asshole
+ who's got that as their first thought!"\sw[566]
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Q-taro}
+#Message#
+\.\sw[562]"...Sorry for gettin' all fired up."\sw[566]
+##
+
+#Message#
+\.\sw[562]"Shouldn't have said that all cocky-like
+ when you're involved in it... Don't you mind me."\sw[566]
+##
+
+{Sara}
+#Message#
+\."...No, it's okay."
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event9********** (souno) (2,4)
+-----Page1-----
+#Message#
+\C[3]The monitor is broken.
+##
+
+
+**********Event31********** (kannna) (14,4)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Kanna is displayed on the back.
+##
+
+
+**********Event37********** (keiji) (11,6)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Keiji is displayed on the back.
+##
+
+
+**********Event48********** (sara) (8,4)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of me is displayed on the back.
+##
+
+-----Page2-----
+#Message#
+\C[3]The victim video is hooked up to the center monitor.
+##
+
+#Choice#
+Watch Victim Video 1
+Watch Victim Video 2
+Watch Victim Video 3
+Cancel
+##
+
+<犠牲者のビデオ１　を見る>
+
+{Sara}
+#Message#
+\C[4](I don't have Video 1...)
+##
+
+#Message#
+\C[4](Victim Video 1...
+ Let's play it back.)
+##
+
+<犠牲者のビデオ２　を見る>
+
+{Sara}
+#Message#
+\C[4](I don't have Video 2...)
+##
+
+#Message#
+\C[4](Victim Video 2...
+ Let's play it back.)
+##
+
+<犠牲者のビデオ３　を見る>
+
+{Sara}
+#Message#
+\C[4](I don't have Video 3...)
+##
+
+#Message#
+\C[4](Victim Video 3...
+ Let's play it back.)
+##
+
+<やめる>
+
+<Choice End>
+

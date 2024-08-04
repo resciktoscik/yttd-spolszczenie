@@ -1,0 +1,18 @@
+**********Common1425********** (③クルマダB選択)
+{N/A}
+#Message#
+"Who's afraid of a book?
+ I'll beat 'em down with my fists!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

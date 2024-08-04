@@ -1,0 +1,590 @@
+=====Map109===== (Final Battle)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Accent28-1}
+#Message#
+\."Looks like the bastards have assembled!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."What do you want from us now, meow?!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."We all collected our Clear Chips!!
+ Shouldn't be any problem!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."This stupid game's over, you damn doll!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Nah, sorry to say, but the Sub-Game's not over yet."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Ehh...?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Accent21-1}
+#Message#
+\."Let's announce the results!
+ Y'all haven't forgotten this was a game
+ of buying and selling tokens, right?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."...I get it."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The number of tokens we've gotten by trading...?"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Specifically, we're counting up the totals of
+ \C[2]other people's tokens you touched at least once\C[0]."
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."That means even \C[2]tokens you lost after getting 'em\C[0]
+ count toward the total."
+##
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."...So we don't have to have them currently?"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."That's right! I told you this game
+ switched out "trust" for "tokens," yeah?"
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: Accent21-1}
+#Message#
+\."The amount you were handed... That's what matters."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."So naturally, however many of your own tokens you got,
+ they wooon't be counted!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Now to announce the standings! Line up!"
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."The superb person who earned the most trust
+ will be awarded a special privilege!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Privilege...?"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Let's get to it!
+ The glorious title of first place goes to...!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+{SE: tympani-roll1}
+#Message#
+\."B... Badah-badah-badah-badah-badah..."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: Accent28-1}
+#Message#
+\."Q-taro Burgerbeeerg!
+ Congrats!!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Y... Yeah!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Okay, stand right here!"
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Ahem! Well then, let's see...
+ Can I have an interview?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Why you...! Don't mess around!
+ What's this privilege I got?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."What a spoilsport! I'll explain that later."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Everybody but first doesn't get a prize,
+ so I'll just announce them in order!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+{SE: tympani-roll1}
+#Message#
+\."Badah-badah-badah-badah-badah..."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."What's this annoying "badah-badah" thing?
+ Don't interrupt me, Safalin!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Waaah!! You told me to do it
+ just like in the rehearsal, didn't you...?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: Accent28-1}
+#Message#
+\."Announcing the top three!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Kanna Kizuchi!"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."...Me...?"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Alice Yabusame!"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...Hoh..."
+##
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+#Message#
+\."Err... and Sou Hiyori!
+ It was a close fight!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Hmmm..."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: flash-of-light-3}
+#Message#
+\."Haha... Not a bad placing..."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Sounds like the reaction of a guy
+ who's never gotten first in his life..."
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: Accent28-1}
+#Message#
+\."Onto the smack dab in the middle!
+ Your most stunningly-average is..."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+{SE: Accent21-1}
+#Message#
+\."Keiji Shinogiii!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Ahh, just barely held on there!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Huh... Surprised I'm that trusted."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."And our flunking students are the three idiot girls:
+ Sara Chidouin, Reko Yabusame, and Nao Egokoro!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Who're you calling idiots?! This ain't a game!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Okay, three-diots, gather over here!"
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: Accent28-1}
+#Message#
+\."Now to announce the bottom of the barrel!"
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."In very last place isssss...!"
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: powerdown07}
+#Message#
+\."Gin Ibushi!"
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."Came in at dead last! Just the worst!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Don't call me dead last, woof!
+ You're making me mad, meow!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."C'mon, you got 0 tokens!
+ Seems you didn't accept 'em from anybody!"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...I didn't wanna do something that's
+ like trading money, meow..."
+##
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+#Message#
+\."Stubborn to the end! Do kids these days
+ just not care if they lose or what?"
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: Accent28-1}
+#Message#
+\."Well, whatever, let's take a commemorative photo!
+ Stand right there!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't take this... Is Ranger playing around?)
+##
+
+#Message#
+\.\C[4](I'm getting... a bad feeling...)
+##
+
+{Ranger}
+#Message#
+\."In place? Good! Now smile wide..."
+##
+
+{Q-taro}
+#Message#
+\."Wha..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."The hell's this?! What're you up to now?!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."I... I can't move, woof!!"
+##
+
+{Sara}
+#Message#
+\."Gin!! Q-taro!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ranger, let those two go. Or else..."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Ahaha! How about no!"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Waugh...?! What's this cage?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."You stay put right there!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Please let us out!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Ranger!! The hell you doin'?! Let them all go!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."You aren't... still going to
+ do something to them, are you...?!"
+##
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+#Message#
+\."Okay, you three noisy idiot girls!
+ Watch over them from the Impression Room!"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+#Message#
+\."What... is this...?!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."W... We're high up!
+ The ground's risen...!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."As a reward for your efforts,
+ I've given you a special invitation! Good for you!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."What do you mean Impression Room?!
+ God dammit! Cut the crap, Ranger!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Better stop shouting and start listening,
+ 'cause I'm about to explain the rules!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent21-1}
+#Message#
+\."...Rules, you say...?"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"The rules for the final attraction...
+ \C[5]The Arbitration Room.\C[10]"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Currently, first-place Q-taro and last-place Gin
+ are attached back-to-back on a target."
+##
+
+#Message#
+\."Soon... a timer will begin."
+##
+
+#Message#
+\."When the timer hits 0, the machine will activate..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."And a \C[2]venomous stinger\C[0]
+ will be fired at last-place Gin!"
+##
+
+{Gin}
+#Message#
+\."M... Meow?!"
+##
+
+{Ranger}
+#Message#
+\."The venom of the Rikuto giant scorpion is powerful...
+ He'll die very painfully..."
+##
+
+{Gin}
+#Message#
+\."Y-You're kidding, meow?! Why, woof?!
+ I got 10 of the stars, meow!!"
+##
+
+{Ranger}
+#Message#
+"It's only natural to hand out a penalty
+ to the last-placer who didn't earn anyone's trust!"
+##
+
+{Sara}
+#Message#
+"We didn't hear about that!! Not once...!!"
+##
+
+{Ranger}
+#Message#
+"Ahaha, sooooorry!"
+##
+
+{Kanna}
+#Message#
+"No...!! That can't...!!"
+##
+
+{Reko}
+#Message#
+\."Dammit!! Shit!!
+ How's this not just an execution?!"
+##
+
+{Ranger}
+#Message#
+"Hmm, oh, fine...
+ I'll give you one way to save him."
+##
+
+{SE: Accent28-1}
+#Message#
+\."\C[2]If the one who gathered the most trust wants
+ to take his place\C[0]... I might accept that, see?"
+##
+
+{Q-taro}
+#Message#
+\."...!!"
+##
+
+{Ranger}
+#Message#
+\."Q-taro, there's a red switch in front of ya."
+##
+
+#Message#
+\."Press that, and the target will do a 180,
+ and the stinger'll aim at you instead."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Guh...!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Ya don't mean that "privilege" was..."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\."The privilege to be a sacrifice for Gin!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."...!!"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"You're free to do whatever.
+ That switch isn't a duty, it's a privilege."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Muscle... gorilla..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."...................."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Well then, should we get started?
+ The rest of you can just take it easy!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Help..."
+##
+
+#Message#
+\."Help!! Help me, meow!!
+ Muscle gorilla!!"
+##
+

@@ -1,0 +1,110 @@
+**********Common1741********** (■ﾚｺ「アンズよ」)
+{Reko}
+#Message#
+"It's gotta be 'cause Anzu's coffin is the only one
+ \C[2]we knew the contents of from the start\C[0]...!"
+##
+
+#Message#
+"Don't you have to wonder about
+ why \N[4] chose Anzu's coffin?!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"W-What?! What do you mean by that?!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"W-What?! What do you mean by that?!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"But... What in the world does that mean...?"
+##
+
+#Message#
+"From \N[4]'s perspective,
+ he could've picked whatever..."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."But I wonder... was there a reason he had to pick
+ Anzu's coffin and not one of the others?!"
+##
+
+{Sara}
+#Message#
+\."Reko...! What do you mean?!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Urgh... Well...!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."It's gotta be 'cause Anzu's coffin is the only one
+ \C[2]we knew the contents of from the start\C[0]...!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](That's true... Only Anzu's was known...)
+##
+

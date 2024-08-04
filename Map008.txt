@@ -1,0 +1,126 @@
+=====Map8===== (OP6 House Hallway)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+"It's dark... Why aren't the lights on...?"
+##
+
+#Message#
+\."Mom! Dad!
+ Are you home?"
+##
+
+-----Page3-----
+{Joe} [Joe: Furrowed brow (no collar) / cara1-5]
+#Message#
+"Sara!!"
+##
+
+{Sara}
+#Message#
+\."Joe!"
+##
+
+#Message#
+\."Please, help!
+ My mom collapsed!"
+##
+
+{Joe} [Joe: Serious look (no collar) / cara1-4]
+#Message#
+\."Stay calm! Did you call the hospital, the cops?!"
+##
+
+{Sara}
+#Message#
+\."Not yet...!
+ I need... I need to call..."
+##
+
+{Joe} [Joe: Furrowed brow (no collar) / cara1-5]
+#Message#
+\."I'll handle it!
+ Listen, Sara! You need to be calm!"
+##
+
+{N/A}
+{SE: Phone2}
+#Message#
+\C[3]Joe started to make a call.
+##
+
+{Sara}
+#Message#
+\.\C[4](What am I doing...?
+ I'm all out of sorts...)
+##
+
+#Message#
+\.\C[4](But I need to do something... Something...)
+##
+
+
+**********Event2********** (kan) (6,6)
+-----Page1-----
+#Message#
+\C[3]The plant's fallen over...
+##
+
+{Sara}
+#Message#
+\.\C[4](Something's weird about the house...)
+##
+
+
+**********Event3********** (dan) (9,3)
+-----Page1-----
+#Message#
+\C[3]The stairs to the second floor.
+My room is up there.
+##
+
+
+**********Event5********** (EV005) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The key to Sara's room.
+##
+
+
+**********Event13********** (oya) (3,4)
+-----Page1-----
+#Message#
+\C[3]Over here is the bathroom.
+##
+
+
+**********Event14********** (ribi) (12,4)
+-----Page1-----
+#Message#
+\C[3]The living room.
+##
+
+#Message#
+\.\C[3]Normally, mom would be in here
+watching TV and waiting for me...
+##
+
+-----Page2-----
+#Message#
+\C[3]The living room.
+##
+
+#Message#
+\.\C[3]Mom... mom's...
+##
+
+
+**********Event15********** (TOTO) (11,4)
+-----Page1-----
+#Message#
+\C[3]Back there is the door to my parents' room.
+##
+

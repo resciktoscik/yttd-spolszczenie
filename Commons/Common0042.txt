@@ -1,0 +1,428 @@
+**********Common42********** (ｶﾝﾅ・自己紹介)
+{Frightened Girl}
+#Message#
+*tremble tremble tremble*...
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\."Are you okay...?"
+##
+
+#Message#
+\."If you've calmed down, could you talk to me?"
+##
+
+{Frightened Girl}
+#Message#
+\."...Um..."
+##
+
+[Kanna: Arms crossed, dead-eyed / cara3-4]
+{SE: Accent28-1}
+#Message#
+\."I'll say... I'm \C[2]Kanna Kizuchi\C[0]..."
+##
+
+{Sara}
+#Message#
+\.\C[4](She's able to talk now...?)
+##
+
+#Message#
+\."Kanna... Could you tell me more about yourself?"
+##
+
+{Kanna}
+#Message#
+\."...Okay..."
+##
+
+#Message#
+\."...Uh... I'm... in middle school...
+ And... erm, um..."
+##
+
+{Sara}
+#Message#
+\."It's okay, you don't need to rush."
+##
+
+{Kanna}
+#Message#
+\."...I was coming home... with my big sister...
+ We were eating ice cream..."
+##
+
+#Message#
+\."We were just walking along and talking...
+ about what to have for dinner..."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."...Suddenly... some scary people came out
+ from a black car parked on the road..."
+##
+
+{Sara}
+#Message#
+\."I see... That must have been frightening."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."Yes..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Her sister...)
+##
+
+#Message#
+\.\C[4](What she just said makes it sound like
+ the two of them were both kidnapped, but...)
+##
+
+#Message#
+\.\C[4](There's only Kanna here...)
+##
+
+#Message#
+\.\C[4](Just a hunch... but I feel like
+ it would be bad to ask about it now.)
+##
+
+#Choice#
+Try asking anyway
+What about after you came here?
+##
+
+<それでも聞いてみる>
+
+{Sara} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...You weren't with your sister?"
+##
+
+{Kanna}
+#Message#
+\."...With... her..."
+##
+
+#Message#
+\."I was with her..."
+##
+
+#Message#
+\."...Sister..."
+##
+
+#Message#
+\."...My sister..."
+##
+
+<ここへ来てからの事を聞く>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Could you tell me about what happened
+ after you arrived here?"
+##
+
+#Message#
+\."...Here?"
+##
+
+#Message#
+\."After... I came here..."
+##
+
+#Message#
+\."...My... sister."
+##
+
+#Message#
+\."...My sister..."
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."..."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."...Ahhhhh..."
+##
+
+{SE: ta_ta_ja-n01}
+#Message#
+\.\SP[12]\C[10]"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHH!!"
+##
+
+#Message#
+\."She's dead!!"\.\.\^
+##
+
+#Message#
+\."My sister!"\.\.\^
+##
+
+#Message#
+\."Why?!"\.\^
+##
+
+#Message#
+\."How?!"\.\.\^
+##
+
+#Message#
+\."It's my fault!\. My sister!!"\.\.\^
+##
+
+#Message#
+\.\SP[15]\C[10]"WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHH!!"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Sara.
+ How's Kanna looking...?"
+##
+
+{Sara}
+#Message#
+\."It looks like she's passed out..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Dammit, this is some messed up shit!
+ She DIED...?!"
+##
+
+#Message#
+\."What the hell'd this poor girl do, huh?!
+ Does this culprit even got a heart?!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Seems like... this isn't some joke or a prank."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."I... I don't like this...
+ This is too awful... just too..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hey now, everybody, don't lose your cool.
+ You've got your friendly policeman here."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+{SE: Accent28-1}
+#Message#
+\."Hey, Keiji! You're the reliable one here!
+ What should we do?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...You've sure changed your tune."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Well, first things first.
+ Why don't we confirm what each of us
+ has found in this place?"
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."That sounds like a good plan."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Zat's just what I was thinkin' of saying!
+ See, I picked up this thing."
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent28-1}
+#Message#
+\."It's a huge box, meow!"
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Bet you could fit a whole watermelon in there..."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Was this... from the First Trial?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Yep. Though I mean, bringin' this box
+ was the point of the First Trial..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Say what?!
+ Did some people have different First Trials?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."We can discuss that later.
+ First off, let's open up this box."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."It ain't gonna. It's got these keyholes, see?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Sara, do you have any ideas?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Wha...! Me?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I just like catching you off-guard."
+##
+
+{Sara}
+#Message#
+\.\C[4](That's a lousy reason...)
+##
+
+{N/A}
+#Message#
+Controls
+##
+
+#Message#
+Touch an \C[2]item\C[0] in your possession,
+and you can use that item on a person or object.
+##
+
+{Frightened Girl} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Still in no condition to talk...)
+##
+
+{Frightened Girl}
+#Message#
+"Oogh... hic..."
+##
+
+{Sara}
+#Message#
+\.\C[4](She's not in a condition to talk...)
+##
+
+#Choice#
+Ask her name
+Gently calm her down
+Do nothing
+##
+
+<名前を聞く>
+
+{Frightened Girl} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+"Aaaaa... ooooh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sure enough, there's no chance right now.)
+##
+
+<優しく落ち着かせる>
+
+{Sara} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Are you okay...?"
+##
+
+{Frightened Girl}
+#Message#
+\."Aaaaa... ooooh..."
+##
+
+<何もしない>
+
+<Choice End>
+
+{Sara} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Don't be afraid. I won't do anything..."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]I gently place my hand on her trembling back...
+##
+
+{Frightened Girl}
+#Message#
+\."Aah...?"
+##
+
+#Message#
+\."..."
+##
+
+[Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\."*sniff*... Th-Thank you very much..."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]It seems she calmed down a little.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll try talking to her again...)
+##
+

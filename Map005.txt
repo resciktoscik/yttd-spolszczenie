@@ -1,0 +1,247 @@
+=====Map5===== (OP5)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+"*pant*...\. *pant*...\. *pant*..."
+##
+
+{Joe}
+#Message#
+\."Hahh... phew..."
+##
+
+#Message#
+\."We made it home..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."I-It's okay.
+ Should be fine now that we're here."
+##
+
+{Sara}
+#Message#
+\."Joe..."
+##
+
+#Choice#
+I'm relieved
+I'm scared...
+##
+
+<安心した>
+
+{Sara} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."I'm relieved...
+ If I'd gone home by myself..."
+##
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."Heheh..."
+##
+
+<怖い…>
+
+{Sara} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."I'm scared..."
+##
+
+#Message#
+\."I'm so scared... Am I going to..."
+##
+
+#Message#
+\."What if he kills me someday...?"
+##
+
+{Joe} [Joe: Furrowed brow (no collar) / cara1-5]
+#Message#
+\."I'm not gonna let that happen, okay?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Joe..."
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+{SE: Accent21-1}
+#Message#
+\."Call on me! Anytime!"
+##
+
+[Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\."I'll come with a boatload of freshmen!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Sara} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+\.\C[4](That guy was staring...)
+##
+
+#Message#
+\.\C[4](And... it seemed like...)
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[4](He was trying to talk to me...?)
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+"Well, your parents are waiting, Sara!"
+##
+
+{Sara}
+#Message#
+\."...Yeah."
+##
+
+#Message#
+\."Hey, Joe..."
+##
+
+#Choice#
+Thank you
+...Be careful
+##
+
+<ありがとう>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+"It's all good!"
+##
+
+<帰り…気を付けろよ>
+
+{Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
+#Message#
+"...Yeah!"
+##
+
+<Choice End>
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."See you tomorrow...
+ At school!"
+##
+
+{N/A}
+#Message#
+\C[3]However... They wouldn't meet at school.
+##
+
+#Message#
+\.\C[3]On this night, the two of them would be
+wrapped up in a major incident...
+##
+
+#Message#
+\.\C[3]To be continued in Death Game By Majority (TBD)...
+##
+
+#Message#
+\.So after this in the story, you find your parents
+collapsed, encounter the stalker in your room, faint,
+and wake up in an unfamiliar place, a Death Game...
+                                  That sort of thing.
+##
+
+#Message#
+\.In the Death Game:
+1. You gather items ala the earlier exploration part.
+2. You have discussions with characters using
+   a discussion system to advance the story.
+##
+
+#Message#
+\.This mockup allows you to experience just a taste
+of the discussion system, so come over to the grounds.
+##
+
+#Message#
+Welcome!
+##
+
+#Message#
+\.Now then, go right ahead.
+##
+
+{Sara}
+#Message#
+"Okay... Guess I'll go in..."
+##
+
+#Message#
+\."...Hm?"
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."The house lights aren't on...?"
+##
+
+
+**********Event3********** (mado) (10,3)
+-----Page1-----
+#Message#
+\C[3]I can see the living room through the window.
+##
+
+#Message#
+\.\C[3]But... the lights aren't on.
+##
+
+
+**********Event4********** (akari) (5,3)
+-----Page1-----
+#Message#
+\C[3]A fancy lamp lights up the front porch.
+##
+
+#Message#
+\.\C[3]...So it's not a power outage?
+##
+
+
+**********Event5********** (kura) (3,6)
+-----Page1-----
+#Message#
+\C[3]The house nameplate.
+##
+
+
+**********Event22********** (tobira) (6,5)
+-----Page1-----
+#Message#
+\C[3]My good old front door.
+##
+
+{SE: warning2}
+#Message#
+\.\C[3]...The door's unlocked...!
+##
+

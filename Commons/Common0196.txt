@@ -1,0 +1,83 @@
+**********Common196********** (ﾅｵ「隠れてました」)
+{Nao}
+#Message#
+"I took the box...
+ and just sat and hid in the kitchen.
+ I didn't even touch anything in the room..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Um... So what about that...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+"I don't believe I'm saying anything strange..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+"Sitting in the dark...
+ I asked him questions again and again..."
+##
+
+[Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."Even though... I wouldn't get an answer..."
+##
+

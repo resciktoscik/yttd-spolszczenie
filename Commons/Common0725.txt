@@ -1,0 +1,87 @@
+**********Common725********** (ｷﾞﾝ「３度目いつ？」)
+{Gin}
+#Message#
+"At the time of the \C[6]third trade\C[0],
+ I was searching the first floor alone, meow!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"I don't need this thing, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+"She got mad at me, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"I was off doing all this stuff by myself, woof.
+ I wanted to see the laptop, meow..."
+##
+
+{Sara}
+#Message#
+\."...What stuff did you do, exactly?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I-It's not relevant right now, woof!"
+##
+

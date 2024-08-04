@@ -1,0 +1,347 @@
+=====Map177===== (❹Winner's Room)
+
+**********Event1********** (THEisu) (6,7)
+-----Page1-----
+#Message#
+\C[3]Two low chairs are facing each other.
+##
+
+
+**********Event2********** (sou) (8,6)
+-----Page1-----
+#Message#
+\C[3]A long, clean table.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Sou is deeply focused on the laptop,
+continuing to fiddle with it.
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+".........."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](He still hasn't given up...?)
+##
+
+#Choice#
+Talk to him
+Cancel
+##
+
+<声をかける>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."S-Sou..."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Please..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Save... us..."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]The words came out unconsciously.
+##
+
+#Message#
+\.\C[3]There's nothing more I can do on my own power.
+##
+
+#Message#
+\.\C[3]If anyone can do something... it's Sou.
+##
+
+{Sou}
+{SE: sceneswitch2}
+#Message#
+\."I don't... have enough time..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."I have Ranger's chip right here!
+ If I had just another hour... urghh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou...)
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."All I might do now... is \C[2]hack\C[0] the \C[2]role card\C[0] data..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Huh...?)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Sou is deeply focused on the laptop,
+continuing to fiddle with it.
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+".........."
+##
+
+
+**********Event3********** (syouzi) (4,3)
+-----Page1-----
+#Message#
+\C[3]A white sliding door conceals
+what's outside the windows.
+##
+
+
+**********Event4********** (tana) (2,6)
+-----Page1-----
+#Message#
+\C[3]Small shelves of some sort.
+##
+
+
+**********Event5********** (akari) (7,0)
+-----Page1-----
+#Message#
+\C[3]A warm light illuminates the room.
+##
+
+
+**********Event6********** (deguti) (12,3)
+-----Page1-----
+#Message#
+\C[3]The corridor continues further.
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+"Up ahead... is the exit, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](At last...)
+##
+
+#Choice#
+Head to the exit
+Cancel
+##
+
+<出口へ向かう>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: sceneswitch2}
+#Message#
+\."Let's go...!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...Right."
+##
+
+{N/A}
+{SE: asioto2}
+#Message#
+\.\C[3]We proceeded down the corridor.
+##
+
+#Message#
+\.\C[3]My heartbeat growing faster and faster.
+##
+
+#Message#
+\.\C[3]Hope. Future. Normality.
+##
+
+#Message#
+\.\C[3]Believing that all of this lied just ahead.
+##
+
+{SE: horror_piano chord3}
+#Message#
+\C[3]What awaited us... was a solid wall of rock.
+##
+
+-----Page2-----
+#Message#
+\C[3]It leads to exit of the facility.
+##
+
+#Choice#
+Head to the exit
+Cancel
+##
+
+<出口へ向かう>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event8********** (mosi) (7,7)
+-----Page1-----
+#Message#
+\C[3]A long, clean table.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A Ring-Up Box.
+##
+
+{Sara}
+#Message#
+\.\C[4](If I had tokens... I could have used it too...)
+##
+
+
+**********Event43********** (tana) (2,7)
+-----Page1-----
+#Message#
+\C[3]Small shelves of some sort.
+##
+
+
+**********Event44********** (tana) (0,7)
+-----Page1-----
+#Message#
+\C[3]Small shelves of some sort.
+##
+
+
+**********Event45********** (tana) (0,8)
+-----Page1-----
+#Message#
+\C[3]Small shelves of some sort.
+##
+
+
+**********Event46********** (tana) (0,2)
+-----Page1-----
+#Message#
+\C[3]Small shelves of some sort.
+##
+
+
+**********Event47********** (tana) (0,1)
+-----Page1-----
+#Message#
+\C[3]Small shelves of some sort.
+##
+
+
+**********Event64********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event65********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event66********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event67********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event68********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event69********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event71********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

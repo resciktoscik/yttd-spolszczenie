@@ -1,0 +1,194 @@
+**********Common483********** (時限イベント４)
+{N/A}
+#Message#
+\C[10]"The second dart will be fired shortly."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Aww, looks like you didn't make it."
+##
+
+{Kanna} [Kanna: Angry shout with tears (lightless eyes) / cara3-15]
+#Message#
+\."Please, stop it already!!"
+##
+
+{N/A}
+#Message#
+\.\C[10]"5."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\.\sp[12]"...No mooore..."
+##
+
+{N/A}
+#Message#
+\.\C[10]"4."
+##
+
+{Kanna} [Kanna: Angry shout with tears (lightless eyes) / cara3-15]
+#Message#
+\."Ranger!! I'll take his place!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."You can't... Worst case, both of you will..."
+##
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+#Message#
+\."Not like you're given that freedom!
+ Only Q-taro has the privilege, remember!"
+##
+
+{N/A}
+#Message#
+\.\C[10]"3."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."...................."
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[12]"Q... taro... Pl... ease..."
+##
+
+{N/A}
+#Message#
+\.\C[10]"2."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."...................."
+##
+
+{N/A}
+#Message#
+\.\C[10]"1."
+##
+
+{Q-taro}
+{SE: Accent28-1}
+#Message#
+\."...I'm... pressing..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Stop! Q-taro...!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Pressing... the switch...!"
+##
+
+{N/A}
+#Message#
+\.\C[10]"0."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\.\{"Huoooooh...!! Hwoooooooooohhh...!!!!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[10]"*cough*... Uuuurgh..."
+##
+
+#Message#
+\.\sp[10]"Aaaaaaaaaa..."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Huh? Hit the kiddo dead-on after all?
+ You didn't press the switch, Q-taro! Ahahahaha!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."M... My..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."My arm... won't move... Ahhhh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Just stop it...!)
+##
+
+#Message#
+\.\C[4](Please...!!)
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Ranger, when is this attraction going to end?"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Hm? When someone's sacrificed."
+##
+
+#Message#
+\.\C[10]"Q-taro, one of the three idiot girls...
+ Or else when all the stingers fire, it'll end."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: Accent28-1}
+#Message#
+\."Sara... There's an antidote in the Medical Office."
+##
+
+{Sara}
+#Message#
+\."An antidote...?!"
+##
+
+{Keiji}
+#Message#
+\."This "Rikuto giant scorpion" Ranger mentioned...
+ From the looks of it, its venom has
+ a pretty delayed effect."
+##
+
+[Keiji: Stern / cara2-3]
+#Message#
+\."I definitely saw an antidote for
+ that same scorpion venom in the Medical Office.
+ If we can just end the attraction quick..."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\."Ah ha ha! Then you might have time to cure him?
+ What an idea to get in your head!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."It's all riding on you, Sara."
+##
+
+{Sara}
+#Message#
+\."I... refuse to give up...!"
+##
+

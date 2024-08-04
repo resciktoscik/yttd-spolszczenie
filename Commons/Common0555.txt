@@ -1,0 +1,129 @@
+**********Common555********** (ｿｳ「性格は本人？」)
+{Sou}
+#Message#
+"Naturally, the personalities of the AIs
+ are based on the real people's, right?"
+##
+
+#Message#
+"Naturally, the personalities of the AIs
+ are based on the real people's, right?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"I don't follow your advanced logic, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"Err... Not really ringing a bell..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"Wonder what time periods
+ the base personalities of the AIs are from...?"
+##
+
+#Message#
+"If you could completely reproduce
+ the original's personality..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."That's on a whole other level than mimicry.
+ I mean, that's basically cloning..."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."If her brother Alice can't see through it,
+ it'd be downright impossible for us to."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+\."Still... I'm curious."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Alice never met Reko after he was
+ arrested and put in prison, right?"
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Normally, if you hadn't met in years...
+ Even if it were the same, real person,
+ wouldn't you think "you've kinda changed"?"
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Yet Alice seems pretty confident in his assertion."
+##
+
+{Sara}
+#Message#
+\.\C[4](True...)
+##
+

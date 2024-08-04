@@ -1,0 +1,16 @@
+**********Common428********** (刹那二戦目以降)
+{N/A}
+{SE: Applause1}
+#Message#
+\C[3]Won the battle.
+##
+
+#Message#
+\C[3]The Easy Ticket is projecting the signal...!
+##
+
+{Sou}
+#Message#
+"I've got a premonition..."
+##
+

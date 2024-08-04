@@ -1,0 +1,116 @@
+**********Common824********** (ｱﾘｽ「16人気になる」)
+{Alice}
+#Message#
+"Perhaps the four not listed on the roster
+ are dolls or something...?!"
+##
+
+#Message#
+"Indeed, the most unusual aspect is
+ the fact there are only 16 names here...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"That item is wrong!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"In short, these four dolls were tools
+ meant to liven up our Death Game!"
+##
+
+#Message#
+"Shin Tsukimi there stated that this roster
+ shows rather accurate chances of victory..."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent28-1}
+#Message#
+\."But what about the chances
+ for the four who aren't listed?!"
+##
+
+[Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Don't you think their actions
+ could even affect the odds for the 16?!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."As for the reason they're not listed,
+ I don't want to think it, but..."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Perhaps those four are dolls or something...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Dolls...?)
+##
+

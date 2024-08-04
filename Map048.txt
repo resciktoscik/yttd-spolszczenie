@@ -1,0 +1,1020 @@
+=====Map48===== (Mirror Land)
+
+**********Event1********** (EV001) (11,0)
+-----Page1-----
+#Message#
+\C[3]There's a hole in the ceiling to insert something.
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"I wonder..."
+##
+
+{Sara}
+#Message#
+\."Piggyback, please."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Well, it's only logical."
+##
+
+{N/A}
+#Message#
+\C[3]Inserted the Light Bulb.
+##
+
+{Sara}
+#Message#
+\."There, there. You did good."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Mr. Policeman's not a dog."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The light bulb shines with gentle light.
+##
+
+
+**********Event2********** (EV002) (3,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a light bulb that's not getting power
+installed in the ceiling.
+##
+
+{Sara}
+#Message#
+\.\C[4](Can't reach it...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"...Wanna ride on my shoulders?"
+##
+
+{Sara}
+#Message#
+\."Sure... Please do."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hey, I was half-joking... But alright."
+##
+
+{N/A}
+#Message#
+\C[3]Obtained a Light Bulb.
+##
+
+{Sara}
+#Message#
+\."Thank you very much."
+##
+
+{Keiji}
+#Message#
+\."Yeah, yeah."
+##
+
+
+**********Event3********** (EV003) (5,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The light bulb shines with gentle light.
+##
+
+
+**********Event4********** (tenbin) (2,5)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Scales tipped to the right.
+##
+
+{Sara}
+#Message#
+\.\C[4](I could put this bath stopper on the scale.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Placed the Bath Stopper in the other scalepan.
+##
+
+{Sara}
+#Message#
+\.\C[4](It balanced perfectly...!)
+##
+
+#Choice#
+Move weight to other side
+Cancel
+##
+
+<重りを反対側へ移動する>
+
+{Sara}
+#Message#
+\C[3]The scales tipped to the left.
+##
+
+#Message#
+\C[3]...There was the sound of movement in another room.
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Scales tipped to the left.
+##
+
+{Sara}
+#Message#
+\.\C[4](I could put this bath stopper on the scale.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Placed the Bath Stopper in the other scalepan.
+##
+
+{Sara}
+#Message#
+\.\C[4](It balanced perfectly...!)
+##
+
+#Choice#
+Move weight to other side
+Cancel
+##
+
+<重りを反対側へ移動する>
+
+{Sara}
+#Message#
+\C[3]The scales tipped to the right.
+##
+
+#Message#
+\C[3]...There was the sound of movement in another room.
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The scales are balanced just right.
+##
+
+
+**********Event5********** (L-kabin) (0,5)
+-----Page1-----
+#Message#
+\C[3]Flowers are arranged in the vase.
+##
+
+#Choice#
+Take out one
+Cancel
+##
+
+<１本抜く>
+
+#Message#
+\C[3]Obtained a Flower.
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+#Message#
+\C[3]Flowers are arranged in the vase.
+##
+
+{SE: button17}
+#Message#
+\.\C[3]Added a Flower.
+##
+
+-----Page3-----
+#Message#
+\C[3]Flowers are arranged in the vase.
+##
+
+
+**********Event6********** (R-kabin) (16,5)
+-----Page1-----
+#Message#
+\C[3]Flowers are arranged in the vase.
+##
+
+{SE: button17}
+#Message#
+\.\C[3]Added a Flower.
+##
+
+-----Page2-----
+#Message#
+\C[3]Flowers are arranged in the vase.
+##
+
+-----Page3-----
+#Message#
+\C[3]Flowers are arranged in the vase.
+##
+
+
+**********Event7********** (gami) (15,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's wallpaper on the window.
+##
+
+#Choice#
+Tear off
+Cancel
+##
+
+<はがす>
+
+{N/A}
+#Message#
+\C[3]It came off easily.
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event8********** (L-koori) (2,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]An ice sculpture.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll pour the hot water on it.)
+##
+
+{N/A}
+#Message#
+\.\C[3]The ice sculpture melted into a puddle.
+##
+
+
+**********Event9********** (L-kagami) (4,7)
+-----Page1-----
+#Message#
+\C[3]A sparkling mirror that just reflects me.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll try using the spray.)
+##
+
+{N/A}
+#Message#
+\C[3]Fine-grained droplets stick to the mirror.
+##
+
+{Sara}
+#Message#
+\.\C[4](They won't come off...)
+##
+
+#Message#
+\.\C[4](Maybe I'm a little tired...)
+##
+
+#Message#
+\.\C[4](My uniform is dirty...)
+##
+
+#Message#
+\.\C[4](My face is frazzled...)
+##
+
+#Message#
+\.\C[4](...Good work out there, me.)
+##
+
+#Message#
+\.\C[4](Ah, my hair's a little messed up...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The mirror has droplets stuck to it,
+so it only shows a blurry reflection of me.
+##
+
+{Sara}
+#Message#
+\.\C[4](I guess I'll put the doll at a distance
+ so it reflects the whole body.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Placed the Sara Doll in front of the mirror.
+##
+
+{Sara}
+#Message#
+\.\C[4](To reflect the same image in both mirrors,
+ I'd need either a twin, or a life-size doll
+ that looks just like me...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](...Speaking of perfect doll replicas,
+ wasn't there the Kanna doll in that one room?)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The mirror has droplets stuck to it,
+so it only shows a blurry reflection of me.
+##
+
+#Choice#
+Stand in front
+Move away
+##
+
+<全身が映るように立つ>
+
+{N/A}
+#Message#
+\C[3]I stood in front of the mirror.
+##
+
+{Sara}
+#Message#
+\.\C[4](Now everything in the room is symmetrical...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Something outside the room moved, making a loud sound.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Way to go, Sara.
+ Let's take a look outside."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Nothing's happening.)
+##
+
+#Message#
+\.\C[4](I suppose I have to solve the other puzzles
+ in this room, then do the mirror last.)
+##
+
+<離れる>
+
+<Choice End>
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]The mirror blurrily reflects the doll.
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]The mirror has droplets stuck to it,
+so it only shows a blurry reflection of me.
+##
+
+-----Page6-----
+{N/A}
+#Message#
+\C[3]The mirror blurrily reflects the doll.
+##
+
+
+**********Event10********** (zyuhidari) (4,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a hand holding a gun.
+##
+
+{Sara}
+#Message#
+\.\C[4](Nothing much on the back...)
+##
+
+#Choice#
+Take painting
+Cancel
+##
+
+<絵画を取る>
+
+{N/A}
+#Message#
+\C[3]Obtained the Left Gun Painting.
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The place where the gun painting was hung.
+##
+
+{Sara}
+#Message#
+\.\C[4](Okay, I'll put up this painting.)
+##
+
+{N/A}
+#Message#
+\C[3]Hung up the Right Gun Painting.
+##
+
+{Sara}
+#Message#
+\.\C[4](Okay, I'll put up this painting.)
+##
+
+{N/A}
+#Message#
+\C[3]Hung up the Left Gun Painting.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A painting of a hand holding a gun.
+##
+
+{Sara}
+#Message#
+\.\C[4](There's a painting on the back, too.)
+##
+
+#Choice#
+Flip to back side
+Take painting
+Cancel
+##
+
+<裏側を向ける>
+
+<絵画を取る>
+
+{N/A}
+#Message#
+\C[3]Obtained the Right Gun Painting.
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]A painting of a hand holding a gun.
+##
+
+{Sara}
+#Message#
+\.\C[4](There's a painting on the front, too.)
+##
+
+#Choice#
+Flip to front side
+Take painting
+Cancel
+##
+
+<表側を向ける>
+
+<絵画を取る>
+
+{N/A}
+#Message#
+\C[3]Obtained the Right Gun Painting.
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]A painting of a hand holding a gun.
+##
+
+
+**********Event11********** (L-kaiga) (6,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's space to hang something on the wall.
+##
+
+#Message#
+\C[3]Hung the painting on the wall.
+##
+
+{Sara}
+#Message#
+\C[4](There's a painting on the right side, so...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A painting of a man facing left.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The man in the painting was shot.
+##
+
+
+**********Event12********** (zyumigi) (11,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a hand holding a gun.
+##
+
+{Sara}
+#Message#
+\.\C[4](There's a painting on the back, too.)
+##
+
+#Choice#
+Flip to back side
+Take painting
+Cancel
+##
+
+<裏側を向ける>
+
+<絵画を取る>
+
+{N/A}
+#Message#
+\C[3]Obtained the Right Gun Painting.
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A painting of a hand holding a gun.
+##
+
+{Sara}
+#Message#
+\.\C[4](There's a painting on the front, too.)
+##
+
+#Choice#
+Flip to front side
+Take painting
+Cancel
+##
+
+<表側を向ける>
+
+<絵画を取る>
+
+{N/A}
+#Message#
+\C[3]Obtained the Right Gun Painting.
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The place where the gun painting was hung.
+##
+
+{Sara}
+#Message#
+\.\C[4](Okay, I'll put up this painting.)
+##
+
+{N/A}
+#Message#
+\C[3]Hung up the Left Gun Painting.
+##
+
+{Sara}
+#Message#
+\.\C[4](Okay, I'll put up this painting.)
+##
+
+{N/A}
+#Message#
+\C[3]Hung up the Right Gun Painting.
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]A painting of a hand holding a gun.
+##
+
+{Sara}
+#Message#
+\.\C[4](Nothing much on the back...)
+##
+
+#Choice#
+Take painting
+Cancel
+##
+
+<絵画を取る>
+
+{N/A}
+#Message#
+\C[3]Obtained the Left Gun Painting.
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]A painting of a hand holding a gun.
+##
+
+
+**********Event13********** (R-kagami) (11,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The blurry mirror only vaguely reflects me.
+##
+
+{Sara}
+#Message#
+\.\C[4](I guess I'll put the doll at a distance
+ so it reflects the whole body.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Placed the Sara Doll in front of the mirror.
+##
+
+{Sara}
+#Message#
+\.\C[4](To reflect the same image in both mirrors,
+ I'd need either a twin, or a life-size doll
+ that looks just like me...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](...Speaking of perfect doll replicas,
+ wasn't there the Kanna doll in that one room?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The blurry mirror only vaguely reflects me.
+##
+
+#Choice#
+Stand in front
+Move away
+##
+
+<全身が映るように立つ>
+
+{N/A}
+#Message#
+\C[3]I stood in front of the mirror.
+##
+
+{Sara}
+#Message#
+\.\C[4](Now everything in the room is symmetrical...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Something outside the room moved, making a loud sound.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Way to go, Sara.
+ Let's take a look outside."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Nothing's happening.)
+##
+
+#Message#
+\.\C[4](I suppose I have to solve the other puzzles
+ in this room, then do the mirror last.)
+##
+
+<離れる>
+
+<Choice End>
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]The mirror blurrily reflects the doll.
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]The blurry mirror only vaguely reflects me.
+##
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]The mirror blurrily reflects the doll.
+##
+
+
+**********Event15********** (EV015) (7,6)
+-----Page1-----
+#Message#
+\C[3]A spray bottle containing an unknown liquid.
+##
+
+#Message#
+\C[3]Obtained a Spray.
+##
+
+
+**********Event16********** (ぼとる) (11,10)
+-----Page5-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page6-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event17********** (やぶれたかみ) (12,10)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event18********** (かいが) (13,10)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event19********** (らいたー) (14,10)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event20********** (りぼるばー) (11,11)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event21********** (きりふっき～) (12,11)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event22********** (でんきゅう～) (10,11)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event23********** (はな) (10,10)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event24********** (EV024) (8,0)
+-----Page2-----
+{Sara}
+#Message#
+\C[4](...!)
+##
+
+
+**********Event26********** (EV026) (8,2)
+-----Page1-----
+{Sara}
+#Message#
+\.\C[4](What's up with this room...?!)
+##
+
+#Message#
+\.\C[4](...Finding Nao's my priority for now.)
+##
+
+-----Page4-----
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Two symmetrical rooms, huh..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Seems like your kinda puzzle, Sara."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Might be... another scary trap, meow..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Better be careful."
+##
+
+{Sara}
+#Message#
+\."Can't imagine Nao would be here..."
+##
+
+{Keiji}
+#Message#
+\."...Well, yeah."
+##
+
+
+**********Event28********** (りぼるばー) (15,11)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event29********** (EV029) (7,5)
+-----Page1-----
+#Message#
+\C[3]A spray bottle containing an unknown liquid.
+##
+
+#Message#
+\C[3]Obtained a Spray.
+##
+
+
+**********Event30********** (ひだりんぐ) (13,11)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event31********** (はな) (14,11)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event32********** (ふろぶた) (15,10)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event33********** (さらにんぎょ) (9,10)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event34********** (bakyu) (9,1)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man shot to death.
+##
+
+
+**********Event89********** (gatiten) (13,3)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]These scales are stuck in place and can't be moved.
+##
+
+
+**********Event95********** (tokemizu) (13,8)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a puddle in the corner of the room.
+##
+
+
+**********Event98********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

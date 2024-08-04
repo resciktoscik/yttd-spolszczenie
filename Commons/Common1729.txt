@@ -1,0 +1,566 @@
+**********Common1729********** (３前進展⑫アリスの失態)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent28-1}
+#Message#
+"...Reko, you're talking about this, right?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent21-1}
+#Message#
+\."...Yeah."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's a voice recorder with
+ a recording for a \C[2]pair\C[0] First Trial on it."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...Listen to it again."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Sara} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: Accent28-1}
+#Message#
+"...Alice, you're talking about this, right?"
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+{SE: Accent21-1}
+#Message#
+\."Indeed..."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's a voice recorder,
+ with a recording for a \C[2]pair\C[0] First Trial."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+#Message#
+\."...Listen to it once more."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent28-1}
+#Message#
+"...Q-taro, you're talking about this, right?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent21-1}
+#Message#
+\."...Sure am."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's a voice recorder with
+ a recording for a \C[2]pair\C[0] First Trial."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Let's listen to it again..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{N/A}
+#Message#
+\.\C[3]I pressed the switch on the speaker.
+##
+
+{Voice Data}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[5]"...This is the First Trial."
+##
+
+#Message#
+\.\C[5]"You have 5 minutes.
+ If you cannot escape in time, you lose your life."
+##
+
+#Message#
+\.\C[5]"You are not alone.
+ Your fate is tied to someone you cannot see."
+##
+
+#Message#
+\.\C[5]"However, if you refuse this connection
+ and are willing to betray them, you can leave safely."
+##
+
+#Message#
+\.\C[5]"Follow the voice in your heart."
+##
+
+{Sara}
+#Message#
+".........."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."This was located... in the locker room."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent40-1}
+#Message#
+\."I'm guessing it was a trial split between
+ Floor 4 and 5, where you kept in communication..."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."He didn't have any ill will!! I'm sure Alice
+ just left the room entirely naturally...!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."But his partner died...!
+ Alice won the trial by betraying them!!"
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+{SE: shock1}
+#Message#
+\."He killed her!
+ His partner, the real Hinako!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."The location was... the locker room."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: Accent40-1}
+#Message#
+\."Surely, it was a trial split between
+ Floor 4 and 5, where you kept in communication..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Yet I...! I just let it pass through my ears,
+ and thoughtlessly left the room...!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."I'm sure the other person died...!!
+ I won the trial by betraying them!!"
+##
+
+[Alice: Refreshed face, open-mouth smile / cara11-35]
+{SE: shock1}
+#Message#
+\."I killed her... My partner, the real Hinako..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."This was in the locker room..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+\."It was probably a trial split between
+ Floor 4 and 5, where you kept in communication..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."He didn't have any ill will!!
+ I'm sure Alice just left the room all casually...!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."But his partner died...!
+ Alice won the trial by betraying them!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+{SE: shock1}
+#Message#
+\."He killed her!
+ His partner, the real Hinako!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+\."No way..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent42-1}
+#Message#
+\."This is why the real Hinako
+ wasn't included with the Dummies..."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."The two formed a relationship...
+ of \C[2]perpetrator and victim\C[0]...!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Stripey..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Alice...! Why didn't you give it any thought?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."No, woof! I'm sure it wasn't his fault, meow!!"
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."It's the kidnappers' fault
+ for making us do this, woof...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent40-1}
+#Message#
+\."Gin..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+{SE: Accent42-1}
+#Message#
+\."This is why the real Hinako
+ did not become one of the Dummies..."
+##
+
+[Alice: Refreshed face, open-mouth smile / cara11-35]
+#Message#
+\."A relationship was formed between us...
+ One of \C[2]perpetrator and victim\C[0]..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Stripey..."
+##
+
+{Alice} [Alice: Refreshed face, open-mouth smile / cara11-35]
+{SE: Accent40-1}
+#Message#
+\."I'm truly the worst... I..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."No, woof! It's not your fault, meow!!"
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."It's the kidnappers' fault
+ for making us do this, woof...!!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent21-1}
+#Message#
+\."...Gin..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent42-1}
+#Message#
+\."This's why the real Hinako
+ wasn't one of the Dummies..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."He created a relationship of
+ \C[2]perpetrator and victim\C[0] between 'em...!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Stripey..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."It's rough... Both for him doin' it unconsciously,
+ and for the one sufferin' the consequences..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](This is terrible...)
+##
+
+#Message#
+\.\C[4](We really are just thoroughly
+ being played with like toys...)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](But...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Thanks to this... we've solved the mystery of Hinako!"
+##
+
+#Message#
+\."Without question, the Dummies Hinako was \C[12]human\C[0]!"
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."Then what are these hands attached to me...?"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Then what were these hands attached to Mai?!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{\N[4]}
+{SE: Accent41-1}
+#Message#
+"Ahhh... Guess I have to admit it."
+##
+
+[Midori / cara19-a7]
+{SE: Accent28-1}
+#Message#
+"...As a reward, I'll tell you.
+ Like you worked out, I gave Mai my \C[12]living hands\C[0]..."
+##
+
+[Midori / cara19-a1]
+#Message#
+\."But... even so..."
+##
+
+[Midori / cara19-a2]
+#Message#
+\."That's not to say it's \C[2]only my hands\C[0]..."
+##
+
+[Midori / cara19-a4]
+#Message#
+\{"That I gave awaaaaay!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna}
+#Message#
+"Gyaaaaah?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou}
+#Message#
+"Waaaaaugh?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+"H-His head spins...?!"
+##
+
+{Q-taro}
+#Message#
+"S... Stop that!! That's creepy!!"
+##
+
+{\N[4]}
+#Message#
+"Ahahahahahaha!!"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+"Well? Surprised?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Y-You... You clearly ain't human...!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."Eheheh! I gave up my humanity!"
+##
+
+[Midori: Mouth open, swirly eyes / cara19-6]
+{SE: flash-of-light-3}
+#Message#
+\."I split up and shared my body with a bunch of people,
+ so I've hardly any human parts left!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+\."O... Oogh..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Hands out, mouth open, angry eyes with bags / cara5-32]
+#Message#
+\."What the hell?! What are you thinking...?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: shrink1}
+#Message#
+\."...If my body's over 50% doll,
+ surely you would consider me a \C[10]doll\C[0], right?"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent24-1}
+#Message#
+\."In this way, the body can also be \C[2]a majority vote\C[0]!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Fine, then."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If \N[4] is considered a \C[10]doll\C[0]...
+ It all makes sense."
+##
+
+#Message#
+\."\C[12]Gin is blue\C[0], \C[10]\N[4] is red\C[0]...!!
+ This, we can be sure of!!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Whoaaaaa!! Now we can tell 'em apart!!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\.".........."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."Well, do your worst."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If you think that alone will mean victory..."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."Well now... You seem tired of discussion."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Shall we have the challenging team use their hint?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{N/A}
+#Message#
+
+　　　　　　　　　　 \C[3]The Third Hint
+##
+

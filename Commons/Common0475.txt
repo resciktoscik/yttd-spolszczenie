@@ -1,0 +1,213 @@
+**********Common475********** (ﾚｺ「台がスイッチ」)
+{Reko}
+#Message#
+"Whatever we do doesn't make any difference...
+ The Impression Room's just for outsiders..."
+##
+
+#Message#
+"If we add 35.5 kilograms of weight to the platform,
+ maybe some machine to rescue Gin will start up?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"What the hell can we do...?!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."That damn Ranger... He'll pay for this!!"
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+"But how the hell can we determine that...?"
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Wait! There is a way!"
+##
+
+{Sara}
+#Message#
+\."Tell me! What way is there?!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."We jump!"
+##
+
+[Reko: Looking to side with frown / cara6-5]
+#Message#
+\."If this platform really is a scale
+ measuring our weight, then..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."The weight needed will increase while we're airborne!
+ And decrease from the impact when we land!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Basically, if we hop around,
+ the "Left: 35.5kg" display should fluctuate!!"
+##
+
+{Sara}
+#Message#
+\."Understood!
+ Then please, do a jump!"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Here goes!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Reko lept high into the air.
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Well, Sara?!
+ Did it change?!"
+##
+
+{Sara}
+#Message#
+\."No, it didn't move..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Gah...!! Seriously?! Not for a second?!"
+##
+
+{Sara}
+#Message#
+\."No... There was no reaction."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Then is it unrelated after all...?!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."You mean this Impression Room
+ really is just for gettin' an impression?!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Whatever we do doesn't make any difference...
+ The Impression Room's just for outsiders..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Even leaping didn't change the display...)
+##
+
+#Message#
+\.\C[4](But is it actually irrelevant...?)
+##
+

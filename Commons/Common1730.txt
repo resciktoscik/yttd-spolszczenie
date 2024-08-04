@@ -1,0 +1,785 @@
+**********Common1730********** (３前進展⑬２度目赤点灯)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Phew! \C[10]Red\C[0] means it ain't Gin!"
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If this is \N[4]... We win!!"
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+{SE: Accent21-1}
+#Message#
+\."The same conditions go for the \C[10]#\V[981]\C[0] coffin
+ that our first hint showed was \C[10]red\C[0]!"
+##
+
+{Sara}
+#Message#
+\."That's true..."
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."You know, I'd usually suggest
+ we have a discussion on what coffin to target..."
+##
+
+[Reko: Fists out, shocked eyes, mouth open / cara6-41]
+{SE: Accent41-1}
+#Message#
+\."But honestly, it's really either
+ \C[10]this coffin\C[0] or \C[10]the #\V[981] coffin\C[0]..."
+##
+
+{Sara}
+#Message#
+\."That's true..."
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."You know, I'd usually suggest
+ we have a discussion on what coffin to target..."
+##
+
+[Reko: Fists out, shocked eyes, mouth open / cara6-41]
+{SE: Accent41-1}
+#Message#
+\."But honestly, there's really no choice
+ but to pick this coffin, huh...?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."..."
+##
+
+#Choice#
+Yes...
+Why's that?
+##
+
+<はい…>
+
+{Sara} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+{SE: Accent40-1}
+#Message#
+"Yes... At least we won't risk hitting Gin!"
+##
+
+<なんでですか？>
+
+{Sara} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+{SE: Accent40-1}
+#Message#
+"Why's that?
+ Aren't there still more glowing coffins?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."And what if Gin's in them?!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I think we should pick coffins
+ we definitely know have \C[10]dolls\C[0] inside, Sara...!"
+##
+
+<Choice End>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."We're safe! \C[10]Red\C[0] means... it is not Gin Ibushi!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If this is \C[10]\N[4]\C[0]... we are victorious!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent21-1}
+#Message#
+\."The conditions are the same for coffin \C[10]#\V[981]\C[0],
+ which came up \C[10]red\C[0] with our first hint!"
+##
+
+{Sara}
+#Message#
+\."That's true..."
+##
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."Truly, I would like to have a discussion
+ where we decide which coffin to select..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent41-1}
+#Message#
+\."But in all honesty... We must simply select
+ either \C[10]this coffin\C[0] or coffin \C[10]#\V[981]\C[0]."
+##
+
+{Sara}
+#Message#
+\."That's true..."
+##
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."Truly, I would like to have a discussion
+ where we decide which coffin to select..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent41-1}
+#Message#
+\."But in all honesty...
+ We have no choice but to select this coffin."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."..."
+##
+
+#Choice#
+Yes...
+Why's that?
+##
+
+<はい…>
+
+{Sara} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent40-1}
+#Message#
+"Yes... At least we won't risk hitting Gin!"
+##
+
+<なんでですか？>
+
+{Sara} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent40-1}
+#Message#
+"Why's that?
+ Aren't there still more glowing coffins?"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."And what if Gin is in them, hm?!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's best to pick coffins that definitively
+ have dolls in them! Am I wrong...?"
+##
+
+<Choice End>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Whoaaaa! \C[10]Red\C[0] means it ain't Gin!"
+##
+
+[Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If this is \N[4]... we win!!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."Same conditions go for the \C[10]#\V[981]\C[0] coffin
+ that came up \C[10]red\C[0] from our first hint!"
+##
+
+{Sara}
+#Message#
+\."That's true..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."Usually I'd wanna have a discussion
+ to pick which coffin to hit..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent41-1}
+#Message#
+\."But honestly, we just gotta pick between
+ \C[10]this coffin\C[0] or the \C[10]#\V[981] coffin\C[0]..."
+##
+
+{Sara}
+#Message#
+\."That's true..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."Usually I'd wanna have a discussion
+ to pick which coffin to hit..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent41-1}
+#Message#
+\."But honestly, we don't really got any choice
+ that isn't pickin' \C[10]this coffin\C[0]..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."..."
+##
+
+#Choice#
+Yes...
+Why's that?
+##
+
+<はい…>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"Yes... At least we won't risk hitting Gin!"
+##
+
+<なんでですか？>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"Why's that?
+ Aren't there still more glowing coffins?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."And what if Gin's in them, huh?!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The right move is to pick coffins
+ that've definitely got dolls in them, Sara...!"
+##
+
+<Choice End>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+\."Everyone..."
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent41-1}
+#Message#
+\."You really okay with that...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Be quiet
+What?
+##
+
+<黙っててくれ>
+
+{Sara} [Midori: Default grin / cara19-2]
+{SE: Accent40-1}
+#Message#
+"...Be quiet, \N[4]."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."Because picking red means
+ you might be picking one of the Dummies, right?"
+##
+
+<なんだ？>
+
+{Sara} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent40-1}
+#Message#
+"...What, \N[4]?"
+##
+
+{\N[4]}
+{SE: Accent24-1}
+#Message#
+\."Picking red means you might
+ be picking one of the Dummies, right?"
+##
+
+<Choice End>
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+{SE: Accent28-1}
+#Message#
+\."There'll be no trace of them left...
+ You okay with that?"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."Guh...!!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."Urrgh...!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."That's...!!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There's a chance of anyone getting picked, other than
+ Anzu and Ranmaru in the non-glowing coffins."
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: horror_piano chord3}
+#Message#
+\."You'll surely pick an ally, miss Sara..."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+#Message#
+\.\C[4](Grr... \N[4]...)
+##
+
+#Message#
+\.\C[4](What's with his confidence?)
+##
+
+#Message#
+\.\C[4](Our reasoning should be right...
+ We should be backing him into a corner...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](So then... why isn't he scared?)
+##
+
+#Message#
+\.\C[4](Why doesn't he fear death...?)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Does \N[4]... truly feel fear...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]...
+##
+
+#Message#
+\.\C[3]..........
+##
+
+{SE: Accent43-1}
+#Message#
+\.\C[3]Is our logic really correct...?
+##
+
+#Message#
+\.\C[3]..........
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: sceneswitch2}
+#Message#
+\."Do it, Sara...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...?!)
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+{SE: Accent21-1}
+#Message#
+\."Choose it...! A \C[10]red coffin\C[0], so you can win!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."M... Mai!!"
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+\."Even if I'm chosen...
+ I won't have any grudges or regrets!"
+##
+
+[Mai: Looking down at hand, mouth open, teary eyes / cara92-23]
+#Message#
+\."We can't let someone like him live..."
+##
+
+[Mai: Looking down at hand, mouth open, eyes closed crying / cara92-21]
+#Message#
+\."This demon who tramples on people's happiness...
+ Their lives...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Mai...)
+##
+
+{Mai} [Mai: Worried eyebrows, crying, closed teeth, grim look / cara92-16]
+{SE: Accent28-1}
+#Message#
+\."Do it for me, Sara!
+ Save Gin, the \C[12]human\C[0]...!!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+#Message#
+\."Hah! Sounds good to me..."
+##
+
+[Kurumada: Damaged, shouting / cara95-19]
+#Message#
+\."Pull the trigger, Sara! Use our lives if you gotta,
+ if it'll take down this son of a bitch!!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+\."That's right! This is the Dummies' determination...!"
+##
+
+[Hayasaka: Holding glasses across chest, sweating / cara94-20]
+#Message#
+\."Do it!! Let our lives help those who still live...!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, shouting / cara95-23]
+{SE: sceneswitch2}
+#Message#
+\."Do it, Sara!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...?!)
+##
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+{SE: Accent21-1}
+#Message#
+\."Go ahead and pick! A \C[10]red coffin\C[0], so you can win...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+\."Kurumada...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Kurumada... You..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+#Message#
+\."Even if I get picked..."
+##
+
+[Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."You think I'm gonna hold a grudge?!
+ Am I gonna have regrets?!"
+##
+
+[Kurumada: Damaged, grin / cara95-17]
+#Message#
+\."If it'll take this son of a bitch down,
+ I'll hand over my own life!!"
+##
+
+[Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."So... do it!!"
+##
+
+[Kurumada: Damaged, angry, shouting / cara95-23]
+#Message#
+\."Send this demon straight to hell!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Kurumada...)
+##
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+{SE: Accent28-1}
+#Message#
+\."Save him... Gin, the \C[12]human\C[0]..."
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka}
+#Message#
+\."Oooogh...!!"
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+{SE: sceneswitch2}
+#Message#
+\."Just do it, miss Sara...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...?!)
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+{SE: Accent21-1}
+#Message#
+\."Choose it! A \C[10]red coffin\C[0], for victory...!!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."S-Suit-and-specs..."
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+\."I don't really want to die! I want to live...!!"
+##
+
+[Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."Even being a doll... even being an AI...
+ My body is precious to me!"
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+\."But I've found something
+ that I want to protect even more!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Hayasaka...)
+##
+
+{Hayasaka} [Hayasaka: Holding glasses across chest, sweating / cara94-20]
+{SE: Accent28-1}
+#Message#
+\."Please, save Gin!
+ Miss Sara...!!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{???} [Keiji: Default smile / cara2-1]
+{SE: sceneswitch2}
+#Message#
+"Do it anyway, Sara..."
+##
+
+{Sara}
+#Message#
+\C[4](...?!)
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."What's up...?! Sara?!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Nothing..."
+##
+
+#Message#
+\.\C[4](Right... What good would it to do stop here?)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Can I save anyone if I can't trust in myself...?!)
+##
+
+#Message#
+\."To defeat \N[4]...!
+ I'll choose...!!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\.".........."
+##
+
+[Midori: Smug smirk with grave look / cara19-31]
+{SE: Accent41-1}
+#Message#
+\."...Ah, how entrancing.
+ To see you when you think you're right..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+All right
+We'll win
+I'll protect Gin
+##
+
+<はい>
+
+{Sara} [Midori: Smug smirk with grave look / cara19-31]
+#Message#
+"All right... Leave this to me!"
+##
+
+<勝ちます>
+
+{Sara} [Midori: Smug smirk with grave look / cara19-31]
+#Message#
+"We will win! Absolutely...!!"
+##
+
+<ギンを守ります>
+
+{Sara} [Midori: Smug smirk with grave look / cara19-31]
+#Message#
+"I'll protect Gin...! I swear it!!"
+##
+
+<Choice End>
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent21-1}
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Now... I just have to choose.)
+##
+
+{SE: Accent40-1}
+#Message#
+\.\C[4](And this time... we'll hit him!)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](We'll defeat \N[4] and win!!)
+##
+

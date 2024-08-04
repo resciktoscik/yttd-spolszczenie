@@ -1,0 +1,150 @@
+**********Common130********** (ﾅｵ「探索したんです！」)
+{Nao}
+#Message#
+\."If I had to say... I found the key to the kitchen...
+ But there wasn't anything in that room..."
+##
+
+#Message#
+"I searched as best I could!! And I found things!
+ Lots of things...!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+"What the hell is that?! That won't work on me!"
+##
+
+{Player}
+#Message#
+(Shoot...! That was a mistake!)
+
+
+* HP decreased
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+"But... but I did my best...
+ Saraaa..."
+##
+
+[Nao: Wide eyes, mouth open / cara7-2]
+{SE: Accent28-1}
+#Message#
+"Please believe me..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao is distraught...)
+##
+
+#Choice#
+Lots of things...?
+Calm her down first
+##
+
+<色々見つけたとは…？>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Lots of things as in a lot of things!!
+ I really did find theeem!! Saraaa!!"
+##
+
+<まずは落ち着かせる>
+
+{Sara} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Nao, take some deep breaths."
+##
+
+{Nao}
+#Message#
+\."S... Saraaa..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Nao took a deep breath.
+##
+
+{Nao}
+#Message#
+\."...Hahh."
+##
+
+#Message#
+\."...Is that good?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Nao seemed to calm down a little.
+##
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."E... Err... I'll think back..."
+##
+
+#Message#
+\."R-Right! I found a statue of a bird."
+##
+
+{Sara}
+#Message#
+\."...What else?"
+##
+
+{Nao}
+#Message#
+\."Urk... Umm..."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."...The professor's... h-head disappeared..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao...)
+##
+
+{Nao}
+#Message#
+\."Also... also..."
+##
+
+#Message#
+\."*sniff*... There's nothing else..."
+##
+
+#Message#
+\."If I had to say... I found the key to the kitchen...
+ But there \C[2]wasn't anything\C[0] in that room..."
+##
+
+{Sara}
+#Message#
+\.\C[4](There wasn't...?)
+##
+

@@ -1,0 +1,67 @@
+**********Common1637********** (●ｷﾞﾝ「素材すごい」)
+{Gin}
+#Message#
+"The coffins must be made of some amazing material
+ that glows when you use the lantern, meow!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Mya?! Am I saying something weird, woof?!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Mya?! Am I saying something weird, woof?!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"That's like magic, meow! I wanna see it too, woof!"
+##
+

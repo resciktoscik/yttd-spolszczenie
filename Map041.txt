@@ -1,0 +1,979 @@
+=====Map41===== (②●Red Room)
+
+**********Event1********** (kuma) (11,6)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]A large teddy bear.
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+-----Page10-----
+{N/A}
+#Message#
+\.\C[3]A red liquid leaks from the teddy bear's eyes.
+##
+
+{Sara}
+#Message#
+\.\C[4](...It's creepy... but I feel kind of bad.
+ I'll wipe it with the other paper I picked up
+ that doesn't seem very useful.)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]The bear's tears stopped.
+##
+
+{Sara}
+#Message#
+\.\C[4](...Hmm... Something came out of its mouth.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Tool (Flathead Screwdriver).
+##
+
+{Sara}
+#Message#
+\.\C[4](...I feel kind of bad for it...
+ Do I have anything to wipe with?)
+##
+
+-----Page11-----
+{N/A}
+#Message#
+\.\C[3]A large teddy bear.
+##
+
+
+**********Event2********** (kumakaku) (11,5)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]A large teddy bear.
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A red liquid leaks from the teddy bear's eyes.
+##
+
+{Sara}
+#Message#
+\.\C[4](...It's creepy... but I feel kind of bad.
+ I'll wipe it with the other paper I picked up
+ that doesn't seem very useful.)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]The bear's tears stopped.
+##
+
+{Sara}
+#Message#
+\.\C[4](...Hmm... Something came out of its mouth.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Tool (Flathead Screwdriver).
+##
+
+{Sara}
+#Message#
+\.\C[4](...I feel kind of bad for it...
+ Do I have anything to wipe with?)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\.\C[3]A large teddy bear.
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\C[4](The lights again...!)
+##
+
+#Message#
+\C[4](What in the world is happening...?)
+##
+
+#Choice#
+Call out for someone
+Hurry and leave
+##
+
+<何者かに、呼びかけてみる>
+
+{Sara}
+#Message#
+\."I-Is somebody there?!"
+##
+
+#Message#
+\."..."
+##
+
+<急いでこの場を立ち去る>
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](I'm uneasy about acting alone...
+ I might want to head back for now...)
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]I turned around, and found the door had shut.
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+#Message#
+\.\C[4](It won't open! I've been locked in...!)
+##
+
+
+**********Event4********** (hasira) (7,6)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]A clock with no hands.
+##
+
+{Sara}
+#Message#
+\.\C[4](The two needles seem to be this clock's hands.)
+##
+
+#Message#
+\.\C[4](First, where should I point the hour hand...?)
+##
+
+#Choice#
+12
+1
+2
+3
+4
+5
+##
+
+<12>
+
+<1>
+
+<2>
+
+<3>
+
+<4>
+
+<5>
+
+<Choice End>
+
+#Choice#
+6
+7
+8
+9
+10
+11
+##
+
+<6>
+
+<7>
+
+<8>
+
+<9>
+
+<10>
+
+<11>
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](Next, what should the minute hand point to?)
+##
+
+#Choice#
+12
+1
+2
+3
+4
+5
+##
+
+<12>
+
+<1>
+
+<2>
+
+<3>
+
+<4>
+
+<5>
+
+<Choice End>
+
+#Choice#
+6
+7
+8
+9
+10
+11
+##
+
+<6>
+
+<7>
+
+<8>
+
+<9>
+
+<10>
+
+<11>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]As the pendulum started to move,
+something stuck inside fell out.
+##
+
+#Message#
+\.\C[3]Obtained a Tool (Phillips Screwdriver).
+##
+
+#Message#
+\.\C[4](Nothing's happening...)
+##
+
+#Message#
+\.\C[4](Is there a hint hidden in this room...?)
+##
+
+#Message#
+\.\C[4](I can see a digital clock in the bookcase.
+ It's showing a weird time. 28:75...?)
+##
+
+#Message#
+\.\C[4](The digital clock in the bookcase
+ is showing 28:75, but...)
+##
+
+#Message#
+\.\C[4](If you displayed "28 o'clock" on an analog clock,
+ would that be 4 o'clock?)
+##
+
+#Message#
+\.\C[4](The digital clock in the bookcase
+ is showing 28:75.)
+##
+
+#Message#
+\.\C[4](75 minutes converts to 1 hour and 15 minutes.)
+##
+
+#Message#
+\.\C[4](So basically, I bet I need to
+ configure this clock to read 5:15!)
+##
+
+#Message#
+\.\C[4](I think I just need to
+ configure this clock to read 5:15...!)
+##
+
+#Message#
+\.\C[4](I'll set the hour hand to 5 for 5 o'clock,
+ and the minute hand to 3 for 15 minutes.)
+##
+
+#Message#
+\.\C[4](Nothing's happening...)
+##
+
+#Message#
+\.\C[4](Is there a hint hidden in this room...?)
+##
+
+#Message#
+\.\C[4](I can see a digital clock in the bookcase.
+ It's showing a weird time. 28:75...?)
+##
+
+#Message#
+\.\C[4](The digital clock in the bookcase
+ is showing 28:75, but...)
+##
+
+#Message#
+\.\C[4](If you displayed "28 o'clock" on an analog clock,
+ would that be 4 o'clock?)
+##
+
+#Message#
+\.\C[4](The digital clock in the bookcase
+ is showing 28:75.)
+##
+
+#Message#
+\.\C[4](75 minutes converts to 1 hour and 15 minutes.)
+##
+
+#Message#
+\.\C[4](So basically, I bet I need to
+ configure this clock to read 5:15!)
+##
+
+#Message#
+\.\C[4](I think I just need to
+ configure this clock to read 5:15...!)
+##
+
+#Message#
+\.\C[4](I'll set the hour hand to 5 for 5 o'clock,
+ and the minute hand to 3 for 15 minutes.)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]The clock is working quietly.
+##
+
+
+**********Event5********** (hon1) (5,3)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]There are books on the bookcase.
+##
+
+{Sara}
+#Message#
+\.\C[4](The covers look proper,
+ but they're all blank on the inside...)
+##
+
+#Message#
+\.\C[4](It's not exactly polite...
+ But I'll step on the books to get the box on top.)
+##
+
+#Message#
+\.\C[4](This'll do.)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]There's a digital clock in the back of the bookcase.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's stopped at 28:75...)
+##
+
+
+**********Event6********** (hako) (4,2)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]There's a box on top of the bookcase
+that looks like it'd need both hands to carry.
+##
+
+{Sara}
+#Message#
+\.\C[4](Ngh... Just barely too high to reach.)
+##
+
+#Message#
+\.\C[4](Is there anything I can use to get a boost?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]There's a box on top of the bookcase
+that looks like it'd need both hands to carry.
+##
+
+{Sara}
+#Message#
+\.\C[4](Let's look inside...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained Two Needles.
+##
+
+{Sara}
+#Message#
+\.\C[4](These are large and long...)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\.\C[3]There's a box on top of the bookcase
+that looks like it'd need both hands to carry.
+##
+
+{Sara}
+#Message#
+\.\C[4](The two needles were inside there...)
+##
+
+
+**********Event7********** (hon3) (5,6)
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A pile of books. Stable enough to stand on.
+##
+
+
+**********Event8********** (hako2) (14,5)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]A box that has a lid affixed with screws.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll use the flathead screwdriver...)
+##
+
+{N/A}
+{SE: Key}
+#Message#
+\.\C[3]Opened the box.
+##
+
+{Sara}
+#Message#
+\.\C[4](There's another tool...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Tool (Allen Wrench).
+##
+
+{Sara}
+#Message#
+\.\C[4](Could probably open it with a \C[2]flathead screwdriver\C[4].
+ I don't have that tool, though...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]Nothing left in the box.
+##
+
+
+**********Event9********** (memo) (7,8)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Notes of some kind are scattered about.
+##
+
+{Sara}
+#Message#
+\.\C[4](...! What's this note...?!)
+##
+
+#Message#
+\.\C[4](Professor Mishima's name is on this...
+ Along with some people I don't know.)
+##
+
+#Message#
+\.\C[4](Hm...? \C[2]Alice\C[4]... \C[2]Yabusame\C[4]?)
+##
+
+#Message#
+\.\C[4](...I'll hold onto this...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained Torn Paper.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]Nothing else on the desk.
+##
+
+
+**********Event10********** (akari) (2,4)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]A candle.
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I light this candle?)
+##
+
+{N/A}
+#Message#
+\.\C[3]The lighter ran out of fuel.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]The candle is lit.
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems it's designed so I can't carry it...)
+##
+
+
+**********Event11********** (botoru) (15,3)
+-----Page1-----
+{Sara}
+#Message#
+\.\C[4](It's a bottle... There's water inside.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Bottle.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]Nothing on the shelf.
+##
+
+
+**********Event13********** (yuka) (3,8)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Red liquid drips onto the floor.
+##
+
+{Sara}
+#Message#
+\.\C[4](If I jam a tool between the tiles,
+ I bet I can open it up.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Opened up the floor.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A red liquid spreads beneath the floor.
+##
+
+{Sara}
+#Message#
+\.\C[4](If I pour in water to increase the water volume...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](Hm...? Something floated to the top...)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\.\C[3]Something floats in the red liquid.
+##
+
+{Sara}
+#Message#
+\.\C[4](...Would prefer to avoid touching the liquid.)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Tool (Nail Puller).
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\.\C[3]A red liquid fills the space beneath the floor.
+##
+
+
+**********Event14********** (kaiga) (11,3)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]The corners of the frame are held by screws and nails.
+##
+
+{Sara}
+#Message#
+\.\C[4](Okay, I have all four tools I need.
+ I'll remove these...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Removed the painting.
+##
+
+{Sara}
+#Message#
+\.\C[4](...! The wall...!)
+##
+
+#Message#
+\.\C[4](All of these are different types...
+ Is the idea that I need four different tools
+ to remove the painting?)
+##
+
+
+**********Event15********** (rokka-) (9,6)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]A single tall locker.
+##
+
+#Message#
+\.\C[3]Open it?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara}
+{SE: heart1}
+#Message#
+\.\C[4](I'm getting get a bad feeling...)
+##
+
+#Message#
+\.\C[4](...Just stay calm, Sara.)
+##
+
+#Message#
+\.\C[4](I'll open it...!)
+##
+
+#Message#
+\."Gyaaaaah!"
+##
+
+{Man}
+#Message#
+\.".........."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."...\.Hel...\.\. p..."\.
+##
+
+{Sara}
+#Message#
+\.\C[4](Ack...?! What?!)
+##
+
+#Message#
+\."U... Um...?!"
+##
+
+{Man}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](W... What should I do...)
+##
+
+<いいえ>
+
+<Choice End>
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]There's nothing left in the locker.
+##
+
+
+**********Event16********** (gonnbe-) (8,7)
+-----Page1-----
+{Sara}
+#Message#
+\."A-Are you all right...?"
+##
+
+{Man}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's not conscious...)
+##
+
+#Message#
+\.\C[4](What do I do...
+ Should I run before he wakes up...?!)
+##
+
+#Message#
+\."...I can't...!!"
+##
+
+#Message#
+\.\C[4](I don't know if he's a good person...
+ But he said "help"...!)
+##
+
+#Message#
+\.\C[4](Then... I'll take him with me!)
+##
+
+{N/A}
+{SE: Equip2}
+#Message#
+\.\C[3]At great length, I got the man on my shoulder.
+##
+
+{Sara}
+#Message#
+\.\C[4](He doesn't seem to be hurt, but...
+ I should be delicate.)
+##
+
+
+**********Event18********** (らいたー) (14,10)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event19********** (りぼるばー) (11,11)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event20********** (ぼとる) (11,10)
+-----Page5-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page6-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event21********** (やぶれたかみ) (12,10)
+-----Page5-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event22********** (かいが) (13,10)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event23********** (はり) (12,11)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A long needle and short needle.
+Not sharp enough to pierce anything.
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event25********** (hon3) (4,6)
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]A pile of books. Stable enough to stand on.
+##
+
+
+**********Event34********** (はり) (13,11)
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Tools for removing screws and more.
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event35********** (役職カード) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event36********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event72********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event73********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event74********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event75********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event76********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

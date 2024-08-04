@@ -1,0 +1,545 @@
+**********Common1327********** (⑦過去正解の解答)
+{Keiji}
+#Message#
+\C[4](He actually had this bed lowered a little.)
+##
+
+#Message#
+\.\C[4](It's true, Q-taro's huge body falling off
+ could do some major damage...)
+##
+
+#Message#
+\C[4](This big bed...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."The bed? Think it's pretty normal..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Guhh!!
+ No, wait, I'm misremembering a li'l!!"
+##
+
+{SE: sceneswitch2}
+#Message#
+"I had them lower the height of the bed!"
+##
+
+#Message#
+"Since I'm so big, I was riskin' fallin' off!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Truly a giant..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."It ain't a laughin' matter... If a leg injury worsens,
+ that's deadly for a player's career!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."I couldn't let the guys at the orphanage hear
+ that I retired 'cause I fell outta bed!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent24-1}
+#Message#
+\."Could be a funny headline..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Keiji! You gonna take this seriously or what?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."But nothing like that happened, and you were
+ discharged from the hospital just fine, right?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent41-1}
+#Message#
+\."Q-taro...?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Y-Yeah... Should be."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](There was a security camera
+ on the wall of this building.)
+##
+
+#Message#
+\.\C[4](Probably because this was
+ after the incident with Alice happened...)
+##
+
+#Message#
+\C[4](The wall of this building...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent21-1}
+#Message#
+\."Huh?
+ S-Sure..."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Oh yeah, actually... that wall..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"It might've had a security camera on it..."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."...Well, but there wasn't one when I went before."
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Until that incident with Alice happened..."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](The murder case...!)
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Which means they installed a security camera
+ because of that incident..."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](Then the whole conversation between these two
+ was being recorded...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](This photo was actually a photo of Sou.)
+##
+
+#Message#
+\.\C[4](\N[4] was seemingly very thorough
+ about not appearing in any photos...)
+##
+
+#Message#
+\C[4](This one night cityscape photo...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."Ahaha, fine by me."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\.".........."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Urgh... I remembered something unpleasant."
+##
+
+{SE: sceneswitch2}
+#Message#
+"Even that photo... had me in it..."
+##
+
+{SE: Accent42-1}
+#Message#
+\."He wouldn't let you take photos of him,
+ yet he loved to put up photos of me... Disgusting."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."There wasn't a single photo of \N[4]...?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Nope... I pointed a camera at him once to test,
+ but he gave me a murderous glare."
+##
+
+[Sou: Looking down to side / cara5-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."He was dedicated to not leaving
+ a single trace of his existence."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](Was everything going according to plan...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](This pen holder...
+ It actually had a pen Gin didn't usually see in it.)
+##
+
+#Message#
+\C[4](He joked about it having a hidden camera...
+ but was that a really a joke...?)
+##
+
+#Message#
+\C[4](This pen holder with writing tools in it...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: flash-of-light-3}
+#Message#
+\."Leave it to me, meow!"
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\."Hmm... It's pretty minor,
+ but I was kind of curious about something, woof..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."That's it, meow! I know what it was, woof!"
+##
+
+{SE: sceneswitch2}
+#Message#
+"There was an unfamiliar pen in the pen holder, meow!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."An unfamiliar pen...?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I go to the infirmary all the time, so I know, woof!"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+{SE: Accent41-1}
+#Message#
+\."A pen the usual infirmary person doesn't use...
+ It only showed up when that teacher was there, meow!"
+##
+
+[Gin: Unamused eyes / cara9-20]
+#Message#
+\."I know, woof... That pen..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+\."It's actually got a hidden camera, meow!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Say what...?!"
+##
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Spy stuff, woof! Some special service something
+ from another country was targeting me, meowww!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\.".........."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Now that I think about it,
+ wasn't I being targeted for real, woof?"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](What sounds like a joke could be entirely true...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\C[4](This green tea ice cream... Apparently
+ Kanna's sister ate it all in her frequent visits.)
+##
+
+#Message#
+\C[4](I imagine supply issues played a part too,
+ but Kanna is convinced it was her sister's doing...)
+##
+
+#Message#
+\C[4](This green ice cream...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+{SE: Accent21-1}
+#Message#
+\."Okay! Leave it to me!"
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."I think it had a nice, mature level of sweetness...
+ and it filled your mouth with a green tea flavor..."
+##
+
+[Kanna: Angry shout / cara3-23]
+#Message#
+\."Ah!! I remember!!"
+##
+
+{SE: sceneswitch2}
+#Message#
+"Kanna's sister ate too much of it,
+ so they ran out of the green tea ice cream!"
+##
+
+#Message#
+\."She was really fond of it...!
+ She had it all the time!"
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Kanna was more drawn to
+ the sweet vanilla and chocolate flavors..."
+##
+
+[Kanna: Default look / cara3-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But that day in particular, her big sister watched
+ as Kanna acted all mature to pick something out."
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+\."Because they didn't have her favorite flavor...!"
+##
+
+{Sara} [Sara: Yell / cara0-26]
+#Message#
+\."Guess we've solved at least one of the discrepancies."
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."Right! Let's keep following these memories!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Kanna: Neutral smile / cara3-9]
+#Message#
+\C[4](These bars actually had a chain attached to them.)
+##
+
+#Message#
+\.\C[4](It seems security was extremely tight...)
+##
+
+#Message#
+\C[4](This part of the cell bars...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Hmph... A strange place to question.
+ How fitting for you..."
+##
+
+[Alice: Surprised face / cara11-2]
+#Message#
+\."Thinking on it, I feel something was there..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."That's it! A chain!
+ A chain was attached to the bars...!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."How abhorrent! Thinking about it,
+ why am I still the only one in chains?!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."You can't remove those handcuffs or shackles...?"
+##
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+\."Like, of course not!! Duh!!
+ You thought was wearing these because I wanted to?!"
+##
+
+{Sara} [Sara: Hands on hips, surprise / cara0-15]
+#Message#
+\.\C[4](Guess it's a bit bold for a fashion statement...)
+##
+
+<やめる>
+
+<Choice End>
+

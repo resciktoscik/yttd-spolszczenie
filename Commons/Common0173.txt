@@ -1,0 +1,95 @@
+**********Common173********** (Q「死にたがりか？」)
+{Q-taro}
+#Message#
+"Don't tell me... None of y'all are thinkin'
+ you'd be fine dying, right?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Don't get in the way, Sara!
+ I'm talkin' to these three!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Make yer will clearer for me!
+ You don't wanna die, do ya?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Q-taro}
+#Message#
+"Make yer will clearer for me!
+ You don't wanna die, do ya?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Sara! I'm serious 'bout this!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."If there's somebody wishin' they were dead...
+ I won't stand for it!"
+##
+

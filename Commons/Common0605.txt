@@ -1,0 +1,27 @@
+**********Common605********** (ジョー③崩壊「耐久」)
+{N/A}
+#Message#
+\C[10]Sara...
+##
+
+#Message#
+\.\C[10]Why...?
+##
+
+#Message#
+\.\C[10]Why didn't you save me, Sara...
+##
+
+#Message#
+\.\C[10]..........
+##
+
+{Sara}
+#Message#
+\."Urrrgh...!!"
+##
+
+#Message#
+\.\C[4](No... more... No more of this...)
+##
+

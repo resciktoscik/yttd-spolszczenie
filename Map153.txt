@@ -1,0 +1,1718 @@
+=====Map153===== (❹PC Inside)
+
+**********Event1********** (gomi) (1,1)
+-----Page1-----
+#Message#
+\C[3]The trash can for discarded data.
+##
+
+
+**********Event2********** (saran) (1,3)
+-----Page1-----
+#Message#
+\C[3]A folder named "Sara."
+##
+
+#Message#
+\.\C[3]It's locked with a password.
+##
+
+{Sara}
+#Message#
+\.\C[4](Can't open it...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](The password is... my mother's name...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I slowly typed in my mother's name.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](It opened...!)
+##
+
+-----Page2-----
+#Message#
+\C[3]A folder named "Sara."
+##
+
+
+**********Event4********** (sire8) (1,5)
+-----Page1-----
+{File}
+#Message#
+\C[5]A file named "Order 8."
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{File}
+#Message#
+\C[5]Kai, good work guarding the Chidouin family.
+##
+
+#Message#
+\.\C[5]It seems the Chidouins have been
+looking for assistants as of late.
+##
+
+#Message#
+\.\C[5]This is good timing.
+Kai, get them to employ you and slip into their midst.
+##
+
+[Kai: Past appearance as assassin / cara8-24]
+#Message#
+\.\C[5]The organization has prepared the necessary documents.
+They're all kept in this file.
+##
+
+{SE: Accent28-1}
+#Message#
+\C[5]Kai, good work guarding the Chidouin family.
+##
+
+#Message#
+\.\C[5]It seems the Chidouins have been
+looking for assistants as of late.
+##
+
+#Message#
+\.\C[5]This is good timing.
+Kai, get them to employ you and slip into their midst.
+##
+
+#Message#
+\.\C[5]The organization has prepared the necessary documents.
+They're all kept in this file.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](It's... a forged resume.)
+##
+
+#Message#
+\.\C[4](The photo should be authentic, at least...
+ Though it seems to be pretty old.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I knew we had an assistant when I was a kid...)
+##
+
+#Message#
+\.\C[4](But they only worked while I was at school,
+ so I never saw them around.)
+##
+
+#Message#
+\.\C[4](Was Kai... really there, at my house...?)
+##
+
+
+**********Event7********** (etti) (4,3)
+-----Page1-----
+{File}
+#Message#
+\C[5]A file named "BACKDOOR.SMUT."
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[3]Inside, there were long strings of text and symbols
+I couldn't make any sense of.
+##
+
+#Message#
+\.\C[4](Urgh... I'm good at math and science, but...)
+##
+
+{Q-taro}
+#Message#
+"H-Hey! Quit it with that!!"
+##
+
+{Sara}
+#Message#
+\."I-I'm not exactly excited myself, but..."
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."...Well, it's not an image file, right?"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{N/A}
+#Message#
+\C[3]I nervously opened the file.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]Inside, there were long strings of text and symbols
+I couldn't make any sense of.
+##
+
+{Keiji}
+#Message#
+\."Can't make heads or tails of it.
+ Hard to believe Kai was into this..."
+##
+
+{Q-taro}
+#Message#
+\."Is this a, whatchamacallit...
+ Some kinda programming thingie?"
+##
+
+{Sara}
+#Message#
+\.\C[4](We can't decipher this sort of thing...)
+##
+
+
+**********Event8********** (sire59) (1,7)
+-----Page1-----
+{File}
+#Message#
+\C[5]A file named "Order 59."
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{File}
+#Message#
+\C[5]Kai, the Death Game Project is finally
+taking on tinges of reality.
+##
+
+#Message#
+\.\C[5]At last, your time has come
+to be useful to the organization.
+##
+
+#Message#
+\.\C[5]Guard Sara Chidouin until the planned day,
+and ensure she remains healthy.
+##
+
+#Message#
+\.\C[5]And as much as possible, keep an eye out
+for her close friends Jou Tazuna and Ryoko Hirose.
+##
+
+#Message#
+\.\C[5]We can't add anyone else.
+Understood? Fulfill your duty, Kai.
+##
+
+#Message#
+\C[5]Kai, the Death Game Project is finally
+taking on tinges of reality.
+##
+
+#Message#
+\.\C[5]At last, your time has come
+to be useful to the organization.
+##
+
+#Message#
+\.\C[5]Guard Sara Chidouin until the planned day,
+and ensure she remains healthy.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[5]And as much as possible, keep an eye out
+for her close friends Jou Tazuna and Ryoko Hirose.
+##
+
+#Message#
+\.\C[5]We can't add anyone else.
+Understood? Fulfill your duty, Kai.
+##
+
+{Sara}
+#Message#
+\C[4](Even Joe, and my best friend Ryoko,
+ are mentioned in here...!!)
+##
+
+{N/A}
+#Message#
+\.\C[3]The file contains investigative reports on,
+and photos of, Joe and Ryoko.
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't tell me... Was it planned
+ for Ryoko to get involved, too...?)
+##
+
+
+**********Event9********** (konomi) (4,1)
+-----Page1-----
+{File}
+#Message#
+\C[5]A file named "Sara's Tastes."
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{File}
+#Message#
+\C[5]★Miss Sara's Favorite Things (Sweets Edition)★
+
+Strawberry jam (jam in general)
+Mashed sweet potatoes w/ chestnuts  Koshian toast
+##
+
+#Message#
+\.\C[5]★Taste Notes★
+Miss Sara eats well with a balanced diet.
+She especially likes sweet things.
+I'm happy to understand her just one bit more.
+##
+
+{N/A}
+#Message#
+\C[3]It goes on and on like this.
+##
+
+{Sara}
+#Message#
+\C[4](Maybe I'm a bit of a glutton...)
+##
+
+{SE: Accent28-1}
+#Message#
+\C[4](Did Kai make this file himself...?)
+##
+
+{File}
+#Message#
+\C[5]★Miss Sara's Favorite Things (Sweets Edition)★
+
+Strawberry jam (jam in general)
+Mashed sweet potatoes w/ chestnuts  Koshian toast
+##
+
+{Sara}
+#Message#
+\C[4](H... He's right on the money!)
+##
+
+{Q-taro}
+#Message#
+\."...Nothin' but paste, huh."
+##
+
+{File}
+#Message#
+\C[5]★Taste Notes★
+Miss Sara eats well with a balanced diet.
+She especially likes sweet things.
+I'm happy to understand her just one bit more.
+##
+
+{N/A}
+#Message#
+\C[3]It goes on and on like this.
+##
+
+{Q-taro}
+#Message#
+\."So, uh... Kai was Sara's stalker...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Now that I think about it, there always was
+ something paste-like at the dinner table...)
+##
+
+
+**********Event10********** (anatahe) (4,7)
+-----Page1-----
+{File}
+#Message#
+\C[5]A file named "To Miss Sara."
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{File} [Kai: Default / cara8-1]
+#Message#
+\C[5]Hello, miss Sara. I am Kai.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]I am truly sorry you had to get involved
+in such an incident as this.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Miss Sara, if you are reading this,
+there is something I want to tell you.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]I, Kai Satou, was an agent
+belonging to a certain vile organization.
+##
+
+#Message#
+\C[5]In addition, I was raised as an assassin.
+##
+
+#Message#
+\.\C[5]However, I could not carry out the assassination orders
+I was issued in my youth.
+##
+
+#Message#
+\.\C[5]I could not kill another human being.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\C[5]My father was disappointed in me...
+and my standing in the organization was low.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Then one day, I was appointed to a certain task.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]It was to guard and care for you from the shadows.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]I say this, but it was not a task
+I held in high regard at first.
+##
+
+[Kai: Lowered eyebrows / cara8-3]
+#Message#
+\.\C[5]Not until the plans for the Death Game
+were beginning to approach a reality.
+##
+
+[Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\.\C[5]I myself do not know the Death Game's objective.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]However, while this is merely my impression...
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Miss Sara, it is possible that
+this is all revolving around you.
+##
+
+[Kai: Raised eyebrows / cara8-2]
+#Message#
+\.\C[5]Of course, I do also believe
+that you are merely a victim, miss Sara.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Still, the organization needs you.
+##
+
+[Kai: Lowered eyebrows / cara8-3]
+#Message#
+\.\C[5]And they will take any means necessary.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]The organization's name is \C[2]ASU-NARO\C[5].
+
+It is a secret organization possessing
+superb technology in a multitude of fields.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]This Death Game is not for pleasure nor revenge.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]To the organization, it is an inevitable mission.
+...That is what my father believed.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]The organization drove my father mad.
+There may come a time you must confront him.
+##
+
+[Kai: Lowered eyebrows / cara8-3]
+#Message#
+\.\C[5]At that time, please, defeat my father, Gashu.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]I have collected all the data
+I've researched in the "Sara" folder.
+If I am already dead, please make use of it.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]The password is your mother's name.
+I hope it can be of some use.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]I pray you will not be swallowed up
+by the whirlpool of deception and slaughter.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Please survive, even if it must be you alone.
+##
+
+{SE: Accent21-1}
+#Message#
+\C[5]Hello, miss Sara. I am Kai.
+##
+
+#Message#
+\.\C[5]I am truly sorry you had to get involved
+in such an incident as this.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](This was written during the Death Game...?!)
+##
+
+{File}
+#Message#
+\.\C[5]Miss Sara, if you are reading this,
+there is something I want to tell you.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]I, Kai Satou, was an agent
+belonging to a certain vile organization.
+##
+
+#Message#
+\C[5]In addition, I was raised as an assassin.
+##
+
+{Sara}
+#Message#
+\.\C[4](An assassin?!)
+##
+
+{File}
+#Message#
+\.\C[5]However, I could not carry out the assassination orders
+I was issued in my youth.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[5]I could not kill another human being.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\C[5]My father was disappointed in me...
+and my standing in the organization was low.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Then one day, I was appointed to a certain task.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+{SE: Accent28-1}
+#Message#
+\.\C[5]It was to guard and care for you from the shadows.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]I say this, but it was not a task
+I held in high regard at first.
+##
+
+[Kai: Lowered eyebrows / cara8-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[5]Not until the plans for the Death Game
+were beginning to approach a reality.
+##
+
+{Sara}
+#Message#
+\C[4](...!)
+##
+
+{File} [Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\.\C[5]I myself do not know the Death Game's objective.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]However, while this is merely my impression...
+##
+
+[Kai: Default / cara8-1]
+{SE: sceneswitch2}
+#Message#
+\.\C[5]Miss Sara, it is possible that
+this is all revolving around you.
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+
+{File} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\.\C[5]Of course, I do also believe
+that you are merely a victim, miss Sara.
+##
+
+{Sou}
+#Message#
+\."..."
+##
+
+{File} [Kai: Default / cara8-1]
+#Message#
+\.\C[5]Still, the organization needs you.
+##
+
+[Kai: Lowered eyebrows / cara8-3]
+#Message#
+\.\C[5]And they will take any means necessary.
+##
+
+[Kai: Looking down and to side / cara8-6]
+{SE: Accent28-1}
+#Message#
+\.\C[5]The organization's name is \C[2]ASU-NARO\C[5].
+
+It is a secret organization possessing
+superb technology in a multitude of fields.
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Asunaro...?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Y-You startled me... What's the matter?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: sceneswitch2}
+#Message#
+\."That's the same name as the orphanage I'm from!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Settle down. Let's keep reading."
+##
+
+{File} [Kai: Default / cara8-1]
+#Message#
+\.\C[5]This Death Game is not for pleasure nor revenge.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]To the organization, it is an inevitable mission.
+...That is what my father believed.
+##
+
+{Sou}
+#Message#
+"His father..."
+##
+
+{File} [Kai: Default / cara8-1]
+#Message#
+\C[5]The organization drove my father mad.
+There may come a time you must confront him.
+##
+
+[Kai: Lowered eyebrows / cara8-3]
+{SE: sceneswitch2}
+#Message#
+\.\C[5]At that time, please, defeat my father, Gashu.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Gashu...!)
+##
+
+{File} [Kai: Hand on chin, looking to side / cara8-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[5]I have collected all the data
+I've researched in the "Sara" folder.
+If I am already dead, please make use of it.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]The password is your mother's name.
+I hope it can be of some use.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]I pray you will not be swallowed up
+by the whirlpool of deception and slaughter.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Please survive, even if it must be you alone.
+##
+
+{N/A}
+#Message#
+\.\C[3]The message ends here.
+##
+
+{Sara}
+#Message#
+\.\C[4](...Kai.
+ We're all working together now...)
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+{SE: Accent28-1}
+#Message#
+\."...Hey, Sou.
+ Don'tcha think this clears Sara of suspicion?"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent21-1}
+#Message#
+\."Huh?"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Weren't you on about that? Saying Sara, Kai, and Joe
+ were the masterminds working together..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Well... that was just a little tit for tat.
+ I wasn't exactly calm at the time."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sorry, miss Sara. I'm glad we could reconcile."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+
+**********Event11********** (orei) (10,3)
+-----Page1-----
+{File}
+#Message#
+\C[5]A file named "Personal Thanks."
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{File} [Kai: Default / cara8-1]
+#Message#
+\C[5]Hello, this is Kai.
+##
+
+[Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\.\C[5]Apologies, but this message has
+absolutely nothing to do with the Death Game.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Miss Sara, I wish to express
+my personal gratitude as Kai Satou.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]I owe a great deal to the Chidouin family.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Your father hired me as an assistant
+to help out with his job and housework.
+##
+
+[Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\.\C[5]Of course... this was also a job for the organization,
+to keep watch of you.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]At first, I felt disgusted with your father,
+who treated me as if I was family.
+##
+
+[Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\.\C[5]I was trained as an agent from a young age.
+I had never experienced anything such as "affection."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]I was afraid. Afraid that I might be changing.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]But over time, I came to want to protect your family.
+##
+
+[Kai: Raised eyebrows / cara8-2]
+#Message#
+\.\C[5]I wished to see you grow to maturity with my own eyes.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]For the first time, I had a reason to live.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]I'm truly glad I could meet the Chidouins.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Thank you very much, miss Sara.
+##
+
+#Message#
+\C[5]Hello, this is Kai.
+##
+
+[Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\.\C[5]Apologies, but this message has
+absolutely nothing to do with the Death Game.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Miss Sara, I wish to express
+my personal gratitude as Kai Satou.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+{SE: Accent21-1}
+#Message#
+\.\C[5]I owe a great deal to the Chidouin family.
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\.\C[5]Your father hired me as an assistant
+to help out with his job and housework.
+##
+
+[Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\.\C[5]Of course... this was also a job for the organization,
+to keep watch of you.
+##
+
+[Kai: Looking down and to side / cara8-6]
+#Message#
+\.\C[5]At first, I felt disgusted with your father,
+who treated me as if I was family.
+##
+
+[Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\.\C[5]I was trained as an agent from a young age.
+I had never experienced anything such as "affection."
+##
+
+[Kai: Default / cara8-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[5]I was afraid. Afraid that I might be changing.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]But over time, I came to want to protect your family.
+##
+
+[Kai: Raised eyebrows / cara8-2]
+#Message#
+\.\C[5]I wished to see you grow to maturity with my own eyes.
+##
+
+[Kai: Default / cara8-1]
+{SE: Accent21-1}
+#Message#
+\.\C[5]For the first time, I had a reason to live.
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\.\C[5]I'm truly glad I could meet the Chidouins.
+##
+
+[Kai: Default / cara8-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[5]Thank you very much, miss Sara.
+##
+
+{Sara}
+#Message#
+\C[4](Kai...)
+##
+
+
+**********Event12********** (zinbutu) (13,3)
+-----Page1-----
+{File}
+#Message#
+\C[5]A file named "[Important] Background Check File."
+##
+
+#Choice#
+Read
+Don't read
+##
+
+<読む>
+
+<読まない>
+
+<Choice End>
+
+{File}
+{SE: Accent28-1}
+#Message#
+\C[5]Hello, this is Kai.
+##
+
+#Message#
+\.\C[5]I was able to use an old ID to successfully access
+a very small section of the organization's database.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[5]There, I discovered data pertaining to
+\C[2]participants in the Death Game\C[5].
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](...!)
+##
+
+{File}
+#Message#
+\C[5]Unfortunately, data on most of the participants
+was protected in such a way I could not extract it.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[5]But there was one man in particular
+for which that protection was removed.
+##
+
+#Message#
+\.\C[5]It appears his file was at one time deleted...
+##
+
+#Message#
+\.\C[5]But for some reason or another, it was restored.
+##
+
+{Sara} [Midori: Default grin (no collar) / cara19-1]
+#Message#
+\.\C[4](...Who could this be...?)
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+\."...?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: sceneswitch2}
+#Message#
+\."This guy's...?!"
+##
+
+{Sara}
+#Message#
+\."W-What's the matter?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Alice: Tired face, eyes open wider / cara11-27]
+#Message#
+\.\C[4](W... What?! Everyone's acting strange!!)
+##
+
+[Midori: Default grin (no collar) / cara19-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Do they all... know this person?!)
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Oogh...! *pant*...!! *pant*...!!!"
+##
+
+[Sou: Scared look, grave face / cara5-26]
+#Message#
+\."Sorry, I... I gotta use the toilet..."
+##
+
+{File}
+#Message#
+\.\C[5]I do not even know his name.
+##
+
+#Message#
+\.\C[5]However, there is only one reason the organization
+would delete a file on someone.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[5]Namely, \C[10]death\C[5].
+##
+
+#Message#
+\.\C[5]If he passed away before the Death Game...
+##
+
+#Message#
+\.\C[5]And his file was then restored...
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[5]Perhaps that means... he was revived.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: No makeup, angry eyes, closed teeth / cara6-30]
+#Message#
+\."Wha...?! Revived?!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: No makeup, angry eyes, closed teeth / cara6-30]
+#Message#
+\."I know... I know I've seen this guy!!
+ Somewhere or another...!!"
+##
+
+[Reko: No makeup, hands out, worried look / cara6-32]
+{SE: Accent21-1}
+#Message#
+\."But... why can't I remember...?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."You neither...?!"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kanna thinks so, too...
+ But she can't remember anything...!"
+##
+
+{Reko} [Reko: No makeup, angry eyes, closed teeth / cara6-30]
+#Message#
+\."Does anybody know this guy's name...?!"
+##
+
+{Kanna} [Midori: Default grin (no collar) / cara19-1]
+#Message#
+\."..."
+##
+
+#Message#
+\."...Ah..."
+##
+
+[Kanna: Upset look, mouth closed / cara3-30]
+{SE: Accent28-1}
+#Message#
+\."He's wearing the same scarf as Sou...!"
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."I've... met this guy somewhere."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Thing is... I can't remember nothin'!!"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: sceneswitch2}
+#Message#
+\."You too, Q-taro...?!"
+##
+
+[Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."Kanna... thinks she must have met him...
+ But she can't remember anything!!"
+##
+
+{Alice} [Alice: Tired face, eyes open wider / cara11-27]
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."I remembered...!!"
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."This man... looks just like him!!"
+##
+
+[Alice: Tired face, fist to palm, closed teeth / cara11-29]
+#Message#
+\."The man... the man that I killed...!!"
+##
+
+[Alice: Tired face, fist to palm, angry shout / cara11-30]
+{SE: shock1}
+#Message#
+\."It's \C[2]Sou Hiyori\C[0]!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."What're you talking about?!\! I mean, Sou's..."
+##
+
+{Alice} [Alice: Tired face, fist to palm, angry shout / cara11-30]
+#Message#
+\."Dammit!! Why...?!
+ How could I forget what he looked like?!"
+##
+
+[Alice: Tired face, clutching chest, angry shout / cara11-32]
+#Message#
+\."And... just who in the world is he?!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."...H..."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: Accent21-1}
+#Message#
+\."He... revived...?"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."There's still more to Kai's message."
+##
+
+<Condition End>
+
+{File}
+#Message#
+\.\C[5]I could not solve the riddle concerning him.
+##
+
+#Message#
+\.\C[5]And there is one more curious aspect.
+##
+
+#Message#
+\.\C[5]There should have been 20 participants
+in the Death Game...
+##
+
+#Message#
+\.\C[5]But there were not enough files for everyone.
+##
+
+#Message#
+\.\C[5]My supposition is that...
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Wha?! That sound...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: No makeup, angry eyes, closed teeth / cara6-30]
+#Message#
+\."There's been a trade!!"
+##
+
+<Else>
+
+{Alice} [Alice: Tired face, fist to palm, closed teeth / cara11-29]
+#Message#
+\."Right... It's a trade of cards."
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."Urgh...!! But this ain't the time for that!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Someone who isn't present initiated a trade...!)
+##
+
+#Choice#
+Check my role
+Focus on the laptop
+##
+
+<役職をチェックする>
+
+{Sara} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+{SE: Accent28-1}
+#Message#
+\."Let's check our tablets...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Yeah! You guys make sure ya check yours, too!"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."O-Okay!"
+##
+
+<パソコンに集中する>
+
+{Sara} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."G-Guys! The info on the laptop
+ is more important than our cards right now!!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."I-I mean... We can't not look, right?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Q-taro and the others started up their tablets.
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Whew... Fine, fine."
+##
+
+{Sara}
+#Message#
+\.\C[4](We'll just have to check our cards first, then...)
+##
+
+<Choice End>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\.\C[4](Let's boot up the tablet...)
+##
+
+#Message#
+\.\C[4](Okay... I'm the Keymaster.)
+##
+
+#Message#
+\.\C[4](Now, back to the laptop...)
+##
+
+#Message#
+\.\C[4](Huh...?)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](...?)
+##
+
+#Message#
+\.\C[4]\sp[12](Huh...?)
+##
+
+#Message#
+\.\C[4]\sp[10](Sacrifice...?)
+##
+
+{Tablet}
+#Message#
+\.\C[3]The third trade has just been performed.
+##
+
+{N/A}
+#Message#
+\.\C[3]There's no mistaking it.
+##
+
+#Message#
+\.\C[3]Someone traded cards with me.
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[3]And of all things, they pushed on me the \C[10]Sacrifice\C[3].
+##
+
+{Sara}
+#Message#
+\.\C[4]\sp[12](Inconceivable...)
+##
+
+#Message#
+\.\C[4]\sp[12](I mean... I...)
+##
+
+#Message#
+\.\C[4]\sp[12](I'm fighting for everyone's...)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4]\sp[10](Ah...)
+##
+
+#Message#
+\.\C[4]\sp[9](I'm suffocating...)
+##
+
+#Message#
+\.\C[4]\sp[8](Huh...? I can't... breathe right...)
+##
+
+{Joe}
+#Message#
+\C[10]"What's the matter, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{Joe}
+#Message#
+\.\C[10]"How's it feel to have my card?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Calm down... Right now... the laptop...)
+##
+
+{Joe}
+#Message#
+\.\C[10]"No worries. It's not like that card
+ means you definitely die, y'know."
+##
+
+{Sara}
+#Message#
+\.\C[4](...The laptop...)
+##
+
+{Joe}
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"'Course, you did kill me."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sara..."
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."...Calm down..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Ah...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I feel a touch on my shoulder...
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]It's warm...
+##
+
+#Message#
+\.\C[3]But.
+##
+
+#Message#
+\.\C[10]The hallucination... won't go away.
+##
+
+{Sara}
+#Message#
+\.\C[4](I need... I need to trade cards...!!)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](And I have 50 tokens!)
+##
+
+#Message#
+\.\C[4](Right, I left the wallet in my bedroom!!)
+##
+
+#Message#
+\.\C[4](I need to go get it...!!)
+##
+
+{N/A}
+{SE: asioto1}
+#Message#
+\.\C[3]My body moves on its own.
+##
+
+#Message#
+\.\C[3]Not caring about anyone watching, I start running.
+##
+
+{Sara}
+#Message#
+\."*pant*...!! *pant*...!!"
+##
+
+#Message#
+\."Where's... the wallet...?!"
+##
+
+#Message#
+\.\C[4](But... But I...!!)
+##
+
+#Message#
+\.\C[4](I don't have 50 tokens...!!)
+##
+
+#Message#
+\.\C[4](What should I do?!
+ I can't borrow from anyone!!)
+##
+
+#Message#
+\.\C[4](Have to think... have to think...!!)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](That's right... the Room of Lies!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[10](If I take Alice's tokens...)
+##
+
+<Else>
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[10](If I take Reko's tokens...)
+##
+
+<Condition End>
+
+#Message#
+\C[4](..........)
+##
+
+{N/A}
+{SE: asioto1}
+#Message#
+\.\C[3]My body moves on its own.
+##
+
+#Message#
+\.\C[3]Not caring about anyone watching, I start running.
+##
+
+
+**********Event56********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event57********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event58********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event59********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event60********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event61********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event63********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

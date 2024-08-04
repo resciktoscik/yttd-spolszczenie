@@ -1,0 +1,67 @@
+**********Common1649********** (◆ｶﾝﾅ「電動ヒツギ」)
+{Kanna}
+#Message#
+"Maybe the coffins actually use power to glow?
+ Surely... they \C[2]ran out of battery\C[0]!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"W... What is it...?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"I don't quite understand..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+#Message#
+"The Dummies also run on battery!
+ It would make sense if their coffins did too!"
+##
+

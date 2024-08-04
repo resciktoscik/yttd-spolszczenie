@@ -1,0 +1,94 @@
+**********Common669********** (ｹｲｼﾞ「Qなし」)
+{Keiji}
+#Message#
+"We should leave out someone with lots of tokens.
+ ...Like Q-taro."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"I thought it was a good plan, myself."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Nope, can't quite piece it together."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"There's been a bunch of card trading this time."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."It's possible Q-taro with all his tokens
+ was involved in at least one trade..."
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."And him giving his tokens to Sou...
+ That subject could really influence the discussion."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."We should leave him out to extract info."
+##
+

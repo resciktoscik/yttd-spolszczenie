@@ -1,0 +1,122 @@
+**********Common31********** (ジョー)
+{Joe}
+#Message#
+"I guess I prefer Takenoko no Sato.
+ It just looks sorta cute, y'know?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+{SE: Accent28-1}
+#Message#
+"Whoaaa! This is scary!
+ Suddenly those bamboo shoots don't look cute no more!"
+##
+
+{Strange Man} [Mishima: Default smile / cara12-1]
+#Message#
+\."Indeed, Kinoko no Yama is the only option...
+ I see now how this is going to go."
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."Huh... I-Is that right?
+ Well hey, whatever..."
+##
+
+#Message#
+"What the hell is that?! That won't work on me!"
+##
+
+{Player}
+#Message#
+(Shoot...! That was a mistake!)
+
+
+* HP decreased
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Strange Man} [Mishima: Default smile / cara12-1]
+{SE: Accent28-1}
+#Message#
+"I would say Kinoko no Yama.
+ The smooth exterior whets my appetite."
+##
+
+{Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
+#Message#
+\."W-Well, I'm not that picky...
+ I'd be fine with that, but..."
+##
+
+{Strange Man} [Mishima: Default smile / cara12-1]
+#Message#
+\."Aha, so I've talked you down."
+##
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+\."It kinda hurts to hear you say that..."
+##
+
+#Message#
+"That statement won't work on me."
+##
+
+{Player}
+#Message#
+(Shoot...! That was a mistake!)
+
+
+* HP decreased
+##
+
+<やめる>
+
+<Choice End>
+
+{Joe} [Joe: Default (no collar) / cara1-1]
+#Message#
+"I got nothin' more to say."
+##
+

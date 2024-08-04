@@ -1,0 +1,216 @@
+**********Common1527********** (戦⑦怒りのAIへ)
+{N/A}
+#Message#
+\C[3]But it was already destroyed, so there's no response.
+##
+
+{Sara}
+#Message#
+\.\C[4](That's on me for giving the order...!)
+##
+
+{Angry AI}
+{SE: sceneswitch2}
+#Message#
+"Bastard!! Stop it!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The water went inside the body, consuming energy.
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent40-1}
+#Message#
+"I did it, meow!"
+##
+
+{Angry AI}
+{SE: sceneswitch2}
+#Message#
+"Bastard... Stop..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, grin / cara95-26]
+{SE: Accent40-1}
+#Message#
+"Hah... Serves ya right..."
+##
+
+{Angry AI}
+{SE: sceneswitch2}
+#Message#
+"Bastard... Stop..."
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent40-1}
+#Message#
+"I've already made up my mind...!"
+##
+
+{Angry AI}
+#Message#
+"Got nothing to talk to you bastards about.
+ Now hurry up and die!"
+##
+
+{Kanna} [Kanna: Upset look / cara3-27]
+#Message#
+"I-It didn't seem to work... I'm sorry..."
+##
+
+{Angry AI}
+#Message#
+"Got nothing to talk to you bastards about.
+ Now hurry up and die!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Oof... Even I make mistakes sometimes..."
+##
+
+{Angry AI}
+#Message#
+"Won't fall for the same thing twice, dumbass!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Urgh! Shoulda known...!"
+##
+
+{Angry AI}
+#Message#
+"M-Me, side with humans...?"
+##
+
+#Message#
+\.\C[10]"Don't gimme that shit!! I'll kill you!! Hear me?!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]The Angry AI responded strongly, consuming energy.
+##
+
+{Q-taro}
+{SE: Accent40-1}
+#Message#
+"Not what I was goin' for... But it worked out!"
+##
+
+{Angry AI}
+#Message#
+"Won't fall for the same thing twice, dumbass!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Tch! Can't do it again and again, huh...?!"
+##
+
+{Angry AI}
+#Message#
+"B-Bastard... You gettin' cocky?"
+##
+
+#Message#
+\.\C[10]"I'll kill you! I'll kill you!
+ I'll bludgeon that damn look off your face!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Angry AI responded strongly, consuming energy.
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent40-1}
+#Message#
+"It worked...! He's surprisingly simple, huh?!"
+##
+
+{Angry AI}
+#Message#
+"Won't fall for the same thing twice, dumbass!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"What?! My perfect strategy...!!"
+##
+
+{Angry AI}
+#Message#
+"B-Bastard... You gettin' cocky?"
+##
+
+#Message#
+\.\C[10]"I'll kill you! I'll kill you!
+ I'll bludgeon that damn look off your face!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Angry AI responded strongly, consuming energy.
+##
+
+{Alice}
+{SE: Accent40-1}
+#Message#
+"It was effective...! Now, I should prepare to run!"
+##
+
+{Angry AI}
+#Message#
+"Have humans keep us like pets, like you bastards?!
+ You disgust me! Die!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"W-Who's keeping us like pets?! Dammit..."
+##
+
+{Angry AI}
+#Message#
+"I ain't scared of you, shorty!
+ Ain't you only as tall as your hair?!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"Ahh, shut up!! So infuriating!!"
+##
+
+{Angry AI}
+#Message#
+"What's up, bastard? Somethin' wrong with your brain?"
+##
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+"G-Geez! I hate this guy!!"
+##
+
+{Angry AI}
+#Message#
+"Think I'll let you off if you apologize?
+ I'll have no problem killin' you!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+"E-Eeeeek...!!"
+##
+

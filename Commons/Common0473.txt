@@ -1,0 +1,169 @@
+**********Common473********** (1stﾒｲﾝ　議題①)
+{Nao}
+#Message#
+"Let's think of a way we can save Gin!!"
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent28-1}
+#Message#
+\."I don't want to sacrifice anyone else...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."But how?!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."W... Well...!!"
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Sara... what should we...?!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."Earlier, Ranger..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Called this "the final attraction.""
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+\."Ah...!"
+##
+
+{Sara}
+#Message#
+\."So far, the attractions...
+ have all been made to be beatable!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There must be something! A way... to save Gin!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Sara...!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Let's think about it! We absolutely can't give up!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."You can say that, but...
+ All we can do is watch...!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."The guys on the ground at least
+ might be able to do something, but..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."From this place, we can't even get near Gin!!"
+##
+
+{Sara}
+#Message#
+\."Reko...!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Over and over, we've been shown hope
+ only to be betrayed. This must be the same..."
+##
+
+{Sara}
+#Message#
+\.\C[4](To think even Reko is losing heart...)
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+"We have to \C[2]think\C[0]... right, Sara?!"
+##
+
+{Sara}
+#Message#
+\."Yes...!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."When I'm with you, Sara...
+ I feel I can overcome any difficulty...!"
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If we all think together,
+ we should hit upon something!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."...!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."Please, you guys...!!
+ Have some kinda revelation! Anything!!"
+##
+
+{Ranger} [Ranger: Ice cream over mouth / cara18-2]
+#Message#
+\."Time limit's pretty short!
+ Best of luck with that!"
+##
+
+{N/A}
+#Message#
+\C[3]In this discussion, there is a time limit
+before the venomous stinger is fired.
+##
+
+#Message#
+\.\C[3]Use of \C[2]Extract\C[3] to draw out statements,
+as well as failures with \C[2]VS\C[3] or \C[2]Item\C[3], will advance time.
+##
+
+#Message#
+\.\C[3]Do your best not to let the stinger be fired.
+##
+

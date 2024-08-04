@@ -1,0 +1,736 @@
+**********Common1762********** (３前進展⑥人形の赤)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Sara} [Kanna: Looking down to side with smile / cara3-16]
+{SE: Accent28-1}
+#Message#
+"Is this what you saw, Kanna?"
+##
+
+{Kanna} [Kanna: Looking down to side, eyes looking back curiously / cara3-17]
+#Message#
+\."What's that...?"
+##
+
+{Sara}
+#Message#
+\."We found this note while exploring..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Which matches something that was displayed
+ on the \C[2]Coffin Control System\C[0]."
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Ah...! That's right!"
+##
+
+<Else>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+{SE: Accent28-1}
+#Message#
+"Is this what you saw, Sou?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."And that is...?"
+##
+
+{Sara}
+#Message#
+\."We found this note while exploring..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Which matches something that was displayed
+ on the \C[2]Coffin Control System\C[0]."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."I see..."
+##
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is OFF>
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna}
+{SE: flash-of-light-3}
+#Message#
+"I remember now!
+ The colors were all explained there, too!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."\C[12]Blue\C[0]: human, \C[10]red\C[0]: doll, \C[6]yellow\C[0]: vacant..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ohhh!
+ And since it was on the coffin control screen..."
+##
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+\."The colors would give information about
+ \C[2]the contents of the coffins\C[0], wouldn't they?!"
+##
+
+<Else>
+
+{Sou}
+#Message#
+"I remember now...
+ The colors were all laid out there."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."\C[12]Blue\C[0]: human, \C[10]red\C[0]: doll, \C[6]yellow\C[0]: vacant..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ohhh!
+ And since it was on the coffin control screen..."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."The colors must be information about
+ \C[2]the contents of the coffins\C[0], surely?"
+##
+
+<Condition End>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](So, the red color of this lamp...!)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: sceneswitch2}
+#Message#
+"\C[10]Red: doll\C[0]..."
+##
+
+[Kanna: Hands in front smile / cara3-18]
+{SE: Accent28-1}
+#Message#
+\."That means one of the Dummies is in there!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Seriously?! I'm startin' to see some hope!"
+##
+
+[Reko: Fists out, angry eyes / cara6-39]
+{SE: Accent21-1}
+#Message#
+\."'Cause everyone but Gin is gonna be \C[10]red\C[0]!!"
+##
+
+[Reko: Fists out, angry eyes, mouth open / cara6-40]
+{SE: flash-of-light-3}
+#Message#
+\."If we pick \C[10]red\C[0] coffins... we won't hit Gin, will we?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Mwahaha...! A good hint!"
+##
+
+[Alice: Angry shout / cara11-8]
+{SE: Accent21-1}
+#Message#
+\."For we've learned that
+ all but Gin Ibushi will be \C[10]red\C[0]!!"
+##
+
+[Alice: Look to side, glare / cara11-14]
+{SE: flash-of-light-3}
+#Message#
+\."If we choose \C[10]red\C[0] coffins...
+ we shall avoid hitting Gin Ibushi!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: sceneswitch2}
+#Message#
+"\C[10]Red: doll\C[0]."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."That means one of the Dummies is in there."
+##
+
+{Sara}
+#Message#
+\.\C[4](This is a huge hint!)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Because everyone but Gin will be \C[10]red\C[4]...!)
+##
+
+{SE: flash-of-light-3}
+#Message#
+\.\C[4](If we pick a \C[10]red\C[4] coffin...
+ We can avoid hitting Gin!!)
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: Accent41-1}
+#Message#
+\."'Zat... really it...?"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Sara! Remember the coffin control screen again!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is OFF>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+#Message#
+"Specifically... that message in the top-right!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."\C[2]Data Log\C[0]..."
+##
+
+#Message#
+\."\C[12]Blue 1, \C[10]Red 6, \C[6]Yellow 0\C[0]."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Ain't this a record from when
+ the contents of the coffins was \C[2]checked\C[0]...?!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Mya...?! We didn't do anything like that, meow!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Does it automatically make a record, maybe...?"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Maybe it records it automatically..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](If so... when is this record from?)
+##
+
+#Choice#
+The start of the game
+During the game
+Before the banquet
+##
+
+<ゲーム開始時>
+
+{Sara} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent28-1}
+#Message#
+"It must be... when \C[2]the game started\C[0]."
+##
+
+#Message#
+\."I'm guessing that note was a printout of this log."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."And since this says
+ \C[2]Game Start\C[0]: Blue 1, Red 6, Yellow 0..."
+##
+
+<ゲームの途中>
+
+{Sara} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+"Was it recorded sometime during the game...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."But I feel like it was there
+ since the first time we saw that monitor..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."But it was on there since
+ the first time we saw that monitor."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<宴の前>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+"Before the banquet... meaning...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."I feel like it was there much earlier..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Pretty sure it was there a lot earlier."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk... Maybe I was wrong...)
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Choice End>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+"That would place it at the very beginning...
+ \C[2]before\C[0] \N[4] and the Dummies came out!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."But... but wait...!
+ That would mean those seven..."
+##
+
+[Gin: Horrified, claws raised / cara9-9]
+{SE: Accent41-1}
+#Message#
+\."Had one \C[12]human\C[0] mixed in, meow?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."A human among the Dummies...!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."There's whaaaaat?!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+\."Could that be true...?!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."So who is that sneaky bastard?!"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+#Message#
+\."W... Who, then?! Who is it...!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent21-1}
+#Message#
+\."I can't believe somethin' like that...!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, furrowed brow, closed mouth / cara91-48]
+{SE: Accent21-1}
+#Message#
+\."Hard to believe it..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+{SE: Accent21-1}
+#Message#
+\."No way... right...?"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{Sara}
+#Message#
+\."L-Look, let's calm down for a second!"
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."You think we can calm down about this?!"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."Can we be calm about such a thing...?!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, mouth open, grim look / cara92-13]
+#Message#
+\."Because... that means there's a person who's been
+ lying and pretending to be one of the Dummies!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."See, like! Doesn't it mean someone's been
+ lying and pretending to be one of us Dummies?!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hell, why would they even do something like that?"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, hands out, furrowed brow, mouth open / cara91-46]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hell, what would even they do that for...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Plus, like... why do something like that...?"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Message#
+\.\C[4](I don't know what this fact means...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](But I won't be able to
+ fully trust the Dummies at this rate...)
+##
+
+#Message#
+\.\C[4](In that case...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Understood."
+##
+
+#Message#
+\."Let's first make it clear \C[2]who the human is\C[0]...!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is OFF>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{N/A}
+#Message#
+
+　　　　　　　　　　\C[3]Who's the Human?
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry eyes / cara6-39]
+{SE: Accent28-1}
+#Message#
+"Between the seven - the Dummies and \N[4] -
+ there's one \C[2]human\C[0] mixed in...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+{SE: Accent28-1}
+#Message#
+"The Dummies and \N[4]... That combined
+ group of seven would appear to contain one \C[2]human\C[0]!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+"The Dummies and \N[4]...
+ That group of seven's got one \C[2]human\C[0] in the mix!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+"I got no damn clue...!
+ Is it Ranmaru or what?!"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."In terms of seemin' human,
+ my guess might be Mai or Ranmaru..."
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"U-Uh, hey... I replaced my hand, remember?
+ No way I'm human."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, mouth open / cara91-40]
+#Message#
+"...I replaced my whole hand, remember?
+ Still trying to call me human... hilarious."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Gin} [Gin: Looking to side / cara9-21]
+#Message#
+"Cotton candy replaced his hand, meow!
+ I can't imagine he was human, woof!"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: Accent41-1}
+#Message#
+"...Being able to take your hand off
+ doesn't necessarily mean you're a doll."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, closed teeth / cara92-10]
+#Message#
+"But... getting a hole that big in your stomach...
+ Kurumada's gotta be a doll, huh..."
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent40-1}
+#Message#
+"The deceased Dummies were
+ given doll bodies, weren't they..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent40-1}
+#Message#
+"The dead Dummies were given doll bodies, right?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+"Hey, hey! Do you think there's cases where
+ someone doesn't even realize they're human?!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent21-1}
+#Message#
+"We all saw our deaths in the victim videos...
+ It's hard to imagine a human mixing in..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+

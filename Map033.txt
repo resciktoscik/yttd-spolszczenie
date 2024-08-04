@@ -1,0 +1,314 @@
+=====Map33===== (②■Back of Cafeteria)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\C[4](Right... Sou told me to come here, but...)
+##
+
+{Sou}
+#Message#
+\."...Miss Sara. This way, this way.
+ I'm over here..."
+##
+
+{Sara}
+#Message#
+\."What...? Sou, is that you?"
+##
+
+{N/A}
+#Message#
+\.\C[3]I held the lighter in the direction of his voice.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](A door...?!)
+##
+
+#Message#
+\.\C[4](To think this was here...)
+##
+
+-----Page3-----
+{Sara}
+#Message#
+\C[4](Joe... Where'd everyone else go, I wonder...?)
+##
+
+#Message#
+\.\C[3]With a "slam!"... Something hit my chest.
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Ah..."
+##
+
+{Sara}
+#Message#
+\C[4]\.(Kanna...!)
+##
+
+{Kanna}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]Kanna ran off to the cafeteria, as if to escape.
+##
+
+{Sara}
+#Message#
+\C[4]\.(Kanna...)
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Miss Sara."
+##
+
+{Sara}
+#Message#
+\C[4]\."Ah... Sou. What is it?
+ Why are you holding your shoulder?"
+##
+
+#Message#
+\."Err... ahaha... Who just ran past?
+ I got knocked aside a little... Oww..."
+##
+
+#Message#
+\."More importantly... What's the matter?
+ Did you... have a fight with them?"
+##
+
+#Choice#
+I wounded Kanna
+It's nothing
+##
+
+<カンナを傷つけてしまった>
+
+{Sara} [Sou: Mouth open / cara5-1]
+#Message#
+\."I... lied to Kanna...
+ I wounded her in the worst way..."
+##
+
+{Sou}
+#Message#
+\."..."
+##
+
+#Message#
+\."...Do you regret it?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Sou}
+#Message#
+\."I'm sure you meant the best, miss Sara."
+##
+
+<なんでもありません>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."..."
+##
+
+#Message#
+\."Was it... Kanna?"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Sou}
+#Message#
+\."Looks like I'm right."
+##
+
+#Message#
+\."I don't know what happened, but...
+ It's dangerous to leave her alone, huh..."
+##
+
+<Choice End>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."...Relax.
+ Just leave it to me."
+##
+
+{N/A}
+#Message#
+\.\C[3]With that, Sou went running after Kanna.
+##
+
+
+**********Event3********** (kakusi) (13,2)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a door in the darkness.
+##
+
+{Sara}
+#Message#
+\.\C[4](Doubt there'd be any more hidden rooms here...)
+##
+
+
+**********Event4********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event5********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event6********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event7********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event19********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event20********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event21********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event22********** (EV022) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event23********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event24********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event25********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event26********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event27********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event28********** (EV028) (8,4)
+-----Page2-----
+#Message#
+\C[3]It's unlocked...
+##
+
+
+**********Event29********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

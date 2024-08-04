@@ -1,0 +1,59 @@
+**********Common132********** (ｼﾞｮｰ「サラの為に怒る」)
+{Joe}
+#Message#
+"If someone precious to me died then...
+ I probably wouldn't be sad so much as angry,
+ and might go seeking the culprit."
+##
+
+#Message#
+"Nao respected Professor Mishima!
+ She was hit hard, but she's been normal
+ ever since she regained her footing."
+##
+
+[Joe: Serious look / cara1-14]
+#Message#
+"But I guess that's just what Miley wants, huh..."
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+"'Course... the thing with the box is a little odd..."
+##
+
+{Sara}
+#Message#
+\."Joe, if it had been you who lost someone precious
+ in that vote, what would you do?"
+##
+
+{Joe}
+#Message#
+\."Huh...?"
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I might've snapped."
+##
+
+#Message#
+\."I'd probably be like "Who voted for Sara?!"
+ and search for the culprit..."
+##
+
+#Message#
+\."'Course, I'd know full well it was Miley to blame...
+ but I might take out my anger on everybody else."
+##
+
+{Sara}
+#Message#
+\.\C[4](That might be true...
+ Maybe that's the natural way to feel...)
+##
+

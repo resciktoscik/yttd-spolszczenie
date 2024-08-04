@@ -1,0 +1,18 @@
+**********Common1431********** (③ランマルB選択)
+{N/A}
+#Message#
+"If you've got anything making noise,
+ I'll crush it for you!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

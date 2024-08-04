@@ -1,0 +1,723 @@
+=====Map165===== (====Ranger's Room)
+
+**********Event3********** (roeru) (13,6)
+-----Page1-----
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Ranger's head is sitting on a table.
+##
+
+{Sara}
+#Message#
+\.\C[4](It was here...!)
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"Eek... This is Ranger's corpse...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Not necessarily a corpse
+Let's look for the chip
+##
+
+<死体とは限らない>
+
+{Sara} [Nao: Wide eyes, mouth open / cara7-2]
+{SE: Accent28-1}
+#Message#
+"He's not necessarily dead..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."But there's a big hole in his head, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](A hole...!
+ I wonder if the chip was broken...)
+##
+
+{SE: Onmtp-Surprise03-1}
+#Message#
+\.\C[4](Though, wait... What's this chip like, even?)
+##
+
+#Message#
+\.\C[4](Not good...! I don't know anything
+ about complex machinery like this...)
+##
+
+<チップを探そう>
+
+{Sara} [Gin: Horrified, claws raised / cara9-9]
+{SE: Accent28-1}
+#Message#
+"Let's look for the chip while we can."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Y-Yes..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...?"
+##
+
+{Sara}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\.\C[4](Wait... What's this chip like, even?)
+##
+
+#Message#
+\.\C[4](Not good...! I don't know anything
+ about complex machinery like this...)
+##
+
+<Choice End>
+
+{Ranger's Head} [Gin: Worried / cara9-3]
+#Message#
+\.".........."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\sw[837]"...D... ad..."\sw[838]
+##
+
+{Sara}
+#Message#
+\."Wha..."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"He talked, meow!!"
+##
+
+{Sara}
+#Message#
+\."Gin! Don't shout..."
+##
+
+#Message#
+\C[4](Why now...?!)
+##
+
+{Voice}
+#Message#
+"Who's there?!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+{SE: Accent28-1}
+#Message#
+"Please, leave at once!!"
+##
+
+{Sara}
+#Message#
+\."Safalin...!"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Miss Sara..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Melon soda with the lousy tastes!
+ What's up with this, woof?!"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Ah..."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."So you regained consciousness, Ranger..."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...Sa... fali... n...?"\sw[838]
+##
+
+#Message#
+\.\sp[15]\sw[837]"...God... dammit...
+ ...Why wouldn't... you let me... just die..."\sw[838]
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Yeah, woof!
+ You should leave a bad guy like this alone, woof!"
+##
+
+#Message#
+\."And yet... Don't tell me you wanna fix him, woof?!"
+##
+
+{Ranger's Head}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sp[15]\sw[837]"Wh... at...?"\sw[838]
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\.".........."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...I'm..."\sw[838]
+##
+
+#Message#
+\.\sp[15]\sw[837]"...being... fixed...?"\sw[838]
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+{SE: Accent21-1}
+#Message#
+\."There's no fixing you."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...huh...?"\sw[838]
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Important parts of you have been destroyed.
+ ...You have about ten minutes left."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...D..."\sw[838]
+##
+
+#Message#
+\.\sp[18]\sw[837]"...Don't play games with me, bastard...!!"\sw[838]
+##
+
+#Message#
+\.\sp[18]\sw[837]"Then... why would you...!!"\sw[838]
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+{SE: Accent28-1}
+#Message#
+\."In order to \C[2]complete\C[0] you."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...Complete...?"\sw[838]
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."How much do you know about yourself, Ranger...?"
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...I'm... dad's masterwork...
+ Rio Ranger..."\sw[838]
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."...That is not your real name."
+##
+
+[Safalin: Default frown / cara15-1]
+{SE: Accent21-1}
+#Message#
+\."You are an incomplete creation..."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...What...?"\sw[838]
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Gashu strongly imbued you with a certain emotion."
+##
+
+{Sara}
+#Message#
+\."A certain emotion..."
+##
+
+#Choice#
+Superiority
+Inferiority
+Posteriority
+##
+
+<優越感>
+
+{Sara} [Safalin: Raised eyebrows / cara15-3]
+{SE: Accent28-1}
+#Message#
+\."Superiority...?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Incorrect."
+##
+
+[Safalin: Raised eyebrows / cara15-3]
+{SE: Accent21-1}
+#Message#
+\."A strong sense of inferiority...
+ which gave birth to jealousy and hatred.
+ It could be said that it made you more human..."
+##
+
+<劣等感>
+
+{Sara} [Safalin: Raised eyebrows / cara15-3]
+{SE: Accent28-1}
+#Message#
+\."Inferiority...?"
+##
+
+{Safalin}
+{SE: Accent21-1}
+#Message#
+\."Yes... which gave birth to jealousy and hatred.
+ It could be said that it made you more human..."
+##
+
+<浮遊感>
+
+{Sara} [Safalin: Raised eyebrows / cara15-3]
+{SE: Accent28-1}
+#Message#
+\."Posteriority... right?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Aaah, um... What would that even mean?
+ That's not even an emotion..."
+##
+
+[Safalin: Raised eyebrows / cara15-3]
+{SE: Accent21-1}
+#Message#
+\."A strong sense of inferiority...
+ which gave birth to jealousy and hatred.
+ It could be said that it made you more human..."
+##
+
+<Choice End>
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."...And he discarded what you originally possessed."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...Dis... carded...?"\sw[838]
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Kindness... compassion... happiness..."
+##
+
+[Safalin: Holding hat, face in shadow / cara15-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Nearly all of your positive emotions."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]".........."\sw[838]
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."Even with the mechanisms to create expressions,
+ you can't create a heartfelt smile."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+\."Because he's got no heart..."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."...It was originally my job to insert it."
+##
+
+[Safalin: Mouth open / cara15-2]
+#Message#
+\."Gashu handled the negative emotions,
+ and myself the positive emotions."
+##
+
+[Safalin: Holding hat, face in shadow / cara15-7]
+{SE: sceneswitch2}
+#Message#
+\."But Gashu stopped me."
+##
+
+[Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."Claiming that imperfection was more human...
+ he rearranged you into a warped doll."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...No... way..."\sw[838]
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+{SE: Accent28-1}
+#Message#
+\."Now, I will return you your heart."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."I will perfect you to your true form."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"...Stop... it..."\sw[838]
+##
+
+{N/A}
+{SE: data-analysis1}
+#Message#
+\.\C[3]Safalin began working at a machine.
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[15]\sw[837]"Stop it... Safalin..."\sw[838]
+##
+
+#Message#
+\.\sp[18]\sw[837]"Stop it... please...!!"\sw[838]
+##
+
+#Message#
+\.\sp[18]\sw[837]"I don't need a heart... not now...!!"\sw[838]
+##
+
+#Message#
+\.\sp[18]\sw[837]"I just... need to die... but you...!!"\sw[838]
+##
+
+#Message#
+\sw[837]"Stop...!!"\sw[838]\.\.\.\^
+##
+
+#Message#
+\sw[837]"STOOOOOOOOOOP...!!"\sw[838]\.\.\.\^
+##
+
+{SE: Accent21-1}
+#Message#
+\."Aaahhh..."
+##
+
+#Message#
+\.\sp[18]\sw[837]"They're flowing in... all these unwanted emotions..."\sw[838]
+##
+
+#Message#
+\.\sp[18]\sw[837]"No...!! This isn't...!!"\sw[838]
+##
+
+#Message#
+\.\sp[18]\sw[837]"Forgive me... just...!!"\sw[838]
+##
+
+{Safalin}
+#Message#
+\."...You must know...
+ the extent of what we took from you."
+##
+
+{Ranger's Head}
+#Message#
+\.\sp[18]\sw[837]"I don't want to know that...!!"\sw[838]
+##
+
+{Safalin}
+#Message#
+\."Now, you will be perfected."
+##
+
+#Message#
+\."From the heartless doll, Rio Ranger..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."To the human with a heart... \C[2]Rio Laizer\C[0]."
+##
+
+{Ranger's Head}
+{SE: sceneswitch2}
+#Message#
+\.\sp[18]\sw[837]"...Hu... man...?"\sw[838]
+##
+
+#Message#
+\.\sp[18]\sw[837]"W..."\sw[838]
+##
+
+#Message#
+\.\sp[10]\sw[837]"Waaaaaaaaaaaaaaahhhhh...!!!!"\sw[838]\|\^
+##
+
+#Message#
+\.\sp[10]"What... \sp[9]have \sp[8]I \sp[6]done..."
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...It's ended."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+...
+You're cruel
+Well done
+##
+
+<……>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."I feel... a little bad, meow..."
+##
+
+<残酷だ>
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+{SE: Accent21-1}
+#Message#
+\."...Yes... I suppose so."
+##
+
+<よくやった>
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+{SE: Accent21-1}
+#Message#
+\."Please... don't say that..."
+##
+
+<Choice End>
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This is just my obligation..."
+##
+
+{N/A}
+#Message#
+\C[3]Safalin began rustling around in Laizer's head.
+##
+
+{Safalin}
+{SE: Accent28-1}
+#Message#
+\."...This is the chip."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Laizer's Chip.
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."You came looking for it, didn't you...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If used well, this can nullify security."
+##
+
+[Safalin: Raised eyebrows / cara15-3]
+{SE: sceneswitch2}
+#Message#
+\."But to do that, you must find
+ a \C[2]secret room\C[0] only Gashu knows about."
+##
+
+[Safalin: Mouth open / cara15-2]
+#Message#
+\."That is all I can say.
+ Now, go..."
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\.\C[3]Laizer's head is sitting on a table.
+##
+
+-----Page5-----
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"I don't wanna come near, meow..."
+##
+
+
+**********Event4********** (hanna) (12,8)
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Safalin is silently looking at Laizer.
+##
+
+-----Page3-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff*...
+##
+
+[Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Meowww... Smells like a dentist, woofff..."
+##
+
+
+**********Event15********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event16********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event17********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event18********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event19********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event20********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event26********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

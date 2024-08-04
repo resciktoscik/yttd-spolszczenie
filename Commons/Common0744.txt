@@ -1,0 +1,128 @@
+**********Common744********** (ｷﾞﾝ「ｹｲｼﾞとQ交換」)
+{Gin}
+#Message#
+"Muscle gorilla... handed over all of the tokens
+ he earned himself, meow..."
+##
+
+#Message#
+"Mr. Policeman didn't have tokens, woof!
+ So he couldn't do the \C[6]fourth trade\C[0], meow!"
+##
+
+#Message#
+"That \C[6]fourth trade\C[0] sure ended up
+ punishing the loner now, meow..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Big sis Sara! Calm down, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"I don't really get it, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"What a rash gorilla, woof..."
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+"But... I can't imagine Mr. Policeman
+ would lie about this, meow."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+"I'm sure Mr. Policeman was burning with
+ the desire to see justice carried out, meow!"
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."He used a whole 50 tokens to trade cards
+ with muscle gorilla just to defeat the loner, woof!"
+##
+
+[Gin: Horrified look / cara9-4]
+#Message#
+\."..."
+##
+
+[Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+\."...Huh?"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+\."Before, Mr. Policeman said he \C[2]didn't have any tokens\C[0]
+ at the \C[6]fourth trade\C[0], meow."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Then he couldn't have traded, woof!"
+##
+

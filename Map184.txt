@@ -1,0 +1,56 @@
+=====Map184===== (Final Chapter Part One OP2)
+
+**********Event1********** (doa) (6,4)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A large door.
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh? Through here...? Really?)
+##
+
+#Choice#
+Enter
+Cancel
+##
+
+<入る>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](This isn't where that door went before...!)
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"Hwoah! The hey is this place?!"
+##
+
+{Gin} [Gin: Unamused eyes / cara9-20]
+#Message#
+\."It's nothing surprising at this point, woof.
+ It's just an image, meow."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Y-Yer becomin' such a worn-down adult, Gin!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."It's like we're walking through the sky..."
+##
+
+<Condition End>
+

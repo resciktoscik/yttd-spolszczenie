@@ -1,0 +1,128 @@
+**********Common789********** (Q「死なせたくない派」)
+{Q-taro}
+#Message#
+"If there's somebody Gashu didn't want to die...
+ It'd be Kanna!!"
+##
+
+#Message#
+"Or else, you think there was somebody
+ who Gashu didn't want to die?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Sorry, bud! Don't 'xactly get it!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Yer makin' me scratch my head!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Logically, that's what it's gotta be!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."'Cause if that last trade went as normal,
+ Kanna should've gotten the \C[10]Sacrifice\C[0]!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."There's gotta be some special connection
+ 'tween Kanna and Gashu..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+"The person with the \C[10]Sacrifice\C[0] is real likely to die...
+ That's why Gashu meddled!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+\."Like "I don't want them to die,
+ so I'll move the \C[10]Sacrifice\C[0] to somebody else"!"
+##
+
+{Sara}
+#Message#
+\."Who's "them" here...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That's obvious! The person who'd normally
+ end up having the \C[10]Sacrifice\C[0]...!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Kanna!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+

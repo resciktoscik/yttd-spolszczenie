@@ -1,0 +1,1081 @@
+=====Map113===== (③Kanna's Trial Room)
+
+**********Event2********** (sumaho) (10,8)
+-----Page1-----
+#Message#
+\C[3]There's something on the ground.
+##
+
+{Sara}
+#Message#
+\."It's a smartphone..."
+##
+
+{N/A}
+#Message#
+\.\C[3]If Kanna and I had the exact same trial...
+##
+
+#Message#
+\.\C[3]This was probably the phone used
+to play the voice instructions.
+##
+
+#Message#
+\.\C[3]Did the kidnappers forget to collect it...?
+##
+
+{Sara}
+#Message#
+\.\C[4](Since it's here, Kanna's sister might have had it...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Which means...
+##
+
+#Message#
+\.\C[3]Maybe... there's some message left on it.
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]A message from just before her death.
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I have a bad feeling...)
+##
+
+#Message#
+\.\C[4](I don't want to touch it...)
+##
+
+#Message#
+\.\C[4](...I'm scared.)
+##
+
+#Message#
+\.\C[4](But... if it's some clue...)
+##
+
+#Message#
+\.".........."
+##
+
+#Choice#
+Check the phone
+Don't take it
+##
+
+<スマホを確認する>
+
+<手に取らない>
+
+{Sara}
+#Message#
+\.\C[4](I can't run away...)
+##
+
+<Choice End>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Please, let my bad feeling be wrong...!!)
+##
+
+{N/A}
+#Message#
+\.\C[3]I picked up the smartphone.
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{N/A}
+#Message#
+\.\C[3]It didn't have a password on it, and unlocked easily.
+##
+
+#Message#
+\.\C[3]The moment it opened...
+##
+
+#Message#
+\.\C[3]...I went as white as a sheet.
+##
+
+#Message#
+\.\C[10]You abandoned me
+##
+
+#Message#
+\.\C[10]You awful sister
+I hate you
+##
+
+#Message#
+\.\C[10]Go die
+ Just die, Kanna
+Murderer
+##
+
+{SE: shock1}
+#Message#
+\C[10]I'll curse you from hell
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."This can't be..."
+##
+
+#Message#
+\."This is just... too much..."
+##
+
+#Message#
+\."Kanna's sister died... loathing her...?"
+##
+
+#Message#
+\."I can't..."
+##
+
+{SE: shock1}
+#Message#
+\."I can't tell Kanna that...!!"
+##
+
+{Kanna}
+#Message#
+\."Sara! Are you okay?"
+##
+
+{Sara}
+{SE: warning2}
+#Message#
+\.\C[4](Kanna is behind me...!)
+##
+
+{Kanna}
+#Message#
+\."What's the matter...?
+ It sounded like you yelled something..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Three steps away.
+##
+
+{Sara}
+#Message#
+\.\C[4](Not good! If she sees the phone...!)
+##
+
+#Choice#
+Hide the phone
+Change the message
+##
+
+<スマホを隠す>
+
+<文章を変える>
+
+{N/A}
+#Message#
+\.\C[3]My hands are shaking too much to type.
+##
+
+<Choice End>
+
+{Kanna}
+{SE: asioto3}
+#Message#
+\."Sara? Can you hear me?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Two steps away.
+##
+
+{Sara}
+#Message#
+\.\C[4](Stay calm...!!)
+##
+
+#Choice#
+Hide the phone
+Erase the message
+##
+
+<スマホを隠す>
+
+<文章を消す>
+
+{N/A}
+#Message#
+\.\C[3]I'm sweating so much, my taps don't register.
+##
+
+<Choice End>
+
+{Kanna}
+{SE: asioto3}
+#Message#
+\."Did you find something...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]One step away.
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+
+#Choice#
+Hide the phone
+Turn it off
+##
+
+<スマホを隠す>
+
+<電源を切る>
+
+{N/A}
+#Message#
+\.\C[3]The power button... won't work.
+##
+
+<Choice End>
+
+{Kanna}
+{SE: asioto3}
+#Message#
+\."...Sara?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Zero steps away.
+##
+
+{Sara}
+#Message#
+\.\C[4](No good!! It's sink or swim...!!)
+##
+
+#Message#
+\."Kanna!! Someone's coming!!"
+##
+
+{Kanna}
+{SE: Accent28-1}
+#Message#
+\."Wha...?!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]I slid the phone in my hands under the bed.
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."I-Is there someone there?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Somehow, I'd managed to hide it without Kanna noticing.
+##
+
+{Voice}
+#Message#
+\."Y-Yeah... Sorry, did I surprise you?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."I came to call for you, Kanna."
+##
+
+{Sara}
+#Message#
+\."Sou...?!"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... Quite the dark passage that was."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."A... Alice too..."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kanna Kizuchi, rejoice.
+ Shall the three of us trade tokens?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Huh? Tokens...?"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Yeah. ...We shouldn't talk in a place like this,
+ so let's head back for now."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I-I understand..."
+##
+
+[Kanna: Neutral smile / cara3-9]
+{SE: Accent28-1}
+#Message#
+\."Um... Thank you very much, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](I was... saved by coincidence...)
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: sceneswitch2}
+#Message#
+\."Huh? Aren't you leaving, miss Sara?"
+##
+
+{Sara}
+#Message#
+\."Ah, yes!"
+##
+
+#Message#
+\.\C[4](If I took the phone now, Sou would find out...!)
+##
+
+#Message#
+\.\C[4](...I'll recover it later.)
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Ahem. Us three will do the token trade.
+ Sara Chidouin, you should take a hike."
+##
+
+{Sara}
+#Message#
+\."O-Okay..."
+##
+
+#Message#
+\.\C[4](Gah... As long as they're here,
+ I can't go get the phone!)
+##
+
+#Message#
+\.\C[4](I'll have to come later when there's an opening...)
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+{SE: Accent28-1}
+#Message#
+\."Oh yes, Sara Chidouin."
+##
+
+{Sara}
+#Message#
+\."Hwah... W-What is it?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Well... I just happened to overhear
+ that youngster Gin talking, but..."
+##
+
+[Alice: Default glare / cara11-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It seems there's a ghost in the \C[2]Medical Office\C[0]..."
+##
+
+{Sara}
+#Message#
+\."...A ghost?"
+##
+
+{Alice}
+#Message#
+\."I don't know the details, but go take care of it."
+##
+
+{Sara}
+#Message#
+\."*sigh*... Are you afraid or something?"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."Obviously...! I can't possibly go do attractions
+ until something is done about it!"
+##
+
+{Sara}
+#Message#
+\.\C[4](When he tells me that so directly,
+ it's hard to muster the will to refuse.)
+##
+
+#Message#
+\.\C[4](Oh well... I'll make it a priority
+ to do something about the Medical Office ghost.)
+##
+
+#Message#
+\.\C[4](Until then... I'll go do attractions, I guess.)
+##
+
+-----Page3-----
+#Message#
+\C[3]I searched everywhere under the bed.
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[3]The smartphone is nowhere to be found.
+##
+
+{Sara}
+#Message#
+\."Wha...?"
+##
+
+#Message#
+\.\C[4](Where did it go...?)
+##
+
+#Message#
+\.\C[4](Gone... How can it be gone?!)
+##
+
+{Voice From Behind}
+#Message#
+\."What're you looking for?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Could it be... this phone?"
+##
+
+{Sara}
+#Message#
+\."Sou...!!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Huh? Wonder if I hit the bullseye."
+##
+
+{Sara}
+#Message#
+\."You took the phone...?!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."...Well, yeah."
+##
+
+{Sara}
+#Message#
+\."Urk...!!"
+##
+
+#Choice#
+Give it back!
+Did you read it?!
+What's your aim?!
+##
+
+<返してください！>
+
+{Sara} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Give it back!! That's..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."A seed of disaster... right?"
+##
+
+{Sara}
+#Message#
+\."Did you read what was on it...?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."...What do you think?"
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."What I'm curious about is who sowed this seed."
+##
+
+<中を読んだんですか！>
+
+{Sara} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Did you read what was on it?!
+ That cruel message...!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."...Of course."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."A hateful message written to Kanna by her sister..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Or rather, a prop made to seem that way."
+##
+
+<どうするつもりですか！>
+
+{Sara} [Sou: Mouth open / cara5-1]
+#Message#
+\."What do you intend to do with that phone?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."What should I do, indeed?
+ Maybe I'll toss it..."
+##
+
+#Message#
+\."Or maybe I'll go show this cruel message to Kanna."
+##
+
+{Sara}
+#Message#
+\.\c[4](Sure enough... He saw it!)
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...As if.
+ I wonder, was that was YOUR aim, miss Sara?"
+##
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."...?!"
+##
+
+{Sou} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."...Heh.
+ Just think about it, would you?"
+##
+
+#Message#
+\."Do you think she could write that message
+ while on death's door?"
+##
+
+{Sara}
+#Message#
+\."Huh?!"
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."I recall there was a time limit
+ in the First Trial, wasn't there?"
+##
+
+[Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."Would someone who didn't want to die
+ give up so soon and leave a message?"
+##
+
+[Sou: Disdainful pose / cara5-11]
+#Message#
+\."And one with linebreaks and capitalization...
+ Ahaha."
+##
+
+{Sara}
+#Message#
+\."I mean..."
+##
+
+{Sou}
+#Message#
+\."There's only one answer here."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."This message was fabricated."
+##
+
+{Sara}
+#Message#
+\."Fabricated...?!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Amazing, huh? This is definitely trying
+ to drive Kanna into a corner..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Just a solid ball of malice.
+ Some people will do anything to harass."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...It was you, wasn't it, miss Sara?"
+##
+
+{Sara}
+#Message#
+\."...Wh..."
+##
+
+#Message#
+\."You're saying I wrote that message?!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."...I saw it all unfold.
+ You set that phone in place under the bed."
+##
+
+{Sara}
+#Message#
+\."What are you saying...?!"
+##
+
+#Choice#
+I hid it so Kanna wouldn't see
+I'd keep it if I wanted to show it
+What a false accusation!
+##
+
+<カンナに見せないように隠した>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."I didn't "set it in place"!
+ I hid it there so Kanna wouldn't see it!!"
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Hid it, huh...?"
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."...It's obvious that Kanna
+ would search this room eventually."
+##
+
+[Sou: Looking down to side with smug smirk / cara5-16]
+#Message#
+\."The feeling that maybe her sister
+ left something behind would guide her here."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."A message on a phone she found herself...
+ ...She'd be taking it head-on."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."A heaping helping of despair...
+ And this time, it'd totally destroy her."
+##
+
+<見せるつもりなら拾ってた>
+
+{Sara} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Kanna was right behind me! If I wanted to show her...
+ I'd have just picked it up, right?!"
+##
+
+{Sou}
+#Message#
+\."You're too wary. You took extra precautions
+ so she wouldn't suspect it was faked."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."You were insistent on having Kanna
+ find the phone all on her own."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Because... that would inflict
+ the greatest despair on her head-on."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."You did it with the intent
+ to completely destroy Kanna's heart."
+##
+
+{Sara}
+#Message#
+\."I... did no such thing...!!"
+##
+
+<言いがかりだ！>
+
+{Sara} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."That's a false accusation!!
+ You're just picking a fight!"
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Sure am. Because I suspect you."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."And I finally caught you red-handed."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."You believed Kanna would return to this room,
+ so you set it up for her to discover the phone
+ all by herself."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."That awful message of despair...
+ This time, it really would destroy her..."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Ahaha. I'm truly disgusted, miss Sara."
+##
+
+{Sara}
+#Message#
+\."Sou...! I swear, you are just the worst!!"
+##
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I wonder if you intended to offer Kanna a hand
+ in the depths of despair, to make her depend on you?"
+##
+
+{Sara}
+#Message#
+\."Cut it out already!!"
+##
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\."I can't help but be mystified
+ by your methods of gathering trust."
+##
+
+#Message#
+\."Ever since the Main Game... I've been wondering..."
+##
+
+{Sara}
+#Message#
+\."Since... the Main Game...?"
+##
+
+#Message#
+\."Sou...\.\. you...\.\. your memories...!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Yep, I lied about losing them."
+##
+
+{Sara}
+#Message#
+\."L... Lied...?"
+##
+
+{Sou} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."What was I to do? Certainly couldn't let myself
+ be singled out if I wanted to get Clear Chips."
+##
+
+[Sou: Disdainful pose, smug eyes / cara5-14]
+#Message#
+\."Of course, I didn't expect to trick you, Sara..."
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."But as long as I could find just one total sucker,
+ that would be plenty."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm a fool for even being a little worried...!)
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Well, doesn't matter.
+ You and I aren't going to get along at this point."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."When I'm around everyone else...
+ I'll act the same as before."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Ahaha...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What Sou thinks doesn't matter...!)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](I'm getting that phone back!
+ I'll destroy it for Kanna's sake!!)
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."You've got a ghastly look on your face.
+ Are these your true colors, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...I...)
+##
+
+#Choice#
+Take it back by force
+Do nothing
+##
+
+<力尽くで奪い返す>
+
+{Sara} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\.\C[4](I'll attack the moment he's open...!!)
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Waugh! What...?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]It went surprisingly well.
+##
+
+#Message#
+\.\C[3]Sou's resistance was extremely feeble.
+##
+
+#Message#
+\.\C[3]But...
+##
+
+#Message#
+\.\C[3]There was... one thing I didn't expect.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](What... is this...?)
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\.\C[4](The message... is different...)
+##
+
+{Sou}
+#Message#
+"Give it back!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Taking advantage of my surprise,
+he grabbed the phone back.
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\."Sou... Did you..."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...Whew."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."I won't let you have your way."
+##
+
+<何もしない>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\.\C[4](...I can't lay a hand on him...)
+##
+
+#Message#
+\.\C[4](I don't know what Sou might do.)
+##
+
+#Message#
+\.\C[4](I can't use violence carelessly...!)
+##
+
+{Sou}
+#Message#
+\."See ya, Sara."
+##
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."W-Wait!!"
+##
+
+#Message#
+\.\C[4](Urgh...!!)
+##
+
+#Message#
+\.\C[4](He got me... again...!
+ How does he keep doing it?!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Despairing, I put the room behind me.
+##
+
+{Sara}
+#Message#
+\.\C[4](Where did Sou go...?)
+##
+
+#Message#
+\.\C[4](I can't just ignore him...)
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\.\C[4](I made it here without being found.
+ Now I just have to search...)
+##
+

@@ -1,0 +1,282 @@
+**********Common157********** (なだめる)
+{Sara}
+#Message#
+\C[4](I need to calm him down a little...)
+##
+
+#Choice#
+Speak calmly
+Ask him for his say
+Cancel
+##
+
+<穏やかに話す>
+
+{Man in Stripes}
+#Message#
+\."H-Hey... Didn't I say I'd talk?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He got mad at me...)
+##
+
+#Message#
+"Can't you be calm, Mr. Stripey?"
+##
+
+{Man in Stripes} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."...A rather rude nickname, lopside-hair."
+##
+
+{Sara}
+#Message#
+\.\C[4](Such a rude person...!)
+##
+
+#Message#
+"Can't you be calm, Mr. Gonbee?"
+##
+
+{Gonbee}
+#Message#
+\."I told you, I don't care for this method."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's become a fair bit more docile.)
+##
+
+{Gonbee}
+#Message#
+\."...I'm always calm."
+##
+
+{Sara}
+#Message#
+\."I'm not your enemy.
+ Can we stop arguing?"
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."Hmph... True, all it does is make us hungrier."
+##
+
+[Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."Yet... I don't care for these methods.
+ This is no equal conversation."
+##
+
+{Sara}
+#Message#
+\.\C[4](I need to make another push...)
+##
+
+{Gonbee} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."My word!!
+ How that cool and collected attitude peeves me!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's pretty mad...)
+##
+
+#Message#
+"Can't you be calm, Mr. Gonbee?"
+##
+
+{Gonbee} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."I am calm.
+ To say I'm mistaken... is inconceivable."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hrm...)
+##
+
+{Gonbee}
+#Message#
+\."Whaaat?"
+##
+
+{Sara}
+#Message#
+\."I think you've made some mistake, Gonbee."
+##
+
+{Gonbee}
+#Message#
+\."Foolish... This perfection, mistaken...?"
+##
+
+{Sara}
+{SE: flash-of-light-3}
+#Message#
+\."That's right. It's because you're so perfect
+ that it's easy to assume you're mistaken."
+##
+
+{Gonbee} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."A blatant lie!!
+ Don't belittle me!!"
+##
+
+{Sara}
+{SE: shrink1}
+#Message#
+\.\C[4](Instigating him is no good...
+ I think I'm just a step away, though.)
+##
+
+{Gonbee} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Hmph... I tire of this approach."
+##
+
+{Sara}
+#Message#
+\.\C[4](Mgh... He won't entertain me...)
+##
+
+{Gonbee}
+#Message#
+\."Hmph... I tire of this approach."
+##
+
+{Sara}
+#Message#
+\.\C[4](Mgh... He won't entertain me...)
+##
+
+<相手の言い分を聞く>
+
+{Man in Stripes} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+"What do you mean, my say?
+ You should make yourself clearer."
+##
+
+{Sara}
+#Message#
+\.\C[4](So detail-oriented...)
+##
+
+#Message#
+"You look dissatisfied.
+ What do you want to say to us?"
+##
+
+{Man in Stripes}
+#Message#
+\."...I'm telling you I want to say nothing."
+##
+
+{Sara}
+#Message#
+\.\C[4](Mmgh...)
+##
+
+#Message#
+"Is there something you want to say to us?"
+##
+
+{Gonbee}
+#Message#
+\."Untie these ropes quickly, high-schooler...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...He dropped the insult.)
+##
+
+{Gonbee}
+#Message#
+\."Untie these ropes quickly, pigface...!"
+##
+
+{Sara}
+#Message#
+\."So mean..."
+##
+
+{Gonbee} [Alice: Confused shout / cara11-7]
+#Message#
+\."Oof... Crocodile tears, yes?! It's no use!"
+##
+
+{Sara}
+#Message#
+\."...*sniffle*..."
+##
+
+{Gonbee} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."I went too far...!"
+##
+
+{Sara}
+#Message#
+\."Then would you talk to me?"
+##
+
+{Gonbee} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."I knew those were fake tears!! No I won't!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems I need a little something more.)
+##
+
+#Message#
+"Is there something you want to say to us?"
+##
+
+{Gonbee} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Mwahaha... mwahaha..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...Geez, stop being pompous about it...)
+##
+
+{Gonbee}
+{SE: Accent21-1}
+#Message#
+\."Sara Chidouin... How many have you laid hands on...?"
+##
+
+{Sara}
+#Message#
+\."W-What do you mean?"
+##
+
+{Gonbee}
+#Message#
+\."I know your crimes... It's no use playing dumb."
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't be pompous about it...
+ Seems I need a little something more.)
+##
+
+<やめる>
+
+<Choice End>
+

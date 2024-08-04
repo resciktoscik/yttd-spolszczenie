@@ -1,0 +1,67 @@
+**********Common1646********** (・ﾊﾔｻｶ「におう」)
+{Hayasaka}
+#Message#
+"All I can think of is
+ how their peculiar \C[2]smell\C[0] bothers me..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I feel like staying in this coffin for too long
+ will give my suit a stench... Haha..."
+##
+

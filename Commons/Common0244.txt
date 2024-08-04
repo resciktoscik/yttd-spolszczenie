@@ -1,0 +1,108 @@
+**********Common244********** (Q「カンナは不審」)
+{Q-taro}
+#Message#
+"If Kanna really wants to die,
+ wouldn't she say "I'm the \C[3]Sage\C[0]"...?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Sara! We got the time for you to point at me?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Isn't that right, Kanna?!"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."No good! Not even reactin'..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."It's not like I've got proof either...!
+ But we can't break out if ya won't talk!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I need to find another approach...!)
+##
+
+{Q-taro}
+#Message#
+"Doesn't seem too relevant to me, y'know?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"The \C[3]Sage\C[0]'s the easiest one for us to vote for.
+ If they can divine, you can identify 'em right away!"
+##
+
+#Message#
+\."So it's a mystery to me why Kanna
+ wouldn't just call herself the \C[3]Sage\C[0]!"
+##
+

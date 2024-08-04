@@ -1,0 +1,67 @@
+**********Common1678********** (▲ﾊﾔｻｶ「指紋認証」)
+{Hayasaka}
+#Message#
+"I'm unsure if it's relevant, but... When Mai did her
+ \C[2]fingerprint scan\C[0], there was a colored glow..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"That said, I don't actually remember
+ what color it was... Haha..."
+##
+

@@ -1,0 +1,710 @@
+**********Common1759********** (３前進展㉒それはケイジ)
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+"Now...! Will it be the right one?!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: Accent41-1}
+#Message#
+"...B-Big sis Sara..."
+##
+
+[Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."I... I'm...!!"
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\."I'm scared...!!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+{SE: Accent42-1}
+#Message#
+"*pant*...!! *pant*...!!"
+##
+
+[Midori: Gripping arm with sweat, grin / cara19-24]
+#Message#
+\."Haha..."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open / cara19-22]
+#Message#
+\."Ahahahaha...!"
+##
+
+[Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+#Message#
+\."Ahahahahahahah!!"
+##
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: Accent28-1}
+#Message#
+"...What's so funny, meow?!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."...Huhhh...?!"
+##
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."I hate you, woof!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Gin...!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Hwoooooh!! Gin!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, teary-eyed shout / cara6-15]
+{SE: Accent40-1}
+#Message#
+\."W... Whew..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: Accent40-1}
+#Message#
+\."I see... I'm so... glad..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Gin..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, tearing up / cara5-22]
+{SE: Accent40-1}
+#Message#
+\."Yeesh..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+{SE: Accent28-1}
+#Message#
+\."Ha... haha...!"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, mouth open, eyes closed crying / cara92-21]
+{SE: Accent28-1}
+#Message#
+\."Thank goodness! Gin...!!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent28-1}
+#Message#
+\."Gin!! Thank goodness, truly...!!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."What about Mr. Policeman, meow...?!"
+##
+
+{Sara}
+#Message#
+\."...Eh...?"
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."The \C[12]blue coffin\C[0] that isn't mine...
+ That's Mr. Policeman's coffin, right?!"
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."Was he inside, meow?!"
+##
+
+{N/A}
+#Message#
+\C[3]Keiji's... in there...?
+##
+
+#Message#
+\.\C[3]...
+##
+
+#Message#
+\.\C[3]I see... If he \C[2]didn't use\C[3] \N[4]'s collar...
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]I can only imagine he's inside.
+##
+
+#Message#
+\.\C[3]But...
+##
+
+#Message#
+\.\C[3]Didn't he escape...?
+##
+
+#Message#
+\.\C[3]Don't tell me...
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[3]After he escaped... \C[2]he went back in\C[3]...?
+##
+
+#Message#
+\.\C[3]While I... was passed out...?
+##
+
+#Message#
+\.\C[3]...
+##
+
+#Message#
+\.\C[3]Silent the whole time...
+##
+
+#Message#
+\.\C[3]So as to deceive \N[4]...
+##
+
+#Message#
+\.\C[3]..........
+##
+
+#Message#
+\.\C[3].....\|
+##
+
+#Message#
+\.\C[3]...\.
+##
+
+#Message#
+
+##
+
+#Message#
+
+##
+
+#Message#
+
+##
+
+{Keiji}
+#Message#
+"You did good...\. Sara."\|\|\|
+##
+
+{Sara}
+#Message#
+"..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Keiji...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+"Long time no see, everybody."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Keiji...?!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."H... hold on...!! Why are you just here?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Keiji Shinogi...?!"
+##
+
+#Message#
+\."Hold on!! Why are you simply here?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Kanna} [Kanna: Upset look / cara3-27]
+{SE: sceneswitch2}
+#Message#
+\."You survived...?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."Keiji...?!"
+##
+
+[Sou: Hands out, mouth open / cara5-27]
+#Message#
+\."Hang on a second!! Why are you just here?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Keiji} [Keiji: Turned to side tousling hair, slight smile / cara2-21]
+{SE: Accent21-1}
+#Message#
+\."Sorry about that... Took some time getting here."
+##
+
+{Sara}
+#Message#
+\."A-Are you... the real deal...?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Might be a ghost. ...Wanna check?"
+##
+
+{Sara}
+#Message#
+\."Keiji...!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent40-1}
+#Message#
+\."...Yep, I'm real."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."It's a long story, but basically,
+ Ranmaru locked me in the charging room..."
+##
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."Why, woof?! You should've told us sooner, meowww!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sorry, sorry..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."I worried you, huh... You did good too, Gin."
+##
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: Accent40-1}
+#Message#
+\."Y... Yeah...!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Gimme a break... You should've come sooner..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Hmph... If you'd come sooner, we'd be..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I've been listening to things unfold
+ over the \C[2]transceiver\C[0]..."
+##
+
+[Keiji: Stern / cara2-3]
+#Message#
+\."But me being here wouldn't have helped anything."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."...*sniff*..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Now... we can talk later."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I've been listening to things unfold
+ over the \C[2]transceiver\C[0]..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."...Then I guess we don't have to explain, huh?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Yep. I leave it to you."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+[Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do what you need to do, Sara..."
+##
+
+[Keiji: Stern / cara2-3]
+#Message#
+\."Defeat \N[4]."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+#Message#
+\."..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."A rule violation..."\.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+#Message#
+\."I finally realized just now..."
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+#Message#
+\."You used it..."
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, mouth open in confusion / cara19-30]
+{SE: Accent43-1}
+#Message#
+\."\C[2]Mishima's collar\C[0]..."\.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"Mishima's head, which Miley failed to collect..."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."His collar was still on his severed head..."
+##
+
+#Message#
+"We still... haven't found that collar..."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open in confusion / cara19-23]
+#Message#
+\."So you're the one who had it, Keiji...!!"
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, open-mouth frown / cara19-28]
+#Message#
+\."And you put it in that coffin...!!"
+##
+
+{Keiji} [Keiji: Turned to side tousling hair / cara2-20]
+#Message#
+\."..."
+##
+
+[Keiji: Turned to side tousling hair, slight smile / cara2-21]
+{SE: Accent28-1}
+#Message#
+\."...And...?"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, mouth open in confusion / cara19-23]
+#Message#
+\."That's foul play!!"
+##
+
+[Midori: Gripping arm with sweat, lowered eyebrows, mouth open / cara19-29]
+#Message#
+\."Using a missing collar from another floor isn't
+ a valid part of the game! It's against the rules!!"
+##
+
+{Keiji} [Keiji: Turned to side tousling hair / cara2-20]
+#Message#
+\."..."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, mouth open / cara19-29]
+#Message#
+\."Mishima's collar is a rule violation!
+ Clear foul play...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."You damn... It's time to give up!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."You... At least in your last moments,
+ honestly accept defeat!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."We've settled this game. Give up and die already..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: horror_piano chord3}
+#Message#
+\."No, \N[4]'s right."
+##
+
+{Gin} [Gin: Looking up, wide eyes with shadow / cara9-17]
+#Message#
+\."Mya...?!"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."Mishima's collar's an illegal item
+ that was never meant to be used."
+##
+
+#Message#
+\."To dodge execution with it... now that's unfair."
+##
+
+{SE: Accent42-1}
+#Message#
+\."Rule-breakers... \C[2]will be executed\C[0]."\.
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Th... Then...!"
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\."The rule-breaker who put the collar in the coffin..."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: shock1}
+#Message#
+\."That'd be Keiji..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](What... nonsense is that...)
+##
+
+#Message#
+\.\C[4](This can't be... surely...)
+##
+
+#Message#
+\.\C[4](Even after he survived... and we reunited...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](He'll be executed... for breaking the rules...?)
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent43-1}
+#Message#
+\."...We remain undaunted."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+#Message#
+\."..."
+##
+
+[Midori: Gripping arm with sweat, open-mouth frown / cara19-25]
+#Message#
+\."So you were prepared for this..."
+##
+
+[Midori: Gripping arm with sweat, grin / cara19-24]
+#Message#
+\."Heheh... hahaha..."
+##
+
+[Midori: Gripping arm with sweat, mouth open / cara19-26]
+{SE: Accent41-1}
+#Message#
+\."How disappointing.
+ Even though there's \C[2]a way you could be saved\C[0]..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...?!)
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, grin / cara19-24]
+{SE: Accent28-1}
+#Message#
+\."I'm not interested in a \C[2]finished game\C[0], you see."
+##
+
+[Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Once I win, I cease to care about \C[2]who played dirty\C[0]..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Don't listen to him, Sara..."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, closed-eyes grin / cara19-32]
+{SE: sceneswitch2}
+#Message#
+\."I promise you... \C[2]If I win\C[0], I won't expose
+ your transgression, and won't punish you."
+##
+
+[Midori: Gripping arm with sweat, bewildered eyes, mouth open / cara19-22]
+#Message#
+\."\C[2]Choose Gin\C[0], Sara...!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Don't listen to a word he says!!"
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, mouth open in confusion / cara19-23]
+#Message#
+\.\{"I'm saying that if you pick Gin,
+ I'll let Keiji go!! Sara!!"
+##
+
+{N/A}
+{SE: heart2}
+#Message#
+\C[3]This is... the last choice.
+##
+
+#Message#
+\.\C[3]Really, truly... the last.
+##
+

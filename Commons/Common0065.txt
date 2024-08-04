@@ -1,0 +1,66 @@
+**********Common65********** (ｶｲ「拒む理由は」)
+{Kai}
+#Message#
+"If you refuse, I wish to know the reason.
+ At this rate, it will prove an issue..."
+##
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+"I don't intend to quarrel with anyone."
+##
+
+{Sara}
+#Message#
+\C[4](Doesn't seem to have had an effect...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+"Under normal circumstances,
+ I would never press someone this deeply..."
+##
+
+[Kai: Default / cara8-1]
+#Message#
+\."But our lives are on the line."
+##
+
+{Sara}
+#Message#
+\.\C[4](So even Kai can't remain aloof forever.)
+##
+

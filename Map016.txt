@@ -1,0 +1,213 @@
+=====Map16===== (Central Plaza: Begin Search)
+
+**********Event2********** (kaiho-) (10,5)
+-----Page1-----
+[Reko: Mouth open / cara6-2]
+#Message#
+\C[3]Nao and Reko are looking after a fainted Kanna.
+##
+
+{Reko}
+#Message#
+"Sara, come runnin' if you're in danger, alright?
+ Feel free to leave the heavy lifting to the guys."
+##
+
+#Message#
+\."Then again, the scrawny beanie kid doesn't
+ look so tough himself... You better run too."
+##
+
+{Sou}
+#Message#
+"W... What a cutting remark... Ahaha."
+##
+
+{Nao}
+#Message#
+"Best of luck, everyone...!"
+##
+
+
+**********Event11********** (guti) (1,4)
+-----Page1-----
+#Message#
+\C[3]There are many exits out of the room.
+##
+
+#Message#
+\C[3]Taking a look through them,
+most seem to lead to dead-end passages.
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"You see those huge cushions in the dead ends?"
+##
+
+{Sara}
+#Message#
+\."I wonder... When I fell,
+ did I land on one of those cushions?"
+##
+
+{Sou}
+#Message#
+\."Same for me.
+ I bet all of us fell in a similar way."
+##
+
+#Message#
+\."Joe came carrying you into the hall here."
+##
+
+#Message#
+\."Didn't imagine you two would be friends, though."
+##
+
+-----Page2-----
+#Message#
+\C[3]There are many exits out of the room.
+##
+
+-----Page3-----
+#Message#
+\C[3]There are many exits out of the room.
+##
+
+
+**********Event12********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event13********** (ダミー団) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Dummy bullets. I have 6. If you pull the trigger
+with these, it'll only make a sound.
+##
+
+
+**********Event14********** (あたり) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Live bullets. I have 3.
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Event15********** (はまき) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar with high-quality wrapping.
+##
+
+
+**********Event16********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event17********** (シガーカッター) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar cutter.
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Event18********** (１０００) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A 1000-yen bill.
+Paper money usable in Japan.
+##
+
+
+**********Event19********** (ダーツ) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fancy dart.
+It's extremely solidly-made.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+

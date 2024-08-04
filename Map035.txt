@@ -1,0 +1,536 @@
+=====Map35===== (②▽Passage to Bar)
+
+**********Event2********** (reko) (2,4)
+-----Page1-----
+{Reko} [Reko: Default / cara6-1]
+#Message#
+"Here... Wipe off with this."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Thank you very much..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Tch, damn puppet...
+ As if you've even got a change of clothes."
+##
+
+{Sara}
+#Message#
+\."You two..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: horror_piano chord3}
+#Message#
+\."...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Kanna looked at me with very surprised eyes.
+##
+
+#Message#
+\.\C[3]They weren't the trusting eyes she'd had before.
+##
+
+{Sara}
+#Message#
+\.\C[4](...I... lied to Kanna.)
+##
+
+#Message#
+\.\C[4](Because of that lie...
+ I deeply wounded Kanna's heart.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](\C[10]"Sister-killer"\C[4]...
+ It's all because Miley said that awful thing...!)
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Hey, Sara, you think you could
+ look for somethin' Kanna could wear?"
+##
+
+{Sara}
+#Message#
+\."No problem."
+##
+
+-----Page2-----
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"..."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Sara, you found anything Kanna could wear?"
+##
+
+{Sara}
+#Message#
+\."...I found this in the Blue Room."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Wha...! Ain't this the same exact uniform?!"
+##
+
+#Message#
+\."Creepy... Why the hell've they got
+ stuff like this prepared?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Thank you very much..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna... She looks even more feeble...)
+##
+
+#Choice#
+Speak gently
+Gently put hand on her back
+##
+
+<優しく声をかける>
+
+{Sara} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...Kanna."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: warning2}
+#Message#
+\."?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Kanna moved away from me with a start.
+##
+
+<優しく背中に手を置く>
+
+{N/A} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."...Kanna."
+##
+
+{Kanna}
+{SE: warning2}
+#Message#
+\."?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Kanna knocked away my hand in surprise.
+##
+
+<Choice End>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."H... Hey, Kanna...?
+ Easy now. What's up?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."..."
+##
+
+#Message#
+\."I'm... sorry..."
+##
+
+#Message#
+\."...Please don't be nice to me anymore..."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: Accent21-1}
+#Message#
+\."I'm afraid... of having hope...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Kanna went running off.
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Sara! Hey! What's the deal?"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Explain the lie told with Mishima
+Keep silent
+##
+
+<ミシマ先生とついた「嘘」を話す>
+
+{Sara} [Reko: Throwing horns, grim scowl / cara6-3]
+{SE: heart1}
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](...I'm scared...)
+##
+
+#Message#
+\.\C[4](I'm sure Reko will tell me
+ I should have told the truth then...)
+##
+
+#Message#
+\.\C[4](But I...)
+##
+
+<無言で貫き通す>
+
+{Sara} [Reko: Throwing horns, grim scowl / cara6-3]
+{SE: heart1}
+#Message#
+\.\C[4](...What good will telling her do?
+ Will that help Kanna...?)
+##
+
+#Message#
+\.\C[4](...No, that's not what this is about.)
+##
+
+#Message#
+\.\C[4](I'm afraid.
+ Of her saying I should've been truthful then...)
+##
+
+<Choice End>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Sara, look me in the eye.
+ ...Don't sit there an' brood over crap."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Reko}
+{SE: Accent21-1}
+#Message#
+\."Talk to me.
+ Or are you just not listenin' to what I say?"
+##
+
+{Sara}
+#Message#
+\."...I understand..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Mishima said that...?!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+It's my fault
+It's Mishima's fault
+It's Joe's fault
+##
+
+<自分のせいだ>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Cut it out! Don't say that shit!"
+##
+
+#Message#
+\."Did you mean to hurt her?!
+ 'Course not, right?!"
+##
+
+<ミシマ先生のせいだ>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Cut it out! Don't say that shit!"
+##
+
+#Message#
+\."Nobody did nothin' wrong!!
+ Am I right?!"
+##
+
+<ジョーのせいだ>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Cut it out! Don't say that shit!"
+##
+
+#Message#
+\."Nobody did nothin' wrong!!
+ Am I right?!"
+##
+
+<Choice End>
+
+{Sara} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."..."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Sure, Mishima was the first to lie...!
+ And I dunno if that was right or not...!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent28-1}
+#Message#
+\."But guess what?!
+ There was hope in Kanna's eyes!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."You know how hard it is to show hope
+ to a person who's heart's been snapped...?!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Reko}
+#Message#
+\."Dammit...! Why..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Why'd I go callin' Mishima a nutty professor..."
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Guess it ain't fair to decide he's no good
+ just 'cause he's a man..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."I get the sitch now. I'll back Kanna up, Sara."
+##
+
+[Reko: Default / cara6-1]
+#Message#
+\."It's what we do now that's important, right?"
+##
+
+{Sara}
+#Message#
+\."Yes...!"
+##
+
+{Reko}
+#Message#
+"Any change of clothes is fine.
+ Strip that flirt's pants off for all I care."
+##
+
+{Sara}
+#Message#
+\.\C[4](It feels a little jarring
+ for you to be saying that right now...)
+##
+
+-----Page3-----
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Kanna's one thing... But I'm worried for Nao too."
+##
+
+{Sara}
+#Message#
+\."...Yeah."
+##
+
+
+**********Event3********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event4********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event5********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event6********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event8********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event9********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event10********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event11********** (EV011) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event12********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event13********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event14********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event15********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event16********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event17********** (zihan) (5,3)
+-----Page1-----
+#Message#
+\C[3]A vending machine with high prices.
+##
+
+
+**********Event48********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

@@ -1,0 +1,17 @@
+**********Common1545********** (⑧クルマダB選択)
+{N/A}
+#Message#
+"Hah! Hit me with anything you got!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

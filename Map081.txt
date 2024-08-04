@@ -1,0 +1,1632 @@
+=====Map81===== (③Long Stairs, Door of Hope)
+
+**********Event4********** (zihan) (8,2)
+-----Page1-----
+#Message#
+\.\C[3]A suspicious vending machine
+sits at the top of the stairs.
+##
+
+{Sara}
+#Message#
+\.\C[4](There aren't any items displayed inside...)
+##
+
+#Message#
+\.\C[4](And no prices shown, either...)
+##
+
+{SE: Accent28-1}
+#Message#
+\."Hm? The power's on..."
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."A vending machine with no clear merch or prices...
+ The hell's its deal, you think?"
+##
+
+{Sara}
+#Message#
+\."The bill acceptor slot is plugged up..."
+##
+
+#Message#
+\."But it looks like you can put in coins."
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Ah..."
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Like tokens...?"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...W-What should we do?
+ Put in some tokens...?"
+##
+
+{Sara}
+{SE: heart1}
+#Message#
+\."H... Hold on a second...!"
+##
+
+#Choice#
+I'll put some in
+You put some in
+Let's not
+##
+
+<私が入れてみます>
+
+{Sara} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'll... try putting some in!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."C-Cut it out!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."You don't gotta take the risk. Move it."
+##
+
+<レコさん入れてください>
+
+{Sara} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Reko, go ahead."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."All right, we're doin' it! Here goes..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Step back just in case, Sara."
+##
+
+<やめましょう>
+
+{Sara} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."It might be a trap. Just touching it could be bad."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Sure, but like...
+ Before the others come in and get all curious..."
+##
+
+{Sara}
+#Message#
+\."D... Don't do it, Reko...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."In the end... somebody's gotta investigate it!"
+##
+
+<Choice End>
+
+{N/A} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\.\C[3]Reko swiftly inserted a token.
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]..........
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\.".........."
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: Accent21-1}
+#Message#
+\."...Nothin's happening."
+##
+
+{Sara}
+#Message#
+\."Maybe... One token isn't enough?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Hrmm..."
+##
+
+{Sara}
+#Message#
+\."Seeing as there's this number above it, maybe..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."You have to insert... 200 tokens?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."H-Huhhh?! Who's gonna earn that many?!
+\! That'd better be one goddamn tasty soda!"
+##
+
+{Sara}
+#Message#
+\."Maybe there's no need to worry about it..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Got a point... 200 is just unreasonable.
+ No problem ignoring it, then."
+##
+
+#Message#
+\."Well, ain't that a relief.
+ Let's ditch this creepy place."
+##
+
+{Sara}
+#Message#
+\."Oh... Reko."
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Hm?"
+##
+
+{N/A}
+#Message#
+\.\C[3]I took the token she inserted from the return slot,
+and gave it back to Reko.
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Hey, thanks.
+ Now let's move, Sara."
+##
+
+{Sara}
+#Message#
+\."Right."
+##
+
+#Message#
+\.\C[4](Maybe we can come back if we solve the mystery...)
+##
+
+#Message#
+\.\C[4](Besides, it's about time I do an attraction.)
+##
+
+-----Page2-----
+#Message#
+\.\C[3]A suspicious vending machine
+sits at the top of the stairs.
+##
+
+
+**********Event5********** (usonoma) (11,6)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3][Room of Lies] Reward: ★★★★★★
+Don't be fooled. If entangled by lies, you'll die.
+
+Warning: The bonus will close once someone clears it.
+##
+
+{Sara}
+#Message#
+\.\C[4](All right...)
+##
+
+#Choice#
+Steel myself and enter
+Cancel
+##
+
+<覚悟を決めて入ろう>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Let's go...!!)
+##
+
+#Message#
+\.\C[4](This is the Room of Lies...?)
+##
+
+{Reko}
+#Message#
+\."Pretty dark... You there, Sara?"
+##
+
+{Sara}
+#Message#
+\."Yes. Let's look around carefully."
+##
+
+-----Page2-----
+#Message#
+\.\C[3]The door is firmly shut.
+##
+
+
+**********Event6********** (Qタロウ脱出ED) (1,0)
+-----Page1-----
+{SE: Put a coin}
+#Message#
+\C[3]I can hear the sound of tokens being inserted.
+##
+
+{Sara}
+#Message#
+\."Q... Q-taro...?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: Accent28-1}
+#Message#
+"S... Sara. What's up?"
+##
+
+{Sara}
+#Message#
+\."W-What's up..."
+##
+
+#Choice#
+That's my line
+Help me with the attractions
+##
+
+<それはこっちのセリフです>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+"What are YOU doing, Q-taro?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."D... Don't worry. You got a bad habit of that."
+##
+
+<アトラクションを手伝ってください>
+
+{Sara} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+"U-Um...
+ I want your help with the attractions."
+##
+
+{Q-taro}
+#Message#
+\."Unfortunately... I got somethin' to do..."
+##
+
+{Sara}
+#Message#
+\."D-Don't...! Get down from there, please!"
+##
+
+<Choice End>
+
+{Sara} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Please... stop what you're doing!"
+##
+
+#Message#
+\."What in the world... is that vending machine?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Don't get in the way, Sara.
+ ...I collected 200 tokens!"
+##
+
+{Sara}
+#Message#
+\."...200 tokens...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]I can see the number 200
+written in blue above the machine.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Just like at the Prize Exchange.
+##
+
+{Sara}
+#Message#
+\."...Don't tell me..."
+##
+
+#Message#
+\."Is it... the escape ticket...?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Ghh...!!"
+##
+
+{Sara}
+#Message#
+\."Q-taro... Could you be...?!"
+##
+
+#Choice#
+Planning to escape alone?!
+Trying to buy a soda?!
+##
+
+<ひとりで脱出する気ですか！>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: sceneswitch2}
+#Message#
+\."Are you planning to escape alone...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."N-No...! That's wrong, Sara!"
+##
+
+<ジュースを買うつもりですか！>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: flash-of-light-3}
+#Message#
+"You're trying to buy a soda
+ from that vending machine, aren't you...!"
+##
+
+{Q-taro}
+#Message#
+\."I ain't that thirsty!!"
+##
+
+{Sara}
+#Message#
+\."No, Q-taro.
+ You are thirsty..."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."For the air outside...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."H-Hold up, Sara! Settle down, okay?!"
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."I'm... gonna investigate the escape route...
+ So we can all lead a revolution together!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."So all of us can escape!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+#Message#
+\."...No, that's a lie."
+##
+
+#Message#
+\."You value the spirit of fair play, Q-taro."
+##
+
+#Message#
+\."If that were really your intent...
+ You would have told me before our trade!!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But you didn't say anything...!"
+##
+
+#Message#
+\."Because... You wanted to escape alone!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."What's... wrong with that...?"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I ain't done anything unfair!!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."I'm jus' usin' a right I earned fair and square...
+ so I can go outside first!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."An' I'm gonna call for help!
+ It's a hell of a lot more realistic than
+ rebelling against who knows how many kidnappers!"
+##
+
+#Message#
+\."I got no intention of leavin' you guys to die!!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."I ain't gonna trouble ya...!
+ Please, lemme go, Sara...!!"
+##
+
+{Sara}
+#Message#
+\."That's...!"
+##
+
+#Choice#
+That's underhanded!
+We should all leave together!
+Even kids are hanging tough!
+##
+
+<ずるいです！>
+
+{Sara} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."That's underhanded!! Aren't we all allies?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Sure we are!! That's why...
+ I'm leavin' to call for help!!"
+##
+
+{Sara}
+#Message#
+\."Then it doesn't have to be you, Q-taro!
+ Keiji would be better for mobilizing the police!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."See, Q-taro?! You... just want to save yourself!!"
+##
+
+{Q-taro}
+#Message#
+\.".........."
+##
+
+<出る時はみんな一緒です！>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Haven't we overcome difficulties together...?!"
+##
+
+{Q-taro}
+#Message#
+\."...I know that.
+ We even overcame our allies' deaths..."
+##
+
+{Sara}
+#Message#
+\."Then when we leave, we leave together...
+ Right, Q-taro?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Where's the hope of that?!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."If we pass on this, up next's another Main Game...
+ Someone's dyin', with certainty...!!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."They'll be killed like Mishima or Joe...!
+ Or off 'emselves like Kai!!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."It's one or the other!!"
+##
+
+{Sara}
+#Message#
+\."But...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."This is our chance...!
+ A way one of us can definitely return!!"
+##
+
+{Sara}
+#Message#
+\."Q-taro...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+<子供だってがんばってるんです！>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Gin is doing his best...!
+ A kid, much younger than you, Q-taro...!"
+##
+
+{Q-taro}
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."And Kanna... she's in middle school...!
+ Even so, she's desperately holding on!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."You're not the only one suffering, Q-taro!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."...The kids..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...They're waitin' for me..."
+##
+
+{Sara}
+#Message#
+\."...?!"
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I ain't never stood on the mound
+ as a first-stringer..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...I..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."I gotta prove that even people without parents
+ can have dreams, and make 'em come true..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I gotta show that to the kids at the orphanage!!"
+##
+
+{Sara}
+#Message#
+\."Q-taro!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Q-taro's fingers touch the last token.
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+"Sorry! Forget to mention a little somethin'!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."W-What is it now?!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Yer not gonna say you didn't expect us
+ to really get 200, so we can't actually escape...?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: Accent21-1}
+#Message#
+\."Dumbass. Of course you can really escape."
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."It's real-deal freedom.
+ You'll be free from the threat of death."
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."But y'know... I didn't tell you how we'd handle
+ the ones who were left."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."This is what you'd call \C[10]a solitary victory\C[0]."
+##
+
+{N/A}
+#Message#
+\.\C[3]Solitary victory...?\.
+##
+
+{Sara}
+#Message#
+\."What... does that mean...?!"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: shock1}
+#Message#
+\.\C[10]"It means everybody 'cept the escapee dies."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."I... I didn't hear nothin' about this!!"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Ahaha... Sooorry, plum forgot about it!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."You think that'll cut it, dammit?!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I... I already used all those tokens!
+ How dare you do this?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Yeah, guess it's not very fair, huh?"
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+{SE: sceneswitch2}
+#Message#
+\."Gotcha! I'll pay 'em back just for you!
+ All the tokens you used!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."...!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."...Great, right? Good for you.
+ \C[10]You don't have to kill your allies...\C[0]"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."..."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Huh? What's the matter?"
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Stop now and I'll give the tokens back, okay?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."..."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\.\C[10]"Nooooo... don't tell me!
+ You gonna sacrifice them just to save yourseeelf?"
+##
+
+#Message#
+\.\C[10]"Whaaaaat! How scaryyy!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Q-taro!! You can't...!!"
+##
+
+#Choice#
+Cling to him
+Coerce him
+##
+
+<すがりつく>
+
+{Sara} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."We're allies, right?!
+ Q-taro... you couldn't do such a thing...!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."W... What about Kai's dying wish?!
+ Gin and Kanna... have parents waiting for them!"
+##
+
+{Q-taro}
+#Message#
+\."..."
+##
+
+<威圧する>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Stop this foolishness!!"
+##
+
+{Q-taro}
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Real-deal freedom... This lying doll is just
+ making it all up!! You're being tricked!!"
+##
+
+{Q-taro}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..............."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\.\C[10]\sp[10]"...I'm sorry... Sara..."
+##
+
+{Sara}
+{SE: shock1}
+#Message#
+\."...!!"
+##
+
+#Message#
+\."Stop!! No!! Q-taro!!"
+##
+
+{N/A}
+{SE: Put a coin}
+#Message#
+\C[10]*kla-chunk...*\|\^
+##
+
+#Message#
+\C[3]Ah...
+##
+
+#Message#
+\.\C[3]I hear a clamorous sound.
+##
+
+#Message#
+\.\C[3]An inorganic, mechanical sound.
+##
+
+#Message#
+\.\C[3]A very long, endlessly continuing sound.
+##
+
+#Message#
+\.\C[3]Mixed in with it is the faint sound of a door opening.
+##
+
+#Message#
+\.\C[3]Q-taro disappears into the light behind that door.
+##
+
+#Message#
+\.\C[3]Gazing at the light of hope mere meters away...
+##
+
+#Message#
+\.\C[3]My senses came to a halt.
+##
+
+
+**********Event8********** (Q2-1) (9,5)
+-----Page1-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Just what the hell is that vending machine..."
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."...No, it's no good!
+ I can't do this...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's muttering things to himself...)
+##
+
+
+**********Event9********** (alice2-3) (13,8)
+-----Page1-----
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"This is a rather gloomy place...
+ I'm fond of it."
+##
+
+
+**********Event10********** (Q3-1) (7,8)
+-----Page1-----
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+".........."
+##
+
+{N/A}
+#Message#
+\C[3]Q-taro is walking around unsteadily.
+##
+
+
+**********Event27********** (a) (8,1)
+-----Page2-----
+#Message#
+\.\C[3]"200" is written in blue above the vending machine.
+##
+
+
+**********Event44********** (suitti) (5,4)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]There's a mysterious switch on the wall.
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Noticed the switch there?"
+##
+
+{Sara}
+#Message#
+\."What is this for...?"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Dunno... But there's an interesting note here."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Above the switch are the words "Bonus Attraction."
+##
+
+{Sara}
+#Message#
+\."Bonus Attraction...?"
+##
+
+#Choice#
+Push it
+Don't push it
+##
+
+<押してみる>
+
+{Sara} [Reko: Default / cara6-1]
+#Message#
+\."I'll push it."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Wha?! You just went and pushed it, Sara?!"
+##
+
+<押さない>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."This time, it could be a trap."
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Yeah...
+ But "Bonus"... it's curious, right?"
+##
+
+[Reko: Default / cara6-1]
+#Message#
+\."If you take it at face value,
+ I thought, it might be worth betting on..."
+##
+
+{Sara}
+#Message#
+\."Sure, but..."
+##
+
+{Reko}
+#Message#
+\.".........."
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."Man, I can't ignore it when it's so intriguing...
+ I'm gonna try pushing it."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."...Don't look so worried, okay?"
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Step back, Sara."
+##
+
+{N/A}
+#Message#
+\.\C[3]Reko pushed the switch.
+##
+
+<Choice End>
+
+{N/A} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\.\C[3]With a loud noise, something activated.
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+\."Sara! A door appeared!!"
+##
+
+{Sara}
+#Message#
+\."Is that...?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]There's a piece of paper on the door.
+It reads...
+##
+
+#Message#
+\.\C[3][Room of Lies] Reward: ★★★★★★
+Don't be fooled. If entangled by lies, you'll die.
+
+Warning: The bonus will close once someone clears it.
+##
+
+#Message#
+<<REMOVE>>
+##
+
+{Reko}
+{SE: Accent28-1}
+#Message#
+\."Room of Lies...?"
+##
+
+{Sara}
+#Message#
+\."It's a tenth attraction...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."The hell's going on here?
+ Shouldn't there be 9 attractions?"
+##
+
+{Sara}
+#Message#
+\."Y... Yes, we heard that, but..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."And... 6 Clear Chips...?"
+##
+
+{Sara}
+#Message#
+\."It's awfully suspicious, isn't it?"
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."..."
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."Hey, Sara. Did you check all 9 attractions?"
+##
+
+{Sara}
+#Message#
+\."Hm...?"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Specifically, how many Clear Chips
+ you get from each attraction."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Out of the nine attractions, seven give ★★,
+ one gives ★★★, and one gives ★★★★."
+##
+
+{Sara}
+#Message#
+\."R... Right..."
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent21-1}
+#Message#
+\."And all the attractions gotta be done in pairs."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ah...! Right!"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."You noticed yet? There's nine of us.
+\! ...That's an odd number."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."A person can't re-enter an attraction
+ once they've already cleared it..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."So each attraction will always end up
+ with one person who can't do it."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Even if everyone who can form a pair
+ goes around to every attraction..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."The number of Clear Chips we can get... is 84."
+##
+
+{Sara}
+{SE: shock1}
+#Message#
+\."And for 9 of us to win... requires 90...!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."So we're short 6.
+ At least one person'll die from not having enough..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Six...?! Then...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."If we beat this Bonus Attraction,
+ it gives us exactly enough...!!"
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Ain't no logic in avoiding this place, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](If we hadn't discovered this attraction,
+ someone would have died...!)
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Now it's just... who does it."
+##
+
+{Sara}
+#Message#
+\."...Who..."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Of course, I'll do it."
+##
+
+{Sara}
+#Message#
+\."B-But Reko...!"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."And who to pair up with...?"
+##
+
+[Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Well, Sou can't be trusted for shit.
+\! Gin, Kanna, and Nao... don't wanna put 'em in danger."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Q-taro... probably needs compensation to convince.
+\! That guy's a realist."
+##
+
+{Sara}
+#Message#
+\."What about Keiji...?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."No offense, Sara..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent21-1}
+#Message#
+\."But I can't trust that guy...
+ He's hiding something."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+I'll pair with you
+That leaves Alice, then
+##
+
+<私がペアになります>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I don't even have to think about it.
+ I'll pair with you."
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."...You can't do that, Sara."
+##
+
+{Sara}
+#Message#
+\."Why not...?!"
+##
+
+<残りはアリスさんですね>
+
+{Sara} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."...So that leaves Alice, doesn't it?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Nothing could be more awkward...
+ But I guess that's what I gotta do."
+##
+
+{Sara}
+#Message#
+\."Um..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Incidentally, am I not an option?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."...You can't do that, Sara."
+##
+
+<Choice End>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."You're overworking yourself."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."You've saved our asses again and again.
+ And I'm supposed to be older... I'm pathetic..."
+##
+
+[Reko: Smile / cara6-4]
+{SE: Accent21-1}
+#Message#
+\."I want to be equals with you, Sara."
+##
+
+[Reko: Looking to side with frown / cara6-5]
+#Message#
+\."It won't satisfy me to just keep getting saved."
+##
+
+{Sara}
+#Message#
+\."Equals...?"
+##
+
+#Choice#
+Then don't be modest
+Go with the most trustworthy
+##
+
+<なら遠慮しないでください>
+
+{Sara} [Reko: Looking to side with frown / cara6-5]
+{SE: Accent28-1}
+#Message#
+\."Then please, don't be modest."
+##
+
+#Message#
+\."You should choose the best option.
+ ...If that's not me, then I understand."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+#Message#
+\."I'm afraid to just wait around, too..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."..."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."You sure...? You got the stamina for this?"
+##
+
+{Sara}
+#Message#
+\."Yes."
+##
+
+<一番信頼できる人と行くべきです>
+
+{Sara} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent28-1}
+#Message#
+\."Lives are on the line... You should go with
+ the person you can trust most, Reko."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+#Message#
+\."I would do the same thing.
+ You don't have to be modest."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Got it... Then nuts to modesty.
+ Sara... Can ya be my partner?"
+##
+
+{Sara}
+#Message#
+\."Of course."
+##
+
+<Choice End>
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent21-1}
+#Message#
+\."Hell yeah, I'm in your debt!
+ 'Cause really, I couldn't imagine anyone but you!"
+##
+
+#Message#
+\."Let's beat this and come out safe, partner!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I grabbed Reko's outstretched hand
+and gave her a firm handshake.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Then, through a gap in Reko's glove,
+a liquid trailed onto my hand.
+##
+
+#Message#
+\.\C[3]It was blood.
+##
+
+#Message#
+\.\C[3]That was when I finally noticed.
+##
+
+#Message#
+\.\C[3]Reko had scratches and bruises
+in inconspicuous places all over her body.
+##
+
+#Message#
+\.\C[3]...She had been pushing herself.
+##
+
+#Message#
+\.\C[3]No doubt, she challenged the attractions...
+to earn Clear Chips for the weaker of us,
+like Gin and Nao...
+##
+
+#Message#
+\.\C[3]And surely, there were more wounds
+on the thin hands within those gloves...
+##
+
+{Sara}
+#Message#
+\.\C[4](...Reko...)
+##
+
+{Reko}
+#Message#
+\."What's up, Sara?"
+##
+
+{Sara}
+#Message#
+\."Forget it. Let's go...!"
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]There's a switch on the wall.
+##
+

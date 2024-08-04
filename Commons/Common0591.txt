@@ -1,0 +1,34 @@
+**********Common591********** (７－朝後イベント)
+{Sara}
+#Message#
+\.\C[4](What to do now...?)
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Accent28-1}
+#Message#
+\."Hey, bastard! How you doing?"
+##
+
+{Sara}
+#Message#
+\."What do you want?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Ooh, scary. C'mon, I'm just asking how you feel!"
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Alright, no delinquents on my watch!
+ Time for a parent-teacher conference!"
+##
+
+{Sara}
+#Message#
+\.\C[4](A... parent-teacher conference?)
+##
+

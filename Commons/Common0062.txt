@@ -1,0 +1,196 @@
+**********Common62********** (進展●「信頼度だ」)
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Q-taro, even if you do have experience,
+ I can't trust you."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"...Urk."
+##
+
+#Message#
+\."Whyzat?!
+ Ain't experience important for this?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."It's because I can't imagine this game
+ requires skill with a gun."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+\."...Say what?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Look at the room.
+ Aren't these dolls curious?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."I'm betting... they're dummy targets."
+##
+
+{Q-taro}
+#Message#
+\."Dummies...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Shoot a human, or shoot a doll...
+ That's probably what the game's about."
+##
+
+{Q-taro}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."What's important is a cool head.
+\! The targets can't move from the chairs anyhow."
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."I'm always cool-headed... Believe it or not."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Even when you're pointing a gun at someone?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."It's an awful thing, when the person
+ you're looking at could die by your hand."
+##
+
+#Message#
+\."You ever experienced that?"
+##
+
+{Q-taro}
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I trust somebody determined to save her friend
+ more than an amateur with average training."
+##
+
+{Q-taro}
+#Message#
+\."..."
+##
+
+#Message#
+\."...I get it."
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Maybe I might not be up for it..."
+##
+
+[Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\."But still! I got more to say."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Suppose I'll listen..."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Keiji! Doesn't that mean we should
+ have you be the Challenger?!"
+##
+
+#Message#
+\."You must've been in tons of gunfights
+ in your line o' work!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."T-That is true..."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."Indeed, I was wondering about that myself."
+##
+
+#Message#
+\."Why the policeman, who would be most suitable,
+ is not recommending himself."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Guess you would think so, huh..."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."If I'm gonna put my life on the line,
+ I want the most dependable person I can get."
+##
+
+#Message#
+\."If it ain't me, then it's Keiji...
+ You're the only one."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Keiji... What's the matter...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."We won't know if you keep quiet!"
+##
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."If you refuse, I wish to know the reason.
+ At this rate, it will prove an issue..."
+##
+
+#Message#
+\."...We cannot end our discussion in this state."
+##
+

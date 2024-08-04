@@ -1,0 +1,86 @@
+**********Common1349********** (29、間違いどす)
+{Sara}
+#Message#
+\C[4](This burnable waste trash can...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think it was just a burnable waste can
+ like I remember, meow."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."They make sure to collect the trash every day,
+ so I've never seen it too piled up, woof."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Nothing suspicious here...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This light bulb outside the cell...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's just a light bulb."
+##
+
+[Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."The hours they put that thing on were awful. At night,
+ I'd hear the groaning of prisoners in dim light..."
+##
+
+[Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."My own groaning, I mean!!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](A rough environment, to be sure...)
+##
+
+<やめる>
+
+<Choice End>
+

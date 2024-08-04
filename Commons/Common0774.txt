@@ -1,0 +1,501 @@
+**********Common774********** (⑫進展●「落としたスマホ」)
+{Sara} [Kanna: Dead-eyed, mouth closed / cara3-11]
+{SE: Accent28-1}
+#Message#
+"Kanna... Was it a smartphone you lost?"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."How did you know...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Sure enough...)
+##
+
+#Message#
+\.\C[4](I bet it's the same smartphone
+ I found in Kanna's First Trial room.)
+##
+
+#Message#
+\."Gin, tell me, where did you pick that up?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+\."It was a ways down the stairs, meow."
+##
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."...!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."*sigh*... How clumsy. She must've just dropped it
+ while we were all climbing the stairs, surely?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+I see
+That's not it
+Are you protecting Kanna?
+##
+
+<なるほど>
+
+{Sara} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent28-1}
+#Message#
+\."...I see. So that's what it is."
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."Hm...?"
+##
+
+<そうじゃない>
+
+{Sara} [Sou: Disdainful pose / cara5-11]
+{SE: Accent28-1}
+#Message#
+\."...That's not it."
+##
+
+{Sou}
+#Message#
+\.".........."
+##
+
+<カンナをかばってるんですか？>
+
+{Sara} [Sou: Disdainful pose / cara5-11]
+{SE: Accent28-1}
+#Message#
+\."Are you protecting Kanna, Sou?"
+##
+
+{Sou} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."Me? Stick up for Kanna?"
+##
+
+<Choice End>
+
+{Sara} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."Think back for me."
+##
+
+#Message#
+\."When we were climbing the stairs,
+ Sou and Kanna were walking in front."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."If she had dropped the phone then...
+ everyone should have noticed."
+##
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."In short, this was only dropped
+ after we all climbed up to the exit."
+##
+
+{SE: Thunder10}
+#Message#
+\."Kanna dropped it while descending the stairs...!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."...!!"
+##
+
+{Sara}
+#Message#
+\."What did she descend for...?
+ Why did you try to hide this, Kanna?"
+##
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."Because..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Big sis Sara!
+ There's a message on this phone, meow!!"
+##
+
+{Sara}
+#Message#
+\."Right... That's what Kanna's sister..."
+##
+
+{SE: Accent21-1}
+#Message#
+\C[4](...Huh? It's a different message...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]Thank you
+I love you, sister
+##
+
+#Message#
+\.\C[3]Now it's Kanna's turn to protect her big sister
+##
+
+#Message#
+\.\C[3]Because that's how Kanna can atone
+##
+
+{Sara}
+#Message#
+\.\C[4](...This...!!)
+##
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+"P... Please give that back..."
+##
+
+{Sara}
+#Message#
+\."Hold on...!
+ Did you write this, Kanna?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."But Kanna's big sister is already dead..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: sceneswitch2}
+#Message#
+\."Could it be the "sister" in this message is..."
+##
+
+{Sara}
+#Message#
+\."...No way..."
+##
+
+#Choice#
+Her sister in heaven
+Sara
+##
+
+<天国にいる姉>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent21-1}
+#Message#
+\."It's referring to... her sister in heaven?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."That's not it..."
+##
+
+{Sara}
+#Message#
+\."I mean...!! If it's not that..."
+##
+
+#Message#
+\."This... this...!!"
+##
+
+<サラ>
+
+<Choice End>
+
+{Sara} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\.\sp[15]\C[4](Surely not...)
+##
+
+#Message#
+\.\sp[15]\C[4](Is that right, Kanna...?)
+##
+
+#Message#
+\.\sp[15]\C[4](Your... "sister" here...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sp[15]"Is... me...?"
+##
+
+{Kanna}
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: Accent28-1}
+#Message#
+\."Yes..."
+##
+
+#Message#
+\."Ehehe... I know, it's strange..."
+##
+
+#Message#
+\."But Kanna... to Kanna, you're..."
+##
+
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."...And so you wanted to save Sara that much..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: Accent21-1}
+#Message#
+\."...Yes..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Hey... Kanna..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: sceneswitch2}
+#Message#
+\."Was it you who traded away Sara's \C[10]Sacrifice\C[0]...?"
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."To avoid using the Ring-Up Box in the Winner's Room,
+ you \C[2]returned to the third floor\C[0] to trade."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."H... Hey now, you're talking like Kanna's..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Are you sayin'...
+ she took the \C[10]Sacrifice\C[0] to protect Sara...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...That's... so...)
+##
+
+{N/A}
+#Message#
+\.\C[3]It's inconceivable...
+##
+
+#Message#
+\.\C[3]No, I don't want to conceive of it...
+##
+
+{SE: heart2}
+#Message#
+\.\C[3]Deny it, Kanna...!!
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ahaha... What worthless reasoning."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."That's all a load of..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: horror_piano chord3}
+#Message#
+\."...No. It's all correct..."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Y..."
+##
+
+[Sou: Hands out, mouth open, angry eyes with bags / cara5-32]
+#Message#
+\."You idiot...!! Don't say anything!!"
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: shock1}
+#Message#
+\."Kanna did the \C[6]fifth trade\C[0]...!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."She... won't hide the truth anymore..."
+##
+
+{Sou} [Sou: Hands out, mouth open, eyes with bags / cara5-31]
+#Message#
+\."Kan... na...!!"
+##
+
+{Sara}
+#Message#
+\C[4](Kanna... did it...)
+##
+
+#Message#
+\.\C[4](She really did it... to protect me...)
+##
+
+#Message#
+\.\C[4](She took the \C[10]Sacrifice\C[4] for herself...!!)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."This's just... the worst outcome...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."A self-sacrifice?! Kanna...!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Such foolishness...!!"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Turned to side tousling hair / cara2-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sou... You caught on at some point, didn't you?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's why you were trying to
+ move the votes toward Kanna."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."...Shut up..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: sceneswitch2}
+#Message#
+\."Since there was no other way for Kanna to survive..."
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."I...!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Please, wait!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](...?)
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Will you listen carefully
+ to what Kanna has to say...?"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+<Condition End>
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+"With the \C[6]fifth trade\C[0],
+ Kanna switched her card and Sara's card."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

@@ -1,0 +1,105 @@
+**********Common735********** (▽ｹｲｼﾞ…否定)
+{Sara}
+#Message#
+"No! He could!"
+##
+
+{Keiji}
+#Message#
+"Nah... He's got an alibi. It's impossible."
+##
+
+{Sara}
+#Message#
+\C[4](That was wrong...!!)
+##
+
+#Message#
+"No, I doubt even Sou could do such a thing..."
+##
+
+{Keiji}
+#Message#
+"Hmm. Is there any other way...?"
+##
+
+{Sara}
+#Message#
+\C[4](There should be some other means...!)
+##
+
+#Message#
+"No, negotiating through a door is just strange!"
+##
+
+{Keiji}
+#Message#
+"Urk... Think about Mr. Policeman's feelings."
+##
+
+{Sara}
+#Message#
+"I... I didn't mean to imply you, Keiji...!"
+##
+
+{Sou}
+#Message#
+"...Get a room, you two."
+##
+
+{Sara}
+#Message#
+\C[4](I'm being dead serious here!)
+##
+
+{Keiji}
+#Message#
+"...Err... um."
+##
+
+#Message#
+\."This has already been proven as true, y'know..."
+##
+
+{Sara}
+#Message#
+\C[4](H-Huh...? Was it now...)
+##
+
+#Message#
+"No, I'm sure Sou was on guard!"
+##
+
+#Message#
+\."Q-taro'd taken the laptop from him once before!
+ Sou wouldn't let him in the room no-questions-asked!"
+##
+
+{Keiji}
+#Message#
+"Then did they make a deal through the door...?"
+##
+
+#Message#
+\."Wahaha... How amusing. I just thought of a way."
+##
+
+{Sara}
+#Message#
+"No! It must have been some other method!"
+##
+
+{Keiji}
+#Message#
+"Like destroying the door with superhuman strength?"
+##
+
+#Message#
+\."Or maybe that's closer to a threat than a deal..."
+##
+
+{Sara}
+#Message#
+\C[4](Urgh... I guess that wasn't right...)
+##
+

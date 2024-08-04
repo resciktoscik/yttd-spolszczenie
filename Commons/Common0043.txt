@@ -1,0 +1,115 @@
+**********Common43********** (Q・自己紹介)
+{Q-taro}
+#Message#
+"I'm Q-taro Burgerberg!
+ Baseball player!"
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Sure ain't a common occurrence.
+ For all my might, can't get this dang collar off..."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+"Yeah, I'm a ballplayer, but if ya work out too much
+ and hurt'cherself, you'll never hit the big leagues."
+##
+
+{Sara}
+#Message#
+\.\C[4](Even among this bunch, this guy stands out...)
+##
+
+#Choice#
+What country are you from?
+What dialect is that?
+##
+
+<どこの国の人ですか？>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+"I don't got a clue where I was born neither!
+ Had parents, but off they went
+ 'fore I could even remember 'em."
+##
+
+#Message#
+\."Still, my nationality's Japanese!
+ ...Dunno about the dialect, but it's a mix."
+##
+
+<どこの方言ですか？>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+"No kiddin', what is it indeed?
+ Grew up in a strange orphanage,
+ so prolly it's a mix of a whole bunch."
+##
+
+#Message#
+\."But it was in Japan, so that's my nationality!
+ ...Parents left when I was li'l, though,
+ and I dunno where I was born."
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Ain't nothin' can't be fixed if you talk it out!"
+##
+
+{Beanie Man} [Sou: Mouth open / cara5-1]
+#Message#
+\."Incidentally, I believe baseball has positions...?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."I'mma pitcher. Confident in my batting too,
+ an' I was lucky enough to go to Central League."
+##
+
+{Beanie Man} [Sou: Mouth open / cara5-1]
+#Message#
+\."I don't really follow, but...
+ Does that mean you're good at both throwing the ball
+ and hitting it with the bat?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."...W-Well... Yeah, tha's right."
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't know baseball either,
+ but he seems pretty proud of his \C[2]strength\C[4].)
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."I was all happy after a long-in-coming comeback game,
+ so I went drinkin', then I don't remember a thing."
+##
+
+#Message#
+\."Then when I wake up, I got a collar on in this place.
+ Like I'm a dog or somethin'!"
+##
+
+#Message#
+\."Such a bummer!
+ Can't believe I can't get this thing off!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Even his strength can't remove it...)
+##
+

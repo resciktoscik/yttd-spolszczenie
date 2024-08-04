@@ -1,0 +1,215 @@
+**********Common577********** (交渉２－朝　アリス)
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Sara Chidouin!! The promised time is at hand!
+ Let us hurry to the Prize Exchange!!"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Alice} [Alice: Confused shout / cara11-7]
+#Message#
+"What, did you forget?!
+ You promised we'd trade for the treasure
+ once you collected Reko's tokens, right?!"
+##
+
+[Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Did you think you would be
+ relieved of duty once you got me the tokens?!
+ See it through to the last, Sara!!"
+##
+
+#Message#
+\."Don't tell me you couldn't get the tokens...!!
+ Because I'll never forgive you if you do!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Right, that promise...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+"Collect Reko's tokens... and trade for her treasure!
+ It's time to execute the plan!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."Of course, the Reko tokens you gathered
+ are already here in my hand...!"
+##
+
+[Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."Now let us be off to the Prize Exchange...!
+\! May your brazen nosiness push me forward!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What a mean manner of speaking...)
+##
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."...Hmph.
+ Did you in fact collect Reko's tokens? Show me them."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: Accent21-1}
+#Message#
+\."Hmm... Why, so you actually brought them..."
+##
+
+[Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+\."Well done, Sara Chidouin.
+ I'll praise you for that."
+##
+
+{Sara}
+#Message#
+\."Hmm..."
+##
+
+#Choice#
+Give the tokens
+Such a bad attitude
+##
+
+<メダルを渡す>
+
+<態度がよくないなぁ>
+
+{Sara} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I won't hand these over. Not with that attitude."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."H-Hold on a moment! Sara!!"
+##
+
+{Sara}
+#Message#
+\."...What's the matter?"
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."E... Err... Thank you... dearly...
+ Miss Sara Chidouin..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I got a little too mean there...)
+##
+
+<Choice End>
+
+{Sara} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."Here's the tokens."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Handed Alice 20 Reko tokens.
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."I have received them...
+ Now let us go! To the Prize Exchange...!"
+##
+
+[Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."...Oh?! You don't have them at all!!
+ What's the meaning of this?!"
+##
+
+{Sara}
+#Message#
+\."Huh, now that's strange..."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."S-So awful!! How dare you get my hopes up...!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."And after I'd fully prepared myself mentally!!"
+##
+
+[Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."I... I'm going to cry... for real..."
+##
+
+{Sara}
+#Message#
+\."...I'm sorry.
+ Here, you can lean on me..."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\.\{"Get out of here!! I hate you!!"
+##
+
+{Sara}
+#Message#
+\C[4](Well... That's it for discussions.)
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"All right... I'll buy it... Are you ready?"
+##
+
+{Sara}
+#Message#
+\."Yes."
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\.".........."
+##
+
+[Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."Ooh, my stomach huuurts!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's been like this for 5 minutes now.
+ What should I do...?)
+##
+

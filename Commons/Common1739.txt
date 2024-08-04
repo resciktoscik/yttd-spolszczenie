@@ -1,0 +1,159 @@
+**********Common1739********** (●Q2「ヒナコの遺言」)
+{Q-taro}
+#Message#
+"I-It's true...
+ Hinako might've been our enemy..."
+##
+
+#Message#
+"I just ain't sure...
+ What was Hinako tryin' to say in her last moments?"
+##
+
+#Message#
+"Hinako went "Eh...?" in surprise
+ 'cause she noticed something up with her coffin..."
+##
+
+#Message#
+"Hinako went "What's... this shaking?!",
+ 'cause in her pitch-black coffin,
+ she had to rely on info other than sight."
+##
+
+#Message#
+"Hinako sayin'
+ "You're kidding, right?! No way...! Why me?!"...
+ Seems she couldn't believe what was happenin' to her."
+##
+
+#Message#
+"Hinako started sayin' "This... c..." 'fore she died.
+ Maybe she was gonna say "this can't be happening"..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+"Gonna help me remember again, huh?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Yes... Look into this lantern!"
+##
+
+{Q-taro} [Hinako: Mouth open / cara93-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Awright, which statement should I remember...?!"
+##
+
+{N/A}
+#Message#
+ 
+##
+
+{Q-taro}
+{SE: Accent28-1}
+#Message#
+"Ohh! I'm startin' to remember now!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."Alright! Let's think about any statements
+ that seem curious, just like before!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."Wonder if we can find somethin'
+ by remembering what Hinako said..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+"But if that's the case, why'd Hinako get killed...?"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."I just ain't sure...
+ What was Hinako tryin' to say in her last moments?"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent40-1}
+#Message#
+\."I'm pathetic, not bein' able to remember..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](He can't remember?)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](Then maybe I should use that again...!)
+##
+

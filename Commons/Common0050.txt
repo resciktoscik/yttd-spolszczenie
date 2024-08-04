@@ -1,0 +1,181 @@
+**********Common50********** (ｷﾞﾝ・自己紹介)
+{Strange Child}
+#Message#
+"I can read the room too, meow!"
+##
+
+[Gin: Default / cara9-1]
+#Message#
+"My name is \C[2]Gin Ibushi\C[0]! Woof!"
+##
+
+#Message#
+\."Hmm...
+ I think I'm okay to trust big sis Sara, meow!"
+##
+
+#Message#
+"My name is \C[2]Gin Ibushi\C[0], woof!
+ I'm a 6th grader, meow!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Great introduction, kiddo."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Don't call me a kid!
+ I just introduced myself 'cause you guys
+ don't seem like anything special, woof!"
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Do you remember anything about
+ why you were brought to this place?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Woof... nope."
+##
+
+#Message#
+\."Mom was late coming home, so I stayed up to wait...
+ And I heard the intercom, so I thought she was back
+ and opened the door, meow."
+##
+
+#Message#
+\."A different grown-up was standing there, meow!
+ ...Don't remember anything else, woof."
+##
+
+{Sara}
+#Message#
+\."I see..."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Gin..."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Don't give me those looks, woof!
+ I'm a strong boy, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's acting tough, but he must be scared...)
+##
+
+#Choice#
+Let's work together to go home
+You're a tough kid
+##
+
+<みんなで力を合わせて帰ろう>
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+\."...Mya..."
+##
+
+#Message#
+\."Work together...?
+ Woof woof..."
+##
+
+{Sara}
+#Message#
+\."Right. Not all grown-ups are bad, Gin."
+##
+
+{Gin}
+#Message#
+\."...Can I believe that, meow?"
+##
+
+{Sara}
+#Message#
+\."Of course!"
+##
+
+{Gin}
+#Message#
+\."...I'll only trust you, big sis Sara! Woof!"
+##
+
+<キミは強い子だね>
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+"Of course, meow!
+ Don't think I'm just a regular kid, woof!"
+##
+
+#Message#
+\."I'll definitely make those kidnappers pay, meow!"
+##
+
+{Sara}
+#Message#
+\."Hm... You might just be right, Gin."
+##
+
+#Message#
+\."We'll have them make up for what they did."
+##
+
+{N/A}
+#Message#
+\.\C[3]I gave him a pat on the head.
+##
+
+{Gin}
+{SE: Accent21-1}
+#Message#
+\."Mya..."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."...Woof! You seem nice, big sis Sara!
+ I'm okay trusting you, meow!"
+##
+
+<Choice End>
+
+{Sara} [Gin: Default / cara9-1]
+{SE: Accent28-1}
+#Message#
+\."B-Big sis...?!"
+##
+
+{Gin}
+#Message#
+\."...Huh?
+ It's not big bro, is it, woof?
+\! Maybe I got it all wrong, meow..."
+##
+
+{Sara}
+#Message#
+\."That's not the problem!"
+##
+
+#Message#
+\.\C[4](If I had a little brother,
+ I wonder if he'd talk to me like that...)
+##
+

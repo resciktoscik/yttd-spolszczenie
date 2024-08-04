@@ -1,0 +1,18 @@
+**********Common1445********** (④ギンB選択)
+{N/A}
+#Message#
+"He must be getting pulled by thin wires, meow!
+ We just have to untie them, woof!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

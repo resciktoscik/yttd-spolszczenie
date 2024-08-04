@@ -1,0 +1,246 @@
+=====Map1===== (OP1)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{???}
+#Message#
+...
+##
+
+#Message#
+\."Heeeeeyyy..."
+##
+
+[Sou Silhouette: Mouth open / cara99-1]
+#Message#
+"Hiya."
+##
+
+#Message#
+\."Just a random question,
+ but you know what a \C[2]majority vote\C[0] is?"
+##
+
+#Choice#
+Obviously
+No idea
+##
+
+<当たり前だ>
+
+{???} [Sou Silhouette: Smile / cara99-2]
+#Message#
+\."Ahaha, no need to get mad.
+ It's helpful to start conversations
+ with an easy question."
+##
+
+<知らない>
+
+{???} [Sou Silhouette: Smile / cara99-2]
+#Message#
+\."How unusual!"
+##
+
+#Message#
+\."It's when people are deciding something,
+ and the choice that gets picked by the most people
+ is what gets used... Yeah, that."
+##
+
+<Choice End>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."Oh? Looks like somebody's over there."
+##
+
+{Mr. Blue}
+#Message#
+\."I love majority votes! They represent the way
+ democracy should be, following the will of the people!
+ It's a method that minimizes conflict!"
+##
+
+{Ms. Red}
+#Message#
+\."I hate majority votes!
+ They're just a way to silence the minority!
+ It only makes more darkness build in the shadows!"
+##
+
+{???}
+#Message#
+"*sigh*... Sounds like they're having
+ some tedious argument."
+##
+
+[Sou Silhouette: Smile / cara99-2]
+#Message#
+\."Incidentally, whose opinion do you support?
+ Mr. Blue's, or Ms. Red's?"
+##
+
+#Choice#
+Mr. Blue
+Ms. Red
+##
+
+<青い人>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+"Aww... She died."
+##
+
+[Sou Silhouette: Smile / cara99-2]
+#Message#
+\."But good for you!
+ Your opinion had more supporters!"
+##
+
+[Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."In the end, the majority is absolute!
+ That's just the way it goes in society!"
+##
+
+<赤い人>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+"Aww... He died."
+##
+
+[Sou Silhouette: Smile / cara99-2]
+#Message#
+\."But good for you!
+ Your opinion had more supporters!"
+##
+
+#Message#
+\."With that experience, your side's learned
+ the terror of a majority vote."
+##
+
+[Sou Silhouette: Mouth open / cara99-1]
+{SE: extend1}
+#Message#
+\."Huh...?"
+##
+
+#Message#
+\."If that makes you happy, then don't you have to
+ recognize the appeal of majority votes?"
+##
+
+#Message#
+\."...Sure is complicated."
+##
+
+<Choice End>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."...Hmm? What's with that look?
+\! If you'd known the other person would die,
+ you wouldn't have voted?"
+##
+
+#Message#
+\."C'mon... That won't get you anywhere, okay?
+ It's what the game is all about..."
+##
+
+#Message#
+\."...You don't look pleased, huh?"
+##
+
+[Sou Silhouette: Smile / cara99-2]
+#Message#
+\."Alright, if you insist, let's hold a vote!
+ Your opinion versus mine!"
+##
+
+[Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."Okay then... Let's go."
+##
+
+
+**********Event4********** (EV004) (16,0)
+-----Page1-----
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."Good day.
+ Congratulations on beating the game for now!"
+##
+
+#Message#
+\."Currently, the game has only
+ been released up to Part One (here)."
+##
+
+#Message#
+\."It's planned for future updates to
+ add a Part Two scenario, make fixes to Part One,
+ and gradually improve events."
+##
+
+#Message#
+\."Also, be aware that pre-update save data
+ may stop working due to fixes."
+##
+
+#Message#
+\."Incidentally, I believe if you save here, you'll be
+ able to go right into Part Two once it's added!
+ ...Will you save?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."If you like, it would be helpful if you gave
+ reports on errors you encountered or your thoughts.
+ Thanks in advance!"
+##
+
+#Message#
+\.* PS: "Thanks to your aid, several serious errors
+ have been fixed by now! Thank you very much!
+ Being a personal project, it's slow going,
+ but seeing predictions of the story is a blessing."
+##
+
+#Message#
+\."Now then, you'll be returned to the title screen.
+ Is this okay?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."Thank you for playing to the end."
+##
+
+<いいえ>
+
+<Choice End>
+

@@ -1,0 +1,16 @@
+**********Common234********** (投票ナオ)
+#Message#
+Vote for \C[2]Nao\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

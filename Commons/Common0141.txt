@@ -1,0 +1,75 @@
+**********Common141********** (ギンの自白（旧）)
+{Gin}
+#Message#
+"If you believe me, big sis Sara...
+ I'll believe you too, woof!"
+##
+
+{Sara}
+#Message#
+\."Right! That's great, Gin!"
+##
+
+{Gin}
+#Message#
+\."So... I searched all over that room, woof..."
+##
+
+#Message#
+\."And I found one of those shredder things, meow.
+ The thing that tears up letters and stuff, woof!"
+##
+
+#Message#
+\."But when I looked inside...
+ There was this one hand-ripped paper, meow."
+##
+
+#Message#
+\."A... and there, woof... it said..."
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\."That big sis Sara was... \C[2]a murderer\C[0]..."
+##
+
+#Message#
+"...Meow... meow..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Huh?..."
+##
+
+{Joe}
+#Message#
+\."WHAAAAAAAAAAAAAAAT?!"
+##
+
+{Q-taro}
+#Message#
+\."What're you on about?!"
+##
+
+{Gin}
+#Message#
+"...Meow... meow..."
+##
+
+{Sara}
+#Message#
+\."Q-taro!
+ P... Please, don't shout!!"
+##
+
+#Message#
+\.\C[4](But what's the meaning of this...?
+ I need to get more details...!)
+##
+

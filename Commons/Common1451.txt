@@ -1,0 +1,97 @@
+**********Common1451********** (戦④全部)
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: Accent21-1}
+#Message#
+"If it's like before...
+ There should be tools to solve the puzzle..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But this time, I don't see those anywhere."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."I know the lockers won't open either...
+ So what exactly...?"
+##
+
+{Hayasaka}
+#Message#
+"Please... hurryyy...!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+"I'll save you, meow! Suit-and-specs!!"
+##
+
+{N/A}
+#Message#
+\C[3]Gin stepped back into the room.
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Myaaah...?!"
+##
+
+{Sara}
+#Message#
+"G... Gin!!"
+##
+
+{Keiji} [Keiji: Left arm down, stern / cara2-12]
+#Message#
+"Not good! This room's dangerous!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's magnetism...! The black plate on the ceiling
+ is pulling in their collars!!"
+##
+
+{Sara}
+#Message#
+\C[4](No way!! That's practically...)
+##
+
+{SE: shock1}
+#Message#
+\.\C[4](Like they're being hanged...!!)
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Dammit! Where was that switch...?!
+ I'm looking around there, but there's nothing!"
+##
+
+[Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+\."And who knows what'll happen if I step
+ too much further into the room... Crap!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"I'm telling you! You can't do anything about this...!"
+##
+
+{Sara}
+#Message#
+\."We've never given up before!
+ If we think about it, surely...!"
+##
+
+{Hinako} [Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\."Just saying that doesn't make it true...!"
+##
+

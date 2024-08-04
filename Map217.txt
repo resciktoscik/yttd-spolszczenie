@@ -1,0 +1,491 @@
+=====Map217===== (★Battle Ranmaru Bomb)
+
+**********Event2********** (EV002) (4,0)
+-----Page1-----
+{N/A}
+{SE: horror_piano chord3}
+#Message#
+\C[3]Ranmaru's collar is making a warning sound.
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+"Now, take a look at the monitor on the ceiling."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent28-1}
+#Message#
+"That's the number of people
+ who will be sent a shock next."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."What happens when the shocks come in...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"Yah...!!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Waugh...!!"
+##
+
+<Condition End>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."That's... stronger than I expected."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Ahaha, isn't it?"
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's the first shock!
+ You get more \C[2]electrified\C[0] each time you're zapped!"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Let's try it once more..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Please, stop...!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Stop it...!!"
+##
+
+<Condition End>
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."That was the second shock...
+ And if you get more and more electrified..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Aaah...!!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Urgh...!!"
+##
+
+<Condition End>
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+{SE: Accent21-1}
+#Message#
+\."Three shocks... this is the limit."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: sceneswitch2}
+#Message#
+\."If you take \C[2]a fourth shock\C[0]...
+ You'll \C[2]pass out\C[0]!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."You mean...!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."If \C[2]just one person faints\C[0], you \C[2]fail\C[0] this game.
+ And you know what that means..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](We can't save Ranmaru...!)
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent28-1}
+#Message#
+\."But there is just one way
+ of resetting your charge back to zero!"
+##
+
+{N/A}
+#Message#
+
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent41-1}
+#Message#
+"Tadaaa! Wires connecting your collars to one another!"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent28-1}
+#Message#
+\."Hey, miss Sara? Press that switch next to you."
+##
+
+{Sara}
+#Message#
+\C[4](Me...?)
+##
+
+#Choice#
+Press the switch
+##
+
+<スイッチを押す>
+
+<Choice End>
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"Ow!! The electricity...!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Ahaha! Electricity flows to
+ \C[2]the person who pressed the switch\C[0]!"
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."In exchange... well, just take a look!"
+##
+
+{SE: sceneswitch2}
+#Message#
+"\C[2]The other people on your circuit\C[0] got reset, see?"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+"Absorb charge onto yourself to protect others...
+ That's what the game is!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."What about me?!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."Didn't I say that already? Unlike everyone else,
+ Ranmaru has to gather electricity."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Plenty of it... enough to make him faint."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Seriously...?"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+{SE: Accent28-1}
+#Message#
+\."So basically, \C[2]give charge to Ranmaru,
+ and keep it off the others\C[0]. That's it!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: sceneswitch2}
+#Message#
+\."Well then, it's about time to get started."
+##
+
+{Sara}
+#Message#
+\.\C[4](Wait...! Should we start like this?!)
+##
+
+#Choice#
+Clear my charge first
+Let's start now
+Explain it again
+##
+
+<私の電気を解除してくれ>
+
+{Sara} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+"Hold on, \N[4]!
+ Reset my charge first...!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: shrink1}
+#Message#
+\."Why?"
+##
+
+{Sara}
+#Message#
+\."Why...? Because I'm still electrified!
+ That's unfair!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\."Unfair, huh..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth open / cara96-8]
+#Message#
+"Gyeeee!! That hurts!!"
+##
+
+<Else>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"Gwahhh!! You bastard...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+"Gyaaaah?! What're you DOING?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent11-1}
+#Message#
+\."I've put everyone at 1 charge to make it even!
+ Okay, now have fun!"
+##
+
+{Sara}
+#Message#
+\."W... Wait! \N[4]...!!"
+##
+
+<このまま始めよう>
+
+{Sara} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+"Alright... Let's start now...!"
+##
+
+{\N[4]}
+{SE: Accent39-1}
+#Message#
+\."Ahaha, nice and obedient!
+ Well, good luck!"
+##
+
+<もう一度説明してくれ>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: sceneswitch2}
+#Message#
+\."Explain it one more time...!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Your goal is \C[2]to gather electricity on Ranmaru only\C[0]."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."Every turn, shocks will be sent
+ to a few people at random."
+##
+
+[Midori: Open-mouth frown / cara19-3]
+#Message#
+\."If you press the switch, you'll receive a shock,
+ but those on the same circuit as you will get reset."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."If you've taken three shocks, you're in danger.
+ \C[2]A fourth will make you faint!\C[0]"
+##
+
+[Midori: Mouth open / cara19-5]
+{SE: Accent24-1}
+#Message#
+\."Try your best to send your charge to Ranmaru!"
+##
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A} [Midori: Mouth open / cara19-5]
+#Message#
+\C[3]The wiring changed.
+##
+
+#Message#
+\C[3]Ranmaru's collar is making a warning sound.
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Ranmaru}
+#Message#
+"Oogh..."
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+"Grab the electrodes, everyone! I'm turning it on...!"
+##
+
+[Hinako: Furrowed brow / cara93-9]
+#Message#
+"Okay... so here's how it works..."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Oh, I'll explain."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Meooow?! Seaweed head!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Whoa there, you'll fail if you let go!
+ Just stay riiight where you are."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Listen up! The objective of this game
+ is to \C[2]gather electricity on Ranmaru\C[0]."
+##
+
+[Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+\."The electrodes you're holding onto
+ will \C[2]be sent electric shocks at random\C[0]..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: flash-of-light-3}
+#Message#
+\."So do your best sending that current toward Ranmaru!"
+##
+

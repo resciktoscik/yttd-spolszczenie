@@ -1,0 +1,146 @@
+**********Common1705********** (★ﾗﾝﾏﾙ「人形やろ！」)
+{Ranmaru}
+#Message#
+"You could clearly tell she was dying... Her legs were
+ in midair like she was hung from something, right?"
+##
+
+#Message#
+"What's goin' on?!
+ Hinako had a victim video, too!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<Else>
+
+[Ranmaru: Evil, smile / cara91-38]
+#Message#
+"...Haha."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<Else>
+
+[Ranmaru: Evil, smile / cara91-38]
+#Message#
+"...Haha."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+"Ain't no way she was faking dead...
+ She was definitely on her way out."
+##
+
+<Else>
+
+[Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+{SE: Accent42-1}
+#Message#
+"Ain't no way she was faking dead...
+ She definitely on her way out."
+##
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+[Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+"I remember it too...!"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."You could clearly tell she was dying... Her legs were
+ in midair like she was hung from something, right?"
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."And yet... Why would Hinako be \C[12]human\C[0]?!"
+##
+
+<Else>
+
+[Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+#Message#
+"I remember it too...!"
+##
+
+[Ranmaru: Evil, furrowed brow, closed mouth / cara91-48]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You could clearly tell she was dying... Her legs were
+ in midair like she was hung from something, right?"
+##
+
+[Ranmaru: Evil, hands out, furrowed brow, angry mouth / cara91-47]
+#Message#
+\."And yet... Why would Hinako be \C[12]human\C[0]?!"
+##
+
+<Condition End>
+

@@ -1,0 +1,23 @@
+**********Common187********** (Q 八分雨？)
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\C[3]Select Q-taro as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\.\C[4](No! Q-taro is Q-taro Burgerberg!
+ Wait, or was it Cubetaro Hamburger...?)
+##
+
+<いいえ>
+
+<Choice End>
+

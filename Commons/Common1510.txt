@@ -1,0 +1,53 @@
+**********Common1510********** (★ﾊﾞﾄﾙ⑥流れ)
+{N/A}
+#Message#
+\C[3]Maple entrusted the ID card to me.
+##
+
+{Sara}
+#Message#
+\."Thank you... Maple."
+##
+
+{Maple}
+#Message#
+\."..."\|\^
+##
+
+{SE: Sound2}
+#Message#
+\.\SP[12]"Head... hurts..."
+##
+
+{Sara}
+#Message#
+\."Ma... ple...?"
+##
+
+{Maple}
+#Message#
+\.\C[10]\SP[12]"Run, everyone..."
+##
+
+#Message#
+\{\C[10]"Enough!!"
+##
+
+#Message#
+\.\C[10]"If you won't give it back, I'll kill you all!!"
+##
+
+#Message#
+\.\C[10]"You'll die regretting taking Hiyori from me!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"Y-Yikes!! We can't...!!"
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, shouting / cara95-14]
+#Message#
+\."Tch! Get a grip, you...!"
+##
+

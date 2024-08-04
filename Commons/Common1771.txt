@@ -1,0 +1,73 @@
+**********Common1771********** (◆ｶﾝﾅ「死亡ズ」)
+{Kanna}
+#Message#
+"The deceased Dummies were
+ given doll bodies, weren't they..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Sorry...! Kanna doesn't get it..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Sorry...! Kanna doesn't get it..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent21-1}
+#Message#
+"It's unfortunate...
+ that they had it proven to them like this..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna...)
+##
+

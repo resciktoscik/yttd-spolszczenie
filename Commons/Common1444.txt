@@ -1,0 +1,17 @@
+**********Common1444********** (④ケイジB選択)
+{N/A}
+#Message#
+"First, let's observe and see what's going on here...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

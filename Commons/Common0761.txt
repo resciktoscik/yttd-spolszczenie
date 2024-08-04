@@ -1,0 +1,104 @@
+**********Common761********** (ｷﾞﾝ「ｶﾝﾅｵの差ある？」)
+{Gin}
+#Message#
+"Bucket girl had a lot of tokens,
+ and big sis Nao only had a little, woof."
+##
+
+#Message#
+"But... between bucket girl and big sis Nao...
+ Is there any real difference, woof...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"Meow...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+"I don't get it, woof..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+"I don't wanna chooooose..."
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+"All I can think of is tokens, meow."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+\."Bucket girl had a lot,
+ and big sis Nao only had a little, woof."
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\."What do we even do now, meow...?
+ Myaaaaa..."
+##
+
+{Sara}
+#Message#
+\."Tokens..."
+##
+

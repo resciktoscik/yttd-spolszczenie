@@ -1,0 +1,427 @@
+=====Map218===== (⑤Final Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Strange Man} [Meister: Default smile / cara17-8]
+{SE: Accent28-1}
+#Message#
+"Heyooo! I've been withering away waiting!"
+##
+
+{Sara}
+#Message#
+\.\C[4](W-What...?)
+##
+
+#Choice#
+Where is everyone?!
+What is this place...?
+##
+
+<みんなはどこだ！>
+
+{Sara} [Meister: Default smile / cara17-8]
+#Message#
+"Where's everyone in the coffins?!"
+##
+
+{Strange Man} [Meister: Hand on hat / cara17-9]
+{SE: shrink1}
+#Message#
+\."Aw, c'mon... Not even a hello?
+ They're fine, just fine. You'll meet 'em soon..."
+##
+
+<この場所はいったい…>
+
+{Sara} [Meister: Hand on hat / cara17-9]
+#Message#
+"What in the world is this place...?!"
+##
+
+{Strange Man}
+#Message#
+\."Why, the antechamber for the banquet!"
+##
+
+<Choice End>
+
+{Strange Man} [Meister: Hat in hand / cara17-10]
+{SE: Accent28-1}
+#Message#
+\."Oops, pardon me. I'm Meister,
+ who'll be overseeing proceedings for the banquet."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Now, I'm gonna have you select a \C[2]challenger\C[0]."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."What are you gonna make us do, meow?!"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."Whoa now... Can't tell you that yet."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."The game is \C[2]Russian Roulette\C[0]...
+ It's a test of luck between the challengers."
+##
+
+{SE: Accent28-1}
+#Message#
+"Allow me to introduce the other challenger..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+"\N[4]!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Quit it wit' the theatrics!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ahaha. Now, which coffin will you pick first?"
+##
+
+{Sara}
+#Message#
+\."First...?"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Accent41-1}
+#Message#
+"These..."
+##
+
+[Meister: Default smile / cara17-8]
+{SE: Accent28-1}
+#Message#
+\."The challengers... will go in these coffins."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Coffins again...?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Coffins again...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."More coffins...?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."Why, they're just the same kind
+ that were in the cemetery! No traps here."
+##
+
+[Meister: Default smile / cara17-8]
+{SE: flash-of-light-3}
+#Message#
+\."And they're brand new and unused... Lucky you!"
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent24-1}
+#Message#
+\."If you're scared, want me to pick first?"
+##
+
+{Sara}
+#Message#
+\."W-Wait...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."A-At any rate... Let's look 'em over
+ to make sure there's nothin' suspicious!!"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"A-Alright...
+ But let us check 'em a li'l more...!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]Q-taro inspected the coffins very carefully.
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: shrink1}
+#Message#
+"No need to put your sticky hands all over them...
+ There's no difference between the two coffins."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."...Seems that way."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+{SE: Accent21-1}
+#Message#
+\."Nothin' suspect. We'll go with the one Sara picked."
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."Okie-dokie!
+ Then I'll go in the one you didn't pick!"
+##
+
+{N/A}
+#Message#
+\C[3]\N[4] got in the right coffin.
+##
+
+#Message#
+\C[3]\N[4] got in the left coffin.
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"W-Was this really the right one...?"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent21-1}
+#Message#
+\."Now for you to decide on a challenger...
+ Feel free to take your time thinkin' it over."
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Though not so long the Dummies
+ run out of battery, 'course."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+#Message#
+\."W-What should we do?! Who's gonna be confident
+ once we know what the game's like...?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."H-Hey! What do we do?! Should we volunteer ourselves,
+ or recommend who would be best...?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."What to do...?
+ Guessing the challenger will be in danger, as ever..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](We have to decide now?)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](We don't even know the rules...!)
+##
+
+{Gin} [Gin: Looking to side / cara9-21]
+{SE: Accent41-1}
+#Message#
+"I'll do it, meow..."
+##
+
+{Sara}
+#Message#
+\."Gin...?!"
+##
+
+#Choice#
+You can't
+Why suddenly...?
+I'll do it
+##
+
+<ダメだ>
+
+{Sara} [Gin: Looking to side / cara9-21]
+#Message#
+"No, it's dangerous...!!"
+##
+
+<どうして急に…>
+
+{Sara} [Gin: Looking to side / cara9-21]
+#Message#
+"W-Why are you suddenly...?!"
+##
+
+<私がやる>
+
+{Sara} [Gin: Looking to side / cara9-21]
+{SE: Accent21-1}
+#Message#
+"No... I'll do it."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I wouldn't recommend that..."
+##
+
+{Sara}
+#Message#
+\."You're chiming in...?"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent21-1}
+#Message#
+\."I'm offering you a hint...
+ seeing as you have the disadvantage."
+##
+
+{Gin} [Gin: Looking to side / cara9-21]
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Gin} [Gin: Looking to side, raised eyebrows / cara9-22]
+#Message#
+\."I'm... always the one being protected, woof..."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."You're all nice, so you'd never pick me
+ at times like this, meow..."
+##
+
+[Gin: Horrified look / cara9-4]
+#Message#
+\."But... if that meant only I survived..."
+##
+
+[Gin: Looking to side, raised eyebrows / cara9-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm sure I'd regret it, woof...
+ I'd feel like I was a burden...!"
+##
+
+[Gin: Looking to side / cara9-21]
+#Message#
+\."So I want you to let me do it, woof...!!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+\."I wanna know there were people
+ who I saved by being there, woof!!"
+##
+
+{Sara}
+#Message#
+\."That's... You already have...!"
+##
+
+{Gin} [Gin: Looking to side / cara9-21]
+#Message#
+\."Because... I love all of you guys...!!"
+##
+
+{Sara}
+#Message#
+"Gin...!!"
+##
+
+#Message#
+"A... Ahhh..."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+"Now let's move on... It's about time to start."
+##
+
+
+**********Event2********** (deguti-EV) (8,12)
+-----Page1-----
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+"Go ahead and check until you're satisfied."
+##
+
+-----Page2-----
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]A passage continues further in.
+##
+
+#Choice#
+Proceed
+Cancel
+##
+
+<進む>
+
+<やめる>
+
+<Choice End>
+

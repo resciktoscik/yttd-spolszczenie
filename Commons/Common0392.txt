@@ -1,0 +1,64 @@
+**********Common392********** (１－夜後イベント)
+{Sara}
+#Message#
+\C[4](It's gotten late already...
+ I can't even maintain concentration...)
+##
+
+#Message#
+\.\C[4](Guess I'll call it a day...)
+##
+
+#Message#
+\C[4](Good night...)
+##
+
+#Message#
+\C[4](Hmm...?)
+##
+
+#Message#
+\C[4](There's some commotion going on outside...)
+##
+
+#Message#
+\.\C[4](What could've happened this late at night?)
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+"Big sis Sara... It's terrible, meow..."
+##
+
+{Sara}
+#Message#
+\."W... What is it, Gin?!"
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."The old guy..."
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+{SE: shock1}
+#Message#
+\."Was killed... woof."
+##
+
+{Sara}
+#Message#
+\."...Huh?"
+##
+
+[Gin: Horrified look / cara9-4]
+#Message#
+\."Come to the Monitor Room... meow..."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](The old guy... Wait, who...?)
+##
+

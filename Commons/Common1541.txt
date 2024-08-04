@@ -1,0 +1,17 @@
+**********Common1541********** (⑧アリスB選択)
+{N/A}
+#Message#
+"Hmph! I'll simply absorb the charge..."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

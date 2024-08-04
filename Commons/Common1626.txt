@@ -1,0 +1,1015 @@
+**********Common1626********** (３前【汎用タッチ】)
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](This part of the platform...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](It shows the number of each coffin.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](So what are these \C[2]round lamps\C[4] beneath the numbers...?)
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+"Hey, whoa! Don't go casually pressin' that!"
+##
+
+{Sara}
+#Message#
+\."...Will you tell me about it?"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."Of course! See, these lamps are..."
+##
+
+[Meister: Hat in hand / cara17-10]
+{SE: Accent41-1}
+#Message#
+\."...A \C[2]hint function\C[0]."
+##
+
+{Sara}
+#Message#
+\."Hint...?"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Accent21-1}
+#Message#
+\."Yep! This is a game where you and \N[4]
+ \C[2]take turns selecting coffins\C[0], but..."
+##
+
+[Meister: Default smile / cara17-8]
+{SE: flash-of-light-3}
+#Message#
+\."Before each selection, you can get one hint!"
+##
+
+{Sara}
+#Message#
+\."Once before each selection..."
+##
+
+#Choice#
+Can my opponent use it too?
+Can I pass on using it?
+##
+
+<相手も使えるのか？>
+
+{Sara} [Meister: Default smile / cara17-8]
+{SE: Accent41-1}
+#Message#
+"Can \N[4] use that too...?"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Accent21-1}
+#Message#
+\."Yes ma'am! And I'm sure he will!"
+##
+
+<使わなくても良いんだな？>
+
+{Sara} [Meister: Hand on hat / cara17-9]
+{SE: Accent41-1}
+#Message#
+"We can always choose not to use it, right?"
+##
+
+{Meister}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Wouldn't recommend it! Use it or lose - that's it!
+ And \N[4]'ll have no qualms using his!"
+##
+
+<Choice End>
+
+{Sara} [Meister: Hand on hat / cara17-9]
+#Message#
+\."And what exactly are these hints?"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+\."Too bad! Explanation ends here!"
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: Accent24-1}
+#Message#
+\."Just see what happens and think about it!"
+##
+
+{Sara}
+#Message#
+\.\C[4](W-What...?!)
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent40-1}
+#Message#
+\."You're good at puzzles, ain'tcha?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](Urgh! Do we just have to use it...?)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+\."Sara... Let's test it out."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent40-1}
+#Message#
+\."We've narrowed it down to five...
+ I'm sure it won't be a waste!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...You're right."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent40-1}
+#Message#
+\."We've narrowed things down to five...
+ Can't make any more progress on that front."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...That's true."
+##
+
+<Condition End>
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Then I'll explain how to use it."
+##
+
+[Meister: Default smile / cara17-8]
+{SE: sceneswitch2}
+#Message#
+\."Put the coffin you wanna use a hint on \C[2]right in front\C[0],
+ then \C[2]touch the platform\C[0]."
+##
+
+{Sara}
+#Message#
+\.\C[4](Alright...)
+##
+
+{SE: sceneswitch2}
+#Message#
+"I'll choose one of the glowing coffins
+ to use a hint on...!"
+##
+
+{N/A}
+#Message#
+
+　　　　　　　 \C[3]The Path Shown by the Hint
+##
+
+{Sara}
+#Message#
+\C[4](Urgh...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](If we can only use it once,
+ I can't choose aimlessly...)
+##
+
+#Message#
+\.\C[4](I want to narrow things down to an extent first.)
+##
+
+#Message#
+\.\C[4](I think we need to discuss after all...)
+##
+
+{SE: Accent42-1}
+#Message#
+\C[4](The one in front is coffin #\V[405]...!
+ Should I use the hint on this?)
+##
+
+#Choice#
+Use hint
+Cancel
+##
+
+<ヒント機能を使う>
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Hold up, Sara!!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."We know Gin and \N[4]
+ are in glowing coffins, remember?!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."If we use a hint... It's only gonna be effective
+ if we use it on a glowing coffin!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]I pressed the lamp.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](It lit up red...?)
+##
+
+{SE: Accent42-1}
+#Message#
+\C[4](The one in front is coffin #\V[405]...!
+ Should I choose this...?)
+##
+
+#Choice#
+Confirm
+Cancel
+##
+
+<決定する>
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"H-Hey, Sara!!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent21-1}
+#Message#
+\."Pickin' a coffin that's not glowin'...
+ Surely that ain't it, right...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Let's pick one we can all agree on...
+ We're allies, right?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Surely we should choose one we can all agree on!
+ Yes, Sara Chidouin...?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Let's pick one we can at least agree on.
+ This isn't the Main Game..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\C[4](This one...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](We might choose Gin otherwise...
+ I can't take such a risky bet.)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](As long as we get through \N[4]'s turn,
+ I'm sure we'll still have a chance!)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](We have to hit \N[4] to win...
+ We can't take detours.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](It may be one in four... But I'll go for it!)
+##
+
+{N/A}
+{SE: WON-baratto01}
+#Message#
+\.\C[3]I selected the coffin.
+##
+
+{Sara}
+{SE: Accent42-1}
+#Message#
+\C[4](\N[4] said coffin #\V[984]...
+ Should I choose this...?)
+##
+
+#Choice#
+Use hint
+Cancel
+##
+
+<ヒント機能を使う>
+
+<やめる>
+
+<Choice End>
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent21-1}
+#Message#
+"Hey now, missy, no cheating!"
+##
+
+[Meister: Hand on hat / cara17-9]
+#Message#
+\."I'll be watching to make sure
+ you do as \N[4] says."
+##
+
+{Sara}
+#Message#
+\.\C[4](Seems I can't deceive him here...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I summoned my resolve...
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]...and pressed the lamp.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Eh...?)
+##
+
+{SE: Accent42-1}
+#Message#
+\.\C[4](It lit up... blue...)
+##
+
+{SE: Accent42-1}
+#Message#
+\C[4](The one in front is coffin #\V[405]...!
+ Should I use the hint on this?)
+##
+
+#Choice#
+Use hint
+Cancel
+##
+
+<ヒント機能を使う>
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Hold up, Sara!!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."We know Gin and \N[4]
+ are in glowing coffins, remember?!"
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."If we use a hint... It's only gonna be effective
+ if we use it on a glowing coffin!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"No more use for a hint on that coffin..."
+##
+
+{N/A}
+#Message#
+\C[3]I summoned my resolve...
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]...and pressed the lamp.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](It lit up... red...!)
+##
+
+{SE: Accent42-1}
+#Message#
+\C[4](The one in front is coffin #\V[405]...!
+ Should I choose this...?)
+##
+
+#Choice#
+Confirm
+Cancel
+##
+
+<決定する>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](No...)
+##
+
+#Message#
+\.\C[4](I should choose \N[4],
+ in one of the glowing coffins...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](In other words, the coffin with the red hint...)
+##
+
+#Message#
+\C[4](This one...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](The #\V[981] coffin I first used a hint on...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](I choose... the coffin I used the hint on...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I'll trust my gut...!)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I'll defeat \N[4]...
+ and protect everyone...!!)
+##
+
+{N/A}
+{SE: WON-baratto01}
+#Message#
+\.\C[3]I selected the coffin.
+##
+
+{Sara}
+{SE: Accent42-1}
+#Message#
+\C[4](It's no use... My mind won't work...)
+##
+
+#Choice#
+Use hint
+Cancel
+##
+
+<ヒント機能を使う>
+
+<やめる>
+
+<Choice End>
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent21-1}
+#Message#
+"You okay there, missy?"
+##
+
+[Meister: Hand on hat / cara17-9]
+#Message#
+\."\N[4] specified a glowing coffin, right?
+ If you can't do it, I'll do it for ya."
+##
+
+{Sara}
+#Message#
+\.\C[4](...A glowing coffin...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I can't think at all anymore...
+##
+
+#Message#
+\.\C[3]And yet... I did as \N[4] said...
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]I pressed... the lamp.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](..........)
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[4](It lit up... blue...)
+##
+
+{SE: Accent42-1}
+#Message#
+\C[4](Coffin #\V[405]...! Should I use the hint...?)
+##
+
+#Choice#
+Use hint
+Cancel
+##
+
+<ヒント機能を使う>
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Calm down, Sara! We should choose one of the
+ non-glowing coffins we ain't proven anything about..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent21-1}
+#Message#
+\."'Cause \N[4] is in Hinako's coffin...!"
+##
+
+{N/A}
+#Message#
+\C[3]This is... the last hint.
+##
+
+#Message#
+\.\C[3]If we don't learn something...
+there's nothing more we can do.
+##
+
+#Message#
+\.\C[3]Still, I... summoned my resolve...
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]...and pressed the lamp.
+##
+
+{Sara}
+#Message#
+\C[4](...?)
+##
+
+{SE: sceneswitch2}
+#Message#
+\."It lit up... blue...?!"
+##
+
+{SE: Accent42-1}
+#Message#
+\C[4](We'll definitely find \N[4]...!
+ Is coffin #\V[405] the one...?)
+##
+
+#Choice#
+Confirm
+Cancel
+##
+
+<決定する>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\C[4](W... Wait! This is wrong!)
+##
+
+#Message#
+\.\C[4](I should choose a non-glowing coffin
+ that we haven't proven anything about yet...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](There are only two left...)
+##
+
+#Message#
+\.\C[4](We'll definitely find him!!)
+##
+
+{SE: Accent28-1}
+#Message#
+\C[4](I've decided...!)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](The person inside here...
+ is either \N[4] or Ranmaru...)
+##
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+[Ranmaru: Hands in pockets, mouth closed / cara91-16]
+{SE: heart2}
+#Message#
+\C[4](If I miss... Gin and Ranmaru will both die...)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]My hands tremble.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Even knowing I have no choice but to press it.
+##
+
+{Sara}
+#Message#
+\."*pant*...! *pant*...!"
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](Please... Give me courage...!)
+##
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: Accent28-1}
+#Message#
+"Good luck, big sis Sara!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, raised-eyebrows smile / cara91-25]
+{SE: Accent21-1}
+#Message#
+\."Do it... Sara...!"
+##
+
+[Ranmaru: Hands in pockets, closed-eyes smile / cara91-24]
+{SE: Accent40-1}
+#Message#
+\."...I'm sure you can win."
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](..........)
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, closed mouth / cara91-39]
+{SE: heart2}
+#Message#
+\C[4](If I miss... Gin and Ranmaru will both die...)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]My hands tremble.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Even knowing I have no choice but to press it.
+##
+
+{Sara}
+#Message#
+\."*pant*...! *pant*...!"
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](Please... Give me courage...!)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Good luck, big sis Sara!"
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: Accent40-1}
+#Message#
+\."I believe in you, meow...!!"
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](..........)
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+[Gin: Default / cara9-1]
+{SE: heart2}
+#Message#
+\C[4](If I miss... Gin will die...)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]My hands tremble.
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]Even knowing I have no choice but to press it.
+##
+
+{Sara}
+#Message#
+\."*pant*...! *pant*...!"
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](Please... Give me courage...!)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Good luck, big sis Sara!"
+##
+
+[Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: Accent40-1}
+#Message#
+\."I believe in you, meow...!!"
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](..........)
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{N/A}
+#Message#
+\C[3]I...
+##
+
+{SE: WON-baratto01}
+#Message#
+\.\C[3]Selected... the coffin.\.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](We've come to the answer...
+ \N[4] is in \C[10]#\V[994]\C[4]... Gin is in \C[12]#\V[990]\C[4]...)
+##
+
+#Message#
+\.\C[4](...Should I choose #\V[405]...?)
+##
+
+#Choice#
+Confirm
+Cancel
+##
+
+<決定する>
+
+{Sara} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\C[4](I can't be picking unrelated coffins now...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\C[4](Is this... really okay...?)
+##
+
+#Choice#
+Confirm
+Cancel
+##
+
+<決定する>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: Accent28-1}
+#Message#
+\C[4](..........)
+##
+
+#Message#
+\.\C[4](...This is...)
+##
+
+#Message#
+\.\C[4](My final...)
+##
+
+#Message#
+\.\C[4](...decision.)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+"Don't do it... Sara."
+##
+
+{Sara}
+#Message#
+\."B-But...!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If I don't... you'll..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...We'll save Gin."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent40-1}
+#Message#
+\."I know... you can do it."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](..........)
+##
+
+{N/A}
+#Message#
+\.\C[3]Once I push it... it'll all end.
+##
+
+{SE: heart2}
+#Message#
+\.\C[3]I'll save Gin, defeat \N[4]...
+##
+
+{SE: heart2}
+#Message#
+\.\C[3]And Keiji will...
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+"It's all right... Sara."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Keiji..."
+##
+
+{N/A}
+#Message#
+\.\C[3]My hands tremble...
+##
+
+#Message#
+\.\C[3]But...
+##
+
+#Message#
+\.\C[3]With the last of my strength...
+##
+
+{SE: WON-baratto01}
+#Message#
+\.\C[3]I selected... the coffin.
+##
+

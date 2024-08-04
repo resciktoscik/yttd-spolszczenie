@@ -1,0 +1,26 @@
+**********Common482********** (時限イベント３)
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+"It's nearly time for the second injectiooon!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[15]"My head... huuurts... My tummy's grumbling..."
+##
+
+{Sara}
+#Message#
+\."Gin...!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Dammit!! Ranger...!!!!"
+##
+
+{Sara}
+#Message#
+\."Urgh... We just have to focus!!"
+##
+

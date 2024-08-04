@@ -1,0 +1,7 @@
+**********Common403********** (腕相撲勝利)
+{N/A}
+{SE: Applause1}
+#Message#
+\C[3]Won the battle.
+##
+

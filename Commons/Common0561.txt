@@ -1,0 +1,347 @@
+**********Common561********** (ﾚｺ「数字の関連物」)
+{Reko}
+#Message#
+"Is 35.5 a number related to Gin,
+ since he's the target of the stinger...?
+ Nah, can't be..."
+##
+
+#Message#
+"Alright then, let's have the platform we're on
+ extend up another 35.5 meters!!"
+##
+
+#Message#
+"It's gotta be related to an action!
+ How about we all do 35.5 pushups, Sara?!"
+##
+
+#Message#
+"If we just figure out what it's related to,
+ that should give us a hint!
+ A person, an object, an action...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"What's up? You think that was wrong?"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Hey, Sara. Which do you think the number'd be
+ most related to? A person, object, or action?"
+##
+
+{Sara}
+#Message#
+\.\C[4](The most relevant thing to the number 35.5...)
+##
+
+#Choice#
+Person
+Object
+Action
+Cancel
+##
+
+<人>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."How about a person?!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."A person? In that case..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."Wonder if it could be a number related to Gin,
+ up being targeted by the stinger...?"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Hah... Got no proof though.
+ It's just a suggestion."
+##
+
+{Sara}
+#Message#
+\.\C[4](A number related to Gin...?)
+##
+
+<物>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."How about an object?!"
+##
+
+{Reko}
+#Message#
+\."An object... Speaking of objects..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Maybe the platform we're riding on?"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+{SE: flash-of-light-3}
+#Message#
+\."Alright then, let's have it extend up
+ another 35.5 meters!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko's panicking...!)
+##
+
+<行動>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."How about an action?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."A-An action? I see..."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent28-1}
+#Message#
+\."Then maybe everybody should do 35.5 pushups!
+ What do you think, Sara?!"
+##
+
+{Sara}
+#Message#
+\."I definitely don't think that's it...!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Well we won't know 'til we try, right?!?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko's eyes are serious...!
+ But that's absolutely not it!!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"Honestly, I got no guesses here..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Hey, Sara. Which do you think the number'd be
+ most related to? A person, object, or action?"
+##
+
+{Sara}
+#Message#
+\.\C[4](The most relevant thing to the number 35.5...)
+##
+
+#Choice#
+Person
+Object
+Action
+##
+
+<人>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."How about a person?!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."A person? In that case..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."Wonder if it could be a number related to Gin,
+ up being targeted by the stinger...?"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Hah... Got no proof though.
+ It's just a suggestion."
+##
+
+{Sara}
+#Message#
+\.\C[4](A number related to Gin...?)
+##
+
+<物>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."How about an object?!"
+##
+
+{Reko}
+#Message#
+\."An object... Speaking of objects..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Maybe the platform we're riding on?"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+{SE: flash-of-light-3}
+#Message#
+\."Alright then, let's have it extend up
+ another 35.5 meters!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko's panicking...!)
+##
+
+<行動>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."How about an action?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."A-An action? I see..."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+{SE: Accent28-1}
+#Message#
+\."Then maybe everybody should do 35.5 pushups!
+ What do you think, Sara?!"
+##
+
+{Sara}
+#Message#
+\."I definitely don't think that's it...!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Well we won't know 'til we try, right?!?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko's eyes are serious...!
+ But that's absolutely not it!!)
+##
+
+<Choice End>
+

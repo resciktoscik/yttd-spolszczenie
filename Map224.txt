@@ -1,0 +1,20 @@
+=====Map224===== (Monitor Cemetery)
+
+**********Event18********** (annzu) (11,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The coffin Anzu was in. It's completely destroyed.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm sorry...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The coffin Anzu was in.
+##
+

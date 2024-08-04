@@ -1,0 +1,475 @@
+=====Map78===== (③Relaxation Room)
+
+**********Event2********** (alice) (14,7)
+-----Page1-----
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."Ahh... I'm gonna look over there.
+ Come tell me when you wanna go elsewhere."
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko...)
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."You, Sara Chidouin.
+ There's a courtyard here... Don't you think it odd?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Maybe it leads outside?
+I want to bask in the sun
+##
+
+<外につながってるのでは？>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... Of course it wouldn't.
+ It's only the appearance of a courtyard."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."A fake sky... a fake feeling of freedom...
+ This place is no different from a prison."
+##
+
+<日光に当たりたいですね>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... It's fake sunlight anyhow.
+ That's not a real sky."
+##
+
+#Message#
+\."If you want to ease the suffocation regardless,
+ though, why not go out there? Mwahaha..."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Can we talk for a sec, Alice?"
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."I refuse. ...If you have business with me,
+ come when I'm alone, Keiji Shinogi."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Right then."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."He really is a little scary, isn't he..."
+##
+
+-----Page2-----
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."This place... is no different from a prison."
+##
+
+-----Page4-----
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."I wish I could return to the real clink soon..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't care for him saying "clink"...)
+##
+
+-----Page7-----
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."My heart isn't ready yet!!
+ Please give me some time!!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... Sara Chidouin...
+ What of Reko's tokens?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm...)
+##
+
+#Choice#
+I obtained them
+Haven't gotten them yet
+##
+
+<手に入れました>
+
+{Sara} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."I got them for you."
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."Huh?! So fast?!"
+##
+
+{Sara}
+#Message#
+\."I fulfilled my end of the promise.
+ Now it's your turn, Alice."
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Hold on, please!
+ I need more time to mentally prepare!!"
+##
+
+{Sara}
+#Message#
+\."Then I'll hand these over first.
+ Tell me when you're ready."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Handed Alice 20 Reko Tokens.
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."G... Got it. I've taken them...
+ I am a man, and shall not flee...!"
+##
+
+#Message#
+\."What's that...?! Show them to me!!"
+##
+
+{Sara}
+#Message#
+\."Ah, just kidding."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."I'll mop the floor with you, y'hear?!"
+##
+
+<まだもらってません>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Hmm, seems you're having more trouble
+ than your earlier statements would belie."
+##
+
+{Sara}
+#Message#
+\."Yes. But I will definitely collect them."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Urk... U-Understood.
+ I'll also... prepare myself mentally."
+##
+
+<Choice End>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Moving with these handcuffs, chains,
+ and iron ball is such a nuisance... It's stressful."
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah... He is always wearing those.)
+##
+
+#Choice#
+They suit you
+Let's tear them off
+##
+
+<似合ってます>
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."There's no joy in that!!
+ Whoever these "suit" must be the worst, right?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That didn't make him happy.)
+##
+
+<引きちぎりましょう>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."I tried, but... it was no use."
+##
+
+{Sara}
+#Message#
+\.\C[4](So he did try...?)
+##
+
+<Cancel>
+
+<Choice End>
+
+
+**********Event17********** (EV017) (1,0)
+-----Page1-----
+{Alice} [Alice: Default glare / cara11-1]
+{SE: Accent28-1}
+#Message#
+\."Hmph... What is it, Sara Chidouin?"
+##
+
+{Sara}
+#Message#
+\."Alice."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...I take it you have business with
+ the attractions beyond here?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I thought so... Attractions appeared here?"
+##
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+{SE: Accent21-1}
+#Message#
+\."What, you didn't notice?
+ Mwahaha... so my observational skill is superior..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Over there, and there... and here!"
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Discovered 3 Death Attractions.
+##
+
+#Message#
+\.\C[3]You can select attractions via the Move menu.
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Challenge them if you're up to it.
+\! ...And tell me if you seek my observational skills."
+##
+
+
+**********Event18********** (gin1-2) (2,6)
+-----Page1-----
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Even if it's a fake-outside, it feels nice, meow!"
+##
+
+-----Page3-----
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Big sis Sara, did you collect enough stars, meow?"
+##
+
+{Sara}
+#Message#
+\."You mean Clear Chips?
+ ...Not yet."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Then I'll come with you
+ for attractions anytime, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Has Gin collected enough...?)
+##
+
+
+**********Event21********** (reko2-3) (5,6)
+-----Page1-----
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."...How long's my body been like this...?"
+##
+
+
+**********Event22********** (alice-kou) (13,8)
+-----Page1-----
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Err... there's no need to be afraid."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."R-Right! I-I'm not afraid at all!
+ S-So what did you want to t-talk about...?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Err, yes, well... I wanted to know, um...
+ who you've traded tokens with..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Alice... He's doing his best to collect
+ Reko's tokens...!\! From people other than Reko!)
+##
+
+-----Page3-----
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I should... probably buy a prize..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Ah... Sara."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Sara, how are you using the tokens you've gotten?"
+##
+
+{Sara}
+#Message#
+\."My tokens...?"
+##
+
+#Choice#
+I've been trading them
+Haven't used them
+Haven't gotten any
+##
+
+<景品と交換>
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."Yeah, of course... We know nothing about
+ the Death Game, so it's best to get more info..."
+##
+
+<使ってない>
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Is that true...?
+ I can't think of how to use them either...
+ I've been unsure what I should do."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Sure enough... We probably need to buy the prizes
+ to know more about the Death Game..."
+##
+
+<集めていない>
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Is that true?
+ Gin's been doing the same thing..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I have a few, so... I'm wondering if I should
+ go to the Prize Exchange for info on the Death Game."
+##
+
+<Choice End>
+
+{Nao} [Nao: Closed eyes / cara7-16]
+#Message#
+\."Should I buy a prize, I wonder...?"
+##
+
+-----Page5-----
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."Um... I'm short on Clear Chips...
+ So I was wondering if I could trade you for some..."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Huh, you're still collecting them...?
+ But... springing that on me all of a sudden..."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."I don't want to trouble Sara or Reko..."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."A-All right... I'll think of something."
+##
+
+-----Page6-----
+{Nao} [Nao: Closed-eyes smile / cara7-12]
+#Message#
+\."Truly... thank you very much."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... Good for you."
+##
+
+{Sara}
+#Message#
+\.\C[4](What's this?
+ They got a little friendlier at some point...)
+##
+

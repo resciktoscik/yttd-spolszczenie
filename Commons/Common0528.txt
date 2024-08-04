@@ -1,0 +1,113 @@
+**********Common528********** (ﾚｺ「オレは知らん」)
+{Reko}
+#Message#
+"I was asleep when the monitor was broken!
+ It's true!"
+##
+
+#Message#
+"At any rate, I didn't break the monitor!!
+ I dunno what this is about!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"Dammit... I dunno what's going on anymore!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"If you're saying there's a fake...
+ Hell, I wanna go along with it myself!"
+##
+
+{Sara}
+#Message#
+\."Well then, Reko, what were you doing
+ when the monitor was broken?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."I was sleeping! I'm not lying!"
+##
+
+{Sara}
+#Message#
+\.\C[4](It doesn't feel like she is... but...)
+##
+

@@ -1,0 +1,22 @@
+**********Common1477********** (★ﾊﾞﾄﾙ⑤流れ)
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent21-1}
+#Message#
+"Dammit...! I'll do it again and again!"
+##
+
+{N/A}
+#Message#
+\C[3]Keiji's collar started acting differently.
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+"This sound...!!"
+##
+
+{Keiji} [Keiji: Turned to side, gripping face and sweating / cara2-18]
+#Message#
+"...!!"
+##
+

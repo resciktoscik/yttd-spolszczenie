@@ -1,0 +1,25 @@
+**********Common635********** (交渉ー地獄ジョー)
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+".........."
+##
+
+#Choice#
+Discuss
+Pierce his body
+Cancel
+##
+
+<話し合う>
+
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+".........."
+##
+
+<身体を貫く>
+
+<やめる>
+
+<Choice End>
+

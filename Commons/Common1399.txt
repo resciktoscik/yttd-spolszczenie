@@ -1,0 +1,120 @@
+**********Common1399********** (呼・ヒナコ映像)
+{Voice}
+#Message#
+".........."
+##
+
+{Hinako}
+#Message#
+".........."
+##
+
+#Message#
+\.".........."
+##
+
+{Voice}
+#Message#
+\.\C[10]"Ahhh, worthless...
+ You had to die so easily..."
+##
+
+{Ranger}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]"Struggle some more...
+ Cling to life... Put up a miserable resistance...!"
+##
+
+#Message#
+\.\C[10]"A boring human... a worthless life..."
+##
+
+#Message#
+\.\C[10]"...I don't need your damn clothes."
+##
+
+{Hinako}
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\sp[12]"...haha..."
+##
+
+{Ranger}
+#Message#
+\.\C[10]"...Ehh?"
+##
+
+{Hinako}
+#Message#
+\.\sp[12]"...you... did this...?"
+##
+
+{Ranger}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[10]"...Eheehee. Sure did.
+ You mortified? Regretful?"
+##
+
+{Hinako}
+#Message#
+\.\sp[12]"...I was just..."
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sp[12]"...wanting to die..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\sp[10]"...thank... you..."
+##
+
+{Ranger}
+#Message#
+\.\C[10]".........."
+##
+
+#Message#
+\.\C[10]"...Huh?"
+##
+
+#Message#
+\.\C[10]"Huhhh? Hwahhh?"
+##
+
+#Message#
+\.\C[10]"You should be MISERABLE...!!
+ Disgusting... disgusting!!"
+##
+
+#Message#
+\.\C[10]"This is pissing me off!! I'm pissed off!!"
+##
+
+{SE: feed1}
+#Message#
+\.\C[10]"SUFFER!!"
+##
+
+{SE: feed1}
+#Message#
+\.\C[10]"Go to hell!! GO TO HELL!!"
+##
+
+{SE: Damage4}
+#Message#
+\.\C[10]"You're gonna REGRET thanking me!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The video ends here.
+##
+

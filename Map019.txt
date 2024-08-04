@@ -1,0 +1,222 @@
+=====Map19===== (Passage to Bar)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"There's a green vending machine here."
+##
+
+#Message#
+\."Seems to sell drinks... But I've got no money."
+##
+
+
+**********Event4********** (ダーツ) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fancy dart.
+It's extremely solidly-made.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event5********** (シガーカッター) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar cutter.
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Event6********** (はまき) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar with high-quality wrapping.
+##
+
+
+**********Event7********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event8********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event9********** (ダミー団) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Dummy bullets. I have 6. If you pull the trigger
+with these, it'll only make a sound.
+##
+
+
+**********Event10********** (あたり) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Live bullets. I have 3.
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Event11********** (１０００) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A 1000-yen bill.
+Paper money usable in Japan.
+##
+
+
+**********Event12********** (zihan) (5,3)
+-----Page1-----
+#Message#
+\C[3]A vending machine with high prices.
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+"Both water and soda cost 1000 yen?!
+ Wow! What must that even taste like?!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Water and soda... Both cost 1000 yen.
+ Talk about price gouging."
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I put in the 1000-yen bill I have?)
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{N/A} [Sou: Mouth open / cara5-1]
+{SE: warning2}
+#Message#
+\C[3]Obtained a \C[10]Left Arm\C[3].
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Whoa...!"
+##
+
+#Message#
+"...! Is that a doll arm?!"
+##
+
+[Joe: Upset groan / cara1-16]
+#Message#
+\."It's way too realistic...
+ Wish they'd cut it out..."
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Oh, lemme hold onto it, Sara.
+ Be grateful!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Water and soda... Both cost 1000 yen.
+ Talk about price gouging."
+##
+
+<いいえ>
+
+<Choice End>
+
+-----Page2-----
+#Message#
+\C[3]A vending machine with high prices.
+##
+

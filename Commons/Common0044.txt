@@ -1,0 +1,126 @@
+**********Common44********** (ﾚｺ・自己紹介)
+{Reko}
+#Message#
+"...Reko Yabusame.
+ I'm a singer-songwriter."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"If the kidnappers threw out my stuff...
+ I'm gonna beat their asses!"
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+"Just like the flirty guy said, my band's made
+ enough of a name to get into magazines."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."Don't call me "the flirty guy"..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."We'd finally made it to the starting line.
+ The whole future stretched ahead of us..."
+##
+
+{Woman in Overalls} [Nao: Mouth open / cara7-1]
+#Message#
+\."Um... is that makeup... for performances?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Like hell! The fan's'd weep
+ if I went on stage looking this plain."
+##
+
+{Sara}
+#Message#
+\.\C[4](That's "plain"?)
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."I finished a new track, so I had plans to meet
+ with my bandmates... and then this shit happens!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](For a session, I guess?)
+##
+
+#Choice#
+Was your instrument taken?
+You can't contact them?
+##
+
+<楽器は奪われたんですか？>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."...Probably.
+ Dammit... To lose something so important..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."My precious bongos...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Bongos...)
+##
+
+<連絡はとれないんですか？>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"...Naturally, all my stuff's gone."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."My precious bongos, my phone, my wig...
+ It's all gone!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Bongos...)
+##
+
+<Choice End>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Goddamn kidnappers! If you threw out my stuff,
+ I'm gonna beat your ass so hard...!"
+##
+
+{Woman in Overalls} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."I-Is now the time to worry about belongings...?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Some of that stuff's as important as my life!!"
+##
+
+{Woman in Overalls} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."I-I'm sorry!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](All her stuff was taken, huh...)
+##
+

@@ -1,0 +1,129 @@
+=====Map135===== (❹Chapter 2 Part Two OP)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+"Hey, you know what a majority vote is?"
+##
+
+#Message#
+                       1 vote...
+##
+
+#Message#
+                    Another vote...
+##
+
+#Message#
+"Huh? You didn't know they'd die?"
+##
+
+#Message#
+\."Ahaha..."
+##
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+{SE: Accent28-1}
+#Message#
+"Hey. Long time no see."
+##
+
+[Sou Silhouette: Smile / cara99-2]
+#Message#
+\."Well? Gotten used to majority votes yet?"
+##
+
+#Choice#
+Yes
+No
+Shut up
+##
+
+<はい>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+"Oh yeah? I'm glad."
+##
+
+[Sou Silhouette: Smile / cara99-2]
+#Message#
+\."At this rate, you can just vote for you who hate."
+##
+
+<いいえ>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+"Hmm... They're tricky, huh?"
+##
+
+[Sou Silhouette: Smile / cara99-2]
+#Message#
+\."But it's okay. Just vote for who you hate."
+##
+
+<うるさいな>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+"Ahaha, are you mad?"
+##
+
+[Sou Silhouette: Smile / cara99-2]
+#Message#
+\."Well, keep it up, and vote for who you hate."
+##
+
+<Choice End>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."Kill decisively so you can survive."
+##
+
+[Sou Silhouette: Smile / cara99-2]
+#Message#
+\."Kill the people who get in your way."
+##
+
+#Message#
+\."No big, no big. It's not like it's your fault."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Aren't I right, Sou Hiyori...?"
+##
+
+{Sou}
+#Message#
+\.".........."
+##
+
+{???}
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Huh...? Your countenance has really changed."
+##
+
+#Message#
+\."Ahaha, funny. Do your best."
+##
+
+{Sou}
+#Message#
+\.\C[4](..........)
+##
+
+-----Page2-----
+%ignore
+
+-----Page3-----
+%ignore
+
+
+**********Event2********** (EV002) (2,0)
+%ignore
+

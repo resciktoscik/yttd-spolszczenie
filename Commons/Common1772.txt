@@ -1,0 +1,71 @@
+**********Common1772********** (◆ｿｳ「死亡ズ」)
+{Sou}
+#Message#
+"The dead Dummies were given doll bodies, right?"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"...Explain it more clearly."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent42-1}
+#Message#
+"Nice to make things easier to think about. Ahaha."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+

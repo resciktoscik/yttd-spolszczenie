@@ -1,0 +1,663 @@
+**********Common812********** (⑰進展●「ｿｳの本音」)
+{Sou} [Sou: Hands out, bewildered eyes with bags / cara5-30]
+#Message#
+\."I..."
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."My real name is..."
+##
+
+[Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."Shin... Tsukimi...!!"\.
+##
+
+{Keiji} [Keiji: Left arm down, stern / cara2-12]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Hands out, bewildered eyes with bags / cara5-30]
+{SE: Accent21-1}
+#Message#
+\."I'll tell you everything...
+ Even the secret of that roster!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."You know about it, meow?!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes with bags / cara5-30]
+#Message#
+\."Yeah..."
+##
+
+#Message#
+\."Because that's exactly the same as
+ what I got in my First Trial...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](W... What'd he say?!)
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."Tell us!! What the heck does this thing mean?!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes with bags / cara5-30]
+{SE: Accent28-1}
+#Message#
+\."It's... \C[2]the victory rates\C[0]
+ for the participants in the Death Game."
+##
+
+#Message#
+\."There's the weird percentages on the left, right...?"
+##
+
+#Message#
+\."Those are... everyone's chances of surviving
+ the Death Game to the end... Their odds of winning!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."D... Dumbass!!
+ How would they figure that out?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Hmph... Foolishness!
+ How would they know such a thing?!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](Because...)
+##
+
+#Choice#
+They tested it with AIs
+They just sorta guessed
+##
+
+<人工知能でテストした>
+
+{Sara} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Thunder10}
+#Message#
+\."They used the AIs of us to run tests!!"
+##
+
+<なんとなくの印象で>
+
+{Sara} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."The kidnappers came up with them on gut feeling!"
+##
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."Err... Don't you think they might have
+ tested it using the AIs?!"
+##
+
+<Choice End>
+
+{Sou} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+"Right! They ran simulations of innumerable
+ Death Games, all done entirely digitally!!"
+##
+
+[Miley: Smile smile (darkened) / cara14-8]
+#Message#
+"They explained at horrible length to me
+ how accurate this data was...!"
+##
+
+#Message#
+\."And... I saw... my own percentage..."
+##
+
+{SE: shock1}
+#Message#
+\C[10]"0%..."
+##
+
+#Message#
+\.\sp[15]\C[10]"...Certain death."
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+{SE: sceneswitch2}
+#Message#
+\."I absolutely can't survive this Death Game..."
+##
+
+[Sou: Hands out, mouth open, grim face / cara5-35]
+#Message#
+\."That's why... I had to abandon "myself"...!!"
+##
+
+{Shin}
+#Message#
+\C[4](I don't want to die...)
+##
+
+#Message#
+\.\C[4](I can't stop shaking...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](I'm going to be killed...)
+##
+
+#Message#
+\.\C[4](Everyone will vote for me... and kill me...)
+##
+
+#Message#
+\.\C[4](I don't want that...!!)
+##
+
+{Voice}
+#Message#
+"Heeeeeyyy..."
+##
+
+{Own Shadow} [Sou Silhouette: Mouth open / cara99-1]
+{SE: horror_piano chord3}
+#Message#
+"Hiya."
+##
+
+{N/A}
+#Message#
+\C[3]A shadow illuminated by light spoke to me.
+##
+
+{Own Shadow} [Sou Silhouette: Smile / cara99-2]
+#Message#
+"Just a random question,
+ but you know what a \C[2]majority vote\C[0] is?"
+##
+
+{N/A}
+#Message#
+\C[3]He talked to me, and cornered me...
+##
+
+{Own Shadow} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+"Okay then... Let's go."
+##
+
+{Shin}
+#Message#
+\.\C[4](Gah...?!)
+##
+
+#Message#
+\.\C[4](It hurts...! St... op...!!)
+##
+
+{Own Shadow}
+#Message#
+\."Ahaha. Strength in numbers..."
+##
+
+#Message#
+\."You're a helpless sheep
+ who'll be eaten by the strong..."
+##
+
+#Message#
+\."If you don't wanna die... you change."
+##
+
+{Shin}
+#Message#
+\.\C[4](I...!!)
+##
+
+{Sou} [Sou: Hands out, mouth open, angry eyes with bags, grim face / cara5-33]
+#Message#
+\."I threw Shin Tsukimi away!!"
+##
+
+{Sara}
+#Message#
+\."Sou..."
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: sceneswitch2}
+#Message#
+\."Why assume the name Sou Hiyori...?
+ Was he an acquaintance...?"
+##
+
+{Sou} [Sou: Turned to side, clutching head in hands / cara5-37]
+{SE: Accent21-1}
+#Message#
+\."..........I wonder..."
+##
+
+<Condition End>
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Dear me, what a heartwrenching tale..."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: horror_piano chord3}
+#Message#
+\."But time has expired, everyone."
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."We're out of time...?!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Aah... Sorry... It's nearly time for voting."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Hold on a sec!! Our discussion...!!"
+##
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+{SE: sceneswitch2}
+#Message#
+\."...Did you make any progress?"
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."It was all unrelated to my transgression."
+##
+
+[Gashu: Raised eyebrow / cara16-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Revealing the truth of the roster...
+ Did that make any progress?"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Th... That's...!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Hey, Sou!
+ You got any more info on this roster?!"
+##
+
+<Else>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."Shin Tsukimi!!
+ Have you any more info on this roster?!"
+##
+
+<Condition End>
+
+{Sou} [Sou: Hands out, mouth open, grim face / cara5-35]
+#Message#
+\."If I did, I wouldn't hide it now!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Sara...!! Is there any other evidence
+ that proves his transgression?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Evidence of his transgression...)
+##
+
+#Choice#
+I have important evidence
+There isn't
+##
+
+<重要な証拠品がある>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I have... important evidence."
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+#Message#
+\."...Let us hear it. What would that be?"
+##
+
+[Gashu: Eyes closed / cara16-5]
+#Message#
+\."...Unfortunately, that appears to prove nothing."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gah! No way...!!)
+##
+
+<ない>
+
+{Sara} [Gashu: Eyes closed / cara16-5]
+#Message#
+\C[4](If that existed... it'd be long since presented!!)
+##
+
+<Choice End>
+
+{Sara} [Gashu: Eyes closed / cara16-5]
+#Message#
+\.\C[4](Is it hopeless...?)
+##
+
+#Message#
+\.\C[4](Maybe there's... nothing else we can do...)
+##
+
+{Sou} [Sou: Hands out, mouth open, angry eyes with bags / cara5-32]
+#Message#
+\."Are you giving up, Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+
+{Sou} [Sou: Hands out, bewildered eyes with bags / cara5-30]
+#Message#
+\."I... rewrote the blackboard... and also..."
+##
+
+[Sou: Hands out, mouth open, eyes with bags / cara5-31]
+{SE: Accent28-1}
+#Message#
+\."I destroyed my own monitor in the Monitor Room!!"
+##
+
+[Sou: Hands out, mouth open, angry eyes with bags / cara5-32]
+#Message#
+\."I've told you everything! Just like I swore!!"
+##
+
+[Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+{SE: Accent28-1}
+#Message#
+\."So please... save me..."
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\."Win us an extension, please...!!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Of course I will
+It's impossible
+##
+
+<当たり前です>
+
+{N/A} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+#Message#
+\.\C[3]I feel it...
+##
+
+#Message#
+\.\C[3]Sou's trust in me...
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[3]A real bond...!!
+##
+
+{Sara}
+{SE: Thunder10}
+#Message#
+\."Of course I will, Sou...!!"
+##
+
+{Sou} [Sou: Hands out, mouth open, eyes with bags / cara5-31]
+{SE: Accent21-1}
+#Message#
+\."Sara..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."This's our last chance!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Doesn't matter what!
+ Find something connected to this transgression!!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Let's think like mad about
+ anything connected to this transgression!!"
+##
+
+<Condition End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."We'll all think about it and win, meow!!
+ No slacking, loner!!"
+##
+
+{Sou} [Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."Yeah! I know!!"
+##
+
+<もう無理です>
+
+{Sara} [Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."It's... impossible..."
+##
+
+{Sou} [Sou: Hands out, mouth open, grim face / cara5-35]
+#Message#
+\."Sara...!!"
+##
+
+{Sara}
+#Message#
+\."I mean... there are no leads..."
+##
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+{SE: Thunder10}
+#Message#
+\."Kanna will fight!!"
+##
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, grim face / cara5-34]
+{SE: Accent21-1}
+#Message#
+\."Kanna...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I'm gonna struggle, too!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."If big sis Sara's tired...
+ We'll come up with something and win, meow!!"
+##
+
+{Sou} [Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."Yeah...! We're not giving up!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Everyone...)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."Guess we just don't know when to call it quits..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But sure enough, I don't think we'll win
+ unless you're with us to the end, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Guys, our discussion's definitely progressing.
+ We unraveled \C[2]the mystery of this roster\C[0]."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Thunder10}
+#Message#
+\."Let's trust that the truth of this transgression...
+ lies beyond that answer."
+##
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+#Message#
+\."This is your final discussion... Use it meaningfully."
+##
+
+{Sou} [Sou: Hands out, mouth open, angry eyes with bags / cara5-32]
+#Message#
+"Got it? This roster lists the chances of survival
+ for the participants in the Death Game!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"You said they determined these chances of victory
+ by running simulations with AIs, right...?"
+##
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+"Is there something about these sheets
+ we're still overlooking...?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"There only being 16 names makes you wonder, right?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"Indeed, the most unusual aspect is
+ the fact there are only 16 names here...!"
+##
+
+<Condition End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"If "Sou" was an alias...
+ That means there's actually 4 not listed, right?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Kai, Kugie, Joe, and Nao
+ are the four not on the roster, meow!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+"Kinda curious how Sara's chances of victory
+ are the highest, huh..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

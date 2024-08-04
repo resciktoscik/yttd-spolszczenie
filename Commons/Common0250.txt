@@ -1,0 +1,122 @@
+**********Common250********** (ｱﾘｽ「ソウの賢者」)
+{Alice}
+#Message#
+"Those allying with Sou?
+ It's pretty much just myself..."
+##
+
+#Message#
+"Hmph... I'll believe in Sou.
+ And whoever tries to protect him is the \C[3]Sage\C[0]...
+ That's where we ought to aim."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Now, now... It isn't me you should fight, is it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"We're both despised...
+ Perhaps we can get along. Mwahaha..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+"When I think of those allying with Sou..."
+##
+
+[Alice: Surprised face / cara11-2]
+{SE: Accent28-1}
+#Message#
+\."...It's pretty much just myself."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Well, no more worry of being picked.
+ What a show, mwahaha..."
+##
+
+{Sara}
+#Message#
+\.\C[4](So despicable...)
+##
+
+#Choice#
+Have him add the statement
+Cancel
+##
+
+<発言に加えてもらう>
+
+{Alice} [Alice: Surprised face / cara11-2]
+{SE: Accent28-1}
+#Message#
+\."...What? That's fine, but..."
+##
+
+<やめる>
+
+<Choice End>
+

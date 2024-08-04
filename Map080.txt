@@ -1,0 +1,1277 @@
+=====Map80===== (③Prize Exchange)
+
+**********Event2********** (muu) (3,5)
+-----Page1-----
+[Gashu: Default / cara16-1]
+#Message#
+".........."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Whoa?! Who's this guy?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]As if not minding us at all, he doesn't even move.
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."That's the receptionist doll.
+ And this is the Prize Exchange!"
+##
+
+#Message#
+\."Safalin, hand those things out."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Okaaay..."
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]Everyone was handed a wallet of some kind.
+##
+
+{Sara}
+#Message#
+\.\C[4](Inside are... tokens with my face on them...?)
+##
+
+{Safalin}
+{SE: Accent28-1}
+#Message#
+\."Those are \C[2]Me-Tokens\C[0]. Everyone has been given 100."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Huh... So let me guess, you can trade these tokens
+ for the prizes on display here?"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Accent21-1}
+#Message#
+\."Correct! Just what I expected from you!"
+##
+
+#Message#
+\."The prizes include things related to clearing Floor 3,
+ personal information profiles... and more!"
+##
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+#Message#
+\."...You're making information into prizes?"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."However..."
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You \C[2]cannot trade for prizes\C[0] using \C[2]your own tokens\C[0]."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."What's that mean, woof...?"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: Accent28-1}
+#Message#
+\."\C[2]You can only use tokens you get from others\C[0]!"
+##
+
+#Message#
+\."And if you get a lot from somebody,
+ you can nab that person's personal info."
+##
+
+#Message#
+\."Those tokens signify trust."
+##
+
+#Message#
+\."All y'all bastards are gonna be selling, buying,
+ stealing, and surrendering those suckers!"
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: sceneswitch2}
+#Message#
+\."In short, it's \C[2]a game of buying and selling trust\C[0]!"
+##
+
+{Sara}
+#Message#
+\."Buying and selling... trust..."
+##
+
+#Choice#
+How idiotic
+That won't even work
+I've got this!
+##
+
+<くだらない>
+
+{Sara} [Ranger: Smile sign / cara18-1]
+#Message#
+\."How idiotic... There's surely more to this."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."I've got a good idea. If one of us gathers tokens
+ and buys a prize, we can all share the info."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Ehh? Y'all are some friendly bastards."
+##
+
+<取引にならない>
+
+{Sara} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+"We could share all our tokens right here
+ and share the information we need.
+ ...This doesn't qualify as a game."
+##
+
+{Ranger}
+#Message#
+\."Hyee! Trying to be perfectly fair and just, eh?"
+##
+
+<勝ったな！>
+
+{Sara} [Ranger: Cat mouth sign / cara18-3]
+{SE: flash-of-light-3}
+#Message#
+"I'll accept everyone's tokens...!
+ Then I'll tell everyone the info from the prizes!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Good plan, Sara!
+ If we share our info, this's no game at all!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Waugh, y'all are boring! Some real game-breakers.
+ Geez louise..."
+##
+
+<Choice End>
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Well, too bad for you, but that's not all!"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+{SE: Accent28-1}
+#Message#
+\."All of you will experience
+ \C[2]9 attractions\C[0] located around the third floor,
+ and earn the right to challenge the Main Game."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."M... myow...?"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Whenever you clear an attraction,
+ you'll receive \C[2]Clear Chips\C[0]..."
+##
+
+#Message#
+\."And if you don't collect 10 within the time limit,
+ you'll die before the Main Game starts!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."N... No...!!"
+##
+
+{Ranger} [Ranger: Mishima face sign / cara18-5]
+#Message#
+\."Mwahaha...! Please do relax, miss Nao!
+ Unlike in the Main Game, if you do well,
+ then no one will have to die!"
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\."P... Please stop... Don't impersonate him...!!"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Most attractions require a group of two.
+ ...However, one cannot do the same attraction twice."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."\C[2]Tokens\C[0] and \C[2]Clear Chips\C[0]...
+ I'm starting to see what you're getting at."
+##
+
+{Ranger}
+#Message#
+\."Now, get what you need to do?"
+##
+
+#Message#
+\."Clear attractions to collect 10 Clear Chips."
+##
+
+#Message#
+\."Use the Me-Tokens you've received however you want.
+\! ...Though \C[2]you can only buy stuff with others' tokens\C[0]!"
+##
+
+#Message#
+\."By the way... The more tokens you get, the better.
+ There's a grand prize, too..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."\C[2]A ticket to the surface\C[0]!
+ It's first-come first-serve, so you snooze, you lose!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh?! I don't see anything like that
+ on the counter...!)
+##
+
+{Ranger}
+#Message#
+\."Your time limit is 3 days!
+ Relax! You've got plenty of food and clothes,
+ and even time to rest, so sleep soundly!"
+##
+
+#Message#
+\."We won't put any traps or other trickery
+ in your personal rooms, so use 'em freely!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Now, let the Sub-Game...
+ The \C[2]Trust Barter Game\C[0], begin!"
+##
+
+{Sara}
+#Message#
+\C[4](How much... will they belittle us?)
+##
+
+#Message#
+\.\C[4](But... We have to do it...
+ I can't just die...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"...Attractions... Should we look for them?"
+##
+
+-----Page2-----
+{Reception Doll} [Gashu: Default / cara16-1]
+#Message#
+"This is the Prize Exchange.
+ Please inform me if you have business."
+##
+
+#Choice#
+Ask questions
+Cancel
+##
+
+<質問をする>
+
+<やめる>
+
+<Choice End>
+
+{Reception Doll} [Gashu: Mouth open / cara16-2]
+#Message#
+\."What would you like me to answer?"
+##
+
+#Choice#
+What are you?
+About prize types
+Escape ticket?
+Cancel
+##
+
+<あなたは何者ですか？>
+
+{Reception Doll} [Gashu: Default / cara16-1]
+#Message#
+"I am a receptionist doll here to support you
+ in your time living on the third floor.
+ I can trade and explain the prizes."
+##
+
+<景品の種類について>
+
+{Reception Doll} [Gashu: Default / cara16-1]
+#Message#
+"There are two types of prizes.
+ \C[4]Prizes with blue numbers\C[0] and \C[10]prizes with red numbers\C[0]."
+##
+
+#Message#
+\."\C[4]Prizes with blue numbers\C[0] are normal.
+ You can trade for them using that number of tokens."
+##
+
+#Message#
+\."\C[10]Prizes with red numbers\C[0] are exclusive.
+ You can only trade for them using tokens of
+ the person relevant to that prize."
+##
+
+#Message#
+\."For instance, you may only trade for Mr. Keiji's
+ personal information using Mr. Keiji's tokens."
+##
+
+<脱出券とは？>
+
+{Reception Doll} [Gashu: Default / cara16-1]
+#Message#
+"There is nothing of the sort here."
+##
+
+{Sara}
+#Message#
+\.\C[4](Nothing \C[2]here\C[4], huh...?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event3********** (sara) (6,2)
+-----Page1-----
+#Message#
+\C[3]A photo of me.
+##
+
+{Sara}
+#Message#
+\.\C[4](Creepy... What's all this about?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Sara's Personal Info
+
+Tokens Required ... 50 Sara Tokens
+##
+
+{Sara}
+#Message#
+\.\C[4](Not being able to use your own tokens...
+ means you can't buy your own personal info.)
+##
+
+
+**********Event4********** (keizi) (8,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Keiji.
+##
+
+{Sara}
+#Message#
+\.\C[4](Those are some serious bags under his eyes...
+ He's completely worn out.)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Keiji's Personal Info
+
+Tokens Required ... 50 Keiji Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{SE: Buzzer1}
+#Message#
+\C[3]Not enough tokens!
+##
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event5********** (kannna) (10,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Kanna.
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Kanna's Personal Info
+
+Tokens Required ... 50 Kanna Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{SE: Buzzer1}
+#Message#
+\C[3]Not enough tokens!
+##
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event6********** (Qtarou) (12,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Q-taro.
+##
+
+{Sara}
+#Message#
+\.\C[4](As a pro baseball player... He's got a good photo.)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Q-taro's Personal Info
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Q-taro's Personal Info
+
+Tokens Required ... 50 Q-taro Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{SE: Shop1}
+#Message#
+\C[3]Traded tokens!
+##
+
+{SE: Buzzer1}
+#Message#
+\C[3]Not enough tokens!
+##
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event7********** (sou) (14,2)
+-----Page1-----
+#Message#
+\C[3]A photo of Sou.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Huh...? Come to think of it, where is Sou...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Sou's Personal Info
+
+Tokens Required ... 50 Sou Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{SE: Buzzer1}
+#Message#
+\C[3]Not enough tokens!
+##
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event8********** (reko) (7,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Reko.
+##
+
+{Sara}
+#Message#
+\.\C[4](Her photo looks just as cool...)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Reko's Personal Info
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Reko's Personal Info
+
+Tokens Required ... 50 Reko Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{SE: Shop1}
+#Message#
+\C[3]Traded tokens!
+##
+
+{SE: Buzzer1}
+#Message#
+\C[3]Not enough tokens!
+##
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event9********** (nao) (9,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Nao.
+##
+
+{Sara}
+#Message#
+\.\C[4](She has a good countenance...
+ I wonder when this photo was taken.)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Nao's Personal Info
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Nao's Personal Info
+
+Tokens Required ... 50 Nao Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{SE: Shop1}
+#Message#
+\C[3]Traded tokens!
+##
+
+{SE: Buzzer1}
+#Message#
+\C[3]Not enough tokens!
+##
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event10********** (gin) (11,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Gin.
+##
+
+{Sara}
+#Message#
+\.\C[4](Looking at him like this...
+ Everything but his eyes is covered up.)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Gin's Personal Info
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Gin's Personal Info
+
+Tokens Required ... 50 Gin Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{SE: Shop1}
+#Message#
+\C[3]Traded tokens!
+##
+
+{SE: Buzzer1}
+#Message#
+\C[3]Not enough tokens!
+##
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event11********** (arice) (13,4)
+-----Page1-----
+#Message#
+\C[3]A photo of Alice.
+##
+
+{Sara}
+#Message#
+\.\C[4](Such a gaudy hairstyle...)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Alice's Personal Info
+
+Tokens Required ... 50 Alice Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{SE: Buzzer1}
+#Message#
+\C[3]Not enough tokens!
+##
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event12********** (midori) (2,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of star-shaped badge.
+##
+
+{Sara}
+#Message#
+\.\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Clear Chip
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Clear Chip
+
+Tokens Required ... 30 Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](Maybe I only need to think about Clear Chips
+ when it's time to clear attractions...)
+##
+
+
+**********Event13********** (pinnku) (4,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of star-shaped badge.
+##
+
+{Sara}
+#Message#
+\.\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Clear Chip
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Clear Chip
+
+Tokens Required ... 30 Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Sara}
+#Message#
+\.\C[4](Maybe I only need to think about Clear Chips
+ when it's time to clear attractions...)
+##
+
+
+**********Event14********** (video1) (7,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of mechanical thing.
+##
+
+{Sara}
+#Message#
+\.\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Victim Video 1
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Victim Video 1
+
+Tokens Required ... 20 Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event67********** (自動) (1,0)
+-----Page1-----
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+{SE: Accent28-1}
+#Message#
+\."...Ah... S-Sara..."
+##
+
+{Sara}
+#Message#
+\."Nao..."
+##
+
+#Message#
+\."What's the matter? You've gone white."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."I... I... bought it..."
+##
+
+{Sara}
+#Message#
+\."B-Bought what?"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\.".........."
+##
+
+[Nao: Wide eyes, grim look, raised finger / cara7-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."A... victim... video..."
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."I thought it could be a clue to escape...
+\! But... I'm too scared... to watch..."
+##
+
+[Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."Please! Would you watch it with me?!"
+##
+
+{Sara}
+#Message#
+\."B... But..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."U-Um, you can close your eyes!
+\! Just being there and holding my hand would...!"
+##
+
+#Message#
+\."Oh, and... If you could stroke my back
+ and cheer me on like "you can do it!"...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Can I shut my eyes on such a thing...?)
+##
+
+#Message#
+\.\C[4](But I don't see refusing being an option...
+ Nao is just as exhausted as me...)
+##
+
+#Choice#
+Let's watch it together
+I'll stroke your back tons
+##
+
+<一緒に観ましょう>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."...Understood.
+ Let's watch it together."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+{SE: Accent28-1}
+#Message#
+\."Ahh... Thank you very much...!!
+\! I'm sorry about this, Sara..."
+##
+
+<全力で背中をさすります>
+
+{Sara} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...Understood.
+ I'll close my eyes, hold your hand,
+ and furiously stroke your back...!"
+##
+
+{Nao}
+{SE: Accent28-1}
+#Message#
+\."Thank you so much...!!
+\! Um... and please don't forget
+ the "you can do it!" chanting either!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao... She's serious.)
+##
+
+<Choice End>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Apparently you can view it in the Monitor Room...
+ Let's go, Sara...!"
+##
+
+-----Page3-----
+{Reception Doll} [Gashu: Default / cara16-1]
+#Message#
+"Well then, here is your prize."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained a Clear Chip!
+##
+
+{SE: button17}
+#Message#
+\.\C[3]Obtained a Clear Chip!
+##
+
+{SE: button17}
+#Message#
+\.\C[3]Obtained Victim Video 1!
+##
+
+{Reception Doll}
+#Message#
+"You may view the victim video
+ by using it in the Monitor Room."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Victim Video 2!
+##
+
+{Reception Doll}
+#Message#
+"You may view the victim video
+ by using it in the Monitor Room."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Victim Video 3!
+##
+
+{Reception Doll}
+#Message#
+"You may view the victim video
+ by using it in the Monitor Room."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained an Easy Ticket!
+##
+
+{Reception Doll}
+#Message#
+"This takes effect simply by possessing it.
+ Quite a bargain, is it not?"
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Q-taro's personal info!
+##
+
+{Reception Doll}
+#Message#
+"Use this startup device in the Monitor Room
+ to view the personal information."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Reko's personal info!
+##
+
+{Reception Doll}
+#Message#
+"Use this startup device in the Monitor Room
+ to view the personal information."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Nao's personal info!
+##
+
+{Reception Doll}
+#Message#
+"Hm... These are in the form of documents.
+ Read them whenever you wish."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained Gin's personal info!
+##
+
+{Reception Doll}
+#Message#
+"Use this startup device in the Monitor Room
+ to view the personal information."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+"You've changed your mind?"
+##
+
+[Gashu: Default / cara16-1]
+#Message#
+\."I await you another time."
+##
+
+
+**********Event71********** (video2) (9,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of mechanical thing.
+##
+
+{Sara}
+#Message#
+\.\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Victim Video 2
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Victim Video 2
+
+Tokens Required ... 20 Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event75********** (video3) (11,7)
+-----Page1-----
+#Message#
+\C[3]Some sort of mechanical thing.
+##
+
+{Sara}
+#Message#
+\.\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Victim Video 3
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Victim Video 3
+
+Tokens Required ... 20 Tokens
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event79********** (tiketo) (14,7)
+-----Page1-----
+#Message#
+\C[3]A ticket of some kind.
+##
+
+{Sara}
+#Message#
+\.\C[4](What's this...?)
+##
+
+-----Page2-----
+#Message#
+\C[3][Prize] Easy Ticket
+
+\C[2]Already purchased.
+##
+
+#Message#
+\C[3][Prize] Easy Ticket
+
+Tokens Required ... 10 Tokens
+##
+
+#Message#
+\.\C[3]Limited quantity! 1 left!
+Having it lowers the difficulty of attractions.
+##
+
+#Message#
+\.\C[3]Trade tokens for prize?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

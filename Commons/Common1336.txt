@@ -1,0 +1,260 @@
+**********Common1336********** (16、間違いどす)
+{Keiji}
+#Message#
+\C[4](This tree growing outside...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Yep! It was a fine tree!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+[Keiji: Left arm down, frown / cara2-11]
+#Message#
+\."...That's it?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Hngh?!
+ I-I feel like it was a crepe myrtle... yeah!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.\C[4](Doesn't sound remotely right to me...)
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](Well... Nothing suspicious here, so that's fine.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](This drink on the back table...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Just a customer's drink... Nothin' for it."
+##
+
+{Sara} [Sara: Surprise / cara0-16]
+#Message#
+\."A drink that costs nothing...?"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Haha... That'd put 'em out of business quick, Sara."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Right, I guess so...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This chair \N[4] is sitting in...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Making me remember the bad parts...
+ It looks strange, but it's just a chair."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."The chair itself isn't all that unusual.
+ Nothing to say about it."
+##
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\.\C[4](Nothing notable outside of the design, it seems.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\C[4](This paper on the desk...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."That's the paper I'd write on
+ to answer teacher's questions, meow."
+##
+
+[Gin: Smile, hands in front / cara9-5]
+#Message#
+\."It feels better when it's not like a test
+ and I can write what I want, woof."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](What kinds of things did that teacher
+ want Gin to answer...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](The safe under the register...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ It was just a safe."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."They'd probably get mad if I stared at the safe...
+ So I never really observed it closely... Sorry."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."No, that's fine."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This bed cover on the lower bed...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's just a blanket."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."The prison was chilly in winter, sweaty in summer...
+ and this blanket addressed both rather inadequately."
+##
+
+{Sara} [Sara: Hands on hips, groan / cara0-22]
+#Message#
+\.\C[4](Such terrible treatment...)
+##
+
+<やめる>
+
+<Choice End>
+

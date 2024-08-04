@@ -1,0 +1,81 @@
+**********Common1105********** (呼・クルマダ殺し)
+{N/A}
+#Message#
+\C[3]Kurumada is lying on the ground.
+##
+
+{Keiji}
+{SE: horror_piano chord3}
+#Message#
+"Ah..."
+##
+
+#Message#
+\."...Did I..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Kill him...?"
+##
+
+#Message#
+\.".........."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, sad, mouth open / cara95-38]
+{SE: Accent21-1}
+#Message#
+\.\SP[15]"Please... Keiji..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, sad, clenched teeth / cara95-37]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\SP[12]"Don't... forsake... them..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, sad, crying / cara95-39]
+#Message#
+\.\SP[10]"Plea... se..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kurumada: Fatally damaged, crying, powered off / cara95-40]
+#Message#
+\.\SP[8]".........."
+##
+
+#Message#
+\C[4](Guh...!!)
+##
+
+{Keiji}
+{SE: Accent43-1}
+#Message#
+\.\C[4](I wouldn't... forsake anyone...!)
+##
+

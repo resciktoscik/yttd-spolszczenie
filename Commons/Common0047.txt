@@ -1,0 +1,152 @@
+**********Common47********** (ｼﾞｮｰ・自己紹介)
+{Joe}
+#Message#
+"Me and Sara are high school classmates."
+##
+
+[Joe: Serious look / cara1-14]
+#Message#
+"My bad... I'm not trying to scare you, Sara."
+##
+
+#Message#
+\."I just wanted to point out how
+ there could be a collaborator, you know..."
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+"Sara was being harassed by a stalker,
+ so I went home with her that day."
+##
+
+#Message#
+\."Then there was an incident,
+ so I called the police, but..."
+##
+
+#Message#
+\."I heard Sara screaming, so I ran upstairs."
+##
+
+{SE: Accent28-1}
+#Message#
+\."And there stood \C[2]that damn stalker\C[0]!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh?!)
+##
+
+#Message#
+\."That's the first I've heard of that!"
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Heheh... Didn't have a chance to mention it."
+##
+
+[Joe: Default / cara1-11]
+#Message#
+\."So, I worked up all my courage to punch the guy."
+##
+
+[Joe: Upset groan / cara1-16]
+#Message#
+\."'Course, I'm awful at fighting, so...
+ Since I don't remember winning, I'm guessing I lost."
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+\."That's why... I know that stalker
+ is the culprit in this case."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Interesting. Go on."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Sorry, but that's all I got.
+ Since I fainted..."
+##
+
+#Message#
+\."Then again... This isn't a stunt
+ just one jerk stalker could pull by himself."
+##
+
+#Message#
+\."It's an organized crime. Right, mister cop?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Could be."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Furrowed brow / cara1-15]
+#Message#
+\."Wonder if there's one in our midst..."
+##
+
+{SE: shock1}
+#Message#
+\."A collaborator with the culprit,
+ playing the victim to blend in...!"
+##
+
+{Sara}
+#Message#
+\."...Eh?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Hearing Joe say that... I understood.
+##
+
+#Message#
+\.\C[3]Why he'd been so wary... and acting so strange.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hahahaaa!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."What is it?!
+ You wanna laugh?! You can't say there isn't..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."You sure are funny! Hahaha!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."I hate this guy...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](A collaborator with the culprit...?)
+##
+
+#Message#
+\.\C[4](Maybe there could be something like that...)
+##
+

@@ -1,0 +1,1178 @@
+=====Map42===== (②■Kitchen)
+
+**********Event2********** (nao) (8,5)
+-----Page1-----
+{Sara}
+#Message#
+\.\C[4](That's...!!)
+##
+
+{SE: Accent28-1}
+#Message#
+\."Nao!!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\.".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Please stay away..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hey there... Settle down, Nao."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."You especially, please!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Okie-dokie."
+##
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."What did you come here for...?!
+ Please leave... Sara...!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."...I'm scared, meow..."
+##
+
+{Sara} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\.\C[4](Nao is really riled up...)
+##
+
+#Choice#
+Ask her reasons
+Slowly approach
+##
+
+<事情を聞く>
+
+{Sara} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+"We're on your side. We won't do anything."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."What in the world happened?"
+##
+
+<ゆっくり近づく>
+
+{Sara} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+".........."
+##
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."Please don't come any closer!! I'll be mad!!"
+##
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+{SE: Accent21-1}
+#Message#
+\."...As if you don't know that...!"
+##
+
+#Message#
+\."I won't... I won't hand over the professor...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao... doesn't want him to be taken away.)
+##
+
+#Choice#
+Calm her down
+Lock the door
+Do a pincer attack
+##
+
+<落ち着かせる>
+
+{Sara} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+"Please calm down.
+ We don't intend to take him."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."...Then... please just leave...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](It's no good...
+ This can't be resolved by a discussion.)
+##
+
+<部屋にカギをかける>
+
+{N/A} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+{SE: Door1}
+#Message#
+\C[3]I locked the kitchen door from the inside.
+##
+
+{Nao}
+#Message#
+\."W... What are you doing?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."...Now no one else can enter.
+ Will you talk to us?"
+##
+
+<左右から　はさみ撃ちで奪う>
+
+{Sara} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Keiji...! Let's do a pincer maneuver!
+ ...Is he following my lead?!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He doesn't get it at all...)
+##
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\.".........."
+##
+
+#Message#
+\."You really... didn't come here
+ intending to take the professor...?"
+##
+
+{Sara}
+#Message#
+\."Right. Please believe us."
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Since it's you, Sara... I'll believe you."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Well... Can we come a little closer?"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."You put your back to the door
+ and stay quiet, please!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Roger that."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Sara... Why did you come here?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I need to put her at ease somehow...)
+##
+
+#Choice#
+I was worried about you
+I came to search the kitchen
+I was hungry
+##
+
+<ナオさんが心配だった>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"We were worried for you, so we came looking.
+ I was afraid... what the kidnappers might do
+ if you resisted them."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Sara..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."You're right...
+ I'm sorry... that I've just caused you trouble."
+##
+
+<調理室の探索をしにきた>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"I just... came to look for clues in the kitchen."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Is that it...?"
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."...I'm sorry for doubting you...
+ Please... search all you like..."
+##
+
+<お腹が減ってた>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"I was starving.
+ Did you find any food here?"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."...Food...?"
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."...I'm sorry for doubting you...
+ But, it doesn't seem there's anything to eat..."
+##
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."..."
+##
+
+#Message#
+\."...I've been hiding here the whole time
+ with the lights turned off...
+ Since if the kidnappers find me, they'll take him..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Does this room have a light switch?)
+##
+
+#Choice#
+Weren't you scared?
+Did no one else come?
+##
+
+<怖かったんじゃないですか？>
+
+{Sara} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+{SE: Accent21-1}
+#Message#
+"It must have been scary in the dark..."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."..."
+##
+
+#Message#
+\."...M-My body... wouldn't stop shaking..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao's starting to calm down, bit by bit...)
+##
+
+<誰も来ませんでしたか？>
+
+{Sara} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"During that time... did anyone come by?"
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...No, no one. You're the first ones."
+##
+
+{Sara}
+#Message#
+\.\C[4](I figured as much.
+ If someone had entered, there'd be an uproar...)
+##
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](At this point... I think we can talk properly.)
+##
+
+#Message#
+\."Nao... Um...
+ It's hard to say things like this, but..."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+{SE: Accent21-1}
+#Message#
+\."...I understand..."
+##
+
+#Message#
+\."I understand... that what I'm doing is wrong."
+##
+
+#Message#
+\."I've caused all of you trouble..."
+##
+
+#Message#
+\."...I shouldn't be...
+ acting like this forever, should I...?"
+##
+
+[Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."What... should I do...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I just... have to persuade her.)
+##
+
+#Choice#
+You should let go of the box
+Tell her about Gin
+##
+
+<その箱を手放すべきだ>
+
+{Sara} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+"Nao... You should let the box go."
+##
+
+{Nao}
+#Message#
+\."..."
+##
+
+[Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."...That's not possible...!
+ I just can't do it...!!"
+##
+
+<ギンの話をする>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"...Nao, did you know that
+ stairs going to the second floor appeared?"
+##
+
+[Nao: Mouth open / cara7-1]
+{SE: Accent28-1}
+#Message#
+\."Huh...?! You don't mean... an exit..."
+##
+
+{Sara}
+#Message#
+\."No... The rooms there are just as full of tricks."
+##
+
+#Message#
+\."In the process of searching for you...
+ Gin got trapped in a cage."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+{SE: Accent21-1}
+#Message#
+\."Gin...?!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Yeah..."
+##
+
+{Sara}
+#Message#
+\."He was... very frightened by it."
+##
+
+#Message#
+\."We were able to save him, but...
+ He was so shocked, he can barely speak still."
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...That's... my fault... isn't it..."
+##
+
+<Choice End>
+
+{Sara} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."I know how you feel, Nao..."
+##
+
+#Message#
+\."But... you can't be exposing
+ the people who are alive to danger, too."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+{SE: ghost_sigh}
+#Message#
+\."..."The people who are alive"...!
+ That wording...!"
+##
+
+{Sara}
+#Message#
+\."Professor Mishima..."
+##
+
+#Choice#
+Is dead
+##
+
+<死んだんです>
+
+<Choice End>
+
+{Sara} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+{SE: shock1}
+#Message#
+\."Professor Mishima is dead, Nao."
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Waaahhh..."
+##
+
+#Message#
+\.\sp[12]"NOOOOOOOOOOOOOOOOOOOOOOOOO...!!"\.\.\^
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."..."
+##
+
+#Message#
+\."...That's right... of course..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."I kept questioning him... in the dark..."
+##
+
+#Message#
+\."But the professor... didn't say a word..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."No matter how busy he was, the professor I knew...
+\! ...always answered my questions with a smile..."
+##
+
+#Message#
+\."..."
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I was in the middle of painting it..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...A portrait of the professor,
+ that I meant to give him as a gift..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."But I can't give it to him anymore, can I..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Then will you quit painting?
+You should finish it
+##
+
+<なら描くのをやめますか？>
+
+{Sara} [Nao: Closed tired tearful eyes / cara7-18]
+{SE: Accent28-1}
+#Message#
+\."Then will you quit painting...?"
+##
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+{SE: Accent21-1}
+#Message#
+\."...Huh?"
+##
+
+{Sara}
+#Message#
+\."He must have taught you many things.
+ About art... about studying...
+ about many more important things..."
+##
+
+#Message#
+\."Who knows Professor Mishima best out of anyone?"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Nao... You should make it back alive,
+ and finish that painting yourself!!"
+##
+
+<描き上げるべきです>
+
+{Sara} [Nao: Closed tired eyes / cara7-17]
+{SE: Accent28-1}
+#Message#
+\."And... what about it?"
+##
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+{SE: Accent21-1}
+#Message#
+\."...Huh?"
+##
+
+{Sara}
+#Message#
+\."He must have taught you many things.
+ About art... about studying...
+ about many more important things..."
+##
+
+#Message#
+\."Who knows Professor Mishima best out of anyone?"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Nao... You should make it back alive,
+ and finish that painting yourself!!"
+##
+
+<Choice End>
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."..."
+##
+
+#Message#
+\."...I..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I want to paint it...!"
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Until I finish that portrait... I can't die!!"
+##
+
+{Sara}
+#Message#
+\."Right...!"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...It's sad..."
+##
+
+#Message#
+\."But this..."
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."This box... I'll let go of it now..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."The door's open."
+##
+
+#Message#
+\."...You should go see Reko."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."'Cause she was the most worried."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Yes...!"
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Sorry about what I said... Mr. Policeman."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Well, we better give our all too."
+##
+
+{Sara}
+#Message#
+\."Right."
+##
+
+-----Page2-----
+#Message#
+\C[3]A box with a suspicious look.
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Err, well, Sara.
+ If you don't wanna peek inside, you can look away."
+##
+
+{Sara}
+#Message#
+\.\C[4](Inside... must be the professor...)
+##
+
+#Choice#
+Look inside
+Leave it to Keiji
+##
+
+<中を見る>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."No... searching every nook and cranny
+ is the only thing I can do."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...You're really somethin', kid."
+##
+
+{N/A}
+#Message#
+\.\C[3]I touched the box, and the lid opened easily.
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\."...Huh?"
+##
+
+<ケイジに任せる>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Sorry. Can I ask you to look?"
+##
+
+{Keiji}
+#Message#
+\."'Course. That's more or less
+ what your friendly policeman's good for."
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji opened the box and checked inside.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Hm?"
+##
+
+#Message#
+\."..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Sara, take a look here."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+<Choice End>
+
+{N/A} [Keiji: Looking to side / cara2-4]
+{SE: horror_piano chord3}
+#Message#
+\.\C[3]There was... nothing in the box.
+##
+
+{Sara}
+#Message#
+\."What's... going on here?"
+##
+
+{Keiji}
+#Message#
+\."...No buts about it, it's totally empty."
+##
+
+{Sara}
+#Message#
+\.\C[4](Was Nao... dearly protecting a box
+ that had nothing in it?)
+##
+
+#Message#
+\.\C[4](Where did "the professor" in here... go?)
+##
+
+#Choice#
+The kidnappers took it already
+It never went in at all
+Nao is still hiding it
+##
+
+<既に誘拐犯に奪われていた>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+"This means the kidnappers took it, didn't they?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."But the way Nao was acting...
+ I'd have to think she never let go of it."
+##
+
+<初めから入れてなかった>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Maybe Nao never actually
+ put it in the box then to begin with...?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."That's a nope.
+ I saw it clear as day with my own eyes."
+##
+
+{Sara}
+#Message#
+\."Right..."
+##
+
+<ナオさんはまだ隠し持ってる>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+"Don't tell me...
+ Is Nao actually still hiding it on her?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Something that big... There's no way, right?"
+##
+
+{Sara}
+#Message#
+\."I guess so..."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Gettin' hard to tell what's the truth."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Even as far as Mishima's death...
+\! ...Hah."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Nah, I just felt like saying that."
+##
+
+#Message#
+\."Miley, wasn't it? ...If Mishima could revive like her,
+ just sticking his head on, I'm sure Nao'd be glad..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Like a doll, huh...)
+##
+
+#Choice#
+Do you think Miley's really a doll?
+Was Mishima also a doll?
+##
+
+<ホエミーは本当に人形だと思いますか？>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hahaha! It's out of the question.
+ Nope... No way she's a doll."
+##
+
+<ミシマ先生も人形？>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."...Hahaha. Surely even you can tell
+ between a living creature and an object enough
+ to know he was human like you, Sara."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Well, no point in worrying about it.
+ Let's keep trucking along and just pursue the truth."
+##
+
+-----Page3-----
+#Message#
+\C[3]There's nothing in the box.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Irritated to have a mystery lingering? Haha."
+##
+
+
+**********Event3********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event4********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event5********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event6********** (tukue) (13,6)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]There's some storage space for cookware.
+##
+
+{Sara}
+#Message#
+\.\C[4](...But I don't see anything resembling cookware.)
+##
+
+#Message#
+\.\C[4](Huh? What's this box?)
+##
+
+{N/A}
+#Message#
+\.\C[3]"Please use as you wish."
+##
+
+#Message#
+\.\{\C[7]3\C[0]61\C[7]80\C[0]2\C[3]
+##
+
+#Message#
+<<REMOVE>>
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained a Long Narrow Box.
+##
+
+
+**********Event7********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event25********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event26********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event27********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event28********** (EV028) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event29********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event30********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event31********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event32********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event33********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event34********** (aohako) (10,3)
+-----Page1-----
+#Message#
+\C[3]The blue refrigerator is empty.
+##
+
+
+**********Event42********** (kuu) (7,2)
+-----Page1-----
+#Message#
+\C[3]The room is well air-conditioned.
+##
+
+
+**********Event46********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

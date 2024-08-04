@@ -1,0 +1,61 @@
+**********Common484********** (時限イベント５)
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+"Well now, that third injection's coming up soon!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[10]"Uuugh... *hurk*... *sniffle*..."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."Hang in there, Gin...!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Oh yeah, I've got a tip for y'all!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."The five injections...
+ actually have different concentrations!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."What...?"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The later you get, the more concentrated the venom...
+ That's how he was able to endure the first two..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."N... No...!!"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: shock1}
+#Message#
+\.\C[10]"I can say this with certainty:
+ The third one'll be a lethal dose for that kid."
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[10]"...*sniff*..."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"It's your last chance... Good luuuck!"
+##
+

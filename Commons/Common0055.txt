@@ -1,0 +1,27 @@
+**********Common55********** (ロシアンじっと待ちケイジ)
+{Keiji}
+#Message#
+\."You prepared for the discussion?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Keiji}
+#Message#
+"I'm always on your side."
+##
+
+<いいえ>
+
+{Keiji}
+#Message#
+"Guess I'll have to wait a li'l longer."
+##
+
+<Choice End>
+

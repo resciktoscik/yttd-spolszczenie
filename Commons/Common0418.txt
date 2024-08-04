@@ -1,0 +1,56 @@
+**********Common418********** (ダメージ・ゲームオーバー)
+{Sara}
+#Message#
+"Agh...!! Is this it for me...?!"
+##
+
+{Kanna}
+#Message#
+\."K-Kanna will fight!"
+##
+
+{Nao}
+#Message#
+\."Are you okay?! Please, rest for now!"
+##
+
+{Gin}
+#Message#
+\."Big sis Sara!!
+ I'm mad, woof! I'm gonna fight, meow!!"
+##
+
+{Kanna}
+#Message#
+"Ahh... it's... no good..."
+##
+
+{Sara}
+#Message#
+\."Ahh... Kanna! Stay with me...!"
+##
+
+{Nao}
+#Message#
+"Can't... move... Help... professor..."
+##
+
+{Sara}
+#Message#
+\."No! Nao...!"
+##
+
+{Gin}
+#Message#
+"Myooow... I gotta... big sis Sara..."
+##
+
+{Sara}
+#Message#
+\."Gin!! No...!!"
+##
+
+#Message#
+\."W... Wait! Stop...!"
+##
+

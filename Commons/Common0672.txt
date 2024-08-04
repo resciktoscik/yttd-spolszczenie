@@ -1,0 +1,128 @@
+**********Common672********** (ｿｳ「ｻﾗ無し」)
+{Sou}
+#Message#
+"Right... If we're leaving someone out,
+ I think I'd say miss Sara too..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...Sara, you dummy."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+"...That's beneath me."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+"Because you're so darn cute."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."...What did you think I was gonna say?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Mgh...!)
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."When our escape failed,
+ I looked at you and had a thought..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."...She's acting kinda strange."
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: horror_piano chord3}
+#Message#
+\."You had this desperate look,
+ as if you had the \C[10]Sacrifice\C[0]."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."And on top of that..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."A last-minute trade right after our escape failed.
+ ...Just a tad suspicious, isn't it?"
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."I want to know the truth about you, miss Sara..."
+##
+

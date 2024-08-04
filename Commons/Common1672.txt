@@ -1,0 +1,115 @@
+**********Common1672********** (●ﾗﾝﾏﾙ「赤は怒り」)
+{Ranmaru}
+#Message#
+"\C[2]Red is anger\C[0], blue is sadness, yellow is joy...
+ Well?! Does that lead us to an answer?!"
+##
+
+#Message#
+"Speakin' of color... there were those three buttons
+ on \C[2]Maple's back\C[0]! Red, blue, and yellow!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<Else>
+
+[Ranmaru: Evil, smile / cara91-38]
+#Message#
+"...Haha."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open wide / cara91-5]
+#Message#
+"Ahh... What's that mean, exactly?"
+##
+
+<Else>
+
+[Ranmaru: Evil, smile / cara91-38]
+#Message#
+"...Haha."
+##
+
+<Condition End>
+
+<やめる>
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+"Is whoever's in the coffin angry...?"
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+"Those buttons were linked with emotions, right?!"
+##
+
+[Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent21-1}
+#Message#
+\."\C[2]Red is anger\C[0], blue is sadness, yellow is joy..."
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+#Message#
+\."Well?! Any connection with the color of the lamp...?!"
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\C[4](Emotions and colors...)
+##
+

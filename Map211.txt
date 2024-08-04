@@ -1,0 +1,107 @@
+=====Map211===== (★Battle Hinako Trial)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Hayasaka}
+#Message#
+"C... Can't... brea...! What... is this...?!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Suit-and-specs...!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."What the...!! This trap...?!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Calm down! Stay calm...!"
+##
+
+
+**********Event2********** (EV002) (4,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Hayasaka is hanging from the ceiling.
+##
+
+#Message#
+\C[3]Hayasaka is struggling.
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+#Message#
+"My neck... my neck hurts...!!"
+##
+
+[Hayasaka: Eyes wide, mouth open, sweating / cara94-12]
+#Message#
+\."Someone... help...!!"
+##
+
+{N/A}
+#Message#
+\C[3]Hayasaka is struggling.
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"I'll save you, meow! Suit-and-specs!!"
+##
+
+{N/A}
+#Message#
+\C[3]Gin stepped back into the room.
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Myaaah...?!"
+##
+
+{Sara}
+#Message#
+"G... Gin!!"
+##
+
+{Keiji} [Keiji: Left arm down, stern / cara2-12]
+#Message#
+"Not good! This room's dangerous!!"
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's magnetism...! The black plate on the ceiling
+ is pulling in their collars!!"
+##
+
+{Sara}
+#Message#
+\C[4](No way!! That's practically...)
+##
+
+{SE: shock1}
+#Message#
+\.\C[4](Like they're being hanged...!!)
+##
+
+#Message#
+\.\C[4](I don't know! What should I do...?!)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]The monster is defenselessly trying to get up.
+##
+
+#Message#
+\C[3]The monster is being held down.
+##
+

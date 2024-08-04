@@ -1,0 +1,18 @@
+**********Common1458********** (⑤ギンB選択　３)
+{N/A}
+#Message#
+"Meowww!!
+ Then I'll attack with the shovel, woof!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

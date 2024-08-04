@@ -1,0 +1,1082 @@
+**********Common1760********** (３前進展㉓ミドリの死)
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+"Oh my...! Will it be the right one?!"
+##
+
+{\N[4]}
+{SE: feed1}
+#Message#
+"*pant*...!! *pant*...!!"
+##
+
+#Message#
+"Urgh...!!"
+##
+
+#Message#
+\."Don't screw with me...! Saraaa...!!"
+##
+
+#Message#
+\."I gave you a compromise!! And yet...!!"
+##
+
+#Message#
+\."I... I knew I should've called it quits!!"
+##
+
+#Message#
+\."To think death... would be so terrifying...!!"
+##
+
+{Sara}
+#Message#
+".........."
+##
+
+{SE: Accent21-1}
+#Message#
+"...It's over..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, slight surprise / cara95-20]
+{SE: Accent40-1}
+#Message#
+"Did we... win...?"
+##
+
+<Else>
+
+<Condition End>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, mouth open / cara92-20]
+{SE: Accent40-1}
+#Message#
+"We won...?"
+##
+
+<Else>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched / cara94-10]
+{SE: Accent40-1}
+#Message#
+"Have we... won...?"
+##
+
+<Else>
+
+<Condition End>
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Applause1}
+#Message#
+"Well done! You hit \C[2]\N[4]\C[0]!"
+##
+
+[Meister: Default smile / cara17-8]
+{SE: flash-of-light-3}
+#Message#
+\."With this, the challenging team wins!
+ However..."
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: horror_piano chord3}
+#Message#
+\."It seems you'll need to pay the price."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."..."
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\."N... No..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."Protect Keiji...!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Fist to palm, enraged / cara11-36]
+#Message#
+\."Protect Keiji Shinogi...!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."We won't let you do that...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Keiji...!!"
+##
+
+[Sou: Hands out, mouth open, angry eyes, grim face / cara5-36]
+#Message#
+\."No! He can't die like this...!
+ I need to...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+\."Rule violations will be punished..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."Let me out!! I'm gonna..."
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, mouth open / cara92-11]
+#Message#
+\.".........."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+\."R... Run away! Everyone...!!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If you resist, we'll take you all out, got it...?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...I still won't move aside..."
+##
+
+#Message#
+\."I won't let you kill any more of my allies...!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."..."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Accent42-1}
+#Message#
+\."Hoh..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: Accent28-1}
+#Message#
+\."Ain't no need, Sara."
+##
+
+{Sara}
+#Message#
+\."W-What are you talking about?!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent41-1}
+#Message#
+\."I'll tell you... everything..."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."...?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+"..........Eh...?"
+##
+
+{Q-taro}
+#Message#
+"...Sorry for foolin' you this whole time."
+##
+
+{SE: Accent40-1}
+#Message#
+\."This is... what I really am..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"...What do you... mean?"
+##
+
+{N/A}
+#Message#
+\C[3]I don't get what's going on at all...
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I... ain't the real Q-taro..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open / cara4-8]
+{SE: Accent41-1}
+#Message#
+\."I'm a \C[2]doll\C[0] Safalin prepared."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."A doll...?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."Keiji... you look bewildered yerself."
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+{SE: Accent21-1}
+#Message#
+\."Honestly... yeah."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Because I just did what he expected I'd do..."
+##
+
+[Keiji: Looking to side / cara2-4]
+{SE: Accent40-1}
+#Message#
+\."I put \C[10]\N[4]'s collar\C[0] in the coffin."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."Right..."
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+#Message#
+"After we put the collar in,
+ we split up to act separately..."
+##
+
+#Message#
+\."Keiji went to Floor 5...
+ and we went to the cemetery..."
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Why... did you go back there...?"
+##
+
+{Q-taro}
+{SE: Accent21-1}
+#Message#
+\."The truth is... I was at my limit..."
+##
+
+{SE: Accent43-1}
+#Message#
+\."\C[2]Mai's stab wound\C[0]... was even deeper than I thought..."\.
+##
+
+{Mai}
+{SE: feed1}
+#Message#
+"You can't...! Q-taro!!"
+##
+
+{SE: Damage4}
+#Message#
+\."Get up!! We're going to meet
+ Sara and the others, right...?!"
+##
+
+#Message#
+"If you stay here... won't you get burnt to death?!"
+##
+
+{Q-taro}
+#Message#
+"I'm sorry..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Seems... it's too late for me..."
+##
+
+{Mai}
+#Message#
+"Is that what Safalin told you?!"
+##
+
+#Message#
+\."I don't want this!!
+ It's... because of me...!!"
+##
+
+{Q-taro}
+{SE: Accent21-1}
+#Message#
+"Don't cry..."
+##
+
+#Message#
+\."There's no time...
+ What you need to do is..."
+##
+
+{Mai}
+#Message#
+"I can't do it alone!!
+ Without you, Q-taro...!!"
+##
+
+{Q-taro}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Ya won't... be alone..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"I got... a doll.
+ Safalin'll help ya..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"If you can just get the ID card...
+ Use the \C[2]AI-Ceiver\C[0] with \C[2]my doll\C[0]..."
+##
+
+{Mai}
+#Message#
+"But then... what about you...?!"
+##
+
+#Message#
+\."Are you planning to die here
+ without anyone even knowing?!"
+##
+
+{Q-taro}
+{SE: Accent40-1}
+#Message#
+"Heh heh... It'll be the ultimate camouflage."
+##
+
+{Mai}
+#Message#
+"That's ridiculous!! Please...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Now get goin'...! Mai!!"
+##
+
+{Sara}
+#Message#
+"I... It can't be...!"
+##
+
+#Message#
+\."Then... inside \C[12]coffin #\V[992]\C[0] was...!!"
+##
+
+#Message#
+\."The real Q-taro...?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Yeah..."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: Accent21-1}
+#Message#
+"N... No..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."What was he thinkin'..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Gin... Kurumada... You got out?"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+#Message#
+\."Gin... You got out?"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, mouth open / cara92-11]
+#Message#
+\."Q-taro... I..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Gin... Mai... You got out?"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+\."With... with that desperate idea, you..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Gin... Hayasaka... You got out?"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Muscle gorilla... so he already..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."I'm sorry..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."I'm guessing... he was burned in the coffin then..."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."W... Waaahh..."
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\."Waaaaaaaaaaaaaaahhh...!!!!"
+##
+
+#Message#
+\SP[15]"...Why...?"
+##
+
+#Message#
+\.\SP[15]"We were gonna... get home... together..."
+##
+
+#Message#
+\.\SP[10]"*sniff*... *sniffle*..."
+##
+
+{Q-taro}
+{SE: Accent21-1}
+#Message#
+\."Don't cry, now..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Gin... Yer a big boy, right...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\."Sara... Kanna... Reko..."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+#Message#
+\."Sara... Kanna..."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+#Message#
+\."You gotta protect 'em, right...?"
+##
+
+{SE: Accent21-1}
+#Message#
+\."Stick with yer allies."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\."Sara... Your allies..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."You gotta protect 'em, right...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Gin}
+#Message#
+"Waaaaahhh...!! *sniff*... But...!!"
+##
+
+#Message#
+\."Muscle gorilla... he was all alone...
+ We couldn't even talk..."
+##
+
+#Message#
+\."I couldn't tell him anything...!! I..."
+##
+
+{Q-taro}
+#Message#
+"..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."No, he knew..."
+##
+
+#Message#
+\."I may just be a copy, but..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Even now...
+ I feel like I'd be willin' to die for you..."
+##
+
+{Gin}
+#Message#
+"What're you saying...?! You can't...!!"
+##
+
+{Q-taro}
+#Message#
+"..."
+##
+
+#Message#
+\."My good fortune..."
+##
+
+{SE: Accent43-1}
+#Message#
+\."Was my heart bein' weak..."
+##
+
+#Message#
+"To tell the truth... I wavered lots of times."
+##
+
+#Message#
+"I even thought about abandoning everybody..."
+##
+
+#Message#
+"Even so... I couldn't..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."It wasn't kindness or anything... It just yielded."
+##
+
+{SE: Accent43-1}
+#Message#
+\."That part of me that wanted to survive
+ even if it meant killin' someone else..."
+##
+
+{Gin}
+#Message#
+"*sniff*... Waahhh..."
+##
+
+{Q-taro}
+{SE: Accent40-1}
+#Message#
+"So... I'm happy..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That I could... come to your aid..."
+##
+
+{Gin}
+#Message#
+"Muscle gorilla...?!"
+##
+
+#Message#
+\."What's wrong?! Muscle gorilla! Mr. Q-taro!!"
+##
+
+{Q-taro}
+{SE: Accent43-1}
+#Message#
+"Thanks... Gin."
+##
+
+{Gin}
+#Message#
+"Mr. Q-taro!!!!"
+##
+
+#Message#
+\."Mr. Q-tarooooo...!!!!"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Accent40-1}
+#Message#
+"And it's over..."
+##
+
+[Meister: Default smile / cara17-8]
+#Message#
+\."All the dolls... have run out of battery."
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: sceneswitch2}
+#Message#
+\."Next will be your final game..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The winner will be decided."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...No, it won't."
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+\."Hm...?"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."We'll escape..."
+##
+
+#Message#
+\."We won't do as you expect us to."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."...Well now, I look forward to that."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."...Gin Ibushi."
+##
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."W... What, meow?!"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: sceneswitch2}
+#Message#
+\."...Keiji Shinogi."
+##
+
+{Keiji} [Keiji: Left arm down, stern / cara2-12]
+#Message#
+\.".........."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: sceneswitch2}
+#Message#
+\."...Kanna Kizuchi."
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."...Y-Yes...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: sceneswitch2}
+#Message#
+\."...Reko Yabusame."
+##
+
+{Reko} [Reko: Fists out, angry eyes / cara6-39]
+#Message#
+\."Yeah...?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: sceneswitch2}
+#Message#
+\."...Alice Yabusame."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\.".........."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: sceneswitch2}
+#Message#
+\."And... Sara Chidouin."
+##
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\."..."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The five of you will have a final match."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Meister: Default smile / cara17-8]
+{SE: sceneswitch2}
+#Message#
+\."...Shin Tsukimi."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."...What...?"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: sceneswitch2}
+#Message#
+\."And... Sara Chidouin."
+##
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\."..."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The four of you will have a final match."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+#Message#
+\."Until then... give some careful thought."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."To the ways you might outwit each other..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+{SE: Accent21-1}
+#Message#
+"Dammit... Of all things, it's just me left..."
+##
+
+{Sara}
+#Message#
+\."Kurumada..."
+##
+
+{Kurumada} [Kurumada: Damaged, frown / cara95-16]
+#Message#
+\."...You guys..."
+##
+
+[Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."...I got a request.
+ I don't care about you bringing me back..."
+##
+
+[Kurumada: Damaged, shouting / cara95-19]
+#Message#
+\."More important... is getting revenge for them!!"
+##
+
+[Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\.\SP[15]"You... got... ta..."
+##
+
+[Kurumada: Damaged, powered off / cara95-44]
+#Message#
+\.\SP[10]".........."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+\."Kurumada...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\.\C[4](His battery...)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](...Just watch. I'm sure we will...!)
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+{SE: Accent21-1}
+#Message#
+"How awful... It's just me left, of all people..."
+##
+
+{Sara}
+#Message#
+\."Mai..."
+##
+
+{Mai} [Mai: Looking down at hand, eyes closed / cara92-18]
+#Message#
+\."...I..."
+##
+
+[Mai: Looking down at hand, angry brows, mouth open / cara92-24]
+#Message#
+\."...I still want to live."
+##
+
+[Mai: Looking down at hand, mouth open, teary eyes / cara92-23]
+#Message#
+\."I owe this life to Q-taro, and all of you..."
+##
+
+{Sara}
+#Message#
+\."...We'll surely bring you back."
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+\."Thank you..."
+##
+
+[Mai: Looking down at hand, eyes closed / cara92-18]
+#Message#
+\.\SP[15]"Sa... ra..."
+##
+
+#Message#
+\.\SP[10]".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](...Just wait for us.)
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent21-1}
+#Message#
+\."So... only I survived, is it..."
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."Suit-and-specs..."
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched / cara94-10]
+#Message#
+\."Gin..."
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: Accent28-1}
+#Message#
+\."Thank you...
+ I've learned true strength from you all..."
+##
+
+[Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+#Message#
+\."There's nothing more to fear...
+ All I have is regrets."
+##
+
+[Hayasaka: Hand in front, mouth open / cara94-5]
+#Message#
+\."Live long, Gin... And the rest of you, too..."
+##
+
+[Hayasaka: Hand sticking out, eyes closed / cara94-21]
+#Message#
+\.\SP[15]"I'm sure... you... can..."
+##
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+#Message#
+\."I promise, meow!! We'll bring you back...!"
+##
+
+{Hayasaka} [Hayasaka: Hand sticking out, eyes closed / cara94-21]
+#Message#
+\.\SP[10]".........."
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."Just wait... woof..."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{N/A}
+#Message#
+\.\C[3]Final Chapter, Part One: End\.\.
+##
+
+#Message#
+\.\C[3]To be continued in the Final Chapter, Part Two\.\.
+##
+

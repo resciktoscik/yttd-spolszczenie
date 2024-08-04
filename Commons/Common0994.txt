@@ -1,0 +1,110 @@
+**********Common994********** (ﾅｵ「１度目ﾊｯｷﾝｸﾞ？」)
+{Nao}
+#Message#
+"When I heard that, I could only think of
+ the password to start up the laptop..."
+##
+
+#Message#
+"Does this mean Kanna is adept with computers too...?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Hyah...?!
+ W-What... is this?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"Hyow?!
+ Did I say something strange?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Looking up and to side, sweatdrop / cara7-27]
+#Message#
+"I don't know much about machines, either..."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"I heard they taught programming in middle school now,
+ but to think they even teach hacking...!"
+##
+
+{Sara}
+#Message#
+\."I'm pretty sure they don't..."
+##
+
+{Nao} [Nao: Looking up and to side, sweatdrop / cara7-27]
+#Message#
+\."But what password could it have been?"
+##
+
+[Nao: Looking up and to side / cara7-26]
+{SE: Accent28-1}
+#Message#
+\."When I heard that, I could only think of
+ the password to start up the laptop..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm...)
+##
+

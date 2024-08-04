@@ -1,0 +1,7 @@
+**********Common462********** (長押しクリア・事後処理)
+{N/A}
+{SE: Applause1}
+#Message#
+\C[3]Won the battle.
+##
+

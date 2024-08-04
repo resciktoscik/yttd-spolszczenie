@@ -1,0 +1,152 @@
+**********Common535********** (ﾚｺ「ﾊﾒる気か？」)
+{Reko}
+#Message#
+"That Mishima AI must've brainwashed Nao!
+ After all... The kidnappers made it...!"
+##
+
+#Message#
+"Nao! Are you... trying to frame me...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"I'm not brainwashed or anything...!
+ I'm speaking of my own volition!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"No, something's definitely wrong!!
+ Nao wouldn't speak so bravely...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](There's no basis to their arguments...!
+ I need to find a clue with someone else!)
+##
+
+{Reko}
+#Message#
+"That's mean as shit, Nao...!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Say whatever you like...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](There's no basis to their arguments...!
+ I need to find a clue with someone else!)
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+"Believe me, Sara...!!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"Are you rolling with this just 'cause
+ you don't wanna sacrifice yourself?!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."That's filthy!! It ain't me who's changed...
+ It's you, Nao!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent21-1}
+#Message#
+\."That Mishima AI must've brainwashed you!"
+##
+
+#Message#
+\."After all... The kidnappers made it...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't understand... I just can't get
+ the sense that this Reko's trying to deceive me!)
+##
+

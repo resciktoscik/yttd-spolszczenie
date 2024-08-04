@@ -1,0 +1,87 @@
+**********Common790********** (ｿｳ「ｶﾞｼｭｰﾒﾘｯﾄは？」)
+{Sou}
+#Message#
+"Gashu had something to gain from
+ tampering with the trade...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"Unfortunately, that's not really proof of anything..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"...No, I don't think so..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"It's out there, but...
+ Maybe in reality, Gashu's an ally."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Like he wanted this to be exposed,
+ so he could put a stop to the Main Game..."
+##
+
+#Message#
+\."Is that... too unthinkable?"
+##
+

@@ -1,0 +1,18 @@
+=====Map192===== (For Fake Video)
+
+**********Event3********** (EV003) (3,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The monster is looking at everyone
+one at a time, as if sizing them up.
+##
+
+#Message#
+\C[3]The monster is staring at \C[2]Hayasaka\C[3].
+##
+
+#Message#
+\.\C[10]"FOUND YOU... FOUND YOU... YOU'RE THE TARGET..."
+##
+

@@ -1,0 +1,82 @@
+**********Common1750********** (◆ﾚｺ)
+{Reko}
+#Message#
+"\N[4] is in the coffin that
+ Hinako was originally in, right?!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"W-What?! What do you mean by that?!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"W-What?! What do you mean by that?!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Ain't there something?!
+ Like it's a little cocoa-colored!"
+##
+
+#Message#
+"Ain't there something?!
+ Like it's a little cocoa-colored!"
+##
+
+{Sara}
+#Message#
+\."I've been observing them the whole time, and no..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Graaaah!! What should we do?!"
+##
+

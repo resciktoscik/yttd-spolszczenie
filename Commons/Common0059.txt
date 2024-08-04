@@ -1,0 +1,97 @@
+**********Common59********** (Q「挑戦者は俺だ」)
+{Q-taro}
+#Message#
+"Straight to the point: I got experience handlin' guns.
+ So leave bein' the Challenger to me."
+##
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"If you got'n objection,
+ ya gotta explain yerself better than that!"
+##
+
+{Sara}
+#Message#
+\C[4](Would a different statement convince him...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Not a lotta people in this country who handle guns.
+ My experience is valuable, ain't it?"
+##
+
+#Message#
+\."You guys gotta think about it rationally."
+##
+
+#Message#
+"Not a lotta people in this country who handle guns.
+ My experience is valuable, ain't it?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."We don't know what the game entails...
+ But if it requires skill with guns, then yes."
+##
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\."Right! I ain't thinkin' a single thought
+ about keepin' my own hide safe."
+##
+
+#Message#
+\."I'm jus' considerin' the best way to beat this game."
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."I... I do get what you're saying, but..."
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."You guys gotta think about it rationally."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."...It's not like we're not thinking either, okay?"
+##
+

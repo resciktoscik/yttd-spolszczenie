@@ -1,0 +1,400 @@
+**********Common1668********** (３前進展⑤初赤点灯)
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ohh...!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."...Wait, is that it?! What's that tell us?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Calm down, Q-taro!
+ That's what we're gonna think about!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Calm yourself, Cubetaro Hamburger!
+ That is what we will now consider...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Muscle gorilla! Calm down, meow!
+ We can think about that together, woof!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."G-Guess you're right..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Listen... We can't use another hint..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If we don't hit \N[4],
+ it'll come around to his turn...!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."We have to prevent that!
+ Gin's life is on the line...!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Ain't gonna let that happen!
+ We'll protect Gin!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."We must prevent that at all costs!
+ We cannot let him have a chance...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: sceneswitch2}
+#Message#
+\."And who knows what's happen
+ if he gets a chance to go..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+"It's okay! Even this single lamp
+ gives us information. For instance..."
+##
+
+#Choice#
+The lamp's shape
+The lamp's color
+The lamp's glow
+The lamp's temperature
+##
+
+<ランプの形>
+
+{Sara} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent40-1}
+#Message#
+"The lamp's shape...!"
+##
+
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."It's just so... round!
+ It's really cute! Right...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+"K-Kanna thinks she's too young to understand...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Oof...! I should've thought before I spoke!)
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Grave glare / cara5-5]
+{SE: horror_piano chord3}
+#Message#
+\C[10]"It sure is... Unlike miss Sara with her jokes."
+##
+
+{Sara}
+#Message#
+\.\C[4](Such unpleasant pressure...! I can't give in!)
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<ランプの色>
+
+<ランプの光り方>
+
+{Sara} [Sou: Grave glare / cara5-5]
+{SE: Accent40-1}
+#Message#
+"The way the lamp glows...!"
+##
+
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Is it a light? Or a glow? Or an illumination...!
+ The different varieties provide us information!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."This is too compleeex!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What do you want me to say?!)
+##
+
+#Message#
+\.\C[4](But... Maybe there's a simpler way to look at it...)
+##
+
+<ランプの温度>
+
+{Sara} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent40-1}
+#Message#
+"The lamp's temperature...!"
+##
+
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Just give it a touch! See? Cold!
+ It's an LED!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Big sis Sara... Is that really correct, meow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Actually, maybe not...)
+##
+
+<Choice End>
+
+{Sara} [Gin: Horrified, claws raised / cara9-9]
+{SE: Accent40-1}
+#Message#
+"The lamp's color...!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Its color?"
+##
+
+{Sara}
+#Message#
+\."Think back to our searching on this floor!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."We saw numerous devices with a relation to color!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Color, huh..."
+##
+
+{Sara}
+#Message#
+\."Think back to our searching on this floor!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."We saw numerous devices with a relation to color!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That's true..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Then we'll have to discuss
+ what we can determine from the color, meow..."
+##
+
+{Sara}
+#Message#
+\."Right! If we all join forces...
+ I'm sure we can solve this mystery!"
+##
+
+#Message#
+\."Let's uncover... \C[2]the secret of the color\C[0]!"
+##
+
+{N/A}
+#Message#
+
+　　　　　　　　 \C[3]The Red Lamp's Meaning
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"It's indicating what's inside! \C[2]Red is... red blood\C[0]!
+ Which means there's a \C[2]human\C[0] in there!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"The lamp indicates the contents! \C[2]Red, for red blood\C[0]!
+ In other words, there's a \C[2]human\C[0] within!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"That lamp says what's inside! \C[2]Red means red blood\C[0]...!
+ And that means there's a \C[2]human\C[0] in there!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+{SE: Accent28-1}
+#Message#
+"Speakin' of color... there were those three buttons
+ on \C[2]Maple's back\C[0]! Red, blue, and yellow!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+{SE: Accent28-1}
+#Message#
+"Color, huh? Weren't there those three buttons
+ on \C[2]Maple's back\C[0]? Red, blue, and yellow..."
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+"Come to think of it, I feel like I read a \C[2]message\C[0]
+ involving the colors \C[2]red, blue, and yellow\C[0]..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+"You know, I seem to recall seeing a \C[2]message\C[0]
+ mentioning the colors \C[2]red, blue, and yellow\C[0]..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, grin / cara95-17]
+{SE: Accent41-1}
+#Message#
+"Hey, could it be \C[2]gender\C[0] or somethin'? Lotsa bathrooms
+ in Japan use red for girls, blue for boys, yeah?"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I don't know if it's relevant, but...
+ There was a colored glow for my \C[2]fingerprint scan\C[0]!"
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I'm unsure if it's relevant, but... When Mai did her
+ \C[2]fingerprint scan\C[0], there was a colored glow..."
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"I kinda feel like it's gonna be hard to theorize
+ just from the color of the lamp, woof...!!"
+##
+

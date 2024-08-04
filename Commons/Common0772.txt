@@ -1,0 +1,82 @@
+**********Common772********** (ｱﾘｽ「ガレキやってた」)
+{Alice}
+#Message#
+"I was moving rubble with Keiji Shinogi...
+ I didn't see what those three were up to...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"You mean to question me...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"I rested for not a second while moving that debris."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: Accent21-1}
+#Message#
+\."All I can prove is Keiji Shinogi's alibi."
+##
+

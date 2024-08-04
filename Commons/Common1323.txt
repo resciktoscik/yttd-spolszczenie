@@ -1,0 +1,554 @@
+**********Common1323********** (③過去正解の解答)
+{Keiji}
+#Message#
+\C[4](Q-taro was in a wheelchair.)
+##
+
+#Message#
+\.\C[4](Seems his injury was pretty serious...)
+##
+
+#Message#
+\C[4](This chair Q-taro is sitting in...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Yep! It was a wooden chair!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: flash-of-light-3}
+#Message#
+\."Come to think, though, that can't be it!
+ It was comfier'n that!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Comfier...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That's right... Because..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"It was a wheelchair!!"
+##
+
+#Message#
+"I completely forgot...!!
+ My leg injury was worse than I thought!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Seems like it'd take some time to treat."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Yeah... A fatally long time for a second-string player
+ itchin' to get back into pro baseball..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\.\C[4](He must have been feeling awfully impatient...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\C[4](These papers on the table weren't sheet music;
+ they were articles about Alice's case.)
+##
+
+#Message#
+\.\C[4](And the person Reko was meeting with brought them...
+ What could it mean?)
+##
+
+#Message#
+\C[4](This sheet music spread out on the table...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Alright, I'll try...!"
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: sceneswitch2}
+#Message#
+\."That's not it...! This wasn't sheet music!"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."They were... articles about Alice's case!!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."And it wasn't me who brought 'em, either...!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."It was him! The guy I met with...
+ He brought them to show me!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Huh...?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Seeing those articles talk like it was funny...
+ It made my damn blood boil!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."And I got so upset, I started cryin'...!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+{SE: Accent42-1}
+#Message#
+\."Because... Alice was being derided?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent21-1}
+#Message#
+\."...Yeah..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Whether it was me wantin' to stick up for him,
+ or if I was pissed on Alice's behalf... I dunno."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Dammit...!"
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](So was this connected to Alice's incident...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](There was a letter here
+ instead of the usual briefcase.)
+##
+
+#Message#
+\.\C[4](It was apparently a note thanking Sou for his help.)
+##
+
+#Message#
+\C[4](This big briefcase on the floor...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...I'll try it."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.".........."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent21-1}
+#Message#
+\."That's right... I remember."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"One day, the briefcase was gone...
+ and there was just a letter left."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."The letter was simple, too..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent41-1}
+#Message#
+\.""Thanks for your help.
+ Erase the data on the computer"..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."Did you comply?"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+\."Surely not.
+ I tried fishing around, but..."
+##
+
+[Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."A message popped up that said "No peeking!",
+ and it ran a program that erased all the data anyway."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."That was frustrating..."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](I'll bet...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](Gin's teacher... would take documents
+ out of this black safe here.)
+##
+
+#Message#
+\.\C[4](He would observe Gin and write things down...)
+##
+
+#Message#
+\C[4](These files on the shelves...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent21-1}
+#Message#
+\."Meow-meow! Got it! Hold on, woof!"
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\."Myaaah... Come to think of it..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I feel like there was a black safe there, meow!"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."When teacher talked to me,
+ he'd always take papers out and write on them, meow!"
+##
+
+[Gin: Default / cara9-1]
+{SE: Accent41-1}
+#Message#
+\."He wouldn't show me what he wrote...
+ I wonder what it was, woof...?"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."He kept it hidden from you?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Yeah... I kinda didn't like it,
+ 'cause it was like I was being observed, meow."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](An observation log...? Surely not...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](There was writing on
+ the paper ice cream cones posted to the wall.)
+##
+
+#Message#
+\.\C[4](Apparently, customers at the shop
+ would write their wishes... Hmm...)
+##
+
+#Message#
+\C[4](These paper ice cream cones on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: Accent21-1}
+#Message#
+\."Okay! Um... Let's see..."
+##
+
+[Kanna: Looking down to side, eyes looking back curiously / cara3-17]
+#Message#
+\."Huh? Actually, I feel like..."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."There was... a lot of writing... That's right..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."They were... people's wishes."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."Wishes...?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I think... customers at the shop would write them."
+##
+
+[Kanna: Neutral smile / cara3-9]
+{SE: Accent42-1}
+#Message#
+\."Things like "I hope I won't put on weight,"
+ or "I hope I won't get cavities"..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Such greed...)
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+\."I feel like I got curious about it,
+ and talked with the clerk..."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Hrmm... but I don't remember what he said."
+##
+
+{Sara} [Sara: Hands on hips, groan / cara0-22]
+#Message#
+\.\C[4](I'm feeling kind of uneasy...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Hands on hips, groan / cara0-22]
+#Message#
+\C[4](The guard was \N[4]...)
+##
+
+#Message#
+\.\C[4](What does this mean...? According to Alice,
+ his head was pierced through in the incident...)
+##
+
+#Message#
+\C[4](The face of this guard watching the prisoners...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this person a little more?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."You...! You seek to give a reason to everything!"
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."..."
+##
+
+[Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."...Ah...!!"
+##
+
+{Sara} [Sara: Hands on hips, upset / cara0-13]
+#Message#
+\."W-What's the matter?!"
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."A... Absurd... He..."
+##
+
+[Alice: Confused shout / cara11-7]
+#Message#
+\."The guard that day...!"
+##
+
+{SE: shock1}
+#Message#
+\."It was \N[4]...!!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."What does that mean...?!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."I-I know not...!
+ And yet, I saw him there..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Damn it!! I feel as if I'm going to go nuts...!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."I went to prison because I killed him!
+ And yet, I reunited with him there...?!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."S-Stay calm...! For now, just remember!
+ Don't think about it...!"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Ghh..."
+##
+
+<やめる>
+
+<Choice End>
+

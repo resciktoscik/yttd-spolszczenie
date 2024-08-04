@@ -1,0 +1,189 @@
+**********Common46********** (ﾐｼﾏ・自己紹介)
+{Mishima}
+#Message#
+"I am Kazumi Mishima.
+ I teach at a certain high school... Mwahaha..."
+##
+
+[Mishima: Default smile / cara12-1]
+#Message#
+"Thanks to the two of us working together,
+ we were able to overcome the First Trial..."
+##
+
+#Message#
+\."A good student I have, indeed..."
+##
+
+#Message#
+"Incidentally, I teach Japanese and art... Mwaha..."
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+\."Huh, a school teacher? Can't picture it."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Indeed, I hear that often..."
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+\."I've got no right to say it,
+ but you're suspicious from every angle."
+##
+
+{Woman in Overalls} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."You truly don't have any right to say that!
+ Apologize to the professor, please!"
+##
+
+{Blond Man} [Keiji: Frown / cara2-2]
+#Message#
+\."Whoa now. What's this, little miss?"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."Pardon...
+ You see, she is a former student of mine.
+ Please forgive her..."
+##
+
+{Woman in Overalls} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."He's a really good teacher!
+ Please don't judge a book by its cover!"
+##
+
+{Mishima} [Mishima: Mouth open / cara12-2]
+#Message#
+\."I suppose my appearance is shady after all...
+ How shocking."
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+\."Well, don't have much else to judge on.
+ Dunno much about you either, little miss."
+##
+
+{Woman in Overalls} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+{SE: Accent28-1}
+#Message#
+\."I'll introduce myself...!
+ There's nothing guilty about us!"
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Well, excuse me."
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."It's time to cool down, yes..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I ask Professor Mishima something?)
+##
+
+#Choice#
+Ideas about this incident
+Memories before arriving
+##
+
+<この事件の心当たり>
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+"Hrrrmmmmm...
+ I don't... recall earning anyone's ire..."
+##
+
+{Sara}
+#Message#
+\."I see..."
+##
+
+{Mishima}
+#Message#
+\."Of course, surely there have been times
+ I've been disliked by students... but."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."No, no student would cause such an incident...
+ So I'd like to believe..."
+##
+
+#Message#
+\."For after all, as you can see, I even have students
+ who come to visit me after graduation... Mwahaha."
+##
+
+{SE: Accent28-1}
+#Message#
+\."I believe we made it through the \C[2]First Trial\C[0]
+ thanks to our combined knowledge, as well."
+##
+
+<ここへ来るまでの記憶>
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+"It was a joyous day.
+ My students wished to be taught oil painting,
+ so I held a lesson at my secret atelier..."
+##
+
+{Woman in Overalls} [Nao: Mouth open / cara7-1]
+#Message#
+\."Everyone loves the professor!"
+##
+
+{Mishima} [Mishima: Default smile / cara12-1]
+#Message#
+\."I drove everyone home as well...
+ And while heading for the last house,
+ there was a security checkpoint."
+##
+
+#Message#
+\."After being stopped there...
+ it seems I lost consciousness."
+##
+
+{SE: Accent28-1}
+#Message#
+\."When I awoke, the \C[2]First Trial\C[0] began."
+##
+
+{Sara}
+#Message#
+\."!"
+##
+
+{Mishima}
+#Message#
+\."We emerged safe thanks to our combined wits.
+ Saved by my own student..."
+##
+
+<Choice End>
+
+{Sara} [Mishima: Default smile / cara12-1]
+{SE: Accent21-1}
+#Message#
+\.\C[4](The First Trial...?!)
+##
+

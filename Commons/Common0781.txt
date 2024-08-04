@@ -1,0 +1,126 @@
+**********Common781********** (ﾅｵ「ｿｳのﾊｯｸ？」)
+{Nao}
+#Message#
+"There isn't anyone but Sou
+ who could \C[2]cause an irregularity\C[0], is there...?!"
+##
+
+#Message#
+"Don't tell me...
+ I wonder if Sou hacked the role cards themselves...?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"U-Um, what is this, exactly?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"I'm sorry, what did you mean exactly...?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Sou is the only one if us
+ who can practically use a computer..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Sure enough... Maybe Sou hacked it..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"This might be an absurd opinion, but..."
+##
+
+[Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."Sou was spending his remaining time
+ messing with the laptop in the Winner's Room, right?!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I wonder, did he hack the card data then?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Is that even possible...?!)
+##
+
+{Nao} [Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."Because... I mean...!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."There isn't anyone but Sou
+ who could \C[2]cause an irregularity\C[0], is there...?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Someone who could cause an irregularity...?)
+##
+

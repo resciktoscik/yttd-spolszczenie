@@ -1,0 +1,144 @@
+**********Common1632********** (●ﾚｺ「ﾋﾂｷﾞ見分け」)
+{Reko}
+#Message#
+"There's gotta be something, right...?!
+ Like a way to \C[2]see things the eye can't see\C[0]...!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+"Sara... I don't think that's it...!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+"Sara! Think about it some more!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Well?! Thought of anything?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Things the eye can't see...)
+##
+
+#Choice#
+Use our ears or noses
+Use an item
+Trust in luck
+##
+
+<耳や鼻を使う>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent40-1}
+#Message#
+"How about we judge by using our ears or noses...
+ in other words, by smell or sound?"
+##
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+{SE: Accent21-1}
+#Message#
+\."I got good ears, but... they're soundproof, right?"
+##
+
+[Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."And how're we gonna distinguish coffins by smell?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](True... Hrmm...)
+##
+
+<道具を使う>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent40-1}
+#Message#
+"How about we use an item?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent21-1}
+#Message#
+\."Sounds like you got something in mind...!
+ Alright! Show me this item of yours!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'll present it to her...)
+##
+
+<運を信じる>
+
+{Sara} [Reko: Mouth open / cara6-2]
+{SE: Accent40-1}
+#Message#
+"Let's bet on the 1-in-8 chance.
+ Don't worry, I'm a lucky girl."
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."S-S-S-Sara...?!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."It's okay! I'm here for you...!!
+ We'll remember proper judgement one step at a time!"
+##
+
+<Choice End>
+

@@ -1,0 +1,216 @@
+**********Common952********** (２回目の交換)
+{N/A}
+#Message#
+\>[Second Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[10]Sacrifice\C[0]) ⇔ Q-taro (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [Second Trade]
+Cancel
+##
+
+<考察【２回目の交換】>
+
+{Sara}
+#Message#
+\C[4](The \C[5]Commoner\C[4] that Q-taro started with
+ apparently got changed to the \C[10]Sacrifice\C[4].)
+##
+
+#Message#
+\.\C[4](At the time, I was with Keiji in the 1F kitchen,
+ listening to Miley and someone else talk.)
+##
+
+#Message#
+\.\C[4](In the end, I don't know who initiated this trade...
+ But right now, I'll trust everyone.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Second Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[10]Sacrifice\C[0]) ⇔ Q-taro (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [Second Trade]
+Cancel
+##
+
+<考察【２回目の交換】>
+
+{Sara}
+#Message#
+\C[4](The \C[5]Commoner\C[4] that Q-taro started with
+ apparently got changed to the \C[10]Sacrifice\C[4].)
+##
+
+#Message#
+\.\C[4](At the time, I was with Keiji in the 1F kitchen,
+ listening to Miley and someone else talk.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Second Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[10]Sacrifice\C[0]) ⇔ Q-taro (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [Second Trade]
+Cancel
+##
+
+<考察【２回目の交換】>
+
+{Sara}
+#Message#
+\C[4](The \C[5]Commoner\C[4] that Q-taro started with
+ apparently got changed to the \C[10]Sacrifice\C[4].)
+##
+
+#Message#
+\.\C[4](At the time, I was with Keiji in the 1F kitchen,
+ listening to Miley and someone else talk.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Second Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[10]Sacrifice\C[0]) ⇔ Q-taro (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [Second Trade]
+Cancel
+##
+
+<考察【２回目の交換】>
+
+{Sara}
+#Message#
+\C[4](The \C[5]Commoner\C[4] that Q-taro started with
+ apparently got changed to the \C[10]Sacrifice\C[4].)
+##
+
+#Message#
+\.\C[4](At the time, I was with Keiji in the 1F kitchen,
+ listening to Miley and someone else talk.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Second Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[10]Sacrifice\C[0]) ⇔ Q-taro (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [Second Trade]
+Cancel
+##
+
+<考察【２回目の交換】>
+
+{Sara}
+#Message#
+\C[4](The \C[5]Commoner\C[4] that Q-taro started with
+ apparently got changed to the \C[10]Sacrifice\C[4].)
+##
+
+#Message#
+\.\C[4](At the time, I was with Keiji in the 1F kitchen,
+ listening to Miley and someone else talk.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Second Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[10]Sacrifice\C[0]) ⇔ Q-taro (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [Second Trade]
+Cancel
+##
+
+<考察【２回目の交換】>
+
+{Sara}
+#Message#
+\C[4](The \C[5]Commoner\C[4] that Q-taro started with
+ apparently got changed to the \C[10]Sacrifice\C[4].)
+##
+
+#Message#
+\.\C[4](At the time, I was with Keiji in the 1F kitchen,
+ listening to Miley and someone else talk.)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\>[Second Trade]\<
+\>Performed By: ???\<
+
+\>??? (\C[10]Sacrifice\C[0]) ⇔ Q-taro (\C[5]Commoner\C[0])\<
+##
+
+#Choice#
+Ponder [Second Trade]
+Cancel
+##
+
+<考察【２回目の交換】>
+
+{Sara}
+#Message#
+\C[4](The \C[5]Commoner\C[4] that Q-taro started with
+ apparently got changed to the \C[10]Sacrifice\C[4].)
+##
+
+#Message#
+\.\C[4](At the time, I was with Keiji in the 1F kitchen,
+ listening to Miley and someone else talk.)
+##
+
+<やめる>
+
+<Choice End>
+

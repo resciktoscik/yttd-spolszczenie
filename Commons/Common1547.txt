@@ -1,0 +1,17 @@
+**********Common1547********** (⑧アンズB選択)
+{N/A}
+#Message#
+"Oogh... Should I absorb charge?"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

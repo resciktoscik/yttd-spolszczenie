@@ -1,0 +1,458 @@
+=====Map22===== (Game Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Is this... a game room?"
+##
+
+#Message#
+\."...Pretty lonesome, considering."
+##
+
+{Sara}
+#Message#
+\."Feels like there'd be some kind of
+ puzzle or trick to this place."
+##
+
+{Sou}
+#Message#
+\."I'll rely on your insight, miss Sara..."
+##
+
+
+**********Event3********** (da-tu) (7,4)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"It's a dartboard."
+##
+
+#Message#
+\."How dreary...
+ Playing here would just feel lonely."
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I throw the dart I have...?)
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Sou: Mouth open / cara5-1]
+#Message#
+\."Hiyaaaaa!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I forcefully throw my dart toward the target.
+##
+
+#Message#
+\.\C[3]Suddenly, a strong wind blows from above,
+and the dart plummets into darkness.
+##
+
+#Message#
+\.\C[3]Lost the Dart!
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"Such a shame! Zero points."
+##
+
+<いいえ>
+
+<Choice End>
+
+-----Page2-----
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"Oh! You can play darts here!"
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Darts and billiards are cool, aren't they?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I throw the dart I have...?)
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Hiyaaaaa!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I forcefully throw my dart toward the target.
+##
+
+#Message#
+\.\C[3]Suddenly, a strong wind blows from above,
+and the dart plummets into darkness.
+##
+
+#Message#
+\.\C[3]Lost the Dart!
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+"H... Hey, is that okay...?
+ Couldn't that've been... a clue...?"
+##
+
+<いいえ>
+
+<Choice End>
+
+-----Page3-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"It's a dartboard."
+##
+
+#Message#
+\."How dreary...
+ Playing here would just feel lonely."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"Oh! You can play darts here!"
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Darts and billiards are cool, aren't they?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I know...! I can shoot the target
+ with this dart-loaded revolver!)
+##
+
+#Choice#
+Shoot target with revolver
+Cancel
+##
+
+<リボルバーで的を撃つ>
+
+{Sara} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."...!"
+##
+
+{N/A}
+#Message#
+"Congratulations! Congratulations!
+ A fantastic bullseye!"\|\|
+##
+
+#Message#
+\."For hitting the bullseye, you get a wonderful gift!"
+##
+
+#Message#
+\."Please look into the hole!"
+##
+
+#Message#
+\.\C[3]Exercising caution as I looked into
+the hole around the dartboard...
+##
+
+#Message#
+\.\C[3]I saw something within reach.
+##
+
+{SE: warning2}
+#Message#
+\.\C[3]Obtained a \C[10]Left Leg\C[3].
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Urgh... That's the worst...!"
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."...Hm?"
+##
+
+#Message#
+\."Oh...
+ Looking closer... It's a doll leg, huh."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."How mean to pull the same trick over and over...
+ I'll hold on to this."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+"Yahh!! That's fr...\! freakin' nothing!
+ I'm not freaked at all!"
+##
+
+[Joe: Eyes-open smile / cara1-12]
+#Message#
+\."Ugh... all these incomprehensible setups.
+ It's just a fake leg, huh?"
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."I'll hold onto it. It's heavy, right?"
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page4-----
+#Message#
+\C[3]The dartboard sits there suspiciously.
+##
+
+
+**********Event4********** (kaze) (7,2)
+-----Page1-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"What's that thing above the dartboard?"
+##
+
+#Message#
+\."Seems to be a breeze blowing..."
+##
+
+-----Page2-----
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"Don't you feel a breeze
+ coming from above the dartboard?"
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Doesn't seem like an air conditioner or anything."
+##
+
+
+**********Event5********** (ダーツ) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A fancy dart.
+It's extremely solidly-made.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event6********** (シガーカッター) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar cutter.
+A tool for cutting a cigar to smoke it.
+##
+
+
+**********Event7********** (はまき) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A cigar with high-quality wrapping.
+##
+
+
+**********Event8********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event9********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+What's the large hole in the center for...?
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]Could probably combine this with another item.
+##
+
+#Choice#
+Combine
+Cancel
+##
+
+<組み合わせる>
+
+{N/A}
+#Message#
+Stuck the Dart into the large hole
+in the center of the Revolver.
+##
+
+#Message#
+\C[3]Combined the \C[2]Dart\C[3] with the \C[2]Revolver\C[3]!
+##
+
+{Sara}
+#Message#
+\.\C[4](Everything's worth a try...
+ Can I fire the dart with this now?)
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event10********** (ダミー団) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Dummy bullets. I have 6. If you pull the trigger
+with these, it'll only make a sound.
+##
+
+
+**********Event11********** (あたり) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Live bullets. I have 3.
+Can be loaded into a gun and fired. Extremely lethal.
+##
+
+
+**********Event12********** (１０００) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A 1000-yen bill.
+Paper money usable in Japan.
+##
+
+
+**********Event58********** (ana) (3,8)
+-----Page1-----
+#Message#
+\C[3]There's a very deep hole here.
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"Don't slip and fall down it!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Yikes... That's deep, all right."
+##
+
+#Message#
+\."Seems like there's wind blowing..."
+##
+
+
+**********Event77********** (aka) (3,4)
+-----Page1-----
+#Message#
+\C[3]The red door is shut fast.
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"Won't open, huh..."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"How curious..."
+##
+
+
+**********Event82********** (ao) (1,4)
+-----Page1-----
+#Message#
+\C[3]The blue door seems to open easily.
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+"That's the room where we did Russian Roulette."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Seems we can enter anytime."
+##
+

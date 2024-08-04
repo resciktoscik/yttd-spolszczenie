@@ -1,0 +1,19 @@
+**********Common1462********** (⑤アリスB選択２)
+{N/A}
+#Message#
+"Tch...!
+ I can at least block \N[4]'s escape!
+ Fire again, Keiji!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

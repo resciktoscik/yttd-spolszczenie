@@ -1,0 +1,49 @@
+**********Common1415********** (バトル②アニメ選択)
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](If this were magma, this room would
+ surely be a lot hotter right now...!)
+##
+
+#Message#
+\.\C[4](I'll investigate what it really is!)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Are the different-colored ropes
+ a hint to the puzzle...?)
+##
+
+#Message#
+\.\C[4](I'll grab them and investigate!)
+##
+
+#Message#
+\.\C[4](What? The back-left post
+ has some sort of power cord on it...!)
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+#Message#
+"H-Hey, you find something?!"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."Perfect! Ranmaru!
+ Check that power cord there!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](The fact there's a shadow here...
+ means something is blocking the lights!)
+##
+
+#Message#
+\.\C[4](I'll take a look at the ceiling!)
+##
+

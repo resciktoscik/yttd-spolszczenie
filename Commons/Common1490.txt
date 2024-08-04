@@ -1,0 +1,54 @@
+**********Common1490********** (⑥サラB選択)
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Else>
+
+{N/A}
+#Message#
+\C[4](What should I do...?)
+##
+
+#Choice#
+\C[2]Reconcile
+Observe situation
+Save game
+Let time pass
+Cancel
+##
+
+<\C[2]仲直りする>
+
+<今の状況を確認する>
+
+<セーブをする>
+
+<何もせず時間を進める>
+
+<やめる>
+
+<Choice End>
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[4](What should I do...?)
+##
+
+#Choice#
+Observe situation
+Save game
+Let time pass
+Cancel
+##
+
+<今の状況を確認する>
+
+<セーブをする>
+
+<何もせず時間を進める>
+
+<やめる>
+
+<Choice End>
+

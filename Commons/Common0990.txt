@@ -1,0 +1,156 @@
+**********Common990********** (①進展●「ｶﾝﾅがﾊｯｷﾝｸﾞ」)
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."That's..."
+##
+
+{Sara}
+#Message#
+\."It's fine, you can get mad!
+ Let what's in your heart come right out!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Kanna... Kanna...!!"
+##
+
+[Kanna: Angry shout (lightless eyes) / cara3-14]
+#Message#
+\."She isn't a hindrance at all!!"
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+\."Sou's saying mean things
+ just because he can do hacking, but..."
+##
+
+[Kanna: Angry shout / cara3-23]
+#Message#
+\."Wasn't \C[2]Kanna\C[0] the one who \C[2]did hacking first\C[0]?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Eh...?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ah..."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\.".........."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."H-Hold yer horses!! How d'you mean that?!"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Ermm... u-um..."
+##
+
+{Sara}
+#Message#
+\.\C[4](K... Kanna did hacking...?)
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent28-1}
+#Message#
+\."...*sigh* You never make yourself clear."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Please! Tell us 'bout this in a li'l more detail!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Speak in a little more detail, if you can."
+##
+
+<Condition End>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."O... Okay..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+"Kanna... did some hacking way before
+ Sou did any of his hacking!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Err... what \C[2]kind\C[0] of hacking was it?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."I figured out a password...
+ Breaking into someone else's things...
+ That's called hacking, right?"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Does this mean Kanna is adept with computers too...?!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."You can't call something like that hacking.
+ ...Don't misuse words you only just learned."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Alright, Sara.
+ Let's advance the discussion like this."
+##
+
+{Sara}
+#Message#
+\."Yes...!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."\C[2]Extract\C[0] statements to expand the discussion..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+"Present \C[2]items\C[0] to use them as evidence,
+ or \C[2]have statements duke it out\C[0] to find discrepancies."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

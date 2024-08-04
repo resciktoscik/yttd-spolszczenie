@@ -1,0 +1,531 @@
+**********Common1088********** (■移動せずイベント２)
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: Accent21-1}
+#Message#
+"...Planning on going to the control room?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Shorty! Don't just sulk, you come too, meow!"
+##
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+{SE: Accent28-1}
+#Message#
+\."Did you forget about the \C[2]collar pairing\C[0]?
+ If I \C[2]get too far\C[0] from Keiji, my collar \C[2]explodes\C[0]."
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\.\C[4](Right, Hinako was paired with Keiji...)
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."In the end, we're slaves robbed of our freedom..."
+##
+
+[Hinako: Eyes closed / cara93-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We have to kill our masters...
+ or we'll never be let free."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."..."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+"Big sis Sara, can't we search a little more, meow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I guess he's right...)
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+"That \N[4]...
+ He left the form here, but where'd he go?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+\."Wonder if he left behind any clues, meow?"
+##
+
+[Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Big sis Sara!
+ Aren't you gonna ask him stuff, meow?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That's true...)
+##
+
+{Shin AI}
+#Message#
+\sw[324]"Wait... you guys..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Are you... um...
+ trying to kill Hiyori...?"\sw[325]
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+You got it
+Surely not
+##
+
+<その通りだ>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"...You got it."
+##
+
+{Shin AI}
+#Message#
+\."..."
+##
+
+<まさか>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"...Surely not."
+##
+
+{Shin AI}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Shin AI} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\.\sw[324]"Death Game... I see...
+ So it's like that..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Hey... this is just a "maybe," but..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Hiyori... might want to have a party..."\sw[325]
+##
+
+{Gin}
+#Message#
+"Meow...?"
+##
+
+{Shin AI}
+#Message#
+\.\sw[324]"A big banquet...
+ He always seemed to be waiting for friends..."\sw[325]
+##
+
+{Sara}
+#Message#
+\.\C[4](That's true, I suppose...)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+"No way we can leave yet, right...?"
+##
+
+[Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: se_maoudamashii_magical14}
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\."Ranmaru...?"
+##
+
+#Choice#
+Let's hurry
+What's wrong?
+##
+
+<早く行くぞ>
+
+{Sara} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+"Let's hurry! Ranmaru!"
+##
+
+<どうした？>
+
+{Sara} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+{SE: Accent41-1}
+#Message#
+"What's the matter? Why did you stop...?"
+##
+
+<Choice End>
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side, mouth hidden / cara91-35]
+#Message#
+\.".........."
+##
+
+[Ranmaru: Hand on face, looking to side, mouth hidden, sweating fearfully / cara91-36]
+{SE: Accent21-1}
+#Message#
+\."S-Sorry... Let's go..."
+##
+
+{Sara}
+#Message#
+"...?"
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+"Wait up, Sara-senpai... Aren't you going to talk?"
+##
+
+[Hinako: Mouth open / cara93-2]
+#Message#
+"We're looking for the charger, right?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"Big sis Sara! Where are you going, meow?"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+#Message#
+"Let's search a little more... alright?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{\N[4]}
+{SE: Accent41-1}
+#Message#
+"Aww, how boring..."
+##
+
+<Else>
+
+[Midori: Open-mouth frown / cara19-3]
+{SE: Accent41-1}
+#Message#
+"Ahh... So close..."
+##
+
+<Condition End>
+
+[Midori: Default grin / cara19-2]
+#Message#
+"I thought you'd finally wake up, miss Sara..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."But alas... you're still the dependable leader."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](\N[4]...! He saw all that?!)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](I need to talk to \N[4]...!)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"Please... Sara."
+##
+
+[Ranmaru: Hands in pockets, furrowed brow, mouth closed / cara91-21]
+{SE: Accent41-1}
+#Message#
+"Hey, sorry, Sara... Could I rest here for a sec?"
+##
+
+{Sara}
+#Message#
+\."What's wrong?"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, mouth open / cara91-15]
+#Message#
+\."Just for a bit... I'll catch up soon."
+##
+
+{Sara}
+#Message#
+\."...Alright. Don't overdo it."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent28-1}
+#Message#
+"Oh, Sara. This where you were?"
+##
+
+{Sara}
+#Message#
+\."Ranmaru..."
+##
+
+#Choice#
+You rested up?
+You're okay...!
+Reunion hug
+##
+
+<休めたか？>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: Accent40-1}
+#Message#
+"You get some good rest?"
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: Accent21-1}
+#Message#
+\."Yep, as you can see, I'm doin' great."
+##
+
+<無事だったか…！>
+
+{Sara} [Ranmaru: Hand up, mouth closed / cara91-2]
+{SE: flash-of-light-3}
+#Message#
+"You're okay...!!"
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."Why so exaggerated?! I said just for a sec, right?!"
+##
+
+<再会のハグ>
+
+{Sara} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+{SE: flash-of-light-3}
+#Message#
+"So we meet again!"
+##
+
+{Ranmaru}
+#Message#
+\."Whoa, h... hold on...!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Grumpy cotton candy!
+ Get away from big sis Sara, meow!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Whaaa..."
+##
+
+<Choice End>
+
+{Sara} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Alright, let's go. Come along, Ranmaru."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Where d'ya think yer goin'?"
+##
+
+#Message#
+"Where d'ya think yer goin'?"
+##
+
+{SE: Accent21-1}
+#Message#
+"Do you sense somethin'...?"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+{SE: Accent41-1}
+#Message#
+"Um... Q-taro..."
+##
+
+[Safalin: Default frown / cara15-1]
+{SE: Accent21-1}
+#Message#
+\."You look pained... Are you injured...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."I... I'm awright..."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Um, um! I can examine you...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."..."
+##
+
+{Keiji}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Better not
+Go on, get checked
+##
+
+<やめた方が良い>
+
+{Keiji} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+"Wahah... Better not. She's our enemy, after all..."
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."B... But, but! You really look like you're in pain!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+\."...Sorry. I'll stay an' get treated for a bit."
+##
+
+[Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+#Message#
+\."Honestly... it's been pretty rough..."
+##
+
+{Keiji}
+#Message#
+\."Has it, now..."
+##
+
+<診てもらいなよ>
+
+{Keiji} [Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+{SE: Accent21-1}
+#Message#
+"Go ahead and have her examine you, Q-taro."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."...R-Right..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent28-1}
+#Message#
+\."...Alright. Sorry, but I'll stay here
+ and get treated for a li'l while."
+##
+
+[Q-taro: Touching cap, face in shadow, grin with sweat / cara4-24]
+#Message#
+\."Honestly... it's been pretty rough..."
+##
+
+{Keiji}
+#Message#
+\."Don't go overboard with acting tough..."
+##
+
+<Choice End>
+
+{Mai} [Mai: Looking down at hand / cara92-17]
+{SE: Accent11-1}
+#Message#
+\."Leave it to us! You rest up, Q-taro!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+"Hey, Keiji..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent41-1}
+#Message#
+\."Sorry, but couldja drop by the cemetery?"
+##
+
+{Keiji}
+#Message#
+\."Hm? Well, alright..."
+##
+
+#Message#
+\C[4](The cemetery...)
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Hwooooooh nelly!! Where you goin'?!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."...Gack! *cough, cough*!!"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."Q-tarooooo!!"
+##
+
+{Keiji}
+#Message#
+\C[4](Can't make Q-taro joke around right now...)
+##
+

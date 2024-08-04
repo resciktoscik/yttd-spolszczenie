@@ -1,0 +1,34 @@
+**********Common1500********** (⑥カンナB選択)
+{N/A}
+#Message#
+"It's a nice handkerchief... but her name's on it.
+ Let's thank her and give it back."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+"Kanna thinks we should accept the handkerchief...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

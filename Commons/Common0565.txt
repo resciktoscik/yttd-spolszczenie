@@ -1,0 +1,149 @@
+**********Common565********** (●撃墜ハエ叩きゲームへ)
+#Message#
+\C[3]Now's not the time for attractions.
+##
+
+#Message#
+\C[3]I've already cleared this attraction.
+##
+
+{N/A}
+#Message#
+\C[3][Fly Swatter]
+Participants: 2
+Clear Chip Reward: ★★
+Difficulty: Normal
+##
+
+#Message#
+\.\C[3]Your opponents summon enemies that swarm and attack.
+Strike them down and defeat three summoners to win.
+##
+
+#Choice#
+Select partner
+Cancel
+##
+
+<相棒を選ぶ>
+
+#Choice#
+Kanna
+Nao
+Gin
+Cancel
+##
+
+<カンナ>
+
+{N/A} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\.Kanna Kizuchi
+As Kanna, the number of enemies summoned decreases.
+
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Kanna
+Reselect
+##
+
+<カンナを相棒にする>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\.".........."
+##
+
+<選びなおす>
+
+<Choice End>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\.Kanna Kizuchi
+As Kanna, the number of enemies summoned decreases.
+
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Kanna
+Reselect
+##
+
+<カンナを相棒にする>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."F... Flies...?
+ I'm not good with bugs... But I'll do my best..."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<ナオ>
+
+{Kanna} [Nao: Mouth open / cara7-1]
+#Message#
+\.Nao Egokoro
+As Nao, the time before being attacked increases.
+
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Nao
+Reselect
+##
+
+<ナオを相棒にする>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Understood!
+ I'll try to meet your expectations, Sara!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<ギン>
+
+{Nao} [Gin: Default / cara9-1]
+#Message#
+\.Gin Ibushi
+As Sara, Gin sometimes cheers to recover health.
+He'll also recover health if you touch his icon.
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Gin
+Reselect
+##
+
+<ギンを相棒にする>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Whaaa!? Bugs, meow?!
+ Grrr... I'll do my best, woof!!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

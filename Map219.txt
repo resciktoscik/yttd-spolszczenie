@@ -1,0 +1,284 @@
+=====Map219===== (3-1 Preparation)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](We've arrived in quite the place...)
+##
+
+#Message#
+\.\C[4](I don't see any coffins anywhere...)
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: Accent21-1}
+#Message#
+"Now... It's about time..."
+##
+
+{Sara}
+#Message#
+\C[4](..........)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](I'll prepare myself...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I'm not going to sacrifice anyone...!!)
+##
+
+-----Page4-----
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Ah...?! The platform rotated?!)
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Incredible, eh? Using this machine,
+ you guys gotta locate \N[4]."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Locate \N[4]...?"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: sceneswitch2}
+#Message#
+\."Yep... in one of these nine coffins.
+ Whoever \C[2]hits their target first wins\C[0]!"
+##
+
+[Meister: Default smile / cara17-8]
+#Message#
+\."That is the Russian Roulette Banquet!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Y-You mean..."
+##
+
+{Meister} [Meister: Hat in hand / cara17-10]
+{SE: shock1}
+#Message#
+\.\C[10]"Naturally... the challenger dies if they're hit."
+##
+
+{Kanna} [Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."Then... Gin's life is on the line...?!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."That means..."
+##
+
+{Meister} [Meister: Hat in hand / cara17-10]
+{SE: shock1}
+#Message#
+\.\C[10]"Naturally... the challenger dies if they're hit."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."So Gin's life is on the line...?!"
+##
+
+<Condition End>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"Hey! Let us out of here!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Are you outside, meow?! Big sis Sara!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Gin...!"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."They're completely soundproofed in there,
+ but as you can see, you can talk via monitors!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Ahhh... I can't see anything from here, meow!!"
+##
+
+{Sara}
+#Message#
+\C[4](If only I'd known... I should've gone in there!!)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+{SE: Accent41-1}
+#Message#
+"...Don't get it twisted, Sara."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Reko} [Reko: Fists out, angry eyes / cara6-39]
+{SE: sceneswitch2}
+#Message#
+\."We're the ones who can properly
+ observe the situation from out here...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+{SE: Accent41-1}
+#Message#
+"Hmph... What has you down, Sara Chidouin?"
+##
+
+{Sara}
+#Message#
+\."I mean..."
+##
+
+{Alice} [Alice: Angry shout / cara11-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We are the only ones who can properly
+ observe the situation from outside!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent41-1}
+#Message#
+"...Don't be thinking anything foolish, miss Sara."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: sceneswitch2}
+#Message#
+\."We're the only ones who can properly
+ observe things from outside... got it?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+{SE: Accent43-1}
+#Message#
+\."...!!"
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](That's right...
+ What's important is winning and surviving...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I'll win, and save Gin...!!)
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+\."Ah, and by the way, it's a team battle,
+ so \N[4] needs a button-pusher too..."
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: Accent40-1}
+#Message#
+\."Meaning I'll push the buttons in his stead."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."You ain't gonna cheat?!"
+##
+
+{Meister} [Meister: Hat in hand / cara17-10]
+{SE: Accent21-1}
+#Message#
+\."...My cheating is \N[4]'s cheating.
+ We'll share responsibility."
+##
+
+[Meister: Hand on hat / cara17-9]
+#Message#
+\."You better not cheat, yourselves.
+ Rule-breakers... get death."
+##
+
+{Sara}
+#Message#
+\.\C[4](As if we even could...!)
+##
+
+{Meister}
+#Message#
+\."Well then, once we decide the turn order,
+ we can get started..."
+##
+
+[Meister: Hat in hand / cara17-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'd say it's fine for Team Gin to go first,
+ having the disadvantage."
+##
+
+{Sara}
+#Message#
+\."...Alright."
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+\."Went a little long, huh? Let's start already..."
+##
+
+[Meister: Default smile / cara17-8]
+{SE: sceneswitch2}
+#Message#
+\."Russian Roulette: Banquet Edition... Begin!"
+##
+

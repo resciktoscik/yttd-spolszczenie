@@ -1,0 +1,30 @@
+**********Common146********** (保管ナオの)
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I... certainly lost sight of myself...
+ But I've done nothing suspicious."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+"Nao respected Professor Mishima!
+ She was hit hard, but she's been normal
+ ever since she regained her footing."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+"After everyone else, I inspected the kitchen,
+ and found no signs of any trickery."
+##
+
+[Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+\."Perhaps she truly was just hiding?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"...I'm curious what she was doing in the room."
+##
+

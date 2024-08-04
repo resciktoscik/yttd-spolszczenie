@@ -1,0 +1,109 @@
+**********Common755********** (ｱﾘｽ「ｿｳﾅｵｶﾝﾅに身代が」)
+{Alice}
+#Message#
+"The \C[6]fifth trade\C[0]... Its culprit was Sou or Kanna...!"
+##
+
+#Message#
+"Gnnngh... If Keiji Shinogi is the \C[2]Keymaster\C[0],
+ the \C[10]Sacrifice\C[0] should be Sou, Kanna, or Nao, yes?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Don't interfere with my reasoning, if you please!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"What IS it?! You're being quite annoying!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"If Sou Hiyori's unrest is genuine...
+ Was it Kanna Kizuchi...?"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Sara Chidouin...! Do you truly have no tokens?!
+ No chance you sent someone the \C[10]Sacrifice\C[0]!"
+##
+
+{Sara}
+#Message#
+\."Please believe me...!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."In that case, it's someone left in the final vote..."
+##
+
+[Alice: Angry shout / cara11-8]
+#Message#
+\."And one with a sufficient number of tokens, at that!
+ They did the deed!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+\."To conclude... It's Sou... or Kanna!"
+##
+

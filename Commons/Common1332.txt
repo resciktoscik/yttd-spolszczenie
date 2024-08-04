@@ -1,0 +1,263 @@
+**********Common1332********** (12、間違いどす)
+{Keiji}
+#Message#
+\C[4](These switches on the wall...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."T-That's a tricky one...
+ They were, y'know, normal light switches and such."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Guessin' they were on the wall so you could
+ use 'em without havin' to get out of bed."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."You went clicking them when you were bored...
+ Didn't you?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What am I, a kid?! If I did that,
+ the doctor'd get worried and come runnin'!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](Hmm... Quite the adult...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](This drink near Reko...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Think I was just drinking coffee."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Not really relevant, but it was some good shit.
+ The drinks and the food."
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\."I see."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\C[4](Sou's laptop...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Huh... You're curious?
+ Well, it's just a laptop..."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."But it's lightweight and powerful all in one.
+ Incidentally, its specs are..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."No differences in your memory here, I take it."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Ah... Er, yeah, right."
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+\C[4](This bed...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm...
+ I think it was just a bed like I remember, meow."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Can't believe people can sleep there, woof.
+ I could never sleep at school, meow!"
+##
+
+[Gin: Smile / cara9-2]
+#Message#
+\."Big sis Sara, you don't nod off at school,
+ right, woof?"
+##
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\."O-Of course!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Pointing / cara0-3]
+#Message#
+\C[4](Kanna's behavior here...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Kanna... Could you remember yourself a little more?"
+##
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+#Message#
+\."I was just ecstatic!
+ I mean, there was a mountain of cakes before me!"
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."If not for things like the law...
+ I'd have reached out and started feasting."
+##
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\.\C[4](Nothing out of the ordinary here...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Hands on hips, smirk / cara0-14]
+#Message#
+\C[4](Alice's outfit...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Don't you think this part's a little strange?"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Are you questioning my fashion sense?!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."To be clear, Sara Chidouin, do not think that
+ prisons allow you to choose your clothes freely...!!"
+##
+
+{Sara} [Sara: Hands on hips, nervous sweat / cara0-20]
+#Message#
+\.\C[4](That's not what I was talking about, though...)
+##
+
+<やめる>
+
+<Choice End>
+

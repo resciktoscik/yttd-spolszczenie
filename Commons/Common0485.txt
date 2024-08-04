@@ -1,0 +1,254 @@
+**********Common485********** (時限イベント６)
+{N/A}
+#Message#
+\C[10]"The third dart will be fired shortly."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Awww... Too bad.
+ Guess the Sub-Game'll be closing out on this."
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\.".........."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."What a shame, Gin.
+ Seems like everybody just left you to die, huh?"
+##
+
+{Kanna} [Kanna: Angry shout with tears (lightless eyes) / cara3-15]
+#Message#
+\."Please! Stop...! Let me take his place...!!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[12]"...Big... sis... Sara..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Gin..."
+##
+
+{N/A}
+#Message#
+\.\C[10]"5."
+##
+
+{Gin}
+#Message#
+\.\sp[12]"...He... lp... Q... ta... ro..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."...................."
+##
+
+{N/A}
+#Message#
+\.\C[10]"4."
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[10]"Some... body..."
+##
+
+{N/A}
+#Message#
+\.\C[10]"3."
+##
+
+{Gin}
+#Message#
+\.\sp[10]".........."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."...................."
+##
+
+{N/A}
+#Message#
+\.\C[3]I can't do anything. Only watch.
+##
+
+#Message#
+\.\C[10]"2."
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\.\sp[8]"...M..."
+##
+
+#Message#
+\.\sp[7]"M... om..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, eyes clearing up / cara4-14]
+#Message#
+\."...................."
+##
+
+{N/A}
+#Message#
+\.\C[10]"1."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown with sweat / cara4-15]
+#Message#
+\."..........Yer parents..."
+##
+
+{N/A}
+{SE: clock-tower-bell1}
+#Message#
+\.\C[10]"The switch has been pushed."
+##
+
+{SE: warning2}
+#Message#
+\.\C[10]"Changing target to first-place participant."
+##
+
+{Q-taro}
+#Message#
+\."\{GAAAAAAAA\}AAAAAA\}AAAAAAaaahhh...!!\{"
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\sp[12]"...Sorry... Gin..."
+##
+
+#Message#
+\.\sp[15]"If I'd pressed it from the first...
+ ...ya wouldn't have to be so scared..."
+##
+
+{Sara}
+#Message#
+\."Gin!! Q-taro!!"
+##
+
+{Keiji}
+#Message#
+\."Hang on, you two!
+ I'll get the antidote right away...!"
+##
+
+#Message#
+\."Hang on, you two!"
+##
+
+#Message#
+\."I saw an antidote in the Medical Office!
+ I'll bring it here! Until then, hold on...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The Impression Room we were riding on
+slowly returned to the surface.
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."No...!! This can't...!!"
+##
+
+{Sara}
+#Message#
+\."Stay with us, both of you...! Please...!!"
+##
+
+{Gin}
+#Message#
+\.\sp[10]".........."
+##
+
+{Q-taro}
+{SE: Accent21-1}
+#Message#
+\.\sp[12]"...Gin... ya can't... die..."
+##
+
+#Message#
+\.\sp[12]"You got... parents... right...?"
+##
+
+#Message#
+\.\sp[12]"...Gin...!!"
+##
+
+{Gin} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\.\sp[10]".........."
+##
+
+{Nao}
+#Message#
+\."...Sara."
+##
+
+{Sara}
+#Message#
+\."...Huh...?"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Let's go look for Reko...!"
+##
+
+{Sara}
+#Message#
+\."I... can't... I can't leave these two..."
+##
+
+{Nao}
+#Message#
+\."The policeman... he'll surely bring the antidote!!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."We should do what we have to do...!!"
+##
+
+{Sara}
+#Message#
+\."But... Gin looks so weak...
+ Even Q-taro..."
+##
+
+{Nao}
+#Message#
+\."We're going, Sara!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]And then, I... was dragged out of the room.
+##
+
+{Q-taro}
+#Message#
+\sp[12]"...Sorry... Nao..."
+##
+
+#Message#
+\sp[12]".........."
+##
+

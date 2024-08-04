@@ -1,0 +1,18 @@
+**********Common1468********** (⑤ソウB選択　２)
+{N/A}
+#Message#
+"Keiji! Pincer maneuver!
+ We'll catch him together...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,131 @@
+**********Common355********** (●タメウチゲームへ)
+#Message#
+\C[3]Now's not the time for attractions.
+##
+
+#Message#
+\C[3]I've already cleared this attraction.
+##
+
+#Message#
+\C[3][Charge Card Battle]
+Participants: 2
+Clear Chip Reward: ★★
+Difficulty: Normal
+##
+
+#Message#
+\.\C[3]A card game where you battle opponents
+by selecting three cards at a time.
+Defeat the three dolls to win.
+##
+
+#Choice#
+Select partner
+Cancel
+##
+
+<相棒を選ぶ>
+
+#Choice#
+Keiji
+Q-taro
+Gin
+Cancel
+##
+
+<ケイジ>
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\.Keiji Shinogi
+As Keiji, your detective instincts
+sometimes reveal 2 of the opponent's cards.
+Difficulty: Easy
+##
+
+#Choice#
+Partner with Keiji
+Reselect
+##
+
+<ケイジを相棒にする>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Wahaha... Sara's partner...
+ Doesn't sound so bad."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<Qタロウ>
+
+{Keiji} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\.Q-taro Burgerberg
+As Q-taro, your characteristic might
+greatly increases your attack power.
+Difficulty: Hard
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."I know, Sara! If you partner with me,
+ I'll trade 10 Me-Tokens while we're at it!"
+##
+
+#Choice#
+Partner with Q-taro
+Reselect
+##
+
+<Qタロウを相棒にする>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Leave it to me!
+ I'll prove to ya that I ain't all muscles!!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<ギン>
+
+{Q-taro} [Gin: Default / cara9-1]
+#Message#
+\.Gin Ibushi
+As Sara, Gin sometimes cheers to recover health.
+He'll also recover health if you touch his icon.
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Gin
+Reselect
+##
+
+<ギンを相棒にする>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I... It's scary, but I'll try, woof!
+ I'm gonna protect big sis Sara, meooow!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

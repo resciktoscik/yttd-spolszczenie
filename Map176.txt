@@ -1,0 +1,469 @@
+=====Map176===== (===Monitor With Ladder)
+
+**********Event1********** (sou) (2,4)
+-----Page1-----
+#Message#
+\C[3]The monitor is broken.
+##
+
+
+**********Event2********** (misima) (11,4)
+-----Page1-----
+#Message#
+\C[3]The monitor is broken.
+##
+
+{Sara}
+#Message#
+\.\C[4](The Professor Mishima AI was here...)
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](What...? There's a ladder behind the monitors!)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Big sis Sara! Let's check it out, meow!!"
+##
+
+-----Page3-----
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+"This way, you two."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Don't leave us, woof! Loneeer!!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."I-I wouldn't leave you behind... Come on, hurry..."
+##
+
+{N/A}
+#Message#
+\C[3]Zz...\. zzt...\.\.\.      zzzt...\.  zz...
+##
+
+{Sara}
+#Message#
+\.\C[4](Wha...)
+##
+
+#Message#
+\.\C[4](What's this...?!)
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Meooow?! They're showing everybody, woof!!"
+##
+
+{Kanna AI}
+#Message#
+\.\sw[909]"Huh...? What's the matter, everyone?"\sw[910]
+##
+
+{Q-taro AI}
+#Message#
+\.\sw[562]"Yaaawn... Man I'm bored...
+ You wanna talk about somethin'?"\sw[566]
+##
+
+{Alice AI}
+#Message#
+\.\sw[905]"Hmph... You're awfully busy, it seems."\sw[906]
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."...Huh..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."How interesting...
+ Looks like the AI control system broke too."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Sure enough, the hacking was a complete success."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+\."Are we leaving them like this, meow...?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...If you wanna say farewell, make it quick.
+ I'll be in the lobby."
+##
+
+
+**********Event4********** (hasigo) (8,0)
+-----Page1-----
+#Message#
+\.\C[3]The ladder goes up into the ceiling.
+##
+
+#Choice#
+Climb
+Cancel
+##
+
+<登る>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](What's this...?!)
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+#Message#
+\.\C[3]The ladder goes up into the ceiling.
+##
+
+#Choice#
+Climb
+Cancel
+##
+
+<登る>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event5********** (arisu) (5,2)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Alice is displayed on the back.
+##
+
+-----Page2-----
+{Alice}
+#Message#
+\sw[905]"Hmph... Oh, it's you..."\sw[906]
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+#Message#
+\.\sw[905]"Just so you know... I don't have time to talk."\sw[906]
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm in a hurry...!)
+##
+
+<Else>
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](...Alice...)
+##
+
+{Alice}
+#Message#
+\.\sw[905]"What's the matter? You need something?"\sw[906]
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't let Reko see this...)
+##
+
+<Condition End>
+
+
+**********Event6********** (reko) (5,4)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Reko is displayed on the back.
+##
+
+-----Page2-----
+{Reko}
+#Message#
+\sw[560]"Hm...? Yo, Sara. What's up?"\sw[565]
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\.\sw[560]"You're looking pretty busy there."\sw[565]
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't have time to chat now...!)
+##
+
+<Else>
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](...Reko...)
+##
+
+{Reko}
+#Message#
+\.\sw[560]"What? You look like you've seen a ghost."\sw[565]
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't let Alice see this...)
+##
+
+<Condition End>
+
+
+**********Event7********** (gin) (5,6)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Gin is displayed on the back.
+##
+
+-----Page2-----
+{Gin}
+#Message#
+\sw[564]"Myaaawn...? Woof!
+ Why'd you wake me up, big sis Sara?"\sw[567]
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sw[564]"I'll talk if you'll play with me, meow!"\sw[567]
+##
+
+{Sara}
+#Message#
+\.\C[4](Sorry, but there's no time to play...!)
+##
+
+
+**********Event8********** (sara) (8,4)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of me is displayed on the back.
+##
+
+-----Page2-----
+{Sara (Monitor)}
+#Message#
+\sw[911]"Hello... ah. Well, if it isn't me."\sw[912]
+##
+
+{SE: Onmtp-Surprise03-1}
+#Message#
+\.\sw[911]"Hmm... You've got bags under your eyes.
+ Are you not sleeping well?"\sw[912]
+##
+
+{Sara}
+#Message#
+\.\C[4](...The monitor me is looking a lot healthier.)
+##
+
+
+**********Event9********** (Qtaro) (11,2)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Q-taro is displayed on the back.
+##
+
+-----Page2-----
+{Q-taro}
+#Message#
+\sw[562]"Hm? Now where's this?"\sw[566]
+##
+
+#Message#
+\.\sw[562]"Seems like a bustlin', fun time!
+ Let's drink! Ha ha ha!"\sw[566]
+##
+
+{Sara}
+#Message#
+\.\C[4](He feels like having a party...?)
+##
+
+
+**********Event10********** (keiji) (11,6)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Keiji is displayed on the back.
+##
+
+-----Page2-----
+{Keiji}
+#Message#
+\sw[907]"Hmm, seems pretty noisy around here."\sw[908]
+##
+
+#Message#
+\.\sw[907]"You need something from me, Sara...?"\sw[908]
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Huh...? ...He seems different somehow.)
+##
+
+
+**********Event11********** (kannna) (14,4)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Kanna is displayed on the back.
+##
+
+-----Page2-----
+{Kanna}
+#Message#
+\.\sw[909]"Sara! Won't you talk with Kanna?"\sw[910]
+##
+
+{SE: Accent21-1}
+#Message#
+\.\sw[909]"Ehehe, so, my sister told me this
+ the other day, but, um..."\sw[910]
+##
+
+{Sara}
+#Message#
+\.\C[4](Sorry, Kanna...! I don't have time for that now...!)
+##
+
+
+**********Event13********** (narabi) (0,12)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+
+**********Event59********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event60********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event61********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event62********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event63********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event64********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event73********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

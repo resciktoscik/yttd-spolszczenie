@@ -1,0 +1,88 @@
+**********Common770********** (ﾅｵ「階段座ってた」)
+{Nao}
+#Message#
+"I was sitting on the stairs,
+ thinking back on everything that had happened..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+"...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+"I'm... not telling any lies."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+"The hope of escape had vanished...
+ I couldn't even stand up..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."Everything I'm saying is true...
+ Sara... please, save me..."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+

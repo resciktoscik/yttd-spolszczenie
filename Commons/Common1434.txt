@@ -1,0 +1,18 @@
+**********Common1434********** (③ケイジB選択)
+{N/A}
+#Message#
+"Everybody, stop.
+ This is a library. Let's be quiet..."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

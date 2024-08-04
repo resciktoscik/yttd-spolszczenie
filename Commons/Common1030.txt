@@ -1,0 +1,18 @@
+**********Common1030********** (①マイB選択)
+{N/A}
+#Message#
+"Ahah! Q-taro seems dependable,
+ so how about we have him go at it again?!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

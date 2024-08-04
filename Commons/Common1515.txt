@@ -1,0 +1,23 @@
+**********Common1515********** (⑦QタロウB選択)
+{N/A}
+#Message#
+"Take the plunge - let's win 'em over!
+ We'll offer them an \C[2]invitation\C[0]!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

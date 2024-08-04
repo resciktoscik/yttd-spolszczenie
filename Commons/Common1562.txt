@@ -1,0 +1,36 @@
+**********Common1562********** (戦⑨効果)
+{Sara}
+#Message#
+"That voice... It's you, isn't it, Keiji?!"
+##
+
+{Shadow}
+#Message#
+"...Stay away..."
+##
+
+{Sara}
+#Message#
+"Are you the one who called for me...?!"
+##
+
+{Shadow}
+#Message#
+"...Listen to me..."
+##
+
+{Sara}
+#Message#
+"If you survived... then why...!"
+##
+
+{Shadow}
+#Message#
+"Don't come over here!! Sara!!"
+##
+
+{Sara}
+#Message#
+"Ah..."
+##
+

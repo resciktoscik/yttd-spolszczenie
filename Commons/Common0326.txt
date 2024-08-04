@@ -1,0 +1,7 @@
+**********Common326********** (敵に必殺当てたぁ！)
+{N/A}
+{SE: Applause1}
+#Message#
+\C[3]Won the battle.
+##
+

@@ -1,0 +1,210 @@
+**********Common384********** (交渉１－昼　ﾅｵﾚｺ)
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"Sara, wanna trade 20 tokens between you, me, and Nao?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+"You see, I decided with Reko
+ that we'd trade 20 tokens each..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."But, y'know, gotta cross a shaky bridge together."
+##
+
+#Message#
+\."For instance, we could pass 20 tokens like this,
+ me to Sara to Nao..."
+##
+
+#Message#
+\."Or pass 'em the other way, Nao to Sara to me."
+##
+
+#Message#
+\."This way, we won't need to have
+ extra trade partners in the future, see?"
+##
+
+{Sara}
+#Message#
+\.\C[4](So they're daring to trade them like this
+ instead of an equal share...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+\."That's the ticket!"
+##
+
+{Sara}
+#Message#
+\."So, how are we doing this trade?"
+##
+
+{Reko}
+#Message#
+\."If we pass tokens like this..."
+##
+
+#Message#
+\."Or else like this...
+ That's a good way to give 20 tokens, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](They're daring to trade them like this
+ instead of an equal share...?)
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."You see, I decided with Reko
+ that we'd trade 20 tokens each..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."But, y'know, gotta cross a shaky bridge together."
+##
+
+#Message#
+\."For instance, we could pass 20 tokens like this,
+ me to Sara to Nao..."
+##
+
+#Message#
+\."Or pass 'em the other way, Nao to Sara to me."
+##
+
+#Message#
+\."This way, we won't need to have
+ extra trade partners in the future, see?"
+##
+
+{Sara}
+#Message#
+\.\C[4](So they're daring to trade them like this
+ instead of an equal share...)
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Sara, you can choose whichever direction you like!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Yep. And if you don't want to trade,
+ we'll do it ourselves, so don't worry about that."
+##
+
+{Sara}
+#Message#
+\.\C[4](I'd like to receive tokens from
+ those who want to amass them...)
+##
+
+#Message#
+\.\C[4](I told Alice I would help him
+ to collect Reko's tokens, but...)
+##
+
+#Message#
+\.\C[4](And if you get 50 of someone's tokens,
+ you can view their personal info, right?)
+##
+
+#Message#
+\.\C[4](Hm... Which should I give to...
+ and which should I receive from?)
+##
+
+#Choice#
+Give to Nao, receive from Reko
+Give to Reko, receive from Nao
+Don't trade
+##
+
+<ナオに渡し、レコからもらう>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+"I'll give my tokens to Nao.
+ Reko, please give me yours."
+##
+
+{Reko}
+#Message#
+\."Got it. Don't lose 'em, okay?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 20 Reko Tokens.
+##
+
+<レコに渡し、ナオからもらう>
+
+{Sara} [Reko: Smile / cara6-4]
+#Message#
+"I'll give my tokens to Reko.
+ Nao, please give me yours."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Understood! I can feel at ease
+ giving them to you, Sara..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 20 Nao Tokens.
+##
+
+<取引をしない>
+
+{Sara} [Nao: Mouth open / cara7-1]
+#Message#
+"...Sorry.
+ I actually don't want to trade tokens yet."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."If that's your choice, I'll respect it.
+ We'll just do the trade ourselves."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Tell us if you need anything!"
+##
+
+<Choice End>
+
+{Sara} [Nao: Mouth open / cara7-1]
+#Message#
+\C[4](Well... That's it for negotiations.)
+##
+

@@ -1,0 +1,7 @@
+**********Common814********** (コピペ用)
+{N/A} [Reko: No makeup, angry eyes, closed teeth / cara6-30]
+{SE: warning2}
+#Message#
+\C[10]Hallucinations worsened by 10.
+##
+

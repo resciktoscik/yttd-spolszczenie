@@ -1,0 +1,77 @@
+**********Common197********** (ｶｲ「細工痕跡無し」)
+{Kai}
+#Message#
+"After everyone else, I inspected the kitchen,
+ and found no signs of any trickery."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+"I suppose I will accept it, but...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+"Oh... I'm afraid I don't have much to say."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kai} [Kai: Hand on chin, looking to side / cara8-4]
+#Message#
+"Miss Sara, you searched before me,
+ so you should be aware of this as well."
+##
+

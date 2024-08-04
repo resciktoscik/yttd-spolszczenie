@@ -1,0 +1,16 @@
+**********Common312********** (除外)
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"...Huh? Where are you...?"
+##
+
+{??}
+#Message#
+\."...Just want to move around. C'mon."
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+"W-Why are you...?! Please don't come in!"
+##
+

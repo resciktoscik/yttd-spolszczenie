@@ -1,0 +1,221 @@
+**********Common668********** (⑤進展●犠牲者のﾋﾞﾃﾞｵ)
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent28-1}
+#Message#
+"Big sis Nao, are you talking about
+ a victim video, meow...?"
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\.".........."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+{SE: Accent21-1}
+#Message#
+\."...Right."
+##
+
+{Sara}
+#Message#
+\.\C[4](I see... The victim video I have!)
+##
+
+#Message#
+\.\C[4](That's what Nao was referring to!)
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+{SE: Accent28-1}
+#Message#
+"Nao, you're talking about
+ this victim video, aren't you?"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Ah!! The one I dropped...!!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent21-1}
+#Message#
+\."...Yes. That's exactly right."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."There was a woman tied up by chains...
+ And this terrifying device started up...!"
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."And just like that... the woman died...!!"
+##
+
+[Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."And... there was a man in front laughing...
+ From behind, he..."
+##
+
+{SE: shock1}
+#Message#
+\."He looked like... the policeman...!!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."...!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."To me... it looked like he left the woman to die..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."...Huh. A shocking story..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."But...! It could always be a forgery!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."Then why don't we ask?"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Keiji, is that video real?
+ Or do you deny it?"
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I'm doubting you so we can believe you."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji...!)
+##
+
+#Choice#
+Protect Keiji
+Say nothing
+##
+
+<ケイジをかばう>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: Thunder10}
+#Message#
+\."Wait, please!! Keiji is...!!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: sceneswitch2}
+#Message#
+\."Stop, Sara."
+##
+
+#Message#
+\."There's no reason for you to protect me."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."He's right. In fact, miss Sara,
+ you should press the issue for us."
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+<何も言わない>
+
+{Sara} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\.\C[4](I want to know the truth of that video, too...!)
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."Miss Sara, it's looking like
+ it'll be faster if you press the issue."
+##
+
+{Sara}
+#Message#
+\."Eh...?!"
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm sure even Keiji will open his mouth
+ for his dear miss Sara."
+##
+
+[Sou: Grave glare / cara5-5]
+{SE: horror_piano chord3}
+#Message#
+\."Expose the true colors he's kept hidden so long."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."I'm counting on you..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Expose Keiji... by my own hand...?)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

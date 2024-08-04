@@ -1,0 +1,18 @@
+**********Common1459********** (⑤レコB選択　１)
+{N/A}
+#Message#
+"Ain't no need for compassion!
+ Shoot, Keiji...!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,839 @@
+=====Map45===== (②2F)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"No Nao, huh... Seems the second floor was a bust."
+##
+
+{Sara}
+#Message#
+\.\C[4](I hope Joe found her on the first floor...)
+##
+
+#Message#
+\.\C[4](Speaking of Joe...
+ Right, I made him that promise.)
+##
+
+#Choice#
+Try probing Keiji
+Ask about Nao's well-being
+##
+
+<ケイジさんに探りを入れてみる>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Even policemen get bad luck sometimes, huh?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Sure isn't great, is it?
+ Maybe I'll hafta retire."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk... I guess he'll just dodge the question
+ if beat around the bush...)
+##
+
+{SE: Accent28-1}
+#Message#
+\."Ah, come to think of it, Keiji...
+ Earlier, you said there \C[2]was\C[0] someone you looked up to."
+##
+
+<ナオさんの安否について聞いてみる>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."Do you think Nao is safe?"
+##
+
+{Keiji}
+#Message#
+\."If she's on the first floor, then I'd guess so.
+ Probably."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."...But her heart's gonna need mending."
+##
+
+{Sara}
+#Message#
+\.\C[4](From losing her dear teacher...)
+##
+
+{SE: Accent28-1}
+#Message#
+\."Come to think of it, you also said...
+ there \C[2]was\C[0] someone you looked up to."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...Did I say that?"
+##
+
+{Sara}
+#Message#
+\."Yes."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."...Do you not want to talk about it?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hahaha!
+ You're really as sharp as a tack."
+##
+
+{Sara}
+#Message#
+\.\C[4]("Was"... means it was someone in his past.)
+##
+
+#Choice#
+I absolutely want to know
+I won't push it
+##
+
+<絶対に聞きたい>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."I want to know more about you, Keiji."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Huh, now that's strange..."
+##
+
+{Sara}
+#Message#
+\."Trying to evade the question again?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\.".........."
+##
+
+<無理には聞かない>
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+"If you don't want to say... I don't mind, but..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Nope, don't really want to."
+##
+
+{Sara}
+#Message#
+\."Well, then I won't ask."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Hahaha! Yep, you sure are funny, Sara."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Wahah... Got it. I'll do this."
+##
+
+{SE: Accent28-1}
+#Message#
+\."If we survive that Main Game thing, I'll tell you."
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."So you're saying...
+ we're really going to do the Main Game...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+#Message#
+\."Doubt it'd be easy to avoid.
+ These people aren't gonna allow that."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."And once it begins... Everyone'll be serious."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."And myself... I don't wanna die either."
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+#Choice#
+I'm disillusioned
+I don't want to die, either
+I definitely won't lose
+##
+
+<幻滅しました>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."That's tacky of you."
+##
+
+{Keiji} [Keiji: Left arm down, default smile / cara2-10]
+#Message#
+\."Isn't it?"
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."...Bet you'll get to see even tackier,
+ more despicable parts of us adults."
+##
+
+<私も死にたくないです>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I'd... hate to die too."
+##
+
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Nobody wants to die.
+ ...It'll be an ugly struggle, that's for sure."
+##
+
+<絶対負けません>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I'll defeat everyone else and win."
+##
+
+#Message#
+\."Hahaha!
+ You're sounding like a real psycho, Sara."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."...Bet it'd make things easier to act that way,
+ like you don't feel any emotion."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."And ignoring anything foolish like fellowship..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Maybe we'll all come to hate each other."
+##
+
+#Message#
+\."But if you survive regardless,
+ and you're still curious about me..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."I'll be fine with telling you and you alone."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."I'll definitely...
+ look for a way to sidestep the Main Game."
+##
+
+{Keiji}
+#Message#
+\."Right."
+##
+
+#Message#
+\."...Just be ready."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+-----Page3-----
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Naooooo! Where'd you go?!"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Hey, now that's a shout! Keep searchin' like that!"
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."NaoooOOOOO!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Graaah!!
+ Not in my ear, dumbass!! Shout AWAY from me!!"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Super sorry..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Don't be scared. You'll be okay with me."
+##
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."I know, Gin! Want a piggy-back ride?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Wha...?! No, I'M gonna give ya a piggy-back ride!"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Why are we competing over that...?"
+##
+
+-----Page5-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"Hey, miss Sara."
+##
+
+{Sara}
+#Message#
+\."Sou! And..."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+{SE: Accent21-1}
+#Message#
+\."..."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Aren't you tired? It's not good to work too hard.
+ You should take some time to rest."
+##
+
+{Sara}
+#Message#
+\."Hmm..."
+##
+
+#Choice#
+I'm still energetic
+I want to rest
+##
+
+<まだ元気です>
+
+{Sara} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"I can't rest...
+ Not while everyone else is working hard."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."I'd say rest is a valuable option in its own right."
+##
+
+[Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+\."Still... You never know who'll come attacking you.
+ So I know how you feel, miss Sara."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<休憩したいです>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+"I'm a little tired, too..."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."If you start getting weary, everyone'll be uneasy.
+ It's bad for your looks too, ahaha."
+##
+
+[Sou: Looking down to side / cara5-4]
+{SE: Accent21-1}
+#Message#
+\."But... You never know when someone might attack.
+ So it's hard to stay calm and rest, huh...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Miss Sara... I don't think you should
+ go to the first floor on your own."
+##
+
+{Sara}
+#Message#
+\."But..."
+##
+
+{Sou}
+#Message#
+\."..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Err... hey."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Joe's your best friend, right?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Eh...?)
+##
+
+#Choice#
+Joe's my best friend
+Joe's just a classmate
+##
+
+<ジョーは親友です>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent28-1}
+#Message#
+"Yes, he can be a bit stupid in ways...
+ But he's a really good guy."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...Uh-huh."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Miss Sara... You trust Joe, then."
+##
+
+<ジョーはただの同級生です>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+"Joe's just my classmate. There's not much to it."
+##
+
+#Message#
+\."Ahaha, I bet Joe would have
+ a great comeback to make if he heard that."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."...That's just how in-sync you two are.
+ Can't joke like that without trust."
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."...So what about Joe?"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Miss Sara."
+##
+
+{N/A}
+#Message#
+\.\C[3]Sou came very close to me, and spoke in a whisper.
+##
+
+{Sou}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Do you remember that vote...?"
+##
+
+{Sara}
+#Message#
+\."Uh...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]I had... nearly forgotten.
+##
+
+#Message#
+\.\C[3]No... I'd been trying to forget it.
+##
+
+{Sara}
+#Message#
+\.\C[4](The Second Trial...
+ The vote in which Professor Mishima died.)
+##
+
+#Message#
+\.\C[4](Excluding my own vote...
+ Mishima got 3 votes, Sou and Nao got 0 votes,
+ and everyone else got 1 vote each.)
+##
+
+#Message#
+\.\C[4](But, of course...
+ We thought that choice held no meaning.)
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...You see..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: horror_piano chord3}
+#Message#
+\."I voted for Joe."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."...Do you know what that means?"
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."..."
+##
+
+#Message#
+\."...Sorry.
+ That must've bewildered you..."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."We'll be going now.
+ Catch you later..."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\.\C[4](...Joe didn't vote for himself...?)
+##
+
+
+**********Event3********** (tetu) (8,6)
+-----Page1-----
+#Message#
+\C[3]Large iron bars block the passage.
+##
+
+-----Page2-----
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Can't proceed past these iron bars..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Did Miley... vanish past here?)
+##
+
+-----Page3-----
+#Message#
+\C[3]The passage is open...
+##
+
+
+**********Event4********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event5********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event6********** (らいたー) (14,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stylish Zippo lighter.
+##
+
+
+**********Event7********** (ふろぶた) (15,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A stopper at the bottom of the bath. Small and heavy.
+##
+
+
+**********Event25********** (みぎーん) (14,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+Has another painting on the back.
+##
+
+
+**********Event26********** (ひだりんぐ) (13,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of someone holding a gun.
+##
+
+
+**********Event27********** (きりふっき～) (12,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A tool for spraying the liquid inside.
+Droplets of water stick to it.
+##
+
+
+**********Event28********** (EV028) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event29********** (かいがー) (13,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A painting of a man in profile.
+##
+
+
+**********Event30********** (でんきゅう～) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A light bulb for illuminating a room.
+##
+
+
+**********Event31********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event32********** (はな) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A flower from a vase.
+##
+
+
+**********Event33********** (さらにんぎょ) (9,10)
+-----Page1-----
+{N/A} [Sara: Default (no collar) / cara0-1]
+#Message#
+\C[3]A doll that looks remarkably like me.
+##
+
+
+**********Event34********** (akayu) (3,3)
+-----Page1-----
+#Message#
+\C[3]A red "Sp" door.
+##
+
+
+**********Event42********** (isi) (5,3)
+-----Page1-----
+#Message#
+\C[3]A "Ro" door.
+##
+
+
+**********Event50********** (kagami) (10,3)
+-----Page1-----
+#Message#
+\C[3]A "Mir" door.
+##
+
+
+**********Event58********** (kiyu) (12,3)
+-----Page1-----
+#Message#
+\C[3]A yellow "Sp" door.
+##
+
+
+**********Event66********** (kaidan) (5,7)
+-----Page1-----
+#Message#
+\C[3]Stairs leading straight to the first floor.
+##
+
+
+**********Event82********** (りぼるばー) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

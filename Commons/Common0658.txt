@@ -1,0 +1,88 @@
+**********Common658********** (ｷﾞﾝ「１階にいた」)
+{Gin}
+#Message#
+"I was searching the pitch black first floor, meow..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+"I don't need this thing, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"I have Mew-chan as my attorney, meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"I was thinking I'd go back to the third floor,
+ but there was a nuisance in the way, woof..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."The Laughing Doll Sue Miley, meow!!
+ It was scary, woof!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](So Gin was on the first floor
+ until I reunited with him in the Room of Lies?)
+##
+

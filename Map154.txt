@@ -1,0 +1,1146 @@
+=====Map154===== (==Nao's Bedroom)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+"Nao!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: sceneswitch2}
+#Message#
+\."Don't come in, please!!"
+##
+
+{Mishima?}
+#Message#
+\.\sw[324]"Oh? Do we have guests?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"Ah, if it isn't miss Sara and the others!"\sw[325]
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Meowww?! It's the old guy's monitor, woof!!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Didn't Reko destroy that...?!"
+##
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+{SE: Accent28-1}
+#Message#
+\."The professor's been brought back again!!
+ To protect us...!!"
+##
+
+{Mishima?}
+#Message#
+\.\sw[324]"Please be at ease, everyone."\sw[325]
+##
+
+#Message#
+\.\sw[324]"I will guide you toward escape."\sw[325]
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Guide...? Like how, meow?!"
+##
+
+{Mishima?}
+#Message#
+\.\sw[324]"As an artificial intelligence, I possess..."\sw[325]
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sw[324]"The security data for this facility."\sw[325]
+##
+
+{Sara}
+#Message#
+\."There's... no way...!!"
+##
+
+{Mishima?}
+{SE: Accent28-1}
+#Message#
+\.\sw[324]"Please trust me. You require a \C[2]map\C[0]
+ of the facility, do you not?"\sw[325]
+##
+
+{Sara}
+#Message#
+\."A map...!"
+##
+
+#Choice#
+We can find the secret room
+We can see the facility's layout
+##
+
+<秘密の部屋がわかる>
+
+{Sara} [Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+\."Maybe it'll show us the secret room!"
+##
+
+<施設の構造がわかる>
+
+{Sara} [Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+\."Maybe it'll show us the layout of the facility!"
+##
+
+<Choice End>
+
+{Mishima?} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\.\sw[324]"With the laptop miss Nao has brought,
+ I can send over the data."\sw[325]
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's why big sis Nao took the laptop...!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Why steal it?
+Do you need the chip?
+##
+
+<なぜ奪わせた？>
+
+{Sara} [Gin: Looking up, hands in front / cara9-10]
+{SE: Thunder10}
+#Message#
+\."Why did you make her steal it...?!"
+##
+
+{Mishima?}
+#Message#
+\.\sw[324]"...There simply wasn't time."\sw[325]
+##
+
+<チップは必要か？>
+
+{Sara} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+\."I wouldn't think Laizer's chip
+ has anything to do with all this..."
+##
+
+{Mishima?}
+{SE: Accent21-1}
+#Message#
+\.\sw[324]"...I can analyze it as well.
+ I just thought I would do both at once..."\sw[325]
+##
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."Sara!
+ Please don't be suspicious of the professor, okay?!"
+##
+
+{Mishima?}
+#Message#
+\.\sw[324]"It's quite all right, miss Nao."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Now, connect it quickly.
+ There's no time."\sw[325]
+##
+
+{Sara}
+#Message#
+\."P-Please, wait!!"
+##
+
+#Choice#
+Are you real?
+Something's fishy!
+Thank you very much
+##
+
+<あなたは本物？>
+
+{Sara} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+{SE: sceneswitch2}
+#Message#
+"Are you... really Professor Mishima's AI?!"
+##
+
+{Nao}
+#Message#
+\."What are you saying?!"
+##
+
+<何か怪しい！>
+
+{Sara} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+{SE: sceneswitch2}
+#Message#
+"Something's fishy here, Nao!!"
+##
+
+{Nao}
+#Message#
+\."What are you saying?!"
+##
+
+<ありがとうございます>
+
+{Sara} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+{SE: Accent28-1}
+#Message#
+"Thank you so much, Professor Mishima!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Big sis Sara!!
+ This sounds a little too good to be true, meow!!"
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: sceneswitch2}
+#Message#
+\."It kinda... doesn't feel like the real old guy, woof!"
+##
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."What are you saying?!"
+##
+
+<Choice End>
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."I won't forgive you
+ for doubting the professor's generosity!!"
+##
+
+{Mishima?}
+#Message#
+\.\sw[324]"Come, miss Nao.
+ Miss Sara and her friends are tired."\sw[325]
+##
+
+#Message#
+\.\sw[324]"So... Just connect that plug..."\sw[325]
+##
+
+{Sara}
+#Message#
+\."Don't do it, Nao!!"
+##
+
+{Nao} [Nao: Raised finger / cara7-4]
+{SE: Accent28-1}
+#Message#
+"There!
+ Is this fine, professor?!"
+##
+
+{Mishima?}
+#Message#
+\.\sw[324]"You did well, miss Nao."\sw[325]
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sw[324]\C[10]"You truly are easy to manipulate..."\sw[325]
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+"P... Professor...?"
+##
+
+{Mishima?}
+#Message#
+\.\sw[324]\C[10]"This laptop... this chip...
+ They were major nuisances for the Death Game."\sw[325]
+##
+
+{SE: Accent21-1}
+#Message#
+\.\sw[324]\C[10]"But now, Master Gashu can rest easy."\sw[325]
+##
+
+{Nao}
+{SE: sceneswitch2}
+#Message#
+"Master... Gashu...?"
+##
+
+{Sara}
+#Message#
+"Nao! Give us the laptop and chip...!!"
+##
+
+{SE: Thunder10}
+#Message#
+\."That's not Professor Mishima!!"
+##
+
+{AI}
+#Message#
+\.\sw[324]\C[10]"It's too late. Both are already connected to me."\sw[325]
+##
+
+#Message#
+\.\sw[324]\C[10]"I will destroy all the data on them.
+ You'll never so much as dream of escape again...!"\sw[325]
+##
+
+{Sara}
+#Message#
+\."St... Stop!!"
+##
+
+{AI}
+#Message#
+\.\sp[15]\sw[324]\C[10]"Don't run from the Main Game, filthy humans..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Guh...?!"\sw[325]
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\sw[324]"W-What...?! What is this?!"\sw[325]
+##
+
+{N/A}
+{SE: Paralyze1}
+#Message#
+\C[10]"An error has occurred."
+##
+
+{SE: Paralyze1}
+#Message#
+\C[10]"An error has occurred."
+##
+
+{SE: Paralyze1}
+#Message#
+\C[10]"An error has occurred."
+##
+
+{AI}
+#Message#
+\sw[324]"Dammit!! Why...?!"\sw[325]
+##
+
+{Sara}
+#Message#
+\.\C[4](What on Earth is happening...?)
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent21-1}
+#Message#
+"Looks like... it went well."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent28-1}
+#Message#
+\."Seems that way, miss Nao."
+##
+
+{AI}
+#Message#
+\.\sw[324]"Nao...! What did you do?! This is...!!"\sw[325]
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: sceneswitch2}
+#Message#
+"Don't get friendly with me!!"
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Thunder10}
+#Message#
+\."Don't you dare say my name
+ with the professor's voice and face!!"
+##
+
+{AI}
+#Message#
+\.\sw[324]"Nao..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Don't tell me... From the very beginning...?!"\sw[325]
+##
+
+{Nao}
+{SE: Thunder10}
+#Message#
+"Did you think my bond
+ with the professor was that flimsy?!"
+##
+
+{AI}
+#Message#
+\.\sw[324]"...!!"\sw[325]
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent21-1}
+#Message#
+"Hey, miss Sara.
+ Do you remember a mysterious program on the laptop?"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+#Choice#
+I don't remember
+The BACKDOOR file
+##
+
+<覚えてない>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+{SE: Accent28-1}
+#Message#
+"Ahaha. Well, there was one.
+ With the filename "BACKDOOR.SMUT"..."
+##
+
+<エッチなファイル>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+{SE: Accent28-1}
+#Message#
+\."Exactly. Hilarious, right?
+ It was named "BACKDOOR.SMUT"..."
+##
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Well... That was a last resort Kai prepared."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."A file named BACKDOOR...
+ that was really a \C[2]hacking program\C[0],
+ used to get data from the organization."
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+{AI}
+#Message#
+"H... Hacking...?!"
+##
+
+{Sou}
+#Message#
+"Ahaha. You're the one who's getting deleted."
+##
+
+{AI}
+#Message#
+\sp[12]"Stooooop!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The artificial intelligence... vanished.
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+\."Can you stand, miss Sara?"
+##
+
+{Sara}
+#Message#
+\."E... Err..."
+##
+
+#Choice#
+I can stand by myself
+Take his hand
+I can't stand
+##
+
+<ひとりで立てる>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...Ever cautious, huh."
+##
+
+<手を借りる>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"...You're a little heavy."
+##
+
+{Sara}
+#Message#
+\.\C[4](Oh, shut up...)
+##
+
+<立たない>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Oh, really. Did you legs give out?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."I'm going to get straight to analyzing now,
+ so you do your part."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent28-1}
+#Message#
+\."Gather everyone in the lobby.
+ I'm counting on you."
+##
+
+{Sara}
+#Message#
+\."H... Huh...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Paying no mind to me struggling to keep up,
+Sou began fiddling with the laptop.
+##
+
+
+**********Event2********** (TVT) (11,4)
+-----Page11-----
+{N/A}
+#Message#
+\C[3]The fake Professor Mishima is gone.
+##
+
+-----Page12-----
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+"Don't really get a scent from the monitor, woof."
+##
+
+
+**********Event4********** (naonao) (4,6)
+-----Page1-----
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: sceneswitch2}
+#Message#
+\."Sorry for tricking you, Sara..."
+##
+
+{Sara}
+#Message#
+\."Um..."
+##
+
+#Choice#
+Explain everything, please
+My head's still hazy
+That was a good act
+##
+
+<全部説明してください>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent21-1}
+#Message#
+\."Explain everything, please."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."...Okay."
+##
+
+<まだ頭がぼんやりしてます>
+
+{Sara} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent21-1}
+#Message#
+\."My head is still hazy..."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I suppose so..."
+##
+
+<いい演技でした>
+
+{Sara} [Nao: Holding wrist, looking down / cara7-5]
+{SE: Accent21-1}
+#Message#
+\."That was good acting, Nao."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Did you figure out the whole thing...?!
+ Amazing!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Well, there are parts I don't get...)
+##
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I'll explain. You see..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent28-1}
+#Message#
+\."When the trading phase began and we were given
+ our role cards... the fake appeared on this monitor."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I believed it only at first.
+ That the professor had been revived..."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."But I quickly came to my senses."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."The fake ordered me to
+ collect the laptop and Ranger's chip."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."And he said to do it alone,
+ without discussing it with anyone..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao...)
+##
+
+#Choice#
+Did you obey?
+When'd you team up with Sou?
+The rest followed from there
+##
+
+<従ったんですか？>
+
+{Sara} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent21-1}
+#Message#
+\."Did you obey the fake's orders?"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."No... But I feigned obedience."
+##
+
+<いつからソウさんとタッグを？>
+
+{Sara} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent21-1}
+#Message#
+\."When did you team up with Sou?"
+##
+
+{Nao}
+#Message#
+\."Just a while ago...
+ Before I saw you in the Medical Office."
+##
+
+<あとは流れですね>
+
+{Sara} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent21-1}
+#Message#
+\."Everything just followed from there, I suppose."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Y-You've figured it out with
+ just that part of the explanation?!"
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Err... I'll explain it in full just in case."
+##
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."At first, I immediately thought of
+ discussing it with you, Sara."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."But I thought the fake
+ might have anticipated that, too."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."If they found out I was wary,
+ I was sure the fake would disappear..."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: sceneswitch2}
+#Message#
+\."So I thought, I had to extract
+ as much info from it as I could...!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."And so you talked with the loner, woof?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: flash-of-light-3}
+#Message#
+\."Right! The fake wouldn't expect me
+ to discuss it with the l... with Sou."
+##
+
+{SE: Thunder10}
+#Message#
+\."And continuing to act like I was fooled,
+ we sent the fake the hacking whatzit!"
+##
+
+{Sara}
+#Message#
+\.\C[4](To think Nao was capable of that...)
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."The best way to get the fake to believe me..."
+##
+
+[Nao: Raised finger / cara7-4]
+{SE: Accent28-1}
+#Message#
+\."Was to antagonize you in front of him, Sara."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."And that was all the loner's plan too, woof?
+ Amazing, meow!"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."T-That's true. I guess I'm a gloomy sort myself..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: flash-of-light-3}
+#Message#
+\."No, big sis Nao's the chipper type, meow!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."I really don't think I am!"
+##
+
+{Sara}
+#Message#
+\.\C[4](But getting help from Sou, of all people...)
+##
+
+#Message#
+\.\C[4](However you look at it...)
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I'm... going to believe in Sou."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+\."Sou mentioned... a plan for escape, didn't he?"
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Please, gather everyone in the lobby."
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao...)
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff*...
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."Wyah?! A... Am I sweaty?!"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Nah! You smell nice, meow!"
+##
+
+{Nao} [Nao: Closed-eyes blush smile / cara7-13]
+#Message#
+\."O-Oh, really! Ehehe..."
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Please, trust Sou, and bring everyone to the lobby!"
+##
+
+
+**********Event6********** (souya) (9,4)
+-----Page1-----
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Sou..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Could you not talk to me right now?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."You're making me mad, meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Just have to leave him to it, I guess...)
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.\C[3]Sou is focused on the laptop.
+##
+
+#Message#
+\."..."
+##
+
+#Choice#
+Talk to him
+Mess with him
+Cancel
+##
+
+<話しかける>
+
+{Sara} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Um... Sou."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Ignored, meow..."
+##
+
+<ちょっかい出す>
+
+{Sara} [Gin: Worried / cara9-3]
+#Message#
+\.\C[4](I'll poke him...)
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](No reaction...)
+##
+
+{Sou}
+#Message#
+\."...Stubborn..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Ah! He reacted!)
+##
+
+{Sou}
+#Message#
+\."...Would you stop it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's getting annoyed...)
+##
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\."Stop it!"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."The loner snapped, meow... Scary, woof..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...No, I'd better not.
+ I'm afraid of what might happen past this.)
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Sou..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Could you not talk to me right now?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."You're making me mad, meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Just have to leave him to it, I guess...)
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff*...
+##
+
+[Gin: Smile / cara9-2]
+{SE: Accent28-1}
+#Message#
+\."Smells gloomy, meow! I feel bad for him, woof!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...I'll give you food if you go away."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Don't treat me like a cat, meow!"
+##
+
+
+**********Event7********** (pason) (10,5)
+-----Page1-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"The laptop's smell... It's not so bad, meow."
+##
+
+{N/A}
+#Message#
+\C[3]Kai's laptop is connected to the monitor.
+##
+
+
+**********Event8********** (naohuton) (13,4)
+-----Page1-----
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+"The bed smells good like big sis Nao, meow!"
+##
+
+
+**********Event33********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event34********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event35********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event36********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event37********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event38********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event40********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

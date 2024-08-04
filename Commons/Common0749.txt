@@ -1,0 +1,81 @@
+**********Common749********** (ｹｲｼﾞ「ｿｳ確証無し」)
+{Keiji}
+#Message#
+"Kanna or Nao...
+ Which of them would have the \C[10]Sacrifice\C[0]?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+"...Don't think that's relevant, is it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+"I don't wanna admit it myself... but y'know."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+"...It's just painful to think it over any more."
+##
+
+[Keiji: Turned to side tousling hair / cara2-20]
+#Message#
+\."Vote for Sou... and let's end this, Sara."
+##
+

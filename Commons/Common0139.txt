@@ -1,0 +1,126 @@
+**********Common139********** (ｷﾞﾝ「ニャン…」)
+{Gin}
+#Message#
+"...Meow... meow..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"Woof woof... I don't get it, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"I dunno, meow... I don't get it, woof..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin is trembling...)
+##
+
+#Choice#
+Kindly question him
+Fiercely question him
+Look him in the eye
+##
+
+<優しく話を聞き出す>
+
+{Sara} [Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+"Gin, it's okay.
+ Can you try to remember what you've
+ seen and noticed in this place?"
+##
+
+<厳しく話を聞き出す>
+
+{Sara} [Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+"Gin! You're a big boy, right?!
+ I know you've done a great job here!
+ Be brave and speak!"
+##
+
+<黙って眼を見つめる>
+
+{Sara} [Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+"Gin...?"
+##
+
+<Choice End>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](It's no good... Gin's closed his heart...)
+##
+

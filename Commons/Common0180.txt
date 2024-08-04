@@ -1,0 +1,44 @@
+**********Common180********** (▽ｷﾞﾝ…肯定)
+{Sara}
+#Message#
+"Exactly right, Gin!"
+##
+
+{Q-taro}
+#Message#
+\."He didn't even say anythin'!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk... No good...!)
+##
+
+#Message#
+"Sure enough, you didn't see anything!"
+##
+
+{Q-taro}
+#Message#
+\."Sure 'nuff, that makes Reko a liar!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk... What an insult...!)
+##
+
+#Message#
+"Right! Everyone makes mistakes!"
+##
+
+{Q-taro}
+#Message#
+\."You guys really gonna accept that?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I guess that won't resolve it...!)
+##
+

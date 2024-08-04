@@ -1,0 +1,270 @@
+**********Common593********** (交渉３－昼　風呂)
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+"Okay, not the time for that negotiation crap!
+ Listen to what I've got for ya!"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+"Want me to be honest?"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Pee-YEWWW, you bastards reek!
+ Plus you're drop-dead tired.
+ So you wanna get in the bath?"
+##
+
+{Sara}
+#Message#
+\.\C[4](The bath...?!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+{SE: Accent28-1}
+#Message#
+\."Ahh, good.
+ I've got somethin' to say, so I'll call everybody!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."We got the raggedy bunch all together now?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Stop callin' us names, you!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."The Sub-Game's three days... The date hasn't changed.
+ Shouldn't be over yet, should it...?"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Oh yeah, there's still time!
+ I want you to enjoy the Sub-Game, but see..."
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Y'all are fallin' apart!
+ Makes me sick to my stomach to see."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Then... let us go home, please!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Not like that, dummy."
+##
+
+[Ranger: Mishima face sign / cara18-5]
+{SE: Accent28-1}
+#Message#
+\."What I am telling you is this: come and take a bath!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."A... Are there baths?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Yep, and we'll do laundry too.
+ So hand over yer clothes!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Say what?! What're you planning to do?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."I've got no interest in your filthy garb!"
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"I only like clean clothes from corpses... Ahaha."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Your heart's dirtier than mud, meow!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."But if we can have a bath... I'm glad about that."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: flash-of-light-3}
+#Message#
+\."E-Everyone! It's dangerous to resist...!
+ Let's go in! Let's all take a bath!"
+##
+
+{Sara}
+#Message#
+\.\C[4](She's right...! We should go along with this!)
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Accent28-1}
+#Message#
+\."Not like you got any right to refuse!"
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."We'll be taking men to the men's bath
+ and women to the women's bath!"
+##
+
+#Message#
+\."Ah, come to think of it,
+ which one do you wanna go in, Alice?"
+##
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\.\{"I'm a man, I tell you!!"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Man, I'm spent..."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](There really are baths...!)
+##
+
+{Nao}
+{SE: flash-of-light-3}
+#Message#
+\."Wooow! Amazing!!"
+##
+
+{Kanna}
+{SE: Accent21-1}
+#Message#
+\."L... Let's get in quickly!!"
+##
+
+{Reko}
+{SE: feed1}
+#Message#
+\."Wait, wait! Gotta take off my makeup super quick!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Everyone's full of energy like never before...!)
+##
+
+{SE: Thunder10}
+#Message#
+\.\C[4](For just a moment...
+ Let's forget about everything and soak!!)
+##
+
+{Reko}
+#Message#
+\."Haaah..."
+##
+
+{Nao}
+#Message#
+\."It's paradise..."
+##
+
+{Sara}
+#Message#
+\."Yes, it really is..."
+##
+
+{N/A}
+#Message#
+\.\C[3]However temporarily, I forgot about
+all the bad things that had happened.
+##
+
+#Message#
+\.\C[3]Everyone's smiles naturally returned to them,
+and we chatted without worrying about little things.
+##
+
+#Message#
+\.\C[3]Even if we'd be thrust back to reality when we left...
+I felt like staying in this dream as long as I could.
+##
+
+{Kanna}
+#Message#
+\."Sara..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Even Kanna... I could talk to normally right now.
+##
+
+{Sara}
+#Message#
+\."Haha... What is it, Kanna?"
+##
+
+{Kanna}
+#Message#
+\."U... Um..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Excuse me...!!"
+##
+
+{Sara}
+{SE: feed1}
+#Message#
+\."W-Waugh?!
+ Stop it! Kanna!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]And so we had the most wonderful time.
+##
+

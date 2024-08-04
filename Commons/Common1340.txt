@@ -1,0 +1,201 @@
+**********Common1340********** (20、間違いどす)
+{Sara}
+#Message#
+\C[4](This grass on the building...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Probably just decorative grass."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Wonder how they take care of plants
+ in places like that?"
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](It's a mystery, but not a relevant one...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](This building outside...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Let's see... Nothing strange about it, I think.
+ Just the usual scenery outside the window."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."I wondered if maybe someone was watching,
+ but I don't remember anything like that."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Nothing suspicious here...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This bottom-right shelf...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think it was just a bunch of
+ files and stuff like I remember, meow."
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."It's not like I really took a close look,
+ so I dunno, woof."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](I guess that's true...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](These cups and glasses on the shelves...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ They just looked like fancy decorations."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Apparently you can have coffee and tea at that shop,
+ but Kanna was a sweets specialist."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Sweet savvy, huh...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This towel hanging on the wall...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's a towel with my favorite design."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Stripes are wonderful, Sara Chidouin...
+ They make both body and mind stripey..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](I don't entirely get it...)
+##
+
+<やめる>
+
+<Choice End>
+

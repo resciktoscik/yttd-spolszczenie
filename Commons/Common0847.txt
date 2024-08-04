@@ -1,0 +1,288 @@
+**********Common847********** (㉑２章後編「つづく」)
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent28-1}
+#Message#
+\."Thank you... Sara..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."..."
+##
+
+{Sou} [Sou: Hands out, mouth open, angry eyes with bags, grim face / cara5-33]
+#Message#
+\."Why?! Why didn't you choose me?!"
+##
+
+[Sou: Hands out, mouth open, grim face / cara5-35]
+#Message#
+\."I'll never forgive you, Sara...!!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.".........."
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."Sara... Before I go... um..."
+##
+
+[Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Could you... give me a hug...?"
+##
+
+{Sara} [Sara: Tired eyes, mouth open / cara0-6]
+#Message#
+\."...Yeah..."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\.".........."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: Accent21-1}
+#Message#
+\."...Ehehe... You're warm..."
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+{SE: Accent28-1}
+#Message#
+\."Ahaha..."
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."That's just fine, Sara..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."You hated me enough to kill me...
+ Isn't that right?"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+{SE: Accent21-1}
+#Message#
+\."...That's... true..."
+##
+
+[Sara: Tired eyes / cara0-5]
+#Message#
+\."...I did want to kill you..."
+##
+
+[Sara: Tired eyes, mouth open / cara0-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That's why... you weren't mistaken at all..."
+##
+
+{Sou} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."Ahaha... Ahahahaha...!!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+{SE: horror_piano chord3}
+#Message#
+\."Well then... I-I'll... announce the results..."
+##
+
+[Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."The \C[2]Keymaster\C[0] was Keiji Shinogi.
+ The \C[3]Sage\C[0] was Q-taro Burgerberg.
+ The \C[10]Sacrifice\C[0] was Nao Egokoro..."
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I see.
+ So this is your answer, Sara..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."...Nao..."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."It's strange...
+ I couldn't stop shaking from fear..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent21-1}
+#Message#
+\."But the moment you decided... that stopped."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."..."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."I'm glad..."
+##
+
+[Nao: Hand on chest, relieved smile / cara7-25]
+{SE: Accent28-1}
+#Message#
+\."I'm glad I didn't have to betray you all..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Nao..."
+##
+
+{Nao} [Nao: Hand on chest, relieved smile / cara7-25]
+{SE: Accent21-1}
+#Message#
+\."Reko... I'm glad I could meet you..."
+##
+
+{Reko} [Reko: Hands out, teary-eyed shout / cara6-15]
+#Message#
+\."I should be saying that!!
+ If you weren't around, Nao, I...!!"
+##
+
+{Nao} [Nao: Closed-eyes smile / cara7-12]
+{SE: Accent28-1}
+#Message#
+\."Thank you..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Nao...!!"
+##
+
+{Nao} [Nao: Hand on chest, relieved smile / cara7-25]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hahaha...
+ I wonder if I'll meet the professor over there..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Nao..."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+{SE: sceneswitch2}
+#Message#
+\."Oh... I forgot to mention.
+ The second card trade... was by me..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."I traded away the \C[10]Sacrifice\C[0] card...
+ By using the tokens Reko had on her..."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."..."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: Accent28-1}
+#Message#
+\."So Reko... protected you once, Nao."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+{SE: Accent21-1}
+#Message#
+\."You were a close friend to Reko.
+ There's no question of that..."
+##
+
+{Nao} [Nao: Closed-eyes smile / cara7-12]
+#Message#
+\."Thank you very much..."
+##
+
+[Nao: Hand on chest, relieved smile / cara7-25]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hahaha... I wonder if I'll meet
+ Reko and the professor over there..."
+##
+
+<Condition End>
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\.".........."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent21-1}
+#Message#
+\."I wanted to finish that painting..."
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+{SE: horror_piano chord3}
+#Message#
+\."W... Well then... I-It's time for the execution..."
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\."W... Wait!!"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."Miss Sara... take this..."
+##
+
+{Sara}
+#Message#
+\."T-This is...!!"
+##
+
+{Safalin}
+{SE: sceneswitch2}
+#Message#
+\."It's... an \C[2]instant death switch\C[0]."
+##
+
+#Message#
+\."Unless you want her suffering to be long...
+ You just have to press it."
+##
+

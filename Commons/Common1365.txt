@@ -1,0 +1,30 @@
+**********Common1365********** (呼・５Fｴﾚﾍﾞｰﾀｰ対応ﾛｯｶｰ)
+{N/A}
+#Message#
+\C[3]It won't open.
+##
+
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Choice#
+Insert \V[854]
+Cancel
+##
+
+<\V[854]を入れる>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]There's nothing inside.
+##
+
+#Message#
+\C[3]It won't open.
+##
+

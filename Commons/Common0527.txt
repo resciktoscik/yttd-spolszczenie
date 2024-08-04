@@ -1,0 +1,273 @@
+**********Common527********** (ｿｳ「腕に傷がﾆｾﾓﾉ」)
+{Sou}
+#Message#
+"Whoever has a wound on their hand...
+ There's your fake."
+##
+
+#Message#
+"Kanna dressed up and broke the monitor.
+ ...Kanna was the fake."
+##
+
+#Message#
+"Gin dressed up and broke the monitor.
+ ...Gin was the fake."
+##
+
+#Message#
+"Ranger dressed up and broke the monitor.
+ ...Ranger was the fake.
+ And he'd be able to get her clothes..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"I don't follow your advanced logic, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Sou}
+#Message#
+"I don't follow your advanced logic, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"Err... Not really ringing a bell..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Sou}
+#Message#
+"Err... Not really ringing a bell..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Sou}
+#Message#
+"Err... Not really ringing a bell..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"Get it? Reko broke the monitor with her fist."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."If she got a wound...
+ It should be on the back of her hand."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."So there's someone hiding a wound there."
+##
+
+{Sara}
+#Message#
+\."How about..."
+##
+
+#Choice#
+Keiji
+Kanna
+Sou
+Nao
+Gin
+Alice
+##
+
+<ケイジ>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+"...Keiji's got his sleeves rolled
+ up to his elbows, showing off his muscles.
+ Doubt he could hide a wound, myself."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<カンナ>
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent28-1}
+#Message#
+"You're right...! Looking at her now, Kanna's sleeves
+ are so long you can only see her fingertips!"
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."In that case... Kanna's...!"
+##
+
+<ソウ>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"Here's my hand. ...People always say
+ they're the clean hands of somebody who never works."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<ナオ>
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+"...Eh? Look closer, miss Sara.
+ Nao's not wearing gloves or anything."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<ギン>
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent28-1}
+#Message#
+"With those paw gloves...
+ Yeah, Gin could hide the wound...!"
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."In that case... Gin's...!"
+##
+
+<アリス>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+"Doesn't look like Alice has gloves on.
+ ...Does have handcuffs, though."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<Choice End>
+
+#Choice#
+Ranger
+Safalin
+##
+
+<ノエル>
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent28-1}
+#Message#
+"...Rio Ranger, the \C[2]Dressup Doll\C[0]...!
+ Yeah, he does have a glove on his hand!"
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."And come to think of it..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: Accent21-1}
+#Message#
+\."Though he's a guy...
+ He's got a similar frame to Reko."
+##
+
+<ハンナキー>
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+"Tia Safalin, the Crying Doll... right?
+ She's so in the background, I forgot about her.
+ But she's not wearing gloves anyway."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<Choice End>
+

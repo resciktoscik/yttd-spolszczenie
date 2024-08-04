@@ -1,0 +1,18 @@
+**********Common1411********** (②アリスB選択)
+{N/A}
+#Message#
+"If the liquid isn't magma,
+ I'll hop off the ring and inspect the walls!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

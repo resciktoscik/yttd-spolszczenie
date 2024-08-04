@@ -1,0 +1,179 @@
+**********Common207********** (ﾅｵ「先生の為に悲しむ」)
+{Nao}
+#Message#
+"Seeing that happen to Professor Mishima...
+ More than angry, I was sad...! It hurt...!!"
+##
+
+#Message#
+"I... certainly lost sight of myself...
+ But I've done nothing suspicious!
+ And I don't know... why it disappeared!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Um... So what about that...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I don't understand what you're getting at, Sara!"
+##
+
+{Sara}
+#Message#
+\C[4](Oof... That didn't go well.)
+##
+
+{Nao}
+#Message#
+"I don't understand what you're getting at, Sara!"
+##
+
+{Sara}
+#Message#
+\C[4](Oof... That didn't go well.)
+##
+
+{Nao}
+#Message#
+"I don't understand what you're getting at, Sara!"
+##
+
+{Sara}
+#Message#
+\C[4](Oof... That didn't go well.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+"The pain... You all couldn't understand it...!"
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+"To me, Professor Mishima was..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."A very, very important figure..."
+##
+
+{Sara}
+#Message#
+\."Losing Professor Mishima in the vote..."
+##
+
+#Choice#
+Were you sad?
+Were you angry?
+##
+
+<悲しかったですか？>
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+"I was sad...! It hurt...!!
+ I didn't want to believe it was reality...!!"
+##
+
+{Sara}
+#Message#
+\."...Is that all?"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+{SE: Accent21-1}
+#Message#
+\."Is that strange...?
+ You'd understand, right, Sara?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Wasn't she curious about
+ who voted for Professor Mishima...?)
+##
+
+<怒りましたか？>
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+"Not so much angry... I was sad...!
+ It was so depressing... and painful...!!
+ I didn't want to believe it was reality...!!"
+##
+
+{Sara}
+#Message#
+\."...You were... sad?"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent21-1}
+#Message#
+\."Yes...!
+ You'd understand, right, Sara?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Wasn't she curious about
+ who voted for Professor Mishima...?)
+##
+
+<Choice End>
+

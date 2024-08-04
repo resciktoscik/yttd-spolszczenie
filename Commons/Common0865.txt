@@ -1,0 +1,75 @@
+**********Common865********** (ﾅｵ「うぅぅ…」)
+{Nao}
+#Message#
+"...Ooh... oogh... oooh..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+"...*sniff*..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I shouldn't...)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+"...*sniff*..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I shouldn't...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\sp[15]"Please... someone... save me..."
+##
+

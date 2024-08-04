@@ -1,0 +1,23 @@
+**********Common190********** (ﾅｵ 八分雨？)
+[Nao: Mouth open / cara7-1]
+#Message#
+\C[3]Select Nao as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Nao: Mouth open / cara7-1]
+#Message#
+\.\C[4](No! Nao is Nao Egokoro!
+ "Heart of art"... like she was born for it.)
+##
+
+<いいえ>
+
+<Choice End>
+

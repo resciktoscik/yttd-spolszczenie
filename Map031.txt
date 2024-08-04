@@ -1,0 +1,89 @@
+=====Map31===== (Old: Part One Quarantine)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."Good day.
+ Congratulations on beating the game for now!"
+##
+
+#Message#
+\."Currently, the game has only
+ been released up to Part One (here)."
+##
+
+#Message#
+\."It's planned for future updates to
+ add a Part Two scenario, make fixes to Part One,
+ and gradually improve events."
+##
+
+#Message#
+\."Also, be aware that pre-update save data
+ may stop working due to fixes."
+##
+
+#Message#
+\."Incidentally, I believe if you save here, you'll be
+ able to go right into Part Two once it's added!
+ ...Will you save?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."If you like, it would be helpful if you gave
+ reports on errors you encountered or your thoughts.
+ Thanks in advance!"
+##
+
+#Message#
+\.* PS: "Thanks to your aid, several serious errors
+ have been fixed by now! Thank you very much!
+ Being a personal project, it's slow going,
+ but seeing predictions of the story is a blessing."
+##
+
+#Message#
+\."Now then, you'll be returned to the title screen.
+ Is this okay?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{???} [Sou Silhouette: Mouth open / cara99-1]
+#Message#
+\."Thank you for playing to the end."
+##
+
+<いいえ>
+
+<Choice End>
+
+
+**********Event3********** (EV003) (0,1)
+-----Page1-----
+#Message#
+\C[3]...Moving to summary of Chapter 1, Part One...
+##
+
+#Message#
+\C[3]..........
+##
+

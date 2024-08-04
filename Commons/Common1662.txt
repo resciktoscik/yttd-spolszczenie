@@ -1,0 +1,67 @@
+**********Common1662********** (◆ｸﾙﾏﾀﾞ「Qウソつき」)
+{Kurumada}
+#Message#
+"Hold up, we sure that old-timer Q-taro
+ is tellin' the truth...?"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kurumada} [Kurumada: Damaged, mouth open / cara95-15]
+#Message#
+"What's that supposed to mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Kurumada} [Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+"If this gets us makin' a misjudgement,
+ we'll be in some real shit...!"
+##
+

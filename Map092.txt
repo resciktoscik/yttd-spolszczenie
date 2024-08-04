@@ -1,0 +1,501 @@
+=====Map92===== (Sou's Bedroom)
+
+**********Event3********** (ssou) (12,8)
+-----Page1-----
+#Message#
+\C[3]Sou is collapsed on the floor.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hmm... He's got wood splinters on his head...
+ And a bump, too."
+##
+
+#Message#
+\C[3]Sou is collapsed on the floor.
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."I... It's the same situation, meow...! As before..!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Sure is..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Don't worry... He's breathing."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."On his head... those splinters?"
+##
+
+
+**********Event4********** (mokuhen) (8,6)
+-----Page1-----
+#Message#
+\C[3]There's a rugged plank of wood on the bed.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Just the right size to carry around and strike with."
+##
+
+#Message#
+\C[3]There's a rugged plank of wood on the bed.
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."H... Hey, what the hell's this...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Hmm, well... Seems just the right size
+ to carry and swing around."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."You don't mean... Sou was..."
+##
+
+
+**********Event5********** (EV005) (1,0)
+-----Page1-----
+#Message#
+\C[3]This scene... truly was the same
+as the one I just recalled.
+##
+
+#Message#
+\.\C[3]The same as when Sou was attacked in the hidden room...
+##
+
+{Sou}
+{SE: Accent21-1}
+#Message#
+\."Urgh..."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."S... Sou!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: Accent21-1}
+#Message#
+\."Oooof..."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."U... Um..."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Oww, man... I feel awful..."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."What in the world happened?"
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+{SE: horror_piano chord3}
+#Message#
+\."Eh...?"
+##
+
+#Message#
+\."Th... That's what I wanna know..."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Where is this place... When did I get here...?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Cram it, you bastard...!
+ Like hell anybody's gonna worry about you now!"
+##
+
+#Message#
+\."What're you plotting?! Tell me!"
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+\."W... Waugh?! Hold on...!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Now, now. Violence isn't the answer, Reko."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Tch...!!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."W... What is it...? You're so mean suddenly..."
+##
+
+{Sara}
+#Message#
+\."Sou..."
+##
+
+#Choice#
+Who attacked you?
+You broke the monitor, didn't you?
+Where have you been?
+##
+
+<誰に殴られましたか？>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."I... I don't know... Was I attacked...?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Wha?! Well, why else would you be collapsed?!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Uh... u-um... I think...
+ I was investigating the laptop in the hidden room..."
+##
+
+#Message#
+\."And then, I... ...?"
+##
+
+<モニターを壊しましたね？>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."M... Monitor? You mean the laptop...?"
+##
+
+#Message#
+\."Look, I wouldn't break it
+ just because I didn't know the password..."
+##
+
+<今までどこにいたんですか？>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Uh... u-um... I think...
+ I was investigating the laptop in the hidden room..."
+##
+
+#Message#
+\."Err... uhh... And then..."
+##
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.\C[4](What's he saying...?)
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Shut the hell up!! That laptop crap
+ was all before the Main Game!!"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent28-1}
+#Message#
+\."The Main Game...! That's right!
+ Before the Main Game, I need to..."
+##
+
+[Sou: Scared look / cara5-25]
+#Message#
+\."I need to check the data on the laptop...!
+ But the password... umm..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Y... You completely lost yer mind, man?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...The Main Game's long since ended."
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+\."W... What do you mean, Keiji?!"
+##
+
+#Message#
+\."Over...? All of it...?!"
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."W..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Who... died...?"
+##
+
+{N/A}
+#Message#
+\C[10]Huh...?
+##
+
+#Message#
+\.\C[10]...
+##
+
+#Message#
+\.\C[10]Sou...
+##
+
+#Message#
+\.\C[10]What... is Sou talking about...?
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+\."Who...?! Who isn't here... Nao...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."H-Hey... Don't tell me, your memory's..."
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Or else... was it Kai...?"
+##
+
+{N/A}
+#Message#
+\C[10]Stop.
+##
+
+#Message#
+\.\C[10]Stop it already...
+##
+
+{Sou} [Sou: Afraid look with lightless eyes / cara5-9]
+{SE: sceneswitch2}
+#Message#
+\."It can't be... Joe...?!"
+##
+
+{N/A}
+#Message#
+\.\C[10]\{Stop.\.\. Stop...
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+\."Miss Sara, that can't be it, right?!
+ Joe... Joe died?! Why?!"
+##
+
+{N/A}
+{SE: horror_3}
+#Message#
+\.\C[10]\{Stop!!\.\. Stop!!!\.\. Stop!!!!\.\.\.\^
+##
+
+#Message#
+\.\C[10] \{\{\{        STOP!!!!\.\.\.\^
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"...You okay, Sara?"
+##
+
+{Sara}
+#Message#
+\."Y-Yes... I'm fine."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Goddamn piece of shit!
+ He's spouting more stupid lies!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."So's it really a lie...?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Obviously!! He's at a disadvantage,
+ so he's pretending like he doesn't remember!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."That said... he's not going to
+ answer us like that, either."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent28-1}
+#Message#
+\."Um... Could you trust Kanna to handle it?"
+##
+
+{Sara}
+#Message#
+\."Kanna...!"
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'll try to find the truth
+ behind what Sou's thinking...!"
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+\."I'm sure he'll be less wary with me
+ than the rest of you...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Sounds good."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."The hell're you on about?!
+ That guy's, like... a bad influence on Kanna!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."...We've been underestimating Kanna, I'd say."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."She might be a stronger girl than we thought."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+\."Mr. Policeman...!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...But don't let him use you, Kanna."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Adults with bad intentions...
+ are scarier than you can imagine."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."...Right!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I ain't gonna accept it... I just..."
+##
+
+{Keiji} [Keiji: Turned to side, slight smile / cara2-14]
+#Message#
+\."Let's believe, Reko."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna...)
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...What do we do now, meow?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."We got three whole days. No use in rushin'
+ the attractions and hurtin' ourselves."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...It might be wise to discuss
+ how we're going to use these tokens, too."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."...Tokens... meow..."
+##
+
+{N/A}
+#Message#
+~Negotiations~
+##
+
+#Message#
+\.After finishing a Death Attraction,
+you can select someone in the lobby to have
+negotiations about token trades and the like.
+##
+
+#Message#
+\.It's wise to both collect tokens
+and deepen your interactions...
+
+Your actions may just decide their fates.
+##
+

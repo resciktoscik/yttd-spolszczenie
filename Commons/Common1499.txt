@@ -1,0 +1,18 @@
+**********Common1499********** (⑥クルマダB選択)
+{N/A}
+#Message#
+"Shit...! What do I do if not punch her?!
+ Should I tell jokes or somethin'?!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

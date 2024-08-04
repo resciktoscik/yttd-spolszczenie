@@ -1,0 +1,102 @@
+**********Common852********** (カンナ会話)
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff sniff*...
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."A... Ahhh!! Don't sniff me, please!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I'm not doing it 'cause I want to either, meow!!
+ Don't treat me like a pervert, woof!!"
+##
+
+{Sara}
+#Message#
+\."Gin... You don't have to sniff her
+ to tell that Kanna smells nice."
+##
+
+{Kanna} [Kanna: Looking down to side, blushing, covering face / cara3-31]
+{SE: Accent21-1}
+#Message#
+\."G... Geez! What's with you?!"
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+"Um... Sara..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."Sou's working to get us out of here, right...?"
+##
+
+{Sara}
+#Message#
+\."Kanna..."
+##
+
+#Choice#
+Exactly
+There's something up
+##
+
+<その通りだ>
+
+{Sara} [Kanna: Offended shout / cara3-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Exactly. We're finding ourselves
+ depending on Sou, but..."
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+{SE: Accent28-1}
+#Message#
+\."...I'm sure he'll do it."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna... So you believe him.)
+##
+
+<何か裏がある>
+
+{Sara} [Kanna: Hands in front smile / cara3-18]
+{SE: sceneswitch2}
+#Message#
+"There may be some ulterior motive here..."
+##
+
+{Kanna}
+{SE: Accent28-1}
+#Message#
+\."But you entrusted this to Sou, didn't you?"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."I'm sure... there's a part of you
+ that wants to believe too, Sara..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Choice End>
+

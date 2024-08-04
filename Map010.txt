@@ -1,0 +1,81 @@
+=====Map10===== (OP8 My Room)
+
+**********Event2********** (heya) (7,4)
+-----Page1-----
+#Message#
+\C[3]It's locked.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](I'll open it...)
+##
+
+#Message#
+\.\C[4](Who came in and locked the door to my room...?)
+##
+
+#Message#
+\.\C[4](Not dad... right?)
+##
+
+{N/A}
+#Message#
+\C[3]Used the \C[2]Room Key\C[3].
+##
+
+{SE: Open5}
+#Message#
+\C[3]The door opened.
+##
+
+-----Page2-----
+{Sara}
+#Message#
+"Dad?! Dad, are you here?!"
+##
+
+#Message#
+\."Mom collapsed!
+ Dad... Where are..."
+##
+
+{N/A}
+#Message#
+\|\|\^
+##
+
+{SE: horror_3}
+#Message#
+\|\^
+##
+
+#Message#
+\|\.\.\^
+##
+
+#Message#
+\|\|\|\^
+##
+
+#Message#
+       \SP[8]Your Turn To Die -Death Game By Majority-\|\|\|\^
+##
+
+#Message#
+                 \SP[8]Presented by Nankidai\|\|\|\^
+##
+
+#Message#
+\|\|\|\|\|\^
+##
+
+
+**********Event3********** (EV003) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The key to Sara's room.
+##
+

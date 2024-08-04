@@ -1,0 +1,587 @@
+=====Map143===== (❹Back of Cafeteria)
+
+**********Event2********** (EV002) (8,5)
+-----Page2-----
+{N/A}
+#Message#
+\C[3]There's small writing under the doorknob.
+##
+
+#Message#
+\.\C[3]"Input the number of kiddos who can't drink."
+##
+
+{Sara}
+#Message#
+\.\C[4](...?)
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\.\C[3]"Input the number of kiddos who can't drink"
+is written on the door.
+##
+
+{Sara}
+#Message#
+\.\C[4](I think I can solve this riddle now.)
+##
+
+#Message#
+\.\C[4](Speaking of drinking...
+ Wasn't there a \C[2]bar\C[4] on the first floor?)
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]There's small writing under the doorknob.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]"Input the number of kiddos who can't drink."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Huh... Is this our hint?"
+##
+
+{Sara}
+#Message#
+\.\C[4](It's a little sarcastic...)
+##
+
+#Message#
+\.\C[4](But I think I can solve the dial riddle now!)
+##
+
+#Message#
+\.\C[4](Speaking of drinking...
+ Wasn't there a \C[2]bar\C[4] on the first floor?)
+##
+
+-----Page6-----
+{N/A}
+#Message#
+\C[3]"Input the number of kiddos who can't drink"
+is written on the door.
+##
+
+
+**********Event3********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event4********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event5********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event6********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event7********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event8********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event14********** (akari) (8,2)
+-----Page1-----
+#Message#
+\C[3]A red lamp eerily illuminates the door.
+##
+
+
+**********Event18********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+
+
+**********Event28********** (doasaki) (8,4)
+-----Page1-----
+{SE: Key}
+#Message#
+\C[3]It's locked and won't open.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Ngh, this door... Was it always locked?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"No..."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Taking a closer look at the doorknob,
+I found a dial lock on the side.
+##
+
+{Sara}
+#Message#
+\.\C[4](Looks like you have to set it to
+ a number from 1 to 9.)
+##
+
+#Choice#
+Attempt the dial lock
+Ask Keiji
+##
+
+<ダイヤル錠に挑む>
+
+{Sara} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\.\C[4](I can just try every possibility,
+ and I'll have solved it in 9 tries...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hold on, Sara.
+ There are little holes on the knob."
+##
+
+{Sara}
+#Message#
+\."Holes...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: sceneswitch2}
+#Message#
+\."...It might pop out poison needles."
+##
+
+{Sara}
+#Message#
+\."...! Then I can't get this wrong."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Sure there's no hint somewhere in this room?
+ You should know what's up before you try."
+##
+
+{Sara}
+#Message#
+\.\C[4](Even though it was open the first time...)
+##
+
+<ケイジさんに頼む>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: flash-of-light-3}
+#Message#
+"Keiji, please bust down the door
+ with your brute strength like usual."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Eh...? Don't think that's in my wheelhouse."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."These arms are for protecting people, see."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sure enough, I should consider how to solve this.
+ I wonder if there's a hint anywhere...)
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."..."
+##
+
+<Choice End>
+
+-----Page2-----
+{SE: Key}
+#Message#
+\C[3]It's locked and won't open.
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Attempt the dial lock
+Ask Keiji
+Cancel
+##
+
+<ダイヤル錠に挑む>
+
+{Sara}
+#Message#
+\.\C[4](I can just try every possibility,
+ and I'll have solved it in 9 tries...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hold on, Sara.
+ There are little holes on the knob."
+##
+
+{Sara}
+#Message#
+\."Holes...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: sceneswitch2}
+#Message#
+\."...It might pop out poison needles."
+##
+
+{Sara}
+#Message#
+\."...! Then I can't get this wrong."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."We did see the hint...
+ But \C[2]it could be terrible if you get it wrong\C[0]."
+##
+
+{Sara}
+#Message#
+\.\C[4](I should be prepared for anything...)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Sure there's no hint somewhere in this room?
+ You should know what's up before you try."
+##
+
+{Sara}
+#Message#
+\.\C[4](Even though it was open the first time...)
+##
+
+#Message#
+\.\C[4](Okay, let's input it.)
+##
+
+#Choice#
+"1"
+"2"
+"3"
+"4"
+"5"
+"6"
+##
+
+<『　１　』>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\.\C[4](How about 1...?!)
+##
+
+{SE: Paralyze2}
+#Message#
+\.\C[4](Ow...?!)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sara...?"
+##
+
+{Sara}
+#Message#
+\."Ah... I... got it wrong..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Wha..."
+##
+
+{SE: feed1}
+#Message#
+\."Hang in there, Sara!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]My senses are getting hazy.
+##
+
+{Keiji}
+{SE: feed1}
+#Message#
+\."Ugh...!! Maybe there's an antidote
+ in the Medical Office...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]After coming so far, this is what does me in...
+##
+
+{Keiji}
+{SE: feed1}
+#Message#
+\."Don't die...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji... I'm sorry.
+##
+
+#Message#
+\.\C[3]Please... save everyone...
+##
+
+<『　２　』>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](How about 2...?!)
+##
+
+<『　３　』>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](How about 3...?!)
+##
+
+<『　４　』>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](How about 4...?!)
+##
+
+<『　５　』>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](How about 5...?!)
+##
+
+<『　６　』>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](How about 6...?!)
+##
+
+<Choice End>
+
+#Choice#
+"7"
+"8"
+"9"
+Cancel
+##
+
+<『　７　』>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](How about 7...?!)
+##
+
+<『　８　』>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](How about 8...?!)
+##
+
+<『　９　』>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](How about 9...?!)
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]The handle turns with a click, and the door opens.
+##
+
+{Sara}
+#Message#
+\.\C[4](Looks like that was right...!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Way to go, Sara.
+ Now we can enter the Pink Room."
+##
+
+<やめる>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\.\C[4](I'm not confident... I should rethink this.)
+##
+
+<Choice End>
+
+<ケイジさんに頼む>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."On the \C[2]blackboard\C[0] in the bar...
+ There was \C[2]a list of names showing
+ who could and couldn't drink\C[0]."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."As I recall... there were 9 who couldn't drink."
+##
+
+{Sara}
+#Message#
+\."Good job."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Feels like you're gonna give me a doggy treat."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."If you can't solve it, Sara, I doubt I can either."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh...)
+##
+
+{SE: flash-of-light-3}
+#Message#
+"Keiji, please bust down the door
+ with your brute strength like usual."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."Eh...? Don't think that's in my wheelhouse."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."These arms are for protecting people, see."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sure enough, I should consider how to solve this.
+ I wonder if there's a hint anywhere...)
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."..."
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page3-----
+#Message#
+\C[3]It's unlocked...
+##
+
+#Choice#
+Proceed inside
+Cancel
+##
+
+<奥に進む>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,113 @@
+**********Common175********** (ｷﾞﾝ「………」)
+{Gin}
+#Message#
+".........."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"...meow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"..."
+##
+
+{Sara}
+#Message#
+\."Gin..."
+##
+
+#Choice#
+Say something, anything
+Q-taro's not so scary
+##
+
+<なんでもいい　話してごらん>
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+"Come on, look at me...
+ You can talk to me, right?"
+##
+
+<Qタロウさんなんか　怖くないぞ>
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+"It's okay, big sis Sara is here.
+ Do you want to say something?"
+##
+
+<Choice End>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good... Gin's keeping his silence.)
+##
+

@@ -1,0 +1,662 @@
+**********Common530********** (⑤進展●あの時のﾚｺは？)
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"There is someone who could get Reko's clothes."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Eh...?!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."We can't get into Reko's room,
+ so of course we couldn't steal her spare clothes."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."But it's not us who brought those spares...
+ The kidnappers prepared them, didn't they?"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent28-1}
+#Message#
+\."Ah...!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."That's right. Ranger and Safalin
+ would have access to anyone's clothes."
+##
+
+{Ranger} [Ranger: Ice cream over mouth / cara18-2]
+#Message#
+\.".........."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."And the one with a similar frame,
+ who could hide the wound with a glove, is..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."You, Ranger. The Dressup Doll."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."It can't be...!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Ranger was Reko's fake...?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I get it. Him being the "Dressup Doll"...
+ Wouldn't be so strange for him to have
+ the ability to do perfect impersonations."
+##
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+\.".........."
+##
+
+#Message#
+\."Heh."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Ahahahahahahahaha!!"
+##
+
+#Message#
+\.\C[10]"Hahahahaha!! Hahahahahahaha!!"
+##
+
+#Message#
+\.\{\C[10]"Ahaha...!!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."So stupid..."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Ahh... I love pointless chatter..."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"I'll tell you this:
+ That Reko was the real deal."
+##
+
+{Sara}
+#Message#
+\."What?!"
+##
+
+{Ranger}
+#Message#
+\.\C[10]"Ahaha... I would never wear
+ the clothes of a living human."
+##
+
+#Message#
+\.\C[10]"It just feels too good to wear the clothes
+ of a poor human who died miserably...
+ Would you even understand?"
+##
+
+{Sara}
+#Message#
+\."...Grr..."
+##
+
+#Message#
+\."Then... Why don't you show us
+ what's under that glove?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Sure thing!"
+##
+
+{N/A}
+#Message#
+\.\C[3]With that, Ranger removed the glove...
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]And showed us a completely uninjured hand.
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Satisfied now?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."No way..."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Aaah...!
+ Then sure enough, there wasn't a fake!"
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."We've just wasted our time in vain...!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Not necessarily."
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."Eh...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Mr. Policeman's started to figure out
+ these Floor Masters."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."...Ehh?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I could tell from Miley too.
+ What you've got in common is..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."You can't lie about the important stuff."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."That's why you're touching on the topic,
+ but cleverly talking around it..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."But I noticed."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."...Noticed whaaat?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Ranger, just now..."
+##
+
+#Message#
+\."You said... \C[2]"that Reko was the real deal."\C[0]"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Why didn't you say "there's no fake"...?"
+##
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Oh, if you forgot to say that...
+ I'm giving you another chance."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\sp[12]\C[10]"...Bastard...!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."If you can't say it, that's the same as confessing.
+ There is a fake Reko."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."What the shit?!"
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+{SE: sceneswitch2}
+#Message#
+\."And it's relevant to this final attraction, too."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Huh... Where's your proof?"
+##
+
+{Keiji} [Keiji: Turned to side, slight smile / cara2-14]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."It's just my detective intuition."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."...Pretty persuasive."
+##
+
+{Keiji} [Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."I can feel it."
+##
+
+[Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."The wound on Reko's hand...
+ is the only clue the AI Mishima left us."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."Feels like his intentions
+ are shining some light on us all."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji...)
+##
+
+#Message#
+\."But... How could Reko's fake
+ be related to this attraction...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\.".........."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."Listen, Sara."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."If the Reko who injured her hand was real..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Then who's the fake...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Eh...?)
+##
+
+#Message#
+\.\C[4](That would be...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](The Reko... with no injury...?)
+##
+
+#Message#
+\.\C[4](You don't mean...)
+##
+
+#Choice#
+The Reko who broke the monitor
+The Reko standing before us
+##
+
+<モニターを破壊したレコさん>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: flash-of-light-3}
+#Message#
+\."The Reko who broke the monitor...!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...Wrong.
+ Take a deep breath, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Oof... Can't get myself confused...
+ That theory was literally just denied.)
+##
+
+<目の前のレコさん>
+
+<Choice End>
+
+{Sara} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."The Reko in front of us... is the fake...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Wha?! Don't be stupid!!"
+##
+
+{Sara}
+#Message#
+\."Yet Ranger said "that Reko,"
+ who punched the monitor, was real..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So... you having no wound on your hand...
+ means you're the fake...!"
+##
+
+{Reko}
+#Message#
+\."W... Whaaat?! How does that figure?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't imagine it either...!
+ The person in front of me is clearly Reko!)
+##
+
+#Message#
+\.\C[4](Even so... The matter of the injury
+ can't be passed off as "just my imagination"!!)
+##
+
+#Message#
+\.\C[4](If you think logically,
+ this person has to be a fake...!!)
+##
+
+{SE: Thunder10}
+#Message#
+\."Can you prove you're the real one, Reko?!"
+##
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."H... Hold the hell up! You seriously suspecting me?!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."I'm Reko!! No matter how you look at it,
+ I'm real, ain't I?!"
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Please, Sara, don't confuse people
+ with your weird ideas...!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."We're friends, right...?
+ I thought I made a friend I could trust
+ for the first time...!"
+##
+
+{Sara}
+#Message#
+\."Then... give me proof..."
+##
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\.\{"FOR GOODNESS'S SAAAAAAAAAAKE!!!!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Wah!"
+##
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Please, quit this foolishness!!
+ Don't you bully Reko any more!!"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."If you want evidence, I'll give it as her brother!!
+ That is the real Reko!!"
+##
+
+{Sara}
+#Message#
+\."W-What's your proof?!"
+##
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."The eyes of her brother by blood!!
+ I can't possibly be mistaken!!"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."Keiji!! You've been tricked by Ranger!!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."...What?"
+##
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."That Reko... was real! This Reko... is also real!
+ That's what Ranger meant!!"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."This is a trap, I tell you!!
+ One meant to ensnare Reko!!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."And yet you... You're thinking of sacrificing Reko
+ to save Gin, aren't you...?!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."...Alice..."
+##
+
+{Alice} [Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."Listen to me! Sara Chidouin!!"
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."I'm not panicking...!
+ I'm making a composed judgement!!"
+##
+
+[Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."A disguise couldn't possibly fool my eyes!
+ Her behavior, the slightest gestures, her personality!
+ In every way, that is the real Reko!!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I've been with her for 20 years!
+ Even through makeup... I can see her true identity!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Please...! Believe me, Sara!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Alice is staring me in the eye.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](He's... not lying...!)
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Don't listen to him, Sara!!"
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."The point of this attraction must be
+ to identify the fake and save Gin!!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Otherwise... Someone will absolutely
+ have to be sacrificed!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That's true...!)
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."So... so..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: shock1}
+#Message#
+\."We just... have to drop that fake...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...Wha...)
+##
+
+{Nao}
+#Message#
+\."There's no time to hesitate!!
+ We can't save Gin unless we drop the fake there!!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Nao! Are you... trying to frame me...?"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."That there is the real Reko!!
+ If she were a fake wearing a disguise...
+ I, her brother, would know!!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."If this Reko is a fake... When are you saying
+ she was switched with the real Reko...?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Someone could only have taken Reko's place
+ when she was alone... Was there any such time?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...And there's another big problem.
+ What's the real identity of the fake...?"
+##
+

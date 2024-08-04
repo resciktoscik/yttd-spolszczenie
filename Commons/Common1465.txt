@@ -1,0 +1,18 @@
+**********Common1465********** (⑤カンナB選択１)
+{N/A}
+#Message#
+"Keiji! Kanna will block his escape!
+ Please, tag \N[4]!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

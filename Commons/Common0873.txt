@@ -1,0 +1,179 @@
+**********Common873********** (ヒナコ)
+{Hinako} [Hinako: Small grin / cara93-3]
+#Message#
+"Apparently six victims of the First Trial
+ who had no acquaintance with you guys
+ were chosen as the supports."
+##
+
+[Hinako: Mouth open / cara93-2]
+{SE: Accent28-1}
+#Message#
+"...Hey there, Sara-senpai."
+##
+
+{Sara}
+#Message#
+\."Senpai...?"
+##
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+#Message#
+\."You not a fan of that?
+ To me, high school students are like adults..."
+##
+
+{Sara}
+#Message#
+\."You can call me what you like, Hinako."
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: Accent21-1}
+#Message#
+\."Great, Sara-senpai.
+ ...Glad you're someone who talks sense."
+##
+
+[Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."Oh yeah, I'll tell you a piece of info."
+##
+
+[Hinako: Mouth open / cara93-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The requirement for us being chosen as supports...
+ It's that we're dead people who never
+ had any contact with you survivors."
+##
+
+[Hinako: Small grin / cara93-3]
+{SE: Accent28-1}
+#Message#
+\."I heard 8 people died in the First Trial,
+ so 2 of them must've already known survivors."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna's sister... and Megumi Sasahara, I suppose.)
+##
+
+{Hinako} [Hinako: Eyes closed / cara93-4]
+{SE: sceneswitch2}
+#Message#
+\."I have another big piece of info...
+ But I can't say it yet."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+#Message#
+\."Haha... If you just reveal your entire hand...
+ You'll get used as a pawn, right?"
+##
+
+[Hinako: Eyes closed, grin / cara93-6]
+#Message#
+\."Nobody likes being used..."
+##
+
+{Sara}
+#Message#
+\."Used...?"
+##
+
+#Choice#
+I would never
+I want to be friends
+Ah, you got me
+##
+
+<そんなことしない>
+
+{Sara} [Hinako: Eyes closed, grin / cara93-6]
+{SE: Accent21-1}
+#Message#
+"I'd never do such a thing."
+##
+
+{Hinako} [Hinako: Default / cara93-1]
+#Message#
+\.".........."
+##
+
+[Hinako: Small grin / cara93-3]
+#Message#
+\."When their life's on the line,
+ who knows what kind of evils someone will do...
+ I thought you'd know that even better than me?"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+{SE: Accent28-1}
+#Message#
+\."This is my means of defense...
+ Don't be mad at me, Sara-senpai."
+##
+
+<仲良くなりたい>
+
+{Sara} [Hinako: Eyes closed, grin / cara93-6]
+{SE: Accent21-1}
+#Message#
+"I want us to be friends, Hinako."
+##
+
+{Hinako}
+#Message#
+\."Oh, neat. Are we going on a date?"
+##
+
+{Sara}
+#Message#
+\."Don't tease me."
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: Accent28-1}
+#Message#
+\."It might take a little more time to hit "friendly."
+ ...I'm shy, you see."
+##
+
+<バレたか>
+
+{Sara} [Hinako: Mouth open / cara93-2]
+{SE: horror_piano chord3}
+#Message#
+\C[10]"Mwahaha... You saw right through me."
+##
+
+{Hinako}
+#Message#
+\."...You're a terrible actor, Sara-senpai."
+##
+
+{Sara}
+#Message#
+\."Mmgh...!"
+##
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+{SE: Accent28-1}
+#Message#
+\."Haha... I'll tell you whenever I can trust you."
+##
+
+<Choice End>
+

@@ -1,0 +1,185 @@
+**********Common1695********** (◆ﾐﾄﾞﾘ「議論ごっこ」)
+{\N[4]}
+#Message#
+"Once I get him in one, it'll already be over."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+{SE: Accent24-1}
+#Message#
+"What's this? For me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+"Ahaha! "You've got that wrong"!"
+##
+
+{Sara}
+#Message#
+\C[4](..........)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+"...Quit joking around already."
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: shrink1}
+#Message#
+\."Huh...? Are you mad?"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Blaming it on me won't change
+ that you killed Hayasaka, miss Sara."
+##
+
+<Else>
+
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."What's the big deal? Hayasaka was already
+ just a pile of scrap at any rate."
+##
+
+<Condition End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Blaming it on me won't change
+ that you killed Kurumada, miss Sara."
+##
+
+<Else>
+
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."What's the big deal? Kurumada already
+ had that gaping hole in his stomach!"
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+\."Now then, back to Gin's location...
+ It's as much a game of luck for me as well."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."My favorite number is 0, but that isn't here, so..."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."Where shall I use a hint...?"
+##
+
+#Message#
+\."..............."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."You've got pretty eyes..."
+##
+
+{Sara}
+{SE: Accent42-1}
+#Message#
+\."They're looking at something filthy, though."
+##
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+#Message#
+\."Ahaha! What a unique response!"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Alrighty! I'll go with #\V[984]!
+ That's my lucky number of the day!"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent24-1}
+#Message#
+\."Miss Sara! Could you press the lamp on #\V[984] for me?"
+##
+

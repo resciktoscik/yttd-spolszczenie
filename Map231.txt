@@ -1,0 +1,840 @@
+=====Map231===== (⑤Storage + Operating Table)
+
+**********Event1********** (a) (1,1)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A power switch.
+##
+
+{Sara}
+#Message#
+\.\C[4](No reason to turn it off...)
+##
+
+{N/A}
+#Message#
+\C[3]There's some kind of switch.
+##
+
+{Sara}
+#Message#
+\.\C[4](It looks like it might be a power switch...)
+##
+
+#Choice#
+Press the switch
+Cancel
+##
+
+<スイッチを押す>
+
+<やめる>
+
+<Choice End>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\C[4](The lights came on...)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A power switch.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Fine to leave it on, I'm sure...)
+##
+
+{N/A}
+#Message#
+\C[3]There's some kind of switch.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Is this the power...?)
+##
+
+#Choice#
+Press the switch
+Cancel
+##
+
+<スイッチを押す>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event2********** (beddo-EV) (8,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bed illuminated by lights.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Huh... Wonder if I should take a nap.)
+##
+
+{Sara}
+#Message#
+\.\C[4](It's like an operating table...)
+##
+
+
+**********Event6********** (doakagi-EV) (6,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a machine with a keyhole by the door.
+##
+
+{Sara}
+#Message#
+\.\C[4](Why does this one door use a key?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Huh? Unlike everything else... a keyhole?)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+"Mai must be in here, right...?"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"Wonder if Mai is in here..."
+##
+
+<Condition End>
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."Hold on a second...
+ Then why did \N[4] come out of here?"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+{SE: Accent21-1}
+#Message#
+\."No good! Knocking's not getting a response..."
+##
+
+<Else>
+
+{Ranmaru} [Ranmaru: Hand on face, looking to side / cara91-31]
+{SE: Accent21-1}
+#Message#
+\."...Nobody responding when I knock."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](What could this mean, I wonder...)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]There's a machine with a keyhole by the door.
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+\."Looks like we can use the key Maple had."
+##
+
+{Mai} [Mai: Closed-eyes smile / cara92-3]
+{SE: Accent28-1}
+#Message#
+"Alright! It unlocked it!"
+##
+
+[Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+{SE: Accent21-1}
+#Message#
+"Bleh... I could do it if it were a fingerprint scan!"
+##
+
+[Mai: Looking down at hand, lowered brows / cara92-19]
+{SE: Motion-Pop03-1}
+#Message#
+\."..."
+##
+
+[Mai: Looking down at hand, eyes closed / cara92-18]
+{SE: shrink1}
+#Message#
+\."Yeah, didn't think that'd work..."
+##
+
+{Keiji}
+#Message#
+\.\C[4](She tried putting her finger to it...)
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]Darkness fills the area beyond the door.
+##
+
+#Choice#
+Go inside
+Cancel
+##
+
+<入る>
+
+<やめる>
+
+<Choice End>
+
+-----Page5-----
+{N/A}
+#Message#
+\C[3]Darkness fills the area beyond the door.
+##
+
+#Choice#
+Go inside
+Cancel
+##
+
+<入る>
+
+<やめる>
+
+<Choice End>
+
+
+**********Event8********** (自動) (1,10)
+-----Page2-----
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: Accent40-1}
+#Message#
+"Hey, there's probably no point in
+ looking around here any more, is there?"
+##
+
+{Sara}
+#Message#
+\."But... Mai might be in here."
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I think I'll go inspect the cemetery some more."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry sad eyes / cara6-38]
+#Message#
+\."Even if Maple's outta commission...
+ It's still be dangerous to be alone, right?"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Wait. Even with Obstructor Maple in such a state...
+ Surely it's dangerous to be on your own?"
+##
+
+<Condition End>
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+#Message#
+\.".........."
+##
+
+[Hinako: Eyes closed, mouth open / cara93-5]
+{SE: Accent21-1}
+#Message#
+\."Then, Ranmaru. You come with me."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+#Message#
+\."Huh? Why me...?"
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+#Message#
+\."Here, you hold my cocoa."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."You're drinking way too much..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"What should we do, meow...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Let's keep searchin' this floor some more
+ for Keiji and Q-taro."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Not to say I doubt Mai, but still..."
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Search this floor for Keiji Shinogi
+ and Cubetaro Hamburger some more, I suppose."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Not to say I distrust Mai, of course..."
+##
+
+<Condition End>
+
+
+**********Event38********** (raito-EV) (4,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]The lamp gives off a glaring light.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Reminds me of the dentist...)
+##
+
+{Sara}
+#Message#
+\.\C[4](Shouldn't look directly into it...)
+##
+
+
+**********Event48********** (syuuribako-EV) (2,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a big box labeled "Repaired."
+##
+
+{Sara}
+#Message#
+\.\C[4](There's nothing inside...)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]There's a big box labeled "Repaired."
+##
+
+{Keiji}
+#Message#
+\.\C[4](Hmm...?)
+##
+
+#Choice#
+Open it up
+Cancel
+##
+
+<開けてみる>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+{SE: Open1}
+#Message#
+\C[3]Opened the box.\|
+##
+
+{Keiji}
+#Message#
+"...!!"\|
+##
+
+{Mai}
+#Message#
+"Gyaaaaaaaah?! A severed head?!
+ It's \N[4]'s...!!"
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+"Nah, just a doll head..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"The box's got a letter in it!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Let's see...)
+##
+
+{\C[3]Note Paper}
+{SE: Accent28-1}
+#Message#
+\.\C[3]To Master Hiyori!
+Forgive the delay! The left eye
+and surrounding area have been repaired!
+Once charged, it should function properly!
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."This's some messy writing...
+ What's up with this? A... spare doll?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Hmm...)
+##
+
+#Choice#
+Take it with us
+Let's leave it
+##
+
+<持って行こう>
+
+{Keiji} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent40-1}
+#Message#
+"Maybe we should take this..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Ya serious...?"
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Could be useful for something, after all...)
+##
+
+<置いておこう>
+
+{Keiji} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: Accent40-1}
+#Message#
+"We should leave this creepy thing."
+##
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+\."Hang on a second..."
+##
+
+[Mai: Looking down at hand, mouth open / cara92-20]
+{SE: Accent21-1}
+#Message#
+\."What if... we brought this to her...?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](To Maple...?)
+##
+
+<Choice End>
+
+{N/A} [Mai: Looking down at hand, mouth open / cara92-20]
+#Message#
+\.\C[3]Obtained \N[4]'s Head.
+##
+
+
+**********Event54********** (sagyodai-EV) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A wide variety of tools.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's like a repair shop...)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A wide variety of tools.
+##
+
+{Keiji}
+#Message#
+\.\C[4](Kinda gets me excited...)
+##
+
+
+**********Event79********** (zidohan-EV) (14,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A drink machine.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Drinks again...?)
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: Accent28-1}
+#Message#
+"Hey, these are all hot drinks!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: shrink1}
+#Message#
+\."What's gotten you so excited...?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It doesn't seem to have charging capabilities..."
+##
+
+[Kanna: Neutral smile / cara3-9]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Which means... it's no trouble if we drink from here!"
+##
+
+[Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent28-1}
+#Message#
+\."Kanna's fine with cocoa!
+ How about Sara?"
+##
+
+{Sara}
+#Message#
+\."Kanna..."
+##
+
+#Choice#
+No time to play around
+I'll have cocoa
+I'll have hot water
+I'll have miso soup
+##
+
+<遊んでる場合じゃ無い>
+
+{Sara} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent21-1}
+#Message#
+"This is no time to be playing around!
+ Let's search diligently."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."R-Right... \}Cocoa..."
+##
+
+{Sara}
+{SE: flash-of-light-3}
+#Message#
+\."...Just one cup, alright?"
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent24-1}
+#Message#
+\."...Okay!"
+##
+
+<ココアだ>
+
+{Sara} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: flash-of-light-3}
+#Message#
+"I'll have cocoa...!
+ I'll need the sugar when I'm using my head."
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."If you wanna drink, you can just be honest..."
+##
+
+<お湯だ>
+
+{Sara} [Ranmaru: Hand tilted, mouth open / cara91-8]
+{SE: horror_piano chord3}
+#Message#
+"Hot water...! Give me warm and tasteless water!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+{SE: SIN-Motion-Pop37-1}
+#Message#
+\."That just sounds gross to me..."
+##
+
+<味噌汁だ>
+
+{Sara} [Ranmaru: Hand tilted, eyes to side, mouth open wide / cara91-12]
+{SE: flash-of-light-3}
+#Message#
+\."I'll have miso soup...!
+ White miso, black miso, red miso, whatever they have!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, surprised eyes, closed teeth / cara91-14]
+#Message#
+\."They don't have any! This ain't a soup bar!!"
+##
+
+{Sara}
+#Message#
+\."Well then... anything's fine."
+##
+
+<Choice End>
+
+<Else>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Seems this one doesn't have charging functions."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Which is to say, drinking from here
+ won't cause any issues for anybody..."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."But is anyone gonna drink
+ from something this sketchy, I wonder?"
+##
+
+{Sara}
+#Message#
+\."Sou, I..."
+##
+
+#Choice#
+Think we shouldn't
+Will have cocoa
+Will have hot water
+Will have miso soup
+##
+
+<やめるべきです>
+
+{Sara} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent21-1}
+#Message#
+"You're right, I think we shouldn't."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...They've got corn potage..."
+##
+
+{Sara}
+#Message#
+\."...Sou?"
+##
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+{SE: sceneswitch2}
+#Message#
+\."You're always plotting how to survive, huh...?
+ I'll take the risk. Gotta be on the offensive."
+##
+
+{Sara}
+#Message#
+\.\C[4](You just want something, don't you...!)
+##
+
+<ココアです>
+
+{Sara} [Sou: Looking down to side with smirk / cara5-6]
+{SE: flash-of-light-3}
+#Message#
+"I'll have cocoa. ...You want some too?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."S-Sara...!!"
+##
+
+[Sou: Disdainful pose / cara5-11]
+{SE: sceneswitch2}
+#Message#
+\."...I'll go with corn potage.
+ Let's see which is more important... sugar or salt!"
+##
+
+<お湯です>
+
+{Sara} [Sou: Disdainful pose / cara5-11]
+{SE: horror_piano chord3}
+#Message#
+"I'll have hot water. ...You want some too?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Of course not! That's weird...!"
+##
+
+[Sou: Disdainful pose / cara5-11]
+{SE: sceneswitch2}
+#Message#
+\."...I'll go with corn potage.
+ We'll see who has the last laugh..."
+##
+
+<味噌汁です>
+
+{Sara} [Sou: Disdainful pose / cara5-11]
+{SE: flash-of-light-3}
+#Message#
+"I'll have miso soup. ...You want some too?"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Do they... have that?"
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Hey, no they don't!! You tricked me, Sara...!!"
+##
+
+[Sou: Disdainful pose / cara5-11]
+{SE: sceneswitch2}
+#Message#
+\."...I'll go with corn potage.
+ You can drink hot water or something..."
+##
+
+<Choice End>
+
+<Condition End>
+
+{N/A} [Sou: Disdainful pose / cara5-11]
+{SE: Accent21-1}
+#Message#
+\C[3]Relaxed just a little bit with the drink machine.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A drink machine.
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."Hey, want something to drink?
+ It's all hot drinks, though."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Gah... Hot drinks, huh..."
+##
+
+{Mai} [Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+{SE: Accent24-1}
+#Message#
+\."I'll have honey and lemon teaaa!
+ Q-taro, Keiji, you should have some too!"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Ooh... That might not be bad..."
+##
+
+{Keiji}
+#Message#
+\."You like it?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent11-1}
+#Message#
+\."Reminds me of club time back'n high school."
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]Relaxed just a little bit with the drink machine.
+##
+

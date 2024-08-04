@@ -1,0 +1,18 @@
+**********Common1414********** (②ランマルB選択)
+{N/A}
+#Message#
+"Sara! There's a switch on the back-left post!
+ Should I press it?"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

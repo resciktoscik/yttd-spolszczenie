@@ -1,0 +1,20 @@
+=====Map71===== (Scrap②●Game Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+{SE: Accent21-1}
+#Message#
+"Please! Keiji!"
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+"Okie-dokie. I'm going in."
+##
+
+{??}
+#Message#
+\.\C[4](Something happened in the Blue Room...)
+##
+

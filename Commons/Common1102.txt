@@ -1,0 +1,40 @@
+**********Common1102********** (首輪の補足)
+{Sara}
+#Message#
+\C[4](This is \C[2]\N[4]'s collar\C[4]...
+ Keiji has it currently.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+"This... collar?"
+##
+
+{Keiji} [Midori: Default grin / cara19-2]
+#Message#
+\."You mean \C[2]the collar \N[4] had on at first\C[0]."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](We picked it up, and now Keiji has it...)
+##
+
+{Keiji}
+{SE: Accent39-1}
+#Message#
+\."Sorry to say, but... not what I'm talking about."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...Guess I phrased it badly.
+ A certain \C[2]monitor\C[0] caught my interest."
+##
+
+{Sara}
+#Message#
+\.\C[4](A monitor...)
+##
+

@@ -1,0 +1,106 @@
+**********Common726********** (ｱﾘｽ「皆でPC見てた時」)
+{Alice}
+#Message#
+"I shall tell you. \C[6]The third trade\C[0]
+ occurred when everyone was sharing the laptop..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Hmph... I don't have any need for this, you know?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"What IS that rebuttal?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent28-1}
+#Message#
+"Remembering that photo on the laptop
+ still makes my heart quake..."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."But what's important now is that card trade."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."Hmph... In the end, it was mutual betrayal..."
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."Cubetaro Hamburger... Despite being right there,
+ he traded his \C[10]Sacrifice\C[0] to you...!"
+##
+
+[Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Such a cold-blooded man!!
+ Don't speak of bonds to me...!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Huh? Something's strange here...)
+##
+

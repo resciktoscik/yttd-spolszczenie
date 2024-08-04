@@ -1,0 +1,364 @@
+=====Map72===== (Scrap②●Blue Room Russian)
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Sara} [Sara: Tired eyes / cara0-5]
+{SE: Accent21-1}
+#Message#
+"*pant*... *pant*... Keiji...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sara... You okay?"
+##
+
+#Choice#
+Are you okay...?!
+You should sleep more
+##
+
+<大丈夫か…!?>
+
+{Sara} [Sara: Tired eyes, mouth open / cara0-6]
+#Message#
+"...I'm fine. I Just had a bad dream..."
+##
+
+<もっと寝てた方が良い>
+
+{Sara} [Sara: Tired eyes, mouth open / cara0-6]
+#Message#
+"...I-I'm fine now."
+##
+
+{Keiji}
+#Message#
+\."But..."
+##
+
+{Sara} [Sara: Tired eyes / cara0-5]
+#Message#
+"I don't... want to sleep anymore..."
+##
+
+<Choice End>
+
+{Keiji} [Sara: Tired eyes / cara0-5]
+#Message#
+\."..."
+##
+
+{Sara} [Sara: Tired eyes, mouth open / cara0-6]
+#Message#
+\."...Sorry. I slept a little..."
+##
+
+{Keiji}
+#Message#
+\."Sara...! You okay?!"
+##
+
+#Message#
+\."...Sorry. I slept a little..."
+##
+
+{Q-taro}
+#Message#
+\."H-Hey! 'Sdangerous to act alone!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Quiet, muscle gorilla!!
+ I've got to talk to the policeman, woof!!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Talk...?)
+##
+
+#Choice#
+What's the matter?
+An incident?
+##
+
+<どうしたんだ？>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...I picked this up, woof..."
+##
+
+<事件か？>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...Umm, I picked this up, woof..."
+##
+
+<Choice End>
+
+{Keiji} [Gin: Worried / cara9-3]
+#Message#
+\.\C[4](This is...)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."That thing Joe had in his breast pocket..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."What should I do, meow...?
+ Should I give it to big sis Sara, woof?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Sure you should
+I'll give it to her
+Better if you didn't
+##
+
+<渡した方がいいねー>
+
+{Keiji} [Gin: Worried / cara9-3]
+#Message#
+"...It's important. You should give it to her."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."I-I'm scared... but okay, meow..."
+##
+
+<おまわりさんが渡すよ>
+
+{Keiji} [Gin: Horrified look / cara9-4]
+#Message#
+"A memento...
+ I'll give it to her, Gin."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Th-Thanks, meow..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Accepted the Dog Keychain.
+##
+
+<それは…見せない方が良い>
+
+{Keiji} [Gin: Worried / cara9-3]
+#Message#
+"No, don't, Gin. You can't show it to her."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."But we can't throw it away, meow...
+ I mean, it's big bro Joe's..."
+##
+
+{Keiji}
+#Message#
+\."Okay then, I'll hold onto it."
+##
+
+{Gin}
+#Message#
+\."S-Sure..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Accepted the Dog Keychain.
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."C'mon, Gin. You stay with Reko and Nao."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I don't want you ordering me around, meow!
+ Don't drag me down, woof!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Gimme a break... Guess I'll go alone.)
+##
+
+
+**********Event3********** (EV003) (2,0)
+-----Page1-----
+{Sara} [Sara: Tired eyes / cara0-5]
+{SE: Accent21-1}
+#Message#
+"*pant*... *pant*... Keiji...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sara... You okay?"
+##
+
+{Sara} [Sara: Tired eyes, mouth open / cara0-6]
+#Message#
+\."...Sorry. I slept a little..."
+##
+
+{Q-taro}
+#Message#
+\."H-Hey! 'Sdangerous to act alone!!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Quiet, muscle gorilla!!
+ I've got to talk to the policeman, woof!!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Talk...?)
+##
+
+#Choice#
+What's the matter?
+An incident?
+##
+
+<どうしたんだ？>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...I picked this up, woof..."
+##
+
+<事件か？>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...Umm, I picked this up, woof..."
+##
+
+<Choice End>
+
+{Keiji} [Gin: Worried / cara9-3]
+#Message#
+\.\C[4](This is...)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."That thing Joe had in his breast pocket..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."What should I do, meow...?
+ Should I give it to big sis Sara, woof?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Sure you should
+I'll give it to her
+Better if you didn't
+##
+
+<渡した方がいいねー>
+
+{Keiji} [Gin: Worried / cara9-3]
+#Message#
+"...It's important. You should give it to her."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."I-I'm scared... but okay, meow..."
+##
+
+<おまわりさんが渡すよ>
+
+{Keiji} [Gin: Horrified look / cara9-4]
+#Message#
+"A memento...
+ I'll give it to her, Gin."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Th-Thanks, meow..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Accepted the Dog Keychain.
+##
+
+<それは…見せない方が良い>
+
+{Keiji} [Gin: Worried / cara9-3]
+#Message#
+"No, don't, Gin. You can't show it to her."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."But we can't throw it away, meow...
+ I mean, it's big bro Joe's..."
+##
+
+{Keiji}
+#Message#
+\."Okay then, I'll hold onto it."
+##
+
+{Gin}
+#Message#
+\."S-Sure..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Accepted the Dog Keychain.
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."C'mon, Gin. You stay with Reko and Nao."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I don't want you ordering me around, meow!
+ Don't drag me down, woof!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](Gimme a break... Guess I'll go alone.)
+##
+

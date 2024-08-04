@@ -1,0 +1,33 @@
+**********Common856********** (★幻影ジョー対峙)
+{Sara}
+#Message#
+\C[4](Can I confront the hallucination...?)
+##
+
+#Choice#
+Face it
+I'm not ready
+##
+
+<立ち向かう>
+
+<心の準備ができてない>
+
+<Choice End>
+
+{Joe} [Joe: Hallucination (visible face) / cara1-25]
+#Message#
+\C[10]"Sara..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](You aren't Joe...!!)
+##
+
+#Message#
+\C[4](I need to \C[2]push aside\C[4]
+ the \C[2]evil clutches\C[4] reaching for me!!)
+##
+

@@ -1,0 +1,273 @@
+=====Map180===== (★Chapter 2 Part Two Summary)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Hey! How ya doin'?"
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."I'm gonna take you on a stroll down memory lane,
+ recap the story so far. Be grateful, ya bastard!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."'Course, if you're thinkin' "thanks but no thanks,"
+ you're free to leave, okay?"
+##
+
+#Choice#
+Let me hear it
+Leave (Return to title)
+##
+
+<聞かせてくれ>
+
+{Ranger} [Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+"Right! Get down on your knees and listen!"
+##
+
+<帰る（タイトルに戻る）>
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+#Message#
+"See ya, dumbass!"
+##
+
+<Choice End>
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."I'm gonna take you on a stroll down memory lane,
+ recap the story so far. Be grateful, ya bastard!"
+##
+
+#Choice#
+Let me hear it
+Hurry it up (Skip summary)
+Is it long?
+##
+
+<聞かせてくれ>
+
+{Ranger} [Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+"Sit up straight and listen!"
+##
+
+<先へ急ぐ（あらすじを飛ばす）>
+
+{Ranger} [Ranger: Angry face sign / cara18-4]
+#Message#
+"Geez, what a bore... Alright, I getcha."
+##
+
+<長い？>
+
+{Ranger} [Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+"I'm a masterpiece, sooo,
+ I'll just tell you the short and sweet version."
+##
+
+#Choice#
+Let me hear it
+Hurry it up (Skip summary)
+##
+
+<聞かせてくれ>
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+"Sit up straight and listen!"
+##
+
+<長いから先へ急ぐ（あらすじを飛ばす）>
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+"...You're gonna pay for this, y'know that?"
+##
+
+<Choice End>
+
+<Choice End>
+
+{N/A} [Joe: Folded arms wondering / cara1-17]
+#Message#
+These guys are \C[2]Sara Chidouin\C[0]
+and her best friend \C[2]Joe Tazuna\C[0].
+They're a pair of dweebs who waltzed together
+into the Death Game, all friendly-like!
+##
+
+#Message#
+Without having a clue what was what,
+their \C[2]First Trial\C[0] began, and they cleared lots more...
+##
+
+#Message#
+And they chose to cooperate and survive
+with all the other participants.\|\|
+##
+
+#Message#
+But their cooperation was for naught!
+And high school teacher \C[2]Kazumi Mishima\C[0] died.
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+His ex-student \C[2]Nao Egokoro\C[0] went into
+this hilarious panic over it, see.
+##
+
+#Message#
+So the self-described homemaker \C[2]Kai Satou\C[0]
+made use of that to instigate her...
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+And she stole back the laptop that job-hopper
+\C[2]Sou Hiyori\C[0] got his hands on!
+##
+
+#Message#
+The laptop concealed proof that Kai
+was colluding with the organization.
+##
+
+[Kai: Looking down and to side, sweating nervously / cara8-12]
+#Message#
+Ultimately, Kai died in the \C[2]Main Game\C[0].
+
+All 'cause he grabbed the \C[3]Sage\C[0] card!
+##
+
+[Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+And Joe, too, he got the \C[10]Sacrifice\C[0] card... and died.
+##
+
+[Joe: Hallucination (visible face) / cara1-25]
+{SE: shock1}
+#Message#
+\C[10]Seems hallucinations started to eat away at Sara...
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+The second stage was the Sub-Game,
+where everybody traded \C[2]tokens\C[0] amongst themselves.
+##
+
+#Message#
+During all that, an AI of the dead Mishima showed up...
+##
+
+#Message#
+And so did a fake doll that looked just like Reko!
+It was one huge calamity.
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+Amid all that, \C[2]Q-taro Burgerberg\C[0]
+discovered that laptop again.
+
+He was nearing the heart of the Death Game, but...
+##
+
+[Sou: Disdainful pose, closed-eyes smile / cara5-12]
+{SE: sceneswitch2}
+#Message#
+Lured by tokens, he handed the laptop over to Sou.
+
+Man, ain't double-crossing just the best?
+##
+
+#Message#
+Q-taro gathered the most tokens,
+and \C[2]Gin Ibushi\C[0] didn't collect squat.
+
+I was looking forward to one of 'em dying, but...
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: Accent28-1}
+#Message#
+"Okay, hotshot, pop quiz!"
+##
+
+#Message#
+"Which of these two was the one to actually die?"
+##
+
+-----Page3-----
+<If Switch #642 (★レコ生存ルート) is OFF>
+
+{N/A}
+#Message#
+It was \C[2]Reko Yabusame\C[0] who died in the end.
+
+...Stabbed by the fake Reko, in fact!
+##
+
+<Else>
+
+#Message#
+It was \C[2]Alice Yabusame\C[0] who died in the end.
+
+...Caught by my lies, in fact!
+##
+
+<Condition End>
+
+{Ranger} [Ranger: Ice cream over mouth / cara18-2]
+#Message#
+"Man... You guys are seriously stupid."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\."Having feelings when you're killing each other...
+ It'll only hurt you, y'know?"
+##
+
+{N/A} [Ranger: Looking up at hole in forehead / cara18-9]
+#Message#
+What I didn't know... is that I'd be killed, too.
+##
+
+[Gashu: Holding gun / cara16-7]
+#Message#
+But I... I should've been dad's masterpiece...!
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+{SE: Accent21-1}
+#Message#
+\."Now, everyone.\! If your memories are all in order,
+ allow me to invite you once again."
+##
+
+[Gashu: Head tilt / cara16-6]
+{SE: shock1}
+#Message#
+\."To the Main Game..."
+##
+
+{N/A}
+#Message#
+
+
+                       \C[10]8 Remain
+##
+

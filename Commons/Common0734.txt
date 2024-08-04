@@ -1,0 +1,97 @@
+**********Common734********** (▽ｹｲｼﾞ…肯定)
+{Sara}
+#Message#
+"Exactly! Because he was with us!"
+##
+
+{Keiji}
+{SE: sceneswitch2}
+#Message#
+"The question is, how did you know the \C[10]Sacrifice\C[0]...?"
+##
+
+{Sou}
+#Message#
+"*sigh*... Just rolling on ahead
+ with this assumption that I knew, huh."
+##
+
+{Sara}
+#Message#
+"Exactly! What terrifying guile...!!"
+##
+
+{Sou}
+#Message#
+"...I didn't do anything like that. You have proof?"
+##
+
+{Keiji}
+#Message#
+"Hmm... Now that you mention it, I'm at a loss."
+##
+
+{Sara}
+#Message#
+\C[4](That was wrong...!!)
+##
+
+#Message#
+"Yes. Even Sou's already recognized that fact!"
+##
+
+{Sou}
+#Message#
+"Ahaha, that's right."
+##
+
+{Keiji}
+#Message#
+"How did Sou react to Q-taro's proposition...?"
+##
+
+{Sara}
+#Message#
+"Right! He promptly invited him in to talk!!"
+##
+
+{Sou}
+#Message#
+"Hey... You do know Q-taro despises me quite a bit?"
+##
+
+#Message#
+\."So would I really throw caution to the wind
+ and open the door for him?"
+##
+
+{Sara}
+#Message#
+\C[4](That wasn't right...?!)
+##
+
+{SE: Sword2}
+#Message#
+"That's it exactly!
+ That's what Q-taro did to propose his deal!"
+##
+
+#Message#
+\."Sou must have been fairly wary of Q-taro,
+ who could best him using force!"
+##
+
+#Message#
+\."So Q-taro informed him that
+ he was the \C[10]Sacrifice\C[0] in advance!"
+##
+
+#Message#
+\."Not vocally, but by showing him his tablet...!"
+##
+
+{Sou}
+#Message#
+".........."
+##
+

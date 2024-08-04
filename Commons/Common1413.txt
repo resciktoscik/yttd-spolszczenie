@@ -1,0 +1,18 @@
+**********Common1413********** (②アンズB選択)
+{N/A}
+#Message#
+"If there's a knife on the ceiling...
+ I'll hit it with a shoe to knock it down!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,363 @@
+**********Common1694********** (３前進展⑧最初の犠牲者)
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+"Ohh...! Well? Is it the right one?!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Mouth open / cara94-2]
+{SE: Accent41-1}
+#Message#
+"...Hm?"
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+#Message#
+\."W-What? The floor..."
+##
+
+[Hayasaka: Eyes wide, teeth clenched, sweating / cara94-11]
+#Message#
+\."...?!"
+##
+
+[Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+\."S-Stop...!! Waaaah...!!"
+##
+
+<Else>
+
+<Condition End>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, slight surprise / cara95-20]
+{SE: Accent41-1}
+#Message#
+"...Eh?"
+##
+
+[Kurumada: Damaged, clenched teeth / cara95-18]
+#Message#
+\."W-What the? The floor..."
+##
+
+[Kurumada: Damaged, angry / cara95-21]
+#Message#
+\."...gh?!"
+##
+
+[Kurumada: Damaged, angry, shouting / cara95-23]
+#Message#
+\."H-Hwoah?! What the hell?! Hey, you gotta be...!!"
+##
+
+<Else>
+
+<Condition End>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+"Wha...!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"What in the heck?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."It drilled through the coffin...!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."A drill pierced right on throooooguh!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\."A drill went through the coffin...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Accent28-1}
+#Message#
+\."Too bad! You hit \V[983]!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Say what?!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."What happened to suit-and-specs, meow...?!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Hey! Suit-and-specs! Respond, woof!!
+ What happened, meow?!"
+##
+
+[Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Hey...!! Hey..."
+##
+
+[Gin: Looking up, tearful / cara9-14]
+{SE: Accent21-1}
+#Message#
+\."Respooond..."
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Hayasaka...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."How nice that it was a corpse! You're all so lucky!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Say what...?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout with sweat / cara3-24]
+#Message#
+\."W-What's going on?!"
+##
+
+[Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."Please, respond! Kurumada...!!"
+##
+
+[Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."That isn't true, right?! In just an instant...!"
+##
+
+[Kanna: Upset look, horrified face, mouth closed / cara3-28]
+{SE: Accent21-1}
+#Message#
+\."You tried so hard to survive this long!
+ And yet...!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."What happened to... muscle punk, meow...?!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Hey! Respond, woof!!
+ What happened, meow?!"
+##
+
+[Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Hey!! Muscle punk..."
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+{SE: Accent21-1}
+#Message#
+\."Oh no..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Kurumada...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."How nice that it was a corpse! You're all so lucky!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+[Midori: Open-mouth frown / cara19-3]
+{SE: Accent40-1}
+#Message#
+\."I wish I could've seen it from outside..."
+##
+
+{Sara}
+#Message#
+\."You've gotta be kidding, \N[4]!!
+ We didn't hear it would be like this!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."Yeah, seriously! This is the first we heard
+ that we'd be in danger...!!"
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."That's right...!
+ We never heard we'd be in danger too!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, hands out, furrowed brow, angry mouth / cara91-47]
+#Message#
+\."Yeah...!
+ You never said we'd be in danger too!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."You bastard...! This ain't what we were promised!!
+ I want no part in this! Let us free already!!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."This isn't what we heard!!
+ I want no part in this game! Let us freeeee...!!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\."...Ahem?"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent41-1}
+#Message#
+\."Is there some kind of problem...?"
+##
+
+{Sara}
+#Message#
+\."What...?!"
+##
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+{SE: Accent21-1}
+#Message#
+\."The drill just pierced the contents, you know?"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent24-1}
+#Message#
+\."The exterior's hardly changed,
+ so it shouldn't add any noise to your deductions."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Victory is decided once me or Gin get hit.
+ ...I haven't lied about anything."
+##
+
+{Sara}
+#Message#
+\."You...!!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Gettin' mucked up by a big drill like that
+ leaves no trace of 'em...!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."We can't bring 'em back like that!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."Relax."
+##
+
+[Midori: Mouth open, swirly eyes / cara19-6]
+{SE: horror_piano chord3}
+#Message#
+\."It'll be over soon... when I choose Gin next."
+##
+
+{N/A}
+#Message#
+
+　　　　　 \V[341]\C[3]\N[4]'s Selection?
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: button17}
+#Message#
+"Well, well... What number should I choose?
+ Miss Sara, let's discuss it together!"
+##
+

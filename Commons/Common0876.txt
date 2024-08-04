@@ -1,0 +1,150 @@
+**********Common876********** (アンズ)
+{Anzu} [Anzu: Smile / cara96-6]
+#Message#
+\."G-Go ahead and ask me anything!
+ ...As long as I can answer it."
+##
+
+[Anzu: Surprised / cara96-5]
+{SE: Accent28-1}
+#Message#
+"So you're Sara, right?"
+##
+
+{Sara}
+#Message#
+\."Y... Yeah."
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Oh! Let's be friends!
+ We're about the same age, right?"
+##
+
+[Anzu: Worried / cara96-2]
+#Message#
+\."...Urk! You're judging my outfit, aren't you?!
+ You think I'm... weird!"
+##
+
+{Sara}
+#Message#
+\."I mean..."
+##
+
+#Choice#
+I'm not thinking that
+Yeah, it is weird
+That hood's familiar
+##
+
+<そんなこと思ってない>
+
+{Sara} [Anzu: Worried / cara96-2]
+{SE: Accent21-1}
+#Message#
+"I'm not thinking that at all. Really."
+##
+
+{Anzu} [Anzu: Surprised / cara96-5]
+#Message#
+\."O... Oh?"
+##
+
+{Sara}
+{SE: flash-of-light-3}
+#Message#
+\."Yeah, in fact, I like those clothes. They suit you."
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent28-1}
+#Message#
+\."E... Ehehe. Even if it's flattery, I'm sorta glad.
+ Since I made these myself..."
+##
+
+<確かに変な服だ>
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: Accent21-1}
+#Message#
+"True, I did think it was a little weird, but..."
+##
+
+[Anzu: Concerned / cara96-4]
+#Message#
+\."I-I knew it! Can't avoid that, I guess!
+ Normally I do wear a regular uniform, you know?!"
+##
+
+<フードに見覚えがある>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+{SE: Accent21-1}
+#Message#
+"That hood looks familiar."
+##
+
+#Message#
+\."You're referring to that doll Rio Ranger, right?"
+##
+
+[Anzu: Surprised / cara96-5]
+#Message#
+\."That guy's awful. He pilfered my clothes
+ and wore them for himself!"
+##
+
+<Choice End>
+
+{Anzu} [Anzu: Worried / cara96-2]
+#Message#
+\."It's hard to explain, but see,
+ I do this clown sort of thing outside of school..."
+##
+
+[Anzu: Clown mask / cara96-1]
+{SE: Accent21-1}
+#Message#
+\."Look! I attend events dressed like this!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What a scary mask...)
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."So no reason to be creeped out! Really!"
+##
+
+{Sara}
+#Message#
+\."S-Sure... Anyway, do you have information...?"
+##
+
+{Anzu} [Anzu: Smile / cara96-6]
+{SE: flash-of-light-3}
+#Message#
+\."Of course! Err, let's see..."
+##
+
+[Anzu: Worried / cara96-2]
+#Message#
+\."..."
+##
+
+[Anzu: Smile / cara96-6]
+#Message#
+\."C-Could I have you ask someone else?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Ngh... Did she forget...?)
+##
+

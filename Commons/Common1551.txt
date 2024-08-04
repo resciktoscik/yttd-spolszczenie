@@ -1,0 +1,54 @@
+**********Common1551********** (★ﾊﾞﾄﾙ⑧流れ)
+{N/A}
+#Message#
+\C[3]The collar is giving off a burnt smell,
+but still functions.
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent28-1}
+#Message#
+"Oh dear!
+ Sorry! Seems it's built a little too sturdy."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Y-You gotta be kiddin'!
+ Then what do we...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent39-1}
+#Message#
+\."Gather charge again! Maybe it'll work next time!"
+##
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Shit...!!"
+##
+
+{N/A}
+#Message#
+\C[3]The collar is making strange sounds,
+but still barely functions.
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: shrink1}
+#Message#
+"Ah, how unfortunate...
+ That's real sturdy stuff!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried, closed teeth / cara91-27]
+#Message#
+\."Gimme a break!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Good luck! Surely third time's the charm!"
+##
+

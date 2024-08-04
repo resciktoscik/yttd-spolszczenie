@@ -1,0 +1,74 @@
+**********Common342********** (ダンス規定数終了)
+{Gin}
+#Message#
+"Go for it!! Big sis Saraaa!!"
+##
+
+#Message#
+"Go for it!! Big sis Saraaa!!"
+##
+
+{Kanna}
+#Message#
+\."I'm... sorry... Sara..."
+##
+
+{Sara}
+#Message#
+\."Stay with me... Kan... na...!"
+##
+
+{Kanna}
+#Message#
+\."...A... ahh..."
+##
+
+{Sara}
+#Message#
+\."...Kan... na...!"
+##
+
+{Reko}
+#Message#
+\."Under... estimated it... Dammit...!"
+##
+
+{Sara}
+#Message#
+\."No...! Reko...!"
+##
+
+{Gin}
+#Message#
+\."Big sis Sara... Couldn't protect her..."
+##
+
+{Sara}
+#Message#
+\."Gin...! Stay with me...!"
+##
+
+#Message#
+"Agh...!! Is this it for me...?!"
+##
+
+{Kanna}
+#Message#
+\."Kanna... will do her best...!"
+##
+
+#Message#
+\."...Kanna... will go..."
+##
+
+{Reko}
+#Message#
+\."Hand it off to me, Sara!
+ Rest up and trust me to handle this!"
+##
+
+{Gin}
+#Message#
+\."Big sis Sara! Leave the rest to me, meow!"
+##
+

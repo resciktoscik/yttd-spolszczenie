@@ -1,0 +1,94 @@
+**********Common998********** (ｿｳ「Qの自己犠牲」)
+{Sou}
+#Message#
+"I was surprised. Q-taro said he would
+ give me his tokens in exchange."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+"...And what about it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+"Arguing now won't prove anything."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+"I didn't intend to hear him out, but Q-taro
+ was so serious, I just couldn't turn him down."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."...And it turned out to be a good trade."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Don't give me that scary look.
+ You benefited from getting to see the laptop
+ for free, right, miss Sara?"
+##
+

@@ -1,0 +1,16 @@
+**********Common119********** (投票ギン)
+#Message#
+Vote for \C[2]Gin\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

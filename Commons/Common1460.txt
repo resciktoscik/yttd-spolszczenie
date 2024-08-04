@@ -1,0 +1,18 @@
+**********Common1460********** (⑤アリスB選択１)
+{N/A}
+#Message#
+"Rage, Keiji Shinogi!!
+ Fire at that man...!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

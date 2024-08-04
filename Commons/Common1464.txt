@@ -1,0 +1,18 @@
+**********Common1464********** (⑤アリスB選択３)
+{N/A}
+#Message#
+"Grr...! How cowardly!
+ I'll pick up the gun and fire...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

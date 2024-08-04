@@ -1,0 +1,150 @@
+**********Common249********** (ｷﾞﾝ「皆殺しは怖い…」)
+{Gin}
+#Message#
+"Big bro Joe said it before the preliminary vote, meow.
+ "If you pick Sara, it'll be a massacre for sure!"..."
+##
+
+#Message#
+"This is hard, meow...
+ Don't want a massacre, woof..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"...What, meow?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"...meow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Gin}
+#Message#
+"...meow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Gin}
+#Message#
+"...meow?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"Massacre... has a bad sound to it, woof..."
+##
+
+#Message#
+"Massacre... has a bad sound to it, woof..."
+##
+
+{Sara}
+#Message#
+\."D-Didn't you say that word first, Gin?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."N-No, woof! My parents would get mad
+ if they heard me use a word like that, meow!"
+##
+
+{Sara}
+#Message#
+\."Then who told it to you...?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent21-1}
+#Message#
+\."Big bro Joe said it before the preliminary vote, meow.
+ "If you pick Sara, it'll be a massacre for sure!"..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh... Is that why...?)
+##
+
+#Choice#
+Have him add the statement
+Cancel
+##
+
+<発言に加えてもらう>
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: Accent28-1}
+#Message#
+\."? I don't get it, but okay, woof."
+##
+
+<やめる>
+
+<Choice End>
+

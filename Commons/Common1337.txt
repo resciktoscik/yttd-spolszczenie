@@ -1,0 +1,304 @@
+**********Common1337********** (17、間違いどす)
+{Keiji}
+#Message#
+\C[4](This light on the ceiling...
+ Maybe this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part some more?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Lessee... I think it was a fluorescent light
+ with regular LEDs or somethin'..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Can you say for certain
+ that it wasn't an incandescent light?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Is that important, Keiji?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.\C[4](Nope, couldn't matter less.)
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](Irrelevant topics aside... Let's move on.)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\C[4](This grass past the building...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Probably just decorative grass."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."The employees make sure to water it.
+ It makes for a great view."
+##
+
+{Sara} [Sara: Smug smile / cara0-29]
+#Message#
+\."You like it?"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Yeah!"
+##
+
+{Sara} [Sara: Yell / cara0-26]
+#Message#
+\."Eh...?!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Plants, I mean."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Oh...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](\N[4]'s laptop...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Making me remember the bad parts...
+ It's just a laptop, right?"
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."It's the one \N[4] used.
+ I never got to check what's on it in detail."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\."That's... too bad."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Wonder if things would've been different
+ if I'd gotten some clues before being kidnapped..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."...As if."
+##
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\.\C[4](...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look / cara0-31]
+#Message#
+\C[4](This red pen in the front...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm...
+ I think it was just a red pen, meow."
+##
+
+[Gin: Smile / cara9-2]
+#Message#
+\."I wanna score stuff with that red pen
+ like a teacher sometime, woof!"
+##
+
+{Sara} [Sara: Hands on hips, smug smile / cara0-17]
+#Message#
+\."I hear it's a pretty tough job."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Marking assignments for dozens of people
+ does seem like it'd be rough, meow..."
+##
+
+#Message#
+\."I'd have to make the questions really hard
+ so I could just mark them all wrong, woof!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](That's one heck of a teaching policy...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](The air conditioner on the ceiling...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ It was just the AC."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."It was always cool in the shop.
+ I'd want to go there on hot days."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Nothing suspicious there, huh...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This book on the top bed...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Right... It's nothing of great import.
+ Just a book I was reading to pass the time."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."There was a library in the prison, you see.
+ I don't dislike reading, so it fulfilled me."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Being able to read as many books as you want...
+ I envy that part, at least.)
+##
+
+<やめる>
+
+<Choice End>
+

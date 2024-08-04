@@ -1,0 +1,129 @@
+**********Common567********** (●激走トロッコへ)
+#Message#
+\C[3]Now's not the time for attractions.
+##
+
+#Message#
+\C[3]I've already cleared this attraction.
+##
+
+{N/A}
+#Message#
+\C[3][Runaway Minecart]
+Participants: 2
+Clear Chip Reward: ★★
+Difficulty: Normal
+##
+
+#Message#
+\.\C[3]Get past obstacles that get in the way of the minecart
+and reach the goal within the time limit.
+##
+
+#Choice#
+Select partner
+Cancel
+##
+
+<相棒を選ぶ>
+
+#Choice#
+Q-taro
+Sou
+Gin
+Cancel
+##
+
+<Qタロウ>
+
+{N/A} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\.Q-taro Burgerberg
+As Q-taro, your characteristic might
+greatly increases your attack power.
+Difficulty: Hard
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."I know, Sara! If you partner with me,
+ I'll trade 10 Me-Tokens while we're at it!"
+##
+
+#Choice#
+Partner with Q-taro
+Reselect
+##
+
+<Qタロウを相棒にする>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Leave it to me!
+ I'll prove to ya that I ain't all muscles!!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<ソウ>
+
+{Q-taro} [Sou: Mouth open / cara5-1]
+#Message#
+\.Sou Hiyori
+Being nimble, the cart advances faster.
+
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Sou
+Reselect
+##
+
+<ソウを相棒にする>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."...I'll do my best not to get in the way."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<ギン>
+
+{Sou} [Gin: Default / cara9-1]
+#Message#
+\.Gin Ibushi
+Increases the appearance rate of speed-up icons.
+
+Difficulty: Easy
+##
+
+#Choice#
+Partner with Gin
+Reselect
+##
+
+<ギンを相棒にする>
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."I'm gonna ride in a cart with big sis Sara, meow!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

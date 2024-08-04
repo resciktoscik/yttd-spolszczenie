@@ -1,0 +1,547 @@
+=====Map122===== (Not-Dropped Version)
+
+**********Event1********** (アリス生存ルートED) (1,0)
+-----Page1-----
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Ah...! That's...!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Aren't you late. Welcome to the Room of Lies!
+ The stage is all set!"
+##
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Reko...!!"
+##
+
+{Left Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."W... Who's this chick?!
+ Doesn't she look exactly like me?!"
+##
+
+{Right Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."S-She was really... here...
+ Then am I... seriously a duplicate...?"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Huh? Confessing it that easily?
+ So boring! See, I was thinking of having a quiz..."
+##
+
+{Sara}
+#Message#
+\."What...?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Ahaha... You guys ever heard of doppelgangers?"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Someone witnessing you somewhere you never went.
+ Or else, you meeting another you..."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."In some countries, that phenomenon...
+ is considered an omen of death."
+##
+
+{N/A}
+{SE: Cyber12-1}
+#Message#
+\.\C[3]As soon as he finished talking,
+a sound began ringing out.
+##
+
+{Left Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."W... What the hell...?!
+ Why'd my collar start making that noise?!"
+##
+
+{Right Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Mine too...!!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Ahaha! It's begun!"
+##
+
+{Sara}
+#Message#
+\."Ranger!! What's the meaning of this?!"
+##
+
+{Ranger}
+#Message#
+\."It's 'cause they're doppelgangers."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+{SE: horror_piano chord3}
+#Message#
+\."...We don't need two Reko Yabusames.
+ Only one needs to survive..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."No...!!"
+##
+
+{Left Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You're kiddin', right?! This ain't fair!!"
+##
+
+{Right Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Graaah...!! I'm gonna tear this thing off...!!"
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Ahaha... I wonder what type of death
+ that collar will give...? Can't wait to see..."
+##
+
+{Sara}
+#Message#
+\."Stop it already...!! Ranger!!"
+##
+
+{Ranger}
+#Message#
+\.\C[10]"You three idiot girls are just so friendly..."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"Well then... I'll let you choose who to save."
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Save whoever you like more!
+ And if you don't pick either, both'll die."
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+#Message#
+\.\C[4](This is awful...)
+##
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+#Message#
+\.\C[4](We abandoned Gin to protect the life
+ of the fake Reko... and yet...!)
+##
+
+<Else>
+
+#Message#
+\.\C[4](This is just too cruel...!!)
+##
+
+<Condition End>
+
+#Message#
+\."Putting people's lives on scales again...?!"
+##
+
+#Message#
+\."I've had... enough of it...!!"
+##
+
+{Ranger}
+#Message#
+\."Think you've got something wrong there."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Don't be so self-centered, Sara Chidouin.
+ The one I'm saying I'll let choose is..."
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Nao Egokoro! I'm gonna have you pick!"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+{SE: sceneswitch2}
+#Message#
+\."M... Me...?"
+##
+
+{Right Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Don't be stupid...!!
+ It's just about choosing the real one, right?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."*sigh*... You're just full of complaints, huh?"
+##
+
+#Message#
+\."As a special service, how about you use this?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Ranger dropped something on the floor.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."That's...!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]The knife Kai used to commit suicide.
+##
+
+{Left Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."A... A knife...?!"
+##
+
+{Right Reko}
+{SE: sceneswitch2}
+#Message#
+\."...It's mine!!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]The right Reko grabbed the knife.
+##
+
+{Right Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Nao!! Pick me if you don't wanna suffer!!"
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\.".........."
+##
+
+{Right Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."I'm serious!! This ain't just a threat...!!"
+##
+
+[Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."If I'm gonna die... then not only Nao...!!
+ Sara!! I'm takin' you with me too...!!"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...You can't do such a thing."
+##
+
+{Right Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Because... you're a copy of Reko..."
+##
+
+#Message#
+\."Even in this short time, I understood...
+ You can't possibly hurt a friend."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...So I'm sorry."
+##
+
+#Message#
+\."Reko is my friend, too...
+ I need to save her..."
+##
+
+{Right Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."St... op..."
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."I... want to save...\! the left..."
+##
+
+{Right Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\.\{\C[10]"WAAAAAAAAAAAAAAAAAAAAUGH!!"
+##
+
+{Sara}
+#Message#
+"Huh...?"
+##
+
+{Left Reko}
+#Message#
+"...Ah..."
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+"Reko..."
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\.\{"Reko!!"
+##
+
+{Right Reko}
+#Message#
+\.\sp[12]"Haha... hahahaha..."
+##
+
+#Message#
+\.\sp[12]"I killed her... I killed her...!"
+##
+
+#Message#
+\."I won! I survived...!!"
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\.\sp[12]".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\sp[12]"...Why...?"
+##
+
+#Message#
+\.\sp[12]"Why... isn't the collar stopping...?"
+##
+
+{Ranger}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Huh? Well, that's strange..."
+##
+
+#Message#
+\."Maybe because Nao didn't choose?"
+##
+
+{Right Reko}
+#Message#
+\.\sp[12]"..."
+##
+
+#Message#
+\.\sp[12]"Hahaha..."
+##
+
+#Message#
+\.\sp[12]"You never... intended on letting
+ the fake survive from the start, did you...?"
+##
+
+#Message#
+\.\sp[10]"Haha... hahaha... hahahahahaha..."
+##
+
+{Ranger}
+#Message#
+"Ahh, it was the exploding type.
+\! Well, simple is best!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"What... is this..."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Why is Reko in this state?!"
+##
+
+[Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Wake her up! Nao!! Sara!!
+ Won't you explain?!"
+##
+
+{Sara}
+#Message#
+\.\sp[12]".........."
+##
+
+#Message#
+\.\sp[12]"...R... Reko is..."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."What are you trying to say...?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Ahh, couldn't even come to see her die...
+ Some siblings you are, huh?"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."This can't be..."
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."It's inconceivable Reko would die...!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."You see how much she's bleeding?
+ C'mon, you know it."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."This is the fake Reko's blood, right?!
+ I won't be fooled!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Nope, the fake doesn't bleed!"
+##
+
+[Ranger: Smile sign / cara18-1]
+#Message#
+\."Look, collapsed over there!
+ The headless Reko is the fake."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."No... I won't believe it...!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Reko is so much stronger, luckier,
+ and more hateful than me...!!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."She's... a person whose life has value...!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."My one and only... sister..."
+##
+
+{Ranger} [Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"She's garbage now. It's just a corpse."
+##
+
+{Alice}
+#Message#
+\."Give her back..."
+##
+
+#Message#
+\.\{\C[10]"GIVE REKO BAAAAAAAAAACK!!!!"
+##
+
+{Ranger}
+#Message#
+\."Ahaha! So scary, Alice!"
+##
+
+{Alice}
+{SE: Damage4}
+#Message#
+\.\{\C[10]"I'll kill you!! You're DEAD!!!!"
+##
+
+{Ranger}
+#Message#
+\."If you kill a Floor Master,
+ all y'all are gonna die, y'know..."
+##
+
+#Message#
+\."Oh well. Seems I'll just have to kill you too!"
+##
+

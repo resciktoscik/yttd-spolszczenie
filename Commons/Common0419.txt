@@ -1,0 +1,16 @@
+**********Common419********** (雑魚撃破・勝利)
+{N/A}
+{SE: Applause1}
+#Message#
+\C[3]Won the battle.
+##
+
+{Gin}
+#Message#
+"Big sis Sara!! You're amazing, meow!!"
+##
+
+#Message#
+"Big sis Sara!! You're amazing, meow!!"
+##
+

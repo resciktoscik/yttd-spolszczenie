@@ -1,0 +1,125 @@
+=====Map67===== (Scrap②▽Bar)
+
+**********Event2********** (EV002) (0,0)
+-----Page1-----
+#Message#
+"...Mm..."
+##
+
+{???}
+#Message#
+"Heyyy..."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Getcherself up, Keiji."
+##
+
+{Keiji}
+#Message#
+\."...Oh..."
+##
+
+#Message#
+\.\C[4](Must've fallen asleep...)
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."I see you can hold yer drinks...
+ But drinking too much'll just dull yer mind."
+##
+
+{Keiji}
+#Message#
+\."My bad..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."...Well..."
+##
+
+#Message#
+\."Gotta drink to be able to stand it, huh..."
+##
+
+{Keiji}
+#Message#
+\."...Right you are."
+##
+
+#Message#
+\.\C[4](...I should move around.)
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+#Message#
+"...Mm..."
+##
+
+{Voice}
+#Message#
+"...Wake up..."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+"Please wake up..."
+##
+
+{???}
+#Message#
+\."Huh..."
+##
+
+#Message#
+\.\C[4](Oww... Was I asleep?)
+##
+
+{Kanna}
+#Message#
+\."Drinking...? At a time like this?"
+##
+
+{???}
+#Message#
+\."Huh...? Did I empty this bottle...?"
+##
+
+{Kanna}
+#Message#
+\."..."
+##
+
+{???}
+#Message#
+\.\C[3]I sense a great hatred from Kanna...
+##
+
+#Message#
+\.\C[4](...I should move around a little.)
+##
+
+
+**********Event33********** (EV033) (2,1)
+-----Page1-----
+#Message#
+\C[3]There's a bunch of names on the blackboard.
+##
+
+#Message#
+\.\C[3][Can Drink]
+Alice, Kai, Kazumi, Keiji, Shunsuke,
+Sou, Naomichi, Mai, Megumi, Reko, Q-taro
+##
+
+#Message#
+\.\C[3][Can't Drink]
+Anzu, Kanna, Gin, Kugie, Sara, Joe,
+Nao, Hinako, Ranmaru
+##
+

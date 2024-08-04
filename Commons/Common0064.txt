@@ -1,0 +1,74 @@
+**********Common64********** (Q「ケイジ撃てよ！」)
+{Q-taro}
+#Message#
+"Keiji! Doesn't that mean we should
+ have you be the Challenger?!"
+##
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"If you got'n objection,
+ ya gotta explain yerself better than that!"
+##
+
+{Sara}
+#Message#
+\C[4](Would a different statement convince him...?)
+##
+
+{Q-taro}
+#Message#
+"If you got'n objection,
+ ya gotta explain yerself better than that!"
+##
+
+{Sara}
+#Message#
+\C[4](Would a different statement convince him...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"Ain't it clear?! Handles guns and cool-headed!
+ The most suitable!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He might be right... If were to ask
+ someone else... I'd probably ask Keiji.)
+##
+

@@ -1,0 +1,35 @@
+**********Common1716********** (タッチ１)
+{Q-taro} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+"The painting of Sou smilin'! It's got a cheery aura
+ I'd never expect from the Sou we know!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Should I have him add this statement...?)
+##
+
+#Choice#
+Add
+Cancel
+##
+
+<加える>
+
+{Sara} [Hinako: Grave look, mouth open / cara93-12]
+{SE: Accent28-1}
+#Message#
+"Q-taro, please add that to your statement!"
+##
+
+{Q-taro}
+#Message#
+\."You got it!"
+##
+
+<やめる>
+
+<Choice End>
+

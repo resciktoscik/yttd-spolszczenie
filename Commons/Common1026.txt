@@ -1,0 +1,18 @@
+**********Common1026********** (①カンナB選択)
+{N/A}
+#Message#
+"Kanna's willing to do anything...!
+ She'll use the torch to burn it from behind!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

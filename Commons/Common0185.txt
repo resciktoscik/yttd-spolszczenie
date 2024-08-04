@@ -1,0 +1,24 @@
+**********Common185********** (ｹｲｼﾞ 八分雨？)
+[Keiji: Default smile / cara2-1]
+#Message#
+\C[3]Select Keiji as Yabusame?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\.\C[4](No! Keiji is Keiji Shinogi!
+ He left a strong first impression,
+ so I remember his name well...)
+##
+
+<いいえ>
+
+<Choice End>
+

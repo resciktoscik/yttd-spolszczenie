@@ -1,0 +1,34 @@
+**********Common34********** (討論ルート　きのこ)
+{N/A}
+{SE: Accent28-1}
+#Message#
+The discussion progressed!
+
+
+* Planning to display picture/whatever here too
+##
+
+{Strange Man} [Mishima: Default smile / cara12-1]
+#Message#
+\."...And so the discussion proceeds like that,
+ and ultimately, a vote is held."
+##
+
+#Message#
+\."In the story, you need to win votes about
+ actions like "I wanna open this suspicious door!",
+ thus you need to gain approval to cut a path."
+##
+
+#Message#
+\."As for the essential voting system,
+ I wasn't able to finish it in time."
+(For now, I'm thinking something simple
+ where you click a face icon to vote...!)
+##
+
+#Message#
+\."This ends the current mockup!
+ Thank you very much for testing!"
+##
+

@@ -1,0 +1,103 @@
+**********Common1037********** (戦①ヨロイは熱い)
+{N/A}
+#Message#
+\C[3]Keiji looked over the opponent head to toe.
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Those red areas of its body
+ are making a crackling sound..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: sceneswitch2}
+#Message#
+\."Seems they're electrified or something.
+ It'd be dangerous to touch."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."The purple skeletal parts are some kind of armor.
+ Probably okay to touch those..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."...Might have to find a weapon
+ or destroy the armor to deal with this one."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Owww!! What fresh hell is that?!
+ It zapped me good!!"
+##
+
+{Sara}
+#Message#
+\."Is it electrified...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."Yeah...! Seems to be the red parts!
+ Can't touch the shoulders or arms bare-handed!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."In other words... The armor isn't electrified!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Yep, you got it!
+ Damn... Wish I'd noticed before I did that!"
+##
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+"Owww!! The hell is this?!
+ This thing's electrified!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...Where did you just punch it?"
+##
+
+{Kurumada} [Kurumada: Frown / cara95-2]
+#Message#
+\."The shoulder, where else?!
+ That sturdy armor ain't gonna break from a punch!"
+##
+
+{Sara}
+#Message#
+\."So then... It seems the red parts of its body
+ have electricity running through them."
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: Accent28-1}
+#Message#
+\."So no point in carelessly attacking
+ anything but the armor, is what you're saying?"
+##
+
+[Kurumada: Mouth open / cara95-1]
+#Message#
+\."Shoulda noticed that before I punched it, dammit!"
+##
+
+{Sara}
+#Message#
+\.\C[4](You're the one being rash...)
+##
+

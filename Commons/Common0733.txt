@@ -1,0 +1,146 @@
+**********Common733********** (⑦進展●「Qの事実」)
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."I..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."Spit it all out, Q-taro!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."I meant to cooperate... with Sara... with everyone!!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."But I got used for convenience!
+ I'm pathetic!! A pathetic adult...!!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."The third trade...
+ My \C[10]Sacrifice\C[0] bein' sent to Sara..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."It wasn't me...! It was Sou's doing!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."...Wha...?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Say what...?!"
+##
+
+<Condition End>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."...I don't know what you're talking about."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Sou knew!!
+ He knew I had the \C[10]Sacrifice\C[0]!!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent21-1}
+#Message#
+\."What...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."When everybody was sharing the laptop..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Sou wasn't goin' to use the toilet...!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."He went to use a Ring-Up Box!
+ To trade my \C[10]Sacrifice\C[0] and Sara's \C[2]Keymaster\C[0]!!"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+{SE: Accent21-1}
+#Message#
+\."Don't know a thing about that..."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."W-Wait a second!! He chose two other people
+ and made them trade...? You can do that?!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent28-1}
+#Message#
+\."It... must be possible, huh."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."...Hmm. So you can say that with confidence."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Sou, isn't it about time you confess?"
+##
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Tell us your real reason for sharing the laptop."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Ahaha. Such a deeply suspicious individual, Keiji."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

@@ -1,0 +1,296 @@
+=====Map65===== (Dream: Study)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{???}
+#Message#
+"Excuse me."
+##
+
+{Kai} [Kai: Blue apron, default (no collar/utensils) / cara8-18]
+#Message#
+"I have brought your lunch."
+##
+
+{???}
+#Message#
+"Ohh, thank you."
+##
+
+#Message#
+\."Kai, you got a minute?"
+##
+
+{Kai} [Kai: Blue apron, raised eyebrows (no collar/utensils) / cara8-19]
+#Message#
+"Y... Yes?"
+##
+
+{???} [Sara's Father: Default smile / cara17-1]
+{SE: Accent21-1}
+#Message#
+"Kai. How many years's it been since you came here?"
+##
+
+{Kai} [Kai: Blue apron, hand on chin, looking to side (no collar/utensils) / cara8-21]
+#Message#
+\."Hm... How many indeed...
+ Surely, it's been quite a long time."
+##
+
+{???} [Sara's Father: Toothy grin / cara17-2]
+#Message#
+\."Gahaha! That's why I want to give you this,
+ you hard-worker."
+##
+
+{Kai} [Kai: Blue apron, raised eyebrows (no collar/utensils) / cara8-19]
+{SE: Accent28-1}
+#Message#
+\."What is this...?"
+##
+
+{???} [Sara's Father: Default smile / cara17-1]
+#Message#
+\."Go on, go on, try it on."
+##
+
+{Kai} [Kai: Default (no collar/utensils) / cara8-16]
+{SE: Accent28-1}
+#Message#
+".........."
+##
+
+{???} [Sara's Father: Toothy grin / cara17-2]
+#Message#
+\."Whoa! Suits you pretty well, eh?"
+##
+
+{Kai} [Kai: Hand on chin, looking to side (no collar/utensils) / cara8-20]
+#Message#
+\."What, er... What exactly led to..."
+##
+
+{???} [Sara's Father: Toothy grin / cara17-2]
+#Message#
+\."C'mon now... It's a present."
+##
+
+#Message#
+\."My wife and Sara live safely thanks to you."
+##
+
+{Kai} [Kai: Raised eyebrows (no collar/utensils) / cara8-17]
+#Message#
+\."E... Er... So you mean to state
+ your feelings of gratitude...?"
+##
+
+{???} [Sara's Father: Toothy grin / cara17-2]
+#Message#
+\."Nope. This isn't about gratitude as your employer."
+##
+
+#Message#
+\."That apron... belonged to my own mom."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."In other words, it proves your initiation
+ into the tradition of homemakers!"
+##
+
+{Kai} [Kai: Raised eyebrows (no collar/utensils) / cara8-17]
+#Message#
+\."Homemakers...?"
+##
+
+{???} [Sara's Father: Default smile / cara17-1]
+{SE: Accent28-1}
+#Message#
+\."As well as... your bond with the Chidouin family."
+##
+
+{Kai} [Kai: Default (no collar/utensils) / cara8-16]
+#Message#
+\."...!!"
+##
+
+{???} [Sara's Father: Default smile / cara17-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."To me... You're family."
+##
+
+{Kai} [Kai: Raised eyebrows (no collar/utensils) / cara8-17]
+{SE: Accent21-1}
+#Message#
+\."I am... family...?"
+##
+
+{???} [Sara's Father: Default smile / cara17-1]
+#Message#
+\."My wife thinks the same way.
+ She suggested I give you that as a gift, in fact."
+##
+
+{Kai} [Kai: Default (no collar/utensils) / cara8-16]
+#Message#
+\."...S-Surely you jest... Someone such as me..."
+##
+
+#Message#
+\.".........."
+##
+
+[Kai: Hiding face with frying pan / cara8-14]
+#Message#
+\."..."
+##
+
+{???} [Sara's Father: Neutral / cara17-3]
+#Message#
+\."Whoa! What's the matter?"
+##
+
+{Kai} [Kai: Hiding face with frying pan / cara8-14]
+#Message#
+\."..."
+##
+
+[Kai: Looking down and to side, eyes red from crying (no collar/utensils) / cara8-15]
+{SE: jump12}
+#Message#
+\."...I-It is nothing..."
+##
+
+{???} [Sara's Father: Toothy grin / cara17-2]
+#Message#
+\."Gahaha! Your eyes are red!
+ Don't tell me you were cryin'?!"
+##
+
+{Kai} [Kai: Looking down and to side, eyes red from crying (no collar/utensils) / cara8-15]
+#Message#
+\."W-Whatever are you saying..."
+##
+
+{???} [Sara's Father: Toothy grin / cara17-2]
+#Message#
+\."...Makes me happy. Gahaha..."
+##
+
+[Sara's Father: Default smile / cara17-1]
+#Message#
+\."..."
+##
+
+[Sara's Father: Neutral / cara17-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...If it comes to it, I'm trusting you with Sara."
+##
+
+{Kai} [Kai: Default (no collar/utensils) / cara8-16]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{???} [Sara's Father: Default smile / cara17-1]
+#Message#
+\."Someday that girl...
+ will learn I'm not her real father."
+##
+
+#Message#
+\."That girl's destiny has so much potential for change
+ that I've put my own life on the line...
+ It's far from trifling."
+##
+
+#Message#
+\."But I've got no worries."
+##
+
+[Sara's Father: Toothy grin / cara17-2]
+{SE: Accent28-1}
+#Message#
+\."Because our family's got a hero
+ who'll protect her from the shadows."
+##
+
+{Kai} [Kai: Default (no collar/utensils) / cara8-16]
+#Message#
+\."...Please don't say "hero.""
+##
+
+#Message#
+\."I am nothing but a traitor..."
+##
+
+#Message#
+\."I will remain a shadow, never known...
+ and just continue to protect miss Sara."
+##
+
+#Message#
+\."...Such is my affection."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."...But."
+##
+
+#Message#
+\."This...\.\. this apron..."
+##
+
+[Kai: Holding new apron with smile (no collar/utensils) / cara8-22]
+{SE: Accent21-1}
+#Message#
+\."I will use it with care...\.\. I will treasure it...!"
+##
+
+{???} [Sara's Father: Enraged / cara17-4]
+#Message#
+"Affection...?"
+##
+
+#Message#
+\.\C[10]"I may have trusted her to you...
+ But I won't give you my daughter... Never..."
+##
+
+{Kai} [Kai: Raised eyebrows (no collar/utensils) / cara8-17]
+#Message#
+\."...E-Err, master?"
+##
+
+{???} [Sara's Father: Enraged / cara17-4]
+#Message#
+\.\C[10]"Daughter... daughter..."
+##
+
+{Kai} [Kai: Hand on chin, looking to side (no collar/utensils) / cara8-20]
+#Message#
+\.\C[4](...When it comes to miss Sara...
+ he loses sight of all else, indeed.)
+##
+
+[Kai: Default (no collar/utensils) / cara8-16]
+#Message#
+\.\C[4](From this angle as well...
+ I must continue to watch over miss Sara.)
+##
+
+[Kai: Hand on chin, looking to side (no collar/utensils) / cara8-20]
+#Message#
+\.\C[4](I wonder if she is focusing on her studies now...?)
+##
+

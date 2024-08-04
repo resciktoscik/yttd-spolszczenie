@@ -1,0 +1,92 @@
+**********Common477********** (①進展●鑑賞席の仕掛け)
+{Sara}
+#Message#
+"Nao, repeat that for me!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+\."E-Err, I think...
+ This room is meant to punish us!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."W-What're you talking about?!"
+##
+
+#Message#
+\."And so what if it's punishing us?!
+ That's got nothing to do with rescuing Gin, right?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."I mean... If that were true, there'd be no reason
+ to separate us from Keiji and the others!"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."I'm sure this room is connected
+ to the mechanism to rescue Gin..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."Maybe our punishment... is related to the
+ "Left: 35.5kg" display..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."It's irrelevant!
+ Nothing we do's got any meaning!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Take a look! No matter how much we leap around,
+ that display ain't changing!"
+##
+
+{N/A}
+{SE: Wind1}
+#Message#
+\.\C[3]With that, Reko jumped up high again.
+##
+
+#Message#
+\C[3]Thump...
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."T-The hell?"
+##
+
+{Sara}
+#Message#
+\."I just heard a sound..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Say what...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I think it came from the floor...!)
+##
+
+#Message#
+\.\C[4](I'll try touching around...)
+##
+

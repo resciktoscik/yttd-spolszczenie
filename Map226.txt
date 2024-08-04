@@ -1,0 +1,1563 @@
+=====Map226===== (Past Alice Test)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Kanna}
+#Message#
+"The memory Kanna's wondering about was at
+ the ice cream shop she went to with her sister."
+##
+
+#Message#
+\."Her sister often went there on the way home...
+ so she took Kanna there for the first time."
+##
+
+#Message#
+\."But... something's strange.
+ She can't be sure of what really happened then..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Well then... Let's give it a try!)
+##
+
+#Message#
+\.\C[4](Is there something wrong in Kanna's memory...?)
+##
+
+#Message#
+\.\C[4](By using this lantern,
+ maybe I can bring Kanna's \C[2]real memory\C[4] to light...!)
+##
+
+#Choice#
+View explanation
+Do it right now!
+##
+
+<やり方の説明を見る>
+
+{N/A}
+#Message#
+\C[3]Touch the \C[2]right screen\C[3] to move the lantern's light!
+If you find a difference, point it out on the \C[2]left\C[3]!
+##
+
+<今すぐやる！>
+
+<Choice End>
+
+-----Page2-----
+{Q-taro}
+#Message#
+"The memory I'm wonderin' about...
+ was when I was in the hospital."
+##
+
+#Message#
+\."I toldja when we met that I got injured
+ and couldn't play baseball for a while, right?"
+##
+
+#Message#
+\."Never really looked back on that time,
+ thinkin' it was in the past..."
+##
+
+#Message#
+\."But it's a real unclear memory,
+ and just feels like there's more to it..."
+##
+
+{Keiji}
+#Message#
+\.\C[4](Alright... I'll try to have him remember.)
+##
+
+-----Page3-----
+{Sou}
+#Message#
+"The memory I'm troubled by was in
+ that place I spent time with \N[4]..."
+##
+
+#Message#
+\."He taught me all kinds of things... From an outside
+ perspective, though, it wasn't a normal adolescence."
+##
+
+#Message#
+\."Thinking back... I feel like something was off."
+##
+
+{Sara}
+#Message#
+\.\C[4](Well then... Let's give it a try!)
+##
+
+#Message#
+\.\C[4](Is there something wrong in Sou's memory...?)
+##
+
+#Message#
+\.\C[4](By using this lantern,
+ maybe I can bring Sou's \C[2]real memory\C[4] to light...!)
+##
+
+#Choice#
+View explanation
+Do it right now!
+##
+
+<やり方の説明を見る>
+
+{N/A}
+#Message#
+\C[3]Touch the \C[2]right screen\C[3] to move the lantern's light!
+If you find a difference, point it out on the \C[2]left\C[3]!
+##
+
+<今すぐやる！>
+
+<Choice End>
+
+-----Page4-----
+{Reko}
+#Message#
+"The memory that's tripping me up...
+ It's gotta be at the cafe when that photo was taken."
+##
+
+#Message#
+\."I swear I only went to that place with a bandmate...
+ What the hell could've happened...?"
+##
+
+#Message#
+\."I wanna go back and remember it clearly!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Well then... Let's give it a try!)
+##
+
+#Message#
+\.\C[4](Is there something wrong in Reko's memory...?)
+##
+
+#Message#
+\.\C[4](By using this lantern,
+ maybe I can bring Reko's \C[2]real memory\C[4] to light...!)
+##
+
+#Choice#
+View explanation
+Do it right now!
+##
+
+<やり方の説明を見る>
+
+{N/A}
+#Message#
+\C[3]Touch the \C[2]right screen\C[3] to move the lantern's light!
+If you find a difference, point it out on the \C[2]left\C[3]!
+##
+
+<今すぐやる！>
+
+<Choice End>
+
+-----Page5-----
+{Gin}
+#Message#
+"The memory that's hazy for me...
+ was in the infirmary at school, meow!"
+##
+
+#Message#
+\."It feels like it was fun... or maybe scary...
+ It's kind of hard to remember, woof."
+##
+
+#Message#
+\."I wanna remember it properly and clear it up, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Well then... Let's give it a try!)
+##
+
+#Message#
+\.\C[4](Is there something wrong in Gin's memory...?)
+##
+
+#Message#
+\.\C[4](By using this lantern,
+ maybe I can bring Gin's \C[2]real memory\C[4] to light...!)
+##
+
+#Choice#
+View explanation
+Do it right now!
+##
+
+<やり方の説明を見る>
+
+{N/A}
+#Message#
+\C[3]Touch the \C[2]right screen\C[3] to move the lantern's light!
+If you find a difference, point it out on the \C[2]left\C[3]!
+##
+
+<今すぐやる！>
+
+<Choice End>
+
+-----Page6-----
+{Alice}
+#Message#
+"The memory that troubles me was... at prison."
+##
+
+#Message#
+\."Despite how much time I spent there,
+ it's strangely vague, you see..."
+##
+
+#Message#
+\."I feel as if something special occurred that day...
+ Yet when I remember it, it's all entirely normal."
+##
+
+{Sara}
+#Message#
+\.\C[4](Well then... Let's give it a try!)
+##
+
+#Message#
+\.\C[4](Is there something wrong in Alice's memory...?)
+##
+
+#Message#
+\.\C[4](By using this lantern,
+ maybe I can bring Alice's \C[2]real memory\C[4] to light...!)
+##
+
+#Choice#
+View explanation
+Do it right now!
+##
+
+<やり方の説明を見る>
+
+{N/A}
+#Message#
+\C[3]Touch the \C[2]right screen\C[3] to move the lantern's light!
+If you find a difference, point it out on the \C[2]left\C[3]!
+##
+
+<今すぐやる！>
+
+<Choice End>
+
+
+**********Event2********** (EV002) (2,0)
+-----Page2-----
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...I remember. What happened that day..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"My real memory... was like this."
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+"I went to the sweets shop with my sister...
+ and there were many written wishes on the wall."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+{SE: Accent21-1}
+#Message#
+\."Kanna was looking through them,
+ wondering if her sister put one up too."
+##
+
+[Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent42-1}
+#Message#
+\."And among them... was that form."
+##
+
+[Kanna: Angry shout / cara3-23]
+#Message#
+\."Kanna asked the clerk,
+ who her sister was familiar with..."
+##
+
+{Kugie}
+{SE: Accent28-1}
+#Message#
+"What'd you guys talk about?"
+##
+
+{Kanna}
+#Message#
+\."Eheheh... Do you know the Asunaro vow?"
+##
+
+{Kugie}
+#Message#
+"The heck's that?"
+##
+
+{Kanna}
+#Message#
+"It was that paper on the wall!
+ The one that said \C[2]"consent form"\C[0]!"
+##
+
+#Message#
+\."If you write your name there...
+ They say one of your wishes will come true!"
+##
+
+{Kugie}
+{SE: Accent21-1}
+#Message#
+"Ahh, there were lots of those little cards, too."
+##
+
+{SE: shrink1}
+#Message#
+\."Guessing you wrote "I wish to stop wetting the bed"?"
+##
+
+{Kanna}
+#Message#
+"Waaah?! I-I already have!!
+ Don't say strange things out in public!"
+##
+
+{Kugie}
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Ahaha, sorry! So?"
+##
+
+{Kanna}
+#Message#
+"Kanna... couldn't think of anything, but..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."The clerk gave her an idea!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."He said to grant your wish instead!"
+##
+
+{Kugie}
+{SE: shrink1}
+#Message#
+"Ehh?"
+##
+
+{Kanna}
+#Message#
+"Why do you look upset?!"
+##
+
+{Kugie}
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Haha, sorry."
+##
+
+#Message#
+\."Let's see... My wish, eh..."
+##
+
+{SE: Accent40-1}
+#Message#
+\."Maybe I'd wish for you to meet 'em, Kanna.
+ Your real..."
+##
+
+{Kanna}
+#Message#
+"...Huh?"
+##
+
+{Kugie}
+#Message#
+"...Hrmm."
+##
+
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."That's right, your fated partner!
+ Don't you wanna meet your fated partner, Kanna?"
+##
+
+{Kanna}
+#Message#
+"I-I'm fine! You worry about that first, sister!"
+##
+
+{Kugie}
+#Message#
+"Well, look who's talking! You sure?
+ Once I get married, we'll have to separate, y'know?"
+##
+
+{Kanna}
+#Message#
+"F-Fine by me!"
+##
+
+#Message#
+"...As long as someone shows up
+ who loves you as much as Kanna does, that is!"
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."Looking back now... that clerk..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent41-1}
+#Message#
+\."I feel like he was \N[4]..."
+##
+
+{Sara}
+#Message#
+\.\C[4](This was Kanna's erased memory...)
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+{SE: Accent21-1}
+#Message#
+\."Kanna just wanted her sister to be happy..."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+{SE: Accent40-1}
+#Message#
+\."After all... she brought her lots of happiness..."
+##
+
+{N/A}
+#Message#
+\C[3]All I could do was gently hold her shoulders.
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna and her sister were
+ so thoughtful toward each other, and yet...)
+##
+
+#Message#
+\.\C[4](It's truly just... awful.)
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...I remember it. The whole thing..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"My real memory... looked like this!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"I took a major injury that threatened my career..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."If I got it durin' practice, that'd be one thing...
+ but it was a careless, unrelated accident."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Stuck in a hospital room, I worried day after day..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Then... that nurse came along..."
+##
+
+{SE: Accent21-1}
+#Message#
+"Should I just die...?"
+##
+
+#Message#
+"I got no value left.
+ I'd be better off dyin', I tell ya..."
+##
+
+{Nurse}
+#Message#
+"It's all right. You'll be back on the field soon."
+##
+
+{Q-taro}
+#Message#
+"How long's that gonna take...?"
+##
+
+#Message#
+\."Days...? Months...?! No, a year?!"
+##
+
+#Message#
+\."How can I play baseball
+ with these legs an' these eyes?!"
+##
+
+{Nurse}
+#Message#
+"...I apologize."
+##
+
+{Q-taro}
+#Message#
+".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Sorry...
+ But just quit tryin' to console me..."
+##
+
+{Nurse}
+{SE: se_maoudamashii_magical14}
+#Message#
+"...There's a way."
+##
+
+{Q-taro}
+#Message#
+"Eh...?"
+##
+
+{Nurse}
+{SE: Accent40-1}
+#Message#
+"Do you know... the Asunaro vow?"
+##
+
+{SE: Accent41-1}
+#Message#
+\."If you sign your name on a certain form,
+ you can have any one wish granted."
+##
+
+{Q-taro}
+#Message#
+"I ain't gonna believe some silly pipe dream..."
+##
+
+{Nurse}
+{SE: Accent21-1}
+#Message#
+"Well, that's just the official story. Rumor has it
+ you can be given experimental illegal treatments..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."But if you're just going to die otherwise...
+ What do you think?"
+##
+
+{SE: Accent21-1}
+#Message#
+\."In truth... I have one of the forms here."
+##
+
+#Message#
+\."I'll leave it here for you, Mr. Q-taro..."
+##
+
+{Q-taro}
+#Message#
+".........."
+##
+
+#Message#
+\."A silly... pipe dream..."
+##
+
+#Message#
+"But... ain't my life always been chasing dreams?"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."My eyes, my legs...
+ I didn't get 'em through above-board means..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."They were compensation for signing that form...!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](This was Q-taro's erased memory...)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Dammit... What kinda athlete am I?"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent21-1}
+#Message#
+\."I never really believed in playin' fair
+ from the start, did I...?"
+##
+
+{Keiji}
+#Message#
+\.\C[4](..........)
+##
+
+-----Page4-----
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...I remember. All of it..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"This was what happened...
+ between me and \N[4]..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Every day, like we were playing at a secret base,
+ we'd assemble at his house and mess with computers..."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."When \N[4] suddenly disappeared...
+ I was left with a confusing feeling between
+ happy relief and loneliness at losing a friend."
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth / cara5-28]
+#Message#
+\."I hesitated over whether to look for him...
+ but he didn't leave a single clue anyway."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+{SE: Accent21-1}
+#Message#
+\."All I could do was look over my memories."
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."That's when I remembered it..."
+##
+
+{SE: Accent28-1}
+#Message#
+"My... wish...?"
+##
+
+#Message#
+"Eheheh... What's this now, Hiyori?"
+##
+
+{\N[4]}
+#Message#
+"C'mon, tell me. Money? Freedom? Power?"
+##
+
+{Sou}
+#Message#
+"Let's see..."
+##
+
+#Message#
+\."...Well, there's something I overheard
+ my parents talking about once..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I might... actually have a sibling."
+##
+
+{\N[4]}
+{SE: Onmtp-Surprise03-1}
+#Message#
+"Huh? Is that right?"
+##
+
+{Sou}
+{SE: Accent21-1}
+#Message#
+"Not sure what gender they are,
+ or whether they'd be older or younger..."
+##
+
+#Message#
+\."I just figured I heard something I shouldn't have,
+ so I got out of there right away."
+##
+
+{\N[4]}
+{SE: Accent41-1}
+#Message#
+"...You want to meet them?"
+##
+
+{Sou}
+#Message#
+"W-Well... But I'm sure meeting the likes of me
+ would just disappoint them..."
+##
+
+{\N[4]}
+#Message#
+"Ahaha, don't be like that."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Let's do it like this, Shin.
+ I'll grant your wish."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."And you... should become the person you want to be,
+ so you can meet them proudly."
+##
+
+{Sou}
+#Message#
+"Y-You can meet me with them? Really...?"
+##
+
+{\N[4]}
+{SE: flash-of-light-3}
+#Message#
+"I can do my part. Can you do yours?"
+##
+
+{Sou}
+#Message#
+"Urk..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I... I'll do it.
+ I'll become... the person I want to be!"
+##
+
+{\N[4]}
+{SE: Accent40-1}
+#Message#
+"Haha... Who I want to be today, "asu naro" -
+ tomorrow, I will be. We can call it the Asunaro vow."
+##
+
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."I know! I'll make an agreement form!
+ To give form to your determination, Shin!"
+##
+
+{Sou}
+#Message#
+"Y-You're gonna do all that...?"
+##
+
+{\N[4]}
+{SE: flash-of-light-3}
+#Message#
+"Yeah! Once I grant your wish,
+ maybe I'll have you grant my wish next in exchange?"
+##
+
+{Sou}
+{SE: shrink1}
+#Message#
+"Wha...? Saying selfish stuff as usual..."
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"Ahaha!"
+##
+
+{Sou}
+#Message#
+"Heehee..."
+##
+
+#Message#
+"It's like... you're a big brother to me."
+##
+
+#Message#
+"It all happened... in the palm of his hand..."
+##
+
+[Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+\."He was planning it from the very beginning!
+ Even the "Asunaro vow"...!!"
+##
+
+[Sou: Hands out, mouth open, angry eyes with bags / cara5-32]
+#Message#
+\."He just made it seem like I said it myself..."
+##
+
+[Sou: Hands out, mouth open, eyes with bags / cara5-31]
+#Message#
+\."He made me help without even realizing it!
+ With his stupid plan...!!"
+##
+
+[Sou: Turned to side, clutching head in hands / cara5-37]
+{SE: Accent21-1}
+#Message#
+\."Even after he disappeared...
+ I did all kinds of things to meet him..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou was made unwittingly complicit to his evil...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sou..."
+##
+
+{Sou}
+#Message#
+\.".........."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent41-1}
+#Message#
+\."...Well, the past is the past."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."For now... Let's just think about
+ how to kill him as part of the game, miss Sara."
+##
+
+{Sara}
+#Message#
+\C[4](Is it all right to leave it at that...?)
+##
+
+-----Page5-----
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...I got it now. I remember everything...!"
+##
+
+{SE: sceneswitch2}
+#Message#
+"My real memory... went like this!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."I wasn't tryin' to meet with a band member at all!"
+##
+
+[Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."It was a guy I happened to know in town...
+ \N[4]...!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."He contacted me sayin'
+ "I know the truth about Alice's case"..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I was so torn up then, body and soul...
+ that I went ahead and met him!"
+##
+
+{SE: Damage4}
+#Message#
+"The hell do you mean, "false charges"...?!"
+##
+
+#Message#
+"Alice... didn't kill him...?!"
+##
+
+{\N[4]}
+#Message#
+"Not so loud.
+ It was an accident... It's true..."
+##
+
+{Reko}
+#Message#
+"Then... why won't they acquit him?!"
+##
+
+{\N[4]}
+#Message#
+"Who knows... Don't you think it's strange how
+ they aren't reporting any info on the victim?"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."The world is convinced a drug-addict band member
+ committed murder, and insults your family name..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."There's a powerful force
+ trying to bring ruin to your family."
+##
+
+{Reko}
+#Message#
+"You gotta be shittin' me... *sniff*...
+ Why the hell do we...?!"
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"Don't cry, miss Reko..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Our organization... can help you out."
+##
+
+{Reko}
+#Message#
+\."Huh? How...?"
+##
+
+{\N[4]}
+{SE: Accent41-1}
+#Message#
+"...You'll need to prepare yourself.
+ I want you to sign your name on this paper..."
+##
+
+{Reko}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Wha? \C[2]"Consent form"\C[0]...?"
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"The Asunaro vow... It can grant you one wish,
+ anything you desire..."
+##
+
+{Reko}
+#Message#
+"The hell are you..."
+##
+
+{\N[4]}
+#Message#
+"Sorry... I guess you wouldn't believe me, would you?
+ I'll just call the whole thing off..."
+##
+
+{Reko}
+#Message#
+"W-Wait...!!"
+##
+
+#Message#
+\."Release Alice!!
+ I wanna meet him... and ask him about everything!!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."At this rate... I'm just gonna resent him...!"
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"All right, miss Reko... Wipe your tears."
+##
+
+{Reko}
+#Message#
+"*s-sniff*..."
+##
+
+{\N[4]}
+{SE: Accent40-1}
+#Message#
+"I'm your only ally..."
+##
+
+{Reko}
+#Message#
+"...Okay..."
+##
+
+#Message#
+"Thank... you..."\.
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"I signed it... the consent form..."
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."And I even goddamn thanked him...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](This was Reko's erased memory...)
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."What kind of "reunion"..."
+##
+
+[Reko: Hands out, teary-eyed shout / cara6-15]
+#Message#
+\."I never wanted it to be like this!!"
+##
+
+[Reko: Hands out, closed teeth, tearful eyes / cara6-35]
+#Message#
+\."Losing all my precious memories...
+ The hell was I supposed to say?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko...)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]All I could do was support Reko
+as she feebly stood there.
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"Sorry... Sara..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."I got all emotional..."
+##
+
+{Sara}
+#Message#
+\C[4](...)
+##
+
+-----Page6-----
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...I remember, meow! Everything!"
+##
+
+{SE: sceneswitch2}
+#Message#
+"My real memory... was like this, meow!!"
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."Um... so the thing is..."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+\."I don't really get all the details, but...
+ I have this sorta condition called autism, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+{SE: Accent21-1}
+#Message#
+\."If I don't wear this... I feel really embarrassed.
+ I get nervous, woof... I know it's weird, meow..."
+##
+
+{Sara}
+#Message#
+\."...It's okay. There's nothing weird about that."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+\."R-Really?! That's good, meow!"
+##
+
+[Gin: Looking up, sad / cara9-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But... he was the one who was all nice
+ and told me I could get better, woof..."
+##
+
+{SE: Accent28-1}
+#Message#
+"I'll be able to get along with everyone, meow?"
+##
+
+#Message#
+"Sounds fun, woof! There's lots of guys I don't like,
+ but it's not like I don't wanna play with them, meow!"
+##
+
+{\N[4]}
+#Message#
+"That's the spirit, Gin!"
+##
+
+#Message#
+\."You'll get used to everyone little by little...
+ And you'll make more friends!"
+##
+
+#Message#
+\."I hated school, myself. I was quick to ki...
+ to fight with people, so I didn't have friends."
+##
+
+{Gin}
+{SE: flash-of-light-3}
+#Message#
+"Huh! A delinquent, meow?!
+ I thought you were better than that, woof!"
+##
+
+{\N[4]}
+#Message#
+"Ahaha, I'm sure you'll grow up right, Gin!
+ Your mother's delighted, too!"
+##
+
+{Gin}
+{SE: se_maoudamashii_magical14}
+#Message#
+"R-Really, meow? She doesn't think
+ I'm a weird kid who's too much trouble, woof...?"
+##
+
+{\N[4]}
+#Message#
+"She always sounds happy when she tells me about you."
+##
+
+{Gin}
+{SE: Accent28-1}
+#Message#
+"Heheh! I'm gonna grow up quick
+ and be a man mom can depend on, woof!"
+##
+
+{\N[4]}
+{SE: Accent41-1}
+#Message#
+"Oh, really? I wonder...
+ Should I teach you the Asunaro vow?"
+##
+
+{Gin}
+#Message#
+"What's that, meow?"
+##
+
+{\N[4]}
+#Message#
+"It goes like this: What I want to be today,
+ "asu naro" - tomorrow, I will be."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."If you write your name on this paper,
+ I hear you can have any one wish granted."
+##
+
+{Gin}
+#Message#
+"Really, meow?! It's a magic paper, woof!!"
+##
+
+{\N[4]}
+#Message#
+"What do you wish for?"
+##
+
+{Gin}
+{SE: Accent24-1}
+#Message#
+"Well, obviously for mom to be healthy
+ and live a long life, meow!!"
+##
+
+{\N[4]}
+{SE: shrink1}
+#Message#
+"Huh? You're sure you don't want to wish for yourself?"
+##
+
+{Gin}
+#Message#
+"I'll be great on my own power, woof!"
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."But if mom isn't there with me,
+ then I won't be able to show her, meow!"
+##
+
+{\N[4]}
+#Message#
+"You really are a good kid, Gin..."
+##
+
+{Gin}
+#Message#
+"Heehee!"
+##
+
+#Message#
+"I mean... I just love my mom, meow!"
+##
+
+#Message#
+"I signed it, woof... That paper..."
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."If I'm going through this now because of that...
+ That's just awful, meow..."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+\."If I make mom sad... there's no point, woof..."
+##
+
+{Sara}
+#Message#
+\.\C[4](This was Gin's erased memory...)
+##
+
+{Gin} [Gin: Looking to side, raised eyebrows / cara9-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...We'll definitely make it home, meow."
+##
+
+[Gin: Looking to side / cara9-21]
+{SE: sceneswitch2}
+#Message#
+\."Big sis Sara, and everyone else...
+ We won't sacrifice anybody, woof!!"
+##
+
+{Sara}
+#Message#
+\."Right...!"
+##
+
+#Message#
+\.\C[4](We will defeat \N[4]... No matter what...)
+##
+
+-----Page7-----
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...I've remembered. Everything..."
+##
+
+{SE: sceneswitch2}
+#Message#
+"My true memory... looked like this!"
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."I had been gathering information
+ on the murder I had committed."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Accent21-1}
+#Message#
+\."One such morning... an instrument was brought to me."
+##
+
+[Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+{SE: Accent40-1}
+#Message#
+\."I thought, could it be Reko...?"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."I tried to ask the guard about the sender..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."However..."
+##
+
+{SE: Damage4}
+#Message#
+"Why... are you...?!"
+##
+
+#Message#
+"How are you alive...?!"
+##
+
+{\N[4]}
+#Message#
+"Ahaha. What an emotional reunion. Happy, Alice?"
+##
+
+{Alice}
+#Message#
+"Don't be absurd!! Get me out of here!!"
+##
+
+{\N[4]}
+#Message#
+"No no no! There is a murder case, you know...
+ as far as the public is concerned."
+##
+
+{SE: Accent24-1}
+#Message#
+\."But good for you, right? You didn't kill anyone."
+##
+
+{Alice}
+#Message#
+"What about this is "good for me"?!"
+##
+
+#Message#
+\."My family is a mess because of you...!!"
+##
+
+#Message#
+\."My parents have to live
+ as the parents of a murderer...!"
+##
+
+#Message#
+\."And Reko... she could no longer do music!!"
+##
+
+#Message#
+\."She can't sing, you hear me?!
+ Even though... she loved to... so much...!!"
+##
+
+{\N[4]}
+{SE: Accent21-1}
+#Message#
+"No worries! I met Reko today and took care of her."
+##
+
+{Alice}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Wha...?"
+##
+
+#Message#
+\."I'll kill you!! If you did something to Reko...
+ This time, I swear I will...!"
+##
+
+{\N[4]}
+#Message#
+"Ehh...? Officially, I'm already a dead man..."
+##
+
+{Alice}
+#Message#
+"Does that matter?!"
+##
+
+{\N[4]}
+#Message#
+"Hmm... But actually, maybe this is perfect."
+##
+
+{SE: Accent28-1}
+#Message#
+\."You see, I came here today to ask your wish."
+##
+
+{Alice}
+#Message#
+"Huh...?! What are you blabbing about?!"
+##
+
+{\N[4]}
+#Message#
+"Atonement for things coming to this..."
+##
+
+{SE: Accent41-1}
+#Message#
+\."If you sign a certain \C[2]consent form\C[0] for me...
+ I'll grant any wish you have."
+##
+
+#Message#
+\."It's called the Asunaro vow. "Who I want to be today,
+ "asu naro" - tomorrow, I will be." Clever, right?"
+##
+
+{Alice}
+#Message#
+"You truly don't listen to reason...!!"
+##
+
+#Message#
+\."What are you saying, "who I want to be"?!
+ You've wrecked everything!!"
+##
+
+#Message#
+\."I'll end your life...! Go to hell!!"
+##
+
+{\N[4]}
+{SE: Accent24-1}
+#Message#
+"Sounds like a deal. Will you sign the form...?"
+##
+
+{Alice}
+#Message#
+"Oh, I'll sign it...!
+ If it'll stop you from taking another breath!!"
+##
+
+#Message#
+\."I... signed it. That consent form..."
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Gah...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](This was Alice's erased memory...)
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."...Let me thank you, Sara Chidouin."
+##
+
+[Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."You've reminded me of that feeling...
+ of refusing to let that fiend get away with this."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is that for the best...?)
+##
+
+
+**********Event3********** (予備) (15,8)
+%ignore
+

@@ -1,0 +1,124 @@
+**********Common569********** (●心霊シャッターゲームへ)
+#Message#
+\C[3]Now's not the time for attractions.
+##
+
+#Message#
+\C[3]I've already cleared this attraction.
+##
+
+#Message#
+\C[3][Spirit Shutter]
+Participants: 2
+Clear Chip Reward: ★★
+Difficulty: Normal
+##
+
+#Message#
+\.\C[3]Get blue spirits, and when ghosts appear,
+click the camera shutter to repel them.
+Gather enough souls, and you win.
+##
+
+#Choice#
+Select partner
+Cancel
+##
+
+<相棒を選ぶ>
+
+#Choice#
+Keiji
+Reko
+Nao
+Cancel
+##
+
+<ケイジ>
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\.Keiji Shinogi
+As Keiji, stored energy will not decrease over time.
+
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Keiji
+Reselect
+##
+
+<ケイジを相棒にする>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Okie-dokie. I'll help."
+##
+
+<選びなおす>
+
+<Choice End>
+
+<レコ>
+
+{Keiji} [Reko: Default / cara6-1]
+#Message#
+\.Reko Yabusame
+As Reko, her attuned senses give her a premonition
+slightly before ghosts appear.
+Difficulty: Easy
+##
+
+#Choice#
+Partner with Reko
+Reselect
+##
+
+<レコを相棒にする>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."G... Ghosts...?! Hold up, Sara!!
+ I need some courage...!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<ナオ>
+
+{Reko} [Nao: Mouth open / cara7-1]
+#Message#
+\.Nao Egokoro
+As Nao, the energy gained from blue souls increases.
+
+Difficulty: Normal
+##
+
+#Choice#
+Partner with Nao
+Reselect
+##
+
+<ナオを相棒にする>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Ghosts?! I'm excited to see how this is set up...
+ But I know this isn't playing around...!"
+##
+
+<選びなおす>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,77 @@
+**********Common765********** (ｹｲｼﾞ「行動で判断だ」)
+{Keiji}
+#Message#
+"We have to determine based on Sou, Kanna, and Nao's
+ actions at the time of the \C[6]fifth trade\C[0]."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Sara... Are you an airhead after all?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"I'm not saying anything that warrants refuting..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"Your friendly policeman was shoving aside rubble...
+ I don't know a thing."
+##
+

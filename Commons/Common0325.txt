@@ -1,0 +1,7 @@
+**********Common325********** (敵にダメージ通った！)
+{N/A}
+{SE: Applause1}
+#Message#
+\C[3]Won the battle.
+##
+

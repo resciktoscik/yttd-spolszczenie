@@ -1,0 +1,385 @@
+=====Map222===== (★Chapter 3-1b Start Summary)
+
+**********Event1********** (やっぱボツかな…) (1,2)
+%ignore
+
+
+**********Event3********** (本番用) (1,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[5]"Hey there. Can you hear me?"
+##
+
+#Choice#
+Huh...?
+No
+##
+
+<あれ…？>
+
+{N/A}
+#Message#
+\C[5]"What's the matter...? Confused?"
+##
+
+<いいえ>
+
+{N/A}
+#Message#
+\C[5]"Hahaha. Well, shucks."
+##
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[5]"...I'd like to know soon.
+ About that Death Game you were involved in."
+##
+
+#Choice#
+I told you once before
+Understood
+##
+
+<前にも同じ話をした>
+
+{N/A}
+#Message#
+\C[5]"Well, well... Did you now?"
+##
+
+#Message#
+\.\C[5]"I just find myself wanting
+ to hear your story again and again..."
+##
+
+<わかりました>
+
+{N/A}
+#Message#
+\.\C[5]"It's not anything too difficult, is it?
+ I'm begging you..."
+##
+
+<Choice End>
+
+#Choice#
+Retrace memories
+Leave
+##
+
+<記憶をたどる>
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[5]"...Thanks."
+##
+
+<帰る>
+
+{N/A}
+#Message#
+\C[5]"Got it. Some other time."
+##
+
+#Message#
+\.\C[5]"...Contact me whenever you wanna talk."
+##
+
+<Choice End>
+
+{N/A} [Joe: Folded arms wondering / cara1-17]
+#Message#
+A normal high school girl, \C[2]Sara Chidouin\C[0].
+And her best friend, \C[2]Jou Tazuna (Joe)\C[0].
+##
+
+#Message#
+One day, they were pulled into a cruel Death Game...
+##
+
+#Message#
+Rather than submit to fear,
+they chose to cooperate with the other participants...\|\|
+##
+
+#Message#
+But alas, high school teacher \C[2]Kazumi Mishima\C[0]
+became the first victim.
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+There was no stopping that they would \C[10]kill each other\C[0].
+##
+
+[Kai: Holding up bleeding wrists, smile / cara8-9]
+#Message#
+After a cruel majority vote,
+homemaker \C[2]Kai Satou\C[0] died...
+##
+
+[Joe: Sweating bullets, eyebrows-up smile / cara1-20]
+#Message#
+And Sara's best friend Joe died as well,
+unable to defy his fate.
+##
+
+[Joe: Hallucination (visible face) / cara1-25]
+{SE: shock1}
+#Message#
+\C[10]Sara became tormented by hallucinations...
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+As her heart crumbled, the peril only continued...
+##
+
+{SE: Accent28-1}
+#Message#
+\C[5]Now, a question.
+##
+
+#Message#
+\C[5]Which of these two died?
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+-----Page3-----
+<If Switch #642 (★レコ生存ルート) is OFF>
+
+{N/A}
+#Message#
+The next victim was singer-songwriter \C[2]Reko Yabusame\C[0].
+##
+
+<Else>
+
+#Message#
+The next victim was murderer \C[2]Alice Yabusame\C[0].
+##
+
+<Condition End>
+
+[Gashu: Gun to head, smile / cara16-16]
+#Message#
+As desperately as they tried to grasp escape,
+their enemies gave their very lives to stop it.
+##
+
+[Nao: Hand on chest, relieved smile / cara7-25]
+#Message#
+When the Main Game occurred once more,
+art student \C[2]Nao Egokoro\C[0] died.
+##
+
+{SE: Accent28-1}
+#Message#
+\C[5]Now then, another question.
+##
+
+#Message#
+\C[5]Which of these two died?
+##
+
+-----Page5-----
+<If Switch #821 (★カンナ生存ルート) is OFF>
+
+{N/A}
+#Message#
+The next victim was middle-schooler \C[2]Kanna Kizuchi\C[0].
+##
+
+#Message#
+And \C[2]Sou Hiyori\C[0], who'd failed to protect Kanna,
+was left with a strong hatred of Sara...
+##
+
+#Message#
+So he started up a malicious Joe AI, and...
+##
+
+[Joe: Disappearing 1 / cara1-31]
+#Message#
+Sara forgot that Joe even existed...\|
+##
+
+#Message#
+\.The Death Game... is not over yet.
+##
+
+<Else>
+
+#Message#
+The next victim was
+self-described job-hopper \C[2]Sou Hiyori\C[0].
+##
+
+#Message#
+After removing his collar,
+using the last of his strength...
+##
+
+#Message#
+He started up a Joe AI.
+##
+
+#Message#
+\.At last, Sara reunited with her best friend,
+and awoke from her long nightmare.
+##
+
+#Message#
+The Death Game... is not over yet.
+##
+
+<Condition End>
+
+#Message#
+
+
+                        \C[10]6 Remain
+##
+
+{SE: Leakage}
+#Message#
+Very good... Now, try to remember more.
+##
+
+#Message#
+After this... a new game begins.
+##
+
+#Message#
+The location: a cemetery.
+Inside one of the 7 coffins was...
+##
+
+#Message#
+The real \C[2]Sou Hiyori\C[0]...\!\SE[poka01,90]\sw[324]
+The one thought killed by the murderer Alice Yabusame.
+##
+
+{SE: Accent41-1}
+#Message#
+That reminds me... What name did you call him by?
+##
+
+{SE: SIN-Onmtp-Pop01-1}
+#Message#
+No... Surely that wasn't it.
+##
+
+{SE: Accent11-1}
+#Message#
+\C[2]\N[4]\C[0]...
+Is that right?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{N/A} [Joe: Disappearing 1 / cara1-31]
+{SE: Accent21-1}
+#Message#
+Alrighty... Back to the story.
+##
+
+#Message#
+The coffins also contained
+6 people known as the \C[2]Dummies\C[0]...
+##
+
+#Message#
+\.Doll copies of those who died before meeting anyone.\|\|
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\.Work with them to \C[2]kill \N[4]\C[0]...
+##
+
+[Midori: Mouth open, swirly eyes / cara19-6]
+#Message#
+\.That was the goal of the \C[2]Murderer Game\C[0].
+##
+
+#Message#
+However... the Dummies' secret objective
+was to \C[2]kill the survivors\C[0]...
+##
+
+#Message#
+Those pitiful dolls were made to turn traitor.
+##
+
+#Message#
+\C[2]Q-taro Burgerberg\C[0] was stabbed in the back,
+but even so, chose to trust the Dummies...
+##
+
+[Keiji: Policeman, furrowed brow / cara2-26]
+#Message#
+Yet as it came to light \N[4] was involved
+in \C[2]Keiji Shinogi\C[0]'s past, the situation took a turn.
+##
+
+#Message#
+Realizing he had been tricked into
+killing his benefactor by his own hand...
+##
+
+[Keiji: Facing forward, murderous intent / cara2-37]
+#Message#
+\.Keiji tried to kill \N[4] in a rage.
+##
+
+#Message#
+But with the Dummies refusing to cooperate...
+he failed.
+##
+
+{SE: shock1}
+#Message#
+Keiji's execution was at hand...
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+However... there existed just one way to save him.
+##
+
+#Message#
+For you, Sara... to sign this consent form.
+##
+
+[Sara: Disturbed / cara0-4]
+#Message#
+Now... let us resume the story.
+##
+
+
+**********Event5********** (体験版用) (16,12)
+%ignore
+
+
+**********Event6********** (本番用) (15,12)
+%ignore
+

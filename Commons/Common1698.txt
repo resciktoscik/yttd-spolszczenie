@@ -1,0 +1,81 @@
+**********Common1698********** (◆ｸﾙﾏﾀﾞ「白紙へ！」)
+{Kurumada}
+#Message#
+"All our reasoning was way off the mark!
+ Should we rethink everything from scratch?!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kurumada} [Kurumada: Damaged, angry, shouting / cara95-23]
+#Message#
+"Huh?! You wanna go?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](We can't properly talk to each other right now...!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kurumada} [Kurumada: Damaged, angry, shouting / cara95-23]
+#Message#
+"Huh?! You wanna go?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](We can't properly talk to each other right now...!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+"Now's our only chance to retrace our steps, Sara!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's too rattled for us to talk calmly...!)
+##
+

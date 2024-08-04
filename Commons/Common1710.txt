@@ -1,0 +1,95 @@
+**********Common1710********** (◆ｶﾝﾅ「死は演技」)
+{Kanna}
+#Message#
+"There was nothing direct pictured,
+ like sharp objects or an execution device...!"
+##
+
+#Message#
+"Does that mean Hinako was just
+ acting as if she died in that video?!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Sorry...! Kanna doesn't get it..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"Sorry...! Kanna doesn't get it..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Angry shout, horrified face / cara3-26]
+#Message#
+"All we saw were her legs dangling...
+ and we just convinced ourselves she had died..."
+##
+
+#Message#
+"If you think about it,
+ nothing directly deadly was pictured in the video...!"
+##
+
+[Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+{SE: Accent21-1}
+#Message#
+\."All the other Dummies had knives or axes
+ or other execution devices in theirs, yet..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."True... That is strange."
+##
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+\."What could it possibly mean...?"
+##
+

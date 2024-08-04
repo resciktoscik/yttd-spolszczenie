@@ -1,0 +1,77 @@
+**********Common258********** (ｱﾘｽ「ソウサラもダメ」)
+{Alice}
+#Message#
+"Ghh...! It pains me, but as Sou or Sara
+ could potentially be the \C[2]Keymaster\C[0],
+ we shouldn't vote for them...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Now, now... It isn't me you should fight, is it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+"But... Who would be a safe bet, then...?!"
+##
+

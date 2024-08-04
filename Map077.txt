@@ -1,0 +1,1845 @@
+=====Map77===== (③Ruined Corridor)
+
+**********Event2********** (Qtaro) (5,5)
+-----Page1-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent28-1}
+#Message#
+\."...!"
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Sara!\.\. Ya okay now?!"
+##
+
+{Sara}
+#Message#
+\."Q-taro..."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Thank goodness... I knew you was tough, but...
+ Y'never know, y'know..."
+##
+
+{Sara}
+#Message#
+\."I'm... not strong at all..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."...'Course, yeah. Sorry."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."You really suffered...
+ Sayin' not to sweat it after that's just insensitive."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But lemme say this! You've done nothin' wrong!!"
+##
+
+#Message#
+\."Miley's just a true piece'a crap doll!
+ Don't you ever blame yerself, Sara!!"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Thank you very much
+I'll make Miley pay
+##
+
+<ありがとうございます>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."No need fer thanks... I couldn't do nothin'."
+##
+
+{SE: Accent21-1}
+#Message#
+\."So Kai... his dying wish...
+ I wanna see it through...!!"
+##
+
+<ホエミーを許さない>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."Yeah...! I wanna get revenge for yer best friend...
+ And also..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Kai...! Yer dyin' wish won't be in vain...!!"
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Q-taro..."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."I'm goin' back to searchin'.
+ Wanna find clues, whether it's about an exit
+ or about the kidnappers."
+##
+
+{Sara}
+#Message#
+\."I'll... do my best too."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...That gorilla's... actually a good guy, meow."
+##
+
+-----Page2-----
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."All told... I am gettin' a little hungry."
+##
+
+{Sara}
+#Message#
+\.\C[4](I haven't eaten anything either...)
+##
+
+
+**********Event3********** (bousi) (9,7)
+-----Page1-----
+{SE: Accent21-1}
+#Message#
+\C[3]A green beanie lays on the floor.
+##
+
+{Sara}
+#Message#
+\."Is this... Sou's hat...?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."He's gotta be lurking around here!"
+##
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+{SE: Accent28-1}
+#Message#
+\."Should we call Reko and the others...?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."He's gotta be lurking around here!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."H... Hey, look! Down the passage to the right,
+ and the one in the back..."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent28-1}
+#Message#
+\."It looks like there's attractions, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't tell me... Sou went ahead alone?)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."You shouldn't be able to enter
+ without a group of two, but..."
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Ultimately... Maybe somebody's just gotta check."
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+I'll go
+Everyone, check elsewhere
+##
+
+<私が行きます>
+
+{Sara} [Reko: Looking to side with scowl / cara6-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+"I'll go...!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."W... Will ya, Sara?!"
+##
+
+<皆さんは他を捜して下さい>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Please, go and check the other areas."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'll... handle this!"
+##
+
+{Q-taro}
+#Message#
+\."W... Will ya, Sara?!"
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Seems pointless to try and stop you.
+ Then you better decide \C[2]which attraction to do\C[0]."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."...And \C[2]who to take along\C[0], too."
+##
+
+
+**********Event4********** (tameuti) (8,4)
+-----Page2-----
+#Message#
+\C[3]I should look for Sou right now.
+##
+
+
+**********Event5********** (dance) (12,6)
+-----Page2-----
+#Message#
+\C[3]I should look for Sou right now.
+##
+
+
+**********Event13********** (ude) (1,8)
+-----Page2-----
+#Message#
+\C[3]I should look for Sou right now.
+##
+
+
+**********Event14********** (a) (0,5)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ain't gonna let Ranger do what he pleases...!"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"This hallway... 'Scomplicated as a maze."
+##
+
+
+**********Event15********** (EV015) (1,11)
+-----Page1-----
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+{SE: Accent28-1}
+#Message#
+\."You're here! Nobody saw ya, right?"
+##
+
+{Sara}
+#Message#
+\."No. Where are we going?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."This here passage!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."The gap in the rubble here.
+ Can ya fit through?"
+##
+
+{Sara}
+#Message#
+\."T-There's a gap here...?!
+ Where does it lead?"
+##
+
+{Q-taro}
+#Message#
+\."Hahaha... That's for you to see!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Where is this...?)
+##
+
+-----Page3-----
+{Sara}
+#Message#
+\."Okay, we've made it to the Ruined Corridor."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent28-1}
+#Message#
+\."This way! It's through a passage in the back!"
+##
+
+{Sara}
+#Message#
+\.\C[4](This is a different passage from the Rubble Room...)
+##
+
+#Message#
+\."Sure is dark... Who knew this was here?"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."If you go all the way back... it's even darker."
+##
+
+{Sara}
+#Message#
+\.\C[4](She seems likely to trip...)
+##
+
+#Message#
+\."Don't let go of me now, Kanna."
+##
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+#Message#
+\."Of course, sist..."\.\.\.\^
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+\."Ah, sorry! I mean Sara!"
+##
+
+{Sara}
+#Message#
+\."...Nah, it's fine."
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\."..."
+##
+
+#Message#
+\."...Ahaha..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Being with you like this...
+ really feels like I'm with my sister..."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]I didn't know what to say to that.
+##
+
+#Message#
+\.\C[3]In place of words...
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]I held Kanna's hand as we walked through the dark.
+##
+
+{Kanna}
+#Message#
+\."Here it is. There's a door right here."
+##
+
+{Sara}
+#Message#
+\."It's pitch black. Did you peek inside?"
+##
+
+{Kanna}
+#Message#
+\."...No. Kanna and Sou...
+ both lacked the courage to open it..."
+##
+
+{Sara}
+#Message#
+\."Ah..."
+##
+
+#Message#
+\."I'll go in first...
+ If it's not dangerous, you follow."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Huh... What's this room...?"
+##
+
+#Message#
+\.\C[4](Strange... It feels like I've been here before.)
+##
+
+#Message#
+\."Kanna, it's okay. Come on in."
+##
+
+{N/A}
+#Message#
+\.\C[3]As I was saying that, I turned around.
+##
+
+{Sara}
+#Message#
+\.\C[4](Wha...?)
+##
+
+#Message#
+\.\C[4](Hold on, this is...!!)
+##
+
+#Message#
+\.\C[4](The First Trial room...!!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Bad memories surfaced in my mind.
+##
+
+#Message#
+\.\C[3]The very first deathtrap I was tested by here.
+##
+
+#Message#
+\.\C[3]If he hadn't made the proper judgement then,
+I would have died.
+##
+
+#Message#
+\.\C[3]...But I wonder why...
+##
+
+#Message#
+\.\C[3]Something... feels different here.
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."I-I'm coming in."
+##
+
+{Sara}
+#Message#
+\."Kanna..."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\.".........."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."...Ah..."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Ahh... ahhhh..."
+##
+
+#Message#
+\.\sp[15]\C[10]"AAAAAAAAAAAAAAAaaaahhh!!!!"\.\^
+##
+
+#Message#
+\."This is..."
+##
+
+#Message#
+\."...the room... where sister was..."
+##
+
+#Message#
+\."...Because of me..."
+##
+
+{Sara}
+#Message#
+\."Calm down, Kanna."
+##
+
+{N/A}
+#Message#
+\.\C[3]I held Kanna tight.
+##
+
+#Message#
+\.\C[3]I firmly restrained her trembling shoulders.
+##
+
+{Kanna} [Kanna: Hands in front closed-dead-eyes smile / cara3-20]
+#Message#
+\.".........."
+##
+
+[Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Sorry... for getting distraught..."
+##
+
+#Message#
+\."I'm fine now..."
+##
+
+{Sara}
+#Message#
+\."Kanna... I'll leave the door open.
+ ...Wait outside the room for me."
+##
+
+{Kanna}
+#Message#
+\."...Okay..."
+##
+
+{Sara}
+#Message#
+\.\C[4](This was Kanna and her sister's room,
+ where they took that same trial.)
+##
+
+#Message#
+\.\C[4](...I can't make Kanna search it.)
+##
+
+
+**********Event16********** (kannna-sagi) (8,6)
+-----Page1-----
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Kanna!!"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Could you come over here and talk to us, Kanna?"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."...I..."
+##
+
+{Voice}
+{SE: Accent28-1}
+#Message#
+\."There's nothing to talk about, is there?"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."I don't approve of your flirting, Keiji."
+##
+
+{Sara}
+#Message#
+\."Sou... I knew it...!!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Hey, miss Sara. ...On a date with Keiji?
+ I don't think this place is all that exciting."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I could say the same to you."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Hahaha... Yeah, I guess so."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\.".........."
+##
+
+{N/A}
+#Message#
+\.\C[3]A tingling electricity filled the air.
+##
+
+{Sara}
+#Message#
+\.\C[4](This is far from a friendly mood...!)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Well, I'll get straight to the point.
+ We want the laptop back."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."You heard him.
+ What do you think, Kanna?"
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."..."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+{SE: Accent28-1}
+#Message#
+\."...I can't do that..."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."And you heard her. Give it up, Keiji."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."I was the first one to find the laptop anyhow.
+ Am I obligated to give it "back" to you?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+You can't unlock it anyway
+What do you intend to use it for?
+What's yours is mine
+##
+
+<どうせロックは解除できませんよ>
+
+{Sara} [Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."Sou... You don't have the password anyway."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Then what's got you so antsy, miss Sara?"
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+<それを使ってどうするつもりですか>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."What do you intend to do with it?!"
+##
+
+{Sou}
+#Message#
+\."Get some useful information, of course.
+ The truths that Kai Satou was trying to protect..."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+<あなたの物は私の物だ>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."What's yours is mine. And what's mine is mine!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."What an absurd way of thinking.
+ Then again, those are the sort of methods
+ you've used to scrape together trust."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+<Choice End>
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Aren't you afraid...?
+ Afraid of me seeing what's on this laptop."
+##
+
+[Sou: Looking down to side with smirk / cara5-6]
+#Message#
+\."I'm very curious just what you could be hiding."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."If you're suspecting us,
+ I think you're gonna be disappointed."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Then let's sit down and check that."
+##
+
+#Message#
+\."Seeing as I did find a charger."
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...What...?"
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."Now, Kanna, give me the laptop."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Don't, Kanna!!"
+##
+
+#Message#
+\."Look me in the eye... Kanna!!"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Sou... you promised."
+##
+
+#Message#
+\."If Kanna brought the laptop...
+ you would give her that..."
+##
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4]("That"...?)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](She doesn't mean...!!)
+##
+
+{Sou} [Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."Want me to go first, huh...?
+ You're surprisingly cautious, Kanna."
+##
+
+[Sou: Disdainful pose, dark eyes / cara5-13]
+#Message#
+\."Yes, as promised... here's the phone."
+##
+
+{Sara}
+#Message#
+\."Wh..."
+##
+
+#Message#
+\."Stop!! What are you thinking, Sou?!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."...I'll show you the truth."
+##
+
+{Sara}
+#Message#
+\.\C[4](But that's...!!)
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Your sister held this in her last moments.
+ I hope something's left on it..."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](The message... should be changed, right...?)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Kanna traded the laptop for the phone.
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]She stared, transfixed, at the phone's screen.
+##
+
+{Sara}
+#Message#
+\."Stop, Kanna!!
+ You can't take that!!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Your sister held this in her last moments.
+ I hope something's left on it..."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\{"Kanna!! Don't look at it!!"
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Kanna traded the laptop for the phone.
+##
+
+{Sara}
+#Message#
+\."Ah..."
+##
+
+{N/A}
+#Message#
+\.\C[3]It's over... all over...
+##
+
+{Kanna}
+#Message#
+\."...Sis... ter..."
+##
+
+#Message#
+\."*sniff*... You..."
+##
+
+#Message#
+\."Sister...!!"
+##
+
+#Message#
+\."I... love you too...!! I love you...!!"
+##
+
+#Message#
+\."Sister...!!"
+##
+
+{Sara} [Kanna: Hands in front closed-dead-eyes smile with tears / cara3-21]
+#Message#
+\."Kanna..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Kanna is crying.
+##
+
+#Message#
+\.\C[3]But they're not tears of despair.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]They're tears... of salvation.
+##
+
+{Sara}
+#Message#
+\.\C[4](Sure enough... she read the changed message.)
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Don't tell me... did Sou write that...?)
+##
+
+#Message#
+\."Kan... na...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]It's a completely unexpected reaction.
+##
+
+#Message#
+\.\C[3]Kanna is crying.
+##
+
+#Message#
+\.\C[3]Yet they aren't tears of despair.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]Even though she read that message...?
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Did Sou... alter the message...?)
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\.".........."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."I've got the laptop."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Got nothing left to say to you guys now, miss Sara."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hold on. You might not, but we sure do."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Sheesh... You're stubborn, huh."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Quit getting into quarrels. We're all in
+ the same situation, with collars around our necks."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Or else maybe... you don't have a collar?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Huh...?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."...'Cause I've never seen your neck."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."...Haha."
+##
+
+[Sou: Disdainful pose, closed-eyes smile / cara5-12]
+#Message#
+\."Ahahaha!\! Wow, you're suspecting me because of that?!"
+##
+
+[Sou: Disdainful pose / cara5-11]
+{SE: Accent28-1}
+#Message#
+\."I've changed my mind. Let's do a trade."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...A trade?"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+{SE: Accent21-1}
+#Message#
+\."I'll return the laptop.
+\! ...If you give me 50 of your tokens."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: sceneswitch2}
+#Message#
+\."...!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."You should surely have
+ most of your own tokens still, Keiji."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."You can't lie to me and say you don't have enough."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Trade tokens for the laptop...?!)
+##
+
+#Choice#
+Now's our chance, Keiji!
+Don't do it, Keiji!
+##
+
+<チャンスです ケイジさん！>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."This is our chance, Keiji!
+ 50 tokens hurts, but... You should accept...!"
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Ahh... Are you afraid of
+ someone buying your personal info?"
+##
+
+<ダメです ケイジさん！>
+
+{Sara} [Sou: Smile / cara5-2]
+#Message#
+\."Don't do it, Keiji!
+ With 50 tokens, he can buy your personal info!"
+##
+
+{Sou}
+#Message#
+\."Ahh... That's what you're afraid of?"
+##
+
+<Choice End>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Don't get me wrong.
+ \C[2]If you gave 50 tokens to miss Sara\C[0], that'd do too."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...!"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."...What's the matter?"
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."With someone as trustworthy as miss Sara,
+ even giving 50 tokens should be easy."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+#Choice#
+I'll give them right back!
+Why are you hesitating?
+Make it quick
+##
+
+<もらっても すぐ返しますよ！>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."It's okay. If you give them to me,
+ I'll just give them right back."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Keiji... Why aren't you talking...?!"
+##
+
+<なぜ迷うんですか？>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."There's no reason to hesitate, Keiji!!"
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Why aren't you talking...?!"
+##
+
+<さっさとください>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Do it, quickly! Let's get the laptop back!"
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Keiji... Why aren't you talking...?!"
+##
+
+<Choice End>
+
+{Sou} [Sou: Disdainful pose / cara5-11]
+#Message#
+\."...Haha..."
+##
+
+[Sou: Disdainful pose, smug eyes / cara5-14]
+#Message#
+\."Ahahahahahahahaha!!"
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Well now... I guess that was mean, Keiji.
+\! ...I didn't intend to tease you."
+##
+
+[Sou: Pulling down scarf to show collar / cara5-23]
+{SE: Accent21-1}
+#Message#
+\."Here's my apology.
+ ...Can you see it?"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: Accent28-1}
+#Message#
+\."...!!"
+##
+
+{Sou} [Sou: Pulling down scarf to show collar, grin / cara5-24]
+#Message#
+\."Go ahead, get a good look."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."..."
+##
+
+#Message#
+\."Sure enough... it's the same collar."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."So now you accept it."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."This trade is over.
+ ...Have a nice date."
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji...)
+##
+
+#Message#
+\.\C[4](He wouldn't even move...)
+##
+
+{SE: shock1}
+#Message#
+\.\C[4](He wouldn't... give me his tokens...!)
+##
+
+{Keiji}
+#Message#
+\."Sara... I..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+I'm not bothered
+So you don't trust me
+##
+
+<気にしてないです>
+
+{Sara} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."I'm... not bothered..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Let's forget about it.
+ Right, we need to do attractions..."
+##
+
+{Keiji}
+#Message#
+\."...Wait, Sara..."
+##
+
+<私を信用していないんですね>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\."So you don't trust me."
+##
+
+{Keiji}
+#Message#
+\."No... I mean..."
+##
+
+{Sara}
+#Message#
+\."It's okay, really..."
+##
+
+{Keiji}
+#Message#
+\."...Wait, Sara..."
+##
+
+<Choice End>
+
+{N/A} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[3]I got myself away from there.
+##
+
+#Message#
+\.\C[3]I'm not bothered.
+##
+
+#Message#
+\.\C[3]Keiji must have his reasons.
+##
+
+#Message#
+\.\C[3]...There's no need to feel shocked.
+##
+
+#Message#
+\.\C[3]I understand this.
+We're all strangers who just met here.
+##
+
+#Message#
+\.\C[3]Even I haven't entrusted my whole mind to Keiji.
+##
+
+#Message#
+\.\C[3]So it's selfish to feel so shocked.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]I need... to be strong.
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm...)
+##
+
+#Message#
+\.\C[4](Is it exhaustion...?
+ I didn't realize I fell asleep...)
+##
+
+{N/A}
+#Message#
+\.\C[3]My pillow is wet.
+##
+
+{Sara}
+#Message#
+\.\C[4](While I was sleeping... I...)
+##
+
+#Message#
+\.\C[4](My tears... won't dry up, huh...)
+##
+
+#Choice#
+Even after all my crying over Joe...
+Need to do the attractions
+##
+
+<ジョーの時 あんなに泣いたのに…>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](I thought I'd cried so much
+ that I'd never be able to cry again...)
+##
+
+#Message#
+\.\C[4](But once time passes...
+ my strength recovers like nothing ever happened...)
+##
+
+#Message#
+\."Humans... sure are well-made..."
+##
+
+#Message#
+\."..."
+##
+
+#Message#
+\."...Joe..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I can't speak the words "I miss you."
+##
+
+#Message#
+\.\C[3]There's no road but the one forward.
+##
+
+{SE: warning2}
+#Message#
+\C[10]Hallucinations worsened by 20.
+##
+
+{Sara}
+#Message#
+\."...Need to continue with attractions."
+##
+
+<アトラクションを進めなきゃ>
+
+{Sara} [Keiji: Stern / cara2-3]
+#Message#
+\.\C[4](I managed to rest, however briefly.)
+##
+
+#Message#
+\.\C[4](It's strange...
+ Crying yourself asleep lets you forget things.)
+##
+
+{N/A}
+#Message#
+\.\C[3]I regained the energy to stand up.
+##
+
+{Sara}
+#Message#
+\."...Need to continue with attractions."
+##
+
+<Choice End>
+
+
+**********Event17********** (Q1-2) (1,5)
+-----Page4-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ain't gonna let Ranger do what he pleases...!"
+##
+
+-----Page6-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"This hallway... 'Scomplicated as a maze."
+##
+
+-----Page8-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"We jus' gotta do what we gotta...!"
+##
+
+#Message#
+"Sara... I'm sorry about the laptop."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+What's done is done
+I'm angry
+##
+
+<もう済んだことです>
+
+{Sara} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+"...What's done is done."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."...I'm pathetic, huh..."
+##
+
+{Sara}
+#Message#
+\."Even so, I still haven't heard the reason.
+ Why did you hand it over?"
+##
+
+<怒ってます>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...I'm angry."
+##
+
+{Q-taro}
+#Message#
+\."...Sorry..."
+##
+
+{Sara}
+#Message#
+\."Please, tell me your reason.
+ Why did you hand it over?"
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."It was..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+\."The allure of escape..."
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Kanna... no, Sou, her manipulator.
+ He's a demon of a man, I tell ya."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."Kanna learned I was gathering lotsa tokens,
+ and told me how to buy the escape ticket."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."In exchange for info that could be a lie...
+ I handed the laptop over to 'em...!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent21-1}
+#Message#
+\."I... wouldn't be able to look Kai in the eye."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...I could say the same thing."
+##
+
+#Message#
+\."Never knowing he was protecting me in the least,
+ I lived out my days..."
+##
+
+#Message#
+\."...And before he was able to tell me anything,
+ I let him die."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+#Message#
+\."There's no point in regret.
+ Let's do what we must, Q-taro."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent21-1}
+#Message#
+\."Yeah...!!"
+##
+
+
+**********Event18********** (sou1-3) (11,7)
+-----Page1-----
+{Kanna} [Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."There's wood fragments here, too.
+ I wonder if the weapon Sou got hit with
+ was taken from here..."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."H-Hey... Can we rest a little?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."...We'll hardly get any exploring done
+ if we keep resting so much."
+##
+
+
+**********Event19********** (nao2-1) (10,5)
+-----Page3-----
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Even without the professor... I'm fine."
+##
+
+{Sara}
+#Message#
+\."Nao..."
+##
+
+
+**********Event30********** (sou-anyaku) (5,6)
+-----Page1-----
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Sorry, we're going to discuss a token trade."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Hmph... You're not welcome, Sara Chidouin.
+ Can't you go away for now?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Oddly, it feels like he's being a little kind.)
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Sorry... Sara."
+##
+
+-----Page3-----
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."What do you want, miss Sara...?"
+##
+
+{Sara}
+#Message#
+\."Nothing..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna...)
+##
+
+#Message#
+\.\C[4](Even after we repaired our relationship...
+ This is what happened...)
+##
+
+
+**********Event64********** (a) (0,4)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ain't gonna let Ranger do what he pleases...!"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"This hallway... 'Scomplicated as a maze."
+##
+
+
+**********Event65********** (a) (0,3)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ain't gonna let Ranger do what he pleases...!"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"This hallway... 'Scomplicated as a maze."
+##
+
+
+**********Event66********** (a) (0,2)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ain't gonna let Ranger do what he pleases...!"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"This hallway... 'Scomplicated as a maze."
+##
+
+
+**********Event67********** (a) (0,1)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ain't gonna let Ranger do what he pleases...!"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"This hallway... 'Scomplicated as a maze."
+##
+
+
+**********Event68********** (a) (0,0)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ain't gonna let Ranger do what he pleases...!"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"This hallway... 'Scomplicated as a maze."
+##
+
+
+**********Event69********** (a) (1,0)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ain't gonna let Ranger do what he pleases...!"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"This hallway... 'Scomplicated as a maze."
+##
+
+
+**********Event70********** (a) (2,0)
+-----Page1-----
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Ain't gonna let Ranger do what he pleases...!"
+##
+
+-----Page3-----
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"This hallway... 'Scomplicated as a maze."
+##
+
+
+**********Event77********** (gareki) (7,8)
+-----Page1-----
+#Message#
+\C[3]Rubble is scattered all over.
+##
+

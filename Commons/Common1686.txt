@@ -1,0 +1,93 @@
+**********Common1686********** (※▲ﾊﾔｻｶ「マイ死に際」)
+{Hayasaka}
+#Message#
+"Mai was holding two guns pointed at her head...
+ Her face pale... her gloved hands trembling..."
+##
+
+#Message#
+"And also, Mai's final moments were
+ clearly recorded in her victim video..."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+"I don't really follow... Haha..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+"You can't expect any compassion
+ from those devils at Asunaro..."
+##
+
+#Message#
+"I couldn't imagine it was a fake video...!"
+##
+
+[Hayasaka: Hand sticking out, eyes closed, teeth clenched, sweating / cara94-8]
+#Message#
+\."If you saw it too, then don't you remember?"
+##
+
+[Hayasaka: Teeth clenched / cara94-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Mai was holding two guns pointed at her head...
+ Her face pale... her gloved hands trembling..."
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+\."It was just too cruel...!"
+##
+

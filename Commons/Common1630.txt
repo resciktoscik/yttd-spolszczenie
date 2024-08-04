@@ -1,0 +1,65 @@
+**********Common1630********** (3rdﾒｲﾝ　議題①)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna}
+#Message#
+"Does this machine really just rotate...?
+ Can we look at it in more detail?"
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+<Else>
+
+{Sou}
+#Message#
+"First, let's inspect this machine closely...
+ It might do more than just rotate."
+##
+
+#Choice#
+Choose this topic
+Cancel
+##
+
+<この議題を選ぶ>
+
+<やめる>
+
+<Choice End>
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Accent28-1}
+#Message#
+"Okay...! Let's take a look at the machine!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent28-1}
+#Message#
+"Well, naturally. Let's get to inspecting."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](Alright, then... I'll touch around
+ and see if there's anything else we can control.)
+##
+

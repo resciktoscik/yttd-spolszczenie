@@ -1,0 +1,677 @@
+**********Common209********** (⑨進展●「なぜ怒らぬ」新)
+{Joe} [Joe: Serious look / cara1-14]
+{SE: Accent28-1}
+#Message#
+"Nao... I'm a little curious."
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Huh...?"
+##
+
+{Joe} [Joe: Folded arms wondering / cara1-17]
+#Message#
+\."Maybe I've just got a rough disposition...
+ But why didn't you think about
+ looking for the culprit?"
+##
+
+[Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."I mean, it wasn't an "accident"...
+ It's because of the votes that such a terrible thing
+ happened to someone you deeply respected..."
+##
+
+[Joe: Furrowed brow / cara1-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ain't it... more natural to get angry?"
+##
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."I-I... I don't think so at all..."
+##
+
+#Message#
+\."Since I knew... no one's votes had any ill will..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.".........."
+##
+
+[Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent28-1}
+#Message#
+\."Maybe... you didn't respect him?"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."W-What are you..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Maybe miss Nao and Professor Mishima
+ didn't have any bond at all..."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."Then I could understand her mindset
+ of not seeking out the culprit."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."How awful..."
+##
+
+[Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."You're awful!! Just awful!!
+ I truly did...!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Sara, what do you think?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I think...)
+##
+
+#Choice#
+Their bond is real
+Their bond's a lie
+##
+
+<絆は本物>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Those two... seemed to have a great relationship.
+ I can't point to some logical proof,
+ there was just something about it...)
+##
+
+#Message#
+\.\C[4](Nao being that distraught couldn't be an act.)
+##
+
+#Message#
+\.\C[4](And yes, there must be some reason
+ for the professor's disappearing head...!)
+##
+
+<絆なんて嘘>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\.\C[4](Were they somehow... mismatched?
+ Some part of their relationship I didn't notice...)
+##
+
+#Message#
+\.\C[4](Was Nao's distress... an act?)
+##
+
+#Message#
+\.\C[4](Then what about the disappearing head?
+ Did Nao... do something?)
+##
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent28-1}
+#Message#
+\."The \C[2]collar\C[0]..."
+##
+
+{Sara}
+#Message#
+\."Uh...?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Suppose miss Nao didn't stick Professor Mishima
+ in the box out of affection for him..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Rather, maybe her objective was to
+ retrieve the \C[2]collar\C[0] on his neck?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."...In other words, \C[2]information\C[0]
+ that Miley failed to retrieve?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."You tryin' to say Nao collected the collar
+ in place of the kidnappers?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Dunno. However..."
+##
+
+#Message#
+\."I should note, your friendly policeman wasn't able
+ to investigate that collar 'cause Nao was there."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."H... Hey! Ya bein' serious?!"
+##
+
+{Nao} [Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."What, what...?! What are you talking abooout?!"
+##
+
+[Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."I don't know! I don't know anything!
+ Please, just stop it!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Then tell us! Why didn't you care
+ who the culprit was after the vote?!"
+##
+
+[Joe: Serious look / cara1-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."'Cause Professor Mishima was killed
+ by the people who voted for him..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\.\{"You stop right there, Joe!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."...!!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Stop it...! Don't say another word...
+ I'm beggin' you...!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: Accent28-1}
+#Message#
+\."I'll talk! I'll tell you everything!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Wha...?)
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."I overheard... all of it."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."It was just before the vote..."
+##
+
+#Message#
+\."Mishima said something... quiet enough that
+ only somebody real close could hear."
+##
+
+{Mishima} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Miss Nao... Miss Nao..."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."...?"
+##
+
+{Mishima}
+{SE: Accent21-1}
+#Message#
+\."Let us vote for each other, miss Nao."
+##
+
+{Q-taro}
+#Message#
+\."He said that...?"
+##
+
+{Reko}
+#Message#
+\."Thinking the vote was just a test...
+ I'm sure Nao voted for Mishima like he asked..."
+##
+
+[Mishima: Default smile / cara12-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But... Mishima \C[2]voted for himself\C[0]...!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."To protect his student... just in case?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."That's... why Nao didn't look for the culprit..."
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Don't bring up any "ill will" crap,
+ 'cause it doesn't matter...!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."His death was an accident!!"
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."Nao..."
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."I... Aaaah..."
+##
+
+#Message#
+\."If I... I... hadn't voted for him...!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."I'm sorry...! I'm sorry, Nao...!"
+##
+
+#Message#
+\."All this time I'd been thinking, whoever voted
+ for another person must've had bad intentions...!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."Just 'cause I... voted for myself...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What...?!)
+##
+
+#Message#
+\."Wait! Joe!
+ You voted for yourself?!"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."Huh? Yeah..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Sou! Didn't you tell me you voted for Joe...?!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."No way, I didn't say anything like that."
+##
+
+{Sara}
+#Message#
+\.\{\C[4](...!!)\.\.
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."W... What's this about, Sou?"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Ahaha, don't worry about it, everybody."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Miss Sara asked me who I voted for,
+ so I just told her whatever."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."She's so diligent, she must've taken it seriously."
+##
+
+{Sara}
+#Message#
+\.\C[4](This... This guy...!!)
+##
+
+#Message#
+\.\C[4](He's a huge liar...!!)
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."...So, ultimately...
+ Are we just going to ignore the missing head?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."That's still a big mystery...
+ But seems like Nao did nothin' wrong, 'least."
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Maybe Reko had the right idea,
+ and it got swapped out at some point."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Just discussing it's pointless, woof!
+ Let's talk about that gorilla next, meow!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."F'real?!"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."...You okay ignorin' it, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](The disappearing head...)
+##
+
+#Choice#
+Let's go to the next topic
+I'm still curious
+##
+
+<次の話題に行こう>
+
+{Sou} [Sou: Grave glare / cara5-5]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"Oh?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."S-Sorry. That was bad manners..."
+##
+
+<まだ気になる点がある>
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\.".........."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: horror_piano chord3}
+#Message#
+\."...Seems only miss Sara has any sense."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Hey, guys...
+ You're never going to solve anything like this."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."B-But..."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."I think it's wonderful you can trust each other
+ this much after just meeting, you know...?"
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."But, well... Bad people always feign innocence."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."You tryin' to say Nao's a bad person?!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."I just remembered something."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."That miss Nao's the one who attacked me."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Whaaaaaaaaaat?!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."..."
+##
+
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."That was a close one. If I hadn't remembered that,
+ she could've gotten away clean."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is this... true? Or a lie...?)
+##
+
+#Choice#
+Question Nao
+Shut Sou's mouth
+##
+
+<ナオを問いただす>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\.".........."
+##
+
+[Nao: Wide eyes, grim look, raised finger / cara7-3]
+#Message#
+\."I... I..."
+##
+
+[Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."...That's... wrong..."
+##
+
+<ソウの口を封じる>
+
+{Sou} [Sou: Grave glare / cara5-5]
+#Message#
+\.\C[10]"Don't get in the way, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Urk...)
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\.".........."
+##
+
+<Choice End>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."I'll hear out anything, miss Nao."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Now's your only chance to tell the truth..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."If we're going to argue until one of us loses trust,
+ I'll have to do my best too."
+##
+
+[Sou: Grave glare / cara5-5]
+#Message#
+\."Tell me, do you have that courage?"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."I..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."...................."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...I did...\.\. hit Sou..."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."F... For real?!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."You're joking, right?! Why, Nao?!"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I was threatened..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."B... By who?!"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."..."
+##
+
+[Nao: Tired eyes, looking to side, grim look / cara7-15]
+{SE: Accent21-1}
+#Message#
+\."...\.\C[2]Kai\C[0]..."
+##
+
+{Sara} [Kai: Default / cara8-1]
+#Message#
+\.\C[4](...!!)
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+"Kai threatened me...
+ to strike Sou in the head..."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+".........."
+##
+

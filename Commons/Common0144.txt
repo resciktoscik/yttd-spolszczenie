@@ -1,0 +1,224 @@
+**********Common144********** (⑤進展●「ギンは有能」)
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent28-1}
+#Message#
+"What is it, meow?"
+##
+
+{Sara}
+#Message#
+\."Take a look at this.
+ It's a piece of paper I picked up."
+##
+
+{Gin}
+{SE: Accent21-1}
+#Message#
+"My-my-myow?!
+ This looks...!!"
+##
+
+{Sara}
+#Message#
+\."Just like the one you have, right?"
+##
+
+#Message#
+\."This is Gin's."
+##
+
+{Gin}
+#Message#
+"Similar, woof! Totally the same, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](If you notice... The fact that Q-taro
+ is listed as a high school teacher is weird, too...)
+##
+
+#Message#
+\."Look at this. If you remove the left half..."
+##
+
+#Message#
+"And connect it to the piece I have...!"
+##
+
+{Gin}
+#Message#
+"M-Meow...?!"
+##
+
+#Message#
+\."They connected, woof!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](The tear matches up perfectly...
+ Why is that...?)
+##
+
+#Choice#
+They were torn in a stack
+A memo pad just had this shape
+##
+
+<紙の束を破った>
+
+{Sara} [Gin: Default / cara9-1]
+#Message#
+\.\C[4](That's it. Multiple sheets were torn all at once.)
+##
+
+#Message#
+\.\C[4](If you took these sheets...)
+##
+
+#Message#
+\.\C[4](And stacked them like this...)
+##
+
+#Message#
+\C[4](And then tore it...!)
+##
+
+#Message#
+\C[4](It would produce these results!)
+##
+
+#Message#
+\C[4](In other words...)
+##
+
+<元々この形のメモ帳だった>
+
+{Sara} [Gin: Default / cara9-1]
+#Message#
+\.\C[4](Yes... From the beginning,
+ this was a designer memo pad with a torn look...!)
+##
+
+#Message#
+\.\C[4](...Who would ever purchase that?!)
+##
+
+<Choice End>
+
+{Sara} [Gin: Default / cara9-1]
+{SE: Accent28-1}
+#Message#
+\."There were at least two of these sheets
+ stacked together."
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Is that it, woof...?!"
+##
+
+{Sara}
+#Message#
+\."Since they fit together so cleanly,
+ of course misunderstandings would happen."
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."Yaaaaay! Thank goodness, meow!!"
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."But y'know...
+ What are these sheets in the first place?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."...They are creepy, aren't they."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."The professor's name is on here,
+ and even some people I don't know..."
+##
+
+{Kai} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."And whatever could the percentages on the side be...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Anyway!
+ I've proved I was useful for exploring, meow!"
+##
+
+[Gin: Smile, hands in front / cara9-5]
+#Message#
+\."And now I'm glad that big sis Sara
+ wasn't a murderer after.........."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent28-1}
+#Message#
+\."Eh...?
+\.\. Then who IS a murderer, meow...?"
+##
+
+{Sara}
+{SE: heart1}
+#Message#
+\.\C[4](As far as this shows... that would be...)
+##
+
+#Choice#
+Alice Yabusame
+Sara Chidouin
+##
+
+<八分雨 ありす>
+
+<千堂院 紗良>
+
+{Sara} [Gin: Horrified look / cara9-4]
+#Message#
+\.\C[4](Am I a murderer after all...?
+\! ...You idiot, that can't be it...)
+##
+
+<Choice End>
+
+{Sara} [Gin: Horrified look / cara9-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It would be... whoever \C[2]Alice Yabusame\C[0] is."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Yabusame...?
+ That sounds kinda familiar, meow."
+##
+
+{Sara}
+#Message#
+\.\C[4](There's only one person here
+ with the last name Yabusame...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Please identify Yabusame.
+##
+

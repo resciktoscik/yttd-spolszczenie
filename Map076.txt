@@ -1,0 +1,1724 @@
+=====Map76===== (③Medical Office)
+
+**********Event2********** (omawari) (10,8)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Keiji is tending to Gin's wound.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."It's lighter than I thought.
+ Does it hurt, Gin?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."It doesn't, but I wanna have
+ big sis Sara heal it for me, meow!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Well now... Got me in a sore spot."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."A wound like this should be fine
+ just being washed in water and bandaged."
+##
+
+[Safalin: Wide smile / cara15-4]
+{SE: Accent28-1}
+#Message#
+\."Ah! I have a salve that speeds up cellular repair,
+ so if you use that as well, it will more quickly..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sure that's not dangerous?"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\.".........."
+##
+
+[Safalin: Wide smile / cara15-4]
+#Message#
+\."Understood. Please look at this."
+##
+
+{N/A}
+{SE: Paralyze2}
+#Message#
+\.\C[3]Safalin cut her own hand, making it bleed.
+##
+
+{Safalin}
+{SE: Accent21-1}
+#Message#
+\."And you use it like so on the bleeding area...!"
+##
+
+#Message#
+\."See? It isn't dangerous, is it?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+\."..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Proving it with your own body, eh...
+ Got it."
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Eheheh..."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\.\C[3]Gin and Keiji are talking in whispers.
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Mr. Policeman... Mr. Policeman..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."What's up?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Is it okay to give big sis Sara this, meow...?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."...!"
+##
+
+[Keiji: Stern / cara2-3]
+#Message#
+\."No... Better not give her that."
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder what they're talking about...?)
+##
+
+#Message#
+\."Um... Do you have something for me...?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Meooow?! It's nothing, woof!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm...? Well, that's pretty suspicious.)
+##
+
+#Choice#
+Look at what he hid
+Pretend I didn't see
+##
+
+<隠した物を見る>
+
+{Sara} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Show me that, Gin."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."No... I can't, woof..."
+##
+
+{Sara}
+#Message#
+\."Come on, please..."
+##
+
+{N/A}
+#Message#
+\.\C[3]In his hand was...
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...It's...!!"
+##
+
+{Gin} [Joe: Eyes-open smile / cara1-12]
+#Message#
+\."The thing... big bro Joe had... woof."
+##
+
+{Sara}
+#Message#
+\.\C[4](The dog keychain he always kept
+ in his breast pocket...)
+##
+
+#Message#
+\.\C[4](The one... I gave Joe.)
+##
+
+{Gin}
+#Message#
+\."I... picked it up then, woof..."
+##
+
+#Message#
+\."I didn't want the kidnappers to take it, meow..."
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."Sorry, woof..."
+##
+
+{N/A}
+{SE: warning2}
+#Message#
+\C[10]Hallucinations worsened by 30.
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Gin, you did well."
+##
+
+#Message#
+\."Is it okay if I take this...?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."You're... glad, meow?"
+##
+
+{Sara}
+#Message#
+\."Yeah..."
+##
+
+#Message#
+\."This is precious to me..."
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Thank you, Gin."
+##
+
+{Gin}
+#Message#
+\."Thank goodness, meow! Ehehe..."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."...No helpin' it, I guess."
+##
+
+<何も見なかったことにする>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[4](I don't know what he hid from me,
+ but I'll pretend I didn't see anything...)
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."It's nothing, meow...
+ Don't worry about it, woof..."
+##
+
+{Sara}
+#Message#
+\."Got it. I'll trust you, Gin."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Y-Yeah! Ehehe..."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Well, we've treated Gin, so let's leave."
+##
+
+{Sara}
+#Message#
+\."Right."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."If you get hurt... Please come back again."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Got it
+Thank you
+..........
+##
+
+<わかった>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\."...Got it. We'll be careful."
+##
+
+{Safalin}
+#Message#
+\.".........."
+##
+
+<ありがとう>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\."...Thank you.
+ We'll make use of it again."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."There's no reason to thank her, meow!
+ It's 'cause of these guys we're getting hurt, woof!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."...Apologies."
+##
+
+<………>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\.\C[4](Grr...!
+ Who fault does she think it is he got hurt...?!)
+##
+
+{N/A}
+#Message#
+\.\C[3]I roared at Safalin with my glance.
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."...Eee... sorry..."
+##
+
+{N/A}
+#Message#
+\.\C[3]But I was taken aback by Safalin's timid manner.
+##
+
+{Sara}
+#Message#
+\.\C[4](...I shouldn't lash out...)
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Let's go, you two."
+##
+
+{N/A}
+#Message#
+\.\C[3]We left the medical office behind.
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm? Reko's glancing at me to call me over...)
+##
+
+#Message#
+\.\C[4](I wonder what it is...?)
+##
+
+
+**********Event3********** (gin-nao) (13,8)
+-----Page4-----
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Big sis Sara... You look pale, meow..."
+##
+
+{Sara}
+#Message#
+\."...I'm fine."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."O-Okay..."
+##
+
+-----Page5-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."You can get used to anything, meow!
+ ...Even this room's not bad, woof."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."If you're having a hard time,
+ you should rest here, meow."
+##
+
+-----Page7-----
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."Today is the last day.
+ In the end, I couldn't get a clue for escape...
+ or even Clear Chips..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...No, it's not good to complain."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."I have tranquilizer if you wish..."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."...T-That's fine."
+##
+
+
+**********Event5********** (hannaki) (4,7)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Safalin is looking my way.
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Please take it easy..."
+##
+
+-----Page3-----
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."If you need something, please just let me know!
+ And don't go searching around on your own..."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+What is this?
+I should be free to explore
+##
+
+<これはなんだ？>
+
+{Sara} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Safalin...! Tell me...!
+ What in the world is this?!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."*sniff*... Well, um..."
+##
+
+<探索は自由のハズだ>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\."We're free to search where we like, surely?"
+##
+
+{Safalin}
+#Message#
+\."*sniffle*..."
+##
+
+[Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Understood... I'll tell you the truth..."
+##
+
+<Choice End>
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."What's in there... is a doll."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."A doll...?!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."You must have seen them before as well.
+ A doll of miss Kanna, a doll of yourself..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Come to think of it...
+ I do remember using a doll that looked
+ just like me in the mirror room.)
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Do you remember now...?"
+##
+
+{Sara}
+#Message#
+\."...Yeah."
+##
+
+#Choice#
+What are they for?
+Are they really dolls?
+Who made them?
+##
+
+<何の為にあるんだ？>
+
+{Sara} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."What's the purpose of these dolls...?"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\.".........."
+##
+
+[Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."They are... one of the experiments
+ done by our organization."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."I cannot say anything more than that..."
+##
+
+<本当に人形なのか？>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\."Are they really dolls...?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Yes, intricate dolls copying the smallest details."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."One at a time... taking considerable effort...
+ These aren't dolls that can be mass-produced."
+##
+
+<誰が作った？>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\."Who made them...?
+ Was it... you, Safalin?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."It was... not me."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."I just keep custody of them."
+##
+
+<Choice End>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\."..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The more I looked at the doll,
+I felt it might start moving any moment.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's like... Joe really is there...)
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."If it pleases you... do you want to borrow it...?"
+##
+
+{Sara}
+#Message#
+\."D... Don't be ridiculous!
+ Who would... want this thing...!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."One of the purposes these dolls were made for...
+ is as mental relief."
+##
+
+[Safalin: Wide smile / cara15-4]
+#Message#
+\."A precious person you can no longer meet...
+ You can talk to them, or have them beside you..."
+##
+
+{Sara}
+#Message#
+\."A doll... is a doll.
+ I don't need it...!"
+##
+
+{Safalin}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But you're distressed, aren't you?"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+{Safalin} [Safalin: Wide smile, swirly eyes / cara15-5]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"Please be honest, miss Sara. You need salvation."
+##
+
+#Message#
+\."You have regrets."
+##
+
+#Message#
+\."If you desired it, you could have
+ joined hands with Joe and escaped together."
+##
+
+#Message#
+\."You gave that up and killed Joe.
+\! And you mourn that fact."
+##
+
+{Sara}
+#Message#
+\."Stop it...!!"
+##
+
+{Safalin}
+{SE: shock1}
+#Message#
+\.\C[10]"Facing Joe Tazuna...
+ That is your only path toward salvation."
+##
+
+{Sara}
+#Message#
+\."That's not...!!"
+##
+
+{Safalin}
+#Message#
+\."Stubborn, I see... Then just for you..."
+##
+
+#Message#
+\.\C[10]"Allow me to show you a wonderful function
+ that will make you feel even closer to this doll..."
+##
+
+{Voice}
+#Message#
+"Quit it, you."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."Isn't that a little too much interference?"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Maybe you're not a villain...
+ But you're sure not normal."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I apologize... I went too far."
+##
+
+[Safalin: Mouth open / cara15-2]
+#Message#
+\."I won't speak any more about dolls.
+ However, if I may at least offer a suggestion..."
+##
+
+[Safalin: Default frown / cara15-1]
+{SE: Accent28-1}
+#Message#
+\."I have a device for healing mental wounds."
+##
+
+[Safalin: Mouth open / cara15-2]
+#Message#
+\."Please... come here before your hallucinations
+ become so intense as to destroy your mind."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."That is all..."
+##
+
+#Message#
+\."...Well, so long."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Are you okay?"
+##
+
+{Sara}
+#Message#
+\."*pant*... *pant*..."
+##
+
+#Choice#
+I'm okay
+I'm exhausted
+##
+
+<大丈夫です>
+
+{Sara} [Keiji: Frown / cara2-2]
+#Message#
+\."...I-I'm fine now."
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+<疲れました>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."*pant*... *pant*... I'm exhausted..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Can't say I'm surprised..."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Want to sit down for a bit?"
+##
+
+{Sara}
+#Message#
+\."...Okay."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Sara...\.\. did you..."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+\."Did you... like Joe?"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+He was a close friend
+I don't know
+He's just an acquaintance
+##
+
+<親友でした>
+
+{Sara} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."He was... a close friend..."
+##
+
+#Message#
+\."No one else... was as foolish, softhearted,
+ and cheerful as him."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Yeah... I'll bet."
+##
+
+<わかりません>
+
+{Sara} [Keiji: Stern / cara2-3]
+{SE: Accent21-1}
+#Message#
+\."...I don't know..."
+##
+
+#Message#
+\."But... Ever since he left,
+ my heart... has been a mess."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sara..."
+##
+
+<ただの知り合いです>
+
+{Sara} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."...He's just an acquaintance..."
+##
+
+#Message#
+\."So... it doesn't hurt, really...
+\! With time, I'll forget... him... so..."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+#Message#
+\."...Even if I try to think that... I can't..."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...He was someone important to you.
+ \.\.Regardless of "liking,"\.\. or "love"...\. right?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."...Yes."
+##
+
+#Message#
+\.\C[4](Come to think of it...)
+##
+
+#Message#
+\."You had someone important to you too, right...?"
+##
+
+#Message#
+\."You said you'd tell me about it
+ if we survived the Main Game."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+{SE: Accent28-1}
+#Message#
+\."...I did."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."It was back when your good old policeman
+ was still in grade school."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."All I had was a single mother.
+ We weren't affluent."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."So when I went to visit friends...
+ I had to borrow my mom's errand bicycle."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."The brakes on it were busted.
+ So one day, I fell off, and the bike
+ went sailing into the river without me."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."The embarrassment of being laughed at by my friend,
+ and the pain of losing my mom's dear bicycle,
+ got me weeping like nobody's business."
+##
+
+{SE: Accent21-1}
+#Message#
+\."And there on the scene...
+ was the friendly neighborhood policeman."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."He lept into the river and fished out the bike,
+ and even spent hours at the police box repairing it."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Soaking wet and awkwardly cool...
+ He was my hero."
+##
+
+{Sara}
+#Message#
+\."So he... was the person important to you."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."He's what made me want to be a policeman.
+\! I'll never forget it... It's a precious memory."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+Thank you very much
+Were you able to reunite?
+##
+
+<ありがとうございます>
+
+{Sara} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."I feel like... I've learned something
+ about you for the first time, Keiji."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Huh? Oh, really?"
+##
+
+{Sara}
+#Message#
+\."...Thank you very much."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Don't mention it."
+##
+
+<警察なら再会できたんですか？>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."Since you became a policeman yourself...
+ Did you two reunite?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.".........."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Well, there's lotsa different police in the world."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Okay, that's the end of that story.
+ You calmed down a little?"
+##
+
+{Sara}
+#Message#
+\."Yes... Thank you very much."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."See ya. You can always depend on Mr. Policeman."
+##
+
+{Sara}
+#Message#
+\.\C[4](At any rate... I've learned the truth
+ about the ghost of the medical office.)
+##
+
+#Message#
+\.\C[4](I want to get moving...
+ I'll continue clearing attractions.)
+##
+
+-----Page5-----
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."It's me, Safalin.
+ ...I won't leave my post from now on."
+##
+
+{Sara}
+#Message#
+\."...I see."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Please trust me to care for your minds and bodies."
+##
+
+[Safalin: Wide smile / cara15-4]
+{SE: Accent28-1}
+#Message#
+\."Speaking of which, miss Sara...
+ Would you like to forget a bit about
+ the hallucinations corroding your mind?"
+##
+
+{Sara}
+#Message#
+\."Forget...?"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Yes, it would be bad for them to harm your mind.
+ ...Please consider it while you can still recover."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I can forget... Joe...?)
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."I will ask you again."
+##
+
+[Safalin: Wide smile / cara15-4]
+#Message#
+\."Miss Sara, will you use this device
+ to forget your hallucinations?"
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Try forgetting
+Cancel
+##
+
+<忘れてみる>
+
+{Sara} [Safalin: Wide smile / cara15-4]
+#Message#
+\."...All right. Do it."
+##
+
+{Safalin}
+#Message#
+\."Yes! Don't worry...
+ It's a very comforting device..."
+##
+
+#Message#
+"Here we are. Attach this to your head..."
+##
+
+{Sara}
+#Message#
+\."H-Hey... is this really okay?
+ You're attaching all this stuff to my body..."
+##
+
+{Safalin}
+{SE: flash-of-light-3}
+#Message#
+\."It's all right! Most of these devices are
+ for massaging your shoulders while we're at it!"
+##
+
+{Sara}
+#Message#
+\."My shoulders... aren't stiff, though..."
+##
+
+{Safalin}
+#Message#
+\."Well then, here we gooo!"
+##
+
+{Sara} [Joe: Hallucination disappearing 4 / cara1-30]
+#Message#
+\."Ah...!!"
+##
+
+#Message#
+\."Oogh...!!"
+##
+
+#Message#
+\."Gah...!!"
+##
+
+#Message#
+\."Aaaah...!!"
+##
+
+#Message#
+\."Waaaaaaaaaaugh...!!"
+##
+
+#Message#
+\."*pant*... *pant*... *pant*...!!"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."How was it?
+ Doesn't your mind feel refreshed?"
+##
+
+{Sara}
+#Message#
+\."*pant*... *pant*... Huh...?"
+##
+
+#Message#
+\."..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."You're right...!"
+##
+
+#Message#
+\."Ahaha, what is this...?
+ It doesn't seem real that I was suffering.
+ My mind feels so clear...!!"
+##
+
+{N/A}
+{SE: Saint5}
+#Message#
+\.\C[3]Hallucination Level went down to 0.
+##
+
+#Message#
+\.\C[3]Forgot about Joe a little.
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."It's dangerous to use twice, so...
+ You shouldn't use it any more."
+##
+
+{Sara}
+#Message#
+\."Right, got it! Thank you, Safalin!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."...It's not as if you're fully cured.
+ Please be wary of any future hallucinations."
+##
+
+<やめる>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\."...I'll pass."
+##
+
+{Safalin}
+#Message#
+\."Understood... Please visit anytime."
+##
+
+<Choice End>
+
+-----Page6-----
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Please make yourself at home.
+ Tell me if you have any requests."
+##
+
+{Sara}
+#Message#
+\.\C[4](Requests...)
+##
+
+#Choice#
+Use that device again
+Cancel
+##
+
+<あの装置を使いたい>
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."A-A second time...?
+ That is dangerous. I wouldn't recommend it."
+##
+
+{Sara}
+#Message#
+\.\C[4](No good, huh...)
+##
+
+#Choice#
+Plead anyway
+Cancel
+##
+
+<それでも頼み込む>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Safalin: Mouth open / cara15-2]
+#Message#
+\."...Please, Safalin. Just one more time."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Miss Sara..."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."Understood. Let us trust that your mind
+ is strong enough to endure it."
+##
+
+#Message#
+\."Well then, here we go."
+##
+
+{Sara} [Joe: Hallucination disappearing 4 / cara1-30]
+#Message#
+\."Ah...!!"
+##
+
+#Message#
+\."Ahh...!!"
+##
+
+#Message#
+\."Uuugh...!!"
+##
+
+#Message#
+\."Aaahhh...!!"
+##
+
+#Message#
+\."Waaaaaaaaaaugh...!!"
+##
+
+#Message#
+\."*pant*... *pant*... *pant*...!!"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."A-Are you all right?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Ahaha! I've never felt better, Safalin!"
+##
+
+{N/A}
+{SE: Saint5}
+#Message#
+\.\C[3]Hallucination Level went down to 0.
+##
+
+#Message#
+\.\C[3]Forgot about Joe a little.
+##
+
+{Safalin}
+#Message#
+\."P... Please let that be the last of it.
+ If used too frequently, it can cause
+ great harm to your brain...!"
+##
+
+{Sara}
+#Message#
+\."Thank you, Safalin!"
+##
+
+<やめる>
+
+{Sara} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."...I'll pass."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Understood... Please visit anytime."
+##
+
+<Choice End>
+
+-----Page7-----
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."U... Um... Miss Sara...
+ You shouldn't come here so much..."
+##
+
+{Sara}
+#Message#
+\.\C[4](I wish she'd at least let me explore.)
+##
+
+#Choice#
+Use that device again
+Cancel
+##
+
+<あの装置を使いたい>
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."N-No! A third time is too dangerous!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Any more is dangerous...?)
+##
+
+#Choice#
+Plead anyway
+Cancel
+##
+
+<それでも頼み込む>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Please, Safalin!
+ I'm sure... just one more will be fine for me!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."No, I can't do any more...!"
+##
+
+#Choice#
+I'm begging you!
+Cancel
+##
+
+<一生のお願い！>
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\."Please, Safalin!
+ I'm begging you!"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."You're begging me...?"
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."...Miss Sara."
+##
+
+[Safalin: Wide smile / cara15-4]
+#Message#
+\."Perhaps you've already long since been ruined..."
+##
+
+[Safalin: Wide smile, swirly eyes / cara15-5]
+#Message#
+\.\C[10]"*giggle*... Very well."
+##
+
+#Message#
+\.\C[10]"I'm afraid it will ruin your life,
+ but if that will save you, miss Sara...
+ Let us do it."
+##
+
+#Message#
+\."Well then, here we go."
+##
+
+{Sara}
+#Message#
+\."Hurry! Hurry, Safalin!"
+##
+
+[Joe: Disappearing 4 / cara1-34]
+#Message#
+\."Ah..."
+##
+
+#Message#
+\."Ahaha..."
+##
+
+#Message#
+\."Uuugh...\.\. urgh..."
+##
+
+#Message#
+\."Hahahaha... hahaha..."
+##
+
+#Message#
+\.".........."
+##
+
+{Safalin} [Safalin: Wide smile, swirly eyes / cara15-5]
+#Message#
+\C[10]"Ahh... What a cheerful face..."
+##
+
+{Sara}
+#Message#
+\."Safalin, one more... one more time..."
+##
+
+{Safalin}
+#Message#
+\.\C[10]"*giggle*... That's no good, miss Sara..."
+##
+
+{Sara}
+#Message#
+\."Wh... y... I beg of you..."
+##
+
+{Safalin}
+#Message#
+\.\C[10]"Please, just do everything I tell you..."
+##
+
+#Message#
+\.\C[10]"And this device will be your reward...
+ ...Isn't that nice?"
+##
+
+{Sara}
+#Message#
+\."Got it... I'll do anything... Safalin..."
+##
+
+{Safalin}
+#Message#
+\.\C[10]"*giggle*...
+ Yes, you'll devote your life to me, won't you?"
+##
+
+#Message#
+\.\C[10]"And I'll be sure to make your brain into mush..."
+##
+
+{Sara}
+#Message#
+\."Thank you... Safalin... Thank you..."
+##
+
+<やめる>
+
+{Sara} [Safalin: Wide smile, swirly eyes / cara15-5]
+#Message#
+\."...I'll pass."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Understood... Please visit anytime."
+##
+
+<Choice End>
+
+
+**********Event6********** (joe-nin) (6,6)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Something is faintly reflected by the glass.
+##
+
+#Message#
+\.\C[10]Joe is there.
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\."Not... again..."
+##
+
+{N/A}
+#Message#
+\.\C[3]It's a hallucination.
+I must just be hallucinating again.
+##
+
+{SE: warning2}
+#Message#
+\C[10]Hallucinations worsened by 20.
+##
+
+#Message#
+\.\C[4](How long can I suffer...?
+ How long am I... going to...)
+##
+
+#Message#
+\.\C[3]I approach the closet,
+but the hallucination doesn't go away.
+##
+
+#Message#
+\.\C[3]In fact, I can only see it more clearly.
+##
+
+{Sara}
+#Message#
+\."...?"
+##
+
+{SE: Accent28-1}
+#Message#
+\."Don't tell me, this is...!"
+##
+
+#Message#
+\."Joe...?!"
+##
+
+{Joe?} [Joe: Serious look / cara1-14]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](No... He's not reacting...!)
+##
+
+#Message#
+\.\C[4](What... what's wrong with my eyes...?!)
+##
+
+{Voice}
+#Message#
+\."What are you doing?!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+{SE: Accent28-1}
+#Message#
+\."Don't go opening doors without asking, please!"
+##
+
+{Sara}
+#Message#
+\."Safalin...!!"
+##
+
+-----Page2-----
+{N/A} [Joe: Serious look / cara1-14]
+#Message#
+\.\C[10]Something that looks just like Joe is looking at me.
+##
+
+
+**********Event7********** (hako) (8,7)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]A first-aid kit with medical supplies.
+##
+
+
+**********Event48********** (gin-gin) (12,7)
+-----Page7-----
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Even big sis Nao's not feeling good, meow..."
+##
+
+[Gin: Horrified look / cara9-4]
+#Message#
+\."I gotta do something... Why're the only cheerful ones
+ the girly murderer and the loner, meow?"
+##
+

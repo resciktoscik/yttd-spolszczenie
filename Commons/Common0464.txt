@@ -1,0 +1,55 @@
+**********Common464********** (長押しダメージ)
+{Sou}
+#Message#
+"S-Someone... help..."
+##
+
+{Sara}
+#Message#
+\."Sou...!!"
+##
+
+{Reko}
+#Message#
+"No way... Not like... this...!"
+##
+
+{Sara}
+#Message#
+\."Reko! Hold on...!!"
+##
+
+{Alice}
+#Message#
+"Don't mock me...! Can I... die like this...?!"
+##
+
+{Sara}
+#Message#
+\."A... Alice...! Ahh... h..."
+##
+
+#Message#
+\."N... No! Don't eat me...!!"
+##
+
+#Message#
+"Agh...!! Is this it for me...?!"
+##
+
+{Sou}
+#Message#
+\."Leave this to me, miss Sara."
+##
+
+{Reko}
+#Message#
+\."Time to trade off... Take a break, Sara."
+##
+
+{Alice}
+#Message#
+\."Hmph... You should give up now. I can stay in
+ a single area for as many years as it takes...!"
+##
+

@@ -1,0 +1,582 @@
+=====Map160===== (==Medical Office Event)
+
+**********Event2********** (hannaki) (10,7)
+-----Page3-----
+{Gin} [Gin: Default / cara9-1]
+#Message#
+*sniff sniff*...
+##
+
+[Gin: Shocked, claws raised / cara9-7]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Meow! It smells really sweet near her head, woof!"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+{SE: Accent28-1}
+#Message#
+\."Eheheh... It's actually as delicious as it looks.
+ Would you like to have a bite?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."That's gross, so I'll pass, meow!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Aah... *sniffle*... I-Is that so..."
+##
+
+<Else>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."That's gross, so I'll pass, meow..."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Aah... *sniffle*..."
+##
+
+<Condition End>
+
+[Safalin: Default frown / cara15-1]
+#Message#
+"I believe this machine to be
+ one way of achieving happiness."
+##
+
+[Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."No matter what you think of it..."
+##
+
+
+**********Event3********** (EV003) (1,0)
+-----Page1-----
+{Sara}
+{SE: Accent28-1}
+#Message#
+\C[4](Huh? The lights are off...?)
+##
+
+{N/A}
+#Message#
+\.\C[4](There's someone in the darkness...)
+##
+
+{Voice}
+#Message#
+"I see..."
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+"Your heart... may be rather wounded..."
+##
+
+{???}
+#Message#
+"..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Lights-out silhouette / cara6-36]
+{SE: Accent28-1}
+#Message#
+"Mine is...?"
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+\."Not just yours, necessarily."
+##
+
+#Message#
+\."Everyone's... is falling apart..."
+##
+
+{Reko} [Reko: Lights-out silhouette / cara6-36]
+{SE: Accent21-1}
+#Message#
+\."Everyone's...?"
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+\."Sometimes... it's better to forget memories
+ that are simply too painful."
+##
+
+#Message#
+\."And in reality, the human brain is made to do so."
+##
+
+#Message#
+\."All of you are too strong...
+ So you can't erase your own memories."
+##
+
+{Reko} [Reko: Lights-out silhouette / cara6-36]
+#Message#
+\."And so... You wanna erase them yourself...?!"
+##
+
+[Reko: Lights-out silhouette, looking to side / cara6-37]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."My memories of Alice...!!"
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+\."Only the painful memories, you understand...?"
+##
+
+#Message#
+\."Those fun memories as brother and sister...
+ Those will remain, and you can just forget
+ the bad memories."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I am the only one who can cure you..."
+##
+
+{Reko} [Reko: Lights-out silhouette, looking to side / cara6-37]
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Reko: Lights-out silhouette / cara6-36]
+{SE: Accent28-1}
+#Message#
+\."No..."
+##
+
+[Reko: Lights-out silhouette, looking to side / cara6-37]
+#Message#
+\."Sure enough, I can't forget Alice..."
+##
+
+[Reko: Lights-out silhouette / cara6-36]
+#Message#
+\."I don't have too many memories with him..."
+##
+
+[Reko: Lights-out silhouette, looking to side / cara6-37]
+#Message#
+\."If I lost the bad memories...
+ there'd hardly be anything left."
+##
+
+[Reko: Lights-out silhouette / cara6-36]
+#Message#
+\."So... I don't wanna forget even a shred..."
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+\."Miss Reko..."
+##
+
+#Message#
+\."Understood..."
+##
+
+{Reko} [Reko: No makeup, mouth open / cara6-21]
+{SE: Accent28-1}
+#Message#
+"Huh...? Sara!"
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+#Choice#
+So you wouldn't use the machine
+What were you doing in the dark?
+##
+
+<装置を使わなかったんですね>
+
+{Sara} [Reko: No makeup, mouth open / cara6-21]
+#Message#
+\."So... you wouldn't use the machine."
+##
+
+{Reko} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+\."...Yeah."
+##
+
+<暗闇でなにを？>
+
+{Sara} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+#Message#
+\."What were you doing in the dark here?"
+##
+
+{Reko}
+#Message#
+\."Haha... Wasn't doing nothin'."
+##
+
+<Choice End>
+
+{Reko} [Reko: No makeup, somber face / cara6-20]
+#Message#
+\."..."
+##
+
+[Reko: No makeup, sad eyes, mouth open / cara6-23]
+{SE: Accent21-1}
+#Message#
+\."Maybe I took the hard choice..."
+##
+
+[Reko: No makeup, mouth open / cara6-21]
+#Message#
+\."I'll be in the lobby, Sara.
+ Talk to me if you need me."
+##
+
+<Else>
+
+{Alice} [Alice: Lights-out silhouette / cara11-33]
+{SE: Accent28-1}
+#Message#
+"Mine is...?"
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+\."Not just yours, necessarily."
+##
+
+#Message#
+\."Everyone's... is falling apart..."
+##
+
+{Alice} [Alice: Lights-out silhouette / cara11-33]
+#Message#
+\."Hmph..."
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+\."Sometimes... it's better to forget memories
+ that are simply too painful."
+##
+
+#Message#
+\."And in reality, the human brain is made to do so."
+##
+
+#Message#
+\."All of you are too strong...
+ So you can't erase your own memories."
+##
+
+{Alice} [Alice: Lights-out silhouette / cara11-33]
+#Message#
+\."So with this machine, you really can erase them."
+##
+
+[Alice: Lights-out silhouette, clutching chest / cara11-34]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."My memories of Reko..."
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+\."Only the painful memories, you understand...?"
+##
+
+#Message#
+\."Those fun memories as brother and sister...
+ Those will remain, and you can just forget
+ the bad memories."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I am the only one who can cure you..."
+##
+
+{Alice} [Alice: Lights-out silhouette / cara11-33]
+#Message#
+\.".........."
+##
+
+#Message#
+\."..."
+##
+
+[Alice: Lights-out silhouette, clutching chest / cara11-34]
+{SE: Accent21-1}
+#Message#
+\."...All right. Do it."
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+\."...Are you certain?"
+##
+
+{Alice} [Alice: Lights-out silhouette, clutching chest / cara11-34]
+#Message#
+\."Make it quick. Before I change my mind..."
+##
+
+{Safalin} [Safalin: Lights-out silhouette / cara15-6]
+#Message#
+\."...Then here we go."
+##
+
+{Alice}
+#Message#
+\."Gwaaaaah...!!"
+##
+
+#Message#
+\."Gaaaaahhh...!!"
+##
+
+#Message#
+\."Urghhh... Aaaaaaaaaa...!!"
+##
+
+[Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."Ooof..."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."How do you feel...?"
+##
+
+{Alice} [Alice: Tired face, closed teeth / cara11-25]
+#Message#
+\."..."
+##
+
+[Alice: Surprised face / cara11-2]
+{SE: Accent21-1}
+#Message#
+\."O... Ohh?!"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."I see...!! What a good feeling!
+ My head is clear...!"
+##
+
+{Sara}
+#Message#
+\."A-Alice..."
+##
+
+{Alice} [Alice: Surprised face / cara11-2]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ahh, Sara Chidouin.
+ How long have you been there?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+So you used the machine
+Is it okay to forget Reko?
+##
+
+<装置を使ったんですね>
+
+{Sara} [Alice: Surprised face / cara11-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So... you used the machine."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."Well, yes... Mwahaha... I should have asked to earlier
+ if I'd known I'd feel so refreshed."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Is that okay, meow...? Even your bad memories...
+ were memories with big sis Reko..."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Hmph...?
+ I've more memories than I know what to do with."
+##
+
+<レコさんを忘れていいんですか>
+
+{Sara} [Alice: Default glare / cara11-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Is it okay to just forget Reko...?"
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."Hmph... What are you saying?
+ Reko is my dear sister. I wouldn't forget her."
+##
+
+<Choice End>
+
+{Alice} [Alice: Default glare / cara11-1]
+{SE: sceneswitch2}
+#Message#
+\."It's unfortunate she had to die...\!
+ But Reko will surely live on in my heart."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Being able to say a thing like that
+ all casually... It's not right, woof..."
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."What...?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Gin... Please, don't.
+ If all you have is burdens, that isn't life..."
+##
+
+[Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+{SE: Accent28-1}
+#Message#
+\."I can't say... Alice did anything wrong."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Indeed. Don't hamper my invigorated mood.
+ ...I think I'll go rest in the lobby."
+##
+
+{Sara}
+#Message#
+\."Let's go, Gin."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."Okay..."
+##
+
+<Condition End>
+
+
+**********Event15********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event16********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event17********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event18********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event19********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event20********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event23********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

@@ -1,0 +1,167 @@
+=====Map79===== (③Your Bedroom)
+
+**********Event4********** (nazonokami) (7,4)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]Something's been placed on the chair.
+##
+
+{Sara}
+#Message#
+\.\C[4](What is this...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained Four Papers.
+##
+
+{Sara}
+#Message#
+\.\C[4](These look familiar...!)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Our names...?!)
+##
+
+{N/A}
+#Message#
+\.\C[3]Names, occupations, and mysterious numbers.
+##
+
+#Message#
+\.\C[3]I remember this.
+##
+
+{Gin} [Gin: Default / cara9-1]
+{SE: Accent28-1}
+#Message#
+"What is it, meow?"
+##
+
+{Sara}
+#Message#
+\."Take a look at this.
+ It's a piece of paper I picked up."
+##
+
+{Gin}
+{SE: Accent21-1}
+#Message#
+"My-my-myow?!
+ This looks...!!"
+##
+
+{Sara}
+#Message#
+\."This is Gin's."
+##
+
+{Gin}
+#Message#
+"Similar, woof! Totally the same, woof!"
+##
+
+{Sara}
+#Message#
+\."Look at this. If you remove the left half..."
+##
+
+#Message#
+"And connect it to the piece I have...!"
+##
+
+{Gin}
+#Message#
+"M-Meow...?!"
+##
+
+#Message#
+\."They connected, woof!!"
+##
+
+{Sara}
+#Message#
+\."These are the same as the sheet
+ Gin showed us in the Main Game...!!"
+##
+
+#Message#
+\.\C[4](And they're not torn up! And it's 4 sheets...!
+ Sixteen people's names...)
+##
+
+#Message#
+\.\C[4](...Sixteen?)
+##
+
+#Message#
+\.\C[4](Four names per page...)
+##
+
+#Message#
+\.\C[4](There are... 20 participants in the Death Game...)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](One sheet... is missing?)
+##
+
+#Message#
+\.\C[4](Hm? And what's this...)
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]9.5% Keiji Shinogi ... \C[2]Ex-Detective
+##
+
+{Sara}
+#Message#
+\.\C[4](Ex... detective...?)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Has Keiji... left the force?)
+##
+
+#Message#
+\.\C[4](What are these rosters...?)
+##
+
+#Message#
+\.\C[4](Who wrote them? What are they trying to say?)
+##
+
+{N/A}
+#Message#
+\.\C[3]I can't be taken in by this.
+It might be a trap.
+##
+
+{Sara}
+#Message#
+\.\C[4](Settle down...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I took a deep breath.
+##
+
+#Message#
+\.\C[3]Once calm, I realized the situation I was in.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's not the time to be looking at these!
+ Where is everyone...?!)
+##
+

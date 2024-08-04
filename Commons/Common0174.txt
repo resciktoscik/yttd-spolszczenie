@@ -1,0 +1,143 @@
+**********Common174********** (ﾅｵ「探索したんです」)
+{Nao}
+#Message#
+"I searched the second floor rooms myself...
+ But sorry... I wasn't able to find
+ anything that seemed important..."
+##
+
+#Message#
+"I searched as best I could!! And I found things!
+ Lots of things...!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Um... So what about that...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Um... Sorry... I don't really follow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"But... I'm begging you... Sara..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao stuck up for me...
+ I want to protect her...!)
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I know I dragged you down...!
+ But... I did give it my all!!"
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."I'm begging you...!
+ Please don't cut me out...!!"
+##
+
+{Sara}
+#Message#
+\."Nao...!"
+##
+
+#Choice#
+Please calm down
+Step back and think
+##
+
+<落ち着いてください>
+
+{Sara} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."Nao, please, you need to be calm.
+ Especially in times like this."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Ahh... ooh..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Sorry..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Maybe she's regained a little composure...?)
+##
+
+<一度考える>
+
+{Sara} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\.\C[4](I'll keep my distance for now.
+ Nao's panicking...!)
+##
+
+<Choice End>
+

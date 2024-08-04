@@ -1,0 +1,88 @@
+**********Common666********** (ｱﾘｽ「ﾅｵの様子」)
+{Alice}
+#Message#
+"If I have to say something...
+ Nao Egokoro's actions had me wondering a bit.
+ She was in the Room of Lies for quite a while."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Hmph... What of that worthless thing?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+"Hmm...? Do you suspect Nao...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"Yet Nao's strangeness is easily explained
+ by the presence of the fake Mishima."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."There is no reason to suspect Nao Egokoro."
+##
+
+{Sara}
+#Message#
+\.\C[4](...He seems to kind of favor Nao.)
+##
+

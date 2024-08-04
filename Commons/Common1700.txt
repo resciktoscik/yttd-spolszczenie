@@ -1,0 +1,91 @@
+**********Common1700********** (・ﾏｲ「ズルしてる」)
+{Mai}
+#Message#
+"\N[4] is cheating!! I'm sure of it!!"
+##
+
+#Message#
+"It's absolutely not right that \N[4]
+ could pick that coffin so easily!!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"What do you mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Mai} [Mai: Looking down at hand, lowered brows, mouth open / cara92-22]
+#Message#
+"What do you mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Mai} [Mai: Worried eyebrows, crying, closed teeth, grim look / cara92-16]
+#Message#
+"He just has to be... Ooogh..."
+##
+
+[Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+"He's cheating...! He must have it rigged somehow!"
+##
+
+{Sara}
+#Message#
+\."Cheating how, though...?"
+##
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."We're all just going to get killed!
+ This isn't even a game at all!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Mai...!)
+##
+

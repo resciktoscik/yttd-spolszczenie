@@ -1,0 +1,168 @@
+**********Common800********** (ｷﾞﾝ「思い出しそう」)
+{Gin}
+#Message#
+"Big sis Sara, your roster's missing the names
+ Kai, Sou, Kugie, Joe, and Nao."
+##
+
+#Message#
+"A roster...? It's reminding me of something, meow..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+"What's this, woof...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"I won't allow rebuttals, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Can Drink was...
+ Alice, Kai, Kazumi, Keiji, Shunsuke,
+ Sou, Naomichi, Mai, Megumi, Reko, Q-taro... meow!"
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\."Can't Drink was...
+ Anzu, Kanna, Gin, Kugie, Sara, Joe,
+ Nao, Hinako, Ranmaru... woof!"
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+"Roster... roster..."
+##
+
+[Gin: Shocked, claws raised / cara9-7]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ahh!! I remembered it, meow!!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."The bar on the first floor, woof!
+ There was a list of names on the blackboard, meow!!"
+##
+
+{Sara}
+#Message#
+\."Now that you mention it, that was a roster too...
+ But I couldn't possibly recall everyone's name..."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."I memorized it, meow!!"
+##
+
+{Sara}
+#Message#
+\."Huh?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Err..."
+##
+
+[Gin: Default / cara9-1]
+#Message#
+\."Can Drink was...
+ Alice, Kai, Kazumi, Keiji, Shunsuke,
+ Sou, Naomichi, Mai, Megumi, Reko, Q-taro... meow!"
+##
+
+#Message#
+\."Can't Drink was...
+ Anzu, Kanna, Gin, Kugie, Sara, Joe,
+ Nao, Hinako, Ranmaru... woof!"
+##
+
+{Sara}
+#Message#
+\."That's amazing, Gin!!"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Easier than learning the prefectures of Japan, meow!"
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+{SE: Accent28-1}
+#Message#
+\."By the way, big sis Sara, your roster...
+ It's missing the names Kai, Sou, Kugie, Joe, and Nao."
+##
+
+{Sara}
+#Message#
+\.\C[4](This is important information...!)
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Ehehe... Was I useful, meow?"
+##
+

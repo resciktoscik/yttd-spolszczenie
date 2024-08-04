@@ -1,0 +1,661 @@
+=====Map86===== (Minigame Mockup)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+Play which game?
+##
+
+#Choice#
+Card Battle
+Memory Dance
+Spirit Shutter
+Arm-Wrestling
+Whack-A-Mole
+Quick Draw
+##
+
+<カードバトルゲーム>
+
+#Message#
+Select a partner.
+##
+
+#Choice#
+Keiji
+Q-taro
+Gin
+Cancel
+##
+
+<ケイジ>
+
+#Message#
+[Keiji]
+Ability: As Keiji, read 2 of opponent's cards
+         once every two turns.
+##
+
+#Choice#
+Go with Keiji
+Cancel
+##
+
+<ケイジと行く>
+
+<やめる>
+
+<Choice End>
+
+<Qタロウ>
+
+#Message#
+[Q-taro]
+Ability: As Q-taro, attack power increases.
+##
+
+#Choice#
+Go with Q-taro
+Cancel
+##
+
+<Qタロウと行く>
+
+<やめる>
+
+<Choice End>
+
+<ギン>
+
+#Message#
+[Gin]
+Ability: As Sara, sometimes encouraged and healed.
+         Can also sometimes heal by touching icon.
+##
+
+#Choice#
+Go with Gin
+Cancel
+##
+
+<ギンと行く>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<記憶ダンスゲーム>
+
+#Message#
+Select a partner.
+##
+
+#Choice#
+Kanna
+Reko
+Gin
+Cancel
+##
+
+<カンナ>
+
+#Message#
+[Kanna]
+Ability: As Kanna, partially remember opponent's moves.
+##
+
+#Choice#
+Go with Kanna
+Cancel
+##
+
+<カンナと行く>
+
+<やめる>
+
+<Choice End>
+
+<レコ>
+
+#Message#
+[Reko]
+Ability: As Reko, remember latter half of moves.
+         Touch icon to perfectly recall just once.
+##
+
+#Choice#
+Go with Reko
+Cancel
+##
+
+<レコと行く>
+
+<やめる>
+
+<Choice End>
+
+<ギン>
+
+#Message#
+[Gin]
+Ability: As Sara, sometimes encouraged and healed.
+         Can also sometimes heal by touching icon.
+##
+
+#Choice#
+Go with Gin
+Cancel
+##
+
+<ギンと行く>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<心霊写真ゲーム>
+
+#Message#
+Select a partner.
+##
+
+#Choice#
+Reko
+Nao
+Alice
+Cancel
+##
+
+<レコ>
+
+#Message#
+[Reko]
+Ability: As Reko, get premonition before ghosts appear.
+##
+
+#Choice#
+Go with Reko
+Cancel
+##
+
+<レコと行く>
+
+<やめる>
+
+<Choice End>
+
+<ナオ>
+
+#Message#
+[Nao]
+Ability: As Nao, blue flames add more to gauge.
+##
+
+#Choice#
+Go with Nao
+Cancel
+##
+
+<ナオと行く>
+
+<やめる>
+
+<Choice End>
+
+<アリス>
+
+#Message#
+[Alice]
+Ability: As Alice, gauge won't decrease.
+##
+
+#Choice#
+Go with Alice
+Cancel
+##
+
+<アリスと行く>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<腕相撲ゲーム>
+
+#Message#
+Select a partner.
+##
+
+#Choice#
+Q-taro
+Keiji
+Alice
+Cancel
+##
+
+<Qタロウ>
+
+#Message#
+[Q-taro]
+Ability: As Q-taro, successful attacks move 2 stages.
+(2x attack power)
+##
+
+#Choice#
+Go with Q-taro
+Cancel
+##
+
+<Qタロウと行く>
+
+<やめる>
+
+<Choice End>
+
+<ケイジ>
+
+#Message#
+[Keiji]
+Ability: As Keiji, stretching of arm gauge slows down.
+##
+
+#Choice#
+Go with Keiji
+Cancel
+##
+
+<ケイジと行く>
+
+<やめる>
+
+<Choice End>
+
+<アリス>
+
+#Message#
+[Alice]
+Ability: As Alice, number of touches required
+         to endure opponent's attacks decreases.
+##
+
+#Choice#
+Go with Alice
+Cancel
+##
+
+<アリスと行く>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<モグラ叩き系ゲーム>
+
+#Message#
+Select a partner.
+##
+
+#Choice#
+Kanna
+Nao
+Gin
+Cancel
+##
+
+<カンナ>
+
+#Message#
+[Kanna]
+Ability: As Kanna, fewer minor enemies.
+##
+
+#Choice#
+Go with Kanna
+Cancel
+##
+
+<カンナと行く>
+
+<やめる>
+
+<Choice End>
+
+<ナオ>
+
+#Message#
+[Nao]
+Ability: As Nao, time limit increases.
+##
+
+#Choice#
+Go with Nao
+Cancel
+##
+
+<ナオと行く>
+
+<やめる>
+
+<Choice End>
+
+<ギン>
+
+#Message#
+[Gin]
+Ability: As Sara, sometimes encouraged and healed.
+         Can also sometimes heal by touching icon.
+##
+
+#Choice#
+Go with Gin
+Cancel
+##
+
+<ギンと行く>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<刹那の見切りゲーム>
+
+#Message#
+Select a partner.
+##
+
+#Choice#
+Kanna
+Sou
+Reko
+Cancel
+##
+
+<カンナ>
+
+#Message#
+[Kanna]
+Ability: As Kanna, get a premonition 1 beat
+         before the mark is displayed.
+##
+
+#Choice#
+Go with Kanna
+Cancel
+##
+
+<カンナと行く>
+
+<やめる>
+
+<Choice End>
+
+<ソウ>
+
+#Message#
+[Sou]
+Ability: As Sou, see what mark the enemy will use
+         before it's displayed.
+##
+
+#Choice#
+Go with Sou
+Cancel
+##
+
+<ソウと行く>
+
+<やめる>
+
+<Choice End>
+
+<レコ>
+
+#Message#
+[Reko]
+Ability: As Reko, slightly increase attack delay.
+##
+
+#Choice#
+Go with Reko
+Cancel
+##
+
+<レコと行く>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<Choice End>
+
+#Choice#
+Wall Mashing Game
+Generator Game
+Stay On Target
+##
+
+<連打で壁破壊ゲーム>
+
+#Message#
+Select a partner.
+##
+
+#Choice#
+Sou
+Q-taro
+Gin
+Cancel
+##
+
+<ソウ>
+
+#Message#
+[Sou]
+Ability: Increases speed of minecart gauge.
+##
+
+#Choice#
+Go with Sou
+Cancel
+##
+
+<ソウと行く>
+
+<やめる>
+
+<Choice End>
+
+<Qタロウ>
+
+#Message#
+[Q-taro]
+Ability: Decreases number of taps necessary.
+##
+
+#Choice#
+Go with Q-taro
+Cancel
+##
+
+<Qタロウと行く>
+
+<やめる>
+
+<Choice End>
+
+<ギン>
+
+#Message#
+[Gin]
+Ability: Increases rate of cart speedups.
+##
+
+#Choice#
+Go with Gin
+Cancel
+##
+
+<ギンと行く>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<発電ゲーム>
+
+#Message#
+Select a partner.
+##
+
+#Choice#
+Keiji
+Kanna
+Alice
+Cancel
+##
+
+<ケイジ>
+
+#Message#
+[Keiji]
+Ability: As Keiji, energy gauges won't decrease
+         when not touching that lever.
+##
+
+#Choice#
+Go with Keiji
+Cancel
+##
+
+<ケイジと行く>
+
+<やめる>
+
+<Choice End>
+
+<カンナ>
+
+#Message#
+[Kanna]
+Ability: As Kanna, charge speed increases.
+##
+
+#Choice#
+Go with Kanna
+Cancel
+##
+
+<カンナと行く>
+
+<やめる>
+
+<Choice End>
+
+<アリス>
+
+#Message#
+[Alice]
+Ability: As Alice, told when to hide slightly early.
+##
+
+#Choice#
+Go with Alice
+Cancel
+##
+
+<アリスと行く>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<滞留エリア限界線>
+
+#Message#
+Select a partner.
+##
+
+#Choice#
+Keiji
+Q-taro
+Nao
+Cancel
+##
+
+<ケイジ>
+
+#Choice#
+Go with Keiji
+Cancel
+##
+
+<ケイジと行く>
+
+<やめる>
+
+<Choice End>
+
+<Qタロウ>
+
+#Choice#
+Go with Q-taro
+Cancel
+##
+
+<Qタロウと行く>
+
+<やめる>
+
+<Choice End>
+
+<ナオ>
+
+#Choice#
+Go with Nao
+Cancel
+##
+
+<ナオと行く>
+
+<やめる>
+
+<Choice End>
+
+<やめる>
+
+<Choice End>
+
+<Choice End>
+

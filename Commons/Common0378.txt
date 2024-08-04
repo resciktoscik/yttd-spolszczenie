@@ -1,0 +1,212 @@
+**********Common378********** (交渉１ー朝　ギン)
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"Big sis Sara... You want tokens, meow?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"I've been told not to do this kind of...
+ trading money stuff, meow."
+##
+
+[Gin: Horrified look / cara9-4]
+#Message#
+\."It's kinda like gambling... It's scary, woof."
+##
+
+[Gin: Smile, hands in front / cara9-5]
+#Message#
+\."So if it'll make you happy, big sis Sara,
+ I'll give you some for free, meow! 10 tokens!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Not a trade... but just giving them...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Woohoo, meow! Big sis Sara took the bait, woof!"
+##
+
+{Sara}
+#Message#
+\."...Haha, you've caught me. So, Gin...
+ You're sure you don't want to trade our tokens?"
+##
+
+{Gin}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yeah! If it'll make you happy, big sis Sara,
+ I'll give you some for free, meow! 10 tokens!"
+##
+
+{Sara}
+#Message#
+\."Hmm... What is it, Gin?
+ You want to trade tokens?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Nah... I've been told not to do this kind of...
+ trading money stuff, meow."
+##
+
+[Gin: Horrified look / cara9-4]
+#Message#
+\."It's kinda like gambling... It's scary, woof."
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."So if it'll make you happy, big sis Sara,
+ I'll give you some for free, meow! 10 tokens!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Not a trade... but just giving them...?)
+##
+
+#Message#
+\.\C[4](Only I get 10 tokens. It's pure gain, but...)
+##
+
+#Choice#
+Accept them
+Hear a request in exchange
+##
+
+<もらっておく>
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+{SE: Accent28-1}
+#Message#
+"You'll take them, meow? Woohoo, woof!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Received 10 tokens from Gin.
+##
+
+{Sara}
+#Message#
+\."You're sure? ...Really sure?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Yeah! Don't make me say it twice, wooooof!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Gin went running off like a dog.
+##
+
+<代わりの要望を聞く>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."What is it, meow?
+ You don't want my tokens, woof...?"
+##
+
+{Sara}
+#Message#
+\."That's not it. It's just this is nothing but a loss
+ for you, Gin. Don't you have some other condition?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Grown-ups are so tiresome, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Well, then... Should I accept Gin's tokens...?)
+##
+
+#Choice#
+Accept
+Don't accept
+##
+
+<もらう>
+
+{N/A} [Gin: Default / cara9-1]
+#Message#
+\C[3]Received 10 tokens from Gin.
+##
+
+{Sara}
+#Message#
+\."...Trade complete."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent21-1}
+#Message#
+\."I broke down big sis Sara's stubborn defenses, woof!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Gin went running off like a dog.
+##
+
+<もらわない>
+
+{Sara} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Even so... You should
+ hold onto your tokens for now, Gin."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\."There might come a time you need them."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Got it, meow. If you say so,
+ then I'll do that, woof!"
+##
+
+<Choice End>
+
+<Choice End>
+
+{Sara} [Gin: Smile / cara9-2]
+#Message#
+\C[4](Well... That's it for negotiations.)
+##
+

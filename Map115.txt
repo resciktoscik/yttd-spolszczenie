@@ -1,0 +1,545 @@
+=====Map115===== (Room of Lies)
+
+**********Event1********** (tukue) (8,5)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]On the table are Clear Chips and a "Web of Happiness."
+##
+
+{Sara}
+#Message#
+\.\C[4](In the final attraction, it may just save your lives.
+ ...What does that mean?)
+##
+
+#Message#
+\.\C[4](It's clearly suspicious... but should we touch it...?)
+##
+
+{N/A}
+#Message#
+\.\C[3]There's a table in the center of the room.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is it... okay to approach?)
+##
+
+#Choice#
+Approach
+Cancel
+##
+
+<近づく>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]I approached and examined the top of the table.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](These are Clear Chips...!)
+##
+
+#Message#
+\.\C[4](And on the right is... a rope?)
+##
+
+{N/A}
+#Message#
+\.\C[3]On top of the plate with the rope-like object on it,
+there was also a note.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]This is the \C[2]Web of Happiness\C[3].
+In the final attraction, it may just save your lives.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](The Web... of Happiness?)
+##
+
+#Message#
+\.\C[4](That's astoundingly suspicious...
+ Is it safe to touch?)
+##
+
+#Choice#
+Take the items
+Cancel
+##
+
+<机の物を手に取る>
+
+<やめる>
+
+{Sara}
+#Message#
+\.\C[4](I shouldn't go carelessly touching them...)
+##
+
+<Choice End>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Reko, let's take the items on the table."
+##
+
+{Reko}
+#Message#
+\."Wait...! In that case, let's do it together."
+##
+
+{Sara}
+#Message#
+\."O-Okay. Well..."
+##
+
+#Message#
+\."Reko, you take the Clear Chips."
+##
+
+{Reko}
+#Message#
+\."Got it."
+##
+
+{Sara}
+#Message#
+\.\C[4](Okay...)
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]I took the Web of Happiness.
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Suddenly, the lights went out.
+##
+
+{Reko}
+{SE: Damage4}
+#Message#
+\.\{\C[10]"WAAAAAAAAAAAAAAAAAAAAGH!!"
+##
+
+{Sara}
+#Message#
+\."Reko...?!"
+##
+
+{Reko}
+{SE: feed1}
+#Message#
+\."Sara!! Run away!!"
+##
+
+{Sara}
+{SE: feed1}
+#Message#
+\."Reko! Reko!!"
+##
+
+#Message#
+\.\C[4](What's happening...?!)
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]I reached for Reko's hand at once and grabbed it.
+##
+
+{Sara}
+{SE: feed1}
+#Message#
+\."Let's run to the exit, Reko!!"
+##
+
+#Message#
+\."*pant*, *pant*...!!"
+##
+
+#Message#
+\."Are you all right, Re...?!"
+##
+
+#Message#
+\."Wha..."
+##
+
+{N/A}
+{SE: horror_piano chord3}
+#Message#
+\.\C[3]Reko's... glove.
+##
+
+{Sara}
+#Message#
+\."Reko...?"
+##
+
+#Message#
+\."She's still in the Room of Lies...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The door is firmly shut.
+##
+
+{Sara}
+#Message#
+\."No..."
+##
+
+#Choice#
+Shout loudly
+Bring someone else
+##
+
+<大きな声で呼ぶ>
+
+{Sara}
+#Message#
+\.\{"REKO!!"
+##
+
+<他の人を連れてくる>
+
+{Sara}
+#Message#
+\.\C[4](I... I need to bring somebody...!!
+ We need to open this door!!)
+##
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\.\{"EEEEEK!!"
+##
+
+{Sara}
+#Message#
+\."...What..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."*pant*...! *pant*...! Scary as SHIT...!
+\! ...Huh?"
+##
+
+{Sara}
+#Message#
+\."A-Are you okay, Reko?!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Uhh..."
+##
+
+[Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."...Y-Yeah! I wasn't scared...!
+ Somethin' the matter, Sara?"
+##
+
+{Sara}
+#Message#
+\."Err... um... As long as you're okay..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Relax. I didn't drop the Clear Chips."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sure enough... She has all six.)
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."I got a cold sweat when it went pitch black...
+\! Don't you tell anybody I was freakin' out."
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder if she doesn't like the dark...)
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."But I wonder what that was...
+ You know, what was the "lie" part."
+##
+
+{Sara}
+#Message#
+\."Hrm..."
+##
+
+#Choice#
+Are the Clear Chips fake?
+The lie is that there's a lie?
+I don't know
+##
+
+<クリアチップが偽物？>
+
+{Sara} [Reko: Looking to side with frown / cara6-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Are these Clear Chips the "lie"?
+ Maybe they're fakes or something..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Y-You serious...? They look real to me, though?!"
+##
+
+<『嘘がある』という嘘？>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I wonder... if saying "there's a lie" is the lie..."
+##
+
+{Reko}
+#Message#
+\."Seriously?!
+ This ain't some trick question for kids..."
+##
+
+<わからない>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."I don't have any idea..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Maybe it was for real just a bonus?
+ Man, that just makes it creepier..."
+##
+
+<Choice End>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Hmm... What are we gonna do
+ with these dubious Clear Chips?"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I was thinking I'd give them to somebody
+ who was having trouble collecting 'em, but..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Sara, you need one?"
+##
+
+{Sara}
+#Message#
+\."Huh...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Look, I get being wary...
+ But you've got a right to have some."
+##
+
+{Sara}
+{SE: heart1}
+#Message#
+\.\C[4](Should I accept this suspicious Clear Chip...?)
+##
+
+#Choice#
+Accept
+Don't need it
+##
+
+<もらう>
+
+{Sara} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent21-1}
+#Message#
+"We both risked life and limb for these...
+ I'll take one."
+##
+
+{N/A}
+{SE: button17}
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."There ya go."
+##
+
+<いらない>
+
+{Sara} [Reko: Smile / cara6-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...Sorry..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Sara..."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Nah, you're right to be apprehensive of these things.
+ I get how you feel."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."...Tell me if there's anything I can do instead.
+ Feel free to count on me, Sara."
+##
+
+<Choice End>
+
+{Sara} [Reko: Smile / cara6-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Hm...? Reko's hand...)
+##
+
+{SE: Accent28-1}
+#Message#
+\."Wait...
+ Is this glove... not yours, Reko?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Hm? What's that...?"
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Reko was already wearing gloves on both hands.
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Yeah... that's mine."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."Why've you got it, Sara?"
+##
+
+{Sara}
+#Message#
+\."When I pulled your hand earlier, I..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Uh, pretty sure nobody pulled my hand..."
+##
+
+{Sara}
+#Message#
+\."What? Then what's this glove?"
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Hmm... Must be one of my spare gloves..."
+##
+
+{Sara}
+#Message#
+\."You have spares? Really?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+{SE: Accent28-1}
+#Message#
+\."Yeah. Ranger put full changes of clothes
+ in our rooms, remember?"
+##
+
+[Reko: Default / cara6-1]
+#Message#
+\."Though I don't remember bringin' this."
+##
+
+{N/A}
+#Message#
+\.\C[3]I gave Reko her glove back.
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Well, thanks, anyhow.
+ ...We should get going, Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](The Room of Lies... just what was it?)
+##
+
+#Message#
+\.\C[4](And this Web of Happiness... what could it be...)
+##
+
+#Message#
+\.\C[4](No use in worrying about it, I guess...)
+##
+
+#Message#
+\.\C[4](Maybe it's about time to do an attraction.)
+##
+
+#Message#
+\.\C[4](...I wonder if Keiji found the culprit.)
+##
+

@@ -1,0 +1,138 @@
+=====Map114===== (★Chapter 1 Summary)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+View the summary of Chapter 1?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+#Message#
+Where... is this place?
+##
+
+#Message#
+\.Am I... inside my memories?
+##
+
+#Message#
+\.Let's remember things one step at a time.
+##
+
+[Sara: Default (no collar) / cara0-1]
+#Message#
+This is me.
+
+My name is \C[2]Sara Chidouin\C[0].
+##
+
+[Joe: Default (no collar) / cara1-1]
+#Message#
+It all began when I was coming home from school
+with my friend \C[2]Jou Tazuna\C[0].
+##
+
+#Message#
+Suddenly, a stalker appeared...
+We ran in fear of being attacked, and arrived home.
+##
+
+#Message#
+But someone was lurking there,
+and knocked us unconscious.
+##
+
+#Message#
+We woke up in an unfamiliar room.
+##
+
+[Sara: Default / cara0-2]
+#Message#
+Tied to beds and with collars put on us,
+we were forced to solve a puzzle for our lives.
+
+That was... the \C[2]First Trial\C[0].
+##
+
+#Message#
+Waiting for us after we got through the trial
+were 9 people of varying age, gender, and occupation.
+##
+
+#Message#
+Still not knowing what was what,
+we all cooperated to escape this place,
+and evaded traps trying to take our lives.
+##
+
+#Message#
+But...
+##
+
+[Miley: Default smile / cara14-1]
+#Message#
+Due to an unfair move from the suddenly-appearing
+Floor Master - \C[2]Sue Miley, the Laughing Doll\C[0]...
+##
+
+#Message#
+Professor \C[2]Kazumi Mishima\C[0]... died.
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+We also met up with a murderer who had been hiding,
+\C[2]Alice Yabusame\C[0]...
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+And began a vote with our lives at stake...
+The \C[2]Main Game\C[0].
+##
+
+#Message#
+Two cards decided our fates...
+The \C[3]Sage\C[0], and the \C[10]Sacrifice\C[0].
+##
+
+[Kai: Looking down and to side, furrowed brow shout, sweating / cara8-13]
+#Message#
+The ones who had them were...
+
+\C[2]Kai Satou\C[0], my stalker who held
+some sort of key to the Death Game, and...
+##
+
+[Joe: Sweating bullets, forced smile / cara1-19]
+#Message#
+My best friend... Joe.
+##
+
+#Message#
+And so Joe was killed... in the cruelest of ways.
+##
+
+#Message#
+In my crumbling heart... someone's voice echoes.
+##
+
+[Kai: Holding up bleeding wrists, smile / cara8-9]
+#Message#
+\C[4]"I entrust them to you... Our regrets, our hopes."
+##
+
+#Message#
+There... my senses gave out again.
+##
+

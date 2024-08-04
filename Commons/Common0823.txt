@@ -1,0 +1,105 @@
+**********Common823********** (ｷﾞﾝ「4人の名前」)
+{Gin}
+#Message#
+"The four not listed are a mix of living people,
+ not-living people, and someone we never met, woof..."
+##
+
+#Message#
+"Kai, Kugie, Joe, and Nao
+ are the four not on the roster, meow!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Meow?! You must be panicking, woof!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"Umm...?! What's this mean, woof?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"Hmmmeow..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: Accent28-1}
+#Message#
+"Since we learned the loner's real name,
+ there's no question it's these four, woof!"
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."But... I dunno what they have in common, meow."
+##
+
+[Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+\."There's a mix of living people... not-living people...
+ and someone we never met, woof..."
+##
+
+{Sara}
+#Message#
+\.\C[4](There must be something in common...)
+##
+

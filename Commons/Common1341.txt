@@ -1,0 +1,218 @@
+**********Common1341********** (21、間違いどす)
+{Sara}
+#Message#
+\C[4](This grass on the building...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Probably just decorative grass."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."Feels kinda... like it'd be easy to climb, y'know?"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Is that how she looks at buildings...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](These two computers in the middle...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Making me remember the bad parts...
+ They're just computer monitors, right?"
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."They were placed back to back so that
+ I could ask questions more easily."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."\N[4] knew everything, after all...
+ An amazing font of knowledge."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."...But he'd shoot glances at me all the time.
+ Such an unfortunate placement..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Nothing much of interest here...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This shelf with tableware on it...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think it just had
+ tableware and stuff in it like I remember, meow."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."I don't really wanna eat in the infirmary
+ since it smells like medicine, woof."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Sounds like nothing of interest...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](These coffee bags on the shelves...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ They just looked like fancy decorations."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."They sold something like coffee powder, but
+ Kanna doesn't drink it, so she wasn't interested..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Doesn't really remember, huh...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](The guard's outfit...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Surprised face / cara11-2]
+#Message#
+\."Ehh...?
+ You want me to check out his fashion?"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Are you a fool? What's stylish about guard uniforms?
+ Plain clothes for a plain man... Peak lameness!"
+##
+
+[Alice: Look to side, angry shout / cara11-15]
+#Message#
+\."85 points...! Don't go belittling fashion,
+ please and thank you!!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](That's kind of a high score, though...?)
+##
+
+<やめる>
+
+<Choice End>
+

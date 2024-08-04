@@ -1,0 +1,18 @@
+**********Common1024********** (①クルマダB選択)
+{N/A}
+#Message#
+"Somethin' like this calls for
+ sockin' it with my fists, right?"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

@@ -1,0 +1,105 @@
+**********Common754********** (ｷﾞﾝ「陰ｷｬ身代説」)
+{Gin}
+#Message#
+"The loner... Could he actually be accomplices
+ with bucket girl and putting on an act, meow?!"
+##
+
+#Message#
+"Is the loner really a \C[5]Commoner\C[0], meow?
+ Should we believe that, woof...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"An important clue, meow? Doesn't look like it, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"I don't think I get it, woof!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"He's definitely thinking of something crafty, meow!!"
+##
+
+[Gin: Worried / cara9-3]
+{SE: Accent28-1}
+#Message#
+"What if it's all the loner lying, woof?"
+##
+
+{Sara}
+#Message#
+\."Well..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+{SE: Accent21-1}
+#Message#
+\."I mean, we know the loner...
+ Him not being able to refute anything is weird, meow."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+"Could it be... He's actually accomplices
+ with bucket girl and putting on an act, meow?!"
+##
+

@@ -1,0 +1,260 @@
+=====Map60===== (Battling Wills)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+\C[3]In front of me were strange desks, about waist-height.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+"...Here we are."
+##
+
+{Sara}
+#Message#
+\.\C[4](Keiji...)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...! You guys... That was fast..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."...Oogh..."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."..."
+##
+
+{Gonbee} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."...Hmph. All of you, so pale..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\.".........."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."...Why... is this happening..."
+##
+
+{N/A}
+#Message#
+\.\C[3]A desperate game is beginning.
+##
+
+#Message#
+\.\C[3]And yet, we just have to play it.
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Eheehee... Ah, so you'll take part after all?"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Miley...!! You...!!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Ahaha... Please take a good look
+ at those desks, everyone."
+##
+
+#Message#
+\."A rather interesting setup, isn't it?"
+##
+
+{SE: Accent21-1}
+#Message#
+\."Eheehee... They are reverse hourglasses.
+ Most curious indeed."
+##
+
+#Message#
+\."When these hourglasses have all reached the top,
+ the discussion will end."
+##
+
+#Message#
+\."You have 70 minutes until the preliminary vote.
+ After that, you can discuss for 20 minutes
+ before the final vote."
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."Well then, shall the discussion begin?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Hold up!! Kanna... Kanna ain't here!!"
+##
+
+{Miley} [Miley: Mouth open / cara14-3]
+#Message#
+\."Oh dear... So some would choose
+ not to take part in something so enjoyable."
+##
+
+{Sara}
+#Message#
+\."H... Hold on!! Kanna... will definitely come!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+{SE: horror_piano chord3}
+#Message#
+\."Time is limited. That is what she chose,
+ and that is the end of the matter."
+##
+
+#Message#
+\."Miss Sara...
+ You haven't made the wrong choice, have you?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Did I... make...\.\. the wrong choice...?)
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+\."Well then, let us start the Main Game!
+\! Everyone, stand at whichever desk you like!"
+##
+
+{N/A}
+#Message#
+\.\C[3]We were urged to head for the desks.
+##
+
+{Miley}
+#Message#
+\."Now then, you seem to be prepared!"
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+\."Let the Main Game begin!"
+##
+
+{???}
+{SE: Accent28-1}
+#Message#
+\."...Please... wait..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+"...U... Um... I'm also..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Kanna...!!"
+##
+
+{Miley} [Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."You are welcomed, Kanna Kizuchi.
+ Regrets... can wait until after taking part.
+ Eheehee..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\.".........."
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+{SE: flash-of-light-3}
+#Message#
+\."Ahaha...! Let this wonderful,
+ wonderful Main Game begin!"
+##
+
+
+**********Event3********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event4********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event5********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event6********** (EV006) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event7********** (りぼるばー) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

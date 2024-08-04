@@ -1,0 +1,216 @@
+**********Common1344********** (24、間違いどす)
+{Sara}
+#Message#
+\C[4](The man's drink...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Sorry... Don't think I remember anything else.
+ Think it was a regular drink."
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Can't really remember as far as
+ what he was drinking."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Coffee... tea... caffe latte...?
+ Nah, maybe it was cocoa..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Shit, I dunno...! Sorry, Sara!!"
+##
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\.\C[4](Is she that stressed about it...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Nervous sweat / cara0-28]
+#Message#
+\C[4](\N[4]'s monitor...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."Making me remember the bad parts...
+ It's just a monitor."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."\N[4] could use a whole bunch at once.
+ ...I have to admit his smarts."
+##
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\.\C[4](I knew as much, but he's no common foe...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Serious look, sweat / cara0-32]
+#Message#
+\C[4](This bottom-right shelf...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."Hmm... I think it was just a bunch of
+ files and stuff like I remember, meow."
+##
+
+[Gin: Worried / cara9-3]
+#Message#
+\."It's not like I really took a close look,
+ so I dunno, woof."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](I guess that's true...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](These little lights on the ceiling...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I don't think there's anything unusual there...
+ They were just electric lights."
+##
+
+[Kanna: Looking down to side with smile / cara3-16]
+#Message#
+\."Mmm... It's hard to remember in detail..."
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](Probably never even gave them any attention...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\C[4](This tableware on the shelves...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ It's just tableware and cups."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."I generally never used it.
+ Why was there tableware there, I wonder?"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Don't tell me... It conceals a massive clue...?!"
+##
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+\.\C[4](I doubt it...)
+##
+
+<やめる>
+
+<Choice End>
+

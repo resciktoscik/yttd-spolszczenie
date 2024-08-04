@@ -1,0 +1,36 @@
+**********Common1722********** (タッチ７)
+{Q-taro}
+#Message#
+"This one's a mystery...
+ A painting of a girl in a middle-school blazer
+ an' gaudy socks, with plain black hair."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Should I have him add this statement...?)
+##
+
+#Choice#
+Add
+Cancel
+##
+
+<加える>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+"Q-taro, please add that to your statement!"
+##
+
+{Q-taro}
+#Message#
+\."You got it!"
+##
+
+<やめる>
+
+<Choice End>
+

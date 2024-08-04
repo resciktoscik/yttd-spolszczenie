@@ -1,0 +1,167 @@
+**********Common1450********** (★ﾊﾞﾄﾙ④流れ)
+{N/A}
+{SE: Machine}
+#Message#
+\C[3]Suddenly, there was a mechanical noise.
+##
+
+{Hayasaka}
+#Message#
+"Ugh...? Huh...?"
+##
+
+[Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+{SE: Accent21-1}
+#Message#
+"O... Owww..."
+##
+
+{Sara}
+#Message#
+\."Are you okay?! And Gin, too...!"
+##
+
+{\N[4]'s Voice}
+#Message#
+\C[6]"Ahh... Hello? Can you hear me...?"
+##
+
+{Sara}
+#Message#
+"\N[4]...?!"
+##
+
+{\N[4]'s Voice}
+{SE: Accent21-1}
+#Message#
+\C[6]"Sooorry!
+ That locker room trap was for an execution, see..."
+##
+
+#Message#
+\.\C[6]"I didn't intend to use it,
+ but it looks like it malfunctioned."
+##
+
+#Message#
+\.\C[6]"I hurried to stop it... Are those two okay?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: sceneswitch2}
+#Message#
+"Gin's... unconscious..."
+##
+
+{\N[4]'s Voice}
+{SE: Accent28-1}
+#Message#
+\C[6]"So he's alive! Oh, goodie!
+ We can still play plenty more!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+"..."
+##
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating / cara94-7]
+#Message#
+\."Gah... What an awful man...!"
+##
+
+{Sara}
+#Message#
+\."How's Gin...?"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."He hit his head on the ceiling pretty hard...
+ But thanks to his hood, the wound's minor."
+##
+
+{SE: Accent21-1}
+#Message#
+\."But if he'd hung for much longer,
+ he would've started to suffocate..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He would've died...)
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, eyes to side / cara91-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."That was no malfunction...
+ He just wants the Dummies to..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Huh?"
+##
+
+{Hinako} [Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."Hey, what do we do with him?
+ Leave him somewhere?"
+##
+
+{Sara}
+#Message#
+\."No!!
+ If an Obstructor finds him, he'll...!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."..."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hayasaka, you carry him."
+##
+
+{Hayasaka} [Hayasaka: Mouth open / cara94-2]
+#Message#
+\."...Me...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."Gin's your boss, right?"
+##
+
+{Hayasaka} [Hayasaka: Default / cara94-1]
+#Message#
+\."..."
+##
+
+[Hayasaka: Mouth open, glancing to side / cara94-3]
+{SE: Accent28-1}
+#Message#
+\."All right... I'll carry Gin and come with you."
+##
+
+[Hayasaka: Teeth clenched, sweating / cara94-4]
+#Message#
+\."...It's safer to be in a group, too."
+##
+
+{Sara}
+#Message#
+\."Understood..."
+##
+
+{Hinako} [Hinako: Furrowed brow / cara93-9]
+#Message#
+\.".........."
+##
+

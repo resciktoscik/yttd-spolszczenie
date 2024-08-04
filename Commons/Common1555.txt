@@ -1,0 +1,118 @@
+**********Common1555********** (ターン電撃)
+<If Switch #21 (★アンズ生存ルート) is OFF>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is OFF>
+
+<Condition End>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]The given number of people received shocks.
+##
+
+{Sara} [Sara: Tired eyes, mouth open / cara0-6]
+#Message#
+\SP[15]"No... more..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\SP[15]"I'm... sor... ry..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\SP[15]"Vision's... going black..."
+##
+
+<Condition End>
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\SP[15]"...done... for..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\SP[15]"I'm at... my limit..."
+##
+
+<Else>
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\SP[15]"I can't... stand it... any..."
+##
+
+<Condition End>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\SP[15]"...Mya...? It's going... dark..."
+##
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\SP[15]"I can't... do this..."
+##
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Kurumada} [Kurumada: Fatally damaged, angry, clenched teeth / cara95-31]
+#Message#
+\SP[15]"No good... I'm in... no state to..."
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+\SP[15]"Sor... ry... I..."
+##
+

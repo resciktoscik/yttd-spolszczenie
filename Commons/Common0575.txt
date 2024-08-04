@@ -1,0 +1,353 @@
+**********Common575********** (交渉２－朝　ソウカンナ)
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"Sara, this isn't a token trade,
+ but would you talk with Sou and I?"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+"I've more or less gotten back in good health.
+ Miss Sara, I wanna talk if you have time."
+##
+
+{Sara}
+#Message#
+\.\C[4](With three of us, it should be safe...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Hands in front closed-eye smile / cara3-19]
+{SE: Accent28-1}
+#Message#
+\."Hooray! Thank you so much!"
+##
+
+{Sara}
+#Message#
+\."Sou... Have your memories come back...?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."N... Nah. But I heard about most things from Kanna..."
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."I guess I was hit in a pretty bad spot.
+ ...I wonder who attacked me..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He really insists... on saying he was attacked.)
+##
+
+#Message#
+\.\C[4](If Sou is telling the truth, then...)
+##
+
+#Message#
+\."Would the person who destroyed the first monitor
+ and your attacker be the same, I wonder?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."...Yeah, I wonder..."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."When the monitor was broken...
+ there were wood chips on the floor nearby."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+\."And I was hit with a plank of wood...!"
+##
+
+{Sara}
+#Message#
+\."Then... What about Mishima's monitor?"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."It'd be typical to assume
+ that was the same person, huh?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Kanna and Sou stuck together.
+ They didn't go to the monitor room,
+ so they didn't see the culprit, but..."
+##
+
+{Sara}
+#Message#
+\.\C[4](So at the very least, it wasn't Sou
+ who broke Professor Mishima's monitor?)
+##
+
+#Message#
+\.\C[4](But as for the first one...
+ Only someone who wasn't with the group
+ at the time could have destroyed it.)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Surely... that could only be Sou...)
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Sure enough... One of us destroyed it, huh?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."But there isn't anyone, is there...?"
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+\."Anyone besides us..."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Do you mean... other survivors?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."N-No... Kanna was thinking..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent21-1}
+#Message#
+\."About people on the kidnappers' side."
+##
+
+[Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."We don't know how many kidnappers there are."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."Ranger and Safalin called themselves Floor Masters,
+ but if there are others lurking... We wouldn't know."
+##
+
+{Sara}
+#Message#
+\.\C[4](...She's right.)
+##
+
+#Message#
+\.\C[4](If there were mysterious others in the shadows,
+ then any amount of reasoning would be pointless...)
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."But would the kidnappers destroy
+ one of the monitors they themselves prepared?"
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Ah..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."I get that you don't want to suspect your allies.
+ But one of us nine... must've done it."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."I..."
+##
+
+[Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+\."I'm praying it wasn't miss Sara."
+##
+
+{Sara}
+#Message#
+\."Wha?! What are you talking about...?!"
+##
+
+#Message#
+\."I couldn't do something like that!"
+##
+
+{Kanna} [Kanna: Angry shout (lightless eyes) / cara3-14]
+#Message#
+\."That's right! Apologize to her, Sou!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."..."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."...S-Sorry."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Sou... You suspect a little too much."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+\."If you can't trust anyone... it's all over..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Still, Sou's line of thinking...
+ is certainly one possibility."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Sara...! But..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Kanna, if you're saying that..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."Does that mean you trust me...?"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\.".........."
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+\."Kanna..."
+##
+
+[Kanna: Offended shout / cara3-13]
+#Message#
+\."Kanna trusts you, Sou."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."...Eh...?"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."You've lost your memory now, Sou, but...
+ In the Main Game, you were really terrifying."
+##
+
+[Kanna: Default look / cara3-10]
+#Message#
+\."But... Kanna thinks..."
+##
+
+[Kanna: Offended shout / cara3-13]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If you weren't there...
+ maybe we would have all died..."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\.".........."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."It's clear... that you were very serious, Sou..."
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Sou, please, tell me."
+##
+
+#Message#
+\."Just what mindset are you operating under?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."..."
+##
+
+[Sou: Closed-eyes smile / cara5-3]
+{SE: Accent28-1}
+#Message#
+\."...The same as everyone else's."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."We've been going on a little long, huh?
+ Kanna, let's go."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Huh...? H-Hold on..."
+##
+
+{Sara}
+#Message#
+\C[4](He ran away from me...)
+##
+
+#Message#
+\.\C[4](Well... That's it for discussions.)
+##
+

@@ -1,0 +1,328 @@
+**********Common218********** (⑩カイの脅迫)
+{Kai}
+#Message#
+".........."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+{SE: Accent28-1}
+#Message#
+\."I remember now... Kai said he'd defend me
+ on the condition that he received the laptop."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Y'oughta remember the important part first!!"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."She lost herself enough to knock a dude out!
+ 'Course her memory's gonna be fuzzy!!"
+##
+
+{Nao} [Nao: Closed eyes / cara7-16]
+#Message#
+\."I-I'm sorry...
+ But... now I remember it clearly..."
+##
+
+{Kai}
+#Message#
+\."...Do you understand, miss Nao?"
+##
+
+#Message#
+\."Please retrieve the laptop
+ from Sou in the hidden room."
+##
+
+{Nao}
+#Message#
+\."I-I can't...!
+ If he sees me, he'll call for Sara!"
+##
+
+{Kai}
+#Message#
+\."Then you may borrow my frying pan.
+ Approach from behind... Understand?"
+##
+
+#Message#
+\."Do not worry. Your strength is such that
+ even a forceful whack with this will not kill."
+##
+
+{Nao}
+#Message#
+\."...But..."
+##
+
+{Kai}
+#Message#
+\."If you refuse, I will hand this key to someone else."
+##
+
+{Nao}
+#Message#
+\."...That's...!"
+##
+
+{Kai}
+#Message#
+\."Please, miss Nao. I am not the only one who will be
+ in trouble if I do not get that laptop."
+##
+
+[Joe: Furrowed brow / cara1-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Miss Sara... will be as well."
+##
+
+{Joe}
+#Message#
+\."Sara...?!"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."But... That was all a lie, wasn't it..."
+##
+
+[Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."Kai didn't keep his promise!!
+ Kai... must the one who took the professor away!!"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+\."Might not... necessarily be a lie, actually."
+##
+
+{Sara}
+#Message#
+\."Huh?!"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."The laptop is password-locked.
+ Considering that, why do you think Kai
+ would be so serious about taking it?"
+##
+
+{Sara}
+#Message#
+\."Because..."
+##
+
+#Choice#
+He had a way to bypass it
+He needed the laptop battery
+The password was easy to guess
+##
+
+<解除せず見る方法があった>
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."Could that be done with some special device...?
+ Well, there's nothing like that here, so."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."It's actually a much more laughable reason..."
+##
+
+<パソコンの予備電力に用があった>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."The battery...! With that battery,
+ he could cook wit' \C[2]an induction cooker\C[0]...!!
+ That's what homemaker Kai had his eye on!!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Yep, you're completely wrong."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."But see, it actually is a pretty stupid answer."
+##
+
+<パスワードが適当だった>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Ahaha, what a stupid explanation!"
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."But... it's actually the correct one."
+##
+
+{Kai} [Kai: Lowered eyebrows / cara8-3]
+#Message#
+\."...!"
+##
+
+<Choice End>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\."The password was easily guessable."
+##
+
+{Kai} [Kai: Looking down and to side / cara8-6]
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Wait, if you know that... You unlocked it?!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."Of course!"
+##
+
+{Sara}
+#Message#
+\."Wha?!
+ Didn't you say you couldn't see anything?!"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Yeah, but that was a lie."
+##
+
+{Sara}
+#Message#
+\.\C[4](Another... another lie...?!)
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."See, the password..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Was \C[2]"chidouin."\C[0]"
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh...?)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."It's \C[2]Chidouin\C[0]?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What a... bizarre... lie...)
+##
+
+{Sou} [Sou: Smile / cara5-2]
+#Message#
+\."Sorry to say, but it's true.
+ I tried typing in everyone's names..."
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."And my last attempt... was trustworthy miss Sara's
+ last name, Chidouin... Imagine my shock."
+##
+
+{Sara}
+#Message#
+\."I...!
+ I've never seen that laptop in my life!!"
+##
+
+{Sou}
+#Message#
+\."Of course I know this isn't your laptop, miss Sara."
+##
+
+{Sara}
+#Message#
+\."Then...!!"
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."It's Kai's.
+ ...Isn't it?"
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\.".........."
+##
+
+#Message#
+\."You... read the emails?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."So... you admit it."
+##
+
+{Sara}
+#Message#
+\.\C[4](What in the world is this...?)
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."I wanted to read them all.
+ If only miss Nao hadn't whacked me... urgh..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Well now, what did they say...?"
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."I remember them well..."
+##
+
+[Sou: Smile / cara5-2]
+{SE: Accent28-1}
+#Message#
+\.""As planned, 17 people have been secured."
+ ...That's what it said."
+##
+
+{Kai} [Kai: Default / cara8-1]
+#Message#
+\."..."
+##
+

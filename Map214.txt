@@ -1,0 +1,1779 @@
+=====Map214===== (Final Chapter Part One OP4)
+
+**********Event1********** (ohaka) (8,2)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]There's a long, narrow stone, brightly illuminated.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's hard to judge how far away it is...
+ But it seems pretty big.)
+##
+
+#Choice#
+A grave?
+Have someone investigate
+Let's pull it out
+##
+
+<お墓？>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Is that... a grave?"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."A grave? I wonder whose..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent28-1}
+#Message#
+"From the looks of it... I'd agree."
+##
+
+{Sara}
+#Message#
+\."...Sou."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."Gotta admit, this place isn't exactly
+ bright enough to navigate alone."
+##
+
+<Condition End>
+
+<誰かに調べてもらう>
+
+{Sara} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Could somebody investigate it?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Okie-dokie. Mr. Policeman'll go check it out."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{N/A}
+#Message#
+\.\C[3]Keiji began carefully inspecting it.
+##
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+"Hmm... Seems like a stone monument."
+##
+
+<Else>
+
+{Voice}
+{SE: se_maoudamashii_magical14}
+#Message#
+"No need for that."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: Accent28-1}
+#Message#
+"It's what it looks like... A stone monument."
+##
+
+{Sara}
+#Message#
+\."...Sou."
+##
+
+{Sou}
+#Message#
+\."Gotta admit, this place isn't exactly
+ bright enough to navigate alone."
+##
+
+<Condition End>
+
+<引っこ抜こう>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Okay... Let's pull it out by force."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{N/A}
+#Message#
+\.\C[3]But the stone doesn't budge.
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+"Ain't that a stone monument...?
+ You'll get cursed or summat, Sara."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent28-1}
+#Message#
+"Your ideas are truly wild, miss Sara."
+##
+
+{Sara}
+#Message#
+\."...Sou."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."No buts about it, that's a stone monument."
+##
+
+<Condition End>
+
+<Choice End>
+
+{Sara} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Still... What is this doing here?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."No kiddin'... When you play with people's lives,
+ trying to respect the dead don't mean shit!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."Hmph... Perhaps provocation from the kidnappers?
+ Implying we'll be buried here and such..."
+##
+
+<Condition End>
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."...?!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Another light came on, meow!!"
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A stone monument, brightly illuminated.
+##
+
+
+**********Event16********** (midori) (0,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Some sort of coffin.
+##
+
+#Message#
+\C[3]A large box of some sort.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+"This box is even bigger than Q-taro..."
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"...That box's even bigger'n me."
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\.\C[4](Surely this isn't...)
+##
+
+#Choice#
+A coffin
+A treasure chest
+A bento box
+##
+
+<ヒツギだ>
+
+{Sara} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"It's... a coffin."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Wha...?! Ya don't think... there's someone inside?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Don't be ridiculous!! Whose body would be...?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Ridiculous... Whose body, exactly...?"
+##
+
+<Condition End>
+
+<宝箱だ>
+
+{Sara} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"It's... a treasure chest."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+"Optimistic as ever, eh, Sara?"
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."Definitely won't have anything good inside, meow..."
+##
+
+<お弁当箱だ>
+
+{Sara} [Gin: Looking up, sad, grave look / cara9-13]
+{SE: Onmtp-Surprise03-1}
+#Message#
+"It's... a bento box."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"W-What's the meaning of this...?!"
+##
+
+{Sara}
+#Message#
+\."I don't know...
+ But it might be packed to the brim with rice..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."That'd be pretty incomprehensible
+ an' scary in its own right..."
+##
+
+<Else>
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"S... Sara...?!"
+##
+
+{Sara}
+#Message#
+\."...Is something the matter?"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Ah, err... nothin', I guess.
+ You take yer time gettin' back on your feet, Sara..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Joking around just got him worried about me...)
+##
+
+<Condition End>
+
+<Choice End>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.\C[4](I wonder... Should I open this thing...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Some sort of coffin.
+##
+
+#Message#
+\C[3]A very large box.
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I open it...?)
+##
+
+#Choice#
+Open
+Cancel
+##
+
+<開ける>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]I slowly slid open the lid.\.\.\.\.
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](It's...!!)
+##
+
+{Q-taro}
+#Message#
+\."A person!! There's a person in here!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](But who...?)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko}
+#Message#
+"This guy...?!"
+##
+
+<Else>
+
+{Alice}
+#Message#
+"Unthinkable... That's...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{SE: Thunder10}
+#Message#
+\."The real Sou Hiyori, is it not?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou}
+#Message#
+\."...!!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Meow?! There's another box now, woof!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."What in the world... Wha's goin' on...?"
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]Inside the coffin is a man with green hair.
+##
+
+{Sara}
+#Message#
+\.\C[4](Just who is he...?!)
+##
+
+#Message#
+\.\C[4](Should I check him again...?)
+##
+
+#Choice#
+Touch the body
+Look for oddities
+Cancel
+##
+
+<体に触ってみる>
+
+{Sara}
+#Message#
+\C[4](I'll try touching it...)
+##
+
+<気になる所を探す>
+
+{Sara}
+#Message#
+\C[4](Is there anything of interest...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\.\C[3]I slowly slid open the lid.\.\.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Are there any places that look suspect...?!)
+##
+
+#Message#
+"GaaahhhHHH?!"\.
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"Big sis Sara!! What happened, woof?!"
+##
+
+{Sara}
+#Message#
+\."Get away...! That person... moved!!"
+##
+
+-----Page4-----
+{N/A}
+#Message#
+\C[3]Inside the coffin is a man with green hair.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's dangerous to approach...!!)
+##
+
+
+**********Event17********** (hayasaka) (1,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Some sort of coffin.
+##
+
+#Message#
+\C[3]A very large box.
+##
+
+{Sara}
+#Message#
+\.\C[4](Should I open it...?)
+##
+
+#Choice#
+Open
+Cancel
+##
+
+<開ける>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]I slowly slid open the lid.\.\.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](Sure enough, someone's in here...!)
+##
+
+{Gin}
+#Message#
+"Meooow?! This glasses guy...
+ I've seen him somewhere, woof!"
+##
+
+{Sara}
+#Message#
+\."That victim video...!
+ He's someone who died in the \C[2]First Trial\C[0]!!"
+##
+
+{Gin}
+#Message#
+\."That's right, meow... An axe... came at his head..."
+##
+
+{Keiji}
+#Message#
+"And yet..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Not a single visible wound, huh?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Huoooh?! A whole bunch of coffins...!!"
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Some sort of coffin.
+##
+
+#Message#
+\.\C[3]Inside is a man wearing glasses.
+##
+
+{Sara}
+#Message#
+\.\C[4](This guy was in that victim video...!)
+##
+
+
+**********Event18********** (kurumada) (3,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Some sort of coffin.
+##
+
+#Message#
+\.\C[3]Inside is a man with blue hair.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+"Is this guy a victim of the First Trial too...?"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+"...He's not breathing."
+##
+
+<Condition End>
+
+
+**********Event19********** (anzu) (4,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Some sort of coffin.
+##
+
+#Message#
+\.\C[3]Inside is a girl wearing a hood.
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"I think I've seen this hood..."
+##
+
+
+**********Event20********** (hinako) (5,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Some sort of coffin.
+##
+
+#Message#
+\.\C[3]Inside is a girl with pink hair.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"S... She looks about Kanna's age..."
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+".........."
+##
+
+<Condition End>
+
+
+**********Event21********** (ranmaru) (6,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Some sort of coffin.
+##
+
+#Message#
+\.\C[3]Inside is a boy wearing a school uniform.
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Meow... Respond if you're alive, woof..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\."Gin..."
+##
+
+
+**********Event22********** (EV022) (1,0)
+-----Page3-----
+{N/A}
+{SE: Battle1}
+#Message#
+"Nice to meet you, miss Sara."
+##
+
+{Sara}
+#Message#
+"...!!"\.\.
+##
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."Ahaha. Sorry to pop out of the darkness.
+ Did I startle you, I wonder?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Y... Ya mean you weren't a corpse?!"
+##
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."As you can see, I'm super duper.
+ So, did you enjoy it?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."As if anybody'd enjoy that!
+ The hell's wrong with you?!"
+##
+
+<Else>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Who the hell's gonna enjoy that?!
+ Jes' who or what are you?!"
+##
+
+<Condition End>
+
+{Green-Haired Man} [Midori: Open-mouth frown / cara19-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Huh...? So sure enough, you don't remember..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: flash-of-light-3}
+#Message#
+\."That's perfectly fine, though!
+ I'm your Floor Master this time! Hello!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent21-1}
+#Message#
+\."Floor Master, you say...?"
+##
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Yep! I waited for 5 hours in that coffin!
+ It's so cruel of you guys to keep me in suspense!"
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."Now now, gather closer to me!"
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: sceneswitch2}
+#Message#
+\."Heeheehee... You too, \C[2]Shin\C[0]... Come on."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."..."
+##
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."And you, Alice... my murderer."
+##
+
+<If Switch #822 (★ソウ生存ルート) is ON>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: shock1}
+#Message#
+\."As I thought... You're the real Sou Hiyori...!!"
+##
+
+<Else (Switch #822 (★ソウ生存ルート))>
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."As I thought, you're...!!"
+##
+
+<Condition End (Switch #822 (★ソウ生存ルート))>
+
+<Condition End (Switch #641 (★アリス生存ルート))>
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."There's no time. I need to introduce you..."
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent28-1}
+#Message#
+\."To the dolls who will be supporting you!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Nwah?! Whoa, nelly...!!"
+##
+
+{Hooded Girl} [Anzu: Worried / cara96-2]
+{SE: Accent21-1}
+#Message#
+\."Ooooh... Just the worst way to wake up..."
+##
+
+{Boy in Uniform} [Ranmaru: Hand tilted, eyes to side, mouth open / cara91-10]
+#Message#
+\."Can't stand it...
+ We have to support these guys...?"
+##
+
+{Blue-Haired Man} [Kurumada: Grin / cara95-3]
+#Message#
+\."Bwahaha... Well, fine by me.
+ So? Which of you's my partner?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Partner...?"
+##
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Ahem! That should be "master," you know?
+ You guys are the supports, after all."
+##
+
+{Sara}
+#Message#
+\."H-Hold on! Supports? Aren't these...?!"
+##
+
+{Green-Haired Man} [Midori: Default grin / cara19-2]
+{SE: Accent11-1}
+#Message#
+\."Ahaha, I'll introduce you.
+ They're known as the \C[2]Dummies\C[0]."
+##
+
+{SE: Accent21-1}
+#Message#
+\."They're the tragic victims
+ who died before they could meet anyone..."
+##
+
+{Woman With Big Hat} [Mai: Mouth open / cara92-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Eeeee! Sara, you're just so cuuute!
+ Relax! We're on your side!"
+##
+
+{Sara}
+#Message#
+\.\C[4](She knows my name...!)
+##
+
+{Green-Haired Man} [Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+\."Naturally, they're dolls...
+ So they got the necessary info input in advance."
+##
+
+{Man With Glasses} [Hayasaka: Mouth open, glancing to side / cara94-3]
+#Message#
+\."T... This is desecration of the dead...
+ Let me go back home..."
+##
+
+{Pink-Haired Girl} [Hinako: Mouth open / cara93-2]
+#Message#
+\."It's no use struggling now..."
+##
+
+{Green-Haired Man} [Midori: Default grin / cara19-2]
+{SE: sceneswitch2}
+#Message#
+\."This time, we'll be having you make pairs
+ with the Dummies to take on a game!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Pairs...?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Pairs, you say...?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Now, Red Thread of Fate... activate!"
+##
+
+{Sara}
+#Message#
+\."...? My collar...?"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."What's this?!"
+##
+
+{Green-Haired Man}
+{SE: Accent28-1}
+#Message#
+\."The people connected by the Red Thread of Fate
+ are the pairs for this game!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Blue-Haired Man} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+\."A kid...? Alright then, I'll protect you.
+ ...I'm \C[2]Kurumada\C[0]."
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."A... Aah..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Blue-Haired Man} [Sou: Looking down to side, glancing with frown / cara5-17]
+{SE: Accent21-1}
+#Message#
+\."Bwahaha... Good to meet you.
+ ...I'm \C[2]Kurumada\C[0]."
+##
+
+{Sou} [Sou: Looking down to side, sighing / cara5-19]
+#Message#
+\."...Same here."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Woman With Big Hat} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: flash-of-light-3}
+#Message#
+\."Eeeee! So Q-taro's my master!
+ My name's \C[2]Mai\C[0]! Let's get along!"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."S-Sure...
+ 'Zat the right mood to be in...?"
+##
+
+{Pink-Haired Girl} [Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...\C[2]Hinako\C[0]."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Middle-schooler or so? Must be rough..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Hooded Girl} [Reko: Default / cara6-1]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Err... Reko, isn't it?
+ I'm \C[2]Anzu\C[0], a high-schooler."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Right. Dunno what's going on, but...
+ Nice to meetcha."
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Hooded Girl} [Alice: Default glare / cara11-1]
+#Message#
+\."Waugh, my partner's a murderer?!
+ \!I... I'm \C[2]Anzu\C[0]... Be gentle... Ahaha..."
+##
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent21-1}
+#Message#
+\."...Hmph. Murderer...?
+ It hurts to hear it said to my face... Quit it."
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Man With Glasses} [Gin: Default / cara9-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I'm \C[2]Hayasaka\C[0].
+ H... Hoo boy... A kid, huh..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I'm the one who's worried, woof!!"
+##
+
+{Boy in Uniform} [Sara: Default / cara0-2]
+{SE: Accent28-1}
+#Message#
+\."...Uhh, Sara, was it?
+ I'm \C[2]Ranmaru\C[0]. I'm in high school like you."
+##
+
+{Sara}
+#Message#
+\.\C[4](A high school student...)
+##
+
+#Choice#
+Nice to meet you
+...
+Trade, please
+##
+
+<よろしく>
+
+{Sara} [Sara: Default / cara0-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...Nice to meet you."
+##
+
+{Ranmaru} [Ranmaru: Hand up, mouth closed / cara91-2]
+#Message#
+\."...Yeah."
+##
+
+<……>
+
+{Sara} [Sara: Default / cara0-2]
+#Message#
+".........."
+##
+
+{Ranmaru} [Ranmaru: Hand up, eyes to side, mouth open / cara91-3]
+#Message#
+\."S-Say somethin'... This is awkward..."
+##
+
+<チェンジで>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: flash-of-light-3}
+#Message#
+"I'd like to request a trade!"
+##
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, closed teeth / cara91-7]
+#Message#
+\."Huh?! Damn, don't reject me immediately!!"
+##
+
+<Choice End>
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."How nice! Everyone looks like they'll get along!"
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."Well, lastly... I'll introduce myself too."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: shock1}
+#Message#
+\."I'm a poor doll killed by the murderer Alice Yabusame,
+ \C[2]Sou Hiyori\C[0]!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Green-Haired Man}
+#Message#
+\."Of course...
+ Sou Hiyori is a name of the past to me now..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+[Midori: Default grin / cara19-2]
+{SE: Accent28-1}
+#Message#
+\."Seeing as Shin used it with such care.
+ I'm not going to just claim that name now!"
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.".........."
+##
+
+{Sara} [Sou: Mouth open / cara5-1]
+#Message#
+\.\C[4](Shin Tsukimi...
+ That's the real name of the Sou we know.)
+##
+
+#Message#
+\.\C[4](So he took the alias of "Sou Hiyori" from this guy...)
+##
+
+{Green-Haired Man} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."Poor Shin... I'm truly, truly sad, I am."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"Since he was going to die anyway,
+ I wanted to kill him with my own hands..."
+##
+
+{Kanna} [Kanna: Angry shout / cara3-23]
+#Message#
+\."H... How can you say that?!"
+##
+
+{Green-Haired Man} [Midori: Default grin / cara19-2]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Ahaha, don't get so mad.
+ You all can't understand my affection."
+##
+
+{Sara}
+#Message#
+\.\C[4](This person... He's a little like Sou...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](But something is distinctly different...!!)
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Green-Haired Man}
+{SE: Accent28-1}
+#Message#
+\."Seeing as Shin's using it with such care.
+ I'm not going to ask him to give it back now!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shin Tsukimi...
+ That's the real name of the Sou we know.)
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\.\C[4](So he took the alias of "Sou Hiyori" from this guy...)
+##
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+\."Hey, Shin... It was a pity about Kanna..."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."...Shut up."
+##
+
+{Green-Haired Man} [Midori: Closed-eyes grin / cara19-4]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."You've got such a wonderful look on your face now...
+ Ahaha..."
+##
+
+{Sou} [Sou: Grave glare / cara5-5]
+{SE: sceneswitch2}
+#Message#
+\."I don't care about you. You're just an enemy."
+##
+
+{Green-Haired Man} [Midori: Default grin / cara19-2]
+#Message#
+\."...I see you've grown."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Anyway, it'll be inconvenient without a nickname."
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."Hey, miss Sara. You act as a representative
+ and give me a new name!"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+"Huh? Were you even listening, I wonder...?
+ I won't use Sou Hiyori anymore."
+##
+
+#Message#
+"Hiyori won't do either. Doesn't it make me seem
+ like I'm still clingy about my old name?"
+##
+
+#Message#
+"I gave Sou to Shin.
+ He's already Sou by now, you see."
+##
+
+#Message#
+"You want to give me the same name as you...?
+ How disgusting, miss Sara."
+##
+
+#Message#
+"Ahaha, like I'm your brother-in-law? No thanks.
+ Pick another name."
+##
+
+#Message#
+"If you'll remember, Sara Chidouin is you!"
+##
+
+#Message#
+"...Joe was such a cheerful and kind boy...
+ It's really a shame."
+##
+
+#Message#
+"Tazuna is Joe's surname.
+ Naturally, I have to decline."
+##
+
+#Message#
+"There was a survivor named Joe Tazuna...
+ ...Did you forget that? Pick another name."
+##
+
+#Message#
+"Ahaha, you're making Mr. Policeman blush!
+ ...Just kidding. Pick another name."
+##
+
+#Message#
+"Shinogi is Keiji's surname.
+ Naturally, I have to decline."
+##
+
+#Message#
+"Keiji Shinogi...?
+ I'm not fond of sounding like a ladykiller.
+ Pick another name."
+##
+
+#Message#
+"Poor Kanna'd weep! I think a more worthless name
+ would be better for someone like me."
+##
+
+#Message#
+"Kizuchi is Kanna and her sister's surname.
+ Naturally, I have to decline."
+##
+
+#Message#
+"Kanna Kizuchi...? Sorry, I don't have a bucket.
+ Pick another name."
+##
+
+#Message#
+"Ahaha, Q-taro is a name for gorillas only.
+ I'd prefer a more spindly name."
+##
+
+#Message#
+"Burgerberg is Q-taro's surname.
+ Naturally, I have to decline."
+##
+
+#Message#
+"Q-taro Burgerberg... It's just too long.
+ Pick another name."
+##
+
+#Message#
+"Reko...? Only sisterly bongo players get that name.
+ Pick another name."
+##
+
+#Message#
+"Yabusame's the surname of the one who killed me!
+ Naturally, I have to decline."
+##
+
+#Message#
+"Reko Yabusame...? Nah, I'm not a band girl.
+ Pick another name."
+##
+
+#Message#
+"Yes, I am Kai! ...Nope, I'm not.
+ It'd be inexcusable for me to use that name."
+##
+
+#Message#
+"Ahaha, no way. As I see it,
+ Satou's the same surname Gashu has."
+##
+
+#Message#
+"Kai Satou...? I don't think I can cook very well.
+ Pick another name."
+##
+
+#Message#
+"Nao was a kind and heartfelt girl.
+ It's cruel to die before seeing adulthood..."
+##
+
+#Message#
+"Egokoro is Nao's surname.
+ Please repent, and rethink it."
+##
+
+#Message#
+"Nao Egokoro...?
+ I like sculpting more than drawing.
+ Pick another name."
+##
+
+#Message#
+"I'm not Gin, meow! Woof woof!
+ ...Just kidding. Pick another name."
+##
+
+#Message#
+"Ibushi is Gin's surname.
+ Think it over again, woof."
+##
+
+#Message#
+"Gin Ibushi...?
+ I'm a grown-up, so I can't go imitating a cat.
+ You should pick another name."
+##
+
+#Message#
+"That's not funny. He killed me.
+ And I'm mad, believe it or not."
+##
+
+#Message#
+"Alice Yabusame...? I do really hate him, personally,
+ but I'm on the job here. Just pick another name."
+##
+
+#Message#
+"Ahaha, Miley, huh? I think she's pretty,
+ but her personality's scary. Pick another name."
+##
+
+#Message#
+"Ahaha, Gashu? I could never grow
+ such a stupendous crabstache. Pick another name."
+##
+
+#Message#
+"Ranger... Wasn't there a doll named Rio Ranger?
+ We're not the same model number, so quit it."
+##
+
+#Message#
+"Laizer... Wasn't there a doll named Rio Laizer?
+ That's rude to Safalin, so quit it."
+##
+
+#Message#
+"There's already a doll named Rio Ranger...
+ I'd be fine with Rio, though. Rethink it."
+##
+
+#Message#
+"There's already a doll named Rio Laizer...
+ I'd be fine with Rio, though. Rethink it."
+##
+
+#Message#
+"Safalin... She looks kind of scary, huh?
+ Ahaha. Pick another name."
+##
+
+[Midori: Open-mouth frown / cara19-3]
+#Message#
+"...Pick another name."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+"\C[2]\N[4]\C[0]... That's a good name.
+ You sure you want to name me that?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+"Thanks. I'm glad to get such a wonderful name!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."So? What're you going to make us do this time...?"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Ahaha, you just can't wait, can you?"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: flash-of-light-3}
+#Message#
+\."Relax! It's a very simple bonus game!"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: horror_piano chord3}
+#Message#
+\."You just have to join forces to \C[10]kill\C[0] a certain target.
+ That is to say, it's a hunt!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Wha...?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."You can use any method! Shooting, stabbing,
+ striking, strangling, anything goes!"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."It should be a piece of cake for you guys
+ who've killed a bunch of people, albeit indirectly!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Cut the crap!! Kill...? Who?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."Who exactly do we...?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: shock1}
+#Message#
+\."Your target is \C[2]Keiji Shinogi\C[0]...\! nooot!"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Did I make your heart skip a beat, miss Sara?!
+ Obviously that's a joke!
+ I wouldn't make you kill your allies!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Choice#
+Move it along
+How annoying
+Ya got me!
+##
+
+<話を進めて>
+
+{Sara} [Midori: Closed-eyes grin / cara19-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Alright, already. Just move it along."
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\."Serious, huh? I'd say that's a good thing."
+##
+
+{Sara}
+#Message#
+\.\C[4](I can't let myself get caught up in his tricks...)
+##
+
+<うっとうしい>
+
+{Sara} [Midori: Default grin / cara19-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."For a Floor Master, you're pretty meddling."
+##
+
+{\N[4]}
+#Message#
+\."Miley did tell me you were cute
+ when you got mad, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!)
+##
+
+<騙された>
+
+{Sara} [Midori: Default grin / cara19-2]
+{SE: flash-of-light-3}
+#Message#
+\."Ooh, ya got meee!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+#Message#
+\."...We're having a serious conversation, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gah!! What's with this guy...?!)
+##
+
+<Choice End>
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Thunder10}
+#Message#
+\."Your target is \C[2]\N[4]\C[0].
+ In other words, \C[2]you just need to kill me\C[0]."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Angry shout, horrified face, brows upturned / cara3-25]
+#Message#
+\."Huh...?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Say what...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."Ahaha, no, no, I won't say it twice!"
+##
+
+[Midori: Default grin / cara19-2]
+{SE: Accent28-1}
+#Message#
+\."Now begins the Sub-Game, the \C[2]Murderer Game\C[0]!
+ ...I'm looking forward to the finest of bloodlust."
+##
+
+{Sara}
+#Message#
+\."W... Wait! Is the explanation over?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+{SE: Accent21-1}
+#Message#
+\."We have to... kill that person...?"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: Accent21-1}
+#Message#
+\."Kill Sou Hiyori...
+ No, kill \N[4]..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Bwahah... You alright?
+ Now might've been our best chance, y'know?"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+\."Like hell! Who could just up and do that
+ after havin' it sprung on 'em?!"
+##
+
+{Hinako} [Hinako: Eyes closed, mouth open / cara93-5]
+#Message#
+\."...I bet that guy fled to
+ the furthest ends of this floor."
+##
+
+{Hayasaka} [Hayasaka: Teeth clenched, sweating / cara94-4]
+{SE: Accent21-1}
+#Message#
+\."There's nothing for it. First, we'll share
+ the information we have with everyone..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hm? There's still more info...?"
+##
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+\."That's right! He said it was too much bother,
+ and so we should give the explanations!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Seems like we should ask them for details, Sara."
+##
+
+{Sara}
+#Message#
+\."Okay..."
+##
+
+-----Page6-----
+{Sara}
+#Message#
+"...! What's that sound...?"
+##
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Aw, crap. Seems they're gettin' an early start..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...?"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."A monster's come to attack."
+##
+
+
+**********Event23********** (mai) (7,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Some sort of coffin.
+##
+
+#Message#
+\.\C[3]Inside is a woman wearing a large hat.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+"Dammit... Is this a cemetery?!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+"It's like a cemetery... How uncanny..."
+##
+
+<Condition End>
+

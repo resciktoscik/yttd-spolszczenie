@@ -1,0 +1,169 @@
+=====Map99===== (Quick Draw)
+
+**********Event5********** (sara) (1,12)
+-----Page1-----
+{Sara}
+#Message#
+"How can a straw doll use such a huge hammer?!"
+##
+
+#Message#
+"I was in kendo club in middle school too,
+ I'll have you know..."
+##
+
+#Message#
+"It's too hot to approach...!"
+##
+
+-----Page2-----
+{Sara}
+#Message#
+"All I can do... is cheer on...!"
+##
+
+
+**********Event8********** (aibo) (15,12)
+-----Page1-----
+{Sou}
+#Message#
+"T... These weapons are heavy..."
+##
+
+#Message#
+"Miss Sara... This should be easy for you!"
+##
+
+#Message#
+"I know... what the opponent's going to use..."
+##
+
+#Message#
+"It's a battle of reflexes, miss Sara."
+##
+
+#Message#
+"It's okay... I won't die..."
+##
+
+#Message#
+"It's getting intense now!
+ Focus your senses...!"
+##
+
+-----Page2-----
+{Reko}
+#Message#
+"Alright... Just gotta feel the rhythm."
+##
+
+#Message#
+"Don't get hasty, Sara...
+ Make sure you see the weapon first."
+##
+
+#Message#
+"I'm young, you know! I've got faith in my reflexes!"
+##
+
+#Message#
+"Before the signal, just focus on moving...!"
+##
+
+#Message#
+"I can sense it coming...! Gonna trust my intuition!"
+##
+
+#Message#
+"Don't be nervous, Sara!
+ You'll suffocate if you hold your breath!"
+##
+
+-----Page3-----
+{Nao}
+#Message#
+"I-I can do it if I try, too...!"
+##
+
+#Message#
+"You just have to select what the signal shows!"
+##
+
+#Message#
+"Ooogh... I have bad reflexes, so I'm worried..."
+##
+
+#Message#
+"It seems to be getting more intense...
+ What's important is concentration!"
+##
+
+#Message#
+"*pant*... *pant*... I'm almost forgetting to breathe..."
+##
+
+#Message#
+"...How about just focusing on one
+ and taking your chances?!"
+##
+
+
+**********Event22********** (EV022) (1,0)
+-----Page1-----
+{Sara}
+#Message#
+\."We'll start with me...!"
+##
+
+{Sou}
+#Message#
+\."Best of luck, miss Sara."
+##
+
+{Reko}
+#Message#
+\."Yeah! Give 'em hell!"
+##
+
+{Nao}
+#Message#
+\."Good luck out there, Sara!"
+##
+
+{N/A}
+#Message#
+Quick Draw ~Rules~
+##
+
+#Message#
+\.A weapon symbol will suddenly appear on screen.
+Quickly \C[2]select that weapon\C[0] to attack.
+##
+
+#Message#
+\.Move your cursor over a weapon to select it.
+(You can't select until the signal.)
+##
+
+#Message#
+\.If you choose late, your opponent will attack first.
+Choosing wrong will also get you attacked.
+##
+
+#Choice#
+Hear it again
+Just try it
+##
+
+<もう一度説明を聞く>
+
+<とりあえずやってみる>
+
+{N/A}
+#Message#
+\.Touching your ally's icon will give you
+advice and the like, so... Good luck.
+##
+
+<Choice End>
+

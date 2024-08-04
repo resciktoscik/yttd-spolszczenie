@@ -1,0 +1,87 @@
+**********Common195********** (ｿｳ「部屋で何してた」)
+{Sou}
+#Message#
+"I see a lot that's illogical about Nao's actions.
+ Aren't you curious what she was doing in the room?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...?
+ I've got no real comment for you, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"Ahaha... Shouldn't you be questioning miss Nao?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+"I wonder if she really was just hiding?"
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou seems to want to imply something...)
+##
+

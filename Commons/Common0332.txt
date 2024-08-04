@@ -1,0 +1,18 @@
+**********Common332********** (■幻影濃度)
+#Message#
+\C[10]Hallucination Level ... \V[79]
+##
+
+#Message#
+\.\C[3]The \C[10]Hallucination Level\C[3] is a number
+indicating Sara's mental state.
+##
+
+#Message#
+\.\C[3]It will surely increase every time she remembers Joe.
+##
+
+#Message#
+\.\C[3]Please take caution not to let it go too high.
+##
+

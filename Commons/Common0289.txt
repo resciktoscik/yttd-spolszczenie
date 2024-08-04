@@ -1,0 +1,192 @@
+**********Common289********** (ED：残り９人)
+{N/A}
+#Message#
+\C[10]                       9 Remain
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+"...How's Sara?"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."...She's tossing and turning."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."I... I'm right next to you, big sis Sara... Meow..."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."I'll go too...! I don't know what I can do...
+ But I'll at least stay by her side...!"
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Yeah... right."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."This time, we'll give her strength...!!"
+##
+
+{Miley} [Miley: Default smile / cara14-1]
+#Message#
+"Eheehee... Please, everyone, rest up a while
+ before proceeding to the next floor."
+##
+
+[Miley: Mouth open / cara14-3]
+#Message#
+\."Eh? Can you go home...?"
+##
+
+[Miley: Closed-eyes smile / cara14-2]
+#Message#
+\."A funny joke! We've only just begun!"
+##
+
+[Miley: Smug smile / cara14-6]
+#Message#
+\."Let us enjoy this, everyone... Eheehee... Ahaha..."
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+"...Kai. Were you really a bad guy...?"
+##
+
+#Message#
+\."Bein' bad... that makes ya a good-for-nothing."
+##
+
+#Message#
+\."And you didn't seem to me like
+ a good-for-nothing guy..."
+##
+
+#Message#
+\."I dunno... I jus' dunno..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+""I want to know everything"...
+ You're the one who said it."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."I... don't like this..."
+##
+
+#Message#
+\."Please don't make Sara sad..."
+##
+
+#Message#
+\."Didn't you feel anything from what Joe said...?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I..."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+"Hey."
+##
+
+#Message#
+\."You said you were a policeman, yes?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...What about it?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."A policeman knows about murder cases, yes?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Yeah... if I'm in charge of 'em."
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\.".........."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+{SE: Accent28-1}
+#Message#
+\."...Do you know the crime I committed?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Why?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\.".........."
+##
+
+#Message#
+\."I imagine it's just a coincidence, but..."
+##
+
+#Message#
+\."...I killed a person once."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."What was the victim's name...?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."It was..."\.
+##
+
+#Message#
+\."...\C[2]Sou Hiyori\C[0]."\.
+##
+
+{N/A}
+{SE: Starlight}
+#Message#
+Completed Chapter 1, Part Two.
+##
+
+#Message#
+\.Proceed directly to Chapter 2, Part One?
+##
+
+#Choice#
+Begin Chapter 2
+Start with Chapter 1 summary
+##
+
+<２章本編を開始する>
+
+<１章のあらすじから開始する>
+
+<Choice End>
+

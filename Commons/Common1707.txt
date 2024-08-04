@@ -1,0 +1,131 @@
+**********Common1707********** (■ｷﾞﾝ「死に様」)
+{Gin}
+#Message#
+"Everyone in the victim videos...
+ had such pained faces, meow..."
+##
+
+#Message#
+"A-Am I... going to get killed like that, meow...?"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Am I wrong about something, woof...?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+"Sorry for being spineless... big sis Sara..."
+##
+
+#Message#
+"Oogh... I'm gonna get torn up by a drill, woof..."
+##
+
+{Sara}
+#Message#
+\."Calm down, Gin!!
+ We absolutely won't let that happen!"
+##
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."I-I can't help remembering, meow..."
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."Those scary videos we saw before..."
+##
+
+#Message#
+\."Muscle punk getting squished by the walls..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The blood from cotton candy's stomach... Clown lady
+ getting cut up... Suit-and-specs and the axe..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Everyone had such pained faces, meow..."
+##
+
+{Sara}
+#Message#
+\."Gin...!!"
+##
+
+{Gin} [Gin: Mad, claws raised, tearful eyes / cara9-19]
+{SE: Accent40-1}
+#Message#
+\."I-I know, meow!
+ I shouldn't be saying that...!"
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."But... I'm scared, meow...
+ Sorry, big sis Sara..."
+##
+
+{Sara}
+#Message#
+\C[4](We will save you...! Hold on, Gin!!)
+##
+

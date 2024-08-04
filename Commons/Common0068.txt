@@ -1,0 +1,134 @@
+**********Common68********** (進展●「もう撃てない」)
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent28-1}
+#Message#
+"...'Zat the truth?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Yeah."
+##
+
+{Q-taro}
+#Message#
+\."...On the job, right?
+ Did the one you shoot... die...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\.".........."
+##
+
+{Q-taro}
+#Message#
+\."..."
+##
+
+#Message#
+\."Traumatic, I bet..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Real sorry I can't live up to your expectations."
+##
+
+#Message#
+\."Ever since then, pointing a gun at somebody
+ makes my head go weird. Can't stop sweating."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."...Wouldn't wanna make you do it, then."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."S... So then you'll count on Sara!
+ Right, Q-taro?!"
+##
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\.".........."
+##
+
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."H-Hold on now! I'm still uneasy!!
+ It's our lives what's on the line, right?!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+{SE: Accent28-1}
+#Message#
+\."Huh?! Q-taro!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I've managed to convince him this much
+ with everyone else's words...)
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Sara..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](But in the end...
+ I have to persuade Q-taro myself!!)
+##
+
+{N/A}
+#Message#
+Controls   -War of Words-
+##
+
+#Message#
+A war of words will begin with Q-taro.
+Q-taro's statements will appear in \C[2]speech bubbles\C[0].
+##
+
+#Message#
+By \C[2]touching\C[0] statements that \C[2]you can refute\C[0],
+you'll deal damage to Q-taro.
+##
+
+#Message#
+Choose the statements that seem like they'd
+inflict the most damage, and defeat Q-taro.
+##
+
+#Message#
+Want to hear it again?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Use your words... and prove to me...
+ that you're worth trustin'!"
+##
+
+{Sara}
+#Message#
+\."Understood...!"
+##
+

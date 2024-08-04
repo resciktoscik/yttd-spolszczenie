@@ -1,0 +1,131 @@
+**********Common66********** (ｼﾞｮｰ「どしたのケイジ」)
+{Joe}
+#Message#
+"Keiji... What's the matter...?"
+##
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Joe} [Joe: Eyes-closed smile / cara1-13]
+#Message#
+"H... Hey, Sara?
+ I don't think there's any point in pressing me..."
+##
+
+{Sara}
+#Message#
+\."Maybe not..."
+##
+
+<やめる>
+
+<Choice End>
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+{SE: Accent28-1}
+#Message#
+"If the conversation's at a standstill,
+ try questioning people to extract new statements!"
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Good luck, Sara!"
+##
+
+[Joe: Serious look / cara1-14]
+#Message#
+"Keiji sure is acting strange..."
+##
+
+{Sara}
+#Message#
+\."At this rate, the discussion can't advance..."
+##
+
+{Joe} [Joe: Eyes-open smile / cara1-12]
+{SE: Accent28-1}
+#Message#
+\."When that happens, try talking to people so you can
+ \C[2]extract\C[0] new statements to work with!"
+##
+
+#Message#
+\."Your clingy questioning
+ might just lead to an important statement!"
+##
+
+{Sara}
+#Message#
+\."Which is exactly the thought process
+ that let me to extract a new statement already."
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Wha?!
+ You were just teasing me, Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Got 'im.)
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Grrr... Don't give me that cocky look!"
+##
+
+{Sara}
+{SE: receiving-a-shock-1}
+#Message#
+\."Am I that clingy...?"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."I... I'm joking!
+ You know that, right...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I was joking too...
+ But it's fun to see him flustered.)
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."Ahh! Don't grin at me!"
+##
+

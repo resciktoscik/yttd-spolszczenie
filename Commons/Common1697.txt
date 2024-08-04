@@ -1,0 +1,619 @@
+**********Common1697********** (３前進展⑨ヒナコの青)
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Doesn't \C[12]blue\C[0]... mean \C[12]human\C[0]?!"
+##
+
+{Sara}
+#Message#
+\."Then...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."It's Gin or \N[4]?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."It would be Gin or \N[4]...?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: sceneswitch2}
+#Message#
+\."It'd be Gin or \N[4]..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Gin} [Gin: Looking up, wide eyes, grave look / cara9-18]
+{SE: horror_piano chord3}
+#Message#
+\."Eh...?"
+##
+
+[Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."H... Hold on a sec, meow!!"
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."A... A \C[12]blue\C[0] showed up already, woof?!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Ahaha! What are you so surprised about?"
+##
+
+[Midori: Mouth open / cara19-5]
+#Message#
+\."Going by your reasoning,
+ there are already only three choices, right?"
+##
+
+[Midori: Default grin / cara19-2]
+#Message#
+\."Of course it's likely for it to come up..."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."In fact, shouldn't you be happy
+ your reasoning was correct?"
+##
+
+{Sara}
+#Message#
+\."I guess, but...!!"
+##
+
+{\N[4]}
+#Message#
+\."Haha..."
+##
+
+[Midori: Smug smirk with grave look / cara19-31]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Were you not prepared?"
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent41-1}
+#Message#
+\."To lose Gin this quickly..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Don't tell me... You're gonna pick it?!"
+##
+
+{Gin} [Gin: Looking up, wide eyes, grave look / cara9-18]
+#Message#
+\."B... Big sis Sara..."
+##
+
+{Sara}
+#Message#
+\."It's okay, Gin...!!"
+##
+
+{SE: sceneswitch2}
+#Message#
+\."\N[4]...
+ There's no way you can choose that!"
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+\."Hm...?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If you do, there's a 50% chance you die!"
+##
+
+#Message#
+\."You must be scared of death...!!"
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+\."...Still making that claim?"
+##
+
+[Midori: Mouth open, swirly eyes / cara19-6]
+{SE: Accent42-1}
+#Message#
+\."Stop believing those convenient assumptions
+ and look at reality."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent24-1}
+#Message#
+\."I even cut off my own hands for the heck of it..."
+##
+
+{Sara}
+#Message#
+\."Then...!!"
+##
+
+#Message#
+\."Go ahead and pick it! The #\V[984] coffin..."
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+#Message#
+\.\SP[15]".........."
+##
+
+[Midori: Closed-eyes grin / cara19-4]
+{SE: Accent28-1}
+#Message#
+\."Okie-dokie! Meister, hit coffin #\V[984]!"
+##
+
+{Sara}
+#Message#
+\."Wha...!!"
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+\."Roger that!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Big sis Sara...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."Stop! That's absurd...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Stop it! That's absurdity...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Kanna} [Kanna: Upset look, horrified face, mouth open / cara3-29]
+#Message#
+\."You're going to decide your fate like this...?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Hands out, mouth open, angry eyes with bags / cara5-32]
+#Message#
+\."Don't be ridiculous! Stop...!!"
+##
+
+[Sou: Hands out, mouth open, grim face / cara5-35]
+#Message#
+\."Are you going to decide victory like this, Hiyori?!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{\N[4]}
+{SE: horror_piano chord3}
+#Message#
+\C[10]"You lose, Sara."\.
+##
+
+{N/A} [Meister: Hand on hat / cara17-9]
+{SE: WON-baratto01}
+#Message#
+\C[3]Meister selected the coffin.
+##
+
+{Sara}
+#Message#
+\."Ah... Ahh...!!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Big sis Saraaaaaa!!"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+#Message#
+"Now then! Will we finish this so soon?!"
+##
+
+[Meister: Default smile / cara17-8]
+#Message#
+\."Truly... this is fate being decided...!"
+##
+
+{Hinako} [Hinako: Mouth open / cara93-2]
+{SE: Accent41-1}
+#Message#
+"...Eh...?"
+##
+
+[Hinako: Furrowed brow, mouth open / cara93-10]
+#Message#
+\."What's... this shaking?!"
+##
+
+[Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."You're kidding, right?! No way...! Why me?!"
+##
+
+[Hinako: Grave look, eyes closed / cara93-13]
+#Message#
+\."This... c..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+"Hinako...?!"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Accent28-1}
+#Message#
+"So close! You hit Hinako!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."Hinako!!"
+##
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."Nooo...!!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+#Message#
+\."*pant*...! *pant*...!!"
+##
+
+[Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent21-1}
+#Message#
+\."S... Shorty..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."H-Hey... Why was it Hinako?!"
+##
+
+[Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."\C[12]Blue\C[0] should be Gin or \N[4], right?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."What's goin' on?! Was our logic wrong?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."What is happening?!
+ Was our reasoning mistaken...?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Kanna} [Kanna: Upset look, horrified face, mouth closed / cara3-28]
+#Message#
+\."We've made some major mistake...!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."What's going on?!
+ Was there some hole in our logic...?"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Sara}
+#Message#
+\."Everyone, calm down!!"
+##
+
+#Message#
+\."L-Let's calmly have another discussion...!"
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Horrified look, mouth closed / cara96-9]
+#Message#
+\."I... I can't! The situation's changed completely..."
+##
+
+[Anzu: Horrified look, mouth open / cara96-10]
+#Message#
+\."If we get picked, we're gonna be killed
+ without a trace of us leeeft!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Please! Calm down...!)
+##
+
+<Else (Switch #21 (★アンズ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."W-We can't...! Everything has changed..."
+##
+
+[Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+\."If we get picked, we'll be killed
+ without a trace of us being left behind...!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Please! Calm down...!)
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, closed teeth / cara91-22]
+#Message#
+\."Oogh... It's a totally different situation now..."
+##
+
+[Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."If we get picked, we're gonna be killed
+ without a trace of us remaining...?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Please! Calm down...!)
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Ranmaru} [Ranmaru: Evil, furrowed brow, closed mouth / cara91-48]
+#Message#
+\."Tch...! Hurry up and get picked, Gin!!"
+##
+
+[Ranmaru: Evil, hands out, furrowed brow, angry mouth / cara91-47]
+#Message#
+\."I definitely ain't gonna die! Shit...!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Ranmaru...!!)
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."Ain't no way we can do that!
+ This is nothin' like it was before...!"
+##
+
+[Kurumada: Damaged, angry, shouting / cara95-23]
+#Message#
+\."If we get picked, we're gonna get killed,
+ and not a trace of us is gonna be left!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Please! Calm down...!)
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, closed teeth, grim look / cara92-14]
+#Message#
+\."So cruel... This is truly the worst!!"
+##
+
+[Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+\."I mean it!! I'll kill you, \N[4]...!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Please! Calm down...!)
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{N/A}
+#Message#
+
+　　　　　　　　　 \C[3]Hinako's Blue Lamp
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Upset look, mouth closed / cara3-30]
+#Message#
+"According to the hint, Hinako was \C[12]human\C[0]..."
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+"According to the hint, Hinako was \C[12]human\C[0]..."
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+"All our reasoning was way off the mark!
+ Should we rethink everything from scratch?!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+"Our reasoning was all wrong!
+ Should we reconsider it all from step one?!"
+##
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Worried eyebrows, scared eyes, mouth open, grim look / cara92-15]
+#Message#
+"It's absolutely not right that \N[4]
+ could pick that coffin so easily!!"
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+#Message#
+"The lamps came up \C[10]red\C[0] and \C[12]blue\C[0]!
+ So the info on the coffin control screen was right!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+"The lamps came up \C[10]red\C[0] and \C[12]blue\C[0], thus...!
+ The info on the coffin control screen must be true!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+"What's goin' on?!
+ Hinako had a victim video, too!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+#Message#
+"What's goin' on?!
+ Hinako had a victim video, too!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+"What's the deal?!
+ There was a victim video for Hinako, too!"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+"A-Am I... going to get killed like that, meow...?"
+##
+

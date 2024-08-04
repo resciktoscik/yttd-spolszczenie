@@ -1,0 +1,2843 @@
+=====Map82===== (③Monitor Room)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Whoa... Loads of monitors."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Almost like... some kinda security room, ain't it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm? I think I hear a faint sound...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Is one of the monitors... on?)
+##
+
+-----Page5-----
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent28-1}
+#Message#
+\."Sara!"
+##
+
+{Sara}
+#Message#
+\."Kanna."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."H... Hey there..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."S-Sou...!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."I... I worried you, huh...
+ Kanna explained it to me..."
+##
+
+#Message#
+\."It's just one shock after another...
+ I couldn't blame anyone for being paralyzed."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Um, Sara... It looks like attractions
+ have appeared in a few places."
+##
+
+{Sara}
+#Message#
+\."Yeah... So I heard."
+##
+
+{Sou} [Sou: Looking down to side, glancing with frown / cara5-17]
+#Message#
+\."It looks like you can go to
+ three more attractions from here, in fact."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Wha...?!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Look, behind you."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's right! There are paths on the opposite side...!)
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Discovered 3 Death Attractions.
+##
+
+#Message#
+\.\C[3]You can select attractions via the Move menu.
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."I wonder... Maybe some locations opened up
+ other than the attractions."
+##
+
+{Sou} [Sou: Looking down to side / cara5-4]
+#Message#
+\."Let's search for a little longer, Kanna."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."O-Okay..."
+##
+
+-----Page7-----
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent28-1}
+#Message#
+\."Sara...!"
+##
+
+{Sara}
+#Message#
+\."Q-taro."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Wait, Q-taro. We're not done talking."
+##
+
+{N/A}
+#Message#
+\.\C[3]The two went walking toward the lobby
+with an imposing air about them.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Keiji...?)
+##
+
+-----Page9-----
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."I'm starting it up...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Nao inserted the victim video
+into the machine in front of her.
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."Ooooogh..."
+##
+
+{Sara}
+#Message#
+\."...I'll hit play."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."O-Okay...!!"
+##
+
+#Message#
+\."Please... hold my hand!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I selected the center monitor and hit the play button.
+##
+
+{Woman's Voice}
+#Message#
+\.\C[6]"*pant*... *pant*..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I hear a woman's voice...
+##
+
+#Message#
+\.\C[3]I said I would close my eyes...
+but sure enough, I'm too curious...
+##
+
+#Message#
+\.\C[3]I opened my eyes.
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[3]The screen showed a woman in a dim room,
+tied up in chains.
+##
+
+{Woman's Voice}
+#Message#
+\.\C[6]"Stop...! Please! Help me...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The woman is wearing a suit... no, a uniform.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Is that... a police uniform?)
+##
+
+{Woman's Voice}
+#Message#
+\.\C[6]"I... only did my duties...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Is she talking to someone?)
+##
+
+{Man's Voice}
+{SE: sceneswitch2}
+#Message#
+\.\C[5]"Got anything else to say...?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Huh...?)
+##
+
+{Man's Voice}
+{SE: Accent21-1}
+#Message#
+\.\C[5]"Unless I settle the score with you...
+ 'Fraid I can't move forward..."
+##
+
+{Woman's Voice}
+#Message#
+\.\C[6]"There's no point in doing this...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](W... Wait a second...)
+##
+
+#Message#
+\.\C[4](This man in the front...)
+##
+
+#Message#
+\.\C[4](He looks just like...!!)
+##
+
+{Woman's Voice}
+#Message#
+\.\C[6]"Please!! Press the switch!!"
+##
+
+{Man's Voice}
+#Message#
+\.\C[5]".........."
+##
+
+#Message#
+\.\C[5]"...I..."
+##
+
+#Message#
+\.\C[5]".........."
+##
+
+{Woman's Voice}
+#Message#
+\.\C[6]"NOOOOOOOOOOOOOOOooooo!!!!!!"
+##
+
+{Nao}
+#Message#
+\."That's... enough..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."I can't watch... any more..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The chains around the woman's body... tore her apart.
+##
+
+#Message#
+\.\C[3]But,\.\. what disturbed me even more...\.\.
+was the man in front of the camera.
+##
+
+{Sara}
+#Message#
+\."Nao...
+ About that man..."
+##
+
+{Nao}
+#Message#
+\."M-Man...?
+ ...Oogh... urk..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Does she not realize...?)
+##
+
+#Choice#
+Let's watch it again
+Didn't he look like someone?
+##
+
+<もう一度観ましょう>
+
+{Sara} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."I want to check something!
+ Let's watch it again..."
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+{SE: sceneswitch2}
+#Message#
+\."Again...?"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."You want... to rewatch that?!"
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."I don't... think I could bear it...!!"
+##
+
+{Sara}
+#Message#
+\."...Right..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](But... I'm sure of it.
+ He looked like Keiji...!)
+##
+
+#Message#
+\.\C[4](What's the meaning of this?!)
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...Sorry, Sara."
+##
+
+[Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\."Even though I'm the one who bought the video..."
+##
+
+<誰かに似てませんでしたか？>
+
+{Sara} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\."That man we saw from behind...
+ Don't you think he looked like someone?"
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."S-Sorry... I didn't pay that much attention..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."I just felt so bad for the woman...
+ I didn't notice..."
+##
+
+{Sara}
+#Message#
+\."No... that's understandable."
+##
+
+#Message#
+\.\C[4](And I couldn't ask her to watch it again...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](But... I'm sure of it.
+ He looked like Keiji...!)
+##
+
+#Message#
+\.\C[4](What's the meaning of this?!)
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...Sorry, Sara."
+##
+
+[Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\."Even though I'm the one who bought the video..."
+##
+
+<Choice End>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+{SE: Accent21-1}
+#Message#
+\."Sara... You're so strong..."
+##
+
+{Sara}
+#Message#
+\."Strong...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]Being told that made me realize.
+##
+
+#Message#
+\.\C[3]How much I'd gotten accustomed to this cruelty.
+##
+
+#Message#
+\.\C[3]Even such a horrifying fate befalling
+someone I didn't know wouldn't faze me.
+##
+
+{Sara}
+#Message#
+\.\C[4](My senses... are getting numb...)
+##
+
+#Message#
+\."Hahaha..."
+##
+
+#Message#
+\."I guess I've... really lost it, haven't I...?"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Sara..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Nao hugged me gently.
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+{SE: Accent21-1}
+#Message#
+\."You haven't lost anything, Sara."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Right..."
+##
+
+{N/A}
+#Message#
+\.\C[3]In Nao's chest, I regained a little composure.
+##
+
+{Sara}
+#Message#
+\.\C[4](In that video...
+ The policewoman and the man in front...)
+##
+
+#Message#
+\.\C[4](It didn't seem like they had no connection.)
+##
+
+#Message#
+\.\C[4](And also... that man...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](...was Keiji.)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](There's too much to think about...
+ My head isn't working.)
+##
+
+#Message#
+\.\C[4](I should get some sleep.
+ I need rest...)
+##
+
+#Message#
+\.\C[4](Urgh... My body's steadily getting more tired.)
+##
+
+#Message#
+\.\C[4](Need to keep at it...)
+##
+
+-----Page11-----
+{Mishima}
+#Message#
+\.\sw[324]"Oh my, miss Nao and the others...
+ You don't look happy."\sw[325]
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."P... Professor...!"
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Come to think of it, just what are these monitors?
+ They mentioned AIs, but I don't get it..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm...)
+##
+
+#Choice#
+Maybe they're prizes
+There are 9 of them, huh
+##
+
+<景品かもしれません>
+
+{Sara} [Reko: Looking to side with frown / cara6-5]
+#Message#
+"They mentioned the prizes are information..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Y... You mean it's not just for the ones who died?!"
+##
+
+<９台ありますね>
+
+<Choice End>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Almost like... some kinda security room, ain't it?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm? I think I hear a faint sound...)
+##
+
+#Message#
+\.\C[4](Is one of the monitors... on?)
+##
+
+
+**********Event2********** (mishima) (11,4)
+-----Page1-----
+#Message#
+\C[3]I hear a faint sound from this monitor.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is this... another trap?)
+##
+
+{N/A}
+#Message#
+\C[3]...Huh...?
+##
+
+{Man on Monitor}
+#Message#
+\.\sw[324]"My, my... What is this all of a sudden?"\sw[325]
+##
+
+{N/A}
+#Message#
+\.\C[3]The man on the monitor... It's unmistakably...
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+{SE: shock1}
+#Message#
+\."...Professor Mishima...?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Ohh! Why, if it isn't miss Nao!"\sw[325]
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."It's not... a video...?
+ You're talking? To me...?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Yes, I am looking into your eyes
+ and talking with you, miss Nao."\sw[325]
+##
+
+{Nao}
+#Message#
+\."T... T... This is... unthinkable..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Yes... It is unthinkable.
+After all, Professor Mishima... is dead.
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Are the people behind you your friends?
+ It's nice to meet you. My name is Mishima."\sw[325]
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Nice to meet us...?"
+##
+
+-----Page2-----
+{Mishima} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\.\sw[324]"I am Kazumi Mishima...
+ I teach Japanese and art to high school students."\sw[325]
+##
+
+{Sara}
+#Message#
+\.\C[4](What in the world is going on here...?!)
+##
+
+#Choice#
+Are you the real Mishima?
+Do you remember us?
+Is this a video call...?
+##
+
+<本物のミシマ先生ですか？>
+
+{Mishima} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\.\sw[324]"...The real...?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"...Well now..."\sw[325]
+##
+
+#Message#
+\.\sw[324]".........."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Ahh... I see now. I'm..."\sw[325]
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sw[324]"...I've remembered. I am an AI program
+ of Kazumi Mishima. An artificial intelligence."\sw[325]
+##
+
+<私達を覚えていますか？>
+
+{Mishima} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\.\sw[324]"Hmm...? Were we ever acquainted...?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"...Well now..."\sw[325]
+##
+
+#Message#
+\.\sw[324]".........."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Ahh... I see now. I'm..."\sw[325]
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sw[324]"...I've remembered. I am an AI program
+ of Kazumi Mishima. An artificial intelligence."\sw[325]
+##
+
+<これは映像付きの通話では…？>
+
+{Mishima} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\.\sw[324]"A video call? What could you mean...?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"Something is odd here... Hmm..."\sw[325]
+##
+
+#Message#
+\.\sw[324]".........."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Ahh... I see now. I'm..."\sw[325]
+##
+
+{SE: Accent28-1}
+#Message#
+\.\sw[324]"...I've remembered. I am an AI program
+ of Kazumi Mishima. An artificial intelligence."\sw[325]
+##
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."...An \C[2]artificial intelligence\C[0]...?!"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Precisely. I am a replica made from copies of
+ Kazumi Mishima's memories and emotions."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Everyone, I suppose you met
+ with the real Kazumi Mishima?"\sw[325]
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."On the back of this monitor...
+ There's a photo of Mishima's face."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."If that's the truth...
+ Are all of these AIs of different people...?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Mwahaha... What a strange sensation.
+ I would love to meet and speak with myself...!"\sw[325]
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."The old guy's... gone, woof..."
+##
+
+{Mishima}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sw[324]"...What did you say?"\sw[325]
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."Ahh... The way you talk... everything...
+ It's the professor... Like the professor
+ is actually here..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Nao..."
+##
+
+{Sara}
+#Message#
+\.\C[4](An AI... of a person who should be dead?)
+##
+
+#Message#
+\.\C[4](Then... Joe? Is there... one of Joe...?)
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Big sis Sara! What's the matter, meow?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Before I knew it...
+##
+
+#Message#
+\.\C[3]I was intently checking the backs of the monitors.
+##
+
+#Message#
+\.\C[10]Not here.
+##
+
+#Message#
+\.\C[10]Not here, not here, not here.
+##
+
+#Message#
+\.\C[10]What...? There's even a monitor with my photo...
+##
+
+#Message#
+\.\C[10]Yet Joe's is nowhere to be found.
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Sister... Why aren't you here...?
+ I... miss you too..."
+##
+
+{Sara}
+#Message#
+\.\C[4](And Kanna...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Why does only Nao get to...
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."Professor..."
+##
+
+{???}
+#Message#
+\."AaaUUUaaahhh?! What are you doing?!"
+##
+
+{Woman on Monitor}
+#Message#
+\.\sw[342]"Ah, ooh, ahh...! Who was it?!
+ Who went and started up the Mishima AI...?!"\sw[343]
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."W... What the?!"
+##
+
+{Woman on Monitor}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\sw[342]"I get it...! So then... \C[2]Ranger\C[0]...!
+ It was you, wasn't it...?!"\sw[343]
+##
+
+{???}
+{SE: Accent28-1}
+#Message#
+\."Hey, don't get mad!
+ Everybody seems pretty pleased, don'tcha think?"
+##
+
+{N/A}
+#Message#
+\.\C[3]We turned to the voice behind us.
+##
+
+{???} [Ranger: Smile sign / cara18-1]
+{SE: Accent21-1}
+#Message#
+\."Hey there! You bastards slept well?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."W-Who're you, meow?!"
+##
+
+{???} [Ranger: Smile sign / cara18-1]
+#Message#
+\."I'm the Dressup Doll, \C[2]Rio Ranger\C[0]!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."I'm gonna support y'all on this floor!
+ Best regaaards!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Err... What about Miley...?"
+##
+
+{Rio} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Ehh? You prefer the ladies, do ya? Ugh, fine."
+##
+
+[Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."C'mon over here, \C[2]Safalin\C[0]!
+ For they have so humbly requested a girl!"
+##
+
+{Woman on Monitor}
+#Message#
+\.\sw[342]"Ah, ooh... *sniffle*...
+ But I'm angry at you right now..."\sw[343]
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Yeesh, it's creepy when they all talk at once!"
+##
+
+{Woman on Monitor}
+#Message#
+\.\sw[342]"C... Creepy...?! You're awful!
+ Boohoohoohoo..."\sw[343]
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Just joshin'! You're real cute, so move it already!"
+##
+
+{Woman} [Safalin: Wide smile / cara15-4]
+#Message#
+\.\sw[342]"D-Do you meeean it?"\sw[343]
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."That was damn quick!"
+##
+
+{Woman} [Safalin: Default frown / cara15-1]
+#Message#
+"Good to meet you, everyoneee...
+ I am the Vice Floor Master, the Crying Doll,
+ \C[2]Tia Safalin\C[0]..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What a calamity!!"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."..."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Now this is perfect.
+ Let's begin explaining \C[2]the rules\C[0] of Floor 3!"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."T-The rules of Floor 3...?"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Yep. You bastards are probably hyper on-edge
+ after suspecting up a storm in the Main Game, right?"
+##
+
+#Message#
+\."And so! We thought of some wonderful festivities
+ to let you reconcile before the next Main Game!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: shock1}
+#Message#
+\."Wait!! We're doin' one again?! A Main Game...?!"
+##
+
+{Ranger} [Ranger: Smirk-in-profile sign / cara18-6]
+{SE: flash-of-light-3}
+#Message#
+\."All depends on you assholes! Hahaha!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Whazza maaatter? My face scare you?
+ C'mon, Sara Chidouin!"
+##
+
+{Sara}
+#Message#
+\."Shut up..."
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."...Hmm?"
+##
+
+{Sara}
+#Message#
+\."Before your stupid explanation... \C[2]take that off\C[0]...!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: heart1}
+#Message#
+\."That thing...\.\. you're wearing...!!"\.\.
+##
+
+#Choice#
+Isn't that Joe's hairclip?
+Isn't that Mishima's necktie?
+Isn't that Kai's apron?
+##
+
+<ジョーのヘアピンじゃないか>
+
+{Sara} [Ranger: Smile sign / cara18-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Isn't that... Joe's hairclip...?!"
+##
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[10]"...Ahah."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Sure enough... you recognized this clip...?"
+##
+
+#Message#
+\.\C[10]"It feels good, y'know...
+ Feels like it's full of the dead's regrets..."
+##
+
+#Message#
+\.\C[10]"The regrets of Joe Tazuna...
+ That bottomlessly cheerful, softhearted moron."
+##
+
+<ミシマ先生のネクタイじゃないか>
+
+{Sara} [Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Isn't that... Professor Mishima's necktie...?!"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."...Eh...?"
+##
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[10]"...Ahah."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Sure enough...
+ you recognized this thing around my neck?"
+##
+
+#Message#
+\.\C[10]"It feels good, y'know...
+ Feels like it's full of the dead's regrets..."
+##
+
+#Message#
+\.\C[10]"The regrets of Kazumi Mishima...
+ That hypocrite mistaken as the ideal of a teacher."
+##
+
+{Nao} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+#Message#
+\."The professor... is no hypocrite...!!"
+##
+
+<カイさんのエプロンじゃないか>
+
+{Sara} [Nao: Wide eyes, open mouth, grim look, raised finger / cara7-11]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Isn't that... Kai's apron...?!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."W... What?!"
+##
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[10]"...Ahah."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"Sure enough...
+ you recognized this thing around my waist?"
+##
+
+#Message#
+\.\C[10]"It feels good, y'know...
+ Feels like it's full of the dead's regrets..."
+##
+
+#Message#
+\.\C[10]"The regrets of Kai Satou...
+ That foolish man whose rebellion destroyed him."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Don't you dare...!! Yer the real fool!!"
+##
+
+<Choice End>
+
+{Kanna} [Kanna: Arms crossed, angry shout with tears / cara3-6]
+#Message#
+\."Then... that skirt, too...
+ It must be sister's...!!"
+##
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+\."...Whewww."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: shock1}
+#Message#
+\.\C[10]"You bastards got any right to condemn me?"
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."...!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."This topic's donezo!
+ Now everybody come see what's past these monitors!"
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."We'll have a fun game... Hahaha...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Gah...! Why couldn't we say anything back?!)
+##
+
+-----Page3-----
+{Mishima}
+#Message#
+\.\sw[324]"Has my original... err..."\sw[325]
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\.\sw[324]"...Do excuse me.
+ It seems that's neither here nor there presently."\sw[325]
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."..."
+##
+
+-----Page4-----
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."...And then... professor..."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Yes, I see... Is that so?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"My, miss Nao. You're looking rather down."\sw[325]
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."...Professor..."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"If you are fine with an AI,
+ I can gladly talk with you."\sw[325]
+##
+
+{Nao}
+#Message#
+\."...Professor... Can we talk a little...?"
+##
+
+-----Page6-----
+{Mishima}
+#Message#
+\.\sw[324]"Ah, you are...
+ Miss Sara, wasn't it? Nao told me about you."\sw[325]
+##
+
+#Message#
+\.\sw[324]"She said you were very brave and kind."\sw[325]
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+That's not true at all
+You're exactly right
+You're a kind teacher slash smoker
+##
+
+<そんなことはないです>
+
+{Sara}
+#Message#
+\."That's not true at all...
+ Nao is... much stronger."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"No, you are doing your very best.
+ A best effort is conveyed to those around you,
+ bringing about unity."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Miss Sara, you are everyone's shining hope."\sw[325]
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<正しくその通り>
+
+{Sara}
+#Message#
+\."You're exactly right... It makes me blush to hear
+ the truth laid bare. Please, tell me more..."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Asking for seconds in a modest tone?
+ You're a funny girl, miss Sara."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Still, if you have it in your heart to have
+ a silly chat, conversation can be a wonderful thing."\sw[325]
+##
+
+{Sara}
+#Message#
+\."That's true... Heehee."
+##
+
+<あなたは葉巻好きな優しい先生ですね>
+
+{Sara}
+#Message#
+\."And Professor Mishima,
+ you're a kind, cigar-loving teacher as well."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"C-C-Cigar...? A teacher should not smoke!
+ Don't make such strange suggestions!"\sw[325]
+##
+
+{Sara}
+#Message#
+\."But you really looked like you wanted to smoke..."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"My original did...?
+ Mmmmmgh... Perhaps our personalities differ..."\sw[325]
+##
+
+{Sara}
+#Message#
+\.\C[4](He's begun to deny his own self...)
+##
+
+<Choice End>
+
+{Sara}
+#Message#
+\."..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Professor Mishima, err...
+ You're an artificial intelligence, right?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Yes, it seems so.
+ I have a memory telling me I am an AI..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Perhaps if I didn't have that memory,
+ I would think things like "I'm trapped in a screen!
+ Let me out!"... and so on."\sw[325]
+##
+
+{Sara}
+#Message#
+\.\C[4](He was... created by the kidnappers, right?
+ Yeah, surely...)
+##
+
+#Message#
+\.\C[4](There's a lot I could ask.)
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Please, ask me anything.
+ I will answer as much as I remember."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Is there something you want to ask me?"\sw[325]
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm...)
+##
+
+#Choice#
+Mishima's memories
+About the kidnappers
+About the Death Game
+About Nao
+About the original Mishima
+Cancel
+##
+
+<ミシマ先生の記憶>
+
+{Sara}
+#Message#
+\."Professor Mishima, how far back do your memories go?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"I believe I remember becoming a teacher...
+ miss Nao's graduation... and all the life I led..."\sw[325]
+##
+
+{Sara}
+#Message#
+\."Then what about your memories
+ after being brought here, or when you were abducted?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"...I have none. Yes, that's true.
+ I'd actually met with you all already, hadn't I?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"However, any memory before my abduction,
+ I believe I do have."\sw[325]
+##
+
+{Sara}
+#Message#
+\.\C[4](Memories from before the abduction, huh...)
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"And also..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Subconsciously, I know that I am an AI,
+ and should answer as many questions as I can."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Perhaps I am just programmed that way."\sw[325]
+##
+
+<誘拐犯の事>
+
+{Sara}
+#Message#
+\."What do you know about the kidnappers...
+ that is, the people who made you?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Hmm... I know nothing...
+ I have absolutely no memories of that sort."\sw[325]
+##
+
+{Sara}
+#Message#
+\.\C[4](I guess the kidnappers wouldn't leave us clues.)
+##
+
+#Message#
+\.\C[4](To put that another way... Maybe they're free to
+ insert and erase memories at will.)
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"...Apologies I could not be of more use."\sw[325]
+##
+
+<デスゲームの事>
+
+{Sara}
+#Message#
+\."Do you know anything about the Death Game?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Hmm... Right."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Come to think of it, I had just accepted it, but...
+ You all are being made to play this Death Game, yes?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"This is... an outrageous situation."\sw[325]
+##
+
+#Message#
+\.\sw[324]"If only you had some helpful information...
+ Myself, I know nothing..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"...Apologies I could not be of more use."\sw[325]
+##
+
+<ナオさんの事>
+
+{Sara}
+#Message#
+\."So, about Nao..."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"...My dear student. She visited me to learn art
+ even after graduating high school."\sw[325]
+##
+
+#Message#
+\.\sw[324]"...She has greatly matured emotionally.
+ The more you know of her past,
+ the more it brings tears to your eyes..."\sw[325]
+##
+
+{Sara}
+#Message#
+\."I think... that's related to the fact
+ that you died, Professor Mishima."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"It appears... I have made miss Nao suffer greatly."\sw[325]
+##
+
+#Message#
+\.\sw[324]"...I must let that happen no more..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Miss Sara, I have a request."\sw[325]
+##
+
+{Sara}
+#Message#
+\."What is it?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"No, it's nothing."\sw[325]
+##
+
+#Message#
+\.\sw[324]"I still lack the courage to ask..."\sw[325]
+##
+
+{Sara}
+#Message#
+\."...?"
+##
+
+<オリジナルのミシマ先生の事>
+
+{Sara}
+#Message#
+\."So, about the original Professor Mishima..."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"He's died, hasn't he...?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"In such a situation at this,
+ I should have protected miss Nao, yet..."\sw[325]
+##
+
+{Sara}
+#Message#
+\."...You became a victim in order to protect Nao."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"Is that true...?"\sw[325]
+##
+
+#Message#
+\.\sw[324]"...No human wants to die."\sw[325]
+##
+
+#Message#
+\.\sw[324]"The survival instincts
+ that kick in in desperate situations...
+ can at times result in demonic actions."\sw[325]
+##
+
+#Message#
+\.\sw[324]"I protected miss Nao. But even so,
+ I do not know if it is right to commend myself..."\sw[325]
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+You were a fine person
+You were like a saint
+You died for no reason
+##
+
+<ミシマ先生は立派でした>
+
+{Sara}
+#Message#
+\."Professor Mishima... You were a fine person."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"I believe... I just did all I could."\sw[325]
+##
+
+<まるで聖人君子ですね>
+
+{Sara}
+#Message#
+\."You really were like a saint.
+ Thinking of others more than yourself..."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"...Perhaps I wasn't suited for living."\sw[325]
+##
+
+#Message#
+\.\sw[324]"But in truth... I wanted to live,
+ and see miss Nao and my other students' growth..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"I'm sure... I had those thoughts."\sw[325]
+##
+
+<死んでは意味がありません>
+
+{Sara}
+#Message#
+\."There was no meaning to your death..."
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"...I'm sorry.
+ If I'd had more wisdom or strength,
+ perhaps my fate could have changed..."\sw[325]
+##
+
+<Choice End>
+
+{Mishima}
+#Message#
+\.\sw[324]"Miss Sara, none of you can give up.
+ Please live, and make it home."\sw[325]
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page9-----
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](It's...!)
+##
+
+{N/A}
+#Message#
+\.\C[3]It's broken.
+##
+
+#Message#
+\.\C[3]This time, Professor Mishima's monitor is broken.
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+\."W... What... is this..."
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."The old guy... he's..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."Who would do something so cruel...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."No good... Seems the computer in front
+ is just for booting it up."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."The AI was stored on the monitor itself."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Mishima... can't be booted up anymore."
+##
+
+{Sara}
+#Message#
+\.\C[4](I won't let them get away with this...)
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...Sou.
+ You did this, didn't you?"
+##
+
+{Sou} [Sou: Scared look, grave face / cara5-26]
+#Message#
+\."Wha...?!"
+##
+
+[Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."Y... You're wrong!
+ I would never... do such a thing...!"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."U... Um..."
+##
+
+[Kanna: Dead-eyed, mouth open / cara3-12]
+{SE: Accent28-1}
+#Message#
+\."...Kanna was with him the whole time.
+ It wasn't Sou."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Always with him...? This late into the night?"
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."It's Kanna's job to watch him, so...
+ We slept in the same room..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."What...?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."...I was worried 'cause she wouldn't let me leave.
+ Though it ended up giving me an alibi, huh..."
+##
+
+{Sara}
+#Message#
+\.\C[4](It wasn't Sou...?)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...I'm beat. Never run into a case
+ with such an unclear motive behind the crime."
+##
+
+{Sara}
+#Message#
+\."Who was the first to discover this?"
+##
+
+{Keiji}
+#Message#
+\.".........."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."That'd be this policeman here."
+##
+
+{Sara}
+#Message#
+\."It was you, Keiji...?"
+##
+
+#Message#
+\."...What was the situation?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Ahh, well... Couldn't get to sleep,
+ so I thought I'd have a chat with Mishima."
+##
+
+#Message#
+\."When I came in... well, it looked just like this."
+##
+
+{Sara}
+#Message#
+\."Is that true?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Yep."
+##
+
+[Keiji: Frown / cara2-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."It's a shame. Really is."
+##
+
+{Sara}
+#Message#
+\.\C[4](What's this...?)
+##
+
+#Message#
+\.\C[4](Why do I get this sense like...
+ Keiji is telling a barefaced lie...?)
+##
+
+{Voice}
+#Message#
+\."Um..."
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Has something happened...?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Mya?! Don't come in, woof!!"
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Huh...?"
+##
+
+[Nao: Wide eyes, closed teeth, grim look / cara7-10]
+{SE: Accent21-1}
+#Message#
+\."Pro... fessor...?"
+##
+
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."Nao..."
+##
+
+#Choice#
+Someone did us in
+Any idea of the culprit?
+..........
+##
+
+<何者かにやられました>
+
+{Sara} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."Someone... got the better of us again..."
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\.".........."
+##
+
+<犯人に心当たりはありませんか？>
+
+{Sara} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\."Nao...
+ Do you have any idea who would have done this...?"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\.".........."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."You mean... who broke it, don't you..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...I don't know the culprit."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\.".........."
+##
+
+<………>
+
+{Sara} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\.\C[4](I don't know what I should say...)
+##
+
+{Nao}
+#Message#
+\.".........."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Professor Mishima is..."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...Um."
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Please... don't look for the culprit."
+##
+
+{Sara}
+#Message#
+\."W... What do you mean by that?"
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\.".........."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."Please let me be alone for a little..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Nao...?)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Hmm... No clues around that I can see."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Meow? No bits of wood on the ground
+ like when the other monitor got broken, woof?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Nope, nothing."
+##
+
+{Sara}
+#Message#
+\.\C[4](So the evidence was cleaned up this time?)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."This is one nonsensical incident.
+ Would love to solve it right away, but..."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."We need rest.
+ Let's do a detailed investigation tomorrow."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Asking Reko and Q-taro can wait 'til tomorrow, too."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Mr. Policeman...
+ You gotta... find the culprit, meow..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...Right."
+##
+
+{Sara}
+#Message#
+\.\C[4](We'll find who it was...
+ For Nao's sake, especially...)
+##
+
+#Message#
+\.\C[4](...Okay. Let's do this.)
+##
+
+-----Page10-----
+#Message#
+\C[3]The monitor is broken.
+##
+
+{Sara}
+#Message#
+\.\C[4](Professor Mishima...)
+##
+
+
+**********Event4********** (kanna) (15,8)
+-----Page1-----
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]As soon as Kanna noticed me, she averted her eyes.
+##
+
+{Sara}
+#Message#
+\.\C[4](I don't think...
+ I can talk calmly to Kanna right now.)
+##
+
+#Message#
+\.\C[4](Kanna... was working with Sou.)
+##
+
+#Message#
+\.\C[4](Even if she was just being used...
+ Right now, I just can't do it.)
+##
+
+-----Page2-----
+{N/A} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\.\C[3]Kanna won't even look at me.
+##
+
+-----Page4-----
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Awful, isn't it..."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\.".........."
+##
+
+
+**********Event9********** (souno) (2,4)
+-----Page7-----
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[3]The monitor screen is cracked...!
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"H... Hey!
+ Wasn't this totally fine before?!"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Whose monitor is this?"
+##
+
+{Sara}
+#Message#
+\.\C[4](What's going on...?!)
+##
+
+#Choice#
+Look on the back
+Check if anyone's nearby
+##
+
+<モニターの裏を見る>
+
+{N/A} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[3]The photo on the back of the monitor
+has been ripped off.
+##
+
+{Sara}
+#Message#
+\.\C[4](Someone... someone's photo must have been here!)
+##
+
+<辺りに気配がないか調べる>
+
+{N/A} [Keiji: Frown / cara2-2]
+#Message#
+\.\C[3]I looked around without a moment's delay,
+but didn't sense anyone nearby.
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Ahh... Too bad.
+ The photo on the back's been ripped off."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Mishima, did you see
+ the one who destroyed the monitor...?"
+##
+
+{Mishima}
+#Message#
+\.\sw[324]"I'm terribly sorry.
+ I'm afraid I didn't..."\sw[325]
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+{SE: Accent21-1}
+#Message#
+\."Come to think of it... I haven't seen Sou..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Him again...?! Dammit, what the hell he is after?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Hmm... Look for attractions, or look for Sou...
+ What do you think, Sara?"
+##
+
+{Sara}
+#Message#
+\."I'll..."
+##
+
+#Choice#
+Search for attractions
+Search for Sou
+##
+
+<アトラクションを探す>
+
+{Sara} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."I want... to stay away from him for a while.
+ Since I still... can't be calm..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...That sounds good."
+##
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+#Message#
+\."Got it. Sara, you guys look for attractions.
+ I'll look for the beanie."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+{SE: Accent21-1}
+#Message#
+\."I ain't gonna let him pull his shit again...!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Don't be rash, now."
+##
+
+<ソウを捜す>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."I feel like... we can't let him roam free."
+##
+
+{Keiji}
+#Message#
+\."...That's true. Sure would love to just
+ throw some cuffs on him and lock him up."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."God dammit!! I'm gonna take that guy out!!"
+##
+
+#Message#
+\."C'mon! We'll all search together!"
+##
+
+<Choice End>
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."Um... Sorry, I... Please let me
+ speak with the professor a little more..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Huh...? R-Right..."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Thank you very much..."
+##
+
+-----Page8-----
+#Message#
+\C[3]The monitor is broken.
+##
+
+-----Page10-----
+#Message#
+\C[3]The monitor is broken.
+##
+
+
+**********Event12********** (monita-naka) (0,12)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of me is displayed on the back.
+##
+
+
+**********Event37********** (monita-keiji) (2,12)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Keiji is displayed on the back.
+##
+
+
+**********Event43********** (zizyo-) (8,7)
+-----Page1-----
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](He seems to be in thought...
+ I won't disturb him.)
+##
+
+-----Page2-----
+#Message#
+\C[3]Keiji is talking to Alice.
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."...W-What is it, Sara?!
+ Don't stare, go off somewhere else!!"
+##
+
+{Sara}
+#Message#
+\."You're not hiding anything, are you?"
+##
+
+{Alice} [Alice: Confused shout, grim look / cara11-12]
+#Message#
+\."T-That's... Don't be foolish!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Very suspicious...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...What's that?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Understand?
+ Buying the personal info is the only way..."
+##
+
+{Sara}
+#Message#
+\."...What are you chatting about?"
+##
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Ahh... ghh... Sara Chidouin...!!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Just doing a little questioning.
+ Feels like I'm doing my day job, huh?"
+##
+
+{Sara}
+#Message#
+\."...No, not especially."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Aw, too bad."
+##
+
+{Sara}
+#Message#
+\.\C[4](What was that? I thought I overheard something
+ totally unrelated to the monitor incident...)
+##
+
+-----Page3-----
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."...I'm sure Alice would..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He's muttering something...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Huh, what's up, Sara?"
+##
+
+{Sara}
+#Message#
+\."Nothing..."
+##
+
+#Message#
+\.\C[4](Feels like he's plotting something...)
+##
+
+-----Page4-----
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hey, Sara.
+ Found a laptop charger?"
+##
+
+{Sara}
+#Message#
+\."No..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Figures...
+ The more normal it is, the harder it is to get here."
+##
+
+-----Page6-----
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Hey."
+##
+
+{Sara}
+#Message#
+\."...Hi..."
+##
+
+-----Page7-----
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...It was no use."
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Tch...! In that case,
+ the monitor was destroyed by...!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...Pretty sure of it.
+ Which is why I complied with the trade."
+##
+
+{Sara}
+#Message#
+\.\C[4](These two are holding a shady tactics meeting...)
+##
+
+
+**********Event44********** (reko-deka) (1,8)
+-----Page1-----
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Seems like this floor's still got
+ plenty of hidden areas..."
+##
+
+
+**********Event57********** (monita-alice) (1,12)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Alice is displayed on the back.
+##
+
+
+**********Event59********** (monita-reko) (3,12)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Reko is displayed on the back.
+##
+
+
+**********Event60********** (monita-Qtaro) (4,12)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Q-taro is displayed on the back.
+##
+
+
+**********Event61********** (monita-kannna) (5,12)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Kanna is displayed on the back.
+##
+
+
+**********Event62********** (monita-gin) (6,12)
+-----Page1-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Gin is displayed on the back.
+##
+
+
+**********Event71********** (nao-mitume) (12,6)
+-----Page1-----
+#Message#
+\C[3]Nao's gaze is fixed on a single point.
+##
+
+-----Page2-----
+#Message#
+\C[3]Nao's gaze is fixed on a single point.
+##
+
+-----Page3-----
+#Message#
+\C[3]Nao is talking with her gaze fixed on a single point.
+##
+
+{Sara}
+#Message#
+\."...Nao."
+##
+
+{Nao}
+#Message#
+\."So then... professor... While you were gone..."
+##
+
+{N/A}
+#Message#
+\.\C[3]It's like my voice isn't reaching her.
+##
+
+{Sara}
+#Message#
+\.\C[4](I guess... it's entirely reasonable.)
+##
+
+#Choice#
+If I were in that situation...
+Maybe Nao won't come back...
+##
+
+<私も同じ状況だったら…>
+
+{Sara} [Joe: Hallucination (shadowy face) / cara1-24]
+#Message#
+\.\C[4](If...)
+##
+
+#Message#
+\.\C[4](If it were Joe on that screen, then...)
+##
+
+#Message#
+\.\C[4](I'm sure... I'd be rooted to the spot, too.)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{N/A}
+#Message#
+\.\C[3]It doesn't matter if he's fake.
+##
+
+#Message#
+\.\C[3]I want to meet him and apologize.
+##
+
+#Message#
+\.\C[3]I want him to forgive me.
+##
+
+#Message#
+\.\C[3]...I can't help thinking about those things.
+##
+
+#Message#
+\.\C[10]"As if I'm gonna forgive ya."\.\.\^
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+
+#Message#
+\.\C[4](Calm down...)
+##
+
+#Message#
+\.\C[4](There's no one there...)
+##
+
+#Message#
+\.\C[4](It's just a hallucination...)
+##
+
+{N/A}
+{SE: warning2}
+#Message#
+\C[10]Hallucinations worsened by 20.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm sure...)
+##
+
+#Message#
+\.\C[4](Nao is regretful too...)
+##
+
+#Message#
+\.\C[4](Wondering if... she could have saved Mishima...)
+##
+
+#Message#
+\.\C[4](..........)
+##
+
+#Message#
+\.\C[4](Given that, bringing Nao back to reality...
+ is beyond me...)
+##
+
+<ナオさんはもう戻れないかも…>
+
+{Sara} [Joe: Hallucination (shadowy face) / cara1-24]
+#Message#
+\.\C[4](This is just... unfair.)
+##
+
+#Message#
+\.\C[4](As far as I can see, it's as if
+ she's just talking to the real Professor Mishima.)
+##
+
+{N/A}
+#Message#
+\.\C[3]There's a dead man, right there.
+##
+
+#Message#
+\.\C[3]Smiling gently and listening to her speak.
+##
+
+{Sara}
+#Message#
+\.\C[4](It's like... a dream.)
+##
+
+#Message#
+\.\C[4](How could you show her a thing like that,
+ then bring her back to the reality of the Death Game?)
+##
+
+#Message#
+\.\C[4](I wonder, if it keeps on like this...)
+##
+
+#Message#
+\.\C[4](Maybe Nao will...)
+##
+
+{N/A}
+#Message#
+\.\C[3]Even so... I can't stop her.
+##
+
+#Message#
+\.\C[3]I don't want to be saddled with the duty
+of bringing Nao back to reality.
+##
+
+<Choice End>
+
+{Sara} [Joe: Hallucination (shadowy face) / cara1-24]
+#Message#
+\.\C[4](...I'm sorry...)
+##
+
+-----Page4-----
+#Message#
+\C[3]Nao is talking with her gaze fixed on a single point.
+##
+
+
+**********Event94********** (konpu) (8,12)
+-----Page1-----
+#Message#
+\C[3]In front of the monitors is a machine that,
+despite its complexity, offers only simple functions.
+##
+

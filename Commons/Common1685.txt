@@ -1,0 +1,122 @@
+**********Common1685********** (※●Q「無実なの！」)
+{Q-taro}
+#Message#
+"She hadn't attached any shady parts...
+ She looked just like the Mai in the victim video!!"
+##
+
+#Message#
+"Mai looked like she didn't understand
+ why her fingerprints were registered, neither!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"W-What's that all about?! Don't get it...!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"W... What the?! Whaddya mean?!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Urgggh...!!"
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+"Mai's 100% innocent, I tell ya! I know that much!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Q-taro trusts her that much...)
+##
+
+#Choice#
+Do you have any ideas?
+Never mind
+##
+
+<心当たりは無いですか>
+
+{Sara} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent21-1}
+#Message#
+"Still, do you have any ideas?
+ Did she attach a \C[2]finger part\C[0], or...?!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\.".........."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+{SE: Accent40-1}
+#Message#
+\."I got nothin'..."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."She hadn't attached any shady parts...
+ She looked just like the Mai in the victim video!!"
+##
+
+<やめておく>
+
+{Sara} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+{SE: Accent21-1}
+#Message#
+\C[4](What should I do...?)
+##
+
+<Choice End>
+

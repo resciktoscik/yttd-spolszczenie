@@ -1,0 +1,35 @@
+**********Common578********** (４－朝後イベント)
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+\."Sara!"
+##
+
+{Sara}
+#Message#
+\."Yagh...! W-What is it?"
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."Whoa... Sorry fer scarin' ya.
+ Just wanted you to come someplace."
+##
+
+[Q-taro: Smile with thumbs-up / cara4-1]
+{SE: Accent21-1}
+#Message#
+\."Come over to the Ruined Corridor, y'hear?!"
+##
+
+[Q-taro: Lowered-eyes smile / cara4-3]
+{SE: flash-of-light-3}
+#Message#
+\."And don't keep me waitin'!"
+##
+
+{Sara}
+#Message#
+\."What in the world is it...?"
+##
+

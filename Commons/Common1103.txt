@@ -1,0 +1,20 @@
+**********Common1103********** (呼・記憶蘇生初回)
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](\N[4]...
+ He said to use this lantern on everyone...)
+##
+
+#Message#
+\.\C[4](Maybe... this light stirs up the forgotten memories?)
+##
+
+#Message#
+\.\C[4](It projects the things we can no longer see...)
+##
+
+#Message#
+\.\C[4](We just... have to try.)
+##
+

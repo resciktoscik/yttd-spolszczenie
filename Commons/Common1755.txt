@@ -1,0 +1,213 @@
+**********Common1755********** (３前進展⑲ケイジの青)
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+#Message#
+"...?!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+{SE: Accent28-1}
+#Message#
+\."I-It really came up blue, meow?!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+{SE: Accent21-1}
+#Message#
+\."\C[12]Blue\C[0] means... \C[12]human\C[0]."
+##
+
+<Else>
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent21-1}
+#Message#
+\."\C[12]Blue\C[0] means... \C[12]human\C[0]."
+##
+
+<Condition End>
+
+<If Switch #24 (★ランマル生存ルート) is ON>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Ranmaru} [Ranmaru: Hand up, surprised eyes, mouth closed / cara91-6]
+#Message#
+\."Which means... it ain't \N[4], right?!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+[Ranmaru: Evil, furrowed brow, mouth open / cara91-44]
+#Message#
+\."Which means... it ain't \N[4]...!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+<Else (Switch #24 (★ランマル生存ルート))>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Then... it's not seaweed head, meow!"
+##
+
+<Condition End (Switch #24 (★ランマル生存ルート))>
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."It's Mr. Policeman's coffin...!!"
+##
+
+<Else (Switch #821 (★カンナ生存ルート))>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."It's Keiji's coffin...!"
+##
+
+<Condition End (Switch #821 (★カンナ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\.".........."
+##
+
+<If Switch #25 (★マイ生存ルート) is ON>
+
+{Mai} [Mai: Looking down at hand, lowered brows / cara92-19]
+#Message#
+\.".........."
+##
+
+<Else (Switch #25 (★マイ生存ルート))>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown / cara4-7]
+#Message#
+\.".........."
+##
+
+<Condition End (Switch #25 (★マイ生存ルート))>
+
+<If Switch #23 (★クルマダ生存ルート) is ON>
+
+{Kurumada} [Kurumada: Damaged, angry, clenched teeth / cara95-22]
+#Message#
+\."S-So then... he really was executed back then...?!"
+##
+
+<Else (Switch #23 (★クルマダ生存ルート))>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."No way, meow... So Mr. Policeman...
+ really was executed then, woof...?!"
+##
+
+<Condition End (Switch #23 (★クルマダ生存ルート))>
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+#Message#
+\."I knew it... Keiji was executed then...!!"
+##
+
+<Else (Switch #22 (★ハヤサカ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Sara}
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Keiji..."
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](That's wrong...)
+##
+
+#Message#
+\.\C[4](Keiji escaped...)
+##
+
+{SE: Accent41-1}
+#Message#
+\.\C[4](If he escaped... what does this blue mean?)
+##
+
+#Message#
+\.\C[4](What... is inside...?)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](...I don't know.)
+##
+
+{SE: feed1}
+#Message#
+\.\C[4](I don't know... but...!)
+##
+
+#Message#
+\.\C[4](Keiji... has \C[2]done something\C[4] for us...!!)
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, bewildered eyes, open-mouth frown / cara19-21]
+#Message#
+\SP[10]".........."
+##
+
+{Sara}
+{SE: Accent40-1}
+#Message#
+\."Two coffins left... \N[4]."
+##
+
+{\N[4]} [Midori: Gripping arm with sweat, lowered eyebrows, grin / cara19-27]
+#Message#
+\.\SP[12]"...Sara..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Now it's one in two..."
+##
+
+#Message#
+\.\C[4](I don't think there's any more
+ we can figure out from discussion...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](We just have to choose one.)
+##
+
+{SE: sceneswitch2}
+#Message#
+\."I... believe we'll win."
+##
+
+#Message#
+\."This time, I will defeat you! \N[4]...!!"
+##
+

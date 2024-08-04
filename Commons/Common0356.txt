@@ -1,0 +1,13 @@
+**********Common356********** (ソウ探し任せた！)
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Leave this attraction to us!
+ Everyone else... search the rest!"
+##
+
+{Keiji} [Keiji: Turned to side / cara2-13]
+#Message#
+\."Guys, if you find Sou... be plenty careful."
+##
+

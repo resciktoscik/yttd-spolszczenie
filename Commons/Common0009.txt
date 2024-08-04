@@ -1,0 +1,9 @@
+**********Common9********** (実験【新移動コマンド】)
+#Message#
+\C[3]The red door is tightly shut and can't be opened.
+##
+
+#Message#
+\C[3]Nothing left to do here.
+##
+

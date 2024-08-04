@@ -1,0 +1,1144 @@
+=====Map130===== (❹Monitor Room)
+
+**********Event1********** (kikai) (1,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]In front of the monitors is a machine that,
+despite its complexity, offers only simple functions.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]In front of the monitors is a machine that,
+despite its complexity, offers only simple functions.
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Search under the machine
+Hit buttons at random
+Defer to Keiji
+##
+
+<機械の下を探る>
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\C[3]Looking down by the ground,
+various wires are connected to the computer.
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."They said it was the blue wire, right?"
+##
+
+{Sara}
+#Message#
+\."Let's try connecting it."
+##
+
+{N/A}
+#Message#
+\.\C[3]I connected the blue wire to the computer.
+##
+
+<適当にガチャガチャさわる>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Just leave this to me."
+##
+
+{Keiji}
+#Message#
+\."Okie-dokie."
+##
+
+{Sara}
+{SE: Thunder10}
+#Message#
+\."I'm going to press things at random...!!"
+##
+
+{Keiji} [Keiji: Right hand under face, sweating / cara2-9]
+#Message#
+\."Hmm...?"
+##
+
+{N/A}
+#Message#
+\C[3]My hands move on intuition and instinct.
+##
+
+#Message#
+\.\C[3]As if I knew the answer from the very beginning.
+##
+
+#Message#
+\.\C[3]And lo, the computer...
+##
+
+{SE: warning2}
+#Message#
+\.\C[3]...made an unpleasant error noise and froze.
+##
+
+{Sara}
+#Message#
+\.\C[4](Completely wrong...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Sara, don't suddenly turn to desperation on me."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Look, by your feet. See those wires?"
+##
+
+#Message#
+\."It was the blue one, yeah? Let's try connecting it."
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji connected a blue wire
+on the floor to the computer.
+##
+
+<ケイジさんに任せる>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Please handle this, Keiji."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Can't refuse a request from you, Sara."
+##
+
+{N/A}
+#Message#
+\.\C[3]Keiji connected a blue wire
+on the floor to the computer.
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."...Bingo."
+##
+
+{Sara}
+#Message#
+\.\C[4](This is the surveillance system...!!)
+##
+
+#Message#
+\.\C[4](Is Gin on any of these?)
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]In front of the monitors is a machine that,
+despite its complexity, offers only simple functions.
+##
+
+
+**********Event10********** (Qtaro) (4,12)
+-----Page1-----
+#Message#
+\C[3]Someone is standing \C[2]in front of a bedroom\C[3].
+##
+
+{Sara}
+#Message#
+\.\C[4](That's... \C[2]Q-taro\C[4]?)
+##
+
+#Message#
+\.\C[4](Is he talking with the owner of the room...?)
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Kanna is displayed on the back.
+##
+
+
+**********Event12********** (sou) (2,4)
+-----Page1-----
+#Message#
+\C[3]The monitor is broken.
+##
+
+
+**********Event13********** (misima) (11,4)
+-----Page1-----
+#Message#
+\C[3]The monitor is broken.
+##
+
+{Sara}
+#Message#
+\.\C[4](The Professor Mishima AI was here...)
+##
+
+
+**********Event14********** (arisu) (0,12)
+-----Page1-----
+#Message#
+\C[3]The top-left monitor shows
+some broken bongos in an empty bedroom.
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Those are the bongos Alice bought
+ from the Prize Exchange...!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{N/A}
+#Message#
+\.\C[3]They look slightly repaired from when Reko broke them.
+##
+
+{Sara}
+#Message#
+\.\C[4](Alice must have tried to fix them...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](As if hoping to repair their relationship...)
+##
+
+{N/A}
+#Message#
+\.\C[3]But Reko can't apologize any longer.
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Else>
+
+#Message#
+\.\C[3]They look slightly repaired from when Reko broke them.
+##
+
+#Message#
+\.\C[4](Alice must have tried to fix them...)
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](As if hoping to repair their relationship...)
+##
+
+{N/A}
+#Message#
+\.\C[3]But Alice can give them to her no longer.
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+<Condition End>
+
+#Message#
+\.\C[4](It doesn't matter right now...
+ I can't get stuck on it...)
+##
+
+#Message#
+\C[3]There's nothing of note on the top-left monitor.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Alice is displayed on the back.
+##
+
+
+**********Event15********** (reko) (1,12)
+-----Page1-----
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\C[3]The left monitor shows Reko sitting in her bedroom.
+##
+
+{Sara}
+#Message#
+\.\C[4](She must be exhausted...)
+##
+
+<Else>
+
+#Message#
+\C[3]The left monitor shows an empty bedroom.
+##
+
+<Condition End>
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Reko is displayed on the back.
+##
+
+
+**********Event16********** (nasi) (2,12)
+-----Page1-----
+#Message#
+\C[3]There's nothing of note on the bottom-left monitor.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Gin is displayed on the back.
+##
+
+
+**********Event17********** (nao) (7,12)
+-----Page1-----
+#Message#
+\C[3]The center monitor shows Nao's bedroom.
+##
+
+{Sara}
+#Message#
+\.\C[4](Is she okay...? She keeps talking with
+ the Professor Mishima AI...)
+##
+
+#Message#
+\C[3]The center monitor shows an empty bedroom.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Huh?
+ Something's odd about this bedroom...)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{SE: Leakage}
+#Message#
+\.\C[4](Huh...?)
+##
+
+#Message#
+\.\C[4](W-What...?! What's going on?!)
+##
+
+{SE: shock1}
+#Message#
+\.\C[4](That's the Mishima AI...!!)
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent28-1}
+#Message#
+"*pant*... *pant*... I made it back..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Nao...?!)
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."Is this... really for the best...?"
+##
+
+{Mishima?}
+#Message#
+\sw[324]"Indeed. Well done, miss Nao."\sw[325]
+##
+
+#Message#
+\.\sw[324]"I'm glad your safety was ensured."\sw[325]
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+"But, but... he'll...!!"
+##
+
+[Nao: Hand on chest, head lowered, grim look / cara7-24]
+#Message#
+\."Professor! What should I do...?!"
+##
+
+{Mishima?}
+{SE: se_maoudamashii_magical14}
+#Message#
+\sw[324]"Believe in me, miss Nao."\sw[325]
+##
+
+#Message#
+\.\sw[324]"For I was miraculously revived
+ so that I could protect you..."\sw[325]
+##
+
+#Message#
+\.\sw[324]"Do just as I say... yes?"\sw[325]
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+"R... Right..."
+##
+
+{Mishima?}
+{SE: Accent21-1}
+#Message#
+\sw[324]"Now, put on a smile!
+ I like to see you cheery, miss Nao."\sw[325]
+##
+
+{Nao} [Nao: Closed-eyes smile / cara7-12]
+{SE: Accent28-1}
+#Message#
+\."Y-Yes...!"
+##
+
+{Mishima?}
+#Message#
+\sw[324]"Fantastic. What a good student I have, indeed."\sw[325]
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\C[4](What's... going on?)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."...This isn't good."
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+#Choice#
+What's with that Mishima...?
+Nao is acting strange
+##
+
+<あのミシマ先生はいったい…>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Just what is that Professor Mishima...?!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Hmm... He said he "revived," but..."
+##
+
+#Message#
+\."He was always just an AI that Reko destroyed here."
+##
+
+#Message#
+\."It's a tricky subject, huh?
+ AIs are entities of pure data, so..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+"If our enemy's up to it, maybe they're free to
+ revive 'em and copy 'em as they like."
+##
+
+[Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."What's "death" even mean in that case...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](No way...)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."The scarier thing is..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."They might also be able to remake their personalities
+ however it suits them, don't you think?"
+##
+
+<ナオさんの行動は変です>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: Accent21-1}
+#Message#
+\."Nao's behaving strangely, isn't she...?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."It sure looks like Mishima put her up to something."
+##
+
+{Sara}
+#Message#
+\."Maybe that card trade earlier was Nao...!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."But it takes 50 tokens to trade.
+ Nao shouldn't have very many, I thought."
+##
+
+{Sara}
+#Message#
+\.\C[4](Then what in the world...?)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Mishima just said he'd been "revived"..."
+##
+
+#Message#
+\."But wasn't he always just
+ an AI that Reko destroyed right here?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko had a good reason to destroy him, and yet...)
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Wonder if he's really the same AI...?"
+##
+
+<Choice End>
+
+{Sara} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\.\C[4](...!!)
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Only Nao's room having a monitor in it
+ is pretty suspect, too."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Maybe the Floor Master is plotting something."
+##
+
+{Sara}
+#Message#
+\.\C[4](No way...!)
+##
+
+#Message#
+\.\C[4](Nao...)
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of me is displayed on the back.
+##
+
+
+**********Event18********** (arisu2) (5,12)
+-----Page1-----
+#Message#
+\C[3]The bottom-right monitor shows the Room of Lies.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{N/A}
+#Message#
+\.\C[3]Alice's body and Rio Ranger's remains are still there.
+##
+
+{Sara}
+#Message#
+\.\C[4](Alice...)
+##
+
+<Else>
+
+{N/A}
+#Message#
+\.\C[3]Reko's body and Rio Ranger's remains are still there.
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko...)
+##
+
+<Condition End>
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Keiji is displayed on the back.
+##
+
+
+**********Event19********** (EV019) (1,0)
+-----Page1-----
+{SE: Accent21-1}
+#Message#
+\C[3]We checked all the monitors,
+but Gin was nowhere to be found.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](This surveillance system is \C[2]only for Floor 3\C[4]...)
+##
+
+#Message#
+\.\C[4](Sure enough, Gin's still on Floor 1!)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: sceneswitch2}
+#Message#
+"Uh oh. Somebody's coming."
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."It's Gashu... I'll shut off the security system."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."Whew..."
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+{SE: Accent21-1}
+#Message#
+"Oh dear. Just what are you two up to...?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Hm? Sure are nosy... We're having a moment here."
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Oh my...! Pardon me, then..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."While you're here, though, tell me something."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Are there AIs on all these monitors?"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."...You are precisely right."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: Accent28-1}
+#Message#
+\."Here are assembled AIs of
+ all candidates who \C[2]cleared the First Trial\C[0]."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Hmm..."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Gotcha. You can go.
+ We've got... a thing to get back to here, see."
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Yes. I shall leave you to it..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Now, what to do..."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Choice#
+Back to the first floor!
+We should recover Ranger's chip
+##
+
+<もう一度１階へ！>
+
+{Sara} [Keiji: Looking to side / cara2-4]
+#Message#
+\."We should really get back to looking for Gin!"
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: horror_piano chord3}
+#Message#
+\."There's no time for that."
+##
+
+{Sara}
+#Message#
+\."K-Keiji..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."...They won't kill Gin."
+##
+
+{Sara}
+#Message#
+\."Huh?!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."I'm gradually coming to understand
+ how our enemy operates..."
+##
+
+{Sara}
+#Message#
+\."But...!"
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+{SE: Accent21-1}
+#Message#
+\."Let's believe in Gin."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."He's not just a kid anymore."
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."By the time he comes back safe...
+ We should have an escape plan to surprise him with."
+##
+
+{Sara}
+#Message#
+\.\C[4](...)
+##
+
+#Message#
+\.\C[4](We should collect Ranger's chip...)
+##
+
+#Message#
+\.\C[4](I know that, but...)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Alrighty. To the Room of Lies."
+##
+
+<ノエルのチップを回収するべき>
+
+{Sara} [Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+\."I know...!
+ We should collect Ranger's chip while we still can!"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."You okay not going after Gin...?"
+##
+
+{Sara}
+#Message#
+\."Of course I'm worried, but...!"
+##
+
+{SE: Accent21-1}
+#Message#
+\."Gin... isn't just a child anymore!"
+##
+
+#Message#
+\."I'm sure... he'll escape and return to us..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."And when he does... we should have an escape plan
+ worked out to surprise him with."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."...Maybe that's what "believing" is."
+##
+
+{Sara}
+#Message#
+\."Let's go... To the Room of Lies!"
+##
+
+<Choice End>
+
+-----Page3-----
+{Sara}
+#Message#
+\C[4](I think I've called everyone now...)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with frown / cara6-5]
+{SE: Accent28-1}
+#Message#
+"Hey, Sara.
+ What are we getting started here?"
+##
+
+<Else>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+"You, Sara Chidouin.
+ What's about to transpire here?"
+##
+
+<Condition End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+"Whew... Man, Q-taro is heavy, alright."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent21-1}
+#Message#
+"Is there really an exit...?"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: flash-of-light-3}
+#Message#
+"Let's believe in Sou...!"
+##
+
+{Sara}
+#Message#
+\C[4](Everyone's gathered...)
+##
+
+
+**********Event20********** (nasi2) (3,12)
+-----Page1-----
+#Message#
+\C[3]There's nothing of note on the top-right monitor.
+##
+
+-----Page2-----
+#Message#
+\C[3]One of numerous monitors.
+##
+
+#Message#
+\.\C[3]A photo of Q-taro is displayed on the back.
+##
+
+
+**********Event21********** (rekosan) (8,7)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Reko is gazing at the monitors.
+##
+
+{Reko} [Reko: No makeup, sad eyes / cara6-22]
+#Message#
+".........."
+##
+
+#Message#
+"AIs, huh..."
+##
+
+[Reko: No makeup, sad eyes, closed teeth / cara6-24]
+{SE: Accent21-1}
+#Message#
+\."There's one here... One of him..."
+##
+
+{Sara}
+#Message#
+\.\C[4](She must mean Alice...)
+##
+
+#Choice#
+You want to meet him?
+An AI is just an AI
+##
+
+<会いたいですか？>
+
+{Sara} [Reko: No makeup, sad eyes, closed teeth / cara6-24]
+{SE: Accent28-1}
+#Message#
+"You want to meet him...?"
+##
+
+{Reko} [Reko: No makeup, sad eyes / cara6-22]
+#Message#
+\."No..."
+##
+
+[Reko: No makeup, sad eyes, mouth open / cara6-23]
+{SE: Accent21-1}
+#Message#
+\."A machine is just a machine."
+##
+
+<人工知能は人工知能でしかない>
+
+{Sara} [Reko: No makeup, sad eyes, mouth open / cara6-23]
+{SE: Accent28-1}
+#Message#
+"However well it imitates a person...
+ An AI is still just an AI."
+##
+
+#Message#
+\."It's not... the real thing."
+##
+
+{Reko} [Reko: No makeup, sad eyes / cara6-22]
+#Message#
+\.".........."
+##
+
+[Reko: No makeup, sad eyes, mouth open / cara6-23]
+{SE: Accent21-1}
+#Message#
+\."...That's right."
+##
+
+<Choice End>
+
+{Reko} [Reko: No makeup, sad eyes, closed teeth / cara6-24]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The real him... is still in the Room of Lies."
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko's keeping it all inside...)
+##
+
+{Reko} [Reko: No makeup, sad eyes / cara6-22]
+#Message#
+\."Probably better that I don't see any AI..."
+##
+
+[Reko: No makeup, sad eyes, mouth open / cara6-23]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."'Cause I'm... not as strong as Nao..."
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]I feel... a strength and a sorrow from Reko...
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+"You think you could give her a hug, Sara...?"
+##
+
+
+**********Event71********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event72********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event73********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event74********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event75********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event76********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event105********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

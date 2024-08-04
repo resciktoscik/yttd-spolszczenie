@@ -1,0 +1,37 @@
+=====Map83===== (Darkness Announcement)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+\.".........."
+##
+
+#Message#
+\."...I'm...\.\. sorry..."
+##
+
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Muscle gorilla..."
+##
+
+#Message#
+\."...Big sis Sara..."
+##
+
+#Message#
+\.".........."
+##
+
+{Gin}
+#Message#
+\."M...\.\. Mom..."
+##
+
+#Message#
+\.".........."
+##
+

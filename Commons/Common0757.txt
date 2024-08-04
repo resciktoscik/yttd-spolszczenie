@@ -1,0 +1,325 @@
+**********Common757********** (⑩進展●「予備パッド」)
+{Sara} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: Accent28-1}
+#Message#
+"Q-taro, you're saying you had your tablet
+ on you at all times, yes...?"
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Yep! Take a look, it's right here."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."And when you woke up... where was it?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hm...? On the table in the Last Supper Room..."
+##
+
+#Message#
+\.".........."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."On the table...?!"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\.\{"I'd call that being off you, meow!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](As I thought...)
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](That tablet Q-taro has now is a spare.)
+##
+
+#Message#
+\."This tablet I picked up...
+ was lying near you when you were passed out."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."What'd you say?!"
+##
+
+{Sara}
+#Message#
+\."I would assume this is Q-taro's original tablet..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."The question is, why was it lying on the floor?"
+##
+
+#Choice#
+Sou took it
+Q-taro sleepily discarded it
+##
+
+<ソウが取った>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+"It's because Sou took the tablet from Q-taro!"
+##
+
+<Qタロウが寝ぼけて捨てた>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+"Q-taro was so sleepy, he threw it out!!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Sleeping and fainting ain't the same!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Settle down now... Let's think this over.)
+##
+
+#Message#
+\.\C[4](There's one major possibility...)
+##
+
+{SE: Accent28-1}
+#Message#
+\."It's because Sou took the tablet from Q-taro!"
+##
+
+<Choice End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Wha...?!"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."But they're locked by fingerprints, woof!!"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+{SE: Accent21-1}
+#Message#
+\."Sure, but while near him, he could bypass that by
+ simply pressing the fainted Q-taro's finger to it..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+\."...And so we arrive at an outrageous truth."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."W-Whaddya mean by that...?"
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Depending on when Sou looked at the tablet..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: sceneswitch2}
+#Message#
+\."He might've seen through our entire strategy..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Whaaaaa?!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."The worst time for it would be
+ after the \C[6]fourth trade\C[0]."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."That's when Q-taro had the \C[3]Sage\C[0],
+ and I had the \C[2]Keymaster\C[0]."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If he saw the tablet then, he could use Q-taro's
+ \C[3]Sage\C[0] power to also know I was the \C[2]Keymaster\C[0]..."
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."So... has Sou jus' been acting fooled?!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.".........."
+##
+
+[Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent28-1}
+#Message#
+\."Shoot, you got me..."
+##
+
+[Sou: Disdainful pose, smug eyes / cara5-14]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."...Or not. Wonder if I'm acting right now?
+ Or maybe I'm telling the truth?"
+##
+
+{Sara}
+#Message#
+\."Sou...!!"
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+{SE: sceneswitch2}
+#Message#
+\."Not good... Now there's the possibility
+ that Sou has the \C[10]Sacrifice\C[0]..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Gaaah!! So as it stands,
+ there's no way we can vote for Sou!!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."But that doesn't mean we can just
+ vote for Kanna or Nao, either...!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."It's no good! We shouldn't vote for Sou Hiyori!!"
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+#Message#
+\."Guess not... You can vote for Kanna or miss Nao,
+ whichever you like."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Why you...!!"
+##
+
+<Condition End>
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."...Ooogh..."
+##
+
+{Sou} [Sou: Looking down to side, glancing with smirk / cara5-18]
+{SE: Accent28-1}
+#Message#
+\."Well then... Let's resume the discussion, guys."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."We'll discuss \C[2]who it's safe to vote for\C[0]."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Condition End>
+
+<If Switch #641 (★アリス生存ルート) is ON>
+
+<Condition End>
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, sweat / cara4-11]
+#Message#
+"We gotta find the one with the least chance
+ of having the \C[10]Sacrifice\C[0]!!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+"Sou's an absolute no-go!
+ He's the most likely to pull this kinda trick!!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+"Sou Hiyori must be avoided at all costs!
+ For we don't know what he's thinking...!!"
+##
+
+<Condition End>
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+"But... between bucket girl and big sis Nao...
+ Is there any real difference, woof...?"
+##
+
+{Keiji} [Keiji: Looking to side, glancing gravely / cara2-5]
+#Message#
+"You'd need a certain amount of tokens to take
+ the \C[10]Sacrifice\C[0] from Sara in the \C[6]fifth trade\C[0]..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+

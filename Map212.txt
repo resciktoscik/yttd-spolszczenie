@@ -1,0 +1,393 @@
+=====Map212===== (★Battle Cemetery True Form)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: horror_piano chord3}
+#Message#
+\C[10]"How nice hatred is...
+ It lets me satisfy a person 100%..."
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Keiji} [Keiji: Facing forward, murderous intent / cara2-37]
+#Message#
+\."Now you die, \N[4]...!!"
+##
+
+<Else>
+
+[Keiji: Gripping shadowed face / cara2-34]
+#Message#
+\."Gimme that, Ranmaru...! Tag me!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Oww!"
+##
+
+{Keiji} [Keiji: Facing forward, murderous intent / cara2-37]
+#Message#
+\."Now you die, \N[4]...!!"
+##
+
+<Condition End>
+
+{\N[4]} [Midori: Mouth open, swirly eyes / cara19-6]
+#Message#
+\."Ahaha! Let us play, on the greatest of stages!!"
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+"W-What is this...?!"
+##
+
+{\N[4]} [Midori: Swirly eyes, evil dark overlay / cara19-7]
+{SE: shock1}
+#Message#
+\.\C[10]"A graveyard for broken dolls...!!"
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+
+**********Event2********** (EV002) (4,0)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]\N[4] and Keiji are staring each other down.
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Calm down, Keiji!!
+ Let's work together to corner him!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Hey! Don't be hasty, Keiji Shinogi!!
+ Let's use our numbers to corner him!!"
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Keiji is downed and having trouble moving.
+##
+
+#Message#
+\C[3]\N[4] and Keiji are staring each other down.
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+"U-Um... Dummies, won't you assist...?"
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, clenched teeth, sweating / cara95-13]
+#Message#
+\."Hold on...! If \N[4] really dies from tag,
+ what's gonna happen to us?!"
+##
+
+{Kanna} [Kanna: Offended shout with sweat / cara3-22]
+#Message#
+\."Huh?! W-Well...!"
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, smirk, sweating / cara95-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Tch... You can say we're unified,
+ but Keiji's seriously aiming to kill him..."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."B-But... If we lose, Keiji will...!"
+##
+
+<Else>
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+{SE: Accent21-1}
+#Message#
+"Let's back him into a corner.
+ Dummies, you circle around that way..."
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, clenched teeth, sweating / cara95-13]
+#Message#
+\."Hold on...! If \N[4] really dies from tag,
+ what's gonna happen to us?!"
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."What are you talking about?
+ That's just a time-wasting tactic..."
+##
+
+{Kurumada} [Kurumada: Narrowed eyes, smirk, sweating / cara95-12]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."You want me to just believe that...?"
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+#Message#
+\."..."
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Keiji is downed and having trouble moving.
+##
+
+#Message#
+\C[3]\N[4] and Keiji are staring each other down.
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+#Message#
+"Come now, you can't kill me like that!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I need to get Keiji back up...!!)
+##
+
+{\N[4]} [Midori: Default grin / cara19-2]
+{SE: Accent21-1}
+#Message#
+"Keiji, it won't turn out very well
+ if you shoot me in anger, you know."
+##
+
+{N/A}
+{SE: Attack3}
+#Message#
+\C[3]\N[4] kicked a doll head
+that was lying around at Keiji.
+##
+
+#Message#
+\.\C[3]Keiji took a direct hit and lost his balance.
+##
+
+{Sara}
+#Message#
+\."K-Keiji...!"
+##
+
+{Keiji}
+#Message#
+\."Dammit!! \N[4]...!!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Keiji's not in good condition!
+ I need to calm him down...!)
+##
+
+{N/A}
+#Message#
+\C[3]Keiji is downed and having trouble moving.
+##
+
+#Message#
+\C[3]\N[4] and Keiji are staring each other down.
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+"Dummies!! Fight with us already, meow!"
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes closed, teeth clenched, sweating, grave look / cara94-15]
+{SE: Accent21-1}
+#Message#
+\.".........."
+##
+
+{Gin} [Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."Suit-and-speeecs..."
+##
+
+<Else>
+
+{Hinako} [Hinako: Grave look, mouth open / cara93-12]
+#Message#
+\."Don't be absurd! What about our lives?!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Mya...!!"
+##
+
+<Condition End>
+
+{N/A}
+#Message#
+\C[3]Keiji is downed and having trouble moving.
+##
+
+#Message#
+\C[3]\N[4] and Keiji are staring each other down.
+##
+
+{\N[4]} [Midori: Mouth open / cara19-5]
+{SE: Accent21-1}
+#Message#
+"Why don't you give up already and tag Sara, Keiji?"
+##
+
+{Keiji} [Keiji: Gripping shadowed face, sweating / cara2-35]
+#Message#
+\."...!"
+##
+
+{N/A}
+#Message#
+\C[3]Keiji is downed and having trouble moving.
+##
+
+#Message#
+\C[3]\N[4] and Keiji are staring each other down.
+##
+
+<If Switch #21 (★アンズ生存ルート) is ON>
+
+{Anzu} [Anzu: Scared look, mouth closed / cara96-7]
+#Message#
+\."Sure enough... I can't cooperate with you..."
+##
+
+[Anzu: Scared look, mouth open / cara96-8]
+#Message#
+\."I don't want to die!
+ Everyone... stop this...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Anzu...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Anzu...!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #21 (★アンズ生存ルート))>
+
+{N/A}
+#Message#
+\C[3]Keiji is downed and having trouble moving.
+##
+
+#Message#
+\C[3]\N[4] and Keiji are staring each other down.
+##
+
+{\N[4]} [Midori: Closed-eyes grin / cara19-4]
+{SE: Accent21-1}
+#Message#
+"We're nearly out of time, you know?
+ What will you do, Keiji...?"
+##
+
+{Keiji} [Keiji: Gripping shadowed face, sweating / cara2-35]
+#Message#
+\."...!"
+##
+
+{N/A}
+#Message#
+\C[3]Keiji is downed and having trouble moving.
+##
+
+#Message#
+\C[3]\N[4] and Keiji are staring each other down.
+##
+
+{\N[4]} [Midori: Open-mouth frown / cara19-3]
+{SE: Accent21-1}
+#Message#
+"*sigh*... So our fun game of tag is over...
+ Bye-bye, Keiji."
+##
+
+{Keiji} [Keiji: Gripping shadowed face, sweating / cara2-35]
+#Message#
+\."Wait...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](The red parts of the monster are electrified!
+ We should only touch the armor...!)
+##
+
+#Message#
+\.\C[4](The monster doesn't feel pain!
+ If we want to use the torch, we'll have to
+ grab its attention or immobilize it...!)
+##
+
+#Message#
+\.\C[4](The red thing on its chest...
+ What exactly is that? A weak point...?)
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]Q-taro is grabbing \N[4]'s legs.
+##
+
+#Message#
+\C[3]The monster is being held down.
+##
+
+#Message#
+\C[3]The monster is defenselessly trying to get up.
+##
+

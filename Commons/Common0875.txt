@@ -1,0 +1,177 @@
+**********Common875********** (クルマダ)
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+"'Parently monsters lurk on this floor.
+ Oughta round up some weapons."
+##
+
+{SE: Accent28-1}
+#Message#
+"Bwahaha... You're Sara Chidouin, ain't ya?"
+##
+
+{Sara}
+#Message#
+\."Is something funny, Mr. Kurumada?"
+##
+
+{Kurumada} [Kurumada: Frown / cara95-2]
+#Message#
+\."Sure is. You're just a plain ol' high schooler."
+##
+
+[Kurumada: Grin / cara95-3]
+#Message#
+\."Way to survive, am I right? Straight-up amazin'."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+It's been close
+It's thanks to my allies
+There's been many sacrifices
+##
+
+<ギリギリです>
+
+{Sara} [Kurumada: Grin / cara95-3]
+{SE: Accent21-1}
+#Message#
+"It's been a close call at every turn.
+ I've just been lucky..."
+##
+
+{Kurumada}
+#Message#
+\."Strong folks are blessed by luck.
+ 'Course, I had zilch."
+##
+
+[Kurumada: Mouth open / cara95-1]
+#Message#
+\."If you're all focused on winning,
+ things can fall apart pretty quick, y'know?
+ Oughta keep that in mind."
+##
+
+{Sara}
+#Message#
+\."W-Winning..."
+##
+
+<仲間のおかげです>
+
+{Sara} [Kurumada: Mouth open / cara95-1]
+{SE: Accent21-1}
+#Message#
+"It's thanks to my allies. We all help each other..."
+##
+
+{Kurumada}
+#Message#
+\."Allies, huh?"
+##
+
+{Sara}
+#Message#
+\."Yes."
+##
+
+{Kurumada} [Kurumada: Frown / cara95-2]
+#Message#
+\."..."
+##
+
+[Kurumada: Grin / cara95-3]
+#Message#
+\."Well, alright then. Guess that was
+ the right call after all if you're still alive."
+##
+
+<多くの犠牲があった>
+
+{Sara} [Kurumada: Grin / cara95-3]
+{SE: Accent21-1}
+#Message#
+"Even if I have, we've made many sacrifices..."
+##
+
+#Message#
+\."I've lost... countless allies..."
+##
+
+{Kurumada} [Kurumada: Frown / cara95-2]
+#Message#
+\.".........."
+##
+
+[Kurumada: Mouth open / cara95-1]
+{SE: sceneswitch2}
+#Message#
+\."Don't go makin' allies, dumbass."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+#Message#
+\."My bad, my bad. Forget I said it."
+##
+
+<Choice End>
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: Accent28-1}
+#Message#
+\."Oh yeah, but really, I should tell you.
+ 'Parently there's \C[2]monsters\C[0] lurking on this floor."
+##
+
+{Sara}
+#Message#
+\."Monsters?"
+##
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+\."Probably just dolls, really, but it'll spell tragedy
+ if we don't get weapons. You ever been in a fight?"
+##
+
+{Sara}
+#Message#
+\."Not the violent sort, naturally."
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."Then you have your fluffy-mop buddy give 'em hell.
+ Maybe if you give 'im a good smooch,
+ he'll work his butt off for ya."
+##
+
+{Sara}
+#Message#
+\."No, if someone else is going to fight for their life,
+ I'm going to fight for my life too."
+##
+
+{Kurumada} [Kurumada: Frown / cara95-2]
+#Message#
+\."..."
+##
+
+[Kurumada: Grin / cara95-3]
+{SE: Accent28-1}
+#Message#
+\."I see, I see. You're real interestin'."
+##
+

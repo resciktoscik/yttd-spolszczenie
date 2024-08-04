@@ -1,0 +1,17 @@
+**********Common1495********** (⑥レコB選択)
+{N/A}
+#Message#
+"Times like these, it's best to shut up and listen!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

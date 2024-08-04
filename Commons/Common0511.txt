@@ -1,0 +1,224 @@
+**********Common511********** (②進展●犠牲が必須)
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."W-What... what'd you just say...?!"
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."There's only one way to get a weight of 35.3kg..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+{SE: sceneswitch2}
+#Message#
+\."...A human body..."
+##
+
+#Message#
+\."If someone falls...
+ That will weigh down the switch and rescue Gin."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...And be skewered...?!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."You're saying if we wanna save those two...
+ One of us has to be sacrificed?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Ahaha... You just noticed?"
+##
+
+#Message#
+\."Yes, the \C[2]Impression Room\C[0]
+ allows you to leave an \C[2]impression\C[0]...
+ With someone's sacrifice, you can stop the device."
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."You goddamn...!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."But see, y'all are some lucky bastards too!
+ Right, Safalin?!"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."...If Q-taro had placed last,
+ he would be over 100 kilograms, so..."
+##
+
+#Message#
+\."I imagine all three of you would have had to \C[2]descend\C[0]
+ in order to save him."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Hm...? Did she just...)
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."C'mon, pay more attention to the time you got left!
+ It's really gettin' down there, okaaay?"
+##
+
+[Ranger: Smirk-in-profile sign / cara18-6]
+#Message#
+\."Soon enough... This discussion'll be over.
+ So you might wanna settle quickly..."
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]"On who to sacrifice."
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+"Make a sacrifice... for Gin...?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\.".........."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Huh? What's wrooong?
+ Haven't you been racking your brains to do just that?"
+##
+
+{Nao} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."T... This is awful...
+ I can't decide such a thing..."
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+#Message#
+\."Ehh? What're you babbling about?"
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"If it were Mishima instead of Gin...
+ You'd push your allies in a heartbeat, right, Nao?"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Don't be ridiculous!!
+ I would never...!!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+{SE: Onmtp-Surprise03-1}
+#Message#
+\."...Ahaha. If you don't like pushing,
+ you'll just have to sacrifice yourself."
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."...!!"
+##
+
+{Ranger} [Ranger: Mishima face sign / cara18-5]
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Any kind girls who wish to save Gin,
+ please skewer yourselves, by all means!"
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+#Message#
+\.\C[10]\sp[10]"Ahahahahahahahahaha..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."...You're meddling too much
+ in this human discussion, doll."
+##
+
+{Ranger} [Ranger: Blank eyes sign / cara18-8]
+#Message#
+\."...Ehh?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Do you three remember?"
+##
+
+[Keiji: Default smile / cara2-1]
+#Message#
+\."Ranger said it when we first met.
+\! "If you do well in the Sub-Game,
+ then no one will have to die.""
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Ah...! That's right!"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Strange, huh? If somebody has to die to win,
+ that violates the rules."
+##
+
+{Sara}
+#Message#
+\."...Then..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."...There must be a way to not be skewered."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."You serious...?!
+ It's 35 kilograms!! What can the three of us do...?"
+##
+
+[Reko: Hands out, wide-eyed shout / cara6-12]
+#Message#
+\."D-Don't tell me, cut off parts of our bodies...?!
+ Oogh... I can't do somethin' that gross!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent28-1}
+#Message#
+\."The floor tile! If we ride on the tile we removed,
+ maybe we can avoid the spikes piercing us...!"
+##
+

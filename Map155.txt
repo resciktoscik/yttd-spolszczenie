@@ -1,0 +1,365 @@
+=====Map155===== (★Pre-Final Battle Map)
+
+**********Event1********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+#Message#
+\C[3]Before me are strange, familiar desks.
+##
+
+{Keiji} [Keiji: Turned to side tousling hair, slight smile / cara2-21]
+{SE: sceneswitch2}
+#Message#
+"...You're here."
+##
+
+{Sara}
+#Message#
+\."You're early, Keiji..."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+{SE: sceneswitch2}
+#Message#
+"What was that earlier, meow...?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+{SE: sceneswitch2}
+#Message#
+"Gashu! What's going on?! Explain yourself!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: sceneswitch2}
+#Message#
+"Hey! Gashu! I have the right to an explanation!"
+##
+
+<Condition End>
+
+{Sou} [Sou: Looking down to side / cara5-4]
+{SE: sceneswitch2}
+#Message#
+"Kinda feels like this won't be a normal Main Game..."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+{SE: sceneswitch2}
+#Message#
+"It's... starting all over again..."
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+{SE: sceneswitch2}
+#Message#
+".........."
+##
+
+{Gashu}
+#Message#
+"Oh my, what a bustling crowd."
+##
+
+[Gashu: Default / cara16-1]
+{SE: sceneswitch2}
+#Message#
+"Did you call for me?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."You...! What's this transgression Miley mentioned?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."You... What's the transgression Miley mentioned?!"
+##
+
+<Condition End>
+
+{Gashu} [Gashu: Raised eyebrow / cara16-3]
+{SE: Accent21-1}
+#Message#
+\."Transgression? I'm afraid I don't know what you mean."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\."Don't tell me it's about the wallet...!"
+##
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+#Message#
+\."...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh...?
+ That reaction seems to indicate it's not...)
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+{SE: Accent28-1}
+#Message#
+\."Understand that if there truly is a transgression,
+ it should become clear in your discussion."
+##
+
+[Gashu: Head tilt / cara16-6]
+#Message#
+\."Supposing one is discovered, it will be addressed."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Yeah right, jackass! It's you who's gonna decide
+ what counts as a transgression, isn't it?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."Don't mock us, would you?!
+ You're the one deciding what counts as one, surely?!"
+##
+
+<Condition End>
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Gashu..."
+##
+
+#Choice#
+Call in Miley
+Call in Safalin
+##
+
+<ホエミーを呼べ>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: se_maoudamashii_magical14}
+#Message#
+"At least call Miley!
+ So she can hand down a judgement on any misconduct!"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."...Miley is the Floor Master for floors 1 and 2.
+ I cannot do that."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."Then call Safalin."
+##
+
+<ハンナキーを呼べ>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+"At least call Safalin!
+ So she can hand down a judgement on any misconduct!"
+##
+
+<Choice End>
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."..."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: sceneswitch2}
+#Message#
+\."Very well, if that will satisfy you."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: sceneswitch2}
+#Message#
+\.".........."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Please... Be our impartial judge."
+##
+
+{Gashu} [Gashu: Eyes closed / cara16-5]
+#Message#
+\."...Bwahaha..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."What're you laughin' at, asshole?!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Why do you laugh...?!"
+##
+
+<Condition End>
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."...I am joyful."
+##
+
+[Gashu: Mouth open / cara16-2]
+{SE: Thunder10}
+#Message#
+\."Such determination to have a fair slaughter,
+ without having to worry over misconduct...!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, enraged face / cara6-19]
+#Message#
+\."You goddamn...!!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Why, you...!!!!"
+##
+
+<Condition End>
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Now then, let the second Main Game..."
+##
+
+{Voice}
+#Message#
+"Hang on!!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+"Gah...!\. *pant*...!\. *gasp*...!"
+##
+
+{Gashu} [Gashu: Mouth open / cara16-2]
+#Message#
+\."Ohh...! Very good! Everyone has assembled."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."D... Dammit!! So it's starting after all...?!"
+##
+
+{Gashu} [Gashu: Default / cara16-1]
+#Message#
+\."Indeed, we have talked long enough."
+##
+
+[Gashu: Mouth open / cara16-2]
+#Message#
+\."Now, we shall begin the second Main Game."
+##
+
+
+**********Event3********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event4********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event5********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event6********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event7********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event9********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

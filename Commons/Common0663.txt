@@ -1,0 +1,88 @@
+**********Common663********** (ﾚｺ「ﾅｵの様子」)
+{Reko}
+#Message#
+"Come to think of it... I was wondering about how Nao
+ spent most of the first half in the Room of Lies..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I'm not lyin'! Okay, Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+"Something up with that statement?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+"Though actually, maybe it was just tough for her
+ to stay in her room 'cause of the fake Mishima."
+##
+
+[Reko: Smile / cara6-4]
+#Message#
+\."See, no point in suspecting her if we know the reason!
+ Isn't that right, Sara?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](If there's no other reason, then sure...)
+##
+

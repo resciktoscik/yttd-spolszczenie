@@ -1,0 +1,71 @@
+**********Common1690********** (・ｱﾝｽﾞ「Q刺し」)
+{Anzu}
+#Message#
+"Mai had the belief she was a doll,
+ which is why she stabbed Q-taro!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"Whatcha mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Anzu} [Anzu: Concerned / cara96-4]
+#Message#
+"Whatcha mean?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Anzu} [Anzu: Hood over half of face, worried / cara96-12]
+#Message#
+"She was just afraid of what \N[4] said!"
+##
+
+[Anzu: Hood over half of face, worried, mouth open / cara96-11]
+#Message#
+\."So she's not a villain or anything, right?!"
+##
+

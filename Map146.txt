@@ -1,0 +1,318 @@
+=====Map146===== (❹Kitchen)
+
+**********Event2********** (deguti) (10,2)
+-----Page1-----
+#Message#
+\C[3]This is where we came from.
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."To think it would connect to here..."
+##
+
+
+**********Event4********** (keiziman) (8,5)
+-----Page1-----
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Well now, I remember coming here."
+##
+
+{Sara}
+#Message#
+\."If I remember right..."
+##
+
+#Message#
+\."This is the first floor \C[2]kitchen\C[0]."
+##
+
+{Keiji}
+#Message#
+\."The place where Nao was hiding out
+ and holding Professor Mishima's head..."
+##
+
+{Sara} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\.\C[4](It's pitch black...
+ Was Nao sitting in the dark like this, too...?)
+##
+
+#Message#
+\.\C[4](All alone... talking to Mishima's head...)
+##
+
+{Keiji} [Keiji: Turned to side, looking ahead / cara2-16]
+#Message#
+\."Nao was despairing..."
+##
+
+[Keiji: Turned to side, head lowered uneasily / cara2-15]
+#Message#
+\."And Kai used that despair."
+##
+
+#Message#
+\."To take the laptop from Sou."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Amazing how she could recover from that."
+##
+
+{Sara}
+#Message#
+\."...We're all getting a stronger, bit by bit."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Yeah...
+ But at the same time..."
+##
+
+#Message#
+\.".........."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: Accent21-1}
+#Message#
+\."No, forget it."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](Hold on a second...
+ Did no one notice this secret passage?)
+##
+
+#Choice#
+Maybe Kai...
+Maybe Nao...
+Maybe Miley...?
+##
+
+<カイさんなら…>
+
+{Sara} [Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I wonder if Kai noticed this secret passage..."
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."Yeah, that's the feeling I'm getting."
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+<ナオさんなら…>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I wonder if Nao noticed this secret passage..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."Hmm...
+ She had the time to look for it, but..."
+##
+
+#Message#
+\."You really think in all her distress,
+ she was up for something like that?"
+##
+
+{Sara}
+#Message#
+\.\C[4](That's true...)
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."But Kai... Maybe he noticed."
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+<ホエミーは…？>
+
+{Sara} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I wonder if Miley knew about this secret passage?"
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."...Probably."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."She calls herself a Floor Master.
+ Wouldn't surprise me if she knew
+ the structure of the rooms."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent21-1}
+#Message#
+\."...And Kai might've noticed it, too."
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Whether he knew it from the start
+ or only noticed while searching, I don't know..."
+##
+
+[Keiji: Scratching shoulder, smiling / cara2-7]
+#Message#
+\."But I'm thinking that's the fundamental reason
+ the laptop ended up in the Room of Rubble."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Kai came to the third floor,
+ and placed the laptop there...)
+##
+
+#Message#
+\.\C[4](He's right, it's possible...)
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Wahaha... That's convinced me, personally."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."...Alright. Let's go look for Gin."
+##
+
+
+**********Event6********** (tukue) (13,6)
+-----Page1-----
+{N/A}
+#Message#
+\.\C[3]There's some storage space for cookware.
+##
+
+
+**********Event29********** (犠牲者D) (9,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Video
+
+The victim video Nao had. It shows a policewoman
+dying in the First Trial. Is the man in front Keiji?
+##
+
+
+**********Event30********** (犠牲者E) (10,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk E
+
+A victim disk found on 1F.
+##
+
+
+**********Event31********** (犠牲者F) (9,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Victim Disk F
+
+A victim disk found on 1F.
+##
+
+
+**********Event32********** (１階監視カメラのデータ) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]1F Security Footage
+
+Filmed by 1F security cameras. Shows our past actions.
+Sou witnessed Q-taro placing the cards.
+##
+
+
+**********Event33********** (パッド) (9,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Tablet
+
+A tablet you can use to check your role card.
+Found it next to passed-out Q-taro in the Rubble Room.
+##
+
+
+**********Event34********** (aohako) (10,3)
+-----Page1-----
+#Message#
+\C[3]It seems to be a refrigerator.
+##
+
+
+**********Event42********** (kuu) (7,2)
+-----Page1-----
+#Message#
+\C[3]The room is well air-conditioned.
+##
+
+
+**********Event46********** (スタンガン) (10,12)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Stun Gun
+
+A disposable stun gun that can immobilize a person.
+It's dangerous, so Gin and I took it in secret.
+##
+
+
+**********Event48********** (ロエルのチップ) (10,9)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]Laizer's Chip
+
+A small chip removed from Rio Laizer's head.
+Capable of nullifying the facility's security.
+##
+

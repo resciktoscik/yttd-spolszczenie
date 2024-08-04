@@ -1,0 +1,113 @@
+**********Common674********** (ﾅｵ「ｷﾞﾝなし」)
+{Nao}
+#Message#
+"If Gin had the \C[10]Sacrifice\C[0] even once,
+ he wouldn't be able to trade it!"
+##
+
+#Message#
+"How about we leave out Gin,
+ since he doesn't have any tokens?!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Am I saying something strange?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+"Hyack! I'm sorry!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"That's why Gin is likely to have the \C[10]Sacrifice\C[0]...!
+ Isn't that a stellar reasoning?!"
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent28-1}
+#Message#
+"Just listen...! The best person to leave out is
+ someone who's \C[2]very likely\C[0] to have the \C[10]Sacrifice\C[0]!"
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."If the \C[10]Sacrifice\C[0] comes around to you,
+ you can trade it away if you have tokens, right?"
+##
+
+[Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."But... Gin has zero tokens...!"
+##
+
+[Nao: Hand on chest, head lowered, grim look / cara7-24]
+{SE: sceneswitch2}
+#Message#
+\."If Gin had the \C[10]Sacrifice\C[0] even once,
+ he wouldn't be able to trade it!"
+##
+
+{Sara}
+#Message#
+\.\C[4](And so there's a high chance he's the \C[10]Sacrifice\C[4]...?)
+##
+

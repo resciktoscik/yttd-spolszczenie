@@ -1,0 +1,551 @@
+=====Map14===== (Central Plaza)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{???} [Keiji: Default smile / cara2-1]
+#Message#
+"Hellooo?"
+##
+
+#Message#
+\."You can't sit there stupefied forever, miss."
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+#Message#
+\."Where is this...?"
+##
+
+{???}
+#Message#
+\."Beats me..."
+##
+
+{Sara}
+#Message#
+\."Ah..."
+##
+
+#Message#
+\."..."
+##
+
+{N/A}
+#Message#
+\.\C[3]I'm alive...
+##
+
+#Message#
+\.\C[3]I'm not even hurt...
+##
+
+{Sara}
+#Message#
+\.\C[4](!! People...!)
+##
+
+{Punk Lady} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Who the hell're you guys?!
+ Where even is this?!"
+##
+
+{Giant} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Like we've got any idea ourselves!
+ Calm down, lady!"
+##
+
+{Woman in Overalls} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Is there no one here who can explain?!"
+##
+
+{Man in Apron} [Kai: Default / cara8-1]
+#Message#
+\."Just what is going on...? How troubling..."
+##
+
+{N/A}
+#Message#
+\.\C[3]They seem too distracted to take any notice of me.
+##
+
+{Sara}
+#Message#
+\.\C[4](What in the world... is happening?)
+##
+
+
+**********Event2********** (naka) (8,4)
+-----Page1-----
+#Message#
+\C[3]In the center, there's a discussion happening
+centered around a single man.
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+"Now hold on a second!
+ We should confirm what each of us knows."
+##
+
+{Woman in Overalls} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"That's all well and good...
+ But I don't even know where this is!"
+##
+
+{Man in Suit} [Mishima: Default smile / cara12-1]
+#Message#
+"I had quite a terrible experience earlier...
+ So I can't remain calm... Mwahaha."
+##
+
+{N/A}
+#Message#
+\.\C[3]They seem pretty confused.
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh...?)
+##
+
+[Joe: Default / cara1-11]
+{SE: Accent28-1}
+#Message#
+\C[4](Joe...?)
+##
+
+#Message#
+\.\C[4](He's also wearing... one of those \C[2]collars\C[4]...)
+##
+
+{N/A}
+#Message#
+\.\C[3]With a shiver, I touched my own neck.
+##
+
+#Message#
+\.\C[3]There was... something...
+##
+
+{Sara}
+#Message#
+\.\C[4](A collar...?!)
+##
+
+#Message#
+\.\C[4](Can't... get it off...!)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Everyone here had a collar put on them...!
+##
+
+-----Page2-----
+[Keiji: Default smile / cara2-1]
+#Message#
+\C[3]The discussion centered around
+the man in the middle continues.
+##
+
+{Sara}
+#Message#
+\.\C[4](Joe's there too, but he can't get a word in.)
+##
+
+-----Page3-----
+#Message#
+\C[3]Their discussion is still going on.
+##
+
+#Message#
+\.\C[3]Finally, my head was starting to clear.
+##
+
+{Sara}
+#Message#
+\.\C[4](There are \C[2]11 people\C[4] here, including myself...)
+##
+
+#Message#
+\.\C[4](All of us are wearing \C[2]collars\C[4]...)
+##
+
+#Message#
+\.\C[4](...)
+##
+
+{SE: horror_piano chord3}
+#Message#
+\.\C[4](...Why isn't Joe coming over to me?)
+##
+
+#Message#
+\.\C[4](Has he not noticed I'm awake?)
+##
+
+#Choice#
+Call for Joe
+Run up and punch Joe
+##
+
+<ジョーに声をかける>
+
+{Sara} [Joe: Serious look / cara1-14]
+#Message#
+\."Joe!"
+##
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\."Good... So you're okay."
+##
+
+<ジョーに殴りかかる>
+
+{Sara} [Joe: Serious look / cara1-14]
+#Message#
+\."Joe!"
+##
+
+{Joe} [Joe: Upset groan / cara1-16]
+#Message#
+\."OWW!!"
+##
+
+{Sara}
+#Message#
+\."Maybe that was too much force...
+\! Joe! So you're okay!"
+##
+
+<Choice End>
+
+{Joe} [Joe: Default / cara1-11]
+#Message#
+\."..."
+##
+
+[Joe: Serious look / cara1-14]
+#Message#
+\."...Who're you?"\.
+##
+
+{Sara}
+{SE: horror_piano chord3}
+#Message#
+\."Wh...!!"\.\.
+##
+
+{N/A}
+#Message#
+\.\C[3]What kind of joke was that...
+##
+
+{Sara}
+#Message#
+\."What are you saying?! I'm Sara!
+ Did you forget your own friend's face?!"
+##
+
+{Joe}
+#Message#
+\."..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Don't tell me... He's seriously saying
+ he doesn't know me or something...?)
+##
+
+{Joe}
+#Message#
+\."..."
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."Could you be the Sara who's a terrible swimmer?"
+##
+
+{Sara}
+{SE: Onmtp-Surprise05-1}
+#Message#
+\."Whuh..."
+##
+
+#Message#
+\."J... Joe!
+ This is not the time for jokes!!"
+##
+
+{Joe}
+#Message#
+\."My bad, my bad! Hahaha!"
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+"Hmm..."
+##
+
+#Message#
+\."Joe and Sara, eh..."
+##
+
+#Message#
+\."...You two are friends?"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+#Message#
+\."Y... Yes, we are..."
+##
+
+{Blond Man}
+#Message#
+\."Thanks for that.
+ Joe here wasn't speaking up, see..."
+##
+
+#Message#
+\."Must've been wary of something...
+ Wouldn't even tell me his name."
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."..."
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+\."Alright, everybody, listen up."
+##
+
+#Message#
+\."I bet we're all thinking the same thing."
+##
+
+#Message#
+\."What is this place?
+ Why was I brought here?"
+##
+
+#Message#
+\."And about all you know is who you are."
+##
+
+{Man in Suit} [Mishima: Default smile / cara12-1]
+#Message#
+\."What are you getting at, I wonder...?"
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+\."How about we \C[2]give introductions\C[0]?
+ Should ease the suspicion a little, at least."
+##
+
+{Man in Apron} [Kai: Raised eyebrows / cara8-2]
+#Message#
+\."Introductions, you say?"
+##
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+\."Not a whole lot else we can do."
+##
+
+#Message#
+\."Am I right, Sara?"
+##
+
+{Sara}
+#Message#
+\."Huh...? You're asking me?"
+##
+
+#Choice#
+I support it
+Don't get friendly with me
+##
+
+<意見に賛成する>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."True... I want to clear up our situation."
+##
+
+{Blond Man}
+#Message#
+\."...See, the calm ones know what to say."
+##
+
+<なれなれしく呼ばないでほしい>
+
+{Sara} [Keiji: Default smile / cara2-1]
+#Message#
+\."I'd prefer if you didn't immediately
+ get on a first-name basis with me..."
+##
+
+{Blond Man} [Keiji: Frown / cara2-2]
+#Message#
+\."All the more reason to introduce yourself.
+ 'Cause I've got no other basis to use."
+##
+
+<Choice End>
+
+{Blond Man} [Keiji: Frown / cara2-2]
+#Message#
+\."Okay, once you're ready, it's introduction time.
+ Just tell me when, Sara."
+##
+
+-----Page4-----
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+"Right then. Time to give introductions?"
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+
+{Blond Man} [Keiji: Default smile / cara2-1]
+#Message#
+"Okie-dokie."
+##
+
+
+**********Event3********** (migi) (13,4)
+-----Page1-----
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\C[3]Looking right, I notice an especially restless woman.
+##
+
+{Punk Lady}
+#Message#
+"Graaah!! We've been abducted!
+ By some crazy assholes!!"
+##
+
+{Strange Child}
+#Message#
+\."Be quiet, meow!! Don't scream in my ear, woof!!"
+##
+
+{Beanie Man}
+#Message#
+\."H... Hey now... Fighting's no good."
+##
+
+{N/A}
+#Message#
+\.\C[3]I could feel the tension in the air.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](There's even a grade-school-age kid...?)
+##
+
+-----Page2-----
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\C[3]I can feel the tension in the air.
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm getting increasingly uneasy myself...)
+##
+
+
+**********Event4********** (hidari) (3,4)
+-----Page1-----
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\C[3]Some slightly calmer people are talking on the left.
+##
+
+{Red-Haired Giant}
+#Message#
+"What's goin' on...?
+ Feels like we're wrapped up in somethin' outrageous."
+##
+
+{Man in Apron}
+#Message#
+"Yes... It would appear so."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Huh... Have I seen this person somewhere...?)
+##
+
+{Frightened Girl}
+#Message#
+"...Ooooh..."
+##
+
+{N/A}
+#Message#
+\.\C[3]The girl squatting seems terribly frightened.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Did something happen...?!)
+##
+
+-----Page2-----
+[Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\C[3]There's two men keeping a watchful eye...
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\C[3]And a terrified girl.
+##
+
+{Sara}
+#Message#
+\.\C[4](That's no ordinary sort of fear...)
+##
+

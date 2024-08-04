@@ -1,0 +1,17 @@
+**********Common1031********** (①アンズB選択)
+{N/A}
+#Message#
+"Hey, somebody help!! Lend me a hand!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

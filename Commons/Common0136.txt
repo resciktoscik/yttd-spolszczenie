@@ -1,0 +1,390 @@
+**********Common136********** (進展●「なぜ怒らぬ」)
+{Joe}
+{SE: Accent28-1}
+#Message#
+"Nao... I'm a little curious."
+##
+
+{Nao}
+#Message#
+\."Huh...?"
+##
+
+{Joe}
+#Message#
+\."Maybe I've just got a rough disposition...
+ But why didn't you think about
+ looking for the culprit?"
+##
+
+#Message#
+\."I mean, even if it was an accident.
+ That happened to someone you respected...
+ because he was voted for..."
+##
+
+#Message#
+\."Ain't it... more natural to get angry?"
+##
+
+{Nao}
+#Message#
+\."I-I... I don't think so at all..."
+##
+
+{Sou}
+#Message#
+\."Maybe... you didn't respect him?"
+##
+
+{Nao}
+#Message#
+\."W-What are you..."
+##
+
+{Sou}
+#Message#
+\."Miss Nao and Professor Mishima had no bond at all...
+ Then I'd understand her mindset of
+ not seeking out the culprit."
+##
+
+{Nao}
+#Message#
+\."How awful..."
+##
+
+#Message#
+\."You're awful!! Just awful!!
+ I truly did...!!"
+##
+
+{Keiji}
+#Message#
+\."...Sara, what do you think?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I think...)
+##
+
+#Choice#
+Consider their bond real
+Consider their bond fake
+##
+
+<絆は本物だと思って考える>
+
+{Sara}
+#Message#
+\.\C[4](Those two... seemed to have a great relationship.
+ I can't point to some logical proof,
+ there was just something about it...)
+##
+
+#Message#
+\.\C[4](Nao being that distraught couldn't be an act.)
+##
+
+#Message#
+\.\C[4](And yes, there must be some reason
+ for the head disappearing from the box...!)
+##
+
+<絆なんて嘘だと思って考える>
+
+{Sara}
+#Message#
+\.\C[4](Were they somehow... mismatched?
+ Some part of their relationship I didn't notice...)
+##
+
+#Message#
+\.\C[4](Was Nao's distress... an act?)
+##
+
+#Message#
+\.\C[4](Then what about the head disappearing from the box?
+ Did Nao... do something?)
+##
+
+<Choice End>
+
+{Kai}
+#Message#
+\."The collar..."
+##
+
+{Sara}
+#Message#
+\."Uh...?"
+##
+
+{Kai}
+#Message#
+\."Suppose miss Nao didn't stick him
+ in the box out of affection..."
+##
+
+#Message#
+\."Rather, maybe her objective was to
+ retrieve the \C[2]collar\C[0] on his neck...?"
+##
+
+{Sou}
+#Message#
+\."I get it... Because that's top-secret info
+ that Miley failed to collect."
+##
+
+{Joe}
+#Message#
+\."You're saying... Nao's working with the kidnappers
+ and collected the collar in Miley's place?!"
+##
+
+{Q-taro}
+#Message#
+\."H... Hey!!
+ Ya bein' serious?!"
+##
+
+{Nao}
+#Message#
+\."What, what...?! What are you talking abooout?!"
+##
+
+#Message#
+\."I don't know! I don't know anything!
+ Please, just stop it!!"
+##
+
+{Joe}
+#Message#
+\."Then tell us! Why didn't you care
+ who the culprit was after the vote?!"
+##
+
+#Message#
+\."'Cause Professor Mishima was killed
+ by the people who voted -"
+##
+
+{Reko}
+#Message#
+\."You stop right there, Joe!!"
+##
+
+{Joe}
+#Message#
+\."...!!"
+##
+
+{Reko}
+#Message#
+\."Stop it...! Don't say another word...
+ I'm beggin' you...!!"
+##
+
+#Message#
+\."I'll talk! I'll tell you everything!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Wha...?)
+##
+
+{Reko}
+#Message#
+\."I overheard... all of it."
+##
+
+#Message#
+\."It was just before the vote..."
+##
+
+#Message#
+\."Mishima said something... quiet enough that
+ only somebody real close could hear."
+##
+
+{Mishima}
+#Message#
+\."Miss Nao... Miss Nao..."
+##
+
+{Nao}
+#Message#
+\."...?"
+##
+
+{Mishima}
+#Message#
+\."Let us vote for each other."
+##
+
+{Q-taro}
+#Message#
+\."He said that...?"
+##
+
+{Reko}
+#Message#
+\."Thinking the vote was just a test...
+ I'm sure Nao voted for Mishima like he asked..."
+##
+
+#Message#
+\."But... Mishima \C[2]voted for himself\C[0]...!"
+##
+
+{Keiji}
+#Message#
+\."To protect his student... just in case?"
+##
+
+{Reko}
+#Message#
+\."That's... why Nao didn't look for the culprit..."
+##
+
+#Message#
+\."Don't bring up any "ill will" crap,
+ 'cause it doesn't matter...!"
+##
+
+#Message#
+\."His death was an accident!!"
+##
+
+{Joe}
+#Message#
+\."Nao..."
+##
+
+{Nao}
+#Message#
+\."I... Aaaah...
+ If I... hadn't voted for him...!"
+##
+
+{Joe}
+#Message#
+\."I'm sorry...! I'm sorry, Nao...!"
+##
+
+#Message#
+\."Just 'cause I voted for myself...
+ I'd been thinking, whoever voted for another person
+ must've had bad intentions...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](What...?!)
+##
+
+#Message#
+\."Wait! Joe!
+ You voted for yourself?!"
+##
+
+{Joe}
+#Message#
+\."Huh? Yeah..."
+##
+
+{Sara}
+#Message#
+\."Sou! Didn't you tell me you voted for Joe...?!"
+##
+
+{Sou}
+#Message#
+\."No way, I didn't say anything like that."
+##
+
+{Sara}
+#Message#
+\.\C[4](...!!)
+##
+
+{Joe}
+#Message#
+\."W... What's this about, Sou?"
+##
+
+{Sou}
+#Message#
+\."Ahaha, don't worry about it, everybody.
+ Miss Sara asked me who I voted for,
+ so I just told her whatever."
+##
+
+#Message#
+\."She's so diligent, she must've taken it seriously."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou...!
+\! This...!! This guy...!!)
+##
+
+#Message#
+\.\C[4](He's a huge liar...!!)
+##
+
+{Gonbee}
+#Message#
+\."Hmph...
+ This is getting to be too much. Let me summarize."
+##
+
+#Message#
+\."Macho man, you indicted the brat, the bucket girl,
+ and this Nao woman, feeling they dragged you down."
+##
+
+{Q-taro}
+#Message#
+\."Yep. But Sara's explainer helped me see
+ Nao's been useful after all."
+##
+
+{Gonbee}
+#Message#
+\."Then next is the brat.
+ Have you anything to say?"
+##
+
+{Gin}
+#Message#
+\.".........."
+##
+
+{Gonbee}
+#Message#
+\."Hmph... Staying silent is only
+ tightening the noose around your neck..."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."...Meow... meow..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Gin's frightened!
+ And it's you crude-ass men to blame!"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."We've got no time.
+ Gin, prove that you've been useful to everybody!"
+##
+

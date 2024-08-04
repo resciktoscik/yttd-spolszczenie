@@ -1,0 +1,42 @@
+**********Common129********** (ｶﾝﾅ「私は…」)
+{Kanna}
+#Message#
+"Kanna..."
+##
+
+[Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\."Kanna... Have you noticed anything
+ in your searching so far?"
+##
+
+{Kanna}
+#Message#
+\."U-Um..."
+##
+
+{Sou}
+#Message#
+\."..."
+##
+
+{Kanna}
+#Message#
+\."..."
+##
+
+#Message#
+\."No... nothing..."
+##
+
+{Sara}
+#Message#
+\."You can take your time.
+ Just slowly think back, okay?"
+##
+

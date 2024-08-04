@@ -1,0 +1,23 @@
+**********Common1522********** (⑦マイB選択)
+{N/A}
+#Message#
+"I've got a weapon...
+ I'll try \C[2]throwing\C[0] this to attack!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

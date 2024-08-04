@@ -1,0 +1,135 @@
+**********Common515********** (ﾅｵ「座布団作戦」)
+{Nao}
+#Message#
+"The floor tile... won't be a good shield, huh..."
+##
+
+#Message#
+"The floor tile! If we ride on the tile we removed,
+ maybe we can avoid the spikes piercing us...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+"I... don't really understand!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Is that related to something...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+"Still, we have to think! There must be something...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah... She's not wrong about using an object.
+ Maybe that item that's been mystifying me...!)
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+"Basically, we fall using the tile as a cushion!"
+##
+
+[Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: Accent28-1}
+#Message#
+\."It'll be a shield against the spikes!"
+##
+
+{Sara}
+#Message#
+\."...Might be difficult."
+##
+
+#Message#
+\."We noticed the trick to this because of
+ a fragment breaking off the tile, right...?"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent21-1}
+#Message#
+\."Ack...!"
+##
+
+{Sara}
+#Message#
+\."That's right. This tile is pretty fragile.
+ ...That's why the fragment could come off."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."So it wouldn't be a good shield."
+##
+
+{Sara}
+#Message#
+\.\C[4](But maybe she's sort of on the right track
+ as far as using an object to help...)
+##
+
+#Message#
+\.\C[4](I think... I'm starting to see the meaning
+ of that item that's been mystifying me...!)
+##
+

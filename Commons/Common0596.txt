@@ -1,0 +1,35 @@
+**********Common596********** (４枚組の紙)
+{N/A}
+#Message#
+Papers listing participants in the Death Game.
+There are only 16 names here.
+##
+
+#Choice#
+Examine
+Cancel
+##
+
+<詳しく見る>
+
+{N/A}
+#Message#
+
+##
+
+#Message#
+
+##
+
+#Message#
+
+##
+
+#Message#
+
+##
+
+<やめる>
+
+<Choice End>
+

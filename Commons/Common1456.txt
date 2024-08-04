@@ -1,0 +1,17 @@
+**********Common1456********** (⑤ギンB選択　１)
+{N/A}
+#Message#
+"I'll look for something to use as a weapon, meow!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

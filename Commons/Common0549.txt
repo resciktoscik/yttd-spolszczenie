@@ -1,0 +1,357 @@
+**********Common549********** (つっぱりレコ)
+{Reko}
+#Message#
+\."Sara...!!"
+##
+
+[Reko: Hands out, running makeup, closed teeth / cara6-17]
+#Message#
+\."Stop...!"
+##
+
+[Reko: Hands out, running makeup, shout / cara6-18]
+#Message#
+\."Forgive me...!! Saraaa...!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I've pushed her to the edge.
+##
+
+#Message#
+\.\C[3]The next one will be the last.
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."*pant*...! *pant*...!"
+##
+
+{Sara}
+#Message#
+\."N... Nao..."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Whew... phew..."
+##
+
+#Message#
+\."No more..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+{SE: Accent21-1}
+#Message#
+\."You don't... have to shoulder any more, Sara...!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Sou} [Sou: Stunned look / cara5-7]
+{SE: Accent28-1}
+#Message#
+\."Gin and Q-taro's restraints unlocked...!"
+##
+
+{Q-taro}
+#Message#
+\."Gin! Gin!!
+ Hurry... Get the antidote...!!"
+##
+
+{Keiji} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."I'll get it now!!
+ Just wait, Gin! Hang on!"
+##
+
+{Alice}
+#Message#
+\."Hey!! Ranger!!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."Was... Was that Reko really, definitely a fake...?!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."You're not lying, are you?!"
+##
+
+{Ranger} [Ranger: Cat mouth sign / cara18-3]
+#Message#
+\."Look at the corpse, you'll be able to tell!"
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."As if I could look... at Reko's corpse...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](...We should probably confirm...
+ I can look down there from where I am...)
+##
+
+#Choice#
+Take a look
+Don't want to look
+##
+
+<見てみる>
+
+{N/A} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\.\C[3]I looked down at the fallen Reko.
+##
+
+{Sara}
+{SE: shock1}
+#Message#
+\.\C[4](...Oogh...)
+##
+
+{N/A}
+#Message#
+\.\C[3]In terms of appearance, she looks absolutely real.
+##
+
+#Message#
+\.\C[3]A human killed by impalement.
+##
+
+#Message#
+\.\C[3]...An ally who just wanted to live.
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There's... no blood..."
+##
+
+<見たくない>
+
+{N/A} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\.\C[3]There's no way I can look.
+##
+
+#Message#
+\.\C[3]Even if she was a doll... that was Reko.
+##
+
+#Message#
+\.\C[3]...We killed her. We killed Reko.
+##
+
+{Nao}
+{SE: Accent28-1}
+#Message#
+\."...So she really was a doll..."
+##
+
+[Nao: Closed tired tearful eyes / cara7-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."There's no blood..."
+##
+
+<Choice End>
+
+{Sara} [Nao: Closed tired tearful eyes / cara7-18]
+#Message#
+\."Huh...?!"
+##
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+#Message#
+\."...Yes... I see...
+ ...Sure enough... she was a doll..."
+##
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+\."But then... Where is the real Reko...?"
+##
+
+{Sara}
+#Message#
+\."Ranger! Where's the real..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Ranger and Safalin had already vanished.
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."The Room of Lies...!!
+ Not good! Reko!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Alice took off running.
+##
+
+#Message#
+\.\C[3]Finally, the Impression Room sank back into place.
+##
+
+{Sara}
+{SE: feed1}
+#Message#
+\."Gin!! Stay with us! Gin!!"
+##
+
+{Gin}
+#Message#
+\sp[10]".........."
+##
+
+{Q-taro}
+#Message#
+"Don't die, Gin!! Keiji's... bringin' an antidote!!
+ It'll be better soon!!"
+##
+
+{Gin}
+#Message#
+\sp[10]".........."
+##
+
+{Sara}
+#Message#
+"Gin...!!"
+##
+
+#Choice#
+Say something!
+Don't shake him
+##
+
+<返事をしろ！>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+"Say something! Gin!!"
+##
+
+{Gin}
+#Message#
+\sp[10]".........."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\sp[10]"...Big sis... Sara..."
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Gin...!!"
+##
+
+{Gin}
+#Message#
+\sp[7]"...so... rry... meow..."
+##
+
+#Message#
+\.\sp[5]".........."
+##
+
+{Sara}
+#Message#
+"Gin...!! Gin!!"
+##
+
+<揺さぶっちゃダメだ>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\C[4](I shouldn't shake him...!
+ It might make the poison spread more...)
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+#Message#
+\sp[10]".........."
+##
+
+{Sara}
+#Message#
+\C[4](Then... What can I do...?)
+##
+
+#Message#
+\."Gin! Open your eyes...!"
+##
+
+{Gin}
+#Message#
+\sp[10]".........."
+##
+
+{Sara}
+#Message#
+\C[4](All I can do is keep shouting...)
+##
+
+#Message#
+\."Gin...! Gin!!"
+##
+
+<Choice End>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+"Sara... Let's go find Reko.
+\! Gin will be fine with the antidote."
+##
+
+{Sara}
+#Message#
+\."I mean...!"
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+{SE: Accent28-1}
+#Message#
+\."Believe in the policeman...!
+ We're going to search for Reko!"
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."She's right, Sara...
+ You get goin'!!"
+##
+
+{Sara}
+#Message#
+\."...!!"
+##
+
+#Message#
+\."I... understand..."
+##
+
+{Q-taro}
+#Message#
+\."Sorry... Sara."
+##
+

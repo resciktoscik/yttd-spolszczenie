@@ -1,0 +1,195 @@
+**********Common615********** (ﾚｺ「見守るしかねー」)
+{Reko}
+#Message#
+"The right LCD says "Left: 35.5."
+ No doubt that's the timer for the poison."
+##
+
+#Message#
+"You can say that, but...
+ All we can do is watch...!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"I dunno why you're showing me that now!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+{Reko}
+#Message#
+"Yeah? What about that statement?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+"Dammit! We gotta do something before it hits 0...!"
+##
+
+#Message#
+"I mean, what else do you think we can do?!"
+##
+
+{Sara}
+#Message#
+\."What else can we do...?"
+##
+
+#Choice#
+See if there's a trick in the room
+View everyone's relative positions
+##
+
+<鑑賞席に仕掛けがあるか調べる>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."We can check if there's a special trick
+ or something to this Impression Room."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: Accent28-1}
+#Message#
+\."Some trick...!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."..."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+{SE: Accent21-1}
+#Message#
+\."Got it..."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."The first thing you notice
+ is those two LCD screens, huh..."
+##
+
+[Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."The right LCD says "Left: 35.5."
+ No doubt that's the timer for the poison."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."I bet when it goes down to "Left: 0"...
+ Gin's gonna...!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Okay... Reko's calmed down...!)
+##
+
+<この位置からみんなの位置関係を調べる>
+
+{Sara} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Let's view everyone's relative positions from here."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."G-Got it!"
+##
+
+[Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Hmm... Q-taro and Gin are stuck to the target...
+ Keiji, Kanna, Sou, and Alice are a bit further off."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."...'Course, they're locked in a cage."
+##
+
+{Sara}
+#Message#
+\.\C[4](We were able to observe that,
+ but it doesn't seem like we've found a lead...)
+##
+
+<Choice End>
+

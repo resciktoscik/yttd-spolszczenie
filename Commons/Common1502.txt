@@ -1,0 +1,17 @@
+**********Common1502********** (⑥アンズB選択)
+{N/A}
+#Message#
+"Hey, let's reconcile! C'mon... shake hands...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

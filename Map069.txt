@@ -1,0 +1,465 @@
+=====Map69===== (Scrap②☆Central Plaza)
+
+**********Event1********** (EV001) (8,5)
+-----Page1-----
+#Message#
+\C[3]Reko is singing quietly...
+##
+
+{??}
+#Message#
+\.\C[4](...Wow...)
+##
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."...A pretty voice, isn't it?"
+##
+
+{??}
+#Message#
+\."Alice..."
+##
+
+#Choice#
+You won't talk with Reko?
+...It sounds like a sad song
+##
+
+<レコさんと話さないんですか？>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."...Me and Reko are total strangers now."
+##
+
+{??}
+#Message#
+\."Even despite this situation...?"
+##
+
+<…なんだか悲しい歌に聴こえますね>
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Perhaps this is Reko's idea of a requiem..."
+##
+
+{??}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."...What're you two looking at?"
+##
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."...!"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."..."
+##
+
+{??}
+#Message#
+\."...Ahaha. Miss Reko, how's miss Sara doing?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."...You...!!"
+##
+
+#Message#
+\.".........."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."...Still tossing and turning. Satisfied?"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Tch. Nothing I can do for her..."
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."At least with my song... I wanna save her heart..."
+##
+
+{??}
+#Message#
+\."You should rest some yourself, miss Reko..."
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."...No thanks. I gotta keep an eye open
+ for any more of your bullshit!"
+##
+
+{??}
+#Message#
+\."Huh...? I-I wouldn't do anything bad..."
+##
+
+{Reko}
+#Message#
+\."...Tch."
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."..."
+##
+
+{??}
+#Message#
+\."...Alice."
+##
+
+#Choice#
+Has miss Reko always been scary?
+Does miss Reko hate men?
+##
+
+<レコさんは昔から怖い人なの？>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."You feel she's scary as well...?"
+##
+
+<レコさんは男の人が嫌いなの？>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."...Men..."
+##
+
+<Choice End>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\.".........."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."...Reko's personality wasn't always what it is now."
+##
+
+{??}
+#Message#
+\."...You mean she was nice to men?"
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."The opposite. She was harsh even to women."
+##
+
+[Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."Since Reko was born, she's had talents
+ in music and charming others."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."She was harsh even on herself...
+ But especially harsh on incapable, weak people."
+##
+
+[Alice: Look to side, sad look / cara11-17]
+#Message#
+\."She's undergone a startling change..."
+##
+
+{N/A}
+{SE: Paralyze2}
+#Message#
+\>\C[10]Weak people, huh...\<\|\^
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."But Reko was Reko. I could tell in a glance.
+\! ...And I'm not talking about appearance."
+##
+
+{??}
+#Message#
+\."Hmm..."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."She just has a foul mouth.
+ Don't hate her..."
+##
+
+{??}
+#Message#
+\."...A-Ahaha, of course..."
+##
+
+{Alice}
+#Message#
+\."Y-Yes, right."
+##
+
+
+**********Event2********** (EV002) (16,5)
+-----Page1-----
+#Message#
+\C[3]Reko is singing quietly...
+##
+
+{Keiji}
+#Message#
+\.\C[4](Huh...)
+##
+
+{Alice} [Alice: Look to side, pensive look / cara11-16]
+#Message#
+\."...Pretty voice, isn't it?"
+##
+
+{Keiji}
+#Message#
+\."Whoa there. Why were you hiding there?"
+##
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."...Hmph. I'm free to listen wherever I please."
+##
+
+{Keiji}
+#Message#
+\.\C[4](...I guess.)
+##
+
+#Choice#
+Why not talk to to your sister?
+...Kind of a sad song, huh
+##
+
+<妹と話せば？>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Don't be absurd. Me and Reko are strangers now."
+##
+
+{Keiji}
+#Message#
+\."Hmph... Stubborn even in a situation like this."
+##
+
+<…なんだか悲しい歌だねー>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+#Message#
+\."Perhaps this is Reko's idea of a requiem..."
+##
+
+{Keiji}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."...What're you two doing?"
+##
+
+{Alice} [Alice: Look to side, sad look, clutching chest and sweating / cara11-20]
+#Message#
+\."...!"
+##
+
+{Reko} [Reko: Default / cara6-1]
+#Message#
+\."..."
+##
+
+{Keiji}
+#Message#
+\."...Reko.
+ How's Sara faring?"
+##
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."...Still tossing and turning."
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Ain't nothing I can do for her..."
+##
+
+#Message#
+\."At least with my song... I wanna save her heart..."
+##
+
+{Keiji}
+#Message#
+\."You should rest a little yourself."
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."...You'll just get up to no good
+ while I'm doing that, won't you?"
+##
+
+#Message#
+\."Well now... Guess I've got no trust."
+##
+
+#Message#
+\."...Don't think badly of me."
+##
+
+{Alice} [Alice: Look to side, sad look / cara11-17]
+#Message#
+\."..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Keiji... What do you think of Reko?"
+##
+
+{Keiji}
+#Message#
+\."Reko..."
+##
+
+#Choice#
+She's harsh on men
+I think I like her
+She's not a bad person
+##
+
+<男に厳しいね>
+
+{Keiji} [Alice: Default glare / cara11-1]
+#Message#
+\."She really seems to take it out on me...
+ 'Cause I'm a man, I bet."
+##
+
+{Alice}
+#Message#
+\."So that's what you think..."
+##
+
+<好みかな>
+
+{Keiji} [Alice: Default glare / cara11-1]
+#Message#
+\."I'm a fan of her strong will."
+##
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."If you lay a hand on Reko,
+ I'll bring you within an inch of your life!!"
+##
+
+{Keiji}
+#Message#
+\.\C[4](I could see Reko doing the same...
+ In fact, she might take it all the way.)
+##
+
+<悪いヤツじゃないね>
+
+{Keiji} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."Well, she's not a bad person. Scary, though."
+##
+
+{Alice}
+#Message#
+\."Scary...? I see..."
+##
+
+<Choice End>
+
+{Alice} [Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\.".........."
+##
+
+#Message#
+\."...Reko's personality wasn't always what it is now."
+##
+
+{Keiji}
+#Message#
+\."...Was she nice to men?"
+##
+
+{Alice}
+#Message#
+\."The opposite. She was harsh even to women."
+##
+
+#Message#
+\."Since Reko was born, she's had talents
+ in music and charming others."
+##
+
+#Message#
+\."She was harsh even on herself...
+ But especially harsh on those who didn't act,
+ without regard for whether they were weak."
+##
+
+#Message#
+\."She's undergone a startling change."
+##
+
+{Keiji}
+#Message#
+\."Due to your murder case, I take it...?"
+##
+
+{Alice}
+#Message#
+\."...!"
+##
+
+#Message#
+\."Mwahaha... Exactly right..."
+##
+
+#Message#
+\."...Sorry to make you hear these trifles."
+##
+
+{Keiji}
+#Message#
+\.\C[4](Hmm... And the name of the man Alice killed was...)
+##
+
+#Message#
+\.\C[4](\C[2]Sou Hiyori\C[4]... wasn't it?)
+##
+

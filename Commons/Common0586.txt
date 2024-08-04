@@ -1,0 +1,455 @@
+**********Common586********** (交渉２－夜　ギン)
+{Gin} [Gin: Default / cara9-1]
+#Message#
+"Big sis Sara! I'll give you 20 tokens
+ if you listen to my request, meow!"
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+"Um, so...
+ This Mew-chan cushion I'm holding...
+ has gotten dirty, woof..."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."It's really important, meow...
+ But I dunno how to clean it, woof..."
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Emergency rescue, woof!!
+ I need your help, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Take care of stains for 20 tokens...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."Thanks, meow!!"
+##
+
+{Sara}
+#Message#
+\."So... what happened?"
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."Umm...
+ While I've been doing attractions and exploring..."
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+{SE: Accent28-1}
+#Message#
+\."The Mew-chan cushion I'm always holding
+ has gotten dirty, meow!"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."They're my partner, meow!
+ I want you to help, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Partner, huh...
+ They do tend to match expressions.)
+##
+
+#Message#
+\.\C[4](It's good to treat your belongings with care.
+ I want to help, but...)
+##
+
+#Message#
+\."Is Mew-chan... a material that's safe to wash?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent21-1}
+#Message#
+\."It's okay, meow! They're made really well,
+ so you can wash them again and again
+ and they won't get ragged, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That's one gutsy cushion...)
+##
+
+#Message#
+\."But there's no washing machine around.
+ Hand-washing would also take water and detergent..."
+##
+
+{Voice}
+#Message#
+\."Um..."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Shall I wash that cushion...?"
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."M... Meow?! Melon soda lady!!
+ Where'd you even come from, woof?!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Aweeeh... I'm sorry!!"
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."Um... I just so happen to have detergent in
+ the Medical Office I use when creating medicine..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I'm not handing Mew-chan over to you guys, woof!
+ Go off and drink your melon soda, meow!!"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Y-Yessirrr..."
+##
+
+{Sara}
+#Message#
+\."Why are you saying this all of a sudden, Safalin?"
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."E-Er, well, all of you are important participants...
+ So I'm told to give you the most hospitality I can..."
+##
+
+{Sara}
+#Message#
+\."...Who tells you that?"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+{SE: Accent28-1}
+#Message#
+\."The Floor Master..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Is Ranger really saying that...?)
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."Of course... I wouldn't imagine being cruel...
+ I will return Master Mew-chan in a clean state..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."I've had my fill of lies from that loner, meow!!
+ Beat it, murderous melon soda!! Woof!!"
+##
+
+{Sara}
+#Message#
+\."Wait, Gin."
+##
+
+#Message#
+\."Safalin, do you vow to absolutely keep that promise?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Y-Yes. I vow to make Master Mew-chan clean
+ with no dissatisfaction to Gin."
+##
+
+{Sara}
+#Message#
+\."I see..."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Big sis Sara... Are you seriously thinking
+ of handing Mew-chan over to her, meow?"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."...Yeah. Why not have her do it?"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Well then... I will quickly make them clean, yes?"
+##
+
+{Gin} [Gin: Looking up, sad / cara9-12]
+#Message#
+\."If you say so, big sis Sara, I'll believe, meow..."
+##
+
+#Message#
+\."Please, woof... Don't do anything mean, meow..."
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Yes, I'll be right back."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Yaaaaay!! They're super clean, meow!!"
+##
+
+{Sara}
+#Message#
+\."It's true.
+ Even the stains that looked like drool are gone."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Those weren't there to start with, woof!!"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Thank goodness! Master Mew-chan is truly sturdy."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."It's great, huh, Mew-chan?!"
+##
+
+{Sara}
+#Message#
+\."Hahaha...
+ Somehow, it feels like Mew-chan is happy."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+#Message#
+\."Mmm... Melon soda lady, woof! You did it, meow!"
+##
+
+{Safalin} [Safalin: Wide smile / cara15-4]
+#Message#
+\."Thank yooou..."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: Accent21-1}
+#Message#
+\."If you'd just quit the Death Game,
+ I might even be your friend, woof!"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\.".........."
+##
+
+[Safalin: Default frown / cara15-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...I think you may be mistaken."
+##
+
+[Safalin: Mouth open / cara15-2]
+#Message#
+\."I'm only showing hospitality
+ because you are all participants..."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."It's for your own good... that you don't assume
+ we can understand each other."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."If we're done here, I'll be leaving..."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."What the heck, meow!
+ She ticks me off, meow!"
+##
+
+{Sara}
+#Message#
+\."Well, it's all good.
+ Mew-chan got cleaned."
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Woof! Thanks to you, big sis Sara!
+ Eheheh!"
+##
+
+#Message#
+\."Here's your 20 tokens as promised, meowww!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Ah... right, that was the deal...)
+##
+
+#Choice#
+Accept
+Don't accept
+##
+
+<もらう>
+
+{N/A} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\C[3]Received 20 tokens from Gin.
+##
+
+{Sara}
+#Message#
+\."I guess we'll call this the cleaning fee?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Yeah! I knew you'd take it seriously, meow!"
+##
+
+[Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Thanks, woof!"
+##
+
+{Sara}
+#Message#
+\."Right. Call for me anytime,
+ even if you don't have the tokens."
+##
+
+{Gin} [Gin: Smile / cara9-2]
+{SE: Accent28-1}
+#Message#
+\."Got it, meow!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm happy to make him happy...)
+##
+
+<もらわない>
+
+{Sara} [Gin: Smile / cara9-2]
+#Message#
+\."Sorry, Gin.
+ I can't accept tokens for something like this."
+##
+
+#Message#
+\."Besides, it's Safalin who did the washing."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Meow..."
+##
+
+[Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Them, um, I at least want you
+ to know my gratitude, meow."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]Gin pressed the Mew-chan cushion against my cheek.
+##
+
+{Sara}
+#Message#
+\."Is this... a peck on the cheek from Mew-chan?"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+#Message#
+\."Yeah, meow! A sign of Mew-chan's thanks, woof!"
+##
+
+{Sara}
+#Message#
+\."You won't do it yourself, Gin?"
+##
+
+{Gin} [Gin: Shocked, claws raised / cara9-7]
+#Message#
+\."Meooooow?! I wouldn't do that, woof!!"
+##
+
+{Sara}
+#Message#
+\."Hahaha, too bad."
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Don't tease me, meow!"
+##
+
+<Choice End>
+
+{Sara} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\C[4](Well... That's it for discussions.)
+##
+

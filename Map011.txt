@@ -1,0 +1,445 @@
+=====Map11===== (Trial 1 OP)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+\C[3]Ugh...
+##
+
+#Message#
+\.\C[3]Where is this, I wonder...
+##
+
+#Message#
+\.\C[3]Am I looking at the ceiling...?
+##
+
+#Message#
+\.\C[3]Why am I sleeping here...?
+##
+
+#Choice#
+Remember the situation
+Remember myself
+##
+
+<状況を思い出す>
+
+{Sara}
+#Message#
+\.\C[4](Err... I think I went home...)
+##
+
+#Message#
+\.\C[4](Right, and then mom...!)
+##
+
+<自分を思い出す>
+
+{Sara}
+#Message#
+\.\C[4](I'm \C[2]Sara\C[4].
+ An... incredibly normal person attending school.)
+##
+
+#Message#
+\.\C[4](Good... Start with what you know best.)
+##
+
+<Choice End>
+
+{Sara}
+#Message#
+\."Mom!"
+##
+
+{N/A}
+{SE: Parry}
+#Message#
+\.\C[3]I quickly tried to sit up, but I couldn't.
+##
+
+#Message#
+\.\C[3]Is there something on my head...?
+##
+
+#Choice#
+Touch it to check
+Think calmly
+##
+
+<触って確かめる>
+
+{N/A}
+#Message#
+\C[3]I fearfully touched my head...
+##
+
+#Message#
+\.\C[3]It was some kind of belt... or machine...
+##
+
+<落ち着いて考える>
+
+{Sara}
+#Message#
+\.\C[4](Right now... It seems I'm lying down.)
+##
+
+#Message#
+\.\C[4](On a bed... maybe?)
+##
+
+#Message#
+\.\C[4](What is this thing on my head...?)
+##
+
+<Choice End>
+
+{Sara}
+{SE: horror_piano chord3}
+#Message#
+\.\C[4](Am I being tied down...?)
+##
+
+#Message#
+\.\C[4](It's like some kind of restraint...)
+##
+
+#Message#
+\."No way... Ack... What's the meaning of this?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]My temperature rose...
+##
+
+#Message#
+\.\C[3]Suddenly, fear awakened in me.
+##
+
+{Sara}
+#Message#
+\."No!! Where is this?! Somebody!!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I had no freedom to move.
+##
+
+#Message#
+\.\C[3]Besides my head, my left arm, torso, and legs
+also seemed to be restrained.
+##
+
+#Message#
+\.\C[3]All I could move was my right arm.
+##
+
+{Sara}
+#Message#
+\."Someone...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]I was about to scream, then went quiet.
+##
+
+#Message#
+\.\C[3]The stalker.
+##
+
+#Message#
+\.\C[3]He'd... harmed my mom...
+##
+
+#Message#
+\.\C[3]And he brought me here...
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder, am I...)
+##
+
+#Message#
+\.\C[4](...going to be... killed...?)
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+"Sara! Are you there?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](That voice...)
+##
+
+#Message#
+\."Joe! Is that you?! Are you next to me...?!"
+##
+
+{Joe}
+#Message#
+\."Yeah...! But I can't move!
+ Can't you do something?!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Joe's in the same situation?!)
+##
+
+#Message#
+\."A phone...?"
+##
+
+#Choice#
+Search pocket
+Ask Joe
+##
+
+<ポケットを探る>
+
+{N/A}
+#Message#
+\C[3]I searched my pocket with my free hand,
+but found nothing.
+##
+
+<ジョーに聞く>
+
+{Sara}
+#Message#
+"Joe! Is that yours ringing?!"
+##
+
+<Choice End>
+
+{Joe}
+#Message#
+\."Eh...?"
+##
+
+#Message#
+\."You're right... Something in my pocket's...!"
+##
+
+{SE: Accent28-1}
+#Message#
+\."Here!"
+##
+
+#Message#
+\."Hello?! Whoever you are! Help us!"
+##
+
+{N/A}
+#Message#
+\."...Beginning voiced guidance."
+##
+
+{Joe}
+#Message#
+\."Huh...?"
+##
+
+{N/A}
+#Message#
+\."The First Trial will now begin."
+##
+
+#Message#
+\."Sara, and, Joe.
+ Find the \C[2]key\C[0] hidden in this room.
+\! Then, remove your restraints."
+##
+
+#Message#
+\."If you cannot do so before the time limit expires,
+ the device on the beds will activate..."
+##
+
+#Message#
+\."And your bodies will be crushed with a thud."
+##
+
+#Message#
+\."By all means, please enjoy this thrill
+ with all your body and soul."
+##
+
+#Message#
+\."The time limit is a healthy 5 minutes."
+##
+
+#Message#
+\."And note that there is only \C[2]one\C[0] key,
+ so please discuss who will use it."
+##
+
+#Message#
+\C[3]What... the heck is this...
+##
+
+#Message#
+\.\C[3]The First Trial...?
+##
+
+#Message#
+\.\C[3]We'll die... in 5 minutes?
+##
+
+{Joe}
+#Message#
+\."Waaaaagh?! What're we gonna do?!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](There's no time to fret about that...!)
+##
+
+#Choice#
+Search pocket
+Ask Joe
+##
+
+<ポケットを探る>
+
+{N/A}
+#Message#
+\C[3]I searched my pocket with my free hand,
+but found nothing.
+##
+
+<ジョーに聞く>
+
+{Sara}
+#Message#
+"Joe! Check your clothes!"
+##
+
+{Joe}
+#Message#
+\."Yikes..."
+##
+
+#Message#
+\."When I took the phone from my pocket...
+ I might've \C[2]dropped somethin'\C[0]...!"
+##
+
+{Sara}
+#Message#
+\."N-No way! Pick it up!"
+##
+
+{Joe}
+#Message#
+\."Got it...!"
+##
+
+#Message#
+\.\SP[50]".........."
+##
+
+#Message#
+\."Grabbed it! It's the key!!"
+##
+
+<Choice End>
+
+{Sara}
+#Message#
+\."All right!"
+##
+
+#Choice#
+Use that key!
+Give me that key!
+##
+
+<そのカギを使え>
+
+{Sara}
+#Message#
+\."Hurry and use that key!"
+##
+
+{Joe}
+#Message#
+\."You sure...?! If I do, you'll..."
+##
+
+{Sara}
+#Message#
+\.\C[4](If that voice was telling the truth...
+ I might die...!)
+##
+
+#Message#
+\.\C[4](But...!)
+##
+
+{SE: Accent21-1}
+#Message#
+\."Joe, I'm sure you can figure something out!"
+##
+
+{Joe}
+#Message#
+\."..."
+##
+
+#Message#
+\."Got it..."
+##
+
+#Message#
+\."I'll use it...!"
+##
+
+#Message#
+\."Then I'll save you too!! Definitely!!"
+##
+
+#Message#
+\.\C[4](Dammit... That took some time!
+ I need to save Sara somehow!)
+##
+
+<そのカギを渡せ>
+
+{Sara}
+#Message#
+\."Joe! Give that key to me!"
+##
+
+{Joe}
+#Message#
+\."W... What're you saying...?"
+##
+
+#Message#
+\."There's only one key..."
+##
+
+{Sara}
+#Message#
+\."Ah..."
+##
+
+#Message#
+\.\C[4](One of us will die...?)
+##
+
+<Choice End>
+

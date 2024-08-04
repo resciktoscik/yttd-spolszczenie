@@ -1,0 +1,83 @@
+**********Common778********** (ｹｲｼﾞ「特殊な事態」)
+{Keiji}
+#Message#
+"Some unique situation that caused the role
+ to just disappear? Is that possible, I wonder..."
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"...What's the matter, Sara?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Not really helping progress, I'd say..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Maybe the influence of Sou's hacking
+ extended to the role data or something..."
+##
+
+[Keiji: Frown / cara2-2]
+#Message#
+\."Some nice evidence would make that
+ a whole lot more convincing... Too bad."
+##
+

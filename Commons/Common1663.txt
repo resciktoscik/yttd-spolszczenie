@@ -1,0 +1,153 @@
+**********Common1663********** (※◆ｷﾞﾝ「新品」)
+{Gin}
+#Message#
+"Seaweed head said "Ahh, I can't wait... It's my
+ first time using this fancy new coffin," meow!"
+##
+
+#Message#
+"Could there... not be a culprit, meow?"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Did I... say something weird, meow...?"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Did I... say something weird, meow...?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"Seriously... Where do you have to order from
+ to make something like this, meow?"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+{SE: sceneswitch2}
+#Message#
+"The culprit doesn't exist...!"
+##
+
+[Gin: Smile, hands in front / cara9-5]
+{SE: flash-of-light-3}
+#Message#
+\."In other words, a ghost, meow! The ghost of
+ the person in that coffin played a trick, woof!"
+##
+
+{Sara}
+#Message#
+\.\C[4](..........)
+##
+
+#Choice#
+Respond seriously
+Smile wryly
+##
+
+<冷静に返す>
+
+{Sara} [Gin: Smile, hands in front / cara9-5]
+{SE: Accent21-1}
+#Message#
+"Gin... It's not realistic to bring ghosts into this."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."I-I know, meow... I was joking, woof..."
+##
+
+<苦笑いする>
+
+{Sara} [Gin: Worried / cara9-3]
+{SE: Accent21-1}
+#Message#
+"Haha..."
+##
+
+{Gin} [Gin: Unamused eyes / cara9-20]
+#Message#
+\."I was joking, meow!
+ Stop treating me like a troublesome kid, woof!"
+##
+
+<Choice End>
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: Accent28-1}
+#Message#
+\."I mean, it's a brand new coffin,
+ so of course there wouldn't be a ghost, meow."
+##
+
+{Sara}
+#Message#
+\."Brand new...?"
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+#Message#
+\."Huh? Big sis Sara, you don't remember, woof?"
+##
+
+[Gin: Looking to side, raised eyebrows / cara9-22]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Seaweed head said "Ahh, I can't wait... It's my
+ first time using this fancy new coffin," meow!"
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Come to think of it...!)
+##
+

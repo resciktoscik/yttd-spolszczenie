@@ -1,0 +1,248 @@
+**********Common220********** (ｿｳ「メール見たよ」)
+{Sou}
+#Message#
+"Miss Sara and Joe are with the kidnappers, too."
+##
+
+#Message#
+"Among the emails on Kai's laptop was one saying
+ "As planned, 17 people have been secured.""
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"...?
+ I've got no real comment for you, miss Sara."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+"Ahaha, um... Does that actually refute anything?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Mouth open / cara5-1]
+{SE: Accent28-1}
+#Message#
+"You can gather as much from the emails."
+##
+
+{1st Email}
+#Message#
+\.As planned, 17 people have been secured. Just in case,
+is there no error in the date of the \C[2]Death Game\C[0]?
+
+Everything is proceeding smoothly.
+##
+
+{2nd Email}
+#Message#
+\.I feel a deep affection for miss Sara as well.
+I will certainly protect her.
+
+I am prepared to offer myself up for the Chidouins.
+##
+
+{3rd Email}
+#Message#
+\.It's about time.
+
+If any harm comes to Sara Chidouin,
+I will stand against even you as an enemy.
+##
+
+{4th Email}
+#Message#
+\.Miss Sara is looking forward to the games.
+Surely her \C[2]friend\C[0] will also take part.
+##
+
+{Sou} [Sou: Closed-eyes smile / cara5-3]
+#Message#
+\."See...?"
+##
+
+[Sou: Looking down to side / cara5-4]
+#Message#
+\."I was able to read four emails.
+ All of them sent from Kai to some other person..."
+##
+
+[Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."Though all the addresseses were different.
+ Nonsense addresses that seemed like codes..."
+##
+
+[Sou: Smile / cara5-2]
+#Message#
+\."I'm guessing that was a security measure
+ to hide who they were being sent to."
+##
+
+[Sou: Mouth open / cara5-1]
+#Message#
+\."I'll recount them starting from the oldest, okay?"
+##
+
+{1st Email}
+#Message#
+\.As planned, 17 people have been secured. Just in case,
+is there no error in the date of the \C[2]Death Game\C[0]?
+
+Everything is proceeding smoothly.
+##
+
+{2nd Email}
+#Message#
+\.I feel a deep affection for miss Sara as well.
+I will certainly protect her.
+
+I am prepared to offer myself up for the Chidouins.
+##
+
+{3rd Email}
+#Message#
+\.It's about time.
+
+If any harm comes to Sara Chidouin,
+I will stand against even you as an enemy.
+##
+
+{4th Email} [Sou: Smile / cara5-2]
+#Message#
+\.Miss Sara is looking forward to the games.
+Surely her \C[2]friend\C[0] will also take part.
+##
+
+{Sou}
+{SE: Accent28-1}
+#Message#
+"...And that's what they said."
+##
+
+{Sara}
+#Message#
+\.\C[4](What... in the world...)
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Death Game... You gotta be shittin' me!
+ Clearly he's talkin' about this!!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."K... Kai! This's gotta be wrong, right?!
+ You can't be with the kidnappers, yeah?!"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Well now... Were the aproned scoundrel
+ and Sara Chidouin acquainted?"
+##
+
+{Sara}
+#Message#
+\.\C[4](I wouldn't say "acquainted"...!)
+##
+
+#Message#
+\.\C[4](Kai is... the man who stalked me...)
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent21-1}
+#Message#
+\."Um... You don't think the "friend" is... Joe?!"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Eh? M... Me?"
+##
+
+{Sou} [Sou: Looking down to side with frown / cara5-15]
+#Message#
+\."I inferred that much myself."
+##
+
+#Message#
+\."It's a fact that Kai knew about this Death Game.
+ He's with the kidnappers..."
+##
+
+#Message#
+\."And more terrifying yet..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Miss Sara and Joe are with them, too."
+##
+
+{Sara}
+#Message#
+\.\C[4](How dare you...?!)
+##
+
+{Joe} [Joe: Furrowed brow / cara1-15]
+#Message#
+\."How dare you say that?!"
+##
+

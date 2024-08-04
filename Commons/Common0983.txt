@@ -1,0 +1,80 @@
+**********Common983********** (ｶﾝﾅ「ジャマ？」)
+{Kanna}
+#Message#
+"Hin... drance...?"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+"Eh...? What is this, exactly...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Kanna} [Kanna: Dead-eyed, mouth open / cara3-12]
+#Message#
+"So you say, but... I don't understand..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Kanna} [Kanna: Dead-eyed, mouth closed / cara3-11]
+#Message#
+"Kanna... isn't a hindrance..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Kanna...)
+##
+

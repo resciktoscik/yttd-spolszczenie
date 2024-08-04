@@ -1,0 +1,16 @@
+**********Common235********** (投票カイ)
+#Message#
+Vote for \C[2]Kai\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

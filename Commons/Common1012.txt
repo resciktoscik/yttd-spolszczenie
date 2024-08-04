@@ -1,0 +1,44 @@
+**********Common1012********** (◆最終章前編・移動)
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+<Else>
+
+<Condition End>
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+\."Big sis Sara! There's something on the stairs, meow."
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh...?)
+##
+
+{Gashu} [Gashu: Head tilt / cara16-6]
+#Message#
+\.".........."
+##
+
+#Message#
+\C[3]The door is shut fast.
+I can't go to the Pink Room.
+##
+
+{Sara}
+#Message#
+\.\C[4](Huh...? I wonder why?
+ I'll check the door.)
+##
+
+#Message#
+\C[3]The red door is tightly shut and can't be opened.
+##
+

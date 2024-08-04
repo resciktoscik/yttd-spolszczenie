@@ -1,0 +1,660 @@
+=====Map159===== (====Room of Lies 2 (No Tokens))
+
+**********Event1********** (EV001) (0,0)
+-----Page1-----
+{Sara}
+#Message#
+"*pant*... *gasp*...!!"
+##
+
+#Message#
+\."No..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Alice's body has been completely cleaned up.
+##
+
+<Else>
+
+#Message#
+\.\C[3]Reko's body has been completely cleaned up.
+##
+
+<Condition End>
+
+{Sara}
+#Message#
+\."You're kidding...!!"
+##
+
+#Message#
+\."Why...?! No...!!"
+##
+
+#Message#
+\.\sp[20]"Now I'm going to..."
+##
+
+#Message#
+\.\sp[15]"What... do I do..."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+{SE: Accent21-1}
+#Message#
+\."...Miss Sara."
+##
+
+{Sara}
+#Message#
+\.\sp[15]"...Safalin..."
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."I just finished cleaning..."
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."Of course... I also carefully transported the bodies."
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Message#
+\.\C[4](...This might be my last chance.)
+##
+
+#Choice#
+Give up on the tokens
+Trick Safalin
+##
+
+<メダルを諦める>
+
+{Sara} [Safalin: Default frown / cara15-1]
+{SE: Accent21-1}
+#Message#
+"...It's all over... isn't it..."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."...?"
+##
+
+{Sara}
+#Message#
+\."Heheh... ahaha..."
+##
+
+{Safalin} [Safalin: Default frown / cara15-1]
+#Message#
+\."M-Miss Sara...?
+ Are you okayyy?"
+##
+
+{Sara}
+#Message#
+\."A kidnapper worrying for me...? Hah..."
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow, mouth open / cara15-8]
+#Message#
+\."Aah..."
+##
+
+{Sara}
+#Message#
+\."Safalin... is it fun?"
+##
+
+#Message#
+\."Toying with us using nonsense like
+ tokens and Clear Chips..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."And once we grasp hope, you take it away and kill us."
+##
+
+#Message#
+\."How must you feel about it...
+ to be able to do things like this...?"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."Well..."
+##
+
+{Sara}
+#Message#
+\."Our lives... must be so puny..."
+##
+
+#Message#
+\."When we die, do you even collect
+ all the tokens we earned? Haha..."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Um..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."Alice \C[2]didn't have\C[0] any tokens."
+##
+
+<Else>
+
+#Message#
+\."Reko \C[2]didn't have\C[0] any tokens."
+##
+
+<Condition End>
+
+<ハンナキーを騙す>
+
+{Sara} [Safalin: Default frown / cara15-1]
+{SE: Accent28-1}
+#Message#
+"Are my tokens around here somewhere...?"
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\."Huh...?"
+##
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."Did you lose your wallet?
+ I haven't seen it anywhere..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Oh, I don't mean that."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I entrusted my tokens to Alice."
+##
+
+<Else>
+
+#Message#
+\."I entrusted my tokens to Reko."
+##
+
+<Condition End>
+
+#Message#
+\."All of them, temporarily, for a certain plan..."
+##
+
+{Safalin} [Safalin: Raised eyebrows / cara15-3]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."I planned to take them back, assuming survival..."
+##
+
+#Message#
+\."And we didn't hear anything about
+ the dead's tokens being forfeit."
+##
+
+#Message#
+\."So... could you give them back?"
+##
+
+{Safalin} [Safalin: Holding hat, face in shadow / cara15-7]
+#Message#
+\."Miss Sara... ermm..."
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+[Safalin: Default frown / cara15-1]
+#Message#
+\."Alice \C[2]didn't have\C[0] any tokens."
+##
+
+<Else>
+
+#Message#
+\."Reko \C[2]didn't have\C[0] any tokens."
+##
+
+<Condition End>
+
+<Choice End>
+
+{Sara} [Safalin: Default frown / cara15-1]
+#Message#
+\."Huh...?"
+##
+
+{Safalin} [Safalin: Mouth open / cara15-2]
+#Message#
+\."Sorry... I'm busy, so if you'll excuse me..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What's going on...?)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+#Message#
+\.\C[4](Alice didn't have any tokens?)
+##
+
+#Message#
+\.\C[4](That's impossible...!
+ Alice was one of the high-placers for tokens!!)
+##
+
+<Else>
+
+#Message#
+\.\C[4](Reko didn't have any tokens?)
+##
+
+#Message#
+\.\C[4](That's impossible...!
+ Reko should have had her own tokens, right?!)
+##
+
+<Condition End>
+
+#Message#
+\.\C[4](Urgh... Did someone do this to trap me...?)
+##
+
+#Message#
+\."..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."Ahaha..."
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[4](Huh...? Why am I laughing?)
+##
+
+{SE: feed1}
+#Message#
+\."Hahahahahaha...!!"
+##
+
+{Joe} [Joe: Hallucination (blacked-out face) / cara1-26]
+#Message#
+\.\C[10]"Hey there. Having fun, Sara?"
+##
+
+{Sara}
+#Message#
+\."Yeah... I can't muster the energy
+ to think about anything anymore...."
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+\.\C[10]"In the end, I guess you weren't
+ seriously thinking you could escape either, huh?"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Is... that so...?"
+##
+
+{Joe}
+#Message#
+\.\C[10]"Just the hunch I got. You find hope for
+ everyone else... 'cause those without hope die.
+ Is that how you thought?"
+##
+
+{Sara}
+#Message#
+\."That's..."
+##
+
+#Choice#
+You're right
+You're wrong
+##
+
+<その通りだ>
+
+{Sara} [Joe: Hallucination (blacked-out face) / cara1-26]
+{SE: Accent28-1}
+#Message#
+\."Yeah... I never thought I would die myself."
+##
+
+{Joe}
+#Message#
+\.\C[10]"Pretty conceited in the end, weren't you?"
+##
+
+{Sara}
+#Message#
+\."Ahaha... Yeah."
+##
+
+#Message#
+\."Honestly, whatever I do, I'm hopeless."
+##
+
+<それは違う>
+
+{Sara} [Joe: Hallucination (blacked-out face) / cara1-26]
+{SE: Accent28-1}
+#Message#
+\."That's wrong, Joe..."
+##
+
+#Message#
+\."I was the one who needed hope."
+##
+
+{SE: Accent21-1}
+#Message#
+\."As long as I'm looking forward...
+ I can look away from the reality of killing you."
+##
+
+#Message#
+\."But the future waiting once I return...
+ I can only imagine it as pitch black."
+##
+
+{Joe}
+#Message#
+\.\C[10]"What the hell, Sara.
+ You wanted to die that bad?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Maybe so... Somewhere in my heart, I..."
+##
+
+#Message#
+\."Hahaha..."
+##
+
+<Choice End>
+
+{Sara} [Gin: Mad, claws raised / cara9-6]
+#Message#
+\."Joe... Finally, I won't have to run from you anymore."
+##
+
+{Gin}
+#Message#
+"Big sis Sara!! Stay with us, meow!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\."Gin...?"
+##
+
+{Gin}
+#Message#
+\."Big bro Joe isn't here, meow!!
+ Don't give any attention to anything weird, woof!!"
+##
+
+{Sara}
+#Message#
+\."Why are you here, Gin...?"
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Why am I here...?"
+##
+
+[Gin: Mad, claws raised / cara9-6]
+#Message#
+\."So I can cheer big sis Sara up, obviously!!!!"
+##
+
+{Sara}
+#Message#
+\."G-Gin?!"
+##
+
+{Gin}
+#Message#
+\."Please...! Come back to your senses!"
+##
+
+#Message#
+\."Believe in the real Joe!!
+ Please, big sis Sara...!!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Believe in...\.\. Joe...?"
+##
+
+{Gin}
+#Message#
+\."You're not the only one
+ who couldn't do anything, meow...!"
+##
+
+#Message#
+\."Me... and all of us...!!"
+##
+
+#Message#
+\."We've regretted, woof...!! We've suffered, meow!!"
+##
+
+#Message#
+\."And yet... big bro Joe
+ put on a smile to the end, meow..."
+##
+
+#Message#
+\."And everybody else who died...
+ They were thinking of the ones who'd be left
+ 'til the very end, woof!!"
+##
+
+#Message#
+\."So I'm sure what he really wants
+ is for everyone to get home alive!!"
+##
+
+#Message#
+\."That's why..."
+##
+
+#Message#
+\."You have to believe in the real Joe,
+ big sis Sara...!!"
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{SE: Accent28-1}
+#Message#
+\."The real Joe..."
+##
+
+#Message#
+\.\C[4](I don't know...)
+##
+
+#Message#
+\.\C[4](I feel like... I've lost sight of him already...)
+##
+
+#Message#
+\.\C[4](That guy who was always by my side...)
+##
+
+#Message#
+\C[4](Do I have the courage to face him head-on...?)
+##
+
+
+**********Event4********** (EV004) (14,0)
+-----Page2-----
+{Sara}
+{SE: feed1}
+#Message#
+"W... Waaah...!!!!"
+##
+
+{N/A}
+#Message#
+\C[10]No way you can forget me, Sara.
+##
+
+#Message#
+\C[10]You're already broken.
+##
+
+{Gin}
+{SE: feed1}
+#Message#
+"Stay with us! Big sis Sara!!"
+##
+
+{SE: Damage4}
+#Message#
+\."Big sis Sara...!!"
+##
+
+-----Page3-----
+{Joe?} [Joe: Hallucination disappearing 1 / cara1-27]
+#Message#
+\C[10]"Tch..."
+##
+
+[Joe: Hallucination disappearing 2 / cara1-28]
+#Message#
+\.\C[10]"You're already broken."
+##
+
+[Joe: Hallucination disappearing 3 / cara1-29]
+#Message#
+\.\C[10]"It's impossible to get rid of me for good."
+##
+
+[Joe: Hallucination disappearing 4 / cara1-30]
+#Message#
+\.\C[10]"...See ya later."
+##
+
+{Gin} [Gin: Looking up, hands in front / cara9-10]
+{SE: Accent21-1}
+#Message#
+"Big sis Sara...?"
+##
+
+{Sara}
+#Message#
+\."Gin..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."Thank you..."
+##
+
+#Message#
+\."I... had forgotten something important."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."You're... back to normal, woof?"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yeah. Let's all return alive... together."
+##
+
+#Message#
+\."I won't let anyone else's lives be lost."
+##
+
+[Sara: Pointing / cara0-3]
+{SE: Thunder10}
+#Message#
+\."I won't let the kidnappers have their way!"
+##
+
+{Gin} [Gin: Looking up, blushing smile / cara9-11]
+{SE: flash-of-light-3}
+#Message#
+\."Yeah!"
+##
+
+{Sara}
+#Message#
+\.\C[4](I'm brimming with energy...)
+##
+
+#Message#
+\.\C[4](It's more than just my life...!)
+##
+
+#Message#
+\.\C[4](To protect everyone... I'll move forward!)
+##
+
+{Gin} [Gin: Mad, claws raised / cara9-6]
+{SE: Accent21-1}
+#Message#
+\."Big sis Sara! Let's go, woof!"
+##
+

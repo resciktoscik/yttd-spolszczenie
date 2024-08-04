@@ -1,0 +1,42 @@
+**********Common181********** (▽ｷﾞﾝ…否定)
+{Sara}
+#Message#
+"You've got that wrong, Gin!"
+##
+
+{Gin}
+#Message#
+\."Got what wrong, meow...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Good point...!)
+##
+
+#Message#
+"Oh, really?!
+ So was everything Reko said a lie?"
+##
+
+{Gin}
+#Message#
+\."N-No, meow!
+ B-But... but I didn't..."
+##
+
+{Sara}
+#Message#
+"She didn't get anything wrong!
+ Gin, why are you being stubborn about this...?!"
+##
+
+{Gin}
+#Message#
+\."I... I...!!"
+##
+
+#Message#
+\."I just... didn't wanna believe that thing, woof!!"
+##
+

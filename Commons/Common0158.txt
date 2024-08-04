@@ -1,0 +1,830 @@
+**********Common158********** (たずねる)
+{Sara}
+#Message#
+\C[4](What should I ask him?)
+##
+
+#Choice#
+What's your name?
+What's your occupation?
+Cancel
+##
+
+<あなたの名前は？>
+
+{Sara}
+#Message#
+"Please, tell me your name."
+##
+
+{Man in Stripes} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...And if I say no?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... He won't tell me.)
+##
+
+{Gonbee} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Guh...!
+ You want to hear me say it again that badly?!
+ You sadist!"
+##
+
+{Sara}
+#Message#
+\.\C[4](This is kind of fun...)
+##
+
+#Message#
+"Please, tell me your name."
+##
+
+{Man in Stripes} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...It's proper for you to give your name first."
+##
+
+{Sara}
+#Message#
+\."I'm Sara Chidouin.
+ Just Sara is fine."
+##
+
+{Man in Stripes} [Alice: Default glare / cara11-1]
+#Message#
+\."...I am..."
+##
+
+{SE: Accent28-1}
+#Message#
+\."...Go... \C[2]Gonbee Yamada\C[0]...
+ Call me Gonbee."
+##
+
+{Q-taro} [Q-taro: Lowered-eyes smile / cara4-3]
+#Message#
+\."...'Swone old-fashioned name."
+##
+
+{Gonbee} [Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."As if yours isn't Cubetaro Hamburger?!"
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Tha's Q-taro Burgerberg to you!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Gonbee, huh...)
+##
+
+<あなたの職業は？>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+"Please tell me your occupation."
+##
+
+{Man in Stripes} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."...Hmph, a worthless question.
+ I don't feel much like answering..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... He won't tell me.)
+##
+
+{Man in Stripes} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."I'm a thief!
+ Are you satisfied with your dogpiling?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Can't get him angry...)
+##
+
+#Message#
+"Please tell me your occupation."
+##
+
+{Man in Stripes} [Alice: Closed-eyes grin / cara11-3]
+{SE: Accent28-1}
+#Message#
+\."My occupation is... err... well.\. I'm a salaryman."
+##
+
+{Sara}
+#Message#
+\."...Dressed like that?"
+##
+
+{Man in Stripes} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Urk...!!"
+##
+
+{Sara}
+#Message#
+\."That looks like a prison uniform."
+##
+
+{Man in Stripes} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Fool... Japanese uniforms don't use this pattern!
+ And the pajamas are vertically striped."
+##
+
+{Sara}
+#Message#
+\."...You sure are knowledgeable on the subject."
+##
+
+{Man in Stripes} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."...!!
+\! Why, you...! Was that a trap?!"
+##
+
+{Kai} [Kai: Looking down and to side, holding up ladle / cara8-5]
+#Message#
+\."Hrm... This person seems quite tiring."
+##
+
+{Sara}
+#Message#
+\.\C[4](Wow, even getting told by Kai...)
+##
+
+{Man in Stripes} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."True, I was imprisoned for a somewhat long time
+ after borrowing from people a bit too much..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Larceny, then."
+##
+
+{Man in Stripes} [Alice: Angry shout / cara11-8]
+#Message#
+\."Surely even you've accidentally
+ perma-borrowed a video game or two, right?!"
+##
+
+[Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."That said... I was doing my time diligently,
+ as a model prisoner!"
+##
+
+[Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\."And yet suddenly, I was brought to this place...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](So even this person is a victim...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+\.\C[4](I know his name and occupation now...
+ I'll try asking something else.)
+##
+
+#Choice#
+Do you know the kidnappers?
+Why were you hiding?
+Cancel
+##
+
+<誘拐犯を知ってる？>
+
+{Sara} [Alice: Fist to palm, angry, gritted teeth, grim look / cara11-11]
+#Message#
+"What do you know about the kidnappers?"
+##
+
+{Gonbee} [Alice: Angry shout / cara11-8]
+#Message#
+\."Such a pest!! Making me answer everything!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... He won't answer.)
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hmph... I told you I have zero info, yes?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Not zero...
+ The kidnappers... are quite the organization.)
+##
+
+#Message#
+"What do you know about the kidnappers?"
+##
+
+{Gonbee}
+#Message#
+\."Hmph... I have zero information."
+##
+
+#Message#
+\."Before I was brought here...
+ I had rare plans for a visitation."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."But when I entered the visiting room, no one came.
+ By the time I started to find it odd,
+ my senses were already fading."
+##
+
+{Sara}
+#Message#
+\.\C[4](When you think about it... that's astounding.)
+##
+
+#Message#
+\.\C[4](The organization behind this... can free a prisoner?)
+##
+
+#Message#
+\.\C[4](...If Gonbee is telling the truth, at least.)
+##
+
+<なぜ隠れていた？>
+
+{Sara} [Alice: Default glare / cara11-1]
+#Message#
+"Why were you hiding the whole time?"
+##
+
+{Gonbee} [Alice: Angry shout / cara11-8]
+#Message#
+\."Why word it like that?!
+ How much do you mean to mock me?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... He's mad...)
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+"I judged it to be for the best.
+ ...Because it was big yikes..."
+##
+
+{Sara}
+#Message#
+\.\C[4](So he hid in fear...)
+##
+
+#Message#
+"Why were you hiding the whole time?"
+##
+
+{Gonbee} [Alice: Glance to side, sweating / cara11-4]
+{SE: Accent28-1}
+#Message#
+\."When I awoke, I thought to myself...
+ Yikes! This is a big yikes! ...Indeed."
+##
+
+{Sara}
+#Message#
+\.\C[4](Some vocabulary on this guy...)
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."A speaker said something about a trial,
+ but it was all foolish.
+ I had already committed myself to hiding."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."I locked the red door and lay in wait for a long time!
+\! Just like a tiger... waiting for its prey...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](So he got scared and holed up...)
+##
+
+{Gonbee} [Alice: Glance to side, sweating / cara11-4]
+{SE: Accent21-1}
+#Message#
+\."However... Several times, I did hear
+ nearby \C[2]sounds\C[0] too dreadful for this world."
+##
+
+{Sara}
+#Message#
+\."What were they?"
+##
+
+{Gonbee} [Alice: Angry, gritted teeth / cara11-9]
+{SE: Accent28-1}
+#Message#
+\."...Don't try to feign innocence."
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Just put your hand to your chest and think..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Has Gonbee gotten some misconception about me...?)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sara} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\.\C[4](What I'm most curious about so far is...
+ those sounds.)
+##
+
+#Message#
+\.\C[4](If I can confirm what they are,
+ it might tell me the reason for his attitude...!)
+##
+
+#Choice#
+Sounds?
+Will you assist us?
+Cancel
+##
+
+<音　とは？>
+
+{Sara} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Sounds... What exactly did you hear?"
+##
+
+{Gonbee} [Alice: Angry, gritted teeth / cara11-9]
+#Message#
+\."That feigned ignorance... How it annoys me!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Urgh... Can't let him be freaked out.)
+##
+
+{Gonbee} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Nine gunshots.
+ I felt death was near..."
+##
+
+{Sara}
+#Message#
+\.\C[4](He didn't give us much info after all...)
+##
+
+#Message#
+"Sounds... What exactly did you hear?"
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...The sounds of a gunfight."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Say what?!"
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."My ears caught it... 9 gunshots...
+ As many as 9 people... died...!!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Ahh... That would've been Russian Roulette."
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](Oh...)
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."I waited for the shots to cease,
+ and opened the door to see the situation..."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."And there she stood!! The killer wielding a gun...!!
+\! And she stubbornly chased me...!!"
+##
+
+[Alice: Angry shout / cara11-8]
+{SE: shock1}
+#Message#
+\."Sara Chidouin!! It was you!!"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Err... So you were scared and hid, got in a panic
+ because of the gunshots... Then saw Sara with
+ the revolver, foamed at the mouth, and fainted?"
+##
+
+{Gonbee} [Alice: Angry shout / cara11-8]
+#Message#
+\."Don't give such a biased summary, guys!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](The more I learn, the more unfortunate he seems...)
+##
+
+#Message#
+\.\C[4](But... I can't imagine he's a villain.)
+##
+
+<私達に協力しますか？>
+
+{Sara} [Alice: Angry shout / cara11-8]
+#Message#
+"We're in the same situation. Will you help us?"
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Fool... Obviously I won't.
+ Help a dangerous girl like you...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](He's pretty wary...)
+##
+
+#Message#
+"We're in the same situation. Will you help us?"
+##
+
+{Gonbee}
+#Message#
+\."...Did you hear what I said?
+ Who would assist the likes of..."
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]I told him our story so far,
+and about the Russian Roulette game.
+##
+
+{Gonbee} [Alice: Surprised face / cara11-2]
+#Message#
+\."Say again...?!"
+##
+
+#Message#
+\."So all of this was a misunderstanding...
+ caused by my too-superior insight?!"
+##
+
+{Sara}
+#Message#
+\."...Err?
+ Ah, yes, that's right."
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."..."
+##
+
+#Message#
+\."Understood. Untie me."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."You gonna help us?"
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Hahaha. You're all fools."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Who would assist someone they don't even know
+ after hearing about the Main Game?"
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Someone among you will surely turn traitor...!
+ And only softhearted fools will die."
+##
+
+{Kanna} [Kanna: Arms crossed, fully dead-eyed / cara3-3]
+#Message#
+\."..."
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."It can't only be me thinking that...
+ Correct?"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+{N/A}
+{SE: Equip2}
+#Message#
+\.\C[3]..........
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."Joe?! What are you doing?!"
+##
+
+{N/A} [Alice: Surprised face / cara11-2]
+{SE: Accent28-1}
+#Message#
+\.\C[3]Joe removed Gonbee's ropes.
+##
+
+{Gonbee} [Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."...What is this meant to be?"
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."..."
+##
+
+[Joe: Furrowed brow / cara1-15]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."I've given up on suspecting my allies."
+##
+
+{Gonbee} [Alice: Surprised face / cara11-2]
+#Message#
+\."...Hah?"
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."I just can't imagine it!
+ That there's a bad guy in our midst..."
+##
+
+{Gonbee} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Mwaha... Given up on thinking, eh?
+\! What do you know about these people? Hahaha..."
+##
+
+{Joe} [Joe: Serious look / cara1-14]
+#Message#
+\."Well yeah, I dunno anything, but..."
+##
+
+[Joe: Eyes-open smile / cara1-12]
+{SE: Accent28-1}
+#Message#
+\."It's what my heart says, so what else can I do!"
+##
+
+[Joe: Eyes-closed smile / cara1-13]
+#Message#
+\."I'm not smart anyhow.
+ So I'm gonna believe in this feeling."
+##
+
+{Gonbee} [Alice: Surprised face / cara11-2]
+#Message#
+\."..."
+##
+
+[Alice: Default glare / cara11-1]
+#Message#
+\."Hmph... You say such cheesy things."
+##
+
+[Alice: Closed-eyes grin / cara11-3]
+#Message#
+\."Oh well. As thanks for untying me,
+ I'll let you go without retaliation."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."So... no will to help out."
+##
+
+{Gonbee} [Alice: Default glare / cara11-1]
+#Message#
+\."I refuse.
+ ...But I won't interfere. So long."
+##
+
+{Joe} [Joe: Folded arms sweatdrop / cara1-18]
+#Message#
+\."Man... Being called cheesy
+ sure is making me embarrassed..."
+##
+
+{Q-taro} [Q-taro: Smile with closed fist / cara4-4]
+#Message#
+\."..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Haha..."
+##
+
+{N/A}
+#Message#
+\.\C[3]In contrast to Joe feeling awkward,
+the mood seemed to be lightening.
+##
+
+#Message#
+\.\C[3]It felt like... we could be unified again.
+##
+
+#Message#
+\.\C[3]But I couldn't forget.
+##
+
+[Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\.\C[3]The person who attacked Sou... is out there.
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Now then, should we go search for Nao all together?"
+##
+
+{Reko} [Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+\."Y... Yeah, that's it! Let's split up and search!!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."S-Sorry... I'm still not feeling great.
+ Is it okay if I rest...?"
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Aw, hell...
+ Gin, Kanna, you guys rest here too."
+##
+
+{Kanna} [Kanna: Arms crossed, dead-eyed / cara3-4]
+#Message#
+\."...O-Okay..."
+##
+
+{Sou} [Sou: Mouth open / cara5-1]
+#Message#
+\."Guess we'll hold down the fort here, Gin...?"
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+\."I... I don't wanna, meow...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Gin pushed Sou away and approached me.
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."Big sis Sara... I want you to take me, woof..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do...?)
+##
+
+#Choice#
+Take Gin
+Don't take him
+##
+
+<ギンを連れて行く>
+
+{Sara} [Gin: Worried / cara9-3]
+#Message#
+"Got it. We'll look for Nao together."
+##
+
+{Gin}
+#Message#
+\."...Thanks... meow."
+##
+
+<連れて行かない>
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+"...Gin, you should rest here."
+##
+
+#Message#
+\."Woof... woof... I'm begging you, meow..."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Then come with me, Gin.
+ ...Don't cause trouble for miss Sara."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."...Okay, meow..."
+##
+
+<Choice End>
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Alright then. Let's go, Sara."
+##
+
+<やめる>
+
+<Choice End>
+

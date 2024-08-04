@@ -1,0 +1,295 @@
+**********Common478********** (①進展続！床を触る)
+{N/A}
+#Message#
+\C[3]There's a faint rattling noise coming from this tile.
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](I wonder if...!)
+##
+
+{N/A}
+{SE: Accent28-1}
+#Message#
+\.\C[3]There's a small indentation in the gap between tiles
+that I can get my fingers into.
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."This tile here! It's removable!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Ehh?!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."Alright! Tear it off!"
+##
+
+#Message#
+\."Ready, and..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Below the tile...
+##
+
+#Message#
+\.\C[3]At the bottom of a deep, deep hole,
+was a bed of large spikes.
+##
+
+{Reko}
+#Message#
+\."Y-Yiiikes...!!
+ The hell is this?! A trap?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent28-1}
+#Message#
+\."Sara! There's writing on the back of that tile...!!"
+##
+
+{N/A}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[3]On the back of the floor tile is written "To rescue."
+##
+
+{Sara}
+#Message#
+\.\C[4](To... rescue?)
+##
+
+{N/A}
+{SE: Earth1}
+#Message#
+\.\C[3]Just then, a piece of the tile fell to the bottom.
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Ah...! The number on the right LCD!"
+##
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+{SE: Accent21-1}
+#Message#
+\."Left: 35.3...!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."It... went down a little...?"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."I wonder what that means..."
+##
+
+{Sara}
+#Message#
+\.\C[4](This is...)
+##
+
+#Choice#
+The weight of the fragment
+The length of the spikes
+##
+
+<破片の重さです>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+"The weight of... that fragment."
+##
+
+<針の長さです>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+"...The length of the spikes."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."How do you mean...?!"
+##
+
+{Sara}
+#Message#
+\."Wouldn't you say those spikes are about
+ 35.3 centimeters long...?"
+##
+
+{Nao} [Nao: Wide eyes, closed teeth, grim look / cara7-10]
+#Message#
+\."N-No, they're clearly longer, I think..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Wrong! It's not the length of the spikes!
+ It's...!)
+##
+
+{SE: Accent21-1}
+#Message#
+\."The weight of... that fragment."
+##
+
+<Choice End>
+
+{Reko} [Reko: Hands out, glaring scowl, sweating / cara6-11]
+#Message#
+\."Huh...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](...I see. Reko's idea wasn't necessarily wrong...)
+##
+
+#Message#
+\."Ranger, answer me. At the bottom of this hole...
+ There may be a bed of spikes, but could it also be..."
+##
+
+{SE: sceneswitch2}
+#Message#
+\."A \C[2]scale\C[0]...?"
+##
+
+{Reko}
+#Message#
+\."A... scale...?"
+##
+
+{Ranger} [Ranger: Ice cream over mouth / cara18-2]
+#Message#
+\.".........."
+##
+
+{Sara}
+#Message#
+\."The "35.5kg" on the LCD matched Gin's weight."
+##
+
+#Message#
+\."A piece of the floor tile fell down into the spikes,
+ and it decreased to 35.3kg."
+##
+
+#Message#
+\."Most likely, the difference can be accounted for
+ as the weight of the fragment."
+##
+
+{SE: Thunder10}
+#Message#
+\."In short, if something 35.5 kilograms or greater is
+ dropped down there, the venom mechanism will stop...
+ Am I wrong?"
+##
+
+{Ranger}
+#Message#
+\.".........."
+##
+
+[Ranger: Smile sign / cara18-1]
+{SE: Accent28-1}
+#Message#
+\."Correeeeect! Way to figure out that much
+ with clues like these! You're one amazing bastard!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Then... We can really rescue him?!
+ We can save Gin, right?!"
+##
+
+{Ranger} [Ranger: Smile sign / cara18-1]
+{SE: flash-of-light-3}
+#Message#
+\."'Course you can!"
+##
+
+[Ranger: Smile sign, swirly eyes / cara18-7]
+{SE: horror_piano chord3}
+#Message#
+\.\C[10]"That is... if you CAN..."
+##
+
+#Message#
+\.\C[10]"Now... No time to dawdle.
+ 35.5kg... Wanna talk about what to use as a weight?"
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\.".........."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."...35.5 kilograms..."
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+#Message#
+\."The walls the LCDs are on!
+ If we bust those up and drop them...!"
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\."...Barehanded...?"
+##
+
+{Reko} [Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."...!!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Then... what do we do...?!"
+##
+
+[Reko: Throwing horns, grim scowl / cara6-3]
+#Message#
+"Something heavy enough to use...
+ There's nothin' on this platform, is there?!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Did that damn Ranger never intend on
+ letting us save him in the first place?!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+#Message#
+\."Is there no hope at all...?!"
+##
+
+{Nao} [Nao: Tired eyes, looking to side, grim look / cara7-15]
+#Message#
+\.".........."
+##
+

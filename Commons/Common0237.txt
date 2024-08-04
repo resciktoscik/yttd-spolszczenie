@@ -1,0 +1,16 @@
+**********Common237********** (投票アリス)
+#Message#
+Vote for \C[2]Alice\C[0]?
+##
+
+#Choice#
+Yes
+No
+##
+
+<はい>
+
+<いいえ>
+
+<Choice End>
+

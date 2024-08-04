@@ -1,0 +1,455 @@
+**********Common1357********** (呼・磁力アップのコメント)
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+"M-My collar's being drawn by the magnet...!!"
+##
+
+[Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+\."Ahh!! I'm being pulled to the ceiling again!"
+##
+
+<Else>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+\."Myaaa!! The ceiling's pulling my collar again, woof!!"
+##
+
+[Gin: Looking up, sad, grave look / cara9-13]
+#Message#
+\."I-It hurts... Stop it...!"
+##
+
+<Condition End>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The magnetic pull gets stronger
+ as we spend time \C[2]taking actions\C[0]!"
+##
+
+[Reko: Looking to side with grim scowl, eyes closed / cara6-9]
+{SE: sceneswitch2}
+#Message#
+\."And whenever we \C[2]fail at the puzzle\C[0], I bet...!"
+##
+
+<Else>
+
+{Alice} [Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."The magnetic force grows stronger
+ as we spend our time on \C[2]actions\C[0]!"
+##
+
+[Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: sceneswitch2}
+#Message#
+\."No doubt it will \C[2]when we fail the puzzle\C[0], as well...!"
+##
+
+<Condition End>
+
+{Sara}
+{SE: Accent42-1}
+#Message#
+\.\C[4](Everyone's lives are on the line!
+ I have to act carefully...!)
+##
+
+<If Switch #22 (★ハヤサカ生存ルート) is ON>
+
+{Hayasaka} [Hayasaka: Eyes wide, mouth open, sweating, grave look / cara94-14]
+#Message#
+"No, no...! Help meee!!"
+##
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+{SE: Accent40-1}
+#Message#
+\."Suit-and-specs..."
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."Urgh... Gin..."
+##
+
+{Ranmaru} [Ranmaru: Hands in pockets, worried with grim look, mouth open / cara91-23]
+#Message#
+\."Stop quivering and think!
+ Ain't you an adult?!"
+##
+
+{Hayasaka} [Hayasaka: Eyes wide, teeth clenched, sweating, grave look / cara94-13]
+#Message#
+\."Oof..."
+##
+
+<Else>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl / cara6-6]
+#Message#
+\."Dammit! How're we supposed
+ to keep our cool like this...?!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent40-1}
+#Message#
+\."Gotta think... Gotta think... *sniff*..."
+##
+
+{Reko} [Reko: Fists out, shocked eyes, mouth open / cara6-41]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Don't be scared!! Big sis Reko's with ya, Gin!!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Confused eyes, closed teeth / cara11-13]
+#Message#
+\."Hnngh...! This is truly suffocating!"
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Accent40-1}
+#Message#
+\."Gotta think... Gotta think... *sniff*..."
+##
+
+{Alice} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+#Message#
+\."I-It's all right, Gin Ibushi!!
+ I am... er, well, Sara Chidouin is with you!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<Condition End (Switch #22 (★ハヤサカ生存ルート))>
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Ugh...!)
+##
+
+#Choice#
+Keep at it myself
+Get advice
+##
+
+<自力でがんばる>
+
+{Sara} [Alice: Look to side, angry shout, clutching chest and sweating / cara11-19]
+{SE: Accent40-1}
+#Message#
+\C[4](Just think...! I'm sure I can do this!)
+##
+
+<アドバイスをもらう>
+
+<Choice End>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+#Message#
+"I... I won't lose, meow...!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Oof... It's getting rougher...)
+##
+
+#Choice#
+Keep at it myself
+Get advice
+##
+
+<自力でがんばる>
+
+{Sara} [Gin: Horrified, claws raised / cara9-9]
+{SE: Accent40-1}
+#Message#
+\C[4](It's okay! I can still think...!)
+##
+
+<アドバイスをもらう>
+
+<Choice End>
+
+{Gin} [Gin: Horrified, claws raised / cara9-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+".........."
+##
+
+{Sara}
+#Message#
+\.\C[4](It hurts...! I'm almost at my limit!
+ And it must be even more intense for Gin...!)
+##
+
+#Choice#
+Keep at it myself
+Get advice
+##
+
+<自力でがんばる>
+
+{Sara} [Gin: Horrified, claws raised / cara9-9]
+{SE: Accent40-1}
+#Message#
+\C[4](Keep thinking! There must be an answer!)
+##
+
+<アドバイスをもらう>
+
+<Choice End>
+
+{Gin} [Gin: Looking up, tearful / cara9-14]
+{SE: horror_piano chord3}
+#Message#
+\SP[10]"No... more... meowww..."
+##
+
+{Sara}
+#Message#
+\."G-Gin...! Take my hand!!"
+##
+
+{N/A}
+{SE: Equip1}
+#Message#
+\.\C[3]I grabbed Gin's hand as a strong force pulled him up.
+##
+
+{Gin} [Gin: Looking up, tearful, grave look / cara9-15]
+{SE: Paralyze1}
+#Message#
+\."...!!"
+##
+
+{Sara}
+{SE: Paralyze1}
+#Message#
+\.\C[4](Ahh...! That's not it!! Gin's neck will...!)
+##
+
+{SE: Paralyze1}
+#Message#
+\.\C[4](What should I do?! Because if I let go...!
+ Ahhhh...!!)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\.\C[3]Suddenly, I felt myself pulling Gin with less force.
+##
+
+{Sara}
+#Message#
+\.\C[4](Eh...?)
+##
+
+{N/A}
+{SE: Accent40-1}
+#Message#
+\.\C[3]Did the magnet weaken...?
+##
+
+#Message#
+\.\C[3]No... that isn't it.
+##
+
+{Sara}
+{SE: heart2}
+#Message#
+\.\C[4](My legs...)
+##
+
+{N/A}
+#Message#
+\C[3]It hurts.
+##
+
+#Message#
+\.\C[3]I feel a pain like my head shattering.
+##
+
+#Message#
+\.\C[3]A splitting explosion echoes through my body.
+##
+
+#Message#
+\.\C[3]Even with my blurry vision, I can see it clearly.
+##
+
+#Message#
+\.\C[3]...The ceiling is approaching.
+##
+
+{Sara}
+#Message#
+\SP[8]".........."
+##
+
+{SE: Accent40-1}
+#Message#
+"Does anyone have any ideas?!"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+#Message#
+\."Come to think of it..."
+##
+
+[Reko: Fists out, angry eyes, mouth open / cara6-40]
+{SE: Accent41-1}
+#Message#
+\."The shadows that show up from the lantern...
+ Don't they look kinda like the \C[2]floor map\C[0]?"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Hm? Come to think of it..."
+##
+
+[Alice: Angry shout / cara11-8]
+{SE: Accent41-1}
+#Message#
+\."Those shadows your lantern reveals!
+ Don't they resemble the \C[2]floor map\C[0]...?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](The floor map...?)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Fists out, angry eyes, mouth open / cara6-40]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Like I said, those shadows the lantern reveals
+ look a lot like the \C[2]floor map\C[0]...!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Angry shout / cara11-8]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Those shadows your lantern reveals!
+ They resemble the \C[2]floor map\C[0], yes?"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko}
+{SE: Accent28-1}
+#Message#
+\."Like...! The \C[2]layout of rooms\C[0] and \C[2]layout of lockers\C[0]
+ are kinda similar too, right?!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice}
+{SE: Accent28-1}
+#Message#
+\."Don't you feel the \C[2]room layout\C[0] and \C[2]locker layout\C[0]
+ are also somehow similar?!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](So the floor map is an important clue...!
+ I'll keep it on hand!)
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Looking to side with scowl, eyes closed / cara6-7]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If we compare the shadows revealed by the lantern
+ to the \C[2]floor map\C[0]..."
+##
+
+[Reko: Fists out, angry eyes, mouth open / cara6-40]
+{SE: Accent28-1}
+#Message#
+\."It kinda seems like
+ there's \C[2]items that relate to the rooms\C[0]...!"
+##
+
+[Reko: Fists out, angry sad eyes / cara6-38]
+{SE: sceneswitch2}
+#Message#
+\."Well, but also... there seem to be
+ \C[2]dummy items\C[0] that probably aren't relevant, too!"
+##
+
+[Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Which items to use and which not to use...
+ \C[2]Identifying those\C[0] has gotta be the key!"
+##
+
+<Else (Switch #642 (★レコ生存ルート))>
+
+{Alice} [Alice: Look to side, glare / cara11-14]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Those shadows your lantern reveals!
+ If we compare them with the \C[2]floor map\C[0]..."
+##
+
+[Alice: Angry shout / cara11-8]
+{SE: Accent28-1}
+#Message#
+\."Don't you feel there may be
+ \C[2]items that relate to each room\C[0]?!"
+##
+
+[Alice: Look to side, glare, clutching chest and sweating / cara11-18]
+{SE: sceneswitch2}
+#Message#
+\."And on the flipside...
+ others are seemingly irrelevant \C[2]dummy items\C[0]!"
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."What items to use, and what items not to use...
+ \C[2]Identifying these\C[0] rests on you, Sara Chidouin!!"
+##
+
+<Condition End (Switch #642 (★レコ生存ルート))>
+

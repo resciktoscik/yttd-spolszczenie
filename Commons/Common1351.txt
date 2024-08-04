@@ -1,0 +1,47 @@
+**********Common1351********** (31、間違いどす)
+{Sara}
+#Message#
+\C[4](These big iron bars...
+ How about this?)
+##
+
+#Choice#
+Point out
+Cancel
+##
+
+<指摘する>
+
+{Sara} [Sara: Pointing / cara0-3]
+{SE: Accent28-1}
+#Message#
+"Could you remember this part a little more?"
+##
+
+{Alice} [Alice: Default glare / cara11-1]
+#Message#
+\."Nothing odd about it, is there?
+ They're just iron bars."
+##
+
+[Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Though indeed, when I first slept in this room,
+ it was quite a big shock..."
+##
+
+[Alice: Confused shout / cara11-7]
+#Message#
+\."Like, waking up to bars in front of you?!
+ It makes a grown man cry...!"
+##
+
+{Sara} [Sara: Disturbed / cara0-4]
+#Message#
+\.\C[4](Still... almost seems preferable to now...)
+##
+
+<やめる>
+
+<Choice End>
+

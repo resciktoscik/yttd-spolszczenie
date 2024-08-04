@@ -1,0 +1,18 @@
+**********Common1427********** (③カンナB選択)
+{N/A}
+#Message#
+"Kanna knows where the noise is coming from...!
+ She'll go get it!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

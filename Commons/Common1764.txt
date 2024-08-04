@@ -1,0 +1,79 @@
+**********Common1764********** (●ｱﾘｽ「概要」)
+{Alice}
+#Message#
+"The Dummies and \N[4]... That combined
+ group of seven would appear to contain one \C[2]human\C[0]!"
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Alice} [Alice: Angry shout / cara11-8]
+#Message#
+"Your intentions aren't clear at all!!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Alice} [Alice: Closed-eyes grin / cara11-3]
+#Message#
+"Worthless... How does that refute me?"
+##
+
+<やめる>
+
+<Choice End>
+
+{Alice} [Alice: Fist to palm, glare / cara11-5]
+{SE: Accent21-1}
+#Message#
+"The Coffin Control System has it all color-coded.
+ \C[12]Blue: human, \C[10]red: doll, \C[6]yellow: vacant\C[0]..."
+##
+
+[Alice: Look to side, glare / cara11-14]
+#Message#
+\."And \C[12]Blue 1, \C[10]Red 6, \C[6]Yellow 0\C[0]...
+ If those were the contents when the game began..."
+##
+
+[Alice: Fist to palm, angry shout, grim look / cara11-10]
+#Message#
+\."No doubt... one \C[12]human\C[0] is among themmmmm!!"
+##
+

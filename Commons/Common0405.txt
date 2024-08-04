@@ -1,0 +1,174 @@
+**********Common405********** (腕相撲事後処理)
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Managed to do it... I'm exhausted."
+##
+
+#Message#
+\."Here's the Clear Chips.
+ We'll take one each."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Q-taro} [Q-taro: Smile with thumbs-up / cara4-1]
+#Message#
+\."Good work! You're really somethin'!"
+##
+
+#Message#
+\."So these are Clear Chips... Let's take one each!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Q-taro}
+#Message#
+\."Well then, as promised, let's trade tokens!
+ It's a trade of trust, y'know."
+##
+
+{N/A}
+#Message#
+\.\C[3]Traded 10 Me-Tokens with Q-taro.
+##
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+\."Hmph... That was nothing much..."
+##
+
+[Alice: Fist to palm, glare / cara11-5]
+#Message#
+\."Worry not, Sara Chidouin.
+ We will split the Clear Chips equally."
+##
+
+{N/A}
+#Message#
+\.\C[3]Obtained 1 Clear Chip.
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, was he?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Sure enough... Maybe you just can't
+ do the attractions alone after all."
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, was he?"
+##
+
+{Q-taro} [Q-taro: Open mouth, closed fist / cara4-2]
+#Message#
+\."Dammit... Was we on the wrong track...?"
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, was he?"
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Sou Hiyori, hm..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Whoa! You two okay?!
+ Hey, you gotta come with me!!"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+\."I found Sou in his bedroom!"
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Ah! You guys are safe?!
+ Sorry, but you gotta come with me!!"
+##
+
+{Sara}
+#Message#
+\."Eh...?"
+##
+
+{Reko} [Reko: Hands out, glaring scowl / cara6-10]
+{SE: Accent28-1}
+#Message#
+\."I found the beanie bastard in his bedroom!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](What the...?!)
+##
+
+#Message#
+\."Still... Sou wasn't there, was he?"
+##
+
+#Message#
+\."I think I get the attractions now...
+ I suppose we should all meet up and look for Sou."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Okie-dokie.
+ However you wanna do this, Sara."
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, was he?"
+##
+
+#Message#
+\."I think I get the attractions now...
+ I suppose we should all meet up and look for Sou."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Don't want him gettin' up to no good
+ while we're busy with this, after all..."
+##
+
+{Sara}
+#Message#
+\."Still... Sou wasn't there, was he?"
+##
+
+#Message#
+\."I think I get the attractions now...
+ I suppose we should all meet up and look for Sou."
+##
+
+{Alice} [Alice: Glance to side, sweating / cara11-4]
+#Message#
+\."Sou Hiyori, hm..."
+##
+

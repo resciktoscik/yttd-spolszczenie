@@ -1,0 +1,281 @@
+**********Common1712********** (◆Q「絵画思い出す」)
+{Q-taro}
+#Message#
+"Is there any other clue 'sides the victim videos...?"
+##
+
+#Message#
+"There's a painting in the gallery
+ that I was wonderin' about...!"
+##
+
+#Message#
+"The painting of Sou smilin'! It's got a cheery aura
+ I'd never expect from the Sou we know!"
+##
+
+#Message#
+"The talking \N[4] painting!
+ Bettin' it's somethin' simpler than a whole AI!"
+##
+
+#Message#
+"I'm pretty sure that's Megumi, Keiji's former boss
+ who he was with in the First Trial...!"
+##
+
+#Message#
+"Guessin' this was Kanna's sister who got killed
+ by the bed device in the First Trial..."
+##
+
+#Message#
+"Nao...!
+ Our ally who we couldn't save in the Main Game...!!"
+##
+
+#Message#
+"This one's a mystery...
+ A painting of a girl in a middle-school blazer
+ an' gaudy socks, with plain black hair."
+##
+
+#Choice#
+Use \V[3]
+Cancel
+##
+
+<\V[3]を使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+"Ohh?! What's up?
+ You gonna use that to help me remember?!"
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Yes! Take a good look at this...!"
+##
+
+{Q-taro}
+#Message#
+"Whoa! I'm startin' to remember...!"
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Let's look for a notable painting here...!)
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Sorry! Don't really follow...!"
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"My memory's a li'l hazy...
+ Feels like I'm this close to rememberin'..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](If I have something that can \C[2]jog Q-taro's memory\C[4],
+ I might want to show it to him...)
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent28-1}
+#Message#
+"Hey, Sara... You remember seein' anything
+ other than those videos that \C[2]involved the victims\C[0]?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Something I saw while searching...)
+##
+
+#Choice#
+The office
+The classroom
+The gallery
+The locker room
+I don't know
+##
+
+<オフィス>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+{SE: Accent40-1}
+#Message#
+"Feels like I saw something in the office..."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Nah... Don't think there was
+ any info on the victims there..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah...)
+##
+
+<教室>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"Feels like I saw something in the classroom..."
+##
+
+{Q-taro}
+#Message#
+\."Nah... I mean, there was the consent form, but..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hm... That's not it?)
+##
+
+<美術室>
+
+{Sara} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent40-1}
+#Message#
+"Well, we saw something in the gallery."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."On the wall, there were \C[2]paintings\C[0] of
+ those like Nao who had \C[2]become victims\C[0]..."
+##
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."Whoaaa! Yer right!"
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent21-1}
+#Message#
+\."Oh yeah! There was one'a those paintings
+ I was wonderin' about...!"
+##
+
+{Sara}
+#Message#
+\."Oh?! Which one was it?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\.".........."
+##
+
+[Q-taro: Arms lowered, teeth clenched, freaked out / cara4-12]
+#Message#
+\."Can't remember that part...!"
+##
+
+{Sara}
+#Message#
+\."Whaaa?!"
+##
+
+{Q-taro} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+#Message#
+\."Urghh...
+ Know it's a pretty minor memory, but c'mon..."
+##
+
+{Sara}
+#Message#
+\.\C[4](What should I do?)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](If I have something that can \C[2]jog Q-taro's memory\C[4],
+ I might want to show it to him...)
+##
+
+<ロッカー室>
+
+{Sara} [Q-taro: Arms lowered, teeth clenched, lowered eyes of despair / cara4-13]
+{SE: Accent40-1}
+#Message#
+"Feels like I saw something in the locker room..."
+##
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Hmm... Don't feel like we saw
+ much of anything there 'cept the lantern."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm... That's not it?)
+##
+
+<わからない>
+
+{Sara} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\C[4](I'm not really sure...)
+##
+
+<Choice End>
+

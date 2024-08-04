@@ -1,0 +1,475 @@
+**********Common576********** (交渉２－朝　ナオ)
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"Sara... Um... It's about Reko.
+ I wanted to ask you something..."
+##
+
+#Choice#
+Discuss
+Hear a short pitch
+Cancel
+##
+
+<話し合う>
+
+<少し内容を聞く>
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+"Sorry if I'm asking something odd, but..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Hasn't Reko been acting strange...?"
+##
+
+{Sara}
+#Message#
+\."Huh? What do you mean?"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."...I don't really want to say here..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Reko acting strange...)
+##
+
+<やめる>
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+{SE: Accent28-1}
+#Message#
+\."Good... I was getting a little uneasy."
+##
+
+{Sara}
+#Message#
+\."What do you want to ask about Reko?"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."E-Err... Can we move away a little bit first?"
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."Umm... so..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Isn't Reko... acting strange...?"
+##
+
+{Sara}
+#Message#
+\.\C[4](Hmm...)
+##
+
+#Choice#
+Something's odd
+She's the same as ever
+Couldn't say either way
+##
+
+<何かおかしい>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Something does feel a little... off."
+##
+
+{Nao} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Huh?!
+ Like what, exactly...?!"
+##
+
+{Sara}
+#Message#
+\."Err..."
+##
+
+#Choice#
+Her personality
+Her personhood
+Her behavior
+##
+
+<性格>
+
+{Sara} [Nao: Wide eyes, mouth open / cara7-2]
+#Message#
+\."Like Reko's personality."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent28-1}
+#Message#
+\."...!
+ So you think so too..."
+##
+
+<性別>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Like Reko's personhood."
+##
+
+{Nao}
+#Message#
+\."I really don't think that's changed!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Yeah, probably not...)
+##
+
+<行動>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."Like Reko's behavior."
+##
+
+{Nao}
+{SE: Accent28-1}
+#Message#
+\."...!
+ That's right... Something is odd about it..."
+##
+
+<Choice End>
+
+<全然変わらない>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."I feel like she's no different than usual..."
+##
+
+{Nao} [Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."..."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."If you say so, Sara...
+ then maybe it's just my imagination."
+##
+
+<どちらともいえない>
+
+{Sara} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."I couldn't say either way..."
+##
+
+{Nao} [Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."E... Either way?
+\! Oh, I see..."
+##
+
+<Choice End>
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\.".........."
+##
+
+[Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."Reko seems somehow... cold."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."There's something about her attitude..."
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+{SE: sceneswitch2}
+#Message#
+\."Has there been any kind of change with Reko...?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+#Choice#
+She went in the Room of Lies
+Nothing
+##
+
+<嘘の間に入った>
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: Accent21-1}
+#Message#
+\."The... Room of Lies?"
+##
+
+{Sara}
+#Message#
+\."Yes. She didn't tell you about it...?"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."No, I didn't hear anything..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Sure enough... that's odd.)
+##
+
+#Message#
+\.\C[4](Shouldn't she have given out those Clear Chips
+ from the Room of Lies to the others...?)
+##
+
+<何もない>
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+\."I see..."
+##
+
+[Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I wonder if she's just normal around you, Sara?"
+##
+
+{Sara}
+#Message#
+\."..."
+##
+
+<Choice End>
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."Um... Sara."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."Did you know about the wound on Reko's right hand?"
+##
+
+{Sara}
+#Message#
+\."Wound...?"
+##
+
+#Choice#
+Come to think of it...
+I didn't know
+##
+
+<そう言えば…>
+
+{Sara} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."When I gave Reko a handshake,
+ a bit of blood dripped down along my hand."
+##
+
+{Nao} [Nao: Lowered eyebrows, grim look, mouth open / cara7-22]
+#Message#
+\."Really...?!"
+##
+
+{Sara}
+#Message#
+\."Yeah..."
+##
+
+<知らないです>
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\.".........."
+##
+
+[Nao: Holding wrist, looking down (lightless eyes) / cara7-6]
+#Message#
+\."Oh, I see..."
+##
+
+<Choice End>
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Reko... must be hiding something."
+##
+
+{Sara}
+#Message#
+\."What does her wound have to do with it?"
+##
+
+{Nao} [Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."...Well, actually..."
+##
+
+[Nao: Tired eyes, looking to side / cara7-14]
+#Message#
+\."..."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+{SE: Accent21-1}
+#Message#
+\."Oh... never mind."
+##
+
+[Nao: Tired half-closed eyes / cara7-19]
+#Message#
+\."...I still don't know
+ what Reko is trying to do, myself."
+##
+
+{Sara}
+#Message#
+\.".........."
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."It's just... clear to me she's hiding something."
+##
+
+{Sara}
+#Message#
+\.\C[4](Hiding something...)
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."But if that secret..."
+##
+
+{SE: se_maoudamashii_magical14}
+#Message#
+\."If it's something she's shouldering for our sakes..."
+##
+
+[Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."...Then I want to help her."
+##
+
+[Nao: Closed tired eyes / cara7-17]
+{SE: Accent28-1}
+#Message#
+\."Because... we're friends."
+##
+
+{Sara}
+#Message#
+\."Nao..."
+##
+
+#Choice#
+I'll help too
+It's just your imagination
+Best buds already, huh?
+##
+
+<私も協力します>
+
+{Sara} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."You two are friends to me, too."
+##
+
+#Message#
+\."I'll assist you, Nao."
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."Would you really..?!"
+##
+
+<気のせいですよ>
+
+{Sara} [Nao: Mouth open / cara7-1]
+#Message#
+\."I'm sure you're imagining it. Relax."
+##
+
+{Nao} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."...*sniff*..."
+##
+
+{Sara}
+#Message#
+\.\C[4](That wasn't the right way to support her...)
+##
+
+<もはやマブダチですね>
+
+{Sara} [Nao: Closed tired eyes / cara7-17]
+#Message#
+\."Nao, you and Reko aren't just friends..."
+##
+
+{SE: flash-of-light-3}
+#Message#
+\."You're BFFs!!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open / cara7-20]
+#Message#
+\."What does "BFFs" mean?"
+##
+
+{Sara}
+#Message#
+\."Urk... Just feel it in your gut, okay...?!"
+##
+
+{Nao} [Nao: Angry eyebrows, mouth open, raised finger / cara7-21]
+#Message#
+\."O... Okay! I'm sorry...!"
+##
+
+<Choice End>
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."...Thank you very much, Sara."
+##
+
+[Nao: Raised finger / cara7-4]
+#Message#
+\."I'm glad... I could talk with you."
+##
+
+{Sara}
+#Message#
+\C[4](Well... That's it for discussions.)
+##
+

@@ -1,0 +1,18 @@
+**********Common1463********** (⑤レコB選択　３)
+{N/A}
+#Message#
+"Yikes...! Think I'll let you take it?!
+ I'll pick up the gun...!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

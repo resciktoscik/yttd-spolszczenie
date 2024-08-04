@@ -1,0 +1,18 @@
+**********Common1472********** (⑤QタロウB選択２)
+{N/A}
+#Message#
+"I've gotten close to \N[4]!
+ I'm gonna grab his leg!!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

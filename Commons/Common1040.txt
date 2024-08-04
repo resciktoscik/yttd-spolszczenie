@@ -1,0 +1,55 @@
+**********Common1040********** (戦①ヘルメット破壊)
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+{SE: Accent28-1}
+#Message#
+"Awright!
+ Destroyed that helmet what was protecting the head!"
+##
+
+{Mai} [Mai: Clasped hands, blushing closed-eyes smile / cara92-8]
+{SE: Accent11-1}
+#Message#
+\."Eeeee! How coooool!"
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Yeah, yeah, I got it already!
+ Don't take your eyes off yer opponent!"
+##
+
+{Hinako} [Hinako: Small grin / cara93-3]
+{SE: Accent28-1}
+#Message#
+"...There. That'll do, right?"
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."Destroying a helmet with a shovel...
+ You're really something."
+##
+
+{Hinako} [Hinako: Eyes closed, grin / cara93-6]
+#Message#
+\."...I mean, my arm is tingling a little."
+##
+
+{Kurumada} [Kurumada: Grin / cara95-3]
+{SE: Accent28-1}
+#Message#
+"Hahah...!
+ Knocked off that ugly helmet."
+##
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."Hit it square in the jaw!
+ Yer one terrifyin' hoodlum...!"
+##
+
+{Kurumada} [Kurumada: Mouth open / cara95-1]
+#Message#
+\."I'm a boxer, goddammit!"
+##
+

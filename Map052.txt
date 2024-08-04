@@ -1,0 +1,435 @@
+=====Map52===== (Back of 2F)
+
+**********Event1********** (EV001) (8,8)
+-----Page1-----
+#Message#
+\C[3]There's something on the floor...
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent28-1}
+#Message#
+"Hm? ...Huh, a key."
+##
+
+{Gin} [Gin: Worried / cara9-3]
+#Message#
+\."It's got... a tag, meow."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."The key to the kitchen, eh..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."It's got a tag.
+ The key to the kitchen, eh...?"
+##
+
+{Sara}
+#Message#
+\."Come to think of it... The kitchen is the only
+ place on the first floor we haven't been."
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Since the key's here, Nao shouldn't have been
+ able to get in without breaking the window..."
+##
+
+{Sara}
+#Message#
+\."But... We should check just in case."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+#Message#
+\."Yep. Best to be simple and methodical
+ in your investigations, Sara."
+##
+
+{N/A}
+#Message#
+\C[3]Obtained the Kitchen Key.
+##
+
+
+**********Event2********** (EV002) (1,0)
+-----Page1-----
+{Reko} [Reko: Smile / cara6-4]
+{SE: Accent28-1}
+#Message#
+"Sara!!"
+##
+
+{Sara}
+#Message#
+\."Reko..."
+##
+
+{Reko} [Reko: Mouth open / cara6-2]
+#Message#
+\."Heard you found Nao!
+ You did good! Thanks!"
+##
+
+{Nao} [Nao: Holding wrist, looking down / cara7-5]
+#Message#
+\."I-I'm sorry... for worrying you..."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."Don't sweat it! Especially 'cause you're safe!"
+##
+
+[Reko: Mouth open / cara6-2]
+#Message#
+\."But Nao, we're your buds, right?
+ Don't take off anymore, okay?"
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+{SE: Accent21-1}
+#Message#
+\."B... Buds..."
+##
+
+{Reko} [Reko: Looking to side with grim scowl / cara6-8]
+#Message#
+\."Y-You don't wanna be?
+ If my makeup's scary, I can take it off...!"
+##
+
+{Nao} [Nao: Mouth open / cara7-1]
+#Message#
+\."T-That's not it! I'm... very happy."
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+\."...Alright."
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."...Woof...!"
+##
+
+{Nao} [Nao: Closed-eyes smile / cara7-12]
+#Message#
+\."Gin, thank you...
+ I won't put you in a scary situation again."
+##
+
+{Gin} [Gin: Default / cara9-1]
+#Message#
+\."...I-I wasn't scared... meow."
+##
+
+
+**********Event3********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event4********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event5********** (EV005) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event6********** (nao) (8,6)
+-----Page1-----
+#Message#
+\C[3]Reko, Nao, and Gin stand in the passage.
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"I'll do my best to make up for troubling you...!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+"You're fine, Nao. You've got us, right Gin?"
+##
+
+{Gin} [Gin: Smile, hands in front / cara9-5]
+#Message#
+\."Meow...!"
+##
+
+-----Page2-----
+#Message#
+\C[3]Nao and Reko stand in the passage.
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"I'll do my best to make up for troubling you...!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+"You're fine, Nao. ...Thanks, Sara."
+##
+
+-----Page3-----
+#Message#
+\C[3]Nao and Reko stand in the passage.
+##
+
+{Nao} [Nao: Holding wrist, looking toward camera / cara7-9]
+#Message#
+"I'll do my best to make up for troubling you...!"
+##
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+"Seems Gin's doing the same in that room there.
+ No worries, Sara."
+##
+
+
+**********Event7********** (akadoa) (8,3)
+-----Page1-----
+#Message#
+\C[3]There's a large red door in the center.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]The number 09 is displayed above the door.
+##
+
+{Sara}
+#Message#
+\.\C[4](What could this number mean...?)
+##
+
+-----Page2-----
+#Message#
+\C[3]There's a large red door in the center.
+##
+
+{SE: Accent21-1}
+#Message#
+\.\C[3]The number 02 is displayed above the door.
+##
+
+{Sara}
+#Message#
+\.\C[4](What could this number mean...?)
+##
+
+
+**********Event8********** (hikari) (8,5)
+-----Page5-----
+#Message#
+\C[3]The red door is open, and shines a bright white light.
+##
+
+{Sara}
+#Message#
+\.\C[4](The counter above the door is 0...!)
+##
+
+#Message#
+\.\C[4](Don't tell me the people on the second floor...
+ went in here...?)
+##
+
+#Choice#
+Take a look inside
+Cancel
+##
+
+<中の様子をうかがう>
+
+{Sara}
+#Message#
+\C[4](It'd be dangerous to enter.
+ I'll just... take a peek...)
+##
+
+{N/A}
+#Message#
+\.\C[3]I carefully stuck only my head into the room.
+##
+
+#Message#
+\.\C[3]And then...
+##
+
+#Message#
+\.\C[3]Someone shoved me from behind.
+##
+
+{Sara}
+#Message#
+\."Wha...?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]With that, I lost consciousness.
+##
+
+{Sara}
+#Message#
+"Nnh..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."Huh...?"
+##
+
+<やめる>
+
+<Choice End>
+
+
+**********Event9********** (kuro) (6,4)
+-----Page1-----
+#Message#
+\C[3]There's a locked black door on the left side.
+##
+
+#Message#
+\.\C[3]The doorknob has a dial to enter a number on it.
+##
+
+#Choice#
+Enter number
+Cancel
+##
+
+<数字を入力する>
+
+#Message#
+\C[3]The black door opened.
+##
+
+{Sara}
+#Message#
+\C[4](I'd better stop...
+ It can't be as easy as just guessing randomly.)
+##
+
+#Message#
+\C[4](I'd better stop...
+ It can't be as easy as just guessing randomly.)
+##
+
+#Message#
+\C[4](Seems that's not it.)
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+#Message#
+\C[3]There's a black door on the left side.
+##
+
+
+**********Event10********** (siro) (10,4)
+-----Page1-----
+#Message#
+\C[3]There's a locked white door on the right side.
+##
+
+#Message#
+\.\C[3]The doorknob has a dial to enter a number on it.
+##
+
+#Choice#
+Enter number
+Cancel
+##
+
+<数字を入力する>
+
+#Message#
+\C[3]The white door opened.
+##
+
+{Sara}
+#Message#
+\C[4](I'd better stop...
+ It can't be as easy as just guessing randomly.)
+##
+
+#Message#
+\C[4](I'd better stop...
+ It can't be as easy as just guessing randomly.)
+##
+
+#Message#
+\C[4](Seems that's not it.)
+##
+
+<やめる>
+
+<Choice End>
+
+-----Page2-----
+#Message#
+\C[3]There's a white door on the right side.
+##
+
+
+**********Event12********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event36********** (りぼるばー) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

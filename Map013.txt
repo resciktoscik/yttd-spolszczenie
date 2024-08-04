@@ -1,0 +1,225 @@
+=====Map13===== (Dark Corridor)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+{Joe}
+#Message#
+"Dammit... It's pitch black!"
+##
+
+{Sara}
+#Message#
+\."I can't see a thing..."
+##
+
+#Choice#
+Go along the wall
+We should stay put
+##
+
+<壁をつたって進もう>
+
+{Joe}
+#Message#
+"Left is a dead end...
+ Seems we can only go right."
+##
+
+<じっとしていた方がいい>
+
+{Joe}
+#Message#
+"N... No joking around, Sara!
+ We got away, but somebody might come catch us!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Joe seems pretty restless...)
+##
+
+<Choice End>
+
+{Joe}
+#Message#
+\."I mean it, Sara, don't let us get separated."
+##
+
+{Sara}
+#Message#
+\."Right..."
+##
+
+{N/A}
+#Message#
+\.\C[3]We kept going straight ahead...
+##
+
+#Message#
+\.\C[3]But as far as we walked, we didn't see any light.
+##
+
+#Message#
+\.\C[3]It seemed to be a very... very long hallway.
+Or maybe we weren't advancing much at all...
+##
+
+{Sara}
+#Message#
+\."Joe..."
+##
+
+#Choice#
+Use the phone for light
+Let's be bold and run
+##
+
+<スマホの明かりを使おう>
+
+{Sara}
+#Message#
+"That phone you used earlier...
+ Could you try using that to light the way?"
+##
+
+{Joe}
+{SE: Accent28-1}
+#Message#
+\."Nice one, Sara! Man, you're smart!"
+##
+
+{Sara}
+#Message#
+\."Did you bring it?"
+##
+
+{Joe}
+#Message#
+\."Ah... I left it back there..."
+##
+
+{Sara}
+#Message#
+\."...Guess that's that, then."
+##
+
+{Joe}
+#Message#
+\."Hmm... What can give us some light...?"
+##
+
+{N/A}
+#Message#
+\.\C[3]We were searching ourselves, when suddenly...
+##
+
+<思い切って走ろう>
+
+{Sara}
+#Message#
+"I don't hear anyone around. Wouldn't it be good
+ to run before someone comes?"
+##
+
+{Joe}
+#Message#
+\."...Can't say I'm a fan, but...
+ If you think so, I'm on board!"
+##
+
+#Message#
+\."But can I ask something?"
+##
+
+{Sara}
+#Message#
+\."What?"
+##
+
+{Joe}
+#Message#
+\."You're faster than me, aren't you...?"
+##
+
+{Sara}
+#Message#
+\."...I wouldn't leave you behind."
+##
+
+{Joe}
+#Message#
+\."Then let's run...!"
+##
+
+#Message#
+\."One, two, and..."
+##
+
+{N/A}
+#Message#
+\.\C[3]Just as we were about to run, suddenly...
+##
+
+<Choice End>
+
+{Joe}
+#Message#
+\."Wha... Whoa?!"
+##
+
+{Sara}
+#Message#
+\."...Waaah?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]Wind blowing from underneath...?!
+##
+
+#Message#
+\.\C[3]My feet left the ground.
+##
+
+#Message#
+\.\C[3]Am I flying up...?
+##
+
+{Joe}
+#Message#
+\."No!! We're... falling?!"
+##
+
+{N/A}
+#Message#
+\.\C[3]The floor gave way...!
+##
+
+{Sara}
+#Message#
+\."Eek...!"
+##
+
+{N/A}
+#Message#
+\.\C[3]How long...?
+##
+
+#Message#
+\.\C[3]How high...?
+##
+
+#Message#
+\.\C[3]How far are we falling...?
+##
+
+#Message#
+\.\C[3]I feel... my senses growing distant...
+##
+
+{???}
+{SE: Accent21-1}
+#Message#
+\."Hey. Get up."
+##
+

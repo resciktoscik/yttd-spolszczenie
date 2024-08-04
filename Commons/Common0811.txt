@@ -1,0 +1,152 @@
+**********Common811********** (●激おこケイジ)
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+"Sou... I don't intend to withdraw until you talk."
+##
+
+{Sou} [Sou: Afraid look with lightless eyes / cara5-9]
+#Message#
+".........."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](I'll pry Sou's heart open...!!)
+##
+
+[Keiji: Scratching shoulder, surprised / cara2-8]
+#Message#
+"W-What's the matter, Keiji?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, smiling / cara2-7]
+{SE: Accent28-1}
+#Message#
+\."Oh... Just impressed by how calmly he could lie."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."...Lie...?"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."Sara, recall the Prize Exchange."
+##
+
+{Sara}
+#Message#
+\.\C[4](The Prize Exchange...)
+##
+
+#Message#
+\.\C[4](Huh...?)
+##
+
+{Keiji}
+{SE: Accent21-1}
+#Message#
+\."Remember?
+ There were photos, but no names anywhere."
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."Ahh... was that right...? I must've had it wrong."
+##
+
+{Keiji} [Keiji: Stern / cara2-3]
+#Message#
+\."Sou... What exactly..."
+##
+
+[Keiji: Looking to side, glancing gravely / cara2-5]
+{SE: sceneswitch2}
+#Message#
+\."Are you afraid of...?"
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\.".........."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\.\C[4](Afraid? Sou is...?)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."You said you'd tell the truth, right?
+ To defeat Gashu together..."
+##
+
+[Keiji: Default smile / cara2-1]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."We're your allies.
+ Try trusting us... Sou."
+##
+
+[Keiji: Looking to side / cara2-4]
+#Message#
+\."No..."
+##
+
+[Keiji: Stern / cara2-3]
+{SE: Accent28-1}
+#Message#
+\."Shin Tsukimi."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+#Message#
+\."..."
+##
+
+{Sara}
+{SE: sceneswitch2}
+#Message#
+\.\C[4](Sou... is Shin Tsukimi...)
+##
+
+{Sou} [Sou: Turned to side, clutching head in hands / cara5-37]
+#Message#
+\."...I want..."
+##
+
+[Sou: Hands out, mouth open, grim face / cara5-35]
+#Message#
+\."I want to trust you all, too..."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+{SE: Accent21-1}
+#Message#
+\."...!"
+##
+
+{Sou} [Sou: Afraid look with lightless eyes / cara5-9]
+#Message#
+\."But... but I...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou!!)
+##
+
+{SE: heart2}
+#Message#
+\.\C[4](He's trying to say something...!)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](In that case... I'll draw it out!!)
+##
+

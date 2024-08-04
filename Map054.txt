@@ -1,0 +1,211 @@
+=====Map54===== (Right White Room)
+
+**********Event2********** (tezyou) (9,0)
+-----Page1-----
+#Message#
+\C[3]There's a handcuff at the end of a chain.
+##
+
+{Sara}
+#Message#
+\.\C[4](I wonder what this is...?)
+##
+
+{SE: Accent28-1}
+#Message#
+\.\C[4](Plus... the air in this room feels heavy.)
+##
+
+{Gin} [Gin: Horrified look / cara9-4]
+#Message#
+"I'm... gonna leave this room, meow..."
+##
+
+{Sara}
+#Message#
+\.\C[4](Gin...?)
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+"Well, this place is no good."
+##
+
+{Sara}
+#Message#
+\."How do you mean that?"
+##
+
+{Keiji}
+#Message#
+\."...Hmmm."
+##
+
+{Sara}
+#Message#
+\."I can... sense a bad feeling, somehow.
+ So please, tell me."
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."..."
+##
+
+{SE: horror_piano chord3}
+#Message#
+\."I'm betting... somebody died here..."
+##
+
+{Sara}
+#Message#
+\."...!"
+##
+
+{Keiji} [Keiji: Scratching shoulder, musing / cara2-6]
+#Message#
+\."I can faintly smell blood."
+##
+
+#Message#
+\."Ahh... And since there's dust,
+ it was wiped a little while ago..."
+##
+
+{SE: Accent21-1}
+#Message#
+\."I'd put the time around... yeah.
+ Maybe the First Trial."
+##
+
+{N/A}
+#Message#
+\.\C[3]Once I became cognizant of it, I understood.
+##
+
+#Message#
+\.\C[3]The unremovable, raw stench of blood.\!
+...The air that repulsed my instincts.
+##
+
+#Message#
+\.\C[3]It's disgusting... I want to throw up.
+##
+
+{Sara}
+{SE: heart1}
+#Message#
+\.\C[4](...!!)
+##
+
+#Message#
+\.\C[4](Don't imagine it...!)
+##
+
+{Keiji} [Keiji: Frown / cara2-2]
+#Message#
+\."...Feeling your limits, Sara?"
+##
+
+{Sara}
+#Message#
+\."Keiji..."
+##
+
+{Keiji} [Keiji: Looking to side / cara2-4]
+#Message#
+\."I'll check every inch of this room.
+ You get out, Sara."
+##
+
+{Sara}
+#Message#
+\."But..."
+##
+
+{Keiji} [Keiji: Default smile / cara2-1]
+{SE: Accent28-1}
+#Message#
+\."I'm sayin' trust in your friendly policeman."
+##
+
+{N/A}
+#Message#
+\.\C[3]With a gentle push on the back,
+I proceeded to exit out of the room.
+##
+
+{Sara}
+#Message#
+\C[4](To think an empty room... could make me tremble...)
+##
+
+#Message#
+\.\C[4](It's been planted in me... the fear of death...)
+##
+
+
+**********Event3********** (りぼるばー) (11,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A revolver.
+A weapon that fires bullets. Can be charged with
+up to 9 bullets in its circular chamber.
+##
+
+
+**********Event4********** (りぼるばー) (15,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A card with Keymaster written on it.
+It reads: "This is a key to the exit.
+You will die if someone learns of this card."
+##
+
+
+**********Event5********** (EV005) (12,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A note with some names, including Prof. Mishima.
+There's also the name Alice Yabusame.
+##
+
+
+**********Event6********** (ぼとる) (11,10)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page2-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+-----Page3-----
+{N/A}
+#Message#
+\C[3]A bottle for carrying liquid.
+##
+
+
+**********Event14********** (gomi) (12,6)
+-----Page1-----
+#Message#
+\C[3]There's nothing in the trash can.
+##
+
+
+**********Event18********** (りぼるばー) (10,11)
+-----Page1-----
+{N/A}
+#Message#
+\C[3]A box with a note saying "Please use as you wish."
+Inside is written "\C[7]3\C[0] 6 1\C[7] 8 0\C[0] 2\C[3]."
+##
+

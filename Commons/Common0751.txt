@@ -1,0 +1,81 @@
+**********Common751********** (ｿｳ「ｹｲｼﾞQｳｿ！」)
+{Sou}
+#Message#
+"I don't believe it...!
+ Keiji and Q-taro are lying...!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"I'm thinking now... Don't bother me."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+"S-Shut up...! Just be quiet for a second."
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Sou} [Sou: Hands out, bewildered eyes, clenched teeth, sweatdrop / cara5-29]
+#Message#
+"Dammit...!! Dammit...!!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Sou isn't seeming very persuasive at all...)
+##
+

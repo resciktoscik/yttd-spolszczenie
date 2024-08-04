@@ -1,0 +1,17 @@
+**********Common1422********** (③ギンB選択)
+{N/A}
+#Message#
+"I'll sniff out any suspicious smells, meow!"
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+

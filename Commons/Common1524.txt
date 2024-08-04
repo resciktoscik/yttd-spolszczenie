@@ -1,0 +1,23 @@
+**********Common1524********** (⑦ハヤサカB選択)
+{N/A}
+#Message#
+"I wonder if we can \C[2]apologize\C[0]
+ to end this all peaceably..."
+##
+
+#Choice#
+Go with this
+Cancel
+##
+
+<意見を採用する>
+
+<やめる>
+
+<Choice End>
+
+{N/A}
+#Message#
+\C[3]Select a target to use \V[922] on.
+##
+

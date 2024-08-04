@@ -1,0 +1,85 @@
+**********Common396********** (保管カンナ階段見つける)
+{Sara}
+#Message#
+\.\C[4](Well, what to do now...)
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+{SE: Accent28-1}
+#Message#
+\."Ah, Sara!"
+##
+
+{Sara}
+#Message#
+\."Kanna."
+##
+
+{Sou} [Sou: Looking down to side, annoyed, grim look / cara5-21]
+{SE: se_maoudamashii_magical14}
+#Message#
+\."H... Hey there..."
+##
+
+{Sara}
+{SE: Accent21-1}
+#Message#
+\."S-Sou...!"
+##
+
+{Sou} [Sou: Looking down to side, annoyed / cara5-20]
+#Message#
+\."I... I worried you, huh...
+ Kanna explained it to me..."
+##
+
+#Message#
+\."It's just one shock after another...
+ I couldn't blame anyone for being paralyzed."
+##
+
+{Kanna} [Kanna: Default look / cara3-10]
+#Message#
+\."Um, Sara... It looks like attractions
+ have appeared in a few places."
+##
+
+{Sara}
+#Message#
+\."I see. The remaining attractions..."
+##
+
+{Kanna} [Kanna: Offended shout / cara3-13]
+#Message#
+\."Besides the attractions... there was also
+ a new location that opened up."
+##
+
+{Sara}
+#Message#
+\."Huh...?!"
+##
+
+{Kanna} [Kanna: Hands in front smile / cara3-18]
+#Message#
+\."It's located... err... this way."
+##
+
+{N/A}
+#Message#
+\.\C[3]Kanna told me the way to the new location.
+##
+
+#Message#
+\."Um... I'll wait there, so... please come by!"
+##
+
+{Sara}
+#Message#
+\."Ah, wait...!"
+##
+
+#Message#
+\.\C[4](...I wanted her to tell me where she was going...)
+##
+

@@ -1,0 +1,124 @@
+**********Common1098********** (◆3章前編B汎用ｲﾍﾞﾝﾄ)
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\C[4](This monitor...)
+##
+
+{N/A}
+{SE: Accent21-1}
+#Message#
+\C[3]I remember the screen...
+##
+
+{SE: Accent41-1}
+#Message#
+\C[3]It said... \C[2]Coffin Control System\C[3].
+##
+
+{Sara}
+{SE: se_maoudamashii_magical14}
+#Message#
+\.\C[4](Could this be...)
+##
+
+{SE: sceneswitch2}
+#Message#
+\.\C[4](A monitor controlling the coffins on this floor...?)
+##
+
+<If Switch #821 (★カンナ生存ルート) is ON>
+
+{Kanna} [Kanna: Neutral smile / cara3-9]
+{SE: Accent21-1}
+#Message#
+"Maybe it could even open coffins up!"
+##
+
+<Else>
+
+{Sou} [Sou: Smile / cara5-2]
+{SE: Accent21-1}
+#Message#
+"Could even have the capability to open coffins..."
+##
+
+<Condition End>
+
+{Keiji}
+{SE: Accent28-1}
+#Message#
+"Yep. Seems worth looking into, right?"
+##
+
+<If Switch #642 (★レコ生存ルート) is ON>
+
+{Reko} [Reko: Smile / cara6-4]
+#Message#
+"Damn right! Good memory!"
+##
+
+<Else>
+
+{Alice} [Alice: Fist to palm, closed-eyes grin / cara11-6]
+#Message#
+"Hmph... You sound awfully cocky...!"
+##
+
+<Condition End>
+
+{Ranmaru} [Ranmaru: Hand tilted, furrowed brow, mouth open / cara91-20]
+#Message#
+\."Guess we gotta go check..."
+##
+
+{Sara}
+#Message#
+"Please... just hold on, Keiji."
+##
+
+{Keiji}
+{SE: se_maoudamashii_magical14}
+#Message#
+"Counting on you, partner."
+##
+
+{Meister} [Meister: Default smile / cara17-8]
+#Message#
+"Well then... Let's begin, shall we?"
+##
+
+[Meister: Hand on hat / cara17-9]
+{SE: sceneswitch2}
+#Message#
+\."Come forth...!"
+##
+
+[Meister: Default smile / cara17-8]
+{SE: Accent28-1}
+#Message#
+"Ba-dummm! An amazing machine, isn't it!"
+##
+
+{Sara}
+#Message#
+"Coffins...! Is everyone in there?!"
+##
+
+{Meister} [Meister: Hand on hat / cara17-9]
+{SE: Accent21-1}
+#Message#
+"Whoa, don't bother trying to open them, alright?"
+##
+
+[Meister: Default smile / cara17-8]
+{SE: Accent28-1}
+#Message#
+"...'Cause I've locked the coffins just now."
+##
+
+{Sara}
+#Message#
+\C[4](At any rate... I should get closer and inspect them!)
+##
+

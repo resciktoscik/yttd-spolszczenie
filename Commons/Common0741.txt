@@ -1,0 +1,118 @@
+**********Common741********** (Q「ﾒﾀﾞﾙｹｲｼﾞへ」)
+{Q-taro}
+#Message#
+"Keiji noticed somethin' was up with me!!
+ And... I handed Keiji all my tokens...!!"
+##
+
+#Message#
+"First, when Sou betrayed me with the \C[10]Sacrifice\C[0]...
+ I went stompin' around in a rage!!"
+##
+
+#Choice#
+Use selected item
+Cancel
+##
+
+<選んだアイテムを使う>
+
+{Q-taro} [Q-taro: Fists-balled shout / cara4-5]
+#Message#
+"Listen to what I'm sayin' here!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Store statement
+Cancel
+##
+
+<発言をストックする>
+
+<やめる>
+
+<Choice End>
+
+#Choice#
+Clear stored statement
+Keep it
+##
+
+<ストックを解除する>
+
+<このまま>
+
+<Choice End>
+
+#Choice#
+Apply stored statement
+Cancel
+##
+
+<ストックした発言を当てる>
+
+{Q-taro} [Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+"Listen closer, alright?!"
+##
+
+{Sara}
+#Message#
+\.\C[4](Shoot...! That was a mistake!)
+##
+
+<やめる>
+
+<Choice End>
+
+{Q-taro} [Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+"Sure 'nuff, seems like I got knocked out
+ and taken out in advance..."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+{SE: Accent28-1}
+#Message#
+"Seein' you actin' funny, Sara, I was convinced.
+ The \C[10]Sacrifice\C[0] had moved ta you..."
+##
+
+[Q-taro: Touching cap, face in shadow, mouth open, sweat / cara4-10]
+#Message#
+\."I wouldn't let it stand!
+ I decided I'd knock 'im down and take my tokens back!"
+##
+
+[Q-taro: Touching cap, face in shadow, frown, sweat / cara4-9]
+#Message#
+\."Keiji noticed me then, and came to talk."
+##
+
+[Q-taro: Fists balled, teeth clenched, sweat / cara4-6]
+#Message#
+\."He persuaded me to give it up!
+ Didn't know what Sou was thinkin', after all..."
+##
+
+[Q-taro: Fists-balled shout / cara4-5]
+#Message#
+\."And so I trusted Keiji, and had him take custody
+ of \C[2]all my remaining tokens\C[0]!!"
+##
+
+{Sara}
+{SE: Accent28-1}
+#Message#
+\.\C[4](All of them...?!)
+##
+
