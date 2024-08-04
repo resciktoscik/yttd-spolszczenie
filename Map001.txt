@@ -17,7 +17,8 @@
 ##
 
 #Message#
-\."Takie losowe pytanie, wiesz czym jest \C[2]głos większości\C[0] ?"
+\."Takie losowe pytanie, 
+ wiesz czym jest \C[2]głos większości\C[0]?"
 ##
 
 #Choice#
@@ -30,7 +31,7 @@ Nie mam pojęcia
 {???} [Sou Silhouette: Smile / cara99-2]
 #Message#
 \."Ahaha, nie ma potrzeby się wściekać.
-Pomocnym jest zaczynanie rozmowy łatwym   pytaniem."
+ Pomocnym jest zaczynanie rozmowy łatwym pytaniem."
 ##
 
 <知らない>
@@ -42,7 +43,7 @@ Pomocnym jest zaczynanie rozmowy łatwym   pytaniem."
 
 #Message#
 \."To gdy ludzie o czymś decydują, 
-i wybór z największą ilością głosów wygrywa ... Taa, to."
+ i wybór z największą ilością głosów wygrywa... Taa, to."
 ##
 
 <Choice End>
@@ -54,7 +55,8 @@ i wybór z największą ilością głosów wygrywa ... Taa, to."
 
 {Pan Niebieski}
 #Message#
-\."Kocham głosowania! Reprezentują one sposób w jaki powinna działać demokracja, podążać za głosem ludu!
+\."Kocham głosowania! Reprezentują one sposób w jaki 
+ powinna działać demokracja, podążać za głosem ludu!
  To metoda prawie bezkonfliktowa!"
 ##
 
@@ -67,7 +69,8 @@ i wybór z największą ilością głosów wygrywa ... Taa, to."
 
 {???}
 #Message#
-"*westchnięcie*... Brzmi na to, że prowadzą jakąś żmudną kłótnię."
+"*westchnięcie*... Brzmi na to, że prowadzą 
+ jakąś żmudną kłótnię."
 ##
 
 [Sou Silhouette: Smile / cara99-2]
