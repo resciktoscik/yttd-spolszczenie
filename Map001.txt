@@ -55,8 +55,7 @@ Nie mam pojęcia
 
 {Pan Niebieski}
 #Message#
-\."Kocham głosowania! Reprezentują one sposób w jaki 
- powinna działać demokracja, podążać za głosem ludu!
+\."Kocham głosowania! Powinna działać dwmokracja, podążać za głosem ludu!
  To metoda prawie bezkonfliktowa!"
 ##
 
@@ -70,7 +69,7 @@ Nie mam pojęcia
 {???}
 #Message#
 "*westchnięcie*... Brzmi na to, że prowadzą 
- jakąś żmudną kłótnię."
+ jakąś bezowocną kłótnię."
 ##
 
 [Sou Silhouette: Smile / cara99-2]
