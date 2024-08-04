@@ -17,8 +17,7 @@
 ##
 
 #Message#
-\."Takie losowe pytanie,
- wiesz czym jest \C[2]głos większości\C[0] ?"
+\."Takie losowe pytanie, wiesz czym jest \C[2]głos większości\C[0] ?"
 ##
 
 #Choice#
