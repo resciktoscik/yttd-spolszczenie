@@ -8,119 +8,115 @@
 ##
 
 #Message#
-\."Heeeeeyyy..."
+\."Heeeeej..."
 ##
 
 [Sou Silhouette: Mouth open / cara99-1]
 #Message#
-"Hiya."
+"Heja."
 ##
 
 #Message#
-\."Just a random question,
- but you know what a \C[2]majority vote\C[0] is?"
+\."Takie losowe pytanie,
+ wiesz czym jest \C[2]głos większości\C[0] ?"
 ##
 
 #Choice#
-Obviously
-No idea
+Oczywiście
+Nie mam pojęcia
 ##
 
 <当たり前だ>
 
 {???} [Sou Silhouette: Smile / cara99-2]
 #Message#
-\."Ahaha, no need to get mad.
- It's helpful to start conversations
- with an easy question."
+\."Ahaha, nie ma potrzeby się wściekać.
+Pomocnym jest zaczynanie rozmowy łatwym   pytaniem."
 ##
 
 <知らない>
 
 {???} [Sou Silhouette: Smile / cara99-2]
 #Message#
-\."How unusual!"
+\."Jak niespotykanie!"
 ##
 
 #Message#
-\."It's when people are deciding something,
- and the choice that gets picked by the most people
- is what gets used... Yeah, that."
+\."To gdy ludzie o czymś decydują, 
+i wybór z największą ilością głosów wygrywa ... Taa, to."
 ##
 
 <Choice End>
 
 {???} [Sou Silhouette: Mouth open / cara99-1]
 #Message#
-\."Oh? Looks like somebody's over there."
+\."Oh? Wygląda na to, że ktoś tam jest."
 ##
 
-{Mr. Blue}
+{Pan Niebieski}
 #Message#
-\."I love majority votes! They represent the way
- democracy should be, following the will of the people!
- It's a method that minimizes conflict!"
+\."Kocham głosowania! Reprezentują one sposób w jaki powinna działać demokracja, podążać za głosem ludu!
+ To metoda prawie bezkonfliktowa!"
 ##
 
-{Ms. Red}
+{Pani Czerwona}
 #Message#
-\."I hate majority votes!
- They're just a way to silence the minority!
- It only makes more darkness build in the shadows!"
+\."Nienawidzę głosowań!
+ Są sposobem by uciszyć mniejszość!
+ To tylko pogarsza złą sytuację!"
 ##
 
 {???}
 #Message#
-"*sigh*... Sounds like they're having
- some tedious argument."
+"*westchnięcie*... Brzmi na to, że prowadzą jakąś żmudną kłótnię."
 ##
 
 [Sou Silhouette: Smile / cara99-2]
 #Message#
-\."Incidentally, whose opinion do you support?
- Mr. Blue's, or Ms. Red's?"
+\."Nawiasem mówiąc, czyją opinię popierasz?
+ Pana Niebieskiego czy Pani Czerwonej?"
 ##
 
 #Choice#
-Mr. Blue
-Ms. Red
+Pan Niebieski
+Pani Czerwona
 ##
 
 <青い人>
 
 {???} [Sou Silhouette: Mouth open / cara99-1]
 #Message#
-"Aww... She died."
+"Aww... Umarła."
 ##
 
 [Sou Silhouette: Smile / cara99-2]
 #Message#
-\."But good for you!
- Your opinion had more supporters!"
+\."Ale to dobrze dla ciebie!
+ Twoja opinia ma większe poparcie!"
 ##
 
 [Sou Silhouette: Mouth open / cara99-1]
 #Message#
-\."In the end, the majority is absolute!
- That's just the way it goes in society!"
+\."W końcu, większość jest absolutna!
+ To po prostu sposób, w jaki działa społeczeństwo!"
 ##
 
 <赤い人>
 
 {???} [Sou Silhouette: Mouth open / cara99-1]
 #Message#
-"Aww... He died."
+"Aww... Umarł."
 ##
 
 [Sou Silhouette: Smile / cara99-2]
 #Message#
-\."But good for you!
- Your opinion had more supporters!"
+\."Ale to dobrze dla ciebie!
+ Twoja opinia ma większe poparcie!"
 ##
 
 #Message#
-\."With that experience, your side's learned
- the terror of a majority vote."
+\."Z tym doświadczeniem twoja strona doznała
+ strachu przed głosem większości."
 ##
 
 [Sou Silhouette: Mouth open / cara99-1]
