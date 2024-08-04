@@ -24,6 +24,8 @@
 \."Oh? Wygląda na to, że ktoś tu jest."
 ##
 
+
+https://raw.githubusercontent.com/resciktoscik/yttd-spolszczenie/main/README.md
 {Pan. Niebieski}
 #Message#
 \."Kocham głosowania! Reprezentują one to,
