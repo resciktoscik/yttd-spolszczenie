@@ -3868,8 +3868,8 @@ Name_女の子=Girl
 Name_女の子？=Girl?
 
 // Hypothetical people in intro
-Name_青い人=Mr. Blue
-Name_赤い人=Ms. Red
+Name_青い人=Pan Niebieski
+Name_赤い人=Pani Czerwona
 
 // Not-a-penguin statue in baths
 Name_像=Statue
