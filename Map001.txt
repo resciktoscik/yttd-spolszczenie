@@ -55,8 +55,9 @@ Nie mam pojęcia
 
 {Pan Niebieski}
 #Message#
-\."Kocham głosowania! Powinna działać demokracja, podążać za głosem ludu!
- To metoda prawie bezkonfliktowa!"
+\."Kocham głosowania! Powinna działać demokracja, 
+ podążać za głosem ludu! To metoda prawie 
+ bezkonfliktowa!"
 ##
 
 {Pani Czerwona}
@@ -127,7 +128,8 @@ Pani Czerwona
 ##
 
 #Message#
-\."Jeśli to cię uszczęśliwia,to czy nie powinnaś uznać atrakcyjności głosowań?"
+\."Jeśli to cię uszczęśliwia,
+to czy nie powinnaś uznać impaktu głosowań?"
 ##
 
 #Message#
@@ -144,7 +146,7 @@ Pani Czerwona
 
 #Message#
 \."No weź... To cię nigdzie nie zaprowadzi, wiesz?
- To na tym polega cała ta gra..."
+ Na tym polega cała ta gra..."
 ##
 
 #Message#
@@ -159,7 +161,7 @@ Pani Czerwona
 
 [Sou Silhouette: Mouth open / cara99-1]
 #Message#
-\."Dobrze więc... Zróbmy to."
+\."Dobrze więc... Zacznijmy."
 ##
 
 
