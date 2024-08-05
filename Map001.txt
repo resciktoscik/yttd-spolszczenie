@@ -127,41 +127,39 @@ Pani Czerwona
 ##
 
 #Message#
-\."If that makes you happy, then don't you have to
- recognize the appeal of majority votes?"
+\."Jeśli to cię uszczęśliwia,to czy nie powinnaś uznać atrakcyjności głosowań?"
 ##
 
 #Message#
-\."...Sure is complicated."
+\."...Z pewnością jest to skomplikowane."
 ##
 
 <Choice End>
 
 {???} [Sou Silhouette: Mouth open / cara99-1]
 #Message#
-\."...Hmm? What's with that look?
-\! If you'd known the other person would die,
- you wouldn't have voted?"
+\."...Hmm? Co to za mina?
+\! Nie zagłosowałabyś gdybyś wiedziała, że druga osoba umrze?"
 ##
 
 #Message#
-\."C'mon... That won't get you anywhere, okay?
- It's what the game is all about..."
+\."No weź... To cię nigdzie nie zaprowadzi, wiesz?
+ To na tym polega cała ta gra..."
 ##
 
 #Message#
-\."...You don't look pleased, huh?"
+\."...Nie wyglądasz na zadowoloną, co?"
 ##
 
 [Sou Silhouette: Smile / cara99-2]
 #Message#
-\."Alright, if you insist, let's hold a vote!
- Your opinion versus mine!"
+\."Dobrze, skoro nalegasz, przeprowadźmy głosowanie!
+ Twoja opinia przeciwko mojej!"
 ##
 
 [Sou Silhouette: Mouth open / cara99-1]
 #Message#
-\."Okay then... Let's go."
+\."Dobrze więc... Zróbmy to."
 ##
 
 
