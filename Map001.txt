@@ -141,7 +141,8 @@ to czy nie powinnaś uznać impaktu głosowań?"
 {???} [Sou Silhouette: Mouth open / cara99-1]
 #Message#
 \."...Hmm? Co to za mina?
-\! Nie zagłosowałabyś gdybyś wiedziała, że druga osoba umrze?"
+\! Nie zagłosowałabyś gdybyś wiedziała, 
+ że druga osoba umrze?"
 ##
 
 #Message#
