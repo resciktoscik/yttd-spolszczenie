@@ -4,12 +4,12 @@
 -----Page1-----
 {Sara} [Sara: Default (no collar) / cara0-1]
 #Message#
-"Whoa, it's gone completely dark..."
+"Whoa, to już jest tak ciemno..."
 ##
 
 {N/A}
 #Message#
-Touch spots that look interesting to investigate.
+Kliknij w miejsce, które wydają ci się interesujące.
 ##
 
 #Message#
@@ -19,81 +19,83 @@ Touch spots that look interesting to investigate.
 -----Page3-----
 {Sara}
 #Message#
-\.\C[4](Seeing the school like this...
- It feels totally different at night.)
+\.\C[4](Jak teraz patrzę na szkołę...
+ Nocą wygląda zupełnie inaczej.)
 ##
 
 #Message#
-\.\C[4](The lights...)
+\.\C[4](Światło...)
 ##
 
 #Message#
-\.\C[4](...I have to walk home when it's this dark...?)
+\.\C[4](...Muszę się przejść do domu gdy jest tak ciemno...?)
 ##
 
 
 **********Event14********** (ike) (5,6)
 -----Page1-----
 #Message#
-\C[3]The campus pond.
+\C[3]Szkolny basen.
 ##
 
 #Message#
-\.\C[3]There's a rumor that if you look into it at midnight,
-your reflection will talk to you.
+\.\C[3]Jest plotka, że gdy się spojrzy w wodę o północy,
+twoje odbicie przemówi do ciebie.
 ##
 
 {Sara}
 #Message#
-\.\C[4](...Could be a great thing to a loner.)
+\.\C[4](...Niezła gratka dla samotnika.)
 ##
 
 
 **********Event16********** (mado) (12,4)
 -----Page1-----
 #Message#
-\C[3]The lights are on.
-Maybe it's the guard.
+\C[3]Światło się pali.
+Pewnie to ochroniarz.
 ##
 
 {Sara}
 #Message#
-\.\C[4](Thanks for your tireless service.)
+\.\C[4](Dzięki za nieustanne czuwanie.)
 ##
 
 -----Page2-----
 {N/A}
 #Message#
-\C[3]The lights are out.
+\C[3]Światło zgasło.
 ##
 
 
 **********Event17********** (kage) (3,6)
 -----Page1-----
 #Message#
-\C[3]The front gate of the school.
-Can't go home without going through it.
+\C[3]Główna brama szkoły.
+Jeśli chcę wrócić do domu 
+muszę przez nią przejść.
 ##
 
 -----Page2-----
 #Message#
-\C[3]The front gate of the school.
-Can't go home without going through it.
+\C[3]Główna brama szkoły.
+Jeśli chcę wrócić do domu 
+muszę przez nią przejść.
 ##
 
 {Sara}
 #Message#
-\.\C[4](I don't... want to leave yet.)
+\.\C[4](Nie chcę... jeszcze wracać.)
 ##
 
 -----Page3-----
 #Message#
-\C[10]Someone's there...\|\.\.\^
+\C[10]Ktoś tam jest...\|\.\.\^
 ##
 
 {Joe} [Joe: Default (no collar) / cara1-1]
 #Message#
-"Whatcha doin', Sara?"
+"Cooo tam robisz, Sara?"
 ##
 
 {Sara}
@@ -104,101 +106,102 @@ Can't go home without going through it.
 
 {N/A}
 #Message#
-\C[2]Jou Tazuna\C[0], or rather, \C[2]Joe\C[0]. My classmate at school.
-We often found ourselves together.
+\C[2]Jou Tazuna\C[0], a raczej \C[2]Joe\C[0]. Kolega z klasy.
+Często razem coś porobimy.
 ##
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-"You stuck around this late for clubs?!
- I was gonna wither up from waiting!"
+"Aż tak się wkręciłaś w swój klubik?!
+ Prawie zapuściłem korzenie czekając na ciebie!"
 ##
 
 [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-"Well, it's fine! Listen!
- There's something I wanna tell you!"
+"No, ale jest git! Słuchaj!
+ Muszę ci coś powiedzieć!"
 ##
 
 {Sara}
 #Message#
-\."Something to tell me?"
+\."Powiedzieć?"
 ##
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-\."My thanks!"
+\."Wielkie dzięki!"
 ##
 
 {Sara}
 #Message#
-\."Thanks...? For what, I wonder..."
+\."Dzięki...? Ciekawe za co..."
 ##
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 {SE: flash-of-light-3}
 #Message#
-\."Oh, you know! You introduced us, right?!
- Me and Ryoko!"
+\."Oh, przecież wiesz! Zeswatałaś nas, co?!
+ Mnie i Ryoko!"
 ##
 
 {Sara}
 #Message#
-\."Right..."
+\."Racja..."
 ##
 
 {Joe}
 {SE: flash-of-light-3}
 #Message#
-\."She's such a good girl! I'm totally moved!"
+\."Jest prześwietną dziewczyną! 
+ Jestem nią poruszony!"
 ##
 
 {Sara}
 #Message#
-\."Cute, huh?"
+\."Słodka, hm?"
 ##
 
 {Joe}
 {SE: flash-of-light-3}
 #Message#
-\."Adorable!"
+\."Przeurocza!"
 ##
 
 #Message#
-\."And I saw her swallow a doner kebab whole today!
- She's a real glutton to boot!"
+\."Widziałem jak wepchnęła w siebie całego kebaba!
+ Niezły z niej żarłok!"
 ##
 
 {Sara}
 #Message#
-\."A whole doner kebab..."
+\."Całego kebaba?..."
 ##
 
 #Message#
-\."Wait... You went on a date?!"
+\."Czekaj... Byliście na randce?!"
 ##
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-\."Wahaha... Was on it 'til just a second ago!"
+\."Bahaha... Właśnie z niej wracam!"
 ##
 
 #Message#
-\."I came back to school
- so I could brag about it to ya!"
+\."Wróciłem specjalnie do szkoły
+ aby ci o tym powiedzieć!"
 ##
 
 {Sara}
 #Message#
-\."You should have just gone home..."
+\."Powinieneś był wrócić do domu..."
 ##
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-\."Alright! Bragging complete...!"
+\."No dobrze! Misja zakończona...!"
 ##
 
 #Message#
-\."Let's go home, Sara!"
+\."Wracajmy do domu, Sara!"
 ##
 
