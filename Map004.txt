@@ -4,27 +4,28 @@
 -----Page1-----
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-"And then, Ryoko and I finally..."
+"No i Ryoko i ja w końcu..."
 ##
 
 {Sara}
 #Message#
-\.\C[4](How long even is this story...)
+\.\C[4](Kończ waść...)
 ##
 
 {Joe} [Joe: Default (no collar) / cara1-1]
 #Message#
-\."You listening?! We made huge progress!"
+\."Słuchałaś mnie w ogóle?! 
+ Zrobiliśmy progres!"
 ##
 
 {Sara}
 #Message#
-\.\C[4](This guy's such a pain...)
+\.\C[4](Upierdliwy typ...)
 ##
 
 #Choice#
-I don't care
-Did you kiss or what?
+Nie obchodzi mnie to
+Całowaliście się, czy co?
 ##
 
 <興味がない>
@@ -32,72 +33,73 @@ Did you kiss or what?
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 {SE: flash-of-light-3}
 #Message#
-"Drumroll... We held hands...!
- Isn't that great?"
+"Werble... Trzymaliśmy się za ręce...!
+ Czyż to nie jest cudowne?"
 ##
 
 <キスでもしたのか？>
 
 {Joe} [Joe: Upset groan (no collar) / cara1-6]
 #Message#
-"Ki...?! Don't be stupid!"
+"Ca...?! Nie bądź głupia!"
 ##
 
 #Message#
-\."Doing that on the first date...
- That'd just be monstrous!"
+\."Na pierwszej randce...
+ Byłoby to przepotworne!"
 ##
 
 [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-\."We held hands!
- Outrageous progress, right?!"
+\."Trzymaliśmy się za ręce!
+ Niesamowity progres, co nie?!"
 ##
 
 <Choice End>
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-\."I mean... It was mostly that I fell in a ditch
- and she was helping me out, but...!"
+\."Znaczy... Właściwie to wpadłem w rów
+ i ona pomogła mi wstać, ale...!"
 ##
 
 {Sara}
 #Message#
-\."For looking like such a flirt, you're awfully shy..."
+\."Jak na tak flirciarskiego gościa, 
+ to niezły z ciebie wstydzioch..."
 ##
 
 {Joe} [Joe: Default (no collar) / cara1-1]
 #Message#
-\."Huh?! What about me says "flirt"?!"
+\."Huh?! Ja mam niby być "flirciarski"?!"
 ##
 
 [Joe: Upset groan (no collar) / cara1-6]
 #Message#
-\."I'm hurt, man... That seriously gets to me..."
+\."Zabolało mnie, mordo... Ból przeszywa mi serce..."
 ##
 
 #Message#
-\."Dammit... Maybe I should go back to
- the crew cut I had in middle school..."
+\."Kurde... Może powinienem wrócić
+ do crew cuta jak za czasów szkolnych..."
 ##
 
 {Sara}
 {SE: powerdown07}
 #Message#
-\.\C[4](And now he's started moping.)
+\.\C[4](I teraz będzie się użalać.)
 ##
 
 -----Page3-----
 {Sara}
 #Message#
-\.\C[4](I've rarely ever walked home at this hour...
- It feels really dark...)
+\.\C[4](Rzadko kiedy wracałam tak późno do domu...
+ Strasznie tu ciemno...)
 ##
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-"What's up? Wanna hold hands?"
+"Co tam? Podać ci rękę?"
 ##
 
 {Sara}
@@ -106,37 +108,37 @@ Did you kiss or what?
 ##
 
 #Choice#
-Yes
-No
+Tak
+Nie
 ##
 
 <はい>
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-"On second thought, you'd probably crush me
- with that amazing grip of yours.
- Nah, forget it, Sara!"
+"Z drugiej strony, prawdopodobnie 
+ zmiażdżyłabyś mi palce swoim chwytem.
+ Zapomnij, Sara!"
 ##
 
 {Sara}
 #Message#
-\.\C[4](It's not like I'm boasting about it...)
+\.\C[4](To nie tak że się tym chwalę czy coś...)
 ##
 
 <いいえ>
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-"I'm just kidding! Don't actually get mad at me."
+"Żartuję! Weź się na mnie nie wściekaj, co."
 ##
 
 <Choice End>
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-\."But real talk...
- Wouldn't it help things if you got a boyfriend?"
+\."Ale tak serio...
+ Nie byłoby lepiej abyś sobie znalazła chłopaka?"
 ##
 
 {Sara}
@@ -150,87 +152,87 @@ No
 ##
 
 #Message#
-\."...You can't sleep, right?
- 'Cause of your \C[2]stalker\C[0]..."
+\."...Nie możesz zasnąć, nie mam racji?
+ Przez twojego \C[2]stalkera\C[0]..."
 ##
 
 {Sara}
 {SE: Accent28-1}
 #Message#
-"Is that... why you always go home with me?"
+"Czy dlatego... zawsze mnie odprowadzasz do domu?"
 ##
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-\."D... Dummy... I just wanted to brag..."
+\."G... Głupia... Chciałem się pochwalić..."
 ##
 
 #Choice#
-Sorry
-Thank you
-It's a bother
+Przepraszam
+Dziękuję ci
+Trochę mi to przeszkadza
 ##
 
 <すまない>
 
 {Joe} [Joe: Default (no collar) / cara1-1]
 #Message#
-\."...Nothin' to apologize for.
- 'Cause I told you, it's not like that!"
+\."...Nie ma za co przepraszać.
+ Mówiłem ci, że to nie tak!"
 ##
 
 {Sara}
 #Message#
-\."I didn't mean it like an apology..."
+\."To nie miały być przeprosiny..."
 ##
 
 <ありがとう>
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-\."For what, man?! Well, if you just
- feel like bein' grateful, I won't stop ya!"
+\."Za co?! Cóż, jeśli chcesz być mi wdzięczna,
+ to nie będę ciebie zatrzymywał!"
 ##
 
 {Sara}
 #Message#
-\."Heehee..."
+\."Hehe..."
 ##
 
 <邪魔だ>
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-\."Heheh! Prepare yourself to be bothered,
- day after day!"
+\."Muahaha! Będziesz w stanie ciągłego przeszkodzenia!
+ Dzień za dniem!"
 ##
 
 {Sara}
 #Message#
-\."Heehee..."
+\."Hehe..."
 ##
 
 <Choice End>
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-\."Alright... Let's mosey along now."
+\."Dobra... Idźmy już dalej."
 ##
 
 #Message#
-\."Your parents'll be worried if you're late."
+\."Rodzice będą się martwić jeśli się spóźnisz."
 ##
 
 {Sara}
 #Message#
-\."Right..."
+\."Racja..."
 ##
 
 
 **********Event2********** (hari) (15,5)
 -----Page1-----
 #Message#
-\C[3]A poster warning to watch out for strangers.
+\C[3]Plakat ostrzegający przez nieznajomymi.
 ##
 
 {Joe} [Joe: Default (no collar) / cara1-1]
@@ -242,24 +244,24 @@ It's a bother
 **********Event3********** (gai) (9,2)
 -----Page1-----
 #Message#
-\C[3]A faint streetlight illuminates the area.
+\C[3]Słaba latarnia oświetla ulicę.
 ##
 
 
 **********Event4********** (kage) (9,6)
 -----Page1-----
 #Message#
-        \fs[60]\C[10]I have to run...!\|\^
+        \fs[60]\C[10]Muszę uciekać...!\|\^
 ##
 
 {Sara} [Joe: Default (no collar) / cara1-1]
 #Message#
-"Joe! Run!"
+"Joe! Biegnij!"
 ##
 
 {Joe}
 {SE: Accent28-1}
 #Message#
-\."Huh...?!"
+\."Co...?!"
 ##
 
