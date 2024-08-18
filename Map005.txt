@@ -4,16 +4,16 @@
 -----Page1-----
 {Sara}
 #Message#
-"*pant*...\. *pant*...\. *pant*..."
+"*huh*...\. *huff*...\. *hah*..."
 ##
 
 {Joe}
 #Message#
-\."Hahh... phew..."
+\."Hahh... uff..."
 ##
 
 #Message#
-\."We made it home..."
+\."Dotarliśmy do domu..."
 ##
 
 {Sara}
@@ -23,8 +23,8 @@
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-\."I-It's okay.
- Should be fine now that we're here."
+\."J-Już dobrze.
+ Gorzej nie może być skoro jesteśmy na miejscu."
 ##
 
 {Sara}
@@ -33,16 +33,16 @@
 ##
 
 #Choice#
-I'm relieved
-I'm scared...
+Ulżyło mi
+Boję się...
 ##
 
 <安心した>
 
 {Sara} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-\."I'm relieved...
- If I'd gone home by myself..."
+\."Ulżyło mi...
+ Gdybym szła do domu samotnie..."
 ##
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
@@ -54,20 +54,20 @@ I'm scared...
 
 {Sara} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-\."I'm scared..."
+\."Boję się..."
 ##
 
 #Message#
-\."I'm so scared... Am I going to..."
+\."Tak bardzo się boję... Czy ja..."
 ##
 
 #Message#
-\."What if he kills me someday...?"
+\."Co gdy on mnie pewnego dnia zabije...?"
 ##
 
 {Joe} [Joe: Furrowed brow (no collar) / cara1-5]
 #Message#
-\."I'm not gonna let that happen, okay?!"
+\."Nie dopuszczę do tego, okej?!"
 ##
 
 {Sara}
@@ -79,12 +79,12 @@ I'm scared...
 {Joe} [Joe: Default (no collar) / cara1-1]
 {SE: Accent21-1}
 #Message#
-\."Call on me! Anytime!"
+\."Dzwoń do mnie! Kiedy chcesz!"
 ##
 
 [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-\."I'll come with a boatload of freshmen!"
+\."Przyjdę z chłopakami i się policzymy z typem!"
 ##
 
 {Sara}
@@ -96,62 +96,62 @@ I'm scared...
 
 {Sara} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-\.\C[4](That guy was staring...)
+\.\C[4](Ten gość się gapił na mnie...)
 ##
 
 #Message#
-\.\C[4](And... it seemed like...)
+\.\C[4](I... wydawało się jakby...)
 ##
 
 {SE: horror_piano chord3}
 #Message#
-\.\C[4](He was trying to talk to me...?)
+\.\C[4](Chciał mi coś powiedzieć...?)
 ##
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-"Well, your parents are waiting, Sara!"
+"No, twoi rodzice czekają, Sara!"
 ##
 
 {Sara}
 #Message#
-\."...Yeah."
+\."...Nom."
 ##
 
 #Message#
-\."Hey, Joe..."
+\."Hej, Joe..."
 ##
 
 #Choice#
-Thank you
-...Be careful
+Dziękuję
+...Uważaj na siebie
 ##
 
 <ありがとう>
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-"It's all good!"
+"Wszystko jest w porządku!"
 ##
 
 <帰り…気を付けろよ>
 
 {Joe} [Joe: Eyes-closed smile (no collar) / cara1-3]
 #Message#
-"...Yeah!"
+"...Tak!"
 ##
 
 <Choice End>
 
 {Joe} [Joe: Eyes-open smile (no collar) / cara1-2]
 #Message#
-\."See you tomorrow...
- At school!"
+\."Do jutra...
+ Widzimy się w szkole!"
 ##
 
 {N/A}
 #Message#
-\C[3]However... They wouldn't meet at school.
+\C[3]Jednakże... Nie spotkają się oni w szkole.
 ##
 
 #Message#
@@ -187,12 +187,12 @@ Welcome!
 ##
 
 #Message#
-\.Now then, go right ahead.
+\.A więc, naprzód.
 ##
 
 {Sara}
 #Message#
-"Okay... Guess I'll go in..."
+"Okej... No to wchodzę..."
 ##
 
 #Message#
@@ -201,47 +201,47 @@ Welcome!
 
 {SE: horror_piano chord3}
 #Message#
-\."The house lights aren't on...?"
+\."Światła w domu się nie palą...?"
 ##
 
 
 **********Event3********** (mado) (10,3)
 -----Page1-----
 #Message#
-\C[3]I can see the living room through the window.
+\C[3]Przez okno mogę zobaczyć salon.
 ##
 
 #Message#
-\.\C[3]But... the lights aren't on.
+\.\C[3]Ale... lampy nie są zapalone.
 ##
 
 
 **********Event4********** (akari) (5,3)
 -----Page1-----
 #Message#
-\C[3]A fancy lamp lights up the front porch.
+\C[3]Wypasiona lampa stoi na tarasie.
 ##
 
 #Message#
-\.\C[3]...So it's not a power outage?
+\.\C[3]...A więc w domu jest prąd...
 ##
 
 
 **********Event5********** (kura) (3,6)
 -----Page1-----
 #Message#
-\C[3]The house nameplate.
+\C[3]Tabliczka z numerem domu.
 ##
 
 
 **********Event22********** (tobira) (6,5)
 -----Page1-----
 #Message#
-\C[3]My good old front door.
+\C[3]Stare dobre drzwi.
 ##
 
 {SE: warning2}
 #Message#
-\.\C[3]...The door's unlocked...!
+\.\C[3]...Drzwi są otwarte...!
 ##
 
