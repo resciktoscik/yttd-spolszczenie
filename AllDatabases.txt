@@ -150,52 +150,52 @@ Midori
 
 **********Entry1**********
 #Name#
-Inside House
+Wnętrze Domu
 ##
 
 #Description#
-My home. The lights aren't on, so it's pitch black.
+Mój domu. Światła nie są włączone, więc jest ciemno.
 ##
 
 
 **********Entry2**********
 #Name#
-Hallway
+Korytarz
 ##
 
 #Description#
-The lights aren't on. A plant's fallen over.
+Światła nie sa włączone. Roślina jest przewrócona.
 ##
 
 
 **********Entry3**********
 #Name#
-Living Room
+Salon
 ##
 
 #Description#
-The living room.
-Normally, my parents would welcome me home here.
+Salon.
+Normalnie moi rodzice siedzieliby tam.
 ##
 
 
 **********Entry4**********
 #Name#
-2nd Floor Room
+Pokój na pierwszym piętrze
 ##
 
 #Description#
-My room.
+Mój pokój.
 ##
 
 
 **********Entry5**********
 #Name#
-Path Home
+Droga do domu
 ##
 
 #Description#
-The path I take to school.
+Tą drogą idę do szkoły.
 ##
 
 
@@ -221,17 +221,17 @@ The path I take to school.
 
 **********Entry8**********
 #Name#
-Central Hall
+Centralna Hala
 ##
 
 #Description#
-For sorting.
+Dla sortowania.
 ##
 
 
 **********Entry9**********
 #Name#
-Hidden Room
+Ukryty Pokój
 ##
 
 #Description#
