@@ -4,12 +4,12 @@
 -----Page1-----
 {Sara}
 #Message#
-"It's dark... Why aren't the lights on...?"
+"Ciemno... Czemu światła nie są zapalone...?"
 ##
 
 #Message#
-\."Mom! Dad!
- Are you home?"
+\."Mamo! Tato!
+ Jesteście?"
 ##
 
 -----Page3-----
@@ -24,61 +24,61 @@
 ##
 
 #Message#
-\."Please, help!
- My mom collapsed!"
+\."Proszę, pomóż mi!
+ Moja mama zemdlała!"
 ##
 
 {Joe} [Joe: Serious look (no collar) / cara1-4]
 #Message#
-\."Stay calm! Did you call the hospital, the cops?!"
+\."Uspokój się! Dzwoniłaś po pomoc?!"
 ##
 
 {Sara}
 #Message#
-\."Not yet...!
- I need... I need to call..."
+\."Jeszcze nie...!
+ Muszę... Muszę zadzwonić..."
 ##
 
 {Joe} [Joe: Furrowed brow (no collar) / cara1-5]
 #Message#
-\."I'll handle it!
- Listen, Sara! You need to be calm!"
+\."Ja to zrobię!
+ Słuchaj mnie, Sara! Musisz się uspokoić!"
 ##
 
 {N/A}
 {SE: Phone2}
 #Message#
-\C[3]Joe started to make a call.
+\C[3]Joe wpisał numer i zaczął dzwonić.
 ##
 
 {Sara}
 #Message#
-\.\C[4](What am I doing...?
- I'm all out of sorts...)
+\.\C[4](Co ja wyprawiam...?
+ Mam mętlik w głowie...)
 ##
 
 #Message#
-\.\C[4](But I need to do something... Something...)
+\.\C[4](Ale muszę coś zrobić... Cokolwiek...)
 ##
 
 
 **********Event2********** (kan) (6,6)
 -----Page1-----
 #Message#
-\C[3]The plant's fallen over...
+\C[3]Roślinka się przewróciła...
 ##
 
 {Sara}
 #Message#
-\.\C[4](Something's weird about the house...)
+\.\C[4](Coś jest nie tak...)
 ##
 
 
 **********Event3********** (dan) (9,3)
 -----Page1-----
 #Message#
-\C[3]The stairs to the second floor.
-My room is up there.
+\C[3]Schody na pierwsze piętro.
+Mój pokój tam się znajduje.
 ##
 
 
@@ -86,41 +86,41 @@ My room is up there.
 -----Page1-----
 {N/A}
 #Message#
-\C[3]The key to Sara's room.
+\C[3]Klucz do pokoju Sary.
 ##
 
 
 **********Event13********** (oya) (3,4)
 -----Page1-----
 #Message#
-\C[3]Over here is the bathroom.
+\C[3]Tam jest łazienka.
 ##
 
 
 **********Event14********** (ribi) (12,4)
 -----Page1-----
 #Message#
-\C[3]The living room.
+\C[3]Salon.
 ##
 
 #Message#
-\.\C[3]Normally, mom would be in here
-watching TV and waiting for me...
+\.\C[3]Normalnie by tam siedziała mama
+i oglądała telewizję czekając na mnie...
 ##
 
 -----Page2-----
 #Message#
-\C[3]The living room.
+\C[3]Salon.
 ##
 
 #Message#
-\.\C[3]Mom... mom's...
+\.\C[3]Mama... Mama jest...
 ##
 
 
 **********Event15********** (TOTO) (11,4)
 -----Page1-----
 #Message#
-\C[3]Back there is the door to my parents' room.
+\C[3]Z tyłu są drzwi do pokoju rodziców.
 ##
 
