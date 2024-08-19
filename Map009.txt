@@ -3,18 +3,18 @@
 **********Event1********** (EV001) (1,0)
 -----Page1-----
 #Message#
-\C[3]It's pitch black.
+\C[3]Strasznie tu ciemno.
 ##
 
 {Sara}
 #Message#
-\."This is bizarre...
- There can't be no one here!"
+\."Co tu się dzieje...?
+ Przecież ktoś musi być w domu!"
 ##
 
 {SE: Accent28-1}
 #Message#
-\.\C[4](I'll turn on the \C[2]lights\C[4]...!)
+\.\C[4](Włączę \C[2]światło\C[4]...!)
 ##
 
 
@@ -22,12 +22,12 @@
 -----Page1-----
 {N/A}
 #Message#
-\C[3]The light switch.
+\C[3]Włącznik światła.
 ##
 
 #Choice#
-Turn on lights
-Cancel
+Naciśnij
+Nie naciskaj
 ##
 
 <電気を点ける>
@@ -38,12 +38,12 @@ Cancel
 
 {Sara}
 #Message#
-\C[4](I have a bad feeling...)
+\C[4](Mam złe przeczucie...)
 ##
 
 #Choice#
-Still turn on lights
-Cancel
+Naciśnij
+Nie naciskaj
 ##
 
 <それでも電気を点ける>
@@ -54,25 +54,25 @@ Cancel
 
 {Sara}
 #Message#
-\C[4](...Okay, turning them on!)
+\C[4](...Okej, włączam!)
 ##
 
 {SE: horror_3}
 #Message#
-\sp[20]\at[2]"...M... Mom...?"\.\.
+\sp[20]\at[2]"...M... Mama...?"\.\.
 ##
 
 #Message#
-\."Mom!!"
+\."Mamo!!"
 ##
 
 #Message#
-\."Mom! Mom!!"
+\."Mamo! Mamo!!"
 ##
 
 -----Page2-----
 #Message#
-\C[3]The lights are already on.
+\C[3]Światło jest już włączone.
 ##
 
 
@@ -80,18 +80,18 @@ Cancel
 -----Page1-----
 {Sara}
 #Message#
-"Mom! Hang in there!"
+"Mamo! Trzymaj się!"
 ##
 
 {N/A}
 #Message#
-\.\C[3]...She's breathing.
-It looks like she fainted.
+\.\C[3]...Oddycha.
+Wygląda na to, że zemdlała.
 ##
 
 {Sara}
 #Message#
-\."What do I do... What do I do..."
+\."Co zrobić... Co ja mam zrobić..."
 ##
 
 
@@ -99,16 +99,16 @@ It looks like she fainted.
 -----Page1-----
 {N/A}
 #Message#
-\C[3]There's a key on the floor.
+\C[3]Na podłodze leży klucz.
 ##
 
 #Message#
-\.\C[3]Obtained \C[2]Room Key\C[3].
+\.\C[3]Pozyskano \C[2]Klucz do pokoju\C[3].
 ##
 
 {Sara}
 #Message#
-\."Why is this here...?"
+\."Co on tutaj robi...?"
 ##
 
 
@@ -116,7 +116,7 @@ It looks like she fainted.
 -----Page1-----
 {N/A}
 #Message#
-\C[3]The key to Sara's room.
+\C[3]Klucz do pokoju Sary.
 ##
 
 
@@ -130,7 +130,7 @@ It looks like she fainted.
 -----Page2-----
 {N/A}
 #Message#
-\.\C[3]A wall-mounted TV.
+\.\C[3]Wiszący telewizor.
 ##
 
 
@@ -144,7 +144,7 @@ It looks like she fainted.
 -----Page2-----
 {N/A}
 #Message#
-\.\C[3]A photo of my grandfather who died when I was young.
+\.\C[3]Zdjęcie dziadka, który umarł gdy byłam mała.
 ##
 
 
@@ -158,7 +158,7 @@ It looks like she fainted.
 -----Page2-----
 {N/A}
 #Message#
-\.\C[3]A photo from a family trip to Hokkaido.
+\.\C[3]Zdjęcie z rodzinnej wycieczki do Hokkaido.
 ##
 
 
@@ -172,8 +172,8 @@ It looks like she fainted.
 -----Page2-----
 {N/A}
 #Message#
-\.\C[3]Bookshelves. Ranging from dad's complicated books
-to manga and magazines, they're not at all organized.
+\.\C[3]Półki z książkami. Znajdzie się tam skomplikowane książki
+ojca czy mangi i magazyny, są strasznie nieposortowane.
 ##
 
 
@@ -187,7 +187,7 @@ to manga and magazines, they're not at all organized.
 -----Page2-----
 {N/A}
 #Message#
-\.\C[3]Fancy containers.
+\.\C[3]Fajne pojemniki.
 ##
 
 
@@ -201,7 +201,7 @@ to manga and magazines, they're not at all organized.
 -----Page2-----
 {N/A}
 #Message#
-\.\C[3]A washed bottle, in its usual location.
+\.\C[3]Umyta butelka. Jest na swoim miejscu.
 ##
 
 
@@ -215,7 +215,7 @@ to manga and magazines, they're not at all organized.
 -----Page2-----
 {N/A}
 #Message#
-\.\C[3]A door leading to my parents' room.
+\.\C[3]Drzwi prowadzące do pokoju rodziców.
 ##
 
 
@@ -223,6 +223,6 @@ to manga and magazines, they're not at all organized.
 -----Page1-----
 {N/A}
 #Message#
-\.\C[3]The door to the hallway.
+\.\C[3]Drzwi do korytarza.
 ##
 
